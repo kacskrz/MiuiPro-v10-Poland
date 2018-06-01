@@ -1562,4 +1562,9 @@
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
   <string name="move_button_text">Przełącz</string>
+  <string name="alert_windows_notification_channel_group_name">Wyświetlanie nad innymi aplikacjami</string>
+  <string name="alert_windows_notification_channel_name">%s wyświetla się nad innymi aplikacjami</string>
+  <string name="alert_windows_notification_message">Jeśli nie chcesz, by %s używał tej funkcji, dotknij tu, aby otworzyć ustawienia, i wyłącz tą opcję.</string>
+  <string name="alert_windows_notification_title">%s wyświetla się nad innymi aplikacjami</string>
+  <string name="alert_windows_notification_turn_off_action">WYŁĄCZ</string>
 </resources>
