@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MiCloudSync</string>
+  <string name="error_data_in_transfer">Synchronizacja zakończy się za %s godzin.</string>
+  <string name="error_data_in_transfer_title">Chmura Xiaomi niedostępna</string>
+  <string name="error_forbidden">Synchronizacja została wyłączona z powodu problemów z Twoim kontem Xiaomi.</string>
+  <string name="error_not_acceptable">Synchronizacja została wyłączona.</string>
+  <string name="error_title">"Nie udało się zsynchronizować"</string>
+  <string name="error_unauthorized">Synchronizacja została wyłączona z powodu zbyt wielu prób zalogowania.</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+</resources>

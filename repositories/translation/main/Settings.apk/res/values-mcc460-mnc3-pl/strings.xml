@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radioInfo_menu_viewADN">Wyświetl książkę adresową karty SIM</string>
+    <string name="security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę karty SIM, blokadę magazynu danych logowania.</string>
+    <string name="sim_lock_settings">Ustawienia blokady karty SIM</string>
+    <string name="sim_lock_settings_category">Ustaw blokadę SIM</string>
+    <string name="sim_lock_settings_title">Blokada karty SIM</string>
+    <string name="sim_pin_toggle">Zablokuj kartę SIM</string>
+    <string name="sim_pin_change">Zmień PIN do karty SIM</string>
+    <string name="sim_enter_pin">Podaj PIN</string>
+    <string name="sim_enable_sim_lock">Zablokuj kartę SIM</string>
+    <string name="sim_disable_sim_lock">Odblokuj kartę SIM</string>
+    <string name="sim_enter_old">Podaj stary kod PIN</string>
+    <string name="sim_enter_new">Nowy kod PIN karty SIM</string>
+    <string name="sim_change_pin">Kod PIN karty SIM</string>
+    <string name="sim_change_succeeded">Kod PIN karty SIM został pomyślnie zmieniony</string>
+    <string name="sim_lock_failed">"Nie można zmienić stanu blokady karty SIM.
+Wpisany kod PIN może być błędny."</string>
+    <string name="sim_change_failed_enable_sim_lock">"Nie udało się zmienić kodu PIN karty SIM.
+ Aktywuj blokadę SIM."</string>
+    <string name="sim_lock_change_not_supported">"Nie udało się zmienić blokady karty SIM.
+ Karta SIM jej nie wspiera."</string>
+</resources>

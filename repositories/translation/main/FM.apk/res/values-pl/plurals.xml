@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">%1$d stacji znaleziono</item>
+        <item quantity="zero">%1$d stacji znaleziono</item>
+        <item quantity="one">%1$d stację znaleziono</item>
+        <item quantity="two">%1$d stacji znaleziono</item>
+        <item quantity="few">%1$d stacji znaleziono</item>
+        <item quantity="many">%1$d stacji znaleziono</item>
+    </plurals>
+    <plurals name="notification_rec_content">
+        <item quantity="other">%d FM nagrano</item>
+        <item quantity="one">%d FM nagrano</item>
+    </plurals>
+</resources>

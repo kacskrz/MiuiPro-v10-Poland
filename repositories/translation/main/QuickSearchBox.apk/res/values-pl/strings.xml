@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wyszukiwarka</string>
+    <string name="search_button">Szukaj</string>
+    <string name="hot_search">Popularne</string>
+    <string name="search_history">Historia</string>
+    <string name="loading">Ładowanie..</string>
+    <string name="show_more">Pokaż więcej</string>
+    <string name="clear_history">Wyczyść historię</string>
+    <string name="search_in_web">Wyszukaj w sieci</string>
+    <string name="search_apps">Wyszukaj aplikacje</string>
+    <string name="search_videos">Wyszukaj wideo</string>
+    <string name="search_in_app_store">Wyszukaj w Mi App Store</string>
+    <string name="send_secret_code">Wyślij kod</string>
+    <string name="xiaomi_search_label">Rezultaty</string>
+    <string name="search_suggestion">Sugestie</string>
+    <string name="distance_unit_meter">m</string>
+    <string name="distance_unit_kilometer">km</string>
+    <string name="search_sources">Elementy do przeszukiwania</string>
+    <string name="corpus_label_web">Rezultaty z Internetu</string>
+    <string name="corpus_description_web">Zakładki</string>
+    <string name="corpus_label_apps">Aplikacje</string>
+    <string name="corpus_description_apps">Zainstalowane aplikacje</string>
+    <string name="cta_declaration_title">Warunki użytkowania</string>
+    <string name="cta_declaration">"Ta funkcjonalność potrzebuje dostępu do Internetu, Twojej lokalizacji, listy połączeń oraz kontaktów, by pracować normalnie."</string>
+    <string name="cta_declaration_ignore">"Nie pokazuj ponownie"</string>
+    <string name="cta_declaration_positive_text">Zgadzam się</string>
+    <string name="cta_declaration_negative_text">"Nie zgadzam się"</string>
+    <string name="default_hint">Szukaj aplikacji, muzyki, wideo, plików…</string>
+    <string name="network_unavailable">"Nie można połączyć się z siecią"</string>
+    <string name="connect_and_retry">Połącz się z siecią i spróbuj ponownie</string>
+    <string name="applications_search_label">Aplikacje</string>
+    <string name="settings_description">Nazwy zainstalowanych aplikacji</string>
+    <string name="appindex_search_label">Funkcje aplikacji</string>
+    <string name="appindex_description">Funkcje zainstalowanych aplikacji</string>
+    <string name="application_desc">Aplikacja</string>
+    <string name="web_search_results">Baidu</string>
+    <string name="search_group_fold">Ukryj</string>
+    <string name="search_group_unfold">Więcej</string>
+    <string name="common_setting">Ustawienia</string>
+    <string name="recent_apps">Ostatnie aplikacje</string>
+    <string name="recent_apps_filter">"Ukryj aplikacje, których nie używam"</string>
+    <string name="recent_edit">Edytuj</string>
+    <string name="recent_edit_done">Zrobione</string>
+    <string name="recent_delete_title">Ukryj aplikacje</string>
+    <string name="recent_delete_content">"Ukryć te aplikacje teraz?
+Możesz to zmienić w Ustawieniach -> Zainstalowane aplikacje -> Wyszukiwarka"</string>
+    <string name="recent_delete_negative">Zakończ</string>
+    <string name="recent_delete_positive">OK</string>
+    <string name="recent_close_title">Wyłącz funkcjonalność teraz</string>
+    <string name="recent_close_content">"Wyłączyć teraz?
+Możesz to zmienić w Ustawieniach -> Zainstalowane aplikacje -> Wyszukiwarka"</string>
+    <string name="entrance_setting">Otwieranie wyszukiwarki</string>
+    <string name="swipe_up_title">Przesuń do góry</string>
+    <string name="swipe_up_summary">Przesuń do góry, by otworzyć wyszukiwarkę</string>
+    <string name="suggest_open_app_failed">"Nie można otworzyć aplikacji"</string>
+    <string name="top_clicked">Częste przedmioty</string>
+    <string name="search_title_quicksearchbox">@string/app_name</string>
+    <string name="search_keyword_quicksearchbox">Wyszukiwarka</string>
+    <string name="search_path_quicksearchbox">Ustawienia/Zainstalowane aplikacje/Wyszukiwarka</string>
+    <string name="permission_prompt_title">Chcesz więcej?</string>
+    <string name="permission_prompt_detail">Szukaj wśród filmów, książek, muzyki i wielu innych.</string>
+    <string name="permission_prompt_start">Zgoda</string>
+    <string name="permission_prompt_started_info">"Pozwoliłeś na globalne wyszukiwanie"</string>
+    <string name="switch_prompt_title">"Nie możesz znaleźć %s?"</string>
+    <string name="switch_prompt_ignore">Ignoruj</string>
+    <string name="switch_prompt_set">Wyświetl opcje</string>
+    <string name="switch_prompt_title_default">"Nie możesz znaleźć tego, czego potrzebujesz?"</string>
+    <string name="switch_online">Online</string>
+    <string name="switch_notes">Notatki</string>
+    <string name="switch_application">Aplikacje</string>
+    <string name="switch_file">Pliki</string>
+    <string name="switch_browser">Przeglądarka</string>
+    <string name="switch_mms">Wiadomości</string>
+    <string name="switch_contacts">Kontakty</string>
+    <string name="switch_setting">Ustawienia</string>
+    <string name="switch_email">Poczta</string>
+    <string name="recent_function">Funkcjonalności</string>
+    <string name="recent_filter_functions">Wyłączone funkcjonalności</string>
+    <string name="update_title">Aktualizacja jest dostępna</string>
+    <string name="updated_title">MIUI jest aktualne!</string>
+    <string name="update_version_alpha">Alfa</string>
+    <string name="update_version_dev">Beta</string>
+    <string name="update_version_stable">Stabilna</string>
+    <string name="update_right_now">Aktualizacja</string>
+    <string name="update_check">Sprawdź aktualizacje</string>
+    <string name="app_loaction">Znajdź na ekranie domowym</string>
+    <string name="local_app">Aplikacje</string>
+    <string name="local_setting">Ustawienia</string>
+    <string name="mina_name">Bezpośrednie aplikacje</string>
+    <string name="pull_to_input">Pociągnij w dół, aby wyświetlić pasek wyszukiwania</string>
+    <string name="release_to_input">Zwolnij, aby wyświetlić pasek wyszukiwania</string>
+    <string name="choose_search_engine">Wybierz domyślną wyszukiwarkę Internetu</string>
+    <string name="setting_other">Inne</string>
+    <string name="setting_version">Wersja aplikacji</string>
+    <string name="setting_version_title">Wersja aplikacji</string>
+    <string name="barcode_uninstalled">Skaner jest odinstalowany</string>
+    <string name="barcode_to_install">Zainstaluj Skaner, aby kontynuować</string>
+    <string name="barcode_install_cancel">Zakończ</string>
+    <string name="barcode_install_confirm">Zainstaluj</string>
+    <string name="barcode_system_unmatch">Zaktualizuj MIUI, zanim zainstalujesz Skaner</string>
+    <string name="barcode_install_back">Wróć</string>
+    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+    <string name="apps_search_activity" />
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="default_search_domain">.google.com</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
+    <string name="xiaomi_homepage_suggest">local</string>
+    <string name="xiaomi_homepage_hint">local</string>
+    <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
+    <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>
+    <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
+    <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
+    <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+    <string name="xiaomi_source_url">local</string>
+    <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
+    <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\", \"com.miui.milivetalk\", \"com.android.phone\", \"com.miui.cloudservice\", \"com.miui.yellowpage\", \"com.miui.securitycore\", \"com.duokan.reader\", \"com.xiaomi.vip\", \"com.miui.calculator\", \"com.android.providers.downloads.ui\", \"com.mi.misupport\" )</string>
+    <string name="search_widget">Szukaj</string>
+    <string name="remove_from_history">Chcesz usunąć element z historii wyszukiwania?</string>
+    <string name="remove_from_history_failed">"Nie można usunąć elementu z historii."</string>
+    <string name="corpus_selection_heading">Szukaj</string>
+    <string name="corpus_label_global">Wszystko</string>
+    <string name="corpus_hint_apps">Szukaj aplikacji</string>
+    <string name="menu_settings">Szukaj ustawień</string>
+    <string name="search_settings">Szukaj ustawień</string>
+    <string name="google_settings_category_title">Szukaj w Google</string>
+    <string name="device_settings_category_title">Wyczyść skróty</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources_summary">Wybierz to, co mam wyszukać w telefonie</string>
+    <string name="clear_shortcuts">Wyczyść skróty</string>
+    <string name="clear_shortcuts_summary">Wyczyść skróty do ostatnio wybranych propozycji wyszukiwania</string>
+    <string name="clear_shortcuts_prompt">"Chcesz wyczyścić skróty do ostatnio wybranych propozycji?
+
+Aby wyczyścić historię Przeglądarki, użyj ustawień Przeglądarki."</string>
+    <string name="clear_shortcuts_agree">Wyczyść skróty</string>
+    <string name="clear_shortcuts_disagree">"Nie czyść skrótów"</string>
+    <string name="recently_shortcut_label">Ostatnie skróty</string>
+    <string name="menu_help">Pomoc</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Wyszukiwarka Google</string>
+    <string name="google_search_hint">Wyszukiwarka Google</string>
+    <string name="google_search_description">Sugestie wyszukiwarki Google</string>
+    <string name="voice_search_hint_title">Spróbuj powiedzieć:</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
+</resources>

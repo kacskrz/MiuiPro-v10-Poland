@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Zmień nazwę</item>
+        <item>Usuń</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Aparat</item>
+        <item>Galeria</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Wg daty utworzenia</item>
+        <item>Wg daty modyfikacji</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Imię</item>
+        <item>Pseudonim</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Firma</item>
+        <item>IM</item>
+        <item>Telefon SIP</item>
+        <item>Urodziny</item>
+        <item>Strona WWW</item>
+        <item>Adres</item>
+        <item>Notatka</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Mała</item>
+        <item>Średnia</item>
+        <item>Duża</item>
+        <item>Największa</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Witaj w Notatkach
+"</item>
+        <item>"Utwórz notatkę
+Dotknij plusa, aby utworzyć notatkę."</item>
+        <item>"Wybierz szablon
+Użyj szablonu, aby zmienić tło oraz styl swoich notatek.
+Dotknij prawego przycisku na dole notatki, aby wybrać szablon."</item>
+        <item>"Utwórz folder
+Organizuj swoje notatki w folderach.
+Istnieją 2 sposoby na utworzenie folderu:
+1. Dotknij ikony folderu w prawym górnym rogu, a następnie dotknij plusa.
+2. Przytrzymaj notatkę do momentu pojawienia się menu i wybierz \"Przenieś do\" - \"Nowy folder\"."</item>
+        <item>"Ukryj notatki
+Chroń prywatne notatki za pomocą hasła.
+Istnieją 2 sposoby na ukrycie notatki:
+1. Dotknij przycisku \"Więcej\" w prawym górnym rogu notatki i wybierz \"Ukryj\".
+2. Przytrzymaj notatkę do momentu pojawienia się menu i wybierz \"Ukryj\"."</item>
+        <item>"A także wiele więcej funkcji!
+  - Zdjęcia, checklisty, przypomnienia.
+
+Dodaj zdjęcia
+Dotknij ikony zdjęcia na dole notatki, aby dodać zdjęcie.
+Możesz zrobić zdjęcie lub wybrać je z Galerii.
+Gdy notatka zawiera zdjęcie, będzie ono wykorzystane jako miniatura notatki w widoku siatki.
+
+Utwórz checklistę
+Pole wyboru jest istotnym elementem listy \"do zrobienia\".
+Dotknij ikony pola wyboru na dole notatki, aby dodać pole wyboru dla akapitu.
+Zaznacz pole wyboru, gdy zadanie jest wykonane.
+
+Ustaw przypomnienia
+Ustawiaj przypomnienia bezpośrednio w notatkach.
+Dotknij przycisk \"Więcej\" w prawym górnym rogu notatki, wybierz \"Przypomnienia\" i ustaw czas.
+"</item>
+    </string-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+	<string-array name="first_guide_contents">
+        <item>Witaj w Notatkach!</item>
+        <item>Twórz notatki</item>
+        <item>Możesz użyć tekstu, obrazków i nagrań głosowych w Twoich notatkach. Szeroki wybór styli i czcionek sprawi, że twoje proste notatki będą wyglądały oszałamiająco.</item>
+        <item>Checklisty i przypomnienia przychodzą, aby pomóc, gdy potrzebujesz podstawowych i skutecznych narzędzi do planowania następnej podróży bądź układania listy zakupów.</item>
+        <item>Dziel się notatkami</item>
+        <item>Możesz generować automatyczne przewijanie zrzutów ekranu w Notatkach i udostępniać je znajomym.</item>
+        <item>Twórz i przełączaj się pomiędzy folderami</item>
+        <item>Naciśnij strzałkę poniżej, aby utworzyć nowy folder lub przełączyć między już istniejącymi.</item>
+     </string-array>
+	 <string-array name="second_guide_contents">
+        <item>Notatki głosowe</item></item>
+        <item>Twórz notatki, korzystając z wbudowanego mechanizmu konwersji głosu na tekst, dołączając oryginalne zapisy głosu do notatek.</item>
+     </string-array>
+</resources>

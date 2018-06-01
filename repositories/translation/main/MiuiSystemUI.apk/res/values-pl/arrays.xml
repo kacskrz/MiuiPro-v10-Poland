@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="animator_duration_scale_entries">
+    <item>Animacje wyłączone</item>
+    <item>Skala animacji 0.5x</item>
+    <item>Skala animacji 1x</item>
+    <item>Skala animacji 1.5x</item>
+    <item>Skala animacji 2x</item>
+    <item>Skala animacji 5x</item>
+    <item>Skala animacji 10x</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Standardowy limit</item>
+    <item>Brak procesów w tle</item>
+    <item>Co najwyżej 1 proces</item>
+    <item>Co najwyżej 2 procesy</item>
+    <item>Co najwyżej 3 procesy</item>
+    <item>Co najwyżej 4 procesy</item>
+  </string-array>
+  <string-array name="aqi_title">
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+  </string-array>
+  <string-array name="aqi_title_append">
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+    <item>%1$s</item>
+  </string-array>
+  <string-array name="aqi_title_prefix">
+    <item>IJP %1$s</item>
+    <item>IJP %1$s</item>
+    <item>IJP %1$s</item>
+    <item>IJP %1$s</item>
+    <item>IJP %1$s</item>
+    <item>IJP %1$s</item>
+    <item>IJP %1$s</item>
+  </string-array>
+  <string-array name="battery_labels">
+    <item>0%</item>
+    <item>50%</item>
+    <item>100%</item>
+  </string-array>
+  <string-array name="battery_options">
+    <item>Always show percentage</item>
+    <item>Show percentage when charging (default)</item>
+    <item>Don\'t show this icon</item>
+  </string-array>
+  <string-array name="clock_options">
+    <item>Show hours, minutes, and seconds</item>
+    <item>Show hours and minutes (default)</item>
+    <item>Don\'t show this icon</item>
+  </string-array>
+  <string-array name="color_mode_descriptions">
+    <item>Ulepszone kolory</item>
+    <item>Kolory naturalne widziane przez oczy</item>
+    <item>Kolory zoptymalizowane dla zawartości cyfrowej</item>
+  </string-array>
+  <string-array name="color_mode_names">
+    <item>Vibrant (domyślny)</item>
+    <item>Naturalny</item>
+    <item>Standardowy</item>
+  </string-array>
+  <string-array name="debug_hw_overdraw_entries">
+    <item>Wyłączone</item>
+    <item>Pokaż przejaskrawione obszary</item>
+    <item>Pokaż obszary deuteranomalii</item>
+  </string-array>
+  <string-array name="enable_opengl_traces_entries">
+    <item>Brak</item>
+    <item>Logcat</item>
+    <item>Systrace (Grafika)</item>
+    <item>Przywołaj stos przy glGetError</item>
+  </string-array>
+  <string-array name="hdcp_checking_summaries">
+    <item>Nigdy nie sprawdzaj HDCP</item>
+    <item>Użyj sprawdzania HDCP tylko dla zawartości DRM</item>
+    <item>Zawsze sprawdzaj HDCP</item>
+  </string-array>
+  <string-array name="hdcp_checking_titles">
+    <item>Nigdy nie sprawdzaj</item>
+    <item>Sprawdź tylko zawartość DRM</item>
+    <item>Zawsze sprawdzaj</item>
+  </string-array>
+  <string-array name="miui_volume_timer_segments_title">
+    <item>Off</item>
+    <item>Half hour</item>
+    <item>1 hour</item>
+    <item>2 hours</item>
+    <item>8 Hours</item>
+  </string-array>
+  <string-array name="nav_bar_buttons">
+    <item>Clipboard</item>
+    <item>Keycode</item>
+    <item>Keyboard switcher</item>
+    <item>None</item>
+  </string-array>
+  <string-array name="nav_bar_layouts">
+    <item>Normal</item>
+    <item>Compact</item>
+    <item>Left-leaning</item>
+    <item>Right-leaning</item>
+  </string-array>
+  <string-array name="overlay_display_devices_entries">
+    <item>Brak</item>
+    <item>480p</item>
+    <item>480p (bezpieczne)</item>
+    <item>720p</item>
+    <item>720p (bezpieczne)</item>
+    <item>1080p</item>
+    <item>1080p (bezpieczne)</item>
+    <item>4K</item>
+    <item>4K (bezpieczne)</item>
+    <item>4K (przeskalowane)</item>
+    <item>4K (przeskalowany, bezpieczny)</item>
+    <item>720p, 1080p (podwójny ekran)</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Wyłączone</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
+  </string-array>
+  <string-array name="select_logd_size_summaries">
+    <item>Wyłączone</item>
+    <item>64kB na bufor logu</item>
+    <item>256kB na bufor logu</item>
+    <item>1MB na bufor logu</item>
+    <item>4MB na bufor logu</item>
+    <item>16MB na bufor logu</item>
+  </string-array>
+  <string-array name="select_logd_size_titles">
+    <item>Wyłączone</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
+    <item>4MB</item>
+    <item>16MB</item>
+  </string-array>
+  <string-array name="select_logd_system_levels">
+    <item>Wyłączone</item>
+    <item>Błędy</item>
+    <item>Ostrzeżenia</item>
+    <item>Informacje</item>
+    <item>Debugowanie</item>
+    <item>Verbose</item>
+  </string-array>
+  <string-array name="show_non_rect_clip_entries">
+    <item>Wyłączone</item>
+    <item>Narysuj nie-prostokątny obszar klipu na niebiesko</item>
+    <item>Podświetl na zielono przetestowane polecenia rysowania</item>
+  </string-array>
+  <string-array name="track_frame_time_entries">
+    <item>Wyłączone</item>
+    <item>Na ekranie jako paski</item>
+    <item>W powłoce ADB dumpsys gfxinfo</item>
+  </string-array>
+  <string-array name="transition_animation_scale_entries">
+    <item>Animacje wyłączone</item>
+    <item>Skala animacji 0.5x</item>
+    <item>Skala animacji 1x</item>
+    <item>Skala animacji 1.5x</item>
+    <item>Skala animacji 2x</item>
+    <item>Skala animacji 5x</item>
+    <item>Skala animacji 10x</item>
+  </string-array>
+  <string-array name="tts_rate_entries">
+    <item>Bardzo wolno</item>
+    <item>Wolno</item>
+    <item>Normalnie</item>
+    <item>Szybko</item>
+    <item>Szybciej</item>
+    <item>Bardzo szybko</item>
+    <item>Ekspresowo</item>
+    <item>Ekstremalnie szybko</item>
+    <item>Najszybciej</item>
+  </string-array>
+  <string-array name="tts_rate_values">
+    <item>60</item>
+    <item>80</item>
+    <item>100</item>
+    <item>150</item>
+    <item>200</item>
+    <item>250</item>
+    <item>300</item>
+    <item>350</item>
+    <item>400</item>
+  </string-array>
+  <string-array name="usb_configuration_titles">
+    <item>Ładowanie</item>
+    <item>MTP (Media Transfer Protocol)</item>
+    <item>PTP (Picture Transfer Protocol)</item>
+    <item>RNDIS (USB Ethernet)</item>
+    <item>Źródło dźwięku</item>
+    <item>MIDI</item>
+  </string-array>
+  <string-array name="weather_type">
+    <item>Pogodnie</item>
+    <item>Pochmurno</item>
+    <item>Zachmurzenie</item>
+    <item>Mglisto</item>
+    <item>Ulewne deszcze</item>
+    <item>Ulewa</item>
+    <item>Ulewa</item>
+    <item>Burza z piorunami</item>
+    <item>Deszczowo</item>
+    <item>Intensywne opady deszczu</item>
+    <item>Umiarkowany deszcz</item>
+    <item>Przelotne opady</item>
+    <item>Deszcz ze śniegiem</item>
+    <item>Burza śnieżna</item>
+    <item>Śnieg</item>
+    <item>Duże opady śniegu</item>
+    <item>Umiarkowane opady śniegu</item>
+    <item>Przelotne opady śniegu</item>
+    <item>Silna burza piaskowa</item>
+    <item>Burza piaskowa</item>
+    <item>Piasek</item>
+    <item>Wietrznie</item>
+    <item>Grad</item>
+    <item>Kurz</item>
+    <item>Zamglenie</item>
+    <item>Marznący deszcz</item>
+    <item />
+  </string-array>
+  <string-array name="wifi_status">
+    <item />
+    <item>Skanowanie…</item>
+    <item>Łączenie…</item>
+    <item>Autoryzacja…</item>
+    <item>Pobieranie adresu IP…</item>
+    <item>Połączono</item>
+    <item>Zawieszono</item>
+    <item>Rozłączanie…</item>
+    <item>Rozłączono</item>
+    <item>Nieudane</item>
+    <item>Zablokowana</item>
+    <item>Tymczasowe unikanie kiepskiego połączenia</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item />
+    <item>Skanowanie…</item>
+    <item>Łączenie z %1$s…</item>
+    <item>Autoryzacja %1$s…</item>
+    <item>Pobieranie adresu IP z %1$s…</item>
+    <item>Połączono z %1$s</item>
+    <item>Zawieszono</item>
+    <item>Rozłączanie z %1$s…</item>
+    <item>Rozłączono</item>
+    <item>Nieudane</item>
+    <item>Zablokowana</item>
+    <item>Tymczasowe unikanie kiepskiego połączenia</item>
+  </string-array>
+  <string-array name="window_animation_scale_entries">
+    <item>Animacje wyłączone</item>
+    <item>Skala animacji 0.5x</item>
+    <item>Skala animacji 1x</item>
+    <item>Skala animacji 1.5x</item>
+    <item>Skala animacji 2x</item>
+    <item>Skala animacji 5x</item>
+    <item>Skala animacji 10x</item>
+  </string-array>
+</resources>

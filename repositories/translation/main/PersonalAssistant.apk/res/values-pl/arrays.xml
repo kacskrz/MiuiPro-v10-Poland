@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stock_color_schema">
+        <item>Czerwony - w górę, zielony - w dół</item>
+        <item>Zielony - w górę, czerwony - w dół</item>
+    </string-array>
+    <string-array name="stock_title_schema">
+        <item>Podświetl nazwę</item>
+        <item>Podświetl kod</item>
+    </string-array>
+</resources>

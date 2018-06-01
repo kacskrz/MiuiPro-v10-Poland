@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Godzin temu</item>
+        <item quantity="one">Godzinę temu</item>
+        <item quantity="few">Godziny temu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pół godziny temu</item>
+        <item quantity="one">Pół godziny temu</item>
+        <item quantity="few">Pół godziny temu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">W godzinę</item>
+        <item quantity="one">W godzinę</item>
+        <item quantity="few">W godzinę</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">W pół godziny</item>
+        <item quantity="one">W pół godziny</item>
+        <item quantity="few">W pół godziny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+        <item quantity="one">Natychmiast</item>
+        <item quantity="few">Natychmiast</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">w ciągu %1$d min</item>
+        <item quantity="one">w ciągu %1$d min</item>
+        <item quantity="few">w ciągu %1$d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+        <item quantity="one">Teraz</item>
+        <item quantity="few">Teraz</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%1$d min temu</item>
+        <item quantity="one">%1$d min temu</item>
+        <item quantity="few">%1$d min temu</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Usunąć %1$d kontaktów?</item>
+        <item quantity="one">Usunąć %1$d kontakt?</item>
+        <item quantity="few">Usunąć %1$d kontakty?</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Usuń %1$d kontaktów</item>
+        <item quantity="one">Usuń %1$d kontakt</item>
+        <item quantity="few">Usuń %1$d kontakty</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Dzwonił %1$d razy</item>
+        <item quantity="one">Dzwonił %1$d raz</item>
+        <item quantity="few">Dzwonił %1$d razy</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$d kontaktów lub zdjęć nie zostało zsynchronizowanych</item>
+        <item quantity="one">%1$d kontakt lub zdjęcie nie zostało zsynchronizowane</item>
+        <item quantity="few">%1$d kontakty lub zdjęcia nie zostały zsynchronizowane</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Usunąć %1$d kontaktów z karty SIM?</item>
+        <item quantity="one">Usunąć %1$d kontakt z karty SIM?</item>
+        <item quantity="few">Usunąć %1$d kontakty z karty SIM?</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d kontaktów</item>
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d kontaktów wczytano</item>
+        <item quantity="one">%1$d kontakt wczytano</item>
+        <item quantity="few">%1$d kontakty wczytano</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Zablokować %1$d numerów telefonu?</item>
+        <item quantity="one">Zablokować %1$d numer telefonu?</item>
+        <item quantity="few">Zablokować %1$d numery telefonu?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokować %1$d numerów telefonu?</item>
+        <item quantity="one">Odblokować %1$d numer telefonu?</item>
+        <item quantity="few">Odblokować %1$d numery telefonu?</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">Karta SIM może pomieścić %1$d kontaktów.</item>
+        <item quantity="one">Karta SIM może pomieścić %1$d kontakt.</item>
+        <item quantity="few">Karta SIM może pomieścić %1$d kontakty.</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Dodano %1$d kontaktów</item>
+        <item quantity="one">%1$d kontakt dodano</item>
+        <item quantity="few">Dodano %1$d kontakty</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d osób</item>
+        <item quantity="one">%1$d osoba</item>
+        <item quantity="few">%1$d osoby</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d numerów</item>
+        <item quantity="one">%1$d numer</item>
+        <item quantity="few">%1$d numery</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">Znaleziono %1$d elementów</item>
+        <item quantity="one">Znaleziono %1$d element</item>
+        <item quantity="few">Znaleziono %1$d elementy</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d kontaktów</item>
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d e-maili</item>
+        <item quantity="one">%1$d e-mail</item>
+        <item quantity="few">%1$d e-maile</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d numerów</item>
+        <item quantity="one">%1$d numer</item>
+        <item quantity="few">%1$d numery</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Znaleziono: %d</item>
+        <item quantity="one">Znaleziono: 1</item>
+        <item quantity="few">Znaleziono: %d</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontaktów</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%d kontakty</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktów z numerami telefonów</item>
+        <item quantity="one">1 kontakt z numerem telefonu</item>
+        <item quantity="few">%d kontakty z numerami telefonów</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">scalono z %0$d źródeł</item>
+        <item quantity="one">nie scalono</item>
+        <item quantity="few">scalono z %0$d źródeł</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d wiadomości głosowych</item>
+        <item quantity="one">Wiadomość głosowa</item>
+        <item quantity="few">%1$d wiadomości głosowych</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d wybranych</item>
+        <item quantity="one">%1$d wybrany</item>
+        <item quantity="few">%1$d wybrane</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d osób z %2$s</item>
+        <item quantity="one">%1$d osoba z %2$s</item>
+        <item quantity="few">%1$d osoby z %2$s</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grup</item>
+        <item quantity="one">1 grupa</item>
+        <item quantity="few">%0$d grupy</item>
+    </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">%1$d elementów pozostało</item>
+        <item quantity="one">%1$d element pozostał</item>
+        <item quantity="few">%1$d elementy pozostały</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d wybranych</item>
+        <item quantity="one">%1$d wybrany</item>
+        <item quantity="few">%1$d wybrane</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d ulubionych</item>
+        <item quantity="one">%1$d ulubiony</item>
+        <item quantity="few">%1$d ulubione</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d ulubionych</item>
+        <item quantity="one">%1$d ulubiony</item>
+        <item quantity="few">%1$d ulubione</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d ostatnich kontaktów</item>
+        <item quantity="one">%1$d ostatni kontakt</item>
+        <item quantity="few">%1$d ostatnie kontakty</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d ostatnich kontaktów</item>
+        <item quantity="one">%1$d ostatni kontakt</item>
+        <item quantity="few">%1$d ostatnie kontakty</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Znaleziono: %d</item>
+        <item quantity="one">Znaleziono: 1</item>
+        <item quantity="few">Znaleziono: %d</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%1$d osób</item>
+        <item quantity="one">%1$d osoba</item>
+        <item quantity="few">%1$d osoby</item>
+    </plurals>
+</resources>

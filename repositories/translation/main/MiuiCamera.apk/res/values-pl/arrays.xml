@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="denoise_entries"> 
+        <item>Domyślnie</item> 
+        <item>Włączona</item> 
+		<item>Wyłączona</item> 
+    </string-array> 
+</resources>

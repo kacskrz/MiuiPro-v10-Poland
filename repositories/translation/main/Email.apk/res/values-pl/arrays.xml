@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Sty</item>
+        <item>Lut</item>
+        <item>Mar</item>
+        <item>Kwi</item>
+        <item>Maj</item>
+        <item>Cze</item>
+        <item>Lip</item>
+        <item>Sie</item>
+        <item>Wrz</item>
+        <item>Paź</item>
+        <item>Lis</item>
+        <item>Gru</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Wieczorem</item>
+        <item>Jutro</item>
+        <item>W weekend</item>
+        <item>Za tydzień</item>
+        <item>Za miesiąc</item>
+        <item>Wybierz datę</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Odpowiedz</item>
+        <item>Odpowiedz wszystkim</item>
+        <item>Przekaż dalej</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Bardzo mały tekst</item>
+        <item>Mały tekst</item>
+        <item>Tekst normalnej wielkości</item>
+        <item>Duży tekst</item>
+        <item>Wielki tekst</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Ostatnio czytane</item>
+        <item>Format</item>
+        <item>Nazwa</item>
+        <item>Nadawca</item>
+        <item>Data otrzymania</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Najczęściej używane</item>
+        <item>Wszystkie foldery</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Nowsza wiadomość</item>
+        <item>Starsza wiadomość</item>
+        <item>Odebranych</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adres:</item>
+        <item>Tel.:</item>
+        <item>Imię:</item>
+        <item>E-mail:</item>
+        <item>Kom.:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Kod pocztowy:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Dziękuję,</item>
+        <item>Pozdrawiam</item>
+        <item>Wysłano z mojego</item>
+        <item>Oryginalna treść e-mail</item>
+        <item>Wysłano z mojego</item>
+        <item>Wysłano z</item>
+        <item>Od</item>
+        <item>Ta wiadomość e-mail</item>
+        <item>Uwaga</item>
+        <item>Oświadczenie</item>
+    </string-array>
+</resources>

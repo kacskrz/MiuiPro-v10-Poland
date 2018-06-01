@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tag_flight_holder" />
+    <item type="id" name="tag_group_holder" />
+    <item type="id" name="tag_movie_holder" />
+    <item type="id" name="tag_train_holder" />
+</resources>

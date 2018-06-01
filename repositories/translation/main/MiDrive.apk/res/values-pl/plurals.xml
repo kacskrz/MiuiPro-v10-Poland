@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Usunąć %1$d plików</item>
+        <item quantity="zero">Usunąć %1$d plików</item>
+        <item quantity="one">Usunąć %1$d plik</item>
+        <item quantity="two">Usunąć %1$d plików</item>
+        <item quantity="few">Usunąć %1$d plików</item>
+        <item quantity="many">Usunąć %1$d plików</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" i %1$d folderów?"</item>
+        <item quantity="zero">" i %1$d folderów?"</item>
+        <item quantity="one">" i %1$d folder?"</item>
+        <item quantity="two">" i %1$d folderów?"</item>
+        <item quantity="few">" i %1$d folderów?"</item>
+        <item quantity="many">" i %1$d folderów?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d elementów</item>
+        <item quantity="zero">%d elementów</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elementów</item>
+        <item quantity="few">%d elementów</item>
+        <item quantity="many">%d elementów</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d plików do pobrania</item>
+        <item quantity="zero">%1$d plików do pobrania</item>
+        <item quantity="one">%1$d plik do pobrania</item>
+        <item quantity="two">%1$d plików do pobrania</item>
+        <item quantity="few">%1$d plików do pobrania</item>
+        <item quantity="many">%1$d plików do pobrania</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d plików do przesłania</item>
+        <item quantity="zero">%1$d plików do przesłania</item>
+        <item quantity="one">%1$d plik do przesłania</item>
+        <item quantity="two">%1$d plików do przesłania</item>
+        <item quantity="few">%1$d plików do przesłania</item>
+        <item quantity="many">%1$d plików do przesłania</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">%1$d plików do przeniesienia</item>
+        <item quantity="zero">%1$d plików do przeniesienia</item>
+        <item quantity="one">%1$d plik do przeniesienia</item>
+        <item quantity="two">%1$d plików do przeniesienia</item>
+        <item quantity="few">%1$d plików do przeniesienia</item>
+        <item quantity="many">%1$d plików do przeniesienia</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d wybranych</item>
+        <item quantity="zero">%1$d wybranych</item>
+        <item quantity="one">%1$d wybranych</item>
+        <item quantity="two">%1$d wybranych</item>
+        <item quantity="few">%1$d wybranych</item>
+        <item quantity="many">%1$d wybranych</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d elementów)</item>
+        <item quantity="zero"> (%1$d elementów)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elementów)</item>
+        <item quantity="few"> (%1$d elementów)</item>
+        <item quantity="many"> (%1$d elementów)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d elementów)</item>
+        <item quantity="zero"> (%1$d elementów)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elementów)</item>
+        <item quantity="few"> (%1$d elementów)</item>
+        <item quantity="many"> (%1$d elementów)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d elementów</item>
+        <item quantity="zero"> %1$d elementów</item>
+        <item quantity="one"> %1$d element</item>
+        <item quantity="two"> %1$d elementów</item>
+        <item quantity="few"> %1$d elementów</item>
+        <item quantity="many"> %1$d elementów</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minut temu</item>
+        <item quantity="zero">%1$d minut temu</item>
+        <item quantity="one">%1$d minutę temu</item>
+        <item quantity="two">%1$d minut temu</item>
+        <item quantity="few">%1$d minut temu</item>
+        <item quantity="many">%1$d minut temu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d godzin temu</item>
+        <item quantity="zero">%1$d godzin temu</item>
+        <item quantity="one">%1$d godzinę temu</item>
+        <item quantity="two">%1$d godzin temu</item>
+        <item quantity="few">%1$d godzin temu</item>
+        <item quantity="many">%1$d godzin temu</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="zero">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+        <item quantity="two">%1$d dni temu</item>
+        <item quantity="few">%1$d dni temu</item>
+        <item quantity="many">%1$d dni temu</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="zero">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="two">%1$d sekundy</item>
+        <item quantity="few">%1$d sekund</item>
+        <item quantity="many">%1$d sekund</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="zero">%1$d minut</item>
+        <item quantity="one">%1$d minutę</item>
+        <item quantity="two">%1$d minuty</item>
+        <item quantity="few">%1$d minut</item>
+        <item quantity="many">%1$d minut</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d godzin</item>
+        <item quantity="zero">%1$d godzin</item>
+        <item quantity="one">%1$d godzinę</item>
+        <item quantity="two">%1$d godziny</item>
+        <item quantity="few">%1$d godzin</item>
+        <item quantity="many">%1$d godzin</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="zero">%1$d dni</item>
+        <item quantity="one">%1$d dzień</item>
+        <item quantity="two">%1$d dni</item>
+        <item quantity="few">%1$d dni</item>
+        <item quantity="many">%1$d dni</item>
+    </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">"%1$d plików nie zostało przekazanych."</item>
+        <item quantity="one">"%1$d plik nie został przesłany."</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Usunąć %1$d folderów?</item>
+        <item quantity="one">Usunąć ten folder?</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Usunąć %1$d plików?</item>
+        <item quantity="one">Usunąć ten plik?</item>
+    </plurals>
+</resources>
