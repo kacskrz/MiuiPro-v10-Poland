@@ -499,11 +499,11 @@
   <string name="disable_notification_title">Ukryj powiadomienia</string>
   <string name="disable_overlays">Wyłącz nakładkę sprzętową</string>
   <string name="disable_overlays_summary">Zawsze używaj GPU do renderowania ekranu</string>
-  <string name="disable_vpn">Disable VPN</string>
+  <string name="disable_vpn">Wyłącz VPN</string>
   <string name="disabled">Wyłączone</string>
   <string name="disabled_by_admin">Wyłączone przez administratora</string>
   <string name="disabled_by_admin_summary_text">Kontrolowane przez administratora</string>
-  <string name="disconnect_vpn">Disconnect VPN</string>
+  <string name="disconnect_vpn">Rozłącz z VPN</string>
   <string name="dismount_storage">Nie</string>
   <string name="divider_menu_close">Zamknij</string>
   <string name="divider_menu_select_apps">Wybierz</string>
@@ -512,7 +512,7 @@
   <string name="dlg_confirm_kill_storage_users_title">Włącz nośnik USB</string>
   <string name="dlg_error_title">Operacja USB zakończona niepowodzeniem</string>
   <string name="dlg_ok">OK</string>
-  <string name="dnd_is_off">DND is off</string>
+  <string name="dnd_is_off">Nie przeszkadzać jest wyłączone</string>
   <string name="do_disclosure_generic">Urządzenie jest zarządzane przez twoją organizację</string>
   <string name="do_disclosure_with_name">Urządzenie jest zarządzane przez %s</string>
   <string name="do_not_silence">Nie milcz</string>
@@ -1264,7 +1264,7 @@
   <string name="quick_settings_dnd_priority_label">Tylko priorytety</string>
   <string name="quick_settings_done">Gotowe</string>
   <string name="quick_settings_drivemode_label">Tryb samochodowy</string>
-  <string name="quick_settings_dual_location_label">GPS</string>
+  <string name="quick_settings_dual_location_label">Dual GPS</string>
   <string name="quick_settings_edit_label">Edytuj</string>
   <string name="quick_settings_flashlight_label">Latarka</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
@@ -1762,4 +1762,12 @@
   <string name="zen_priority_introduction">Nie będziesz zakłócany przez dźwięki i wibracje, z wyjątkiem alarmów, przypomnień, zdarzeń i dzwoniących, które określisz. Ty</string>
   <string name="zen_silence_introduction">Blokuje to WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, wideo i gry.</string>
   <string name="zen_silence_introduction_voice">Blokuje to WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, wideo i gry. Nadal będzie można wykonywać połączenia telefoniczne.</string>
+  <string name="prompt_danger">Niebezpieczeństwo</string>
+  <string name="prompt_detecting">Wykrywanie</string>
+  <string name="prompt_safe">Bezpieczne</string>
+  <string name="prompt_unknown">Nieznane</string>
+  <string name="status_bar_safepay_risk">Znaleziono niebezpieczeństwo dla płatności</string>
+  <string name="status_bar_safepay_safe">Nie znaleziono niebezpieczeństwa dla płatności</string>
+  <string name="status_bar_safepay_scanning">Sprawdzanie środowiska płatności…</string>
+  <string name="status_bar_safepay_unknown">"Nie można sprawdzić środowiska płatności"</string>
 </resources>

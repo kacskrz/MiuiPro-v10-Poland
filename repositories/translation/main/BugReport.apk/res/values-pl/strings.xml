@@ -327,4 +327,5 @@
      <string name="feedback_status_submit_bbs_failed">"Nie udało się wysłać treści opinii"</string>
      <string name="feedback_status_submit_feedback_failed">"Nie udało się wysłać opinii"</string>
      <string name="feedback_status_upload_log_failed">"Nie udało się wgrać załącznika"</string>
+	 <string name="toast_loading_app_id">Zbieranie informacji…</string>
 </resources>

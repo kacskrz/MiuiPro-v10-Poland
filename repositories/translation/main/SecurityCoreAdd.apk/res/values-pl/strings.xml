@@ -385,5 +385,6 @@
   <string name="agree">Zgadzam się</string>
   <string name="disagree">"Nie zgadzam się"</string>
   <string name="net_work_notice">Kontrola rodzicielska musi łączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Te uprawnienia są wymagane, aby wysyłać informacje o poziomach naładowania baterii, liczbie kroków oraz lokalizacji do kontrolowanych urządzeń. Czy zgadzasz się na to?</string>
-  <string name="qq_login">Zaloguj się do QQ</string
+  <string name="qq_login">Zaloguj się do QQ</string>
+  <string name="this_function_can_not_use_in_second_space">Ta funkcja może zostać użyta tylko w pierwszej przestrzeni</string>
 </resources>

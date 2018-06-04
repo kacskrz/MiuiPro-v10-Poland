@@ -466,5 +466,5 @@
   <string name="pref_camera_ai_scene_title">Kamera AI</string>
   <string name="hint_ae_af_lock">Autofokus / autoekspozycja zostały zablokowane</string>
   <string name="accessibility_ai_scene_off">Kamera AI jest wyłączona</string>
-  <string name="accessibility_ai_scene_on">Kamera AI</string>
+  <string name="accessibility_ai_scene_on">Kamera AI jest włączona</string>
 </resources>
