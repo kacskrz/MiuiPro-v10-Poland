@@ -81,5 +81,5 @@
   <string name="sim_card_detecting_confirm_turn_on_network">Pozwalać na łączenie się z sieciami mobilnymi? Jeśli to zrobisz, karta SIM, którą włożysz, będzie używana do łączenia się z mobilnymi sieciami.</string>
   <string name="sim_card_detection_mobile_not_available">"Karta SIM nie może połączyć się z siecią"</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Twoja karta SIM nie może połączyć się z siecią operatora. Upewnij się, że masz wystarczające środki na koncie i spróbuj ponownie nawiązać połączenie."</string>
-  <string name="start_up_slogan">Najlepsze pełnoekranowe doświadczenie</string>
+  <string name="start_up_slogan">Dedykowane dla doświadczenia pełnoekranowego</string>
 </resources>

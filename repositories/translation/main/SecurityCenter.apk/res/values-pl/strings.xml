@@ -155,6 +155,7 @@
   <string name="app_manager_defaults_setting">Domyślne aplikacje</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Pamięć</string>
+  <string name="app_manager_details_title">Nazwa</string>
   <string name="app_manager_details_traffic_title">Użycie danych</string>
   <string name="app_manager_disable">Nie zezwalaj</string>
   <string name="app_manager_disable_dlg_text">Jeśli wyłączysz aplikację, inne aplikacje mogą nie działać prawidłowo.</string>
