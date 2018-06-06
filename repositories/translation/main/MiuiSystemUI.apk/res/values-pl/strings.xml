@@ -1676,7 +1676,6 @@
   <string name="user_remove_user_title">Usunąć użytkownika?</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
-  <string name="velocity_tracker_impl">platform</string>
   <string name="verify_apps_over_usb_summary">Sprawdź aplikacje zainstalowane za pośrednictwem ADB/ADT w poszukiwaniu szkodliwego zachowania.</string>
   <string name="verify_apps_over_usb_title">Weryfikuj aplikacje przez USB</string>
   <string name="voice_assist_label">Otwórz Asystenta głosowego</string>
