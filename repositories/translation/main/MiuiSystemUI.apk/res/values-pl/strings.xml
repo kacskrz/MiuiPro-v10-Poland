@@ -1300,9 +1300,6 @@
   <string name="quick_settings_sync_label">Synchronizacja</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_tiles">default</string>
-  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit</string>
-  <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-  <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit,vibrate,hotspot,papermode,sync,quietmode,powermode,screenbutton,batterysaver,midrop</string>
   <string name="quick_settings_time_label">Czas</string>
   <string name="quick_settings_user_label">Ja</string>
   <string name="quick_settings_user_new_user">Nowy użytkownik</string>
@@ -1676,7 +1673,6 @@
   <string name="user_remove_user_title">Usunąć użytkownika?</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
-  <string name="velocity_tracker_impl">platform</string>
   <string name="verify_apps_over_usb_summary">Sprawdź aplikacje zainstalowane za pośrednictwem ADB/ADT w poszukiwaniu szkodliwego zachowania.</string>
   <string name="verify_apps_over_usb_title">Weryfikuj aplikacje przez USB</string>
   <string name="voice_assist_label">Otwórz Asystenta głosowego</string>
