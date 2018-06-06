@@ -880,7 +880,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="saved">Zapisano, %s</string>
     <string name="saving">Zapisywanie...</string>
     <string name="sdcard_cannot_use">Nie można użyć karty SD</string>
-    <string name="search_bar_text">Wyszukaj wiadomości i kontakty</string>
+    <string name="search_bar_text">Wyszukaj nadawcę albo kontakt</string>
     <string name="search_hint">Wyszukaj wiadomości</string>
     <string name="search_result">"Wyniki wyszukiwania "</string>
     <string name="search_tabs_name_all">Wszystko</string>
@@ -1060,4 +1060,19 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="output_to_disk">Zapisz logi do pliku</string>
   <string name="request_copy_db_to_disk">Mail prosi o skopiowanie bazy danych do pliku</string>
   <string name="three_day">Trzy dni</string>
+  <string name="account_setup_failed_auth_required">"Metody identyfikacji nie są wspierane przez serwer."</string>
+  <string name="login_mail">Zaloguj się na pocztę e-mail</string>
+  <string name="need_get_qq_mail">Potrzeba QQ Mail</string>
+  <string name="open_notification_kingagent">Open the notice of the burial point</string>
+  <string name="optimization_suggestion">Sugestia optymalizacji</string>
+  <string name="others_mail">Inne</string>
+  <string name="others_mail_des">(Konwertuje ponad 60,0000 maili)</string>
+  <string name="qq_authorization_help_get">Pomóż mi uzyskać</string>
+  <string name="qq_authorization_know">Zrozumienie kodu autoryzacji</string>
+  <string name="qq_authorization_tips">Nie przypominaj więcej</string>
+  <string name="qq_verify_code">(Potrzeba kodu weryfikacyjnego QQ)</string>
+  <string name="title_activity_about">O</string>
+  <string name="verify_code">Kod weryfikacyjny</string>
+  <string name="version_string">Wersja: %s</string>
+  <string name="wps_title">Poczta WPS</string>
 </resources>

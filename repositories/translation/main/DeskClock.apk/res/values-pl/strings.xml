@@ -200,11 +200,13 @@
      <string name="timer_running">Minutnik jest uruchomiony</string>
      <string name="timer_running_hint">Kontynuuj</string></string>
      <string name="timer_start_timer">Uruchom odliczanie</string>
-     <string name="worldclock_input_hint_text">Wprowadź kraj bądź miasto</string>
+     <string name="worldclock_input_hint_text">Wprowadź miasto</string>
      <string name="worldclock_search_city">Wybierz miasto</string>
      <string name="worldclock_world_time">Strefy czasowe</string>
      <string name="worldcolock_timezone_current">Obecna: %1$s</string>
      <string name="worldcolock_timezone_date">MMM dd</string>
      <string name="worldcolock_timezone_gap">Godzina</string>
      <string name="worldcolock_timezone_local">Taki jak lokalny czas</string>
+	 <string name="open_keep_screen">Ekran pozostanie włączony</string>
+	 <string name="shut_down_keep_screen">"Ekran nie będzie włączony"</string>
 </resources>

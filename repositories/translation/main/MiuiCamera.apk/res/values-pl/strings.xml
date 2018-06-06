@@ -467,4 +467,16 @@
   <string name="hint_ae_af_lock">Autofokus / autoekspozycja zostały zablokowane</string>
   <string name="accessibility_ai_scene_off">Kamera AI jest wyłączona</string>
   <string name="accessibility_ai_scene_on">Kamera AI jest włączona</string>
+    <string name="edit_chin">Broda</string>
+  <string name="edit_lips">Usta</string>
+  <string name="edit_neck">Szyja</string>
+  <string name="edit_nose">Nos</string>
+  <string name="edit_risorius">Risorius</string>
+  <string name="edit_slim_nose">Nos</string>
+  <string name="edit_smile">Uśmiech</string>
+  <string name="popup_tip_3d_beauty_intro_text">Piękno 3D</string>
+  <string name="pref_video_encoder_default">h264</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Duża kompatybilność</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Większe doświadczenie</string>
+  <string name="pref_video_encoder_title">Koder wideo</string>
 </resources>
