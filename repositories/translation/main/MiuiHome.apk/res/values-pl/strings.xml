@@ -335,12 +335,14 @@
   <string name="announce_for_move_hotseat">Move to dock position %1$d</string>
   <string name="announce_for_unchecked">%1$s, niesprawdzone</string>
   <string name="backup_fail">Nie udało się zrobić kopii launchera.</string>
-  <string name="icon_reorganize_channel">图标整理</string>
+  <string name="icon_reorganize_channel">Uporządkuj ikony</string>
   <string name="notification_reset_description">%1$s%1$s Może zrestartować launcher do %2$s</string>
   <string name="notification_reset_duration">Za dwie godziny,</string>
-  <string name="notification_reset_title">Autoczyszczenie zakończone</string>
+  <string name="notification_reset_title">Ikony uporządkowano pomyślnie</string>
   <string name="quick_app">Szybkie aplikacje</string>
   <string name="refresh">Odśwież</string>
-  <string name="reset_fail">Niepomyślny reset</string>
-  <string name="reset_title">reset</string>
+  <string name="reset_fail">"Nie można było przywrócić"</string>
+  <string name="reset_title">Przywróć</string>
+  <string name="reset_description_first_time">Możesz przywrócić układ z %1$s w ciągu 2 godzin</string>
+  <string name="reset_description_others">Możesz przywrócić układ z %1$s</string>
 </resources>

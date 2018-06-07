@@ -1752,10 +1752,10 @@
   <string name="wrong_password">Nieprawidłowe hasło</string>
   <string name="zen_alarm_warning">Nie usłyszysz kolejnego alarmu %1$s</string>
   <string name="zen_alarm_warning_indef">Nie usłyszysz kolejnego alarmu %1$s, chyba że wcześniej go wyłączysz</string>
-  <string name="zen_alarms_introduction">Nie będziesz zakłócany przez dźwięki i wibracje, z wyjątkiem alarmów. Ty</string>
+  <string name="zen_alarms_introduction">"Nie będą Ci przeszkadzać żadne dźwięki i wibracje, z wyjątkiem alarmów. Nadal będziesz słyszeć wszystkie wybrane przez Ciebie treści, wliczając w to muzykę, wideo czy gry."</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_priority_customize_button">Dostosuj</string>
-  <string name="zen_priority_introduction">Nie będziesz zakłócany przez dźwięki i wibracje, z wyjątkiem alarmów, przypomnień, zdarzeń i dzwoniących, które określisz. Ty</string>
+  <string name="zen_priority_introduction">"Nie będą Ci przeszkadzać żadne dźwięki i wibracje, z wyjątkiem alarmów, przypomnień, zdarzeń i dzwoniących, których określisz. Nadal będziesz słyszeć wszystkie wybrane przez Ciebie treści, wliczając w to muzykę, wideo czy gry."</string>
   <string name="zen_silence_introduction">Blokuje to WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, wideo i gry.</string>
   <string name="zen_silence_introduction_voice">Blokuje to WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, wideo i gry. Nadal będzie można wykonywać połączenia telefoniczne.</string>
   <string name="prompt_danger">Niebezpieczeństwo</string>
@@ -1766,4 +1766,10 @@
   <string name="status_bar_safepay_safe">Nie znaleziono niebezpieczeństwa dla płatności</string>
   <string name="status_bar_safepay_scanning">Sprawdzanie środowiska płatności…</string>
   <string name="status_bar_safepay_unknown">"Nie można sprawdzić środowiska płatności"</string>
+  <string name="data_connection_no_internet">Brak Internetu</string>
+  <string name="notification_channel_screenbutton">ScreenButton</string>
+  <string name="quick_settings_night_secondary_label_on_at">O %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">O zachodzie słońca</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Do wschodu słońca</string>
+  <string name="quick_settings_secondary_label_until">Do %s</string>
 </resources>
