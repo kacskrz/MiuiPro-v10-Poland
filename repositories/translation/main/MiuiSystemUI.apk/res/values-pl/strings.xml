@@ -1299,7 +1299,6 @@
   <string name="quick_settings_settings_label">Ustawienia</string>
   <string name="quick_settings_sync_label">Synchronizacja</string>
   <string name="quick_settings_tethering_label">Tethering</string>
-  <string name="quick_settings_tiles">default</string>
   <string name="quick_settings_time_label">Czas</string>
   <string name="quick_settings_user_label">Ja</string>
   <string name="quick_settings_user_new_user">Nowy użytkownik</string>
