@@ -1767,4 +1767,5 @@ Ten tablet nie ma słuchawki. Możesz przełączyć się w tryb głośnomówiąc
    <string name="wifi_call_setting">Połączenia przez Wi-Fi</string>
    <string name="wificall_switch_summary">Twoje urządzenie może przełączać się pomiędzy Wi-Fi i VoLTE, kiedy połączenie jest słabe</string>
    <string name="wificall_switch_title">Dzwoń, używając Wi-Fi</string>
+   <string name="preferred_wificall_title">Preferencje sieciowe</string>
 </resources>
