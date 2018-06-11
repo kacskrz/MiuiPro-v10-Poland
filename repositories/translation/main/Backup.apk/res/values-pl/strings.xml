@@ -453,7 +453,7 @@
   <string name="trans_receiver_time_remained">Pozostało: %s.\n Nie wyłączaj Hostpota.\nTrzymaj urządzenia blisko siebie.</string>
   <string name="trans_receiving_completed">Przywracanie kopii wykonane</string>
   <string name="trans_restoring">Przywracanie…</string>
-  <string name="trans_restoring_no_items">Synchronizacja</string>
+  <string name="trans_restoring_no_items">Uzyskiwanie informacji…</string>
   <string name="trans_retry">Spróbuj ponownie</string>
   <string name="trans_scan_invalid_qrcode">Kod QR jest nieprawidłowy</string>
   <string name="trans_scan_qr_code_tips">Zeskanuj kod QR z nowego urządzenia</string>
@@ -514,4 +514,66 @@
   <string name="trans_generating_qrcode">Generowanie kodu QR…</string>
   <string name="trans_old_phone_low_space_msg">"Mi Mover potrzebuje trochę miejsca na przeniesienie danych, ale wygląda na to, że na starym urządzeniu nie ma już wolnej przestrzeni. Zwolnij miejsce w \"Panelu sterowania\" albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="trans_old_phone_low_space_title">Brak wolnej przestrzeni</string>
+  <string name="feature_title_contacts">Kontakty</string>
+  <string name="feature_title_sms">Wiadomości</string>
+   <string name="flash_drive_backup_btn">Skopiuj na dysk USB</string>
+   <string name="flash_drive_backup_note">"Skopiuj aplikacje na dysk USB.
+Upewnij się, że dysk posiada wystarczająco dużo przestrzeni, zanim rozpoczniesz tą operację."</string>
+   <string name="flash_drive_backup_restore">Kopie USB</string>
+   <string name="flash_drive_connection_failed">Rozłączono dysk USB</string>
+   <string name="flash_drive_restore_btn">Przywróć z dysku USB</string>
+   <string name="flash_drive_search_backup_files">"Wyszukiwanie kopii z dysku USB…
+Nie zmieniaj nazw plików kopii."</string>
+   <string name="lack_perm_msg">Mi Mover potrzebuje następujących uprawnień: &lt;b&gt;%s&lt;/b&gt;.</string>
+   <string name="lack_perm_title">Wymagane uprawnienia</string>
+   <string name="perm_camera">Aparat</string>
+   <string name="perm_location">Lokalizacja</string>
+   <string name="perm_read_call_log">Czytanie historii połączeń</string>
+   <string name="perm_read_contacts">Czytanie kontaktów</string>
+   <string name="perm_read_phone_state">"Czytanie danych o telefonie"</string>
+   <string name="perm_read_sms">Czytanie SMS</string>
+   <string name="perm_storage">Odczyt i zapis na pamięci zewnętrznej</string>
+   <string name="platform_chooser_item_android_mi">Telefon Mi</string>
+   <string name="platform_chooser_item_android_others">Inne urządzenia</string>
+   <string name="storage_sd_card">Karta SD</string>
+   <string name="storage_usb">Dysk USB</string>
+   <string name="trans_calculating_app_sd_description">Dane na karcie SD</string>
+   <string name="trans_calculating_media_description">Pliki mediów</string>
+   <string name="trans_calculating_tip">Obliczanie %s…</string>
+   <string name="trans_install_guide_button_start">Start</string>
+   <string name="trans_install_guide_page_title">Zainstaluj Mi Mover na starym telefonie</string>
+   <string name="trans_install_guide_scan_install_tip">"Zeskanuj ten kod QR na starym telefonie,
+aby pobrać i zainstalować Mi Mover."</string>
+   <string name="trans_install_guide_step1_content">Zeskanuj ten kod QR na starym telefonie, aby pobrać i zainstalować \"Mi Mover\".</string>
+   <string name="trans_install_guide_step1_title">Krok 1</string>
+   <string name="trans_install_guide_step2_content">Po zakończonej instalacji dotknij przycisku \"Start\" poniżej.</string>
+   <string name="trans_install_guide_step2_title">Krok 2</string>
+   <string name="trans_intro_desc_4_market">"Mi Mover używa sieci Wi-Fi do transferu plików. Dlatego nie można połączyć się z Internetem za pomocą sieci Wi-Fi na żadnym urządzeniu podczas transferu. Nadal możesz korzystać z danych mobilnych."</string>
+   <string name="trans_intro_desc_9_method_1_dec">Przejdź do Ekranu głównego &gt; Narzędzia &gt; Opinie.</string>
+   <string name="trans_intro_desc_9_method_1_title">1. Prześlij swoją opinię, używając aplikacji \"Opinie\".</string>
+   <string name="trans_intro_desc_9_method_2_dec">Wyślij swoją opinię na adres: miui-mover@xiaomi.com.</string>
+   <string name="trans_intro_desc_9_method_2_title">2. Wyślij opinię na maila</string>
+   <string name="trans_intro_desc_9_method_3_dec">"Grupa Mi Mover na QQ: 687338378"</string>
+   <string name="trans_intro_desc_9_method_3_title">3. Zgłoś problem na QQ</string>
+   <string name="trans_intro_desc_old_market">Dotknij \"Start\". Zeskanuj kod QR na nowym telefonie, poczekaj, aż Mi Mover określi, które pliki wysłać, i dotknij przycisku \"Wyślij\".</string>
+   <string name="trans_intro_question_9_market">%d. Opinie.</string>
+   <string name="trans_open_camera_failed_message">Zrestartuj swój telefon bądź sprawdź, czy Mi Mover ma uprawnienia do użycia &lt;b&gt;Aparatu&lt;/b&gt;.</string>
+   <string name="trans_open_camera_failed_title">"Nie udało się połączyć z Aparatem"</string>
+   <string name="trans_open_location_button">Włącz</string>
+   <string name="trans_open_location_message">Włącz usługi lokalizacji, aby uzyskać listę dostępnych sieci Wi-Fi w pobliżu.</string>
+   <string name="trans_open_location_title">Włącz usługi lokalizacji</string>
+   <string name="trans_operate_tip_for_other_android">Otwórz Mi Mover na starym telefonie, dotknij \"Start\" i zeskanuj kod QR.</string>
+    <string name="trans_success_dialog_button_market_favourable_comment">Oceń Mi Mover</string>
+   <string name="trans_success_dialog_market_comment_title">"Twoje nowe urządzenie wygląda teraz jak w domu.
+Czy polubiłeś Mi Mover?"</string>
+   <string name="usb_backup_select_data_too_large">"Wybrane pliki są duże. Upewnij się, że dysk USB posiada wystarczająco dużo miejsca.
+Przenieś tylko najważniejsze rzeczy."</string>
+   <string name="usb_restore_select_data_too_large">"Pliki kopii są duże. Ich przywrócenie może trochę potrwać.
+Przywrócenie tylko najważniejszych rzeczy będzie szybsze."</string>
+   <string name="usb_trans_native_no_space">"Tylko %s jest dostępne na Twoim urządzeniu.
+Zwolnij miejsce albo wykonaj przeniesienie mniejszych elementów."</string>
+   <string name="usb_trans_old_phone_low_space_msg">"Dodatkowa przestrzeń jest wymagana do spakowania Twojej kopii. Tutaj nie ma wystarczająco dużo miejsca, by kontynuować operację. Możesz zwolnić miejsce i usunąć niepotrzebne rzeczy w Panelu Sterowania albo spróbować przenieść tylko najpotrzebniejsze rzeczy."</string>
+   <string name="usb_trans_old_phone_low_space_title">Brak wystarczającej przestrzeni</string>
+   <string name="usb_trans_select_data_no_space">"Tylko %s jest dostępne na Twoim dysku USB.
+Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
 </resources>

@@ -1761,4 +1761,10 @@ Ten tablet nie ma słuchawki. Możesz przełączyć się w tryb głośnomówiąc
      <string name="voice_service_warning_dialog_ok">Rozumiem</string>
      <string name="voice_service_warning_dialog_ok_timer">Rozumiem (%d)</string>
      <string name="voice_service_warning_dialog_title">Połączenia VoLTE</string>
+	    <string name="wfcmode_mobile_preferred">Preferowane komórki</string>
+   <string name="wfcmode_wifi_only">Tylko Wi-Fi</string>
+   <string name="wfcmode_wifi_preferred">Preferuj Wi-Fi</string>
+   <string name="wifi_call_setting">Połączenia przez Wi-Fi</string>
+   <string name="wificall_switch_summary">Twoje urządzenie może przełączać się pomiędzy Wi-Fi i VoLTE, kiedy połączenie jest słabe</string>
+   <string name="wificall_switch_title">Dzwoń, używając Wi-Fi</string>
 </resources>

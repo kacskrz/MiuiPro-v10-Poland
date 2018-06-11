@@ -299,7 +299,7 @@
   <string name="micloud_main_message_not_synced">%s danych bez synchronizacji</string>
   <string name="micloud_main_multi_user_error_message">Zalogowałeś do Pierwszej przestrzeni tym samym kontem, co spowodowało błąd Chmury Xiaomi.\nUżyj innego konta.</string>
   <string name="micloud_main_multi_user_error_title">Błąd Chmury Xiaomi</string>
-  <string name="micloud_main_network_abnormal">Nie można połączyć z siecią</string>
+  <string name="micloud_main_network_abnormal">Sprawdź swoje ustawienia sieciowe</string>
   <string name="micloud_main_network_error">Nie można połączyć z siecią</string>
   <string name="micloud_main_query_again">Wyślij kolejne zapytanie</string>
   <string name="micloud_main_query_error_message">Nie można potwierdzić, czy synchronizacja zakończyła się dla niektórych usług</string>
