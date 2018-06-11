@@ -480,11 +480,8 @@
   <string name="pref_video_encoder_title">Koder wideo</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Piękno</string>
    <string name="beauty_fragment_tab_name_3d_remodeling">Remodelowanie</string>
-   <string name="face_analyze_info">Wiek: %2$s (%1$s)</string>
    <string name="lens_dirty_detected_content">"Wykryto, iż soczewka aparatu jest brudna.
 Wyczyść ją dla lepszego efektu."</string>
    <string name="lens_dirty_detected_title_back">Tylna soczewka aparatu jest brudna</string>
    <string name="lens_dirty_detected_title_front">Przednia soczewka aparatu jest brudna</string>
-   <string name="pref_camera_picturesize_entry_fullscreen">Pełny ekran 16:9</string>
-   <string name="pref_camera_picturesize_entry_standard">Standardowe 4:3</string>
 </resources>
