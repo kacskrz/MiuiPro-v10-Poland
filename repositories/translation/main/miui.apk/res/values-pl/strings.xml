@@ -590,4 +590,9 @@
     <string name="actionbar_immersion_button_more_description">Więcej</string>
     <string name="actionbar_button_up_description">Wstecz</string>
     <string name="clearable_edittext_clear_description">Wyczyść</string>
+	  <string name="cancel_description">Zakończ</string>
+  <string name="confirm_description">Potwierdź</string>
+  <string name="delete_description">Usuń</string>
+  <string name="deselect_all_description">Odznacz wszystko</string>
+  <string name="select_all_description">Zaznacz wszystko</string>
 </resources>

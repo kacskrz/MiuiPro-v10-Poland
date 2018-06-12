@@ -4402,7 +4402,7 @@
   <string name="storageuse_settings_title">Użycie pamięci</string>
   <string name="strict_mode">Tryb ścisły włączony</string>
   <string name="strict_mode_summary">Mrugnij ekranem, gdy aplikacje wykonują długie operacje w głównym wątku</string>
-  <string name="structure_add_facerecoginition_text">Add 3D face data</string>
+  <string name="structure_add_facerecoginition_text">Dodaj dane twarzy 3D</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Następujące aplikacje najlepiej działają w trybie pełnoekranowym</string>
   <string name="suggested_fingerprint_lock_settings_summary">Odblokowywanie odciskiem palca</string>
   <string name="suggested_fingerprint_lock_settings_title">Użyj odcisku palca</string>
@@ -4417,12 +4417,12 @@
   <string name="summary_divider_text">", "</string>
   <string name="summary_range_symbol_combination">%1$s – %2$s</string>
   <string name="summary_range_verbal_combination">Od: %1$s do: %2$s</string>
-  <string name="super_resolution_access_title">Accessible apps</string>
-  <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
-  <string name="super_resolution_maintain">Super resolution isn\'t available yet.</string>
-  <string name="super_resolution_no_app_tips">Download WeChat and Toutiao first.</string>
-  <string name="super_resolution_reboot_tips">Restart apps to make this feature work after you turn it on.</string>
-  <string name="super_resolution_title">Super resolution</string>
+  <string name="super_resolution_access_title">Uprawnione aplikacje</string>
+  <string name="super_resolution_desc">Twórz ostrzejsze zdjęcia, używając algorytmu sztucznej inteligencji</string>
+  <string name="super_resolution_maintain">Superrozdzielczość nie jest jeszcze dostępna.</string>
+  <string name="super_resolution_no_app_tips">Pobierz najpierw aplikacje WeChat i Toutiao.</string>
+  <string name="super_resolution_reboot_tips">Ta funkcja pozwala robić bardziej ostre zdjęcia w WeChat i Toutiao. Uruchom te aplikacje ponownie po włączeniu tej funkcji.</string>
+  <string name="super_resolution_title">Superrozdzielczość</string>
   <string name="supl_not_set">&lt;Nie ustawiono&gt;</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="support_account_picker_add_account">Dodaj konto</string>
@@ -5719,4 +5719,7 @@
    <string name="bootloader_status_privacy_dialog_yes">Zgoda</string>
    <string name="device_miui_version_for_POCO">Wersja MIUI (dla POCO)</string>
    <string name="taplus_title">Taplus</string>
+   <string name="miui_lab_ai_cloud_closed">"Preładowanie aplikacji AI nie jest jeszcze dostępne."</string>
+  <string name="miui_lab_ai_preload_desc">Preładowanie aplikacji za pomocą AI poprawia prędkość ich uruchamiania</string>
+  <string name="miui_lab_ai_preload_title">Preładowanie aplikacji (szt. inteligencja)</string>
 </resources>

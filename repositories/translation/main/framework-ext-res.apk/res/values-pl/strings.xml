@@ -175,4 +175,5 @@
 	<string name="super_resolution_maintain_tips">"Superrozdzielczość nie jest jeszcze dostępna."</string>
      <string name="wifi_assistant_wifi_no_internet">Ta sieć Wi-Fi nie ma dostępu do Internetu</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Zobacz szczegóły</string>
+	   <string name="resolver_app_recommend_flag">Rekomendacja</string>
 </resources>
