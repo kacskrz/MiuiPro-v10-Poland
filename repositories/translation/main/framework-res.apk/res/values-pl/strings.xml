@@ -826,9 +826,11 @@
   <string name="noApplications">Żadna z aplikacji nie może wykonać tej czynności.</string>
   <string name="noon">południe</string>
   <string name="Noon">Południe</string>
+  <string name="notification_channel_mobile_data_alert">Alerty danych mobilnych</string>
+  <string name="notification_channel_mobile_data_status">Status danych mobilnych</string>
   <string name="notification_header_divider_symbol">•</string>
   <string name="notification_hidden_by_policy_text">Treść ukryta z powodu zasad</string>
-  <string name="notification_hidden_text">Treści ukryte</string>
+  <string name="notification_hidden_text">Nowe powiadomienie</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Odbiornik powiadomień</string>
   <string name="notification_messaging_title_template">%1$s: %2$s</string>
@@ -1564,4 +1566,15 @@
   <string name="alert_windows_notification_message">Jeśli nie chcesz, by %s używał tej funkcji, dotknij tu, aby otworzyć ustawienia, i wyłącz tą opcję.</string>
   <string name="alert_windows_notification_title">%s wyświetla się nad innymi aplikacjami</string>
   <string name="alert_windows_notification_turn_off_action">WYŁĄCZ</string>
+  <string name="notification_reply_button_accessibility">Odpowiedz</string>
+    <string name="popup_window_default_title">Okno pop-up</string>
+	 <string name="usb_unsupported_audio_accessory_message">Podłączone urządzenie nie jest kompatybilne z tym telefonem. Dotknij, aby zobaczyć szczegóły.</string>
+  <string name="usb_unsupported_audio_accessory_title">Wykryto analogowe akcesorium audio</string>
+  <string name="wifi_available_action_all_networks">Wszystkie sieci</string>
+  <string name="wifi_available_action_connect">Połącz</string>
+  <string name="wifi_available_content_failed_to_connect">Dotknij, aby zobaczyć wszystkie sieci</string>
+    <string name="wifi_available_title">Połącz z otwartą siecią Wi-Fi</string>
+  <string name="wifi_available_title_connected">Połączono z siecią Wi-Fi</string>
+  <string name="wifi_available_title_connecting">Łączenie z otwartą siecią Wi-Fi</string>
+  <string name="wifi_available_title_failed_to_connect">Nie udało się połączyć z siecią Wi-Fi</string>
 </resources>

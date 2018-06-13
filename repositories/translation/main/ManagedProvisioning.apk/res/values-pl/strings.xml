@@ -87,4 +87,6 @@
     <string name="cancel_setup_and_factory_reset_dialog_msg">Jeśli zakończysz tę konfigurację, spowoduje to zresetowanie urządzenia do ustawień fabrycznych i przeniesienie do pierwszego ekranu.</string>
     <string name="cancel_setup_and_factory_reset_dialog_cancel">Anuluj</string>
     <string name="cancel_setup_and_factory_reset_dialog_ok">Resetuj urządzenie</string>
+	 <string name="cant_replace_or_remove_work_profile">"Nie można zastąpić bądź usunąć profilu służbowego"</string>
+  <string name="work_profile_cant_be_added_contact_admin">Profil służbowy nie może być dodany na tym urządzeniu. Jeśli masz pytania, skontaktuj się z administratorem.</string>
 </resources>

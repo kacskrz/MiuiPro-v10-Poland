@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Nawiguj Home</string>
+  <string name="abc_action_bar_up_description">Nawiguj w górę</string>
+  <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+  <string name="abc_action_mode_done">Zrobione</string>
+  <string name="abc_activity_chooser_view_see_all">Zobacz wszystko</string>
+  <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+  <string name="abc_capital_off">WYŁ.</string>
+  <string name="abc_capital_on">WŁ.</string>
+  <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytania</string>
+  <string name="abc_searchview_description_query">Szukaj</string>
+  <string name="abc_searchview_description_search">Szukaj</string>
+  <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+  <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+  <string name="abc_shareactionprovider_share_with">Wyślij do</string>
+  <string name="abc_shareactionprovider_share_with_application">Wyślij do %s</string>
+  <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="wifi_fail_to_scan">Nie można wyszukać sieci.</string>
     <string name="wifi_security_none">Brak</string>
     <string name="wifi_remembered">Zapisana</string>
@@ -374,4 +391,29 @@
     <string name="callFailed_simError">Błąd karty SIM</string>
     <string name="incall_error_supp_service_unknown">Usługa nie jest obsługiwana.</string>
     <string name="incall_error_power_off">Wyłącz tryb samolotowy, aby nawiązać połączenie.</string>
+	  <string name="accessibility_wifi_security_type_none">Otwarta sieć</string>
+  <string name="accessibility_wifi_security_type_secured">Zabezpieczona sieć</string>
+    <string name="available_via_carrier">Dostępne przez %1$s</string>
+	<string name="bluetooth_connected_battery_level">Połączono, bateria %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Połączono (bez mediów), bateria %1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Połączono (bez telefonu), bateria %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Połączono (bez telefonu ani mediów), bateria %1$s</string>
+  <string name="bluetooth_show_devices_without_names">Pokazuj urządzenia Bluetooth bez nazw</string>
+  <string name="bluetooth_show_devices_without_names_summary">Urządzenia Bluetooth będą pokazywane bez nazwy (tylko adresy MAC)</string>
+    <string name="connected_via_carrier">Połączono przez %1$s</string>
+	<string name="search_menu_title">Szukaj</string>
+	<string name="speed_label_fast">Szybko</string>
+  <string name="speed_label_medium">Średnio</string>
+  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_slow">Wolno</string>
+  <string name="speed_label_very_fast">Bardzo szybko</string>
+  <string name="speed_label_very_slow">Bardzo wolno</string>
+    <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
+   <string name="wifi_ap_unable_to_handle_new_sta">Punkt dostępowy tymczasowo pełny</string>
+     <string name="wifi_cant_connect">"Nie można się połączyć"</string>
+  <string name="wifi_cant_connect_to_ap">"Nie można się połączyć z '%1$s'"</string>
+  <string name="wifi_check_password_try_again">Sprawdź hasło i spróbuj ponownie</string>
+    <string name="wifi_p2p_allow_passive_listen">Zezwalaj na pasywne skanowanie Wi-Fi P2p</string>
+  <string name="wifi_p2p_allow_passive_listen_summary">Zezwalaj/nie zezwalaj na pasywne skanowanie Wi-Fi P2p, urządzenie nie może skanować innych urządzeń, ale inne urządzenia mogą skanować to urządzenie</string>
 </resources>
