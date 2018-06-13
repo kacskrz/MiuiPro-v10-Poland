@@ -463,4 +463,14 @@ Twój numer odblokowujący: %s"</string>
      <string name="passport_talkback_switch_image_captcha">Przełącz na graficzny kod weryfikacyjny</string>
      <string name="passport_talkback_switch_voice_captcha">Przełącz na głosowy kod weryfikacyjny</string>
      <string name="passport_talkback_voice_captcha">Odtwórz głosowy kod weryfikacyjny</string>
+	   <string name="account_mibi_charge">Płatne Mi Kredyty</string>
+  <string name="passport_Resend">Wyślij ponownie</string>
+  <string name="passport_btn_change_account">Zmień konto</string>
+  <string name="passport_error_empty_voice_code">Wprowadź captcha</string>
+  <string name="passport_input_voice_hint">Wprowadź kod głosowy</string>
+  <string name="passport_license_info_collapse">Zwiń</string>
+  <string name="passport_license_info_open">Szczegóły</string>
+  <string name="passport_new_user_register">Załóż konto</string>
+  <string name="passport_register_using_other_ways">Inne opcje rejestracji</string>
+  <string name="passport_wrong_voice">Wprowadzony kod jest nieprawidłowy</string>
 </resources>

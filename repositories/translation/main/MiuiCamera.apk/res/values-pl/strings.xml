@@ -484,4 +484,5 @@
 Wyczyść ją dla lepszego efektu."</string>
    <string name="lens_dirty_detected_title_back">Tylna soczewka aparatu jest brudna</string>
    <string name="lens_dirty_detected_title_front">Przednia soczewka aparatu jest brudna</string>
+     <string name="back_bokeh_use_hint">"Upewnij się, że obiekt nie jest oddalony dalej niż 1,5 metra od aparatu."</string>
 </resources>

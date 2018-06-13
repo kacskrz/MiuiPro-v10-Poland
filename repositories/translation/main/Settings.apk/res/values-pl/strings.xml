@@ -5722,4 +5722,5 @@
    <string name="miui_lab_ai_cloud_closed">"Preładowanie aplikacji AI nie jest jeszcze dostępne."</string>
   <string name="miui_lab_ai_preload_desc">Preładowanie aplikacji za pomocą AI poprawia prędkość ich uruchamiania</string>
   <string name="miui_lab_ai_preload_title">Preładowanie aplikacji (szt. inteligencja)</string>
+    <string name="wifi_click_login_wlan">Wymaga logowania/autoryzacji</string>
 </resources>

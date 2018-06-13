@@ -1258,4 +1258,16 @@ aby spersonalizować Galerię"</string>
      <string name="video_editor_video_is_short">"Nie można edytować tego wideo."</string>
      <string name="video_editor_watermark">Znak wodny</string></string>
      <string name="voice_assistant">Wprowadzanie głosowe</string>
+	   <string name="checked">Wybrano</string>
+  <string name="checked_something">Wybrano %s</string>
+  <string name="enter_choice_mode">Wybrano menu Wyślij</string>
+  <string name="exit_choice_mode">Opuść menu Wyślij</string>
+  <string name="feature_guidance_photo_effects">Efekty zdjęcia</string>
+  <string name="image_with_time">Zdjęcie zrobiono %s</string>
+  <string name="image_with_time_and_location">Zdjęcie zrobiono %1$s. Lokalizacja: %2$s.</string>
+  <string name="storage_description_usb">Pamięć USB</string>
+  <string name="unchecked">Odznaczono</string>
+  <string name="unchecked_something">Odznaczono %s</string>
+  <string name="video_with_time">Wideo nagrano %s</string>
+  <string name="video_with_time_and_location">Wideo nagrano %1$s. Lokalizacja: %2$s.</string>
 </resources>

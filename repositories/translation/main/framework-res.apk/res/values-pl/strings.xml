@@ -1256,9 +1256,6 @@
   <string name="searchview_description_voice">Wyszukiwanie głosowe</string>
   <string name="second">s</string>
   <string name="seconds">S</string>
-  <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
-  <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
-  <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
   <string name="select_character">Wstaw znak</string>
   <string name="select_day">Wybierz miesiąc i dzień</string>
   <string name="select_hours">Wybierz godziny</string>

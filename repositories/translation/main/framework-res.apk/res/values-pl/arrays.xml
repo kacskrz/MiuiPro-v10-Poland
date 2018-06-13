@@ -47,8 +47,6 @@
         <item>%s</item>
         <item>Połączenia przez Wi-Fi (%s)</item>
     </string-array>
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Dom</item>
         <item>Praca</item>
