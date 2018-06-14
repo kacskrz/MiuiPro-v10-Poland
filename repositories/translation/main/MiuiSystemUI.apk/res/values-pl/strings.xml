@@ -256,7 +256,7 @@
   <string name="adb_warning_title">Zezwolić na debugowanie USB?</string>
   <string name="add_tile">Dodaj przełącznik</string>
   <string name="adjust_button_width">Dostosuj szerokość przycisku</string>
-  <string name="airplane_mode">Tryb samochodowy</string>
+  <string name="airplane_mode">Tryb samolotowy</string>
   <string name="alarm_template">o %1$s</string>
   <string name="alarm_template_far">na %1$s</string>
   <string name="allow_mock_location">Zezwól na pozorne lokalizacje</string>
@@ -1771,4 +1771,7 @@
   <string name="quick_settings_night_secondary_label_on_at_sunset">O zachodzie słońca</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Do wschodu słońca</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
+  <string name="notification_channel_battery">Bateria</string>
+  <string name="notification_channel_usb">USB</string>
+  <string name="quick_settings_gps_label">GPS</string>
 </resources>

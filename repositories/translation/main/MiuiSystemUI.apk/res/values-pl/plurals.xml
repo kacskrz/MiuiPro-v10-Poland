@@ -144,4 +144,8 @@
     <item quantity="few">Bezchmurnie</item>
     <item quantity="many">Słonecznie</item>
   </plurals>
+  <plurals name="notification_num_channels">
+       <item quantity="other">%d kategorii powiadomień</item>
+       <item quantity="one">%d kategoria powiadomień</item>
+    </plurals>
 </resources>

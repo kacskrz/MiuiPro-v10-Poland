@@ -170,14 +170,14 @@
      <string name="dialog_message_negative">"Nie zgadzam się"</string>
      <string name="dynamic_alarm_speech">Prosty alarm</string>
      <string name="edit_alarm">Edytuj alarm</string>
-     <string name="module_download_cancel">Nie teraz</string>
-     <string name="module_download_data_msg">"W celu udostępnienia Ci prostych alarmów, odgłosów natury oraz urodzinowych alarmów, Zegar musi połączyć się z internetem oraz uzyskać dostęp do Twoich kontaktów. Konieczne będzie też pobranie dodatkowego audio. Czy użyć do tego danych mobilnych?"</string>
-     <string name="module_download_data_msg_golbal">W celu udostępnienia Ci prostych alarmów oraz odgłosów natury, Zegar musi pobrać dodatkowe dźwięki audio. Czy użyć do tego danych mobilnych?</string>
+     <string name="module_download_cancel">Nie, dziękuję</string>
+     <string name="module_download_data_msg">"Zegar musi połączyć się z internetem w celu pobrania plików audio (20MB) dla funkcji prostych alarmów oraz odgłosów otoczenia. Używasz teraz danych mobilnych. Czy zgadzasz się na to?"</string>
+     <string name="module_download_data_msg_golbal">"Zegar musi pobrać pliki audio (20MB) dla funkcji prostych alarmów oraz odgłosów otoczenia. Używasz teraz danych mobilnych. Czy zgadzasz się na to?"</string>
      <string name="module_download_fail">"Nie udało się pobrać dodatkowego audio"</string>
-     <string name="module_download_msg">"W celu udostępnienia Ci prostych alarmów, odgłosów natury oraz urodzinowych alarmów, Zegar musi połączyć się z internetem oraz uzyskać dostęp do Twoich kontaktów. Konieczne będzie też pobranie dodatkowego audio. Czy zgadzasz się na to?"</string>
-     <string name="module_download_msg_golbal">W celu udostępnienia Ci prostych alarmów oraz odgłosów natury, Zegar musi pobrać dodatkowe dźwięki audio. Czy zgadzasz się na to?</string>
+     <string name="module_download_msg">Zegar musi połączyć się z internetem w celu pobrania plików audio dla funkcji prostych alarmów oraz odgłosów otoczenia. Czy zgadzasz się na to?</string>
+     <string name="module_download_msg_golbal">Zegar musi pobrać pliki audio dla funkcji prostych alarmów oraz odgłosów otoczenia. Czy zgadzasz się na to?</string>
      <string name="module_download_no_network">"Nie udało się połączyć z siecią. Sprawdź łączność i spróbuj ponownie."</string>
-     <string name="module_download_ok">Zgadzam się, pobierz</string>
+     <string name="module_download_ok">Zgadzam się</string>
      <string name="module_download_success">Pomyślnie pobrano dodatkowe audio</string>
      <string name="module_download_title">Wymagane dodatkowe audio</string>
      <string name="module_downloading">Pobieranie dodatkowego audio…</string>
@@ -209,4 +209,5 @@
      <string name="worldcolock_timezone_local">Taki jak lokalny czas</string>
 	 <string name="open_keep_screen">Ekran pozostanie włączony</string>
 	 <string name="shut_down_keep_screen">"Ekran nie będzie włączony"</string>
+	 <string name="dialog_message_not_remind">"Nie pokazuj ponownie"</string>
 </resources>
