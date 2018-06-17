@@ -8,11 +8,11 @@
   <string name="back">Wstecz</string>
   <string name="cm_terms_content">W celu poprawy usług świadczonych dla ciebie, operator sieci komórkowej wybrany przez ciebie może przesłać twoje dane osobowe i informacje o tym urządzeniu do swoich serwerów za pomocą sieci Wi-Fi lub połączenia danych mobilnych. Informacje te będą wykorzystywane wyłącznie do celów statystycznych w celu poprawy jakości usług oraz zapewnienia bardziej spersonalizowane treści. Informacje te nie będą wykorzystywane do identyfikacji użytkownika osobiście i nie będą ujawniane firmom trzecim.</string>
   <string name="cm_terms_title">Umowa Operatora sieci komórkowej</string>
-  <string name="congratulation_label">Jesteś gotowy do działania!​</string>
+  <string name="congratulation_label">Miłego korzystania z funkcji MiuiPro!​</string>
   <string name="congratulation_swipe">Przesuń w górę, aby wejść do systemu</string>
   <string name="congratulation_title">Konfiguracja zakończona</string>
   <string name="content_description_complete">Zakończono</string>
-  <string name="content_description_miui_version">MIUI 9</string>
+  <string name="content_description_miui_version">MIUI 10</string>
   <string name="content_description_start">Start</string>
   <string name="continue_to_enable_accessibility">Przytrzymaj dwa palce, aby włączyć ułatwienie.</string>
   <string name="desc_fingerprint">Użyj odcisku palca do odblokowania swojego urządzenia, weryfikacji transakcji Mi Pay lub logowania do aplikacji i usług.</string>

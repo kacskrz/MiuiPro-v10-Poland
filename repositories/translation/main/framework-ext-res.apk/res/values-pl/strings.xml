@@ -92,8 +92,8 @@
     <string name="permdesc_manageLocationPolicy">Zezwól aplikacji na dostęp do lokalizacji i określ specjalne reguły dla aplikacji.</string>
     <string name="location_usage_restricted_title">Ograniczona lokalizacja w tle</string>
     <string name="location_usage_restricted_body">Dotknij, aby zezwolić.</string>
-    <string name="fc_dialog_body">Wysłać zgłoszenie błędu w celu analizy? Zgłoszenie to może zawierać Twoje informacje osobiste. Twoje zgłoszenie będzie wykorzystane w celu naprawy błędu i nigdy nie będzie udostępniane w celach marketingowych.</string>
-    <string name="fc_dialog_jump_to_preview">Pokaż podsumowanie</string>
+    <string name="fc_dialog_body">Wysłać zgłoszenie błędu w celu analizy? Zgłoszenie to może zawierać Twoje informacje osobiste. Twoje zgłoszenie będzie wykorzystane wyłącznie w celu naprawy błędu. Ewentualnie poinformuj nas o tymże błędzie, kontaktując się z naszym zespołem (Telegram: @kacskrz) i wysyłając zrzut ekranu z logiem.</string>
+    <string name="fc_dialog_jump_to_preview">Pokaż log błędu</string>
     <string name="livetalk_not_enable">Pakiet doładowania wyłączony</string>
     <string name="internal_livetalk_enable">Korzystasz z pakietu doładowania dla połączeń krajowych</string>
     <string name="international_livetalk_enable">Korzystasz z pakietu doładowania dla połączeń międzynarodowych</string>
