@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="agps_apn_entries">
-    <item>CMWAP</item>
-    <item>CMNET</item>
-  </string-array>
-  <string-array name="agps_apn_values">
-    <item>0</item>
-    <item>1</item>
-  </string-array>
   <string-array name="agps_network_entries">
     <item>Sieć domowa</item>
     <item>Wszystkie sieci</item>
-  </string-array>
-  <string-array name="agps_network_values">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="agps_reset_type_entries">
     <item>HOT</item>
     <item>GORĄCY</item>
     <item>ZIMNY</item>
-  </string-array>
-  <string-array name="agps_reset_type_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="agps_si_mode_entries">
-    <item>MSB</item>
-    <item>MSA</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Codziennie</item>
@@ -60,11 +39,6 @@
     <item>PAP</item>
     <item>CHAP</item>
     <item>PAP lub CHAP</item>
-  </string-array>
-  <string-array name="apn_protocol_entries">
-    <item>IPv4</item>
-    <item>IPv6</item>
-    <item>IPv4/IPv6</item>
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Wewnętrzna pamięć urządzenia</item>
@@ -350,12 +324,6 @@
     <item>Duży</item>
     <item>Bardzo duży</item>
   </string-array>
-  <string-array name="captioning_opacity_selector_titles">
-    <item>25%</item>
-    <item>50%</item>
-    <item>75%</item>
-    <item>100%</item>
-  </string-array>
   <string-array name="captioning_preset_selector_titles">
     <item>Ustawienia domyślne aplikacji</item>
     <item>Biały na czarnym</item>
@@ -363,17 +331,6 @@
     <item>Żółty na czarnym</item>
     <item>Żółty na niebieskim</item>
     <item>Niestandardowy</item>
-  </string-array>
-  <string-array name="captioning_typeface_selector_titles">
-    <item>Domyślna</item>
-    <item>Bezszeryfowa</item>
-    <item>Bezszeryfowa wąska</item>
-    <item>Bezszeryfowy o stałej szerokości</item>
-    <item>Szeryfowy</item>
-    <item>Szeryfowy o stałej szerokości</item>
-    <item>Zwykły</item>
-    <item>Kursywa</item>
-    <item>Kapitaliki</item>
   </string-array>
   <string-array name="change_security_lock_picker">
     <item>Rozpoznanie twarzy</item>
@@ -682,31 +639,6 @@
     <item>Paramaribo</item>
     <item>Quito</item>
   </string-array>
-  <array name="click_bottom">
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom02</item>
-    <item>@drawable/clickbottom03</item>
-    <item>@drawable/clickbottom04</item>
-    <item>@drawable/clickbottom05</item>
-    <item>@drawable/clickbottom06</item>
-    <item>@drawable/clickbottom07</item>
-    <item>@drawable/clickbottom08</item>
-    <item>@drawable/clickbottom03</item>
-    <item>@drawable/clickbottom02</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-    <item>@drawable/clickbottom01</item>
-  </array>
   <string-array name="color_mode_descriptions">
     <item>Ulepszone kolory</item>
     <item>Kolory naturalne widziane przez oczy</item>
@@ -736,10 +668,6 @@
   <string-array name="connect_mode_entries">
     <item>Kompatybilność</item>
     <item>Wysoka prędkość</item>
-  </string-array>
-  <string-array name="connect_mode_values">
-    <item>0</item>
-    <item>1</item>
   </string-array>
   <string-array name="data_usage_data_range">
     <item>Ostatnie 30 dni</item>
@@ -817,11 +745,6 @@
     <item>4 cale</item>
     <item>3,5 cala</item>
   </string-array>
-  <string-array name="handy_mode_size_value_entries">
-    <item>4.5</item>
-    <item>4.0</item>
-    <item>3.5</item>
-  </string-array>
   <string-array name="haptic_feedback_level_texts">
     <item>Wyłączone</item>
     <item>Słabe</item>
@@ -837,15 +760,6 @@
     <item>Nigdy nie sprawdzaj</item>
     <item>Sprawdź tylko zawartość DRM</item>
     <item>Zawsze sprawdzaj</item>
-  </string-array>
-  <string-array name="key_and_gesture_shortcut_action">
-    <item>long_press_home_key</item>
-    <item>long_press_menu_key</item>
-    <item>long_press_back_key</item>
-    <item>key_combination_power_home</item>
-    <item>key_combination_power_menu</item>
-    <item>key_combination_power_back</item>
-    <item>key_none</item>
   </string-array>
   <string-array name="led_color_entries">
     <item>Niebieski</item>
@@ -885,43 +799,6 @@
     <item>Po 5 minutach</item>
     <item>Nigdy</item>
   </string-array>
-  <array name="long_press">
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom02</item>
-    <item>@drawable/longpressbottom03</item>
-    <item>@drawable/longpressbottom04</item>
-    <item>@drawable/longpressbottom05</item>
-    <item>@drawable/longpressbottom06</item>
-    <item>@drawable/longpressbottom07</item>
-    <item>@drawable/longpressbottom08</item>
-    <item>@drawable/longpressbottom08</item>
-    <item>@drawable/longpressbottom08</item>
-    <item>@drawable/longpressbottom08</item>
-    <item>@drawable/longpressbottom08</item>
-    <item>@drawable/longpressbottom09</item>
-    <item>@drawable/longpressbottom10</item>
-    <item>@drawable/longpressbottom11</item>
-    <item>@drawable/longpressbottom04</item>
-    <item>@drawable/longpressbottom03</item>
-    <item>@drawable/longpressbottom02</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-    <item>@drawable/longpressbottom01</item>
-  </array>
   <string-array name="long_press_timeout_selector_titles">
     <item>Krótki</item>
     <item>Średni</item>
@@ -989,14 +866,6 @@
     <item>Dostęp zmontowanego urządzenia: mtpfs /media/mtp za pomocą Eksplorera; tak samo lokalny katalog</item>
     <item>Uninstall device: fusermount -u /media/mtp\nNote: Only for Ubuntu 8.04!</item>
   </string-array>
-  <string-array name="msd_pc_system_retry_mac">
-    <item>@string/msd_install_retry_reinstall_mac</item>
-    <item>@string/msd_install_retry_connect</item>
-    <item>@string/msd_install_retry_reinstall</item>
-  </string-array>
-  <string-array name="msd_pc_system_retry_vista">
-    <item>@string/msd_install_retry_connect</item>
-  </string-array>
   <string-array name="msd_pc_system_retry_xp">
     <item>@string/msd_install_retry_connect</item>
     <item>Przeinstaluj MiPhoneManager.</item>
@@ -1036,62 +905,6 @@
     <item>Redukcja szumów pojedynczego mikrofonu</item>
     <item>Redukcja szumów dwóch mikrofonów</item>
   </string-array>
-  <array name="power_click">
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick02</item>
-    <item>@drawable/powerclick03</item>
-    <item>@drawable/powerclick04</item>
-    <item>@drawable/powerclick05</item>
-    <item>@drawable/powerclick06</item>
-    <item>@drawable/powerclick07</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-  </array>
-  <array name="power_double_click">
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick02</item>
-    <item>@drawable/powerclick03</item>
-    <item>@drawable/powerclick04</item>
-    <item>@drawable/powerclick05</item>
-    <item>@drawable/powerclick06</item>
-    <item>@drawable/powerclick07</item>
-    <item>@drawable/powerclick02</item>
-    <item>@drawable/powerclick03</item>
-    <item>@drawable/powerclick04</item>
-    <item>@drawable/powerclick05</item>
-    <item>@drawable/powerclick06</item>
-    <item>@drawable/powerclick07</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-    <item>@drawable/powerclick01</item>
-  </array>
   <string-array name="power_mode_entries">
     <item>Wydajny</item>
     <item>Zrównoważony</item>
@@ -1179,11 +992,6 @@
     <item>Zwiększony kontrast</item>
     <item>Standardowy</item>
   </string-array>
-  <string-array name="screen_resolution_format">
-    <item>@string/screen_resolution_ultrahigh_format</item>
-    <item>@string/screen_resolution_high_format</item>
-    <item>@string/screen_resolution_normal_format</item>
-  </string-array>
   <string-array name="screen_saturation_title">
     <item>Żywe</item>
     <item>Standardowe</item>
@@ -1232,20 +1040,10 @@
     <item>Debugowanie</item>
     <item>Verbose</item>
   </string-array>
-  <string-array name="select_logpersist_summaries">
-    <item>Off</item>
-    <item>All log buffers</item>
-    <item>All except radio log buffers</item>
-    <item>Kernel log buffer only</item>
-  </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Wyłączone</item>
     <item>Narysuj nie-prostokątny obszar klipu na niebiesko</item>
     <item>Podświetl na zielono przetestowane polecenia rysowania</item>
-  </string-array>
-  <string-array name="silent_entries">
-    <item>@string/standard</item>
-    <item>@string/total</item>
   </string-array>
   <string-array name="silent_mode_duration_text">
     <item>Zawsze</item>
@@ -1254,46 +1052,10 @@
     <item>2 godziny</item>
     <item>8 godzin</item>
   </string-array>
-  <string-array name="silent_mode_duration_value">
-    <item>0</item>
-    <item>30</item>
-    <item>60</item>
-    <item>120</item>
-    <item>480</item>
-  </string-array>
-  <string-array name="silent_values">
-    <item>3</item>
-    <item>1</item>
-  </string-array>
   <string-array name="startup_hips_action">
     <item>Zezwól</item>
     <item>Odmów</item>
   </string-array>
-  <array name="three_drop">
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop01</item>
-    <item>@drawable/threedrop02</item>
-    <item>@drawable/threedrop03</item>
-    <item>@drawable/threedrop04</item>
-    <item>@drawable/threedrop05</item>
-    <item>@drawable/threedrop06</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-    <item>@drawable/threedrop07</item>
-  </array>
   <string-array name="timezone_filters">
     <item>Ameryka</item>
     <item>Europa</item>
@@ -1312,11 +1074,6 @@
     <item>Wyłączony</item>
     <item>Regularny</item>
     <item>Ekstremalny</item>
-  </string-array>
-  <string-array name="traffic_balance_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
   </string-array>
   <string-array name="traffic_type">
     <item>"Użycie danych kom. "</item>
@@ -1342,22 +1099,11 @@
     <item>Ekstremalnie szybko</item>
     <item>Najszybciej</item>
   </string-array>
-  <string-array name="tts_rate_values">
-    <item>60</item>
-    <item>80</item>
-    <item>100</item>
-    <item>150</item>
-    <item>200</item>
-    <item>250</item>
-    <item>300</item>
-    <item>350</item>
-    <item>400</item>
-  </string-array>
   <string-array name="tts_rate_xunfei_entries">
-    <item>Very slow</item>
-    <item>Slow</item>
-    <item>Normal</item>
-    <item>Fast</item>
+    <item>Bardzo wolno</item>
+    <item>Wolno</item>
+    <item>Normalnie</item>
+    <item>Szybko</item>
     <item>Szybciej</item>
   </string-array>
   <string-array name="usage_stats_display_order_types">
@@ -1383,12 +1129,6 @@
     <item>Tylko z kontaktów</item>
     <item>Tylko z ulubionych kontaktów</item>
     <item>Brak</item>
-  </string-array>
-  <string-array name="vip_mode_value">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
   </string-array>
   <string-array name="vpn_states">
     <item>Rozłączono</item>
@@ -1420,12 +1160,6 @@
     <item>Umiarkowana</item>
     <item>Zaawansowana</item>
   </string-array>
-  <string-array name="whetstone_level_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-  </string-array>
   <string-array name="wifi_calling_mode_choices">
     <item>Preferuj sieć Wi-Fi</item>
     <item>Preferuj sieć komórkową</item>
@@ -1435,34 +1169,10 @@
     <item>Preferuj Wi-Fi</item>
     <item>Preferuj sieć komórkową</item>
   </string-array>
-  <string-array name="wifi_calling_mode_values">
-    <item>2</item>
-    <item>1</item>
-    <item>0</item>
-  </string-array>
-  <string-array name="wifi_calling_mode_values_without_wifi_only">
-    <item>2</item>
-    <item>1</item>
-  </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Połącz automatycznie</item>
     <item>Połącz ręcznie</item>
     <item>Zawsze pytaj</item>
-  </string-array>
-  <string-array name="wifi_eap_entries">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-  </string-array>
-  <string-array name="wifi_eap_method">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-    <item>PWD</item>
-    <item>SIM</item>
-    <item>AKA</item>
-    <item>AKA\'</item>
   </string-array>
   <string-array name="wifi_frequency_band_entries">
     <item>Automatyczne</item>

@@ -58,11 +58,11 @@
   <string name="add_game">Dodaj grę</string>
   <string name="add_game_notification_summary">Dotknij aby uruchomić i przyspieszyć prędkość</string>
   <string name="add_miservice_dialog_content">%s wymaga dodania MIUI Service Framework do listy wyjątków. Możesz otrzymywać powiadomienia z wbudowanych aplikacji MIUI oraz aplikacji firm trzecich.</string>
-  <string name="add_miservice_dialog_title">Usługi MIUI</string>
   <string name="add_to_whitelist_button">Wyjątki w roamingu</string>
   <string name="add_whitelist">Dodaj do wyjątków</string>
   <string name="address">Adres</string>
   <string name="address_choose_hint">%1$s, %2$s, i %3$d innych miejsc</string>
+  <string name="adjust_sms_cmd">&lt;u&gt;Dostosuj szablon kalibracji SMS&lt;/u&gt;</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Aktualizacja ponad miesiąc temu</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Aktualizacja ponad tydzień temu</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Aktualizacja tydzień temu</string>
@@ -206,14 +206,7 @@
   <string name="app_manager_pref_ads">Propozycje</string>
   <string name="app_manager_reset_app_preferences">Zresetuj ustawienia aplikacji</string>
   <string name="app_manager_reset_app_preferences_button">Resetuj aplikacje</string>
-  <string name="app_manager_reset_app_preferences_desc">"Spowoduje to zresetowania wszystkich ustawień dla:
-
- "<li>Wyłączonych aplikacji</li>"
- "<li>Wyłączonych powiadomień aplikacji</li>"
- "<li>Domyślnych aplikacji</li>"
- "<li>Ograniczenia danych w tle dla aplikacji</li>"
-
- Nie utracisz żadnych danych."</string>
+  <string name="app_manager_reset_app_preferences_desc">Spowoduje to zresetowania wszystkich ustawień dla:\n\n \"&lt;li&gt;Wyłączonych aplikacji&lt;/li&gt;\"\n \"&lt;li&gt;Wyłączonych powiadomień aplikacji&lt;/li&gt;\"\n \"&lt;li&gt;Domyślnych aplikacji&lt;/li&gt;\"\n \"&lt;li&gt;Ograniczenia danych w tle dla aplikacji&lt;/li&gt;\"\n\n Nie utracisz żadnych danych.</string>
   <string name="app_manager_reset_app_preferences_title">Zresetować ustawienia aplikacji?</string>
   <string name="app_manager_search_prompt">Nie udało się niczego znaleźć? Spróbuj wyświetlić wyniki dla wszystkich aplikacji.</string>
   <string name="app_manager_show_all_apps">Pokaż wszystkie aplikacje</string>
@@ -252,7 +245,7 @@
   <string name="applock_exit_account_info">Konto zostanie automatycznie usunięte, gdy się wylogujesz</string>
   <string name="applock_header_text_less_than_half">Zbyt mały. Przeciągnij jeszcze trochę.</string>
   <string name="applock_login_and_add_account">Zaloguj i dodaj</string>
-  <string name="applock_not_add_account"><u>Nie teraz</u></string>
+  <string name="applock_not_add_account">&lt;u&gt;Nie teraz&lt;/u&gt;</string>
   <string name="applock_not_login_account">Nie jesteś zalogowany</string>
   <string name="apps_item_sign_dialog_content">Podpis \"%s\" jest inny niż w wersji w Sklepie. Usunąć aplikację i zainstalować oficjalną wersję? Informacja: Instalowanie aplikacji, na wersję z błędnym podpisem, może prowadzić do utraty danych aplikacji.</string>
   <string name="apps_item_sign_dialog_title">Zainstaluj oficjalną aplikację</string>
@@ -298,8 +291,6 @@
   <string name="auto_task_edit_condition_title">Dodaj warunek</string>
   <string name="auto_task_edit_my_custom_task">Nazwa</string>
   <string name="auto_task_edit_operation_summary">Na przykład, \"Włącz tryb samolotowy\"</string>
-  <string name="auto_task_edit_step1">1.</string>
-  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Nazwa</string>
   <string name="auto_task_main_title">Zautomatyzowane zadania</string>
   <string name="auto_task_mamange_activity_title">Ustawienia</string>
@@ -320,11 +311,9 @@
   <string name="auto_task_notify_task_exit_task">Anuluj zadanie</string>
   <string name="auto_task_operation_airplane_mode">Tryb Samolotowy</string>
   <string name="auto_task_operation_auto_brightness">Autom. jasność</string>
-  <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Jasność ekranu</string>
   <string name="auto_task_operation_close">Wyłącz</string>
   <string name="auto_task_operation_close_string">Wyłącz %s</string>
-  <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_memory_clean_lockscreen">Wyczyść pamięć</string>
   <string name="auto_task_operation_mobile_data">Dane mobilne</string>
   <string name="auto_task_operation_modify_string">Edytuj %s</string>
@@ -467,7 +456,6 @@
   <string name="card_main_applock_summary">Chroń wybrane aplikacje za pomocą hasła.</string>
   <string name="card_main_applock_title">Blokowanie aplikacji</string>
   <string name="card_main_deepclean_action">Usuń</string>
-  <string name="card_main_deepclean_qq_title">Sprzątacz QQ</string>
   <string name="card_main_deepclean_summary">Usuń niepotrzebne pliki</string>
   <string name="card_main_deepclean_title">Dokładne czyszczenie</string>
   <string name="card_main_deepclean_wechat_action">Wyczyść</string>
@@ -488,7 +476,6 @@
   <string name="card_main_private_space_summary">Korzystanie z Drugiej przestrzeni to jak posiadanie drugiego urządzenia</string>
   <string name="card_main_private_space_title">Druga przestrzeń</string>
   <string name="card_main_sectool_title">Narzędzia</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_xspace_action">Włącz</string>
   <string name="card_main_xspace_summary">Utwórz podwójne konta dla jakiejkolwiek aplikacji</string>
   <string name="card_main_xspace_title">Klonowanie aplikacji</string>
@@ -585,6 +572,8 @@
   <string name="diagnostic_attention_dialog_message">Diagnostyka dla %1$s trwa. Poczekaj, aż zostanie zakończona i spróbuj ponownie.</string>
   <string name="dialog_app_roaming_message">%1$s nie może korzystać z danych mobilnych w roamingu. Tylko aplikacje z listy wyjątków mogą korzystać z danych mobilnych podczas roamingu.</string>
   <string name="dialog_app_roaming_title">Przesył danych zablokowany dla %1$s</string>
+  <string name="dialog_button_ignore">Zignoruj</string>
+  <string name="dialog_button_yes">Tak</string>
   <string name="dialog_msg_auto_start_declare">\"Niektóre aplikacje mogą wskazywać, że nie zostały dopuszczone do autostartu przez MIUI. \nAby sprawdzić uprawnienia aplikacji, przejdź do Ustawienia &gt; Aplikacje. \nDodanie aplikacji do Autostartu pomaga w sytuacjach, gdy widżet się nie aktualizuje lub wyjście do pulpitu powoduje jego ponowne wczytanie.\"</string>
   <string name="dialog_msg_stop_virus_scan">Zatrzymać skanowanie przed zakończeniem?</string>
   <string name="dialog_no_longer_alert">Nie pokazuj ponownie</string>
@@ -596,6 +585,9 @@
   <string name="dialog_restrict_positive">Wyjdź</string>
   <string name="dialog_roaming_message">Twój operator może naliczyć dodatkowe opłaty za dane mobilne w roamingu.</string>
   <string name="dialog_roaming_title">Roaming danych</string>
+  <string name="dialog_roaming_warning_checkbox">Nie pokazuj ponownie</string>
+  <string name="dialog_roaming_warning_message">Po włączeniu transmisji danych w roamingu międzynarodowym operator naliczy opłatę. Włączyć mimo to?</string>
+  <string name="dialog_roaming_warning_ok">Włącz</string>
   <string name="dialog_text">Utwórz skrót na ekranie głównym dla Przyśpieszania gier</string>
   <string name="dialog_title_attention">Powiadomienie</string>
   <string name="dialog_title_auto_start_declare">O Autostarcie</string>
@@ -679,6 +671,16 @@
   <string name="exception_notify_message">Nie udało się obliczyć danych statystycznych, ze względu na błąd. Uruchom ponownie, aby przywrócić.</string>
   <string name="exception_titile">Wystąpił błąd</string>
   <string name="exit">Wyjdź</string>
+  <string name="exit_dialog_garbage_clean_message">Ilość śmieci na Twoim urządzeniu jest większa niż %s. Wyczyścić kosz?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Wyczyść</string>
+  <string name="exit_dialog_garbage_clean_title">Czyszczenie kosza</string>
+  <string name="exit_dialog_homepage_optimise_message">Wynik wydajności Twojego urządzenia jest niższy niż 80 punktów. Czy chcesz zoptymalizować je teraz?</string>
+  <string name="exit_dialog_release_storage_message">Więcej niż 80% pamięci telefonu jest zajęte. Zwolnij miejsce, odinstalowując nigdy nieużywane aplikacje.</string>
+  <string name="exit_dialog_release_storage_positive_button">Zwolnij miejsce</string>
+  <string name="exit_dialog_release_storage_title">Zwolnij miejsce</string>
+  <string name="exit_dialog_scan_message">Wynik wydajności Twojego urządzenia jest niższy niż 75 punktów. Czy chcesz zoptymalizować je teraz?</string>
+  <string name="exit_dialog_scan_positive_button">Optymalizuj</string>
+  <string name="exit_dialog_scan_title">Optymalizacja wydajności</string>
   <string name="finger_remind_message">Dodaj najpierw odcisk palca. Dotknij Ustawienia, aby skonfigurować.</string>
   <string name="fingerprint_identify_msg">Włącz odblokowywanie odciskiem palca</string>
   <string name="fingerprint_not_identified_msg">Nie udało się odczytać odcisku palca. Wpisz swoje hasło</string>
@@ -757,16 +759,24 @@
   <string name="gamebooster_main_activity_back">Wstecz</string>
   <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji do przyśpieszenia gier?</string>
   <string name="gamebooster_network_dialog_title">Niektóre funkcje nie są dostępne</string>
+  <string name="gamebox_qq_not_find">Install QQ and try again.</string>
+  <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
   <string name="gateway_exception_summary">Sprawdź router i spróbuj ponownie</string>
   <string name="gateway_exception_summary2">Nie można połączyć się z serwerem</string>
   <string name="gateway_exception_title">Sprawdź router</string>
   <string name="gb_ad_game_size">MB</string>
-  <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Odbierz</string>
   <string name="gb_description_image_button_reject">Odmów</string>
   <string name="gb_description_image_button_video_answer">Rozmowa wideo</string>
   <string name="gb_get_gift_right_now">Check in now</string>
   <string name="gb_have_signed">Checked in today</string>
+  <string name="gb_msg_completely_shielded">Ukryj wiadomości</string>
+  <string name="gb_msg_completely_shielded_summary">Ukryj</string>
+  <string name="gb_msg_not_shielded_summary">Pokaż</string>
+  <string name="gb_msg_quickly_answer">Zgoda na szybkie odpowiedzi</string>
+  <string name="gb_msg_quickly_answer_summary">Szybkie odpowiedzi</string>
+  <string name="gb_msg_transparent_dispaly">Powiadomienia z przezroczystym tłem</string>
+  <string name="gb_msg_transparent_dispaly_summary">Przezroczystość</string>
   <string name="gb_network_status_bad">A connection error occurred.</string>
   <string name="gb_new_feature">Nowa funkcja</string>
   <string name="gb_sign_gift">Check in to get rewards</string>
@@ -805,6 +815,8 @@
   <string name="gs_game_net_priority_detail">Ogranicz prędkość pobierania, aby zapewnić odpowiednią przepustowość</string>
   <string name="gs_game_performance">Wydajność</string>
   <string name="gs_game_shortcut">Popraw swoje doznania w grach</string>
+  <string name="gs_gamebox">Skróty w grze</string>
+  <string name="gs_gamebox_detail">Pokaż panel skrótów w grze</string>
   <string name="gs_only_self_start_for_list">Blokuj procesy działające w tle, aby oszczędzić baterię dla gier</string>
   <string name="gs_open_game_booster">Przyspiesz prędkość</string>
   <string name="gs_open_game_booster_summary">Zwiększ prędkość sieci dla gier</string>
@@ -896,7 +908,6 @@
   <string name="label_callwait">Powiadomienie o połączeniu oczekującym</string>
   <string name="label_mi_stats">Analizy Mi</string>
   <string name="last_check_canceled">Ostatni skan został anulowany</string>
-  <string name="left_precent">60%</string>
   <string name="legal_workday">Dni robocze</string>
   <string name="legal_workday_invalidate">Pon.-Pt. (informacje o świętach nieaktualne)</string>
   <string name="legal_workday_invalidate_message">Dotknij, by zaktualizować dane o dniach wolnych.</string>
@@ -943,7 +954,6 @@
   <string name="lockscreen_glogin_password_hint">Hasło</string>
   <string name="lockscreen_glogin_submit_button">Zaloguj się</string>
   <string name="loding">Wczytywanie danych</string>
-  <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Zachowaj wyniki na liście, aby dodać je do wyjątków</string>
   <string name="long_click_dialog_title">Powiadomienie</string>
   <string name="low_memory_warning_dialog_cancel_button">Anuluj</string>
@@ -990,6 +1000,7 @@
   <string name="main_toolbar_statistic">Szczegóły użycia danych</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Ręcznie dodaj aplikacje startowe</string>
+  <string name="managed_user_title">Pracujące aplikacje</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Użycie danych</string>
   <string name="manual_item_white_list_summary">Aplikacje z wyjątków nie będą sprawdzane</string>
@@ -1054,7 +1065,6 @@
   <string name="menu_item_install_debug_package">Zainstaluj pakiet debugowania</string>
   <string name="menu_item_notification_antispam_text_avail">Lista blokowanych</string>
   <string name="menu_item_notification_antispam_text_normal">Lista blokowanych</string>
-  <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_power_text">Zasilanie</string>
   <string name="menu_item_notification_title">Pokaż na pasku powiadomień</string>
   <string name="menu_item_shortcut_summary">Dodaj na pulpit wybrane moduły Panelu Sterowania</string>
@@ -1067,6 +1077,7 @@
   <string name="menu_item_virus_lib_auto_update_summary">Ostatnia aktualizacja: %s</string>
   <string name="menu_remove">Usuń</string>
   <string name="menu_report">Zgłoś błąd</string>
+  <string name="menu_setting_traffic">Ustawienia manualne</string>
   <string name="menu_sms">Wyślij wiadomość</string>
   <string name="menu_text_antispam">Lista blokowanych</string>
   <string name="menu_text_antivirus">Skanowanie bezpieczeństwa</string>
@@ -1083,6 +1094,7 @@
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Przyspiesz prędkość</string>
   <string name="menu_text_power_manager">Zużycie baterii</string>
+  <string name="menu_text_power_percent">Bateria: %s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="menu_wh_remove">Usuń z wyjątków</string>
@@ -1090,6 +1102,8 @@
   <string name="mi_service_app_detail">Szczegóły</string>
   <string name="mi_service_traffic_detail">Szczegóły usługi</string>
   <string name="mian_page_primary_txt">Roaming</string>
+  <string name="midrop_post_notification_contentText">Wypróbuj Mi Drop. Jest szybki i bez reklam.</string>
+  <string name="midrop_post_notification_contentTitle">Potrzebujesz przegrać pliki?</string>
   <string name="mixed_need_to_confirm">Wprowadź ponownie, aby potwierdzić</string>
   <string name="mixed_password_confirmed_header_confirm">Pomyślnie ustawiono. Dotknij aby potwierdzić.</string>
   <string name="mixed_password_confirmed_header_continue">Pomyślnie ustawiono. Dotknij \"Dalej\".</string>
@@ -1227,20 +1241,12 @@
   <string name="om_settings_notify_manage">Powiadomienia</string>
   <string name="om_settings_speed_up_auto">Automatyczne przyspieszenie prędkość</string>
   <string name="om_settings_title">Ustawienia optymalizacji</string>
-  <string name="one_address_choose_hint">%s1</string>
   <string name="open_activity_err">Aplikacje nie została znaleziona</string>
   <string name="open_app">Otwórz</string>
   <string name="open_callwait">Włączone</string>
   <string name="open_game">Otwórz</string>
   <string name="open_now">Zezwól aplikacjom na korzystanie z sieci mobilnej</string>
   <string name="operator_diagnostic">Diagnostyka operatora</string>
-  <string name="operator_mi_sim">Mi SIM</string>
-  <string name="operator_name_cmcc">China Mobile</string>
-  <string name="operator_name_telcom">China Telecom</string>
-  <string name="operator_name_unicom">China Unicom</string>
-  <string name="operator_number_cmcc">10086</string>
-  <string name="operator_number_telcom">10000</string>
-  <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">Przyspiesz prędkość</string>
   <string name="optimize_result_ads_close_text">Reklama</string>
   <string name="optimize_result_available_memory_info">Dostępna pamięć</string>
@@ -1312,13 +1318,9 @@
   <string name="path_securitycenter_settings">Aplikacje systemowe/Panel Sterowania</string>
   <string name="path_usb_install">Aplikacje systemowe/Panel Sterowania/Uprawnienia/Instaluj przez USB</string>
   <string name="pc_activity_title">Optymalizacja baterii</string>
-  <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instalator USB</string>
   <string name="pc_to_phone_install">Zablokowano %s instalacji przez USB</string>
   <string name="per_month_pkg_traffic_settings">Limit miesięcznej transmisji</string>
-  <string name="percent_formatted_text">%s%%</string>
-  <string name="percent_text_formatted">%s%%</string>
-  <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Zezwól</string>
   <string name="permission_action_prompt">Pytaj</string>
   <string name="permission_action_reject">Odmów</string>
@@ -1346,13 +1348,11 @@
   <string name="power_analysis_consume_title">Zużycie baterii</string>
   <string name="power_analysis_suggestion_need_optimize">Wykryto problemy ze zużyciem baterii.</string>
   <string name="power_autorun_apps_empty">Brak aplikacji startowych</string>
-  <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analizuj zużycie baterii</string>
   <string name="power_cell">Sygnał sieci</string>
   <string name="power_center_auto_shutdown">Zaplanowane włączenie/wyłączenie</string>
   <string name="power_center_back">Wróć do zużycia baterii</string>
   <string name="power_center_charge_time">%1$s do pełnego naładowania</string>
-  <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Uruchom o czasie</string>
   <string name="power_center_ontime_shutdown">Wyłącz o czasie</string>
   <string name="power_center_repeat">Powtarzanie</string>
@@ -1553,7 +1553,6 @@
   <string name="result_sms_title_antispam">Zagrożenie przez złośliwy URL w SMS</string>
   <string name="result_sms_title_auth">Istnieje zagrożenia wycieku danych finansowych SMS</string>
   <string name="result_wifi_header">Wykryto zagrożenia Wi-Fi</string>
-  <string name="right_precent">100%</string>
   <string name="roaming_allow_network_dialog_title">Zezwolić na roaming trasferu danych?</string>
   <string name="roaming_limit_dialog_message">Osiągnięto dzienny limit w roamingu</string>
   <string name="roaming_limit_network_notification_body">Pokaż dostępne sieci</string>
@@ -1593,8 +1592,8 @@
   <string name="scan_installed_games">Sprawdzenie zainstalowanych gier…</string>
   <string name="scan_status_risk">Zagrożony</string>
   <string name="scan_status_safe">Bezpieczny</string>
-  <string name="scanning_bar_number">%d%%</string>
   <string name="score_pts">%</string>
+  <string name="screenrecord_not_find">Zainstaluj najnowszą wersję Nagrywania ekranu i spróbuj ponownie.</string>
   <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
   <string name="search_result_text">Nie udało się znaleźć żadnych aplikacji</string>
   <string name="section_clear_acc_item_title">%s. Jeśli ciągle jest za mało pamięci, spróbuj użyć Sprzątacza.</string>
@@ -1654,6 +1653,7 @@
   <string name="sms_contact_block">Blokuj SMS od kontaktów</string>
   <string name="sms_delete_hint">Usunąć wszystkie zablokowane wiadomości z tego numeru?</string>
   <string name="sms_delete_title">Usuń wiadomości</string>
+  <string name="sms_detail_correct_success_text">Oto statystyki wykorzystania danych z poprzedniej kalibracji (%1$s):</string>
   <string name="sms_detail_fragment_title_bill">Bilans środków</string>
   <string name="sms_detail_fragment_title_traffic">Pozostało danych</string>
   <string name="sms_filter">Inteligentny filtr</string>
@@ -1773,7 +1773,6 @@
   <string name="st_summary_special_numbers">Zablokuj oznaczone numery telefonu</string>
   <string name="st_summary_whitelist_numbers">Zezwalaj na połączenia i wiadomości z wybranych numerów i kierunków</string>
   <string name="st_summary_whitelist_numbers_international">Zezwalaj na połączenia i wiadomości z wybranych numerów</string>
-  <string name="st_tab_title">%1$s (SIM %2$d)</string>
   <string name="st_title_addblacklist">Dodaj do listy blokowanych</string>
   <string name="st_title_addwhitelist">Dodaj do wyjątków</string>
   <string name="st_title_adress">Dodaj lokalizację</string>
@@ -1826,6 +1825,9 @@
   <string name="suggest_scan_again">Zakończ skanowanie, aby uniknąć zagrożeń.</string>
   <string name="summary_app_lock_disable">Chroń swoje dane Blokując aplikacje</string>
   <string name="summary_auto_update">MIUI wybierze najbardziej odpowiedni czas do pobrania i zainstalowania aktualizacji.</string>
+  <string name="summary_background_connection">Ograniczyłeś łączność w tle dla tej aplikacji. Dotknij, aby to naprawić.</string>
+  <string name="summary_block_calls_from_cantacts">Używasz listy blokowanych. Dotknij, aby to naprawić.</string>
+  <string name="summary_block_calls_from_strangers">Akceptujesz tylko połączenia od kontaktów. Dotknij, aby to naprawić.</string>
   <string name="summary_cleaner_cloudscan">Kopiuj do chmury nazwy katalogów i porównaj z definicjami online</string>
   <string name="summary_cloud_account">Wykorzystaj potencjał swoich urządzeń Xiaomi</string>
   <string name="summary_cloud_service">Synchronizuj zdjęcia, kontakty i inne ze swoimi urządzeniami</string>
@@ -1836,6 +1838,8 @@
   <string name="summary_data_flow">Kontroluj wykorzystanie danych sieci komórkowej, aby uniknąć dodatkowych opłat</string>
   <string name="summary_default_app">%s nie jest domyślną aplikacją</string>
   <string name="summary_dev">Sprawdzaj aplikacje mające dostęp do prywatnych danych</string>
+  <string name="summary_do_not_disturb">Używasz trybu Nie przeszkadzać. Dotknij, aby to naprawić.</string>
+  <string name="summary_eye_shield">Używasz Trybu czytania. Dotknij, aby to naprawić.</string>
   <string name="summary_find_device">Zlokalizuj lub zablokuj zdalnie swoje urządzenie</string>
   <string name="summary_flow_notification">Pokaż miesięczne użycie danych na pasku powiadomień</string>
   <string name="summary_flow_purchase">Wygląda na to, że nie dużo danych pozostało. Kup pakiet danych aby pozostać w kontakcie.</string>
@@ -1853,6 +1857,7 @@
   <string name="summary_permission_root">Wygląda na to urządzenie ma dostęp do roota. Może to spowodować uszkodzenie zabezpieczeń urządzenia.</string>
   <string name="summary_power_optimizer">Zmniejsz wydajność urządzenia</string>
   <string name="summary_realname_verify">Zweryfikuj swoją tożsamość, aby zabezpieczyć płatności.</string>
+  <string name="summary_restrict_data_usage">Ograniczyłeś użycie danych dla tej aplikacji. Dotknij, aby to naprawić.</string>
   <string name="summary_show_notification">Wyczyść pamięć podręczną, stan widoku baterii i blok przedmiotów na pasku powiadomień</string>
   <string name="summary_telecom_operator">(funkcja niedostępna w Europie)</string>
   <string name="summary_usb">Chroń przed wirusami przenoszonymi przez połączenie USB</string>
@@ -1875,6 +1880,7 @@
   <string name="tab_guide">Przewodnik</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Lista blokowanych</string>
+  <string name="tc_cmd_invalid">Szablon jest niewłaściwy</string>
   <string name="tc_diagnostic_all_error_notification_summary">Dotknij, aby zgłosić problem</string>
   <string name="tc_diagnostic_all_error_notification_title">Nie można ukończyć diagnostyki</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Dotknij, aby poprawić typ sieci</string>
@@ -1912,6 +1918,10 @@
   <string name="tc_diagnostic_upload_button">Zgłoś</string>
   <string name="tc_diagnostic_upload_no_network">Dziękujemy za opinię! Twoje zgłoszenie zostanie wysłane, kiedy podłączysz się do sieci.</string>
   <string name="tc_diagnostic_upload_success">Dziękujemy za opinię!</string>
+  <string name="tc_get_cmd_error">Nie można pobrać szablonu</string>
+  <string name="tc_parse_error">Nie można przeanalizować wiadomości SMS</string>
+  <string name="tc_receive_timeout">Kalibracja przekroczyła limit czasu</string>
+  <string name="tc_send_sms_error">Nie można wysłać SMS</string>
   <string name="tc_sms_report_direction">Wyślij kod SMS</string>
   <string name="tc_sms_report_do_report">Wyślij</string>
   <string name="tc_sms_report_get_default">Nie będziesz obciążony opłatami za wiadomości od operatora o użyciu danych.</string>
@@ -1945,6 +1955,7 @@
   <string name="tc_sms_report_type">Typ zgłoszenia</string>
   <string name="tc_sms_report_upload_success">Wysłano raport SMS o wykorzystaniu danych. Już się za niego zabieramy!</string>
   <string name="tc_sms_report_upload_when_net">Dziękujemy za przesłaną opinię!</string>
+  <string name="tc_web_correct_error">Nie udało się skalibrować</string>
   <string name="ten_percent_total_pkg">%s (10%% miesięcznego pakietu danych)</string>
   <string name="tether_custom_dialog_title">Limity danych mobilnych</string>
   <string name="tether_limit_dialog_title">Limity danych mobilnych</string>
@@ -1955,7 +1966,6 @@
   <string name="tether_over_limit_warning_notify_message">Wyłącz przenośny hotspot.</string>
   <string name="tether_over_limit_warning_notify_title">Osiągnięto limit danych hotspotu</string>
   <string name="text_button">Rozumiem</string>
-  <string name="text_cycle_day">%s</string>
   <string name="thermal_tips_message">Granie w gry w trybie wydajności może powodować przegrzanie.</string>
   <string name="thermal_tips_title">Powiadomienie</string>
   <string name="third_application">Zainstalowane aplikacje</string>
@@ -1971,10 +1981,12 @@
   <string name="title_app_lock_disable">Zablokuj aplikacje</string>
   <string name="title_app_update">Dostępne aktualizacje</string>
   <string name="title_auto_update">Aktualizuj automatycznie</string>
+  <string name="title_background_connection">Nie możesz użyć %s w tle?</string>
+  <string name="title_block_calls_from_cantacts">Brakuje połączeń od twoich kontaktów?</string>
+  <string name="title_block_calls_from_strangers">Brakuje ważnych połączeń?</string>
   <string name="title_chain_start">Ogranicz uruchamianie łańcuchowe</string>
   <string name="title_cleaner_cloudscan">Skanowanie śmieci chmury</string>
   <string name="title_cloud_account">Wpisz się na konto Xiaomi</string>
-  <string name="title_cloud_service">Chmura Xiaomi jest wyłączona</string>
   <string name="title_cloud_space_almost_full">Przestrzeń w Chmurze jest prawie pełna, elementy mogą się nie synchronizować</string>
   <string name="title_cloud_space_full">Chmura jest pełna</string>
   <string name="title_cmcc_app_check">Weryfikacja nie została zakończona</string>
@@ -1985,6 +1997,8 @@
   <string name="title_dev_no">Opcje programistyczne włączone</string>
   <string name="title_dev_yes">Opcje programistyczne wyłączone</string>
   <string name="title_device_not_root">Dostęp do root nie został przydzielony</string>
+  <string name="title_do_not_disturb">Nie słychać Twojego dzwonka?</string>
+  <string name="title_eye_shield">Kolor ekranu nie wygląda dobrze?</string>
   <string name="title_find_device">Znajdź urządzenie</string>
   <string name="title_flow_notification">Powiadomienie danych mobilnych</string>
   <string name="title_flow_purchase">Kup pakiet danych komórkowych</string>
@@ -2012,6 +2026,7 @@
   <string name="title_permission_yes">Monitor uprawnień włączony</string>
   <string name="title_power_optimizer">Oszczędzanie baterii</string>
   <string name="title_realname_verify">Weryfikacja ID</string>
+  <string name="title_restrict_data_usage">%s nie może połączyć się z Internetem?</string>
   <string name="title_show_notification">Widżet paska powiadomień</string>
   <string name="title_system_auto_download">Aktualizacje zostaną pobrane automatycznie</string>
   <string name="title_telecom_operator">Automatycznie</string>
@@ -2117,7 +2132,6 @@
   <string name="usage_type_cpu_foreground">CPU (pierwszy plan)</string>
   <string name="usage_type_data_recv">Dane mobilne odebrane</string>
   <string name="usage_type_data_send">Dane mobilne wysłane</string>
-  <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Czas braku sygnału</string>
   <string name="usage_type_on_time">Włączony</string>
   <string name="usage_type_video">Wideo</string>
@@ -2134,7 +2148,6 @@
   <string name="user_define_title">Dodaj regułę</string>
   <string name="virus_ad_icon_text">Reklama</string>
   <string name="virus_auto_update_engine">Automatyczne aktualizacje：%s</string>
-  <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Ostrzeżenie</string>
   <string name="virus_wait_network_dialog_message">Twój telefon nie jest połączony z Wi-Fi. Użyć połączenia danych mobilnych?</string>
   <string name="wakepath_confirm_start_activity">Zezwolić %1$s na otwarcie %2$s?</string>
@@ -2161,56 +2174,4 @@
   <string name="xunyou_net_booster_detail">Użyj usług przyspieszenia prędkości Xunyou dla grania</string>
   <string name="xunyou_pay_webview">Usługi Xunyou</string>
   <string name="xunyou_server_expired">Sesja wygasła.</string>
-  <string name="dialog_button_ignore">Zignoruj</string>
-	<string name="dialog_button_yes">Tak</string>
-	<string name="summary_background_connection">Ograniczyłeś łączność w tle dla tej aplikacji. Dotknij, aby to naprawić.</string>
-	<string name="summary_block_calls_from_cantacts">"Używasz listy blokowanych. Dotknij, aby to naprawić."</string>
-	<string name="summary_block_calls_from_strangers">Akceptujesz tylko połączenia od kontaktów. Dotknij, aby to naprawić.</string>
-	<string name="summary_do_not_disturb">"Używasz trybu Nie przeszkadzać. Dotknij, aby to naprawić."</string>
-	<string name="summary_eye_shield">"Używasz Trybu czytania. Dotknij, aby to naprawić."</string>
-	<string name="summary_restrict_data_usage">Ograniczyłeś użycie danych dla tej aplikacji. Dotknij, aby to naprawić.</string>
-	<string name="title_background_connection">"Nie możesz użyć %s w tle?"</string>
-	<string name="title_block_calls_from_cantacts">Brakuje połączeń od twoich kontaktów?</string>
-	<string name="title_block_calls_from_strangers">Brakuje ważnych połączeń?</string>
-	<string name="title_do_not_disturb">"Nie słychać Twojego dzwonka?"</string>
-	<string name="title_eye_shield">"Kolor ekranu nie wygląda dobrze?"</string>
-	<string name="title_restrict_data_usage">"%s nie może połączyć się z Internetem?"</string>
-	<string name="exit_dialog_garbage_clean_message">Ilość śmieci na Twoim urządzeniu jest większa niż %s. Wyczyścić kosz?</string>
-  <string name="exit_dialog_garbage_clean_positive_button">Wyczyść</string>
-  <string name="exit_dialog_garbage_clean_title">Czyszczenie kosza</string>
-  <string name="exit_dialog_release_storage_message">Więcej niż 80% pamięci telefonu jest zajęte. Zwolnij miejsce, odinstalowując nigdy nieużywane aplikacje.</string>
-  <string name="exit_dialog_release_storage_positive_button">Zwolnij miejsce</string>
-  <string name="exit_dialog_release_storage_title">Zwolnij miejsce</string>
-  <string name="exit_dialog_scan_message">"Wynik wydajności Twojego urządzenia jest niższy niż 75 punktów. Czy chcesz zoptymalizować je teraz?"</string>
-  <string name="exit_dialog_scan_positive_button">Optymalizuj</string>
-  <string name="exit_dialog_scan_title">Optymalizacja wydajności</string>
-  <string name="exit_dialog_homepage_optimise_message">"Wynik wydajności Twojego urządzenia jest niższy niż 80 punktów. Czy chcesz zoptymalizować je teraz?"</string>
-  <string name="gb_msg_completely_shielded">Ukryj wiadomości</string>
-  <string name="gb_msg_completely_shielded_summary">Ukryj</string>
-  <string name="gb_msg_quickly_answer">Zgoda na szybkie odpowiedzi</string>
-  <string name="gb_msg_quickly_answer_summary">Szybkie odpowiedzi</string>
-  <string name="gb_msg_transparent_dispaly">Powiadomienia z przezroczystym tłem</string>
-  <string name="gb_msg_transparent_dispaly_summary">Przezroczystość</string>
-  <string name="managed_user_title">Pracujące aplikacje</string>
-  <string name="adjust_sms_cmd">&lt;u&gt;Dostosuj szablon kalibracji SMS&lt;/u&gt;</string>
-  <string name="dialog_roaming_warning_checkbox">"Nie pokazuj ponownie"</string>
-  <string name="dialog_roaming_warning_message">Po włączeniu transmisji danych w roamingu międzynarodowym operator naliczy opłatę. Włączyć mimo to?</string>
-  <string name="dialog_roaming_warning_ok">Włącz</string>
-  <string name="sms_detail_correct_success_text">"Oto statystyki wykorzystania danych z poprzedniej kalibracji (%1$s):"</string>
-  <string name="tc_cmd_invalid">Szablon jest niewłaściwy</string>
-  <string name="tc_get_cmd_error">"Nie można pobrać szablonu"</string>
-  <string name="tc_parse_error">"Nie można przeanalizować wiadomości SMS"</string>
-  <string name="tc_receive_timeout">Kalibracja przekroczyła limit czasu</string>
-  <string name="tc_send_sms_error">"Nie można wysłać SMS"</string>
-  <string name="tc_web_correct_error">"Nie udało się skalibrować"</string>
-  <string name="menu_setting_traffic">Ustawienia manualne</string>
-  <string name="gb_msg_not_shielded_summary">Pokaż</string>
-  <string name="gamebox_qq_not_find">Install QQ and try again.</string>
-  <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
-  <string name="gb_msg_not_shielded_summary">Pokaż</string>
-  <string name="gs_gamebox">Skróty w grze</string>
-  <string name="gs_gamebox_detail">Pokaż panel skrótów w grze</string>
-  <string name="midrop_post_notification_contentText">"Wypróbuj Mi Drop. Jest szybki i bez reklam."</string>
-  <string name="midrop_post_notification_contentTitle">Potrzebujesz przegrać pliki?</string>
-  <string name="screenrecord_not_find">Zainstaluj najnowszą wersję Nagrywania ekranu i spróbuj ponownie.</string>
 </resources>
