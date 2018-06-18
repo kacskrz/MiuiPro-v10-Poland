@@ -2206,11 +2206,11 @@
   <string name="menu_setting_traffic">Ustawienia manualne</string>
   <string name="gb_msg_not_shielded_summary">Pokaż</string>
   <string name="gamebox_qq_not_find">Install QQ and try again.</string>
-     <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
-     <string name="gb_msg_not_shielded_summary">Pokaż</string>
-     <string name="gs_gamebox">Skróty w grze</string>
-     <string name="gs_gamebox_detail">Pokaż panel skrótów w grze</string>
-     <string name="midrop_post_notification_contentText">"Wypróbuj Mi Drop. Jest szybki i bez reklam."</string>
-     <string name="midrop_post_notification_contentTitle">Potrzebujesz przegrać pliki?</string>
-     <string name="screenrecord_not_find">Zainstaluj najnowszą wersję Nagrywania ekranu i spróbuj ponownie.</string>
+  <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
+  <string name="gb_msg_not_shielded_summary">Pokaż</string>
+  <string name="gs_gamebox">Skróty w grze</string>
+  <string name="gs_gamebox_detail">Pokaż panel skrótów w grze</string>
+  <string name="midrop_post_notification_contentText">"Wypróbuj Mi Drop. Jest szybki i bez reklam."</string>
+  <string name="midrop_post_notification_contentTitle">Potrzebujesz przegrać pliki?</string>
+  <string name="screenrecord_not_find">Zainstaluj najnowszą wersję Nagrywania ekranu i spróbuj ponownie.</string>
 </resources>

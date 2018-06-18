@@ -1223,13 +1223,13 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="yellowpage_user_profile">Profile</string>
     <string name="yesterday">Wczoraj</string>
     <string name="zero_items_selected">Nic nie zaznaczono</string>
-	<string name="pref_key_sdn_manage">Wyświetl SDN</string>
-	<string name="pref_key_sdn_manage1">Wyświetl SDN karty 1</string>
-	<string name="pref_key_sdn_manage2">Wyświetl SDN karty 2</string>
-	<string name="sdnContacts_empty">Brak SDN</string>
-	<string name="sdnContacts_emptyLoading">Ładowanie SDN…</string>
-	<string name="special_code_security_exception">Operacja odrzucona:niedomyślny dialer</string>
-	<string name="no_setting_menu">Brak dostępnego menu ustawień</string>
-	<string name="contact_detail_entry_pay_request">Żądanie pieniędzy</string>
-	<string name="preference_show_firewall_calllog">Pokaż blokowane połączenia w historii połączeń</string>
+    <string name="pref_key_sdn_manage">Wyświetl SDN</string>
+    <string name="pref_key_sdn_manage1">Wyświetl SDN karty 1</string>
+    <string name="pref_key_sdn_manage2">Wyświetl SDN karty 2</string>
+    <string name="sdnContacts_empty">Brak SDN</string>
+    <string name="sdnContacts_emptyLoading">Ładowanie SDN…</string>
+    <string name="special_code_security_exception">Operacja odrzucona:niedomyślny dialer</string>
+    <string name="no_setting_menu">Brak dostępnego menu ustawień</string>
+    <string name="contact_detail_entry_pay_request">Żądanie pieniędzy</string>
+    <string name="preference_show_firewall_calllog">Pokaż blokowane połączenia w historii połączeń</string>
 </resources>
