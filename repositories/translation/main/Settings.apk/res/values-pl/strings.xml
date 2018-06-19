@@ -4232,7 +4232,7 @@
   <string name="status_bar_settings_notification_vibrate">Wibracje</string>
   <string name="status_bar_settings_show_carrier">Pokaż nazwę operatora</string>
   <string name="status_bar_settings_show_carrier_summary">Gdy ta funkcja jest wyłączona, nazwa operatora jest wciąż wyświetlana na ekranie blokady i na pasku powiadomień</string>
-  <string name="status_bar_settings_show_carrier_under_keyguard">Show carrier when device is locked</string>
+  <string name="status_bar_settings_show_carrier_under_keyguard">Pokaż nazwę operatora, gdy urządzenie jest zablokowane</string>
   <string name="status_bar_settings_show_floating_notification">Pływające powiadomienia</string>
   <string name="status_bar_settings_show_floating_notification_summary">Pływające powiadomienia znikną automatycznie po wyświetleniu na górze ekranu</string>
   <string name="status_bar_settings_show_flow_info">Pokaż użycie danych</string>
