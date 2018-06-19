@@ -2174,4 +2174,7 @@
   <string name="xunyou_net_booster_detail">Użyj usług przyspieszenia prędkości Xunyou dla grania</string>
   <string name="xunyou_pay_webview">Usługi Xunyou</string>
   <string name="xunyou_server_expired">Sesja wygasła.</string>
+   <string name="gamebox_type_close">"Nie pokazuj"</string>
+  <string name="gamebox_type_float">Specjalny skrót</string>
+  <string name="gamebox_type_gesture">Przesuń, by pokazać</string>
 </resources>
