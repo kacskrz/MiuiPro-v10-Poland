@@ -92,6 +92,7 @@
   <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_recommend">Więcej aplikacji</string>
   <string name="default_folder_title_security">System</string>
+  <string name="default_folder_title_services">Usługi</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Narzędzia</string>
   <string name="default_screen_preview_title">Dotknij, aby ustawić ekran domyślny</string>
@@ -235,8 +236,9 @@
   <string name="open_personal_assistant_dialog_btn_cancel">Zakończ</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Wyłącz</string>
   <string name="open_personal_assistant_dialog_desc">Nie będziesz w stanie korzystać z Asystenta MIUI ani otrzymywać jego aktualizacji. Wyłączyć teraz?</string>
+  <string name="open_personal_assistant_dialog_desc_international">"Nie będziesz w stanie korzystać z kart Asystenta MIUI (Skróty, Akcje itd.) oraz otrzymywać jego aktualizacji po wyłączeniu tej funkcji."</string>
   <string name="open_personal_assistant_dialog_title">Wyłącz Asystenta MIUI</string>
-  <string name="open_personal_assistant_title">Włącz Asystenta MIUI</string>
+  <string name="open_personal_assistant_title">Asystent MIUI</string>
   <string name="out_of_space">Nie ma miejsca na tym ekranie głównym</string>
   <string name="permdesc_install_shortcut">Zezwala aplikacji na dodawanie skrótów bez informowania użytkownika.</string>
   <string name="permdesc_install_widget">Zezwala aplikacji na dodawanie widżetów bez informowania użytkownika.</string>

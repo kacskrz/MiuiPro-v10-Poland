@@ -206,6 +206,9 @@
     <string name="custom_head_card_text">Zawsze wierz, że może się zdarzyć coś wspaniałego</string>
     <string name="custom_head_card_text_incognito">"Jesteś w trybie incognito!
 Strony, które przeglądasz, nie pojawią się w historii."</string>
+    <string name="data_traffic_continue">Kontynuuj</string>
+    <string name="data_traffic_goto">Darmowy pakiet danych</string>
+	<string name="data_traffic_prompt_free_data">Używanie sieci komórkowej do oglądania wideo zwiększy użycie danych mobilnych. Prosimy o uzyskanie darmowego pakietu danych.</string>
     <string name="data_traffic_prompt_change">Używanie sieci komórkowej do oglądania wideo zwiększy użycie danych mobilnych. Jeśli przekroczysz limit pakietu danych, twój operator może naliczyć dodatkowe opłaty.</string>
     <string name="data_traffic_prompt_message">Używanie sieci komórkowej do przeglądania wideo zwiększy użycie danych mobilnych. Jeśli przekroczysz limit pakietu danych, twój operator może naliczyć dodatkowe opłaty.</string>
     <string name="data_traffic_prompt_message_short">Wykorzystanie danych mobilnych do przesyłania wideo może spowodować przekroczenie limitu pakietu danych.</string>
@@ -965,12 +968,14 @@ Pamiętaj, że pobrane pliki i dodane zakładki będą zapisane."</string>
   <string name="enter_infoflow_guide">Przesuń w górę, aby zobaczyć wiadomości</string>
   <string name="hot_words_item_ads_mark">Reklamy</string>
   <string name="info_flow_description">Kanał informacyjny</string>
-  <string name="message_notice_push">Ostatnie hot spoty już nie znikną!</string>
+  <string name="message_notice_push">Poznaj moje dane osobowe</string>
   <string name="pref_navscreen_layoutstate_title">Zarządzanie wieloma oknami</string>
   <string name="refresh_description">Odśwież</string>
   <string name="suggestion_clear_record_message">Czy potwierdzasz wprowadzenie pustego rekordu?</string>
-  <string name="title_notice_push">Przypomnienie</string>
+  <string name="title_notice_push">Włącz powiadomienia push</string>
   <string name="short_video_description">Kanał wideo</string>
   <string name="short_video_tip">Zobacz świetne wideo!</string>
   <string name="save_file_suffix">plik</string>
+  <string name="action_imme_open">Otwórz natychmiast</string>
+  <string name="screenshot_loading_dialog_title">Tworzenie</string>
 </resources>

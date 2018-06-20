@@ -23,7 +23,7 @@
         <item quantity="one">Pozostała %d sekunda</item>
      </plurals>
      <plurals name="word_count">
-        <item quantity="other">%s Charakterów</item>
-        <item quantity="one">%s Charakter</item>
+        <item quantity="other">%s słów</item>
+        <item quantity="one">%s słowo</item>
      </plurals>
 </resources>

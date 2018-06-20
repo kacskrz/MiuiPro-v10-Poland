@@ -5668,4 +5668,10 @@
   <string name="zone_auto_summaryOn">Użyj strefy czasowej podanej przez sieć</string>
   <string name="zone_list_menu_sort_alphabetically">Sortuj alfabetycznie</string>
   <string name="zone_list_menu_sort_by_timezone">Sortuj według strefy czasowej</string>
+  <string name="cancel_description">Zakończ</string>
+  <string name="confirm_description">Potwierdź</string>
+  <string name="fallback_home_title">Chwileczkę…</string>
+  <string name="key_fsg_dialog_message">"Używasz gestów pełnoekranowych do nawigacji urządzeniem. Funkcje oparte na przyciskach są teraz niedostępne. Przełączyć się na nie?"</string>
+  <string name="key_fsg_dialog_negative">Zakończ</string>
+  <string name="key_fsg_dialog_positive">Przełącz na przyciski</string>
 </resources>

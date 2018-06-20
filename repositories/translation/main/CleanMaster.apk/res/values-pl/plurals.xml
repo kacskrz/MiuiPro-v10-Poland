@@ -151,13 +151,13 @@
         <item quantity="one">%1$d sekunda</item>
      </plurals>
 	 <plurals name="clean_long_msg_p1">
-         <item quantity="other">"Czyszczenie %1$d plików,%2$d ukończono 
+         <item quantity="other">"Czyszczenie %1$d plików (%2$d%%)
  "</item>
-         <item quantity="one">"Czyszczenie %1$d pliku,%2$d ukończono 
+         <item quantity="one">"Czyszczenie %1$d pliku (%2$d%%)
  "</item>
      </plurals>
      <plurals name="clean_long_msg_p2">
-         <item quantity="other">%1$d%% elementów/s pozostało czasu:%2$s</item>
-         <item quantity="one">%1$d%% elementów/s pozostało czasu:%2$s</item>
+         <item quantity="other">%1$d%% elementów na sekundę | Pozostało czasu: %2$s</item>
+         <item quantity="one">%1$d%% element na sekundę | Pozostało czasu: %2$s</item>
      </plurals> 
 </resources>
