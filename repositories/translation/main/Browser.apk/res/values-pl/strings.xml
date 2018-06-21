@@ -978,4 +978,16 @@ Pamiętaj, że pobrane pliki i dodane zakładki będą zapisane."</string>
   <string name="save_file_suffix">plik</string>
   <string name="action_imme_open">Otwórz natychmiast</string>
   <string name="screenshot_loading_dialog_title">Tworzenie</string>
+  <string name="bubble_guide_logined_text">Zaloguj się, aby uzyskać szczęśliwe losowanie</string>
+  <string name="bubble_guide_unlogined_text">Zaloguj się, aby korzystać z przywilejów</string>
+  <string name="custom_head_pull_down_text">Wprowadź infoFlow</string>
+  <string name="network_not_available_comment">Brak łączności z Internetem, nie można skomentować</string>
+  <string name="suggest_access_item_topic_mark">TEMAT</string>
+  <string name="suggestion_more_button_text">ZOBACZ WIĘCEJ</string>
+  <string name="suggestion_more_news">WIĘCEJ WIADOMOŚCI</string>
+  <string name="suggestion_more_news_start_title_text">Powiązane wiadomości</string>
+  <string name="suggestion_topic_subtitle_hyphen">Fokus</string>
+  <string name="action_menu_request_desktop_site">Wersja na PC</string>
+  <string name="action_menu_request_desktop_site_off">Wersja na PC jest wyłączona</string>
+  <string name="action_menu_request_desktop_site_on">Wersja na PC jest włączona</string>
 </resources>
