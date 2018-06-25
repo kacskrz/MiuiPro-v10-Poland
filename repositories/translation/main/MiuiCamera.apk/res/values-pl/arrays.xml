@@ -5,4 +5,40 @@
         <item>Włączona</item> 
 		<item>Wyłączona</item> 
     </string-array> 
+	<string-array name="ai_scene_names">
+        <item>Nic</item>
+        <item>Dokumenty</item>
+        <item>Kwiaty</item>
+        <item>Jedzenie</item>
+        <item>ppt</item>
+        <item>Niebo</item>
+        <item>Wschód i zachód słońca</item>
+        <item>Kot</item>
+        <item>Pies</item>
+        <item>Rośliny</item>
+        <item>Nocny widok</item>
+        <item>Śnieg</item>
+        <item>Nad morzem</item>
+        <item>Jesień</item>
+        <item>Światło ze świeczki</item>
+        <item>Motoryzacja</item>
+        <item>Łąka</item>
+        <item>Liść klonu</item>
+        <item>Sukulenty</item>
+        <item>Architektura</item>
+        <item>Miasto</item>
+        <item>Przejaśnienia</item>
+        <item>Pochmurny dzień</item>
+        <item>Potret podświetlany</item>
+        <item>Rysunek</item>
+        <item>Portret</item>
+		<item>Biżuteria</item>
+      <item>Posąg Buddy</item>
+      <item>Bydło</item>
+      <item>Curry</item>
+      <item>Motocykl</item>
+      <item>Świątynia</item>
+      <item>Plaża</item>
+      <item>Pod wodą</item>
+    </string-array>
 </resources>

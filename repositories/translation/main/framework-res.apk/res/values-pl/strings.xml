@@ -189,6 +189,7 @@
   <string name="default_audio_route_name_dock_speakers">Głośniki stacji dokującej</string>
   <string name="default_audio_route_name_headphones">Słuchawki</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
+  <string name="default_notification_channel_label">Bez kategorii</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Poczta głosowa</string>
   <string name="delete">Usuń</string>

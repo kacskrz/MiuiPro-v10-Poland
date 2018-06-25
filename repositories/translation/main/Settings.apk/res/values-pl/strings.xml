@@ -4111,6 +4111,7 @@
   <string name="sim_lock_settings_title">Blokada karty SIM</string>
   <string name="sim_management_title">Karty SIM i sieci komórkowe</string>
   <string name="sim_management_title_cr_kolbi">Karta SIM i sieci komórkowe</string>
+  <string name="sim_management_title_singlesim">Karta SIM i sieci komórkowe</string>
   <string name="sim_multi_sims_summary">Wybierz preferowaną kartę SIM do komórkowej transmisji danych.</string>
   <string name="sim_multi_sims_title">Znaleziono wiele kart SIM</string>
   <string name="sim_name_hint">Wpisz nazwę karty SIM</string>

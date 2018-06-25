@@ -576,4 +576,5 @@ Zwolnij miejsce albo wykonaj przeniesienie mniejszych elementów."</string>
    <string name="usb_trans_old_phone_low_space_title">Brak wystarczającej przestrzeni</string>
    <string name="usb_trans_select_data_no_space">"Tylko %s jest dostępne na Twoim dysku USB.
 Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
+  <string name="err_acquire_system_service">"Nie udało się uruchomić usługi systemowej."</string>
 </resources>

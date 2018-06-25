@@ -416,4 +416,6 @@
   <string name="wifi_check_password_try_again">Sprawdź hasło i spróbuj ponownie</string>
     <string name="wifi_p2p_allow_passive_listen">Zezwalaj na pasywne skanowanie Wi-Fi P2p</string>
   <string name="wifi_p2p_allow_passive_listen_summary">Zezwalaj/nie zezwalaj na pasywne skanowanie Wi-Fi P2p, urządzenie nie może skanować innych urządzeń, ale inne urządzenia mogą skanować to urządzenie</string>
+    <string name="notification_channel_incoming_call">Przychodzące połączenia</string>
+  <string name="notification_channel_missed_call">Nieodebrane połączenia</string>
 </resources>

@@ -1,187 +1,231 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="comment_count">
-    <item quantity="other">%d komentarzy</item>
-    <item quantity="one">%d komentarz</item>
-    <item quantity="few">%d komentarze</item>
-  </plurals>
-  <plurals name="dialog_confirm_delete_downloads_message">
-    <item quantity="other">Usunąć %d elementów?</item>
-    <item quantity="one">Usunąć %d element?</item>
-    <item quantity="few">Usunąć %d elementy?</item>
-  </plurals>
-  <plurals name="dialog_confirm_delete_downloads_message_with_file">
-    <item quantity="other">"Usunąć %d elementów?
-Uwaga: Pliki zostaną usunięte również z tego urządzenia."</item>
-    <item quantity="one">"Usunąć %d element?
-Uwaga: Pliki zostaną usunięte również z tego urządzenia."</item>
-  </plurals>
-  <plurals name="dialog_delete_descript">
-    <item quantity="other">Usunąć %d utworów?</item>
-    <item quantity="one">Usunąć %d utwór?</item>
-    <item quantity="few">Usunąć %d utwory?</item>
-  </plurals>
-  <plurals name="dialog_remove_descript">
-    <item quantity="other">Usunąć %d utworów?</item>
-    <item quantity="one">Usunąć %d utwór?</item>
-    <item quantity="few">Usunąć %d utwory?</item>
-  </plurals>
-  <plurals name="dialog_remove_from_cloud_descript">
-    <item quantity="other">Usunąć %d utworów z Chmury Xiaomi? Zostaną usunięte także z lokalnej listy odtwarzania.</item>
-    <item quantity="one">Usunąć %d utwór z Chmury Xiaomi? Zostanie usunięty także z lokalnej listy odtwarzania.</item>
-    <item quantity="few">Usunąć %d utwory z Chmury Xiaomi? Zostaną usunięte także z lokalnej listy odtwarzania.</item>
-  </plurals>
-  <plurals name="download_finished">
-    <item quantity="other">&lt;font color==\"red\"&gt;%d utworów&lt;/font&gt; pobranych</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d utwór&lt;/font&gt; pobrany</item>
-    <item quantity="few">&lt;font color==\"red\"&gt;%d utwory&lt;/font&gt; pobrane</item>
-  </plurals>
-  <plurals name="download_info_count_deleted_tasks">
-    <item quantity="other">Usunięto %d pobrań</item>
-    <item quantity="one">Usunięto %d pobieranie</item>
-    <item quantity="few">Usunięto %d pobrania</item>
-  </plurals>
-  <plurals name="download_running">
-    <item quantity="other">&lt;font color==\"red\"&gt;%d utworów&lt;/font&gt; pobieranych</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d utwór&lt;/font&gt; pobierany</item>
-    <item quantity="few">&lt;font color==\"red\"&gt;%d utwory&lt;/font&gt; pobierane</item>
-  </plurals>
-  <plurals name="folder_songs_count">
-    <item quantity="other">%d utworów</item>
-    <item quantity="one">%d utwór</item>
-  </plurals>
-  <plurals name="multichoice_title">
-    <item quantity="other">Wybrano %d elementów</item>
-    <item quantity="one">Wybrano %d element</item>
-    <item quantity="few">Wybrano %d elementy</item>
-  </plurals>
-  <plurals name="Nalbum_total_songs">
-    <item quantity="other">W sumie: %d utworów</item>
-    <item quantity="one">W sumie: %d utwór</item>
-    <item quantity="few">W sumie: %d utwory</item>
-  </plurals>
-  <plurals name="Nartists_count">
-    <item quantity="other">%d artystów</item>
-    <item quantity="one">%d artysta</item>
-  </plurals>
-  <plurals name="Nassociate_songs">
-    <item quantity="other">Wyszukiwanie okładek albumów i tekstów utworów (%1$d/%2$d)</item>
-    <item quantity="one">Wyszukiwanie okładki albumu i tekstu utworu (%1$d/%2$d)</item>
-    <item quantity="few">Wyszukiwanie okładek albumów i tekstów utworów (%1$d/%2$d)</item>
-  </plurals>
-  <plurals name="Nbackup_songs">
-    <item quantity="other">Kopiowanie utworów, %1$d utworów pozostało (%2$.1fMB)</item>
-    <item quantity="one">Kopiowanie utworów, %1$d utwór pozostał (%2$.1fMB)</item>
-    <item quantity="few">Kopiowanie utworów, %1$d utwory pozostały (%2$.1fMB)</item>
-  </plurals>
-  <plurals name="Ndownload_fee_alert_message">
-    <item quantity="other">Na prośbę właściciela praw autorskich, %d wybranych utworów nie może być pobranych za darmo. Te utwory zostały dodane do pobrań.</item>
-    <item quantity="one">Na prośbę właściciela praw autorskich, %d wybrany utwór nie może być pobrany za darmo. Ta piosenka została dodana do pobrania.</item>
-  </plurals>
-  <plurals name="Nexpired_remind">
-    <item quantity="other">%d dni pozostało</item>
-    <item quantity="one">%d dzień pozostał</item>
-  </plurals>
-  <plurals name="Ngroups_count">
-    <item quantity="other">%d zespołów</item>
-    <item quantity="one">%d zespół</item>
-  </plurals>
-  <plurals name="Nnew_tracks_count">
-    <item quantity="other">%d nowych</item>
-  </plurals>
-  <plurals name="notif_title_multiple_downloading">
-    <item quantity="other">Pobieranie %1$d utworów</item>
-    <item quantity="one">Pobieranie %1$d utworu</item>
-  </plurals>
-  <plurals name="notification_download_failed_more">
-    <item quantity="other">Nie udało się pobrać %1$d utworów</item>
-    <item quantity="one">Nie udało się pobrać %1$d utworu</item>
-  </plurals>
-  <plurals name="notification_download_success_more">
-    <item quantity="other">%1$d utwory</item>
-    <item quantity="one">%1$d utwór</item>
-  </plurals>
-  <plurals name="NPlaylist_delete_confirm">
-    <item quantity="other">Czy na pewno usunąć %d playlist?</item>
-    <item quantity="one">Czy na pewno usunąć %d playlistę?</item>
-  </plurals>
-  <plurals name="Nquit_warning">
-    <item quantity="other">Odtwarzanie zatrzyma się za %d minut</item>
-    <item quantity="one">Odtwarzanie zatrzyma się za %d minutę</item>
-    <item quantity="few">Odtwarzanie zatrzyma się za %d minut</item>
-  </plurals>
-  <plurals name="Nrecognize_switch_off_alert_message">
-    <item quantity="other">Wybrałeś, aby nie wyszukiwać automatycznie okładek albumów i tekstów dla lokalnych utworów. Usunąć informacje dla %d utworów?</item>
-    <item quantity="one">Wybrałeś, aby nie wyszukiwać automatycznie okładek albumów i tekstów dla lokalnych utworów. Usunąć informacje dla %d utworu?</item>
-    <item quantity="few">Wybrałeś, aby nie wyszukiwać automatycznie okładek albumów i tekstów dla lokalnych utworów. Usunąć informacje dla %d utworów?</item>
-  </plurals>
-  <plurals name="Nsong_group_detail_subtitle">
-    <item quantity="other">Utworzono %1$s | W sumie %2$d utworów</item>
-    <item quantity="one">Utworzono %1$s | W sumie %2$d utwór</item>
-    <item quantity="few">Utworzono %1$s | W sumie %2$d utwory</item>
-  </plurals>
-  <plurals name="Nstop_backup_songs_message">
-    <item quantity="other">%d utworów nie zostało skopiowanych do Chmury Xiaomi. Zatrzymać teraz?</item>
-    <item quantity="one">%d utwór nie został skopiowany do Chmury Xiaomi. Zatrzymać teraz?</item>
-    <item quantity="few">%d utwory nie zostały skopiowane do Chmury Xiaomi. Zatrzymać teraz?</item>
-  </plurals>
-  <plurals name="Ntracks_add_to_playlist">
-    <item quantity="other">%d utworów dodanych do listy odtwarzania</item>
-    <item quantity="one">%d utwór dodany do listy odtwarzania</item>
-    <item quantity="few">%d utwory dodane do listy odtwarzania</item>
-  </plurals>
-  <plurals name="Ntracks_count">
-    <item quantity="other">%d utworów</item>
-    <item quantity="one">%d utwór</item>
-    <item quantity="few">%d utwory</item>
-  </plurals>
-  <plurals name="Ntracks_remove_from_playlist">
-    <item quantity="other">%d utworów usunięto z listy odtwarzania</item>
-    <item quantity="one">%d utwór usunięty z listy odtwarzania</item>
-    <item quantity="few">%d utwory usunięte z listy odtwarzania</item>
-  </plurals>
-  <plurals name="Ntracks_search_result">
-    <item quantity="other">%d utworów znaleziono</item>
-    <item quantity="one">%d utwór znaleziono</item>
-  </plurals>
-  <plurals name="Ntracks_similar_count">
-    <item quantity="other">%d podobnych utworów</item>
-    <item quantity="one">%d podobny utwór</item>
-    <item quantity="few">%d podobne utwory</item>
-  </plurals>
-  <plurals name="Nunbackup_audios">
-    <item quantity="other">%1$d utworów nie zostało skopiowanych (%2$.1fMB)</item>
-    <item quantity="one">%1$d utwór nie został skopiowany (%2$.1fMB)</item>
-    <item quantity="few">%1$d utwory nie zostały skopiowane (%2$.1fMB)</item>
-  </plurals>
-  <plurals name="Nupload_song_button">
-    <item quantity="other">Zrób kopię %1$d utworów (%2$.1fMB)</item>
-    <item quantity="one">Zrób kopię %1$d utworu (%2$.1fMB)</item>
-    <item quantity="few">Zrób kopię %1$d utworów (%2$.1fMB)</item>
-  </plurals>
-  <plurals name="reader_count">
-    <item quantity="other">%d obserwujących</item>
-    <item quantity="one">%d obserwujący</item>
-    <item quantity="few">%d obserwujących</item>
-  </plurals>
-  <plurals name="send_songs_toast">
-    <item quantity="other">%d utworów zostanie wysłanych</item>
-    <item quantity="one">%d utwór zostanie wysłany</item>
-    <item quantity="few">%d utwory zostaną wysłane</item>
-  </plurals>
-  <plurals name="skipped_online_songs_tips">
-    <item quantity="other">Pominięto %d utworów. Włącz usługi online w ustawieniach, aby móc słuchać.</item>
-    <item quantity="one">Pominięto %d utwór. Włącz usługi online w ustawieniach, aby móc słuchać.</item>
-    <item quantity="few">Pominięto %d utwory. Włącz usługi online w ustawieniach, aby móc słuchać.</item>
-  </plurals>
-  <plurals name="song_already_favorite">
-    <item quantity="other">Utworów zostało dodanych do Ulubionych.</item>
-    <item quantity="one">Utwór został dodany do Ulubionych.</item>
-    <item quantity="few">Utwory zostały dodane do Ulubionych.</item>
-  </plurals>
-  <plurals name="songs_count">
-    <item quantity="other">%d utworów</item>
-    <item quantity="one">%d utwór</item>
-    <item quantity="few">%d utwory</item>
-  </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Usunąć %d list odtwarzania?</item>
+        <item quantity="one">Usunąć %d listę odtwarzania?</item>
+        <item quantity="few">Usunąć %d listy odtwarzania?</item>
+        <item quantity="many">Usunąć %d list odtwarzania?</item>
+    </plurals>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">W sumie: %d utworów</item>
+        <item quantity="one">W sumie: %d utwór</item>
+        <item quantity="few">W sumie: %d utwory</item>
+        <item quantity="many">W sumie: %d utworów</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d wykonawców</item>
+        <item quantity="one">%d wykonawca</item>
+        <item quantity="few">%d wykonawców</item>
+        <item quantity="many">%d wykonawców</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Wyszukiwanie okładek albumów i tekstów utworów (%1$d/%2$d)</item>
+        <item quantity="one">Wyszukiwanie okładek albumów i tekstów utworów (%1$d/%2$d)</item>
+        <item quantity="few">Wyszukiwanie okładek albumów i tekstów utworów (%1$d/%2$d)</item>
+        <item quantity="many">Wyszukiwanie okładek albumów i tekstów utworów (%1$d/%2$d)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Kopiowanie utworów, %1$d utworów pozostało (%2$.1fMB)</item>
+        <item quantity="one">Kopiowanie utworów, %1$d utwór pozostał (%2$.1fMB)</item>
+        <item quantity="few">Kopiowanie utworów, %1$d utwory pozostały (%2$.1fMB)</item>
+        <item quantity="many">Kopiowanie utworów, %1$d utworów pozostało (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">Ze względu na żądanie prawowitego właściciela, %d wybranych utworów nie może zostać pobranych za darmo. Utwory zostały dodane do pobrania.</item>
+        <item quantity="one">Ze względu na żądanie prawowitego właściciela, %d wybrany utwór nie może zostać pobrany za darmo. Utwór został dodany do pobrania.</item>
+        <item quantity="few">Ze względu na żądanie prawowitego właściciela, %d wybrane utwory nie mogą zostać pobrane za darmo. Utwory zostały dodane do pobrania.</item>
+        <item quantity="many">Ze względu na żądanie prawowitego właściciela, %d wybranych utworów nie może zostać pobranych za darmo. Utwory zostały dodane do pobrania.</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Pozostało %d dni</item>
+        <item quantity="one">Pozostał %d dzień</item>
+        <item quantity="few">Pozostały %d dni</item>
+        <item quantity="many">Pozostało %d dni</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d zespołów</item>
+        <item quantity="one">%d zespół</item>
+        <item quantity="few">%d zespoły</item>
+        <item quantity="many">%d zespołów</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nowych</item>
+        <item quantity="one">%d nowy</item>
+        <item quantity="few">%d nowe</item>
+        <item quantity="many">%d nowych</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Odtwarzanie zatrzyma się za %d minut</item>
+        <item quantity="one">Odtwarzanie zatrzyma się za %d minutę</item>
+        <item quantity="few">Odtwarzanie zatrzyma się za %d minut</item>
+        <item quantity="many">Odtwarzanie zatrzyma się za %d minut</item>
+    </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Wybrałeś, aby nie wyszukiwać automatycznie okładek albumów i tekstów dla lokalnych utworów. Usunąć informacje dla %d utworów?</item>
+        <item quantity="one">Wybrałeś, aby nie wyszukiwać automatycznie okładek albumów i tekstów dla lokalnych utworów. Usunąć informacje dla %d utworu?</item>
+        <item quantity="few">Wybrałeś, aby nie wyszukiwać automatycznie okładek albumów i tekstów dla lokalnych utworów. Usunąć informacje dla %d utworów?</item>
+        <item quantity="many">Wybrałeś, aby nie wyszukiwać automatycznie okładek albumów i tekstów dla lokalnych utworów. Usunąć informacje dla %d utworów?</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Utworzono %1$s | W sumie %2$d utworów</item>
+        <item quantity="one">Utworzono %1$s | W sumie %2$d utwór</item>
+        <item quantity="few">Utworzono %1$s | W sumie %2$d utwory</item>
+        <item quantity="many">Utworzono %1$s | W sumie %2$d utworów</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d utworów nie zostało skopiowanych do Chmury Xiaomi. Zatrzymać teraz?</item>
+        <item quantity="one">%d utwór nie został skopiowany do Chmury Xiaomi. Zatrzymać teraz?</item>
+        <item quantity="few">%d utwory nie zostały skopiowane do Chmury Xiaomi. Zatrzymać teraz?</item>
+        <item quantity="many">%d utworów nie zostało skopiowanych do Chmury Xiaomi. Zatrzymać teraz?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d utworów dodanych do listy odtwarzania</item>
+        <item quantity="one">%d utwór dodany do listy odtwarzania</item>
+        <item quantity="few">%d utwory dodane do listy odtwarzania</item>
+        <item quantity="many">%d utworów dodanych do listy odtwarzania</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d utworów</item>
+        <item quantity="one">%d utwór</item>
+        <item quantity="few">%d utwory</item>
+        <item quantity="many">%d utworów</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d utworów usunięto z listy odtwarzania</item>
+        <item quantity="one">%d utwór usunięty z listy odtwarzania</item>
+        <item quantity="few">%d utwory usunięte z listy odtwarzania</item>
+        <item quantity="many">%d utworów usunięto z listy odtwarzania</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">Znaleziono %d utworów</item>
+        <item quantity="one">Znaleziono %d utwór</item>
+        <item quantity="few">Znaleziono %d utwory</item>
+        <item quantity="many">Znaleziono %d utworów</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d podobnych utworów</item>
+        <item quantity="one">%d podobny utwór</item>
+        <item quantity="few">%d podobne utwory</item>
+        <item quantity="many">%d podobnych utworów</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d utworów nie zostało skopiowanych (%2$.1fMB)</item>
+        <item quantity="one">%1$d utwór nie został skopiowany (%2$.1fMB)</item>
+        <item quantity="few">%1$d utwory nie zostały skopiowane (%2$.1fMB)</item>
+        <item quantity="many">%1$d utworów nie zostało skopiowanych (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Zrób kopię %1$d utworów (%2$.1fMB)</item>
+        <item quantity="one">Zrób kopię %1$d utworu (%2$.1fMB)</item>
+        <item quantity="few">Zrób kopię %1$d utworów (%2$.1fMB)</item>
+        <item quantity="many">Zrób kopię %1$d utworów (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d komentarzy</item>
+        <item quantity="one">%d komentarz</item>
+        <item quantity="few">%d komentarze</item>
+        <item quantity="many">%d komentarzy</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Usunąć %d elementów?</item>
+        <item quantity="one">Usunąć %d element?</item>
+        <item quantity="few">Usunąć %d elementy?</item>
+        <item quantity="many">Usunąć %d elementów?</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Usunąć %d utworów?</item>
+        <item quantity="one">Usunąć %d utwór?</item>
+        <item quantity="few">Usunąć %d utwory?</item>
+        <item quantity="many">Usunąć %d utworów?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Usunąć %d utworów?</item>
+        <item quantity="one">Usunąć %d utwór?</item>
+        <item quantity="few">Usunąć %d utwory?</item>
+        <item quantity="many">Usunąć %d utworów?</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Usunąć %d utworów z Chmury Xiaomi? Zostaną usunięte także z lokalnej listy odtwarzania.</item>
+        <item quantity="one">Usunąć %d utwór z Chmury Xiaomi? Zostanie usunięty także z lokalnej listy odtwarzania.</item>
+        <item quantity="few">Usunąć %d utwory z Chmury Xiaomi? Zostaną usunięte także z lokalnej listy odtwarzania.</item>
+        <item quantity="many">Usunąć %d utworów z Chmury Xiaomi? Zostaną usunięte także z lokalnej listy odtwarzania.</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color==\"red\">%d utworów&lt;/font> pobranych</item>
+        <item quantity="one">&lt;font color==\"red\">%d utwór&lt;/font> pobrany</item>
+        <item quantity="few">&lt;font color==\"red\">%d utwory&lt;/font> pobrane</item>
+        <item quantity="many">&lt;font color==\"red\">%d utworów&lt;/font> pobranych</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">usunięto %d pobrań</item>
+        <item quantity="one">usunięto %d pobieranie</item>
+        <item quantity="few">usunięto %d pobrania</item>
+        <item quantity="many">usunięto %d pobrań</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color==\"red\">%d utworów&lt;/font> pobieranych</item>
+        <item quantity="one">&lt;font color==\"red\">%d utwór&lt;/font> pobierany</item>
+        <item quantity="few">&lt;font color==\"red\">%d utwory&lt;/font> pobierane</item>
+        <item quantity="many">&lt;font color==\"red\">%d utworów&lt;/font> pobranych</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d utworów</item>
+        <item quantity="one">%d utwór</item>
+        <item quantity="few">%d utwory</item>
+        <item quantity="many">%d utworów</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+        <item quantity="many">Wybrano %d elementów</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Pobieranie \"%1$d utworów\"</item>
+        <item quantity="one">Pobieranie \"%1$d utworu\"</item>
+        <item quantity="few">Pobieranie \"%1$d utworów\"</item>
+        <item quantity="many">Pobieranie \"%1$d utworów\"</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Nie udało się pobrać %1$d utworów</item>
+        <item quantity="one">Nie udało się pobrać %1$d utworu</item>
+        <item quantity="few">Nie udało się pobrać %1$d utworów</item>
+        <item quantity="many">Nie udało się pobrać %1$d utworów</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d utworów</item>
+        <item quantity="one">%1$d utwór</item>
+        <item quantity="few">%1$d utwory</item>
+        <item quantity="many">%1$d utworów</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d obserwujących</item>
+        <item quantity="one">%d obserwujący</item>
+        <item quantity="few">%d obserwujących</item>
+        <item quantity="many">%d obserwujących</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d utworów zostanie wysłanych</item>
+        <item quantity="one">%d utwór zostanie wysłany</item>
+        <item quantity="few">%d utwory zostaną wysłane</item>
+        <item quantity="many">%d utworów zostanie wysłanych</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">Pominięto %d utworów. Włącz usługi online w ustawieniach, aby móc słuchać.</item>
+        <item quantity="one">Pominięto %d utwór. Włącz usługi online w ustawieniach, aby móc słuchać.</item>
+        <item quantity="few">Pominięto %d utwory. Włącz usługi online w ustawieniach, aby móc słuchać.</item>
+        <item quantity="many">Pominięto %d utworów. Włącz usługi online w ustawieniach, aby móc słuchać.</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Utworów zostało dodanych do Ulubionych.</item>
+        <item quantity="one">Utwór został dodany do Ulubionych.</item>
+        <item quantity="few">Utwory zostały dodane do Ulubionych.</item>
+        <item quantity="many">Utworów zostało dodanych do Ulubionych.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d utworów</item>
+        <item quantity="one">%d utwór</item>
+        <item quantity="few">%d utwory</item>
+        <item quantity="many">%d utworów</item>
+    </plurals>
 </resources>
