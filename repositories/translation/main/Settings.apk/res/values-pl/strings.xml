@@ -2333,7 +2333,10 @@
   <string name="lockpassword_choose_your_password_second_space">Ustaw hasło \n do Drugiej przestrzeni</string>
   <string name="lockpassword_choose_your_pattern_header">Ustaw wzór</string>
   <string name="lockpassword_choose_your_pin_header">Ustaw swój kod PIN</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">Ustaw PIN \n do Drugiej przestrzeni</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN do Drugiej przestrzeni.
+Musi on zawierać tyle samo cyfr,
+co PIN z Pierwszej przestrzeni."</string>
+  <string name="lockpassword_choose_your_pin_title">Wprowadź od 4 do 16 znaków</string>
   <string name="lockpassword_confirm_for_second_user">Potwierdź swoje hasło do Drugiej przestrzeni</string>
   <string name="lockpassword_confirm_passwords_dont_match">Hasła nie pasują</string>
   <string name="lockpassword_confirm_pins_dont_match">Kody PIN nie są takie same</string>

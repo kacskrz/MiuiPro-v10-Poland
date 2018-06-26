@@ -407,7 +407,7 @@
   </plurals>
   <plurals name="summary_app_update">
     <item quantity="other">Dostępna aktualizacja dla %d aplikacji.</item>
-    <item quantity="one"">Dostępna aktualizacja dla %d aplikacji.</item>
+    <item quantity="one">Dostępna aktualizacja dla %d aplikacji.</item>
     <item quantity="few">Aktualizacja dla %d aplikacji.</item>
     <item quantity="many">Aktualizacje dla %d aplikacji.</item>
   </plurals>

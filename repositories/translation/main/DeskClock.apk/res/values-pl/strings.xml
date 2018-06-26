@@ -192,13 +192,13 @@
      <string name="timer_alert_type_mute">Domyślne</string>
      <string name="timer_alert_type_rain">Mżawka</string>
      <string name="timer_alert_type_stove_fire">Ogień w kominku</string>
-     <string name="timer_alert_type_summer_night">Letnia noc</string></string>
+     <string name="timer_alert_type_summer_night">Letnia noc</string>
      <string name="timer_cancel_timer">Zakończ odliczanie</string>
      <string name="timer_continue_timer">Wznów odliczanie</string>
      <string name="timer_pause_hint">Pauza</string>
      <string name="timer_pause_timer">Spauzuj odliczanie</string>
      <string name="timer_running">Minutnik jest uruchomiony</string>
-     <string name="timer_running_hint">Kontynuuj</string></string>
+     <string name="timer_running_hint">Kontynuuj</string>
      <string name="timer_start_timer">Uruchom odliczanie</string>
      <string name="worldclock_input_hint_text">Wprowadź miasto</string>
      <string name="worldclock_search_city">Wybierz miasto</string>

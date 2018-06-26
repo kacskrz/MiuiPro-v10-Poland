@@ -1256,7 +1256,7 @@ aby spersonalizować Galerię"</string>
   <string name="video_editor_text_edit_input_all_hint">Wprowadź tekst</string>
   <string name="video_editor_unzip_file_fail">"Nie udało się wypakowac wideo."</string>
   <string name="video_editor_video_is_short">"Nie można edytować tego wideo."</string>
-  <string name="video_editor_watermark">Znak wodny</string></string>
+  <string name="video_editor_watermark">Znak wodny</string>
   <string name="voice_assistant">Wprowadzanie głosowe</string>
   <string name="checked">Wybrano</string>
   <string name="checked_something">Wybrano %s</string>

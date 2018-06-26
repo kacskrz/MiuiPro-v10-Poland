@@ -228,4 +228,8 @@
      <string name="toast_refuse_to_record_when_in_call">"Nie można korzystać z tej funkcji podczas połączeń"</string>
      <string name="toolbar_text_description">Styl tekstu</string>
      <string name="toolbar_voice_description">Głos</string>
+     <string name="actionbar_close_description">Zamknij</string>
+     <string name="actionbar_home_description">Wstecz</string>
+     <string name="menu_more_description">Więcej</string>
+     <string name="toast_refuse_to_record_when_in_multi_window">"Nie można używać tej funkcji na Podzielonym ekranie"</string>
 </resources>

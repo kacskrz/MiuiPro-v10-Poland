@@ -86,7 +86,7 @@ Dotknij przycisk \"Więcej\" w prawym górnym rogu notatki, wybierz \"Przypomnie
         <item>Naciśnij strzałkę poniżej, aby utworzyć nowy folder lub przełączyć między już istniejącymi.</item>
      </string-array>
 	 <string-array name="second_guide_contents">
-        <item>Notatki głosowe</item></item>
+        <item>Notatki głosowe</item>
         <item>Twórz notatki, korzystając z wbudowanego mechanizmu konwersji głosu na tekst, dołączając oryginalne zapisy głosu do notatek.</item>
      </string-array>
 </resources>
