@@ -577,4 +577,10 @@ Zwolnij miejsce albo wykonaj przeniesienie mniejszych elementów."</string>
    <string name="usb_trans_select_data_no_space">"Tylko %s jest dostępne na Twoim dysku USB.
 Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="err_acquire_system_service">"Nie udało się uruchomić usługi systemowej."</string>
+    <string name="trans_button_exit">Wyjdź</string>
+  <string name="trans_button_stay">Zostań</string>
+  <string name="trans_cancel_selection_message">Jeśli wyjdziesz z Mi Mover, trwający transfer zostanie przerwany. Poczekaj na zakończenie przesyłania.</string>
+  <string name="trans_cancel_selection_title">Pozostań w Mi Mover</string>
+  <string name="trans_select_notification_message">Dotknij, by zobaczyć</string>
+  <string name="trans_select_notification_title">Mi Mover pracuje…</string>
 </resources>

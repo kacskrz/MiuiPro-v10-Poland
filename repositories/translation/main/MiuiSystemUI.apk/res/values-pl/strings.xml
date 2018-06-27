@@ -1678,4 +1678,8 @@
   <string name="zen_priority_introduction">Nie będą Ci przeszkadzać żadne dźwięki i wibracje, z wyjątkiem alarmów, przypomnień, zdarzeń i dzwoniących, których określisz. Nadal będziesz słyszeć wszystkie wybrane przez Ciebie treści, wliczając w to muzykę, wideo czy gry.</string>
   <string name="zen_silence_introduction">Blokuje to WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, wideo i gry.</string>
   <string name="zen_silence_introduction_voice">Blokuje to WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, wideo i gry. Nadal będzie można wykonywać połączenia telefoniczne.</string>
+   <string name="accessibility_menu_item_split_disable">"Aplikacja nie wspiera Podzielonego ekranu."</string>
+  <string name="accessibility_menu_item_split_enable">Aplikacja wspiera Podzielony ekran</string>
+  <string name="accessibility_splite_screen_primary">Dodaj pierwszą aplikację na Podzielony ekran</string>
+  <string name="accessibility_splite_screen_secondary">Dodaj drugą aplikację na Podzielony ekran</string>
 </resources>

@@ -1937,18 +1937,18 @@
   <string name="got_it">Rozumiem</string>
   <string name="gsm_to_wifi_connect_type_title">Sieć mobilna na Wi-Fi</string>
   <string name="gxzw_add_fingerprint_continue">Kontynuuj</string>
-  <string name="gxzw_add_fingerprint_edge_message">Przesuń palec, aby czujnik mógł zarejestrować krawędzie odcisku palca.</string>
-  <string name="gxzw_add_fingerprint_edge_title">Poruszaj lekko palcem</string>
-  <string name="gxzw_add_fingerprint_finish">Ukończ</string>
-  <string name="gxzw_add_fingerprint_indicate">Dotknij mocniej tutaj</string>
+  <string name="gxzw_add_fingerprint_edge_message">Przesuń palec, aby zarejestrować krawędzie odcisku palca</string>
+  <string name="gxzw_add_fingerprint_edge_title">Dostosuj uścisk</string>
+  <string name="gxzw_add_fingerprint_finish">Zrobione!</string>
+  <string name="gxzw_add_fingerprint_indicate">Naciśnij lekko ten obszar</string>
   <string name="gxzw_add_fingerprint_know">Rozumiem</string>
-  <string name="gxzw_add_fingerprint_message">Utrrzymaj palce i powierzchnię ekranu w czystości</string>
+  <string name="gxzw_add_fingerprint_message">Upewnij się, że palec i ekran są czyste</string>
   <string name="gxzw_add_fingerprint_move_indicate">Poruszaj lekko palcem</string>
-  <string name="gxzw_add_fingerprint_move_message">Nie można zarejestrować pozostałych obszarów Twojego odcisku palca. Poruszaj lekko palcem</string>
+  <string name="gxzw_add_fingerprint_move_message">Przesuń palec, aby zarejestrować wszystkie części odcisku palca</string>
   <string name="gxzw_add_fingerprint_move_title">Poruszaj lekko palcem</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Naciśnij trochę mocniej i podnieś swój palec po tym, jak poczujesz wibracje. Powtórz tą czynność kilkukrotnie.</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Naciśnij mocniej i podnieś po zawibrowaniu</string>
-  <string name="gxzw_add_fingerprint_title">Dodaj odcisk palca</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Naciśnij ekran i unieś palec po odczuciu wibracji. Powtórz tą czynność kilkukrotnie.</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Naciśnij i podnieś po zawibrowaniu</string>
+  <string name="gxzw_add_fingerprint_title">Dodaj swój odcisk palca</string>
   <string name="handy_mode">Tryb jednoręczny</string>
   <string name="handy_mode_enable">Tryb jednoręczny</string>
   <string name="handy_mode_size">Rozmiar ekranu</string>
@@ -5678,4 +5678,6 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="key_fsg_dialog_message">"Używasz gestów pełnoekranowych do nawigacji urządzeniem. Funkcje oparte na przyciskach są teraz niedostępne. Przełączyć się na nie?"</string>
   <string name="key_fsg_dialog_negative">Zakończ</string>
   <string name="key_fsg_dialog_positive">Przełącz na przyciski</string>
+    <string name="add_fingerprint_dirty_fingerprint">Upewnij się, że powierzchnia ekranu jest czysta. Spróbuj ponownie zarejestrować odcisk palca.</string>
+  <string name="add_fingerprint_move_fast">Trzymaj palec na ekranie nieco dłużej</string>
 </resources>

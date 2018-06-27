@@ -397,10 +397,10 @@
 	 <string-array name="timer_duration">
         <item>Łącznie %1$s</item>
         <item>Łącznie %2$s</item>
-        <item>Łącznie %1$s%2$s</item>
+        <item>Łącznie %1$s %2$s</item>
         <item>Łącznie %3$s</item>
-        <item>Łącznie %1$s%3$s</item>
-        <item>Łącznie %2$s%3$s</item>
-        <item>Łącznie %1$s%2$s%3$s</item>
+        <item>Łącznie %1$s %3$s</item>
+        <item>Łącznie %2$s %3$s</item>
+        <item>Łącznie %1$s %2$s %3$s</item>
      </string-array>
 </resources>
