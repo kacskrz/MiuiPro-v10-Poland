@@ -242,7 +242,7 @@
   <string name="micloud_find_device_guide_alert_negtive">Nie, dziękuję</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Nie, dziękuję</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
-  <string name="micloud_find_device_guide_alert_title">Zapamiętaj swoje ID konta Xiaomi i hasło</string>
+  <string name="micloud_find_device_guide_alert_title">Zapamiętaj swoje hasło</string>
   <string name="micloud_find_device_guide_button">Włącz funkcję Znajdź urządzenie</string>
   <string name="micloud_find_device_sms_alert">Aby aktywować tę usługę, może być wymagana wychodząca wiadomość SMS. Twój operator pobierze opłatę za tę wiadomość. Po przełączeniu karty SIM zostanie automatycznie wysłana wiadomość, aby ponownie włączyć tę funkcję.</string>
   <string name="micloud_find_device_guide_fail_reopen">Możesz włączyć funkcję Znajdź urządzenie w menu Konto Xiaomi - Chmura Xiaomi</string>

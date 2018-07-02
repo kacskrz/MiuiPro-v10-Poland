@@ -3590,7 +3590,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="screen_paper_mode_off_apps_title">Nie używaj trybu Czytania dla wybranych aplikacji</string>
   <string name="screen_paper_mode_range_title">Ustawienia</string>
   <string name="screen_paper_mode_set_apps_title">Aplikacje w trybie Czytania</string>
-  <string name="screen_paper_mode_summary">Zmniejsz emisję niebieskiego światła przez wyświetlacz</string>
+  <string name="screen_paper_mode_summary">Tryb czytania sprawia, że kolory wyświetlacza stają się cieplejsze, pozwalając oczom się zrelaksować.</string>
   <string name="screen_paper_mode_time_summary">Zaplanuj czas włączenia i wyłączenia trybu Czytania</string>
   <string name="screen_paper_mode_time_title">Harmonogram</string>
   <string name="screen_paper_mode_title">Tryb czytania</string>

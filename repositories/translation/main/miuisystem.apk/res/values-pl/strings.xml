@@ -145,4 +145,6 @@
   <string name="yellow_page_sms_send_failed">Nie udało się wysłać SMS</string>
   <string name="yellow_page_sms_sending">Wysyłanie…</string>
   <string name="yellow_page_unable_send_sms">Nie można wysłać SMS</string>
+  <string name="cowboy">Kowboj</string>
+  <string name="icelatte">Ice latte</string>
 </resources>

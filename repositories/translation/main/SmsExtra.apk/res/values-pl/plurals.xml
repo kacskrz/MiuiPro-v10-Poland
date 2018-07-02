@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Usunąć &lt;g example="15" id="number">%1$s&lt;/g> zaznaczonych konwersacji?</item>
+		<item quantity="two">Usunąć &lt;g example="15" id="number">%1$s&lt;/g> zaznaczone konwersacje?</item>
+        <item quantity="one">Usunąć tą konwersację?</item>
+    </plurals>
+</resources>

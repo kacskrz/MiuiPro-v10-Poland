@@ -232,4 +232,8 @@
      <string name="actionbar_home_description">Wstecz</string>
      <string name="menu_more_description">Więcej</string>
      <string name="toast_refuse_to_record_when_in_multi_window">"Nie można używać tej funkcji na Podzielonym ekranie"</string>
+     <string name="date_time_picker_alarm_reminder">Alarm</string>
+     <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
+     <string name="date_time_picker_has_not_set_alarm">"Alarm nie jest ustawiony"</string>
+     <string name="date_time_picker_has_set_alarm">Pomyślnie ustawiono alarm</string>
 </resources>
