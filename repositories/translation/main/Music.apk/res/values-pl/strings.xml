@@ -55,7 +55,7 @@
   <string name="android_sdk_too_low">Uaktualnij Androida, aby móc zaktualizować Muzykę.</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">Pobieranie: %s</string>
-  <string name="app_label">Pobrania</string>
+  <string name="app_label">Pobrane</string>
   <string name="artist">Wykonawcy</string>
   <string name="artist_album">Albumy</string>
   <string name="artist_area_all">Wszyscy</string>

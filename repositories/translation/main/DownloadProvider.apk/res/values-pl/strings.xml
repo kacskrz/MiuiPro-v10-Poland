@@ -3,7 +3,7 @@
     <string name="paused_waiting_for_network">Oczekiwanie na sieć</string>
     <string name="notif_title_file_size">razem %1$d</string>
     <string name="notif_title_single_downloading">Pobieranie %1$s</string>
-    <string name="app_label">Pobrania</string>
+    <string name="app_label">Pobrane</string>
     <string name="permlab_downloadManager">Dostęp do Pobrań.</string>
     <string name="permdesc_downloadManager">Pozwala aplikacji na dostęp do Pobrań i korzystania z niego do pobrania plików. Podejrzane aplikacje mogą wykorzystać to do zakłócenia pobierania i dostępu do prywatnych informacji.</string>
     <string name="permlab_downloadManagerAdvanced">Zaawansowane funkcje Pobrań.</string>

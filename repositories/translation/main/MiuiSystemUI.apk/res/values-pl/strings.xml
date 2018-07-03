@@ -405,7 +405,7 @@
   <string name="clock_seconds_desc">Pokaż sekundy zegara na pasku stanu. Może wpływać na żywotność baterii.</string>
   <string name="compat_mode_off">Stretch to fill screen</string>
   <string name="compat_mode_on">Zoom to fill screen</string>
-  <string name="confirm">Got it</string>
+  <string name="confirm">OK</string>
   <string name="confirm_enable_oem_unlock_text">OSTRZEŻENIE: Funkcje ochronne urządzenia nie będą działać na tym urządzeniu, gdy to ustawienie jest włączone.</string>
   <string name="confirm_enable_oem_unlock_title">Zezwolić na odblokowanie OEM?</string>
   <string name="confirm_pin_msg">Wpisz ponownie PIN</string>
@@ -764,7 +764,7 @@
   <string name="keyguard_charging_info_last_charged_time_text">Ostatnie ładowanie</string>
   <string name="keyguard_charging_info_tip_text1">Utrzymuj co najmniej 10% naładowania baterii urządzenia, aby wydłużyć czas życia baterii.</string>
   <string name="keyguard_charging_info_tip_text2">Nie ładuj zbyt długo urządzenia. Lepiej ładować częściej i krócej, niż rzadziej i dłużej.</string>
-  <string name="keyguard_charging_info_tip_text3">Unikaj ładowania urządzanie, gdy temperatura otoczenia jest niższa niż 0℃.</string>
+  <string name="keyguard_charging_info_tip_text3">Unikaj ładowania urządzenia, gdy temperatura otoczenia jest niższa niż 0℃.</string>
   <string name="keyguard_charging_info_tip_text4">Nie korzystaj zbyt aktywnie w czasie ładowania, aby nie przegrzać urządzenia.</string>
   <string name="keyguard_charging_info_tip_text5">Ładowanie baterii trwa dłużej, jeśli jest cieplejsza niż zazwyczaj.</string>
   <string name="keyguard_charging_info_tip_text6">Wyłącz ekran i odłóż urządzenia, aby mogło się ochłodzić.</string>
@@ -1682,4 +1682,9 @@
   <string name="accessibility_menu_item_split_enable">Aplikacja wspiera Podzielony ekran</string>
   <string name="accessibility_splite_screen_primary">Dodaj pierwszą aplikację na Podzielony ekran</string>
   <string name="accessibility_splite_screen_secondary">Dodaj drugą aplikację na Podzielony ekran</string>
+    <string name="miui_guide_dialog_button_negative_text">Ustawienia</string>
+  <string name="miui_guide_dialog_button_positive_text">OK</string>
+  <string name="miui_guide_dialog_message">Dźwięki multimediów (muzyki, wideo itp.) ciągle będą odtwarzane w Trybie ciszy. Możesz zmienić to w Ustawieniach.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Dzwonki oraz dźwięki powiadomień i multimediów będą odtwarzane.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Dzwonki oraz dźwięki powiadomień i multimediów będą wyciszone.</string>
 </resources>

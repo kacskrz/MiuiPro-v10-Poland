@@ -487,4 +487,5 @@ Wyczyść ją dla lepszego efektu."</string>
      <string name="back_bokeh_use_hint">"Upewnij się, że obiekt nie jest oddalony dalej niż 1,5 metra od aparatu."</string>
 	 <string name="pref_camera_sr_enable_title">Włącz SR</string>
    <string name="pref_google_lens">Google lens</string>
+   <string name="pref_video_quality_summary">Wideo w 4K w 120 FPS nie jest wspierane</string>
 </resources>

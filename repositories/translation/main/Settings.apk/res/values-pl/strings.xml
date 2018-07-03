@@ -2445,6 +2445,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="make_sure_cancel_update">Anulować aktualizację?</string>
   <string name="man_add_application">Dodaj aplikacje do autostartu</string>
   <string name="manage_device_admin">Administratorzy urządzenia</string>
+  <string name="manage_device_admin_summary">Wyświetl bądź deaktywuj administratorów urządzenia</string>
   <string name="manage_facerecoginition_text">Zarządzaj danymi twarzy</string>
   <string name="manage_fakecell_settings">Ochrona przed fałszywymi nadajnikami</string>
   <string name="manage_fingerprint_text">Zarządzaj odciskami palców</string>
@@ -2492,6 +2493,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="master_clear_progress_text">Zaczekaj...</string>
   <string name="master_clear_progress_title">Wymazuję</string>
   <string name="master_clear_title">Ustawienia fabryczne</string>
+  <string name="master_clear_summary">Wymazuje wszystkie dane z telefonu</string>
   <string name="max_aspect_settings_all_app_display_loading">Chwileczkę…</string>
   <string name="max_cpu2_info">Maks. 2x</string>
   <string name="max_cpu4_info">"Maks. 4x "</string>
@@ -4238,10 +4240,11 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="status_bar_settings_show_carrier_summary">Gdy ta funkcja jest wyłączona, nazwa operatora jest wciąż wyświetlana na ekranie blokady i na pasku powiadomień</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Pokaż nazwę operatora, gdy urządzenie jest zablokowane</string>
   <string name="status_bar_settings_show_floating_notification">Pływające powiadomienia</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Pływające powiadomienia znikną automatycznie po wyświetleniu na górze ekranu</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Zezwól na ważne powiadomienia na górze ekranu</string>
   <string name="status_bar_settings_show_flow_info">Pokaż użycie danych</string>
   <string name="status_bar_settings_show_home_message">Ikona na pasku statusu</string>
   <string name="status_bar_settings_show_keyguard_notification">Powiadomienia ekranu blokady</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Zezwól na ważne powiadomienia na ekranie blokady</string>
   <string name="status_bar_settings_show_network_speed">Pokaż prędkość połączenia</string>
   <string name="status_bar_settings_show_notification_icon">Pokaż ikony powiadomień</string>
   <string name="status_bar_settings_show_wifi_name">Pokaż nazwę Wi-Fi</string>
@@ -5142,7 +5145,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_assistant_confirm_connection_title">Potwierdzenie</string>
   <string name="wifi_assistant_data_prompt">Pokaż ostrzeżenie o użyciu danych</string>
   <string name="wifi_assistant_data_prompt_summary">Pokaż ostrzeżenie o użyciu danych, kiedy asystent Wi-Fi przełączy się na dane mobilne</string>
-  <string name="wifi_assistant_description">Oto, jak działa asystent Wi-Fi:\n1. Kiedy połączenie Wi-Fi jest słabe, Asystent Wi-Fi będzie próbował połączyć Twoje urządzenie do innych dostępnych sieci Wi-Fi.\n2. Jeśli wszystkie dostępne połączenia Wi-Fi będą słabej jakości i dane mobilne będą włączone, asystent Wi-Fi przełączy się na nie.</string>
+  <string name="wifi_assistant_description">Oto, jak działa asystent Wi-Fi:\n1. Kiedy połączenie Wi-Fi jest słabe, Asystent Wi-Fi będzie próbował połączyć Twoje urządzenie z innymi dostępnymi sieciami Wi-Fi.\n2. Jeśli wszystkie dostępne połączenia Wi-Fi będą słabej jakości i dane mobilne będą włączone, asystent Wi-Fi przełączy się na nie.</string>
   <string name="wifi_assistant_disconnect">Rozłącz</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">Ta sieć Wi-Fi nie ma dostępu do Internetu, Użyć danych mobilnych?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">Ta sieć Wi-Fi nie ma dostępu do Internetu. Rozłączyć się teraz?</string>
@@ -5473,7 +5476,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_traffic_priority_on">Wł.</string>
   <string name="wifi_traffic_priority_regular">Tryb regularny</string>
   <string name="wifi_traffic_priority_regular_summary">Udostępnij przepustowość między procesami w tle a aplikacją na pierwszym planie</string>
-  <string name="wifi_traffic_priority_summary">Priorytetyzuj prędkość połączenia automatycznie</string>
+  <string name="wifi_traffic_priority_summary">Automatyczne nadawanie priorytetu połączenia</string>
   <string name="wifi_type_approval_dialog_title">NTC NO.</string>
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(nie zmieniono)</string>

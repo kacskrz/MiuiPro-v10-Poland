@@ -16,7 +16,7 @@
   <string name="all_the_internet">Wszystkie sieci</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">Pobieranie: %s</string>
-  <string name="app_label">Pobrania</string>
+  <string name="app_label">Pobrane</string>
   <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Konto Xunlei</string>
   <string name="auth_fail">Nie udało się uzyskać autoryzacji</string>

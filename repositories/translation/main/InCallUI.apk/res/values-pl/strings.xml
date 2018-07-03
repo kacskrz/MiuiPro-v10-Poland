@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">InCallUI</string>
+    <string name="inCallLabel">Połączenie</string>
     <string name="unknown">Nieznany</string>
     <string name="private_num">Numer prywatny</string>
     <string name="payphone">Budka telefoniczna</string>
@@ -89,7 +89,7 @@
     <string name="notification_action_answer_voice">Głos</string>
     <string name="notification_action_dismiss">Odrzuć</string>
     <string name="notification_action_end_call">Rozłącz</string>
-    <string name="notification_action_speaker">Głośniki</string>
+    <string name="notification_action_speaker">Głośnik</string>
     <string name="notification_action_earpiece">Słuchawki</string>
     <string name="notification_requesting_video_call">Rozmowa wideo</string>
     <string name="description_image_button_one">jeden</string>

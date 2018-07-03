@@ -716,6 +716,12 @@
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Zainstalowana aplikacja nie będzie mogła łączyć się z internetem za pomocą Wi-Fi, gdy przełącznik jest wyłączony.</string>
   <string name="five_percent_total_pkg">%s (5%% miesięcznego pakietu danych)</string>
+  <string name="fod_authentication_shift_button">Zakończ</string>
+  <string name="fod_button_finger">Użyj odcisku palca</string>
+  <string name="fod_button_password">Wprowadź hasło</string>
+  <string name="fod_finger_notice_title">Umieszcz palec na ekranie</string>
+  <string name="fod_finger_windows_tips">Zweryfikuj odcisk palca</string>
+  <string name="fod_tips_split_screen_more_than_half">Wprowadź hasło</string>
   <string name="forbid_autobright_summary">Jasność ekranu nie ulegnie zmianie podczas grania</string>
   <string name="forbid_autobright_title">Napraw jasność ekranu</string>
   <string name="foreground_traffic">Pierwszy plan: %s</string>

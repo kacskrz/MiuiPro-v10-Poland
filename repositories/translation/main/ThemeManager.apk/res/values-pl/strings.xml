@@ -451,11 +451,11 @@
     <string name="theme_component_title_boot_animation">Animacja startowa</string>
     <string name="theme_component_title_boot_audio">Dźwięk startowy</string>
     <string name="theme_component_title_clock">Zegar</string>
-    <string name="theme_component_title_contact">Klawiatura</string>
+    <string name="theme_component_title_contact">Kontakty</string>
     <string name="theme_component_title_font">Czcionki</string>
     <string name="theme_component_title_framework">Ramki</string>
     <string name="theme_component_title_icon">Ikony</string>
-    <string name="theme_component_title_launcher">Pasek ulubionych</string>
+    <string name="theme_component_title_launcher">Ekran główny</string>
     <string name="theme_component_title_lockstyle">Ekran blokady</string>
     <string name="theme_component_title_lockwallpaper">Ekran blokady</string>
     <string name="theme_component_title_miwallpaper">Tapeta MIUI</string>

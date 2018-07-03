@@ -381,7 +381,7 @@
     <string name="pref_show_blocked_messages_summary">Pokaż blokowane SMS na liście konwersacji</string>
     <string name="pref_show_list_avatar_summary">Wyświetl zdjęcia profilowe i informacje kontaktu w widoku listy</string>
     <string name="pref_show_photo_word_summary">Automatycznie przypisz zdjęcie do kontaktów bez zdjęć</string>
-    <string name="pref_show_sms_template_entry_summary">Wykryto jednorazowe hasło w SMS</string>
+    <string name="pref_show_sms_template_entry_summary">Wykrywaj jednorazowe hasła i pokazuj menu</string>
     <string name="pref_show_sms_template_in_summary">Wykrywaj kody jednorazowe w wiadomościach SMS</string>
     <string name="pref_show_sms_template_summary">Włącz, aby korzystać z inteligentnych możliwości Wiadomości Mi, takich jak kopiowanie kodów, sprawdzanie stanu konta, itp.</string>
     <string name="pref_smart_messages_settings">Wiadomości Smart</string>
@@ -611,7 +611,7 @@
     <string name="title_show_blocked_messages">Pokaż blokowane SMS</string>
     <string name="title_show_list_avatar">Wyświetl zdjęcia profilowe</string>
     <string name="title_show_photo_word">Przypisz zdjęcia kontaktu</string>
-    <string name="title_show_sms_template">Wykryj kody weryfikacyjne</string>
+    <string name="title_show_sms_template">Smart wiadomości</string>
     <string name="title_show_sms_template_in">Wykryj kody jednorazowe</string>
     <string name="title_timed_message_dialog">Ustaw czas wysłania wiadomości</string>
     <string name="title_use_gsm_alphabet">Użyj alfabetu GSM (bez polskich znaków)</string>
