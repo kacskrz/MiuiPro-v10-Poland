@@ -5685,4 +5685,18 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="add_fingerprint_move_fast">Trzymaj palec na ekranie nieco dłużej</string>
     <string name="flash_drive_backup_restore">Kopia i jej przywracanie poprzez USB</string>
   <string name="flash_drive_backup_restore_summary">Podłącz dysk USB</string>
+    <string name="bt_ldac_declaration">Gdy urządzenie Bluetooth obsługuje LDAC, będzie ono domyślnie połączone. LDAC zapewnia wysoką jakość dźwięku, a także zwiększa zużycie energii. Powtórne odtwarzanie (playback) może wystąpić z powodu ograniczeń sprzętowych Bluetooth</string>
+  <string name="bt_ldac_dialog_summary">"LDAC zapewnia wysoką jakość dźwięku, a także zwiększa zużycie energii
+Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
+  <string name="bt_ldac_dialog_title">Obecne urządzenie wspiera LDAC, który jest domyślnie połączony:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC zapewnia wysoką jakość dźwięku, a także zwiększa zużycie energii. Powtórne odtwarzanie (playback) może wystąpić z powodu ograniczeń sprzętowych Bluetooth</string>
+  <string name="bt_ldac_open_dialog_title">Czy jesteś pewny, że chcesz włączyć LDAC?</string>
+  <string name="bt_ldac_pre_summary">Zapewnij wysoką jakość dźwięku</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Właściwości</string>
+  <string name="bt_ldac_remember_choice">Zapamiętaj wybór</string>
+  <string name="bt_ldac_settings">Ustawienia</string>
+  <string name="secspace_fod_finger_tips">"Nie udało się zweryfikować. Spróbuj ponownie."</string>
+  <string name="secspace_fod_finger_title">Weryfikacja odcisku palca</string>
+  <string name="secspace_fod_use_password">Wprowadź hasło</string>
 </resources>
