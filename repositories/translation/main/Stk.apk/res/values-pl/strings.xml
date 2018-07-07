@@ -30,4 +30,5 @@
     <string name="sim_type_sim_name">Narzędzia SIM</string>
     <string name="sim_type_usim_name">Narzędzia USIM</string>
     <string name="sim_type_uim_name">Narzędzia UIM</string>
+	  <string name="stk_channel_name">Wiadomości z sieci komórkowej</string>
 </resources>

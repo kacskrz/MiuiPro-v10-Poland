@@ -69,4 +69,6 @@
     <string name="print_error_printer_unavailable">Drukarka nie jest teraz dostępna.</string>
     <string name="print_cannot_load_page">Nie można wyświetlić podglądu</string>
     <string name="print_preparing_preview">Przygotowuję podgląd…</string>
+	  <string name="notification_channel_failure">Nieudane zadania drukowania</string>
+  <string name="notification_channel_progress">Uruchomione zadania drukowania</string>
 </resources>

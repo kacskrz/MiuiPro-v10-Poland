@@ -1045,7 +1045,7 @@
   <string name="notification_channel_disabled">Nie będziesz już otrzymywać tych powiadomień.</string>
   <string name="notification_channel_general">Główne</string>
   <string name="notification_channel_location">Lokalizacja</string>
-  <string name="notification_channel_screenbutton">ScreenButton</string>
+  <string name="notification_channel_screenbutton">Przyciski</string>
   <string name="notification_channel_screenshot">Zrzuty ekranu</string>
   <string name="notification_channel_storage">Pamięć</string>
   <string name="notification_channel_switch_accessibility">Zezwalaj na powiadomienia z tego kanału</string>

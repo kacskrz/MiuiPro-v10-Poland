@@ -42,4 +42,8 @@ Dotknij%s,aby rozpocząć to pobieranie następnym razem, kiedy będziesz korzys
     <string name="download_error">Nie udało się pobrać</string>
     <string name="download_running_percent">Pobieranie %s</string>
     <string name="common_google_play_services_unknown_issue">%1$s ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz.</string>
+	 <string name="channel_active">Trwające pobieranie</string>
+  <string name="channel_complete">Zakończone pobieranie</string>
+  <string name="channel_insufficient_space">Brak miejsca</string>
+  <string name="channel_waiting">Oczekujące pobieranie</string>
 </resources>
