@@ -1232,4 +1232,6 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="no_setting_menu">Brak dostępnego menu ustawień</string>
     <string name="contact_detail_entry_pay_request">Żądanie pieniędzy</string>
     <string name="preference_show_firewall_calllog">Pokaż blokowane połączenia w historii połączeń</string>
+    <string name="toast_call_no_SoundRecorder">Nagrywanie audio jest niedostępne</string>
+    <string name="toast_call_no_notes">Notatki są niedostępne</string>
 </resources>

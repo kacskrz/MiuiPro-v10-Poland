@@ -1088,7 +1088,7 @@
   <string name="menu_text_antispam">Lista blokowanych</string>
   <string name="menu_text_antivirus">Skanowanie bezpieczeństwa</string>
   <string name="menu_text_garbage_cleanup">Sprzątacz</string>
-  <string name="menu_text_garbage_cleanup_danger">Ponad %s</string>
+  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">Uprawnienia</string>
   <string name="menu_text_networkassistants">Użycie danych</string>
   <string name="menu_text_networkassistants_danger">%s (pow. limitu)</string>
@@ -1101,8 +1101,7 @@
   <string name="menu_text_optimize_manage">Przyspiesz prędkość</string>
   <string name="menu_text_power_manager">Zużycie baterii</string>
   <string name="menu_text_power_percent">Bateria: %s</string>
-  <string name="menu_text_power_percent_title">Bateria %s</string>
-  <string name="menu_text_power_percent_title_default">Bateria</string>
+  <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Usuń z wyjątków</string>
   <string name="menu_white">Dodaj do wyjątków</string>
   <string name="mi_service_app_detail">Szczegóły</string>
@@ -1598,7 +1597,6 @@
   <string name="scan_installed_games">Sprawdzenie zainstalowanych gier…</string>
   <string name="scan_status_risk">Zagrożony</string>
   <string name="scan_status_safe">Bezpieczny</string>
-  <string name="score_pts">%</string>
   <string name="screenrecord_not_find">Zainstaluj najnowszą wersję Nagrywania ekranu i spróbuj ponownie.</string>
   <string name="search_input_txt_na">&lt;font color=\'#ff0000\'&gt;%s&lt;/font&gt;</string>
   <string name="search_result_text">Nie udało się znaleźć żadnych aplikacji</string>
@@ -2184,4 +2182,26 @@
   <string name="gamebox_type_float">Specjalny skrót</string>
   <string name="gamebox_type_gesture">Przesuń, by pokazać</string>
     <string name="notify_channel_name_security">Bezpieczeństwo systemu</string>
+	  <string name="card_main_gamebooster_summary">Przyspiesz stabilność połączenia dla gier</string>
+  <string name="menu_summary_antispam">Blokuj połączenia i wiadomości</string>
+  <string name="menu_summary_antispam_2">Blokowane połączenia i wiadomości</string>
+  <string name="menu_summary_antivirus">Szukaj wirusów na swoim urządzeniu</string>
+  <string name="menu_summary_antivirus_2">Znaleziono potencjalne ryzyka</string>
+  <string name="menu_summary_antivirus_3">"Nie skanowano urządzenia"</string>
+  <string name="menu_summary_app_manager">Aktualizuj i odinstalowuj aplikacje</string>
+  <string name="menu_summary_app_manager_2">Dostępne aktualizacje</string>
+  <string name="menu_summary_garbage_cleanup">Nie znaleziono śmieci</string>
+  <string name="menu_summary_garbage_cleanup_2">Rozmiar śmieci</string>
+  <string name="menu_summary_garbage_cleanup_3">Wyczyść śmieci teraz</string>
+  <string name="menu_summary_networkassistants">Zarządzaj swoim planem danych</string>
+  <string name="menu_summary_networkassistants_2">Przekroczono limit</string>
+  <string name="menu_summary_networkassistants_3">Wystarczająco dużo danych</string>
+  <string name="menu_summary_networkassistants_4">Brak danych</string>
+  <string name="menu_summary_power_manager">Oszczędzanie baterii zapewnia Ci więcej czasu między ładowaniami</string>
+  <string name="menu_summary_power_manager_1">Bateria jest w pełni naładowana</string>
+  <string name="menu_summary_power_manager_2">%s pozostało</string>
+  <string name="menu_summary_power_manager_3">Podłącz ładowarkę</string>
+  <string name="menu_summary_power_manager_4">%s do pełna</string>
+  <string name="network_traffic_warning_text">"MIUI nie może tutaj obliczyć statystyk użytkowania danych dla poszczególnych aplikacji systemowych. W przypadku aplikacji korzystającej z mobilnych danych będzie można zobaczyć informacje o wykorzystaniu danych w szczegółach aplikacji."</string>
+  <string name="network_traffic_warning_title">Użycie danych przez aplikacje systemowe</string>
 </resources>

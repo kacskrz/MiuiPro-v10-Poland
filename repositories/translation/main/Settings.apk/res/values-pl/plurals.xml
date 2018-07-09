@@ -392,4 +392,10 @@
     <item quantity="few">Zmień na same alarmy przez %1$d minuty, do %2$s</item>
     <item quantity="many">Zmień na same alarmy przez %1$d minut, do %2$s</item>
   </plurals>
+      <plurals name="show_reset_countdown">
+        <item quantity="other">Pozostało %1$d kroków do przywrócenia ustawień fabrycznych</item>
+        <item quantity="one">Pozostał %1$d krok do przywrócenia ustawień fabrycznych</item>
+        <item quantity="few">Pozostały %1$d kroki do przywrócenia ustawień fabrycznych</item>
+        <item quantity="many">Pozostało %1$d kroków do przywrócenia ustawień fabrycznych</item>
+    </plurals>
 </resources>

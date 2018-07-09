@@ -492,4 +492,17 @@ Wyczyść ją dla lepszego efektu."</string>
 <string name="portrait_bokeh_first_tips">"Użyj Trybu portretowego do rozmycia
 tła na Twoich zdjęciach"</string>
 <string name="portrait_bokeh_tips">Umieść obiekt do 1,5 metra od aparatu</string>
+  <string name="lighting_hint_needed">Umieść obiekt w centrum uwagi</string>
+  <string name="lighting_hint_title">Oświetlenie studyjne</string>
+  <string name="lighting_hint_too_close">Odsuń aparat dalej</string>
+  <string name="lighting_hint_too_far">Zbliż aparat</string>
+  <string name="lighting_hint_usage">"Możesz użyć efektów oświetlenia studyjnego
+w Trybie portretowym"</string>
+  <string name="lighting_pattern_dot">Kropki</string>
+  <string name="lighting_pattern_leaf">Wakacje</string>
+  <string name="lighting_pattern_movie">Film</string>
+  <string name="lighting_pattern_nature">Naturalnie</string>
+  <string name="lighting_pattern_rainbow">Tęcza</string>
+  <string name="lighting_pattern_shutter">Żaluzja</string>
+  <string name="lighting_pattern_stage">Scena</string>
 </resources>

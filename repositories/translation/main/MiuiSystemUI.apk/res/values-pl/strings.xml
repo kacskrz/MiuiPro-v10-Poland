@@ -1688,4 +1688,11 @@
   <string name="miui_guide_dialog_message">Dźwięki multimediów (muzyki, wideo itp.) ciągle będą odtwarzane w Trybie ciszy. Możesz zmienić to w Ustawieniach.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Dzwonki oraz dźwięki powiadomień i multimediów będą odtwarzane.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">Dzwonki oraz dźwięki powiadomień i multimediów będą wyciszone.</string>
+    <string name="wireless_change_to_ac_charging">Przełączono na ładowanie bezprzewodowe</string>
+  <string name="wireless_charge_current">Ładowanie</string>
+  <string name="wireless_charge_dialog_cancel">Rozumiem</string>
+  <string name="wireless_charge_dialog_title">Umieść urządzenie pośrodku podstawy ładowania</string>
+  <string name="wireless_charge_reset_device">Ładowanie jest wolne. Dostosuj swoje urządzenie.</string>
+  <string name="wireless_charge_reset_device_detail">Upewnij się, że położenie urządzenia na podstawie ładowania jest prawidłowe</string>
+  <string name="wireless_charge_stop">Zatrzymano ładowanie bezprzewodowe</string>
 </resources>

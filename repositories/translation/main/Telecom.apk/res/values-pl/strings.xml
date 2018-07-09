@@ -387,7 +387,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">Nie można wykonać połączenia wideo gdy trwa połączenie głosowe</string>
     <string name="voice_dial_out">Rozmowa głosowa</string>
     <string name="notification_AllMissedCallTitle">Wszystkie nieodebrane połączenia</string>
-    <string name="close">Zamknij</string>
+    <string name="close">Wyłącz</string>
     <string name="callFailed_simError">Błąd karty SIM</string>
     <string name="incall_error_supp_service_unknown">Usługa nie jest obsługiwana.</string>
     <string name="incall_error_power_off">Wyłącz tryb samolotowy, aby nawiązać połączenie.</string>

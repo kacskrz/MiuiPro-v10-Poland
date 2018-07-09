@@ -461,4 +461,26 @@
     <item quantity="few">Trojany: %d</item>
     <item quantity="many">Trojanów: %d</item>
   </plurals>
+      <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d elementów</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elementy</item>
+        <item quantity="many">%d elementów</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d elementów</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elementy</item>
+        <item quantity="many">%d elementów</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d aplikacji</item>
+        <item quantity="one">%d aplikacja</item>
+        <item quantity="few">%d aplikacje</item>
+        <item quantity="many">%d aplikacji</item>
+    </plurals>
 </resources>

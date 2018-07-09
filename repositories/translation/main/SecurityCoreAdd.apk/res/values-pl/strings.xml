@@ -334,7 +334,7 @@
   <string name="xspace_default_guide_notification_content">Dotknij, aby zmienić</string>
   <string name="xspace_default_guide_notification_main_title">Korzystanie z domyślnej aplikacji</string>
   <string name="xspace_default_guide_notification_xspace_title">Korzystanie ze sklonowanej aplikacji</string>
-  <string name="xspace_default_setting_dialog_title">Domyślny</string>
+  <string name="xspace_default_setting_dialog_title"> domyślny</string>
   <string name="xspace_default_setting_label">Domyślna aplikacja</string>
   <string name="xspace_description">Sklonowane aplikacje to kopie aplikacji, które mogą zostać użyte osobno, z innym kontem.\n\nNiektóre sklonowane aplikacje wymagają obsługi Google Services Framework. W takim wypadku, sklonowane zostanie także Google Services Framework.</string>
   <string name="xspace_guide_des">Używaj 2 kont bez przełączania</string>
