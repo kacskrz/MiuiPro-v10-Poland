@@ -2204,4 +2204,17 @@
   <string name="menu_summary_power_manager_4">%s do pełna</string>
   <string name="network_traffic_warning_text">"MIUI nie może tutaj obliczyć statystyk użytkowania danych dla poszczególnych aplikacji systemowych. W przypadku aplikacji korzystającej z mobilnych danych będzie można zobaczyć informacje o wykorzystaniu danych w szczegółach aplikacji."</string>
   <string name="network_traffic_warning_title">Użycie danych przez aplikacje systemowe</string>
+    <string name="ask_create_shortcut">Utworzyć skrót na ekranie głównym?</string>
+  <string name="gb_create_icon_summary">Utwórz skrót na ekranie głównym</string>
+     <string name="gb_first_window_antimsg_summary_quick_answer">Użyj szybkich odpowiedzi</string>
+   <string name="gb_first_window_antimsg_summary_transparent_show">Zobacz tekst na przezroczystym tle</string>
+   <string name="gb_first_window_antimsg_title">Wygodne powiadomienia</string>
+   <string name="gb_first_window_gamebox_summary_four">Wyczyść pamięć podręczną, nagrywaj ekran i twórz zrzuty ekranu</string>
+   <string name="gb_first_window_gamebox_summary_six">Używaj szybkich odpowiedzi, nagrywaj ekran i twórz zrzuty ekranu</string>
+   <string name="gb_first_window_handsfree_summary">Włącz głośnik automatycznie</string>
+   <string name="gb_first_window_handsfree_title">Połączenia w trybie głośnomówiącym</string>
+   <string name="gb_first_window_start">Zacznij grać</string>
+   <string name="gb_first_window_summary">Zwiększ szybkość i wydajność na poziomie systemu</string>
+   <string name="gb_first_window_title">Przyspieszenie prędkości gier</string>
+  <string name="manage_hybrid_permissions">"Zarządzaj uprawnieniami aplikacji"</string>   
 </resources>

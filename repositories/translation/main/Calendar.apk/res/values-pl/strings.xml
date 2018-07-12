@@ -33,7 +33,7 @@
     <string name="delete_recurring_event_title">Usunąć %s?</string>
     <string name="delete_this_event_title">Usunąć to wydarzenie?</string>
     <string name="directory_searching_fmt">Wyszukiwanie %s…</string>
-    <string name="discard_label">Anuluj</string>
+    <string name="discard_label">Zakończ</string>
     <string name="does_not_repeat">Wydarzenie jednorazowe</string>
     <string name="done">Enter</string>
     <string name="edit_event_all_day_label">Cały dzień</string>

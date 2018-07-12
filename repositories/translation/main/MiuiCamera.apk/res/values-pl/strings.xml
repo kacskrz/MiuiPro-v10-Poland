@@ -505,4 +505,5 @@ w Trybie portretowym"</string>
   <string name="lighting_pattern_rainbow">Tęcza</string>
   <string name="lighting_pattern_shutter">Żaluzja</string>
   <string name="lighting_pattern_stage">Scena</string>
+    <string name="pref_camera_super_resolution_title">Włącz SR</string>
 </resources>

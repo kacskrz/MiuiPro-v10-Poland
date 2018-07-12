@@ -5699,4 +5699,6 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="secspace_fod_finger_tips">"Nie udało się zweryfikować. Spróbuj ponownie."</string>
   <string name="secspace_fod_finger_title">Weryfikacja odcisku palca</string>
   <string name="secspace_fod_use_password">Wprowadź hasło</string>
+    <string name="rgb_manage_facerecoginition_text">Zarządzaj danymi twarzy 2D</string>
+  <string name="structure_manage_facerecoginition_text">Zarządzaj danymi twarzy 3D</string>
 </resources>

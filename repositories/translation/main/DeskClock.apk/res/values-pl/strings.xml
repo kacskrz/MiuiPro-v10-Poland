@@ -212,4 +212,6 @@
 	 <string name="dialog_message_not_remind">"Nie pokazuj ponownie"</string>
 	   <string name="add_clock">Dodaj zegar</string>
   <string name="content_desc_keep_screen">Przycisk \"Utrzymuj włączony ekran\"</string>
+    <string name="timer_cancel_hint">Stop</string>
+  <string name="timer_end_time">Zegar zatrzyma się na %s</string>
 </resources>

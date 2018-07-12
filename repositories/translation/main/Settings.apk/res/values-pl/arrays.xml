@@ -1274,4 +1274,8 @@
     <item>Skala animacji 5x</item>
     <item>Skala animacji 10x</item>
   </string-array>
+      <string-array name="notch_battery_indicator_style_entries">
+        <item>Graficznie</item>
+        <item>Procentowo</item>
+    </string-array>
 </resources>
