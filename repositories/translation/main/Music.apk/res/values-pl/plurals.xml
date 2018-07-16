@@ -228,4 +228,10 @@
         <item quantity="few">%d utwory</item>
         <item quantity="many">%d utworów</item>
     </plurals>
+	    <plurals name="Nsleep_quit_warning">
+        <item quantity="other">Pozostało %d minut</item>
+        <item quantity="one">Pozostała %d minuta</item>
+        <item quantity="few">Pozostały %d minuty</item>
+        <item quantity="many">Pozostało %d minut</item>
+    </plurals>
 </resources>

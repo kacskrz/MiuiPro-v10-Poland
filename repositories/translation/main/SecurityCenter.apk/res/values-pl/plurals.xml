@@ -483,4 +483,16 @@
         <item quantity="few">%d aplikacje</item>
         <item quantity="many">%d aplikacji</item>
     </plurals>
+	    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Można ukryć %d aplikacji</item>
+        <item quantity="one">Można ukryć %d aplikację</item>
+        <item quantity="few">Można ukryć %d aplikacje</item>
+        <item quantity="many">Można ukryć %d aplikacji</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">Ukryto %d aplikacji</item>
+        <item quantity="one">Ukryto %d aplikację</item>
+        <item quantity="few">Ukryto %d aplikacje</item>
+        <item quantity="many">Ukryto %d aplikacji</item>
+    </plurals>
 </resources>

@@ -994,4 +994,25 @@
   <string name="xiaoai_install_title">Nie zainstalowano silnika głosowego</string>
   <string name="xiaoai_update_message">Teraz przejdź do pobierania i aktualizacji!</string>
   <string name="xiaoai_update_title">Wersja silnika głosowego jest zbyt niska</string>
+    <string name="add_cannot_gif_list">Nie można dodać do playlisty</string>
+    <string name="albun_publish_time">Czas publikacji:%1$s</string>
+    <string name="cannot_comment_try_scroll">Ta piosenka nie może zostać skomentowana, spróbuj przewinąć</string>
+    <string name="comment">komentarz</string>
+    <string name="more_milink_bluetooth">Milink i Bluetooth</string>
+    <string name="multiple_select">Wielokrotny wybór</string>
+    <string name="nowplaying_find_more">Znajdź więcej</string>
+    <string name="play_all"><Data>Odtwórz wszystko&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
+    <string name="play_mode_circle">Odtwarzanie w pętli</string>
+    <string name="play_mode_shuffle">Odtwarzanie losowe</string>
+    <string name="play_mode_single">Odtwarzanie pojedyncze</string>
+    <string name="song_group_float_save_picture">Zapisz obraz</string>
+    <string name="song_group_float_save_picture_success">Zapisano pomyślnie</string>
+    <string name="song_group_float_to_save_picture">Zapisano do %1$s</string>
+    <string name="talkback_frame_list">Frame List</string>
+    <string name="talkback_next_play">Następne</string>
+    <string name="talkback_remove_list">Usuń z listy</string>
+    <string name="title_album_list">Album</string>
+    <string name="title_play_list">Playlista</string>
+    <string name="video_more_dislike">Nie lubię tego</string>
+    <string name="video_more_like">Lubię to</string>
 </resources>

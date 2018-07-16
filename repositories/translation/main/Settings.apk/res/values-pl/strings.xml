@@ -5701,4 +5701,6 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="secspace_fod_use_password">Wprowadź hasło</string>
     <string name="rgb_manage_facerecoginition_text">Zarządzaj danymi twarzy 2D</string>
   <string name="structure_manage_facerecoginition_text">Zarządzaj danymi twarzy 3D</string>
+    <string name="sound_stereo_mode_summary">Dostępne tylko w przypadku odtwarzania dźwięku przez głośnik</string>
+  <string name="sound_stereo_mode_title">Dźwięk stereo</string>
 </resources>

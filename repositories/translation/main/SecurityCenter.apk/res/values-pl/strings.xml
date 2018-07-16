@@ -240,7 +240,7 @@
   <string name="applock_add_account_info">Dodaj konto Xiaomi, aby móc zresetować hasło, w przypadku gdy go zapomnisz.</string>
   <string name="applock_add_account_setting">Konto i prywatność</string>
   <string name="applock_bind_account_title">Nie pamiętam hasła</string>
-  <string name="applock_close_dialog_summary">Aplikacje nie będą już chronione, a twoje hasło zostanie usunięte po wyłączeniu Blokowania aplikacji.</string>
+  <string name="applock_close_dialog_summary">Wszystkie ukryte aplikacje staną się widoczne, ich skróty na ekranie głównym zostaną przywrócone, a twoje hasło Blokowania aplikacji zostanie usunięte. Wyłączyć Blokowanie aplikacji?</string>
   <string name="applock_close_dialog_title">Wyłączyć​ Blokowanie aplikacji?</string>
   <string name="applock_exit_account_info">Konto zostanie automatycznie usunięte, gdy się wylogujesz</string>
   <string name="applock_header_text_less_than_half">Zbyt mały. Przeciągnij jeszcze trochę.</string>
@@ -1356,7 +1356,7 @@
   <string name="power_btn_analyze">Analizuj zużycie baterii</string>
   <string name="power_cell">Sygnał sieci</string>
   <string name="power_center_auto_shutdown">Zaplanowane włączenie/wyłączenie</string>
-  <string name="power_center_back">Wróć do zużycia baterii</string>
+  <string name="power_center_back">Wróć</string>
   <string name="power_center_charge_time">%1$s do pełnego naładowania</string>
   <string name="power_center_ontime_boot">Uruchom o czasie</string>
   <string name="power_center_ontime_shutdown">Wyłącz o czasie</string>
@@ -2217,4 +2217,18 @@
    <string name="gb_first_window_summary">Zwiększ szybkość i wydajność na poziomie systemu</string>
    <string name="gb_first_window_title">Przyspieszenie prędkości gier</string>
   <string name="manage_hybrid_permissions">"Zarządzaj uprawnieniami aplikacji"</string>   
+   <string name="privacy_apps">Ukryte aplikacje</string>
+   <string name="privacy_apps_category_title">Ukryte aplikacje</string>
+   <string name="privacy_apps_checkbox_remind_choice">"Nie pokazuj ponownie"</string>
+   <string name="privacy_apps_close">Zamknij</string>
+   <string name="privacy_apps_enable_summary">Przenieś aplikacje do ukrytego folderu i ukryj ich skróty na pulpicie</string>
+   <string name="privacy_apps_go_to_use">Start</string>
+   <string name="privacy_apps_manage">Zarządzaj ukrytymi aplikacjami</string>
+   <string name="privacy_apps_manage_dialog_title">Informacja dot. ukrytych aplikacji</string>
+   <string name="privacy_apps_manager_dialog_message">Ukrywanie aplikacji wymaga ustawienia blokady ekranu aplikacji. Powiadomienia dotyczące ukrytych aplikacji zostaną wyłączone. Ukryć tą aplikację?</string>
+   <string name="privacy_apps_tutorial">Tutorial</string>
+   <string name="privacy_apps_tutorial_prompt_pageone">"Po ukryciu aplikacji jest ona przenoszona do ukrytego folderu. Skróty do niej na pulpicie są ukryte.
+ Ta funkcja nie wspiera aplikacji systemowych."</string>
+   <string name="privacy_apps_tutorial_prompt_pagethree">Aplikacje z ukrytego folderu pojawią się po wpisaniu przez Ciebie Twojego hasła.</string>
+   <string name="privacy_apps_tutorial_prompt_pagetwo">"Rozłóż dwa palce na ekranie. Zobaczysz komunikat z prośbą o podanie hasła do blokady aplikacji."</string>
 </resources>
