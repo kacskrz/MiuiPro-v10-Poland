@@ -2053,7 +2053,7 @@
   <string name="instant_app_details_summary">Więcej informacji w: %1$s</string>
   <string name="instant_apps_account">Konto aplikacji błyskawicznych</string>
   <string name="instruction_privacy_password">To hasło chroni następujące elementy</string>
-  <string name="instruction_title">Instrukcje</string>
+  <string name="instruction_title">Ważna, bezpieczna informacja</string>
   <string name="insufficient_storage">Za mało miejsca w pamięci.</string>
   <string name="intent_sender_account_label">Konto:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -5703,4 +5703,6 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="structure_manage_facerecoginition_text">Zarządzaj danymi twarzy 3D</string>
     <string name="sound_stereo_mode_summary">Dostępne tylko w przypadku odtwarzania dźwięku przez głośnik</string>
   <string name="sound_stereo_mode_title">Dźwięk stereo</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">"Nie można użyć tej funkcji z powodu zbyt słabej baterii"</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">Aby rozpocząć nagrywanie, akumulator musi naładować się do poziomu co najmniej 5%.</string>
 </resources>

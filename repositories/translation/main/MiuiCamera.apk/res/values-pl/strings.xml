@@ -138,7 +138,7 @@
   <string name="portrait_mode_depth_effect_success_hint">Efekt głębokości</string>
   <string name="portrait_mode_lowlight_hint">Teraz jest zbyt ciemno</string>
   <string name="portrait_mode_too_close_hint">Odsuń się dalej od obiektu</string>
-  <string name="portrait_mode_too_far_hint">Umieść obiekt w odległości 2,5m</string>
+  <string name="portrait_mode_too_far_hint">Umieść obiekt w odległości 2m</string>
   <string name="portrait_mode_use_hint">Tryb portretowy rozmazuje tło\ni uwydatnia postać osoby.</string>
   <string name="portrait_with_facebeauty_hint">Funkcja upiększania jest teraz dostępna w trybie portretowym</string>
   <string name="pref_advance_settings">Zaawansowane</string>

@@ -1681,8 +1681,8 @@
   <string name="zen_silence_introduction_voice">Blokuje to WSZYSTKIE dźwięki i wibracje, w tym alarmy, muzykę, wideo i gry. Nadal będzie można wykonywać połączenia telefoniczne.</string>
    <string name="accessibility_menu_item_split_disable">"Aplikacja nie wspiera Podzielonego ekranu."</string>
   <string name="accessibility_menu_item_split_enable">Aplikacja wspiera Podzielony ekran</string>
-  <string name="accessibility_splite_screen_primary">Dodaj pierwszą aplikację na Podzielony ekran</string>
-  <string name="accessibility_splite_screen_secondary">Dodaj drugą aplikację na Podzielony ekran</string>
+  <string name="accessibility_splite_screen_primary">Dodano jako pierwszą aplikację na Podzielony ekran</string>
+  <string name="accessibility_splite_screen_secondary">Dodano jako drugą aplikację na Podzielony ekran</string>
     <string name="miui_guide_dialog_button_negative_text">Ustawienia</string>
   <string name="miui_guide_dialog_button_positive_text">OK</string>
   <string name="miui_guide_dialog_message">Dźwięki multimediów (muzyki, wideo itp.) ciągle będą odtwarzane w Trybie ciszy. Możesz zmienić to w Ustawieniach.</string>
@@ -1719,4 +1719,6 @@
    <string name="structure_face_unlock_model_other_suggestion_2d">Rozpoznawanie twarzy 2D jest mniej bezpieczne niż wzór, kod PIN lub hasło. Gdy ta funkcja jest włączona, Twoje urządzenie może być odblokowane poprzez Twoje zdjęcie, a także osoby lub obiekty, które wyglądają tak jak Ty.</string>
    <string name="structure_face_unlock_model_other_suggestion_3d">"Rozpoznawanie twarzy 3D jest względnie bezpieczne. Jest bardzo mało prawdopodobne, że Twoje urządzenie może zostać odblokowane wraz ze zdjęciem, gdy ta funkcja jest włączona. Może jednak zostać odblokowany przez osoby lub obiekty, które wyglądają tak jak Ty."</string>
    <string name="structure_face_unlock_model_other_title">Rozpoznawanie twarzy</string>
+  <string name="structure_face_unlock_not_same_person">"Musisz sam wykonać wszystkie czynności. Nie zamieniaj miejsca z nikim."</string>
+  <string name="structure_face_unlock_really_person">"Wygląda na to, że zastąpiłeś twarz obiektem."</string>
 </resources>
