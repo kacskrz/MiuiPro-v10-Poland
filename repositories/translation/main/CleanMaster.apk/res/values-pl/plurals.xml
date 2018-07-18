@@ -161,9 +161,9 @@
          <item quantity="one">%1$d%% element na sekundę | Pozostało czasu: %2$s</item>
      </plurals> 
 	     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Usunąć %1$d plików?</item>
-        <item quantity="one">Usunąć %1$d plik?</item>
-        <item quantity="few">Usunąć %1$d pliki?</item>
-        <item quantity="many">Usunąć %1$d plików?</item>
+        <item quantity="other">Usunąć %1$d elementów?</item>
+        <item quantity="one">Usunąć %1$d element?</item>
+        <item quantity="few">Usunąć %1$d elementy?</item>
+        <item quantity="many">Usunąć %1$d elementów?</item>
     </plurals>
 </resources>

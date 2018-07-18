@@ -164,4 +164,12 @@
 	<string name="home_hint_global_launcher">Pulpit Poco</string>
 	<string name="home_restore_error">Nie udało się przywrócić ekranu głównego</string>
 	<string name="self_phone_home">Ten telefon: %s</string>
+	   <string name="btn_restore_abort">Anuluj</string>
+   <string name="btn_restore_cancel">Zakończ</string>
+   <string name="btn_restore_resume">Kontynuuj</string>
+   <string name="btn_restore_retry">Ponów</string>
+   <string name="msg_alert_cancel_restore">Kopia z Chmury jest przywracana, zatrzymać to?</string>
+   <string name="msg_alert_restore_error">Przywrócenie kopii z Chmury nie udało się, spróbuj ponownie.</string>
+   <string name="title_alert_cancel_restore">Zatrzymanie przywracania</string>
+   <string name="title_alert_restore_error">Nieudane przywrócenie</string>
 </resources>
