@@ -5705,4 +5705,5 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="sound_stereo_mode_title">Dźwięk stereo</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">"Nie można użyć tej funkcji z powodu zbyt słabej baterii"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Aby rozpocząć nagrywanie, akumulator musi naładować się do poziomu co najmniej 5%.</string>
+    <string name="status_bar_settings_notification_shade_shortcut">Skrót na pasku powiadomień (nad przełącznikami)</string>
 </resources>

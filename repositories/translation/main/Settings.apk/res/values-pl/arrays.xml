@@ -1278,4 +1278,8 @@
         <item>Graficznie</item>
         <item>Procentowo</item>
     </string-array>
+	    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Wyszukiwarka</item>
+        <item>Ustawienia</item>
+    </string-array>
 </resources>
