@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="adblock_notification">
         <item quantity="other">%d reklam zablokowanych</item>
@@ -25,9 +25,6 @@
         <item quantity="one">Ostatni %d dzień</item>
         <item quantity="few">Ostatnie %d dni</item>
     </plurals>
-  <plurals name="mw_last_num_days">
-    <item quantity="other">Ostatnie %d dni</item>
-  </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d z %2$d</item>
         <item quantity="one">1 dopasowanie</item>
@@ -38,15 +35,11 @@
         <item quantity="one">Po %d sekundzie zostanie utworzona automatycznie nowa strona</item>
         <item quantity="few">Po %d sekundach zostanie utworzona automatycznie nowa strona</item>
     </plurals>
-	<plurals name="pref_adblock_counts">
+    <plurals name="pref_adblock_counts">
         <item quantity="other">%d zablokowanych</item>
         <item quantity="one">%d zablokowana</item>
         <item quantity="few">%d zablokowane</item>
     </plurals>
-  <plurals name="transfer_prompt">
-    <item quantity="other">Odtwórz wideo za %1$d sekund</item>
-    <item quantity="one">Odtwórz wideo za %1$d sekundę</item>
-  </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d utworów</item>
         <item quantity="one">%d utwór</item>
