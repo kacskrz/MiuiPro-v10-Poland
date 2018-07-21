@@ -126,7 +126,7 @@
   <string name="data_consumption_cancel">Wyjdź</string>
   <string name="data_consumption_checkbox_hint">Nie pokazuj ponownie</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Ta aplikacja musi łączyć się z Internetem za pomocą sieci WLAN, aby działać normalnie.</string>
+  <string name="data_consumption_message">Ta aplikacja musi łączyć się z Internetem za pomocą sieci Wi-Fi, aby działać normalnie.</string>
   <string name="data_consumption_message1">Menedżer plików musi łączyć się z Internetem, aby pokazywać Tobie popularne filmy i naklejki.</string>
   <string name="data_consumption_title">Połączenie internetowe</string>
   <string name="decompress_cancel">Anuluj</string>

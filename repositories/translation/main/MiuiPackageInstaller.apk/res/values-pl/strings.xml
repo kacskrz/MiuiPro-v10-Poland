@@ -365,7 +365,7 @@
   <string name="wifi_disabled_generic">Wyłączone</string>
   <string name="wifi_disabled_network_failure">Niepowodzenie konfiguracji IP</string>
   <string name="wifi_disabled_password_failure">Problem z autoryzacją</string>
-  <string name="wifi_disabled_wifi_failure">Niepowodzenie połączenia WLAN</string>
+  <string name="wifi_disabled_wifi_failure">Niepowodzenie połączenia Wi-Fi</string>
   <string name="wifi_fail_to_scan">Nie można skanować sieci</string>
   <string name="wifi_no_internet">Brak dostępu do internetu</string>
   <string name="wifi_not_in_range">Poza zasięgiem</string>

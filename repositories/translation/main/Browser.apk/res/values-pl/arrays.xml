@@ -1,109 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2017 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor:
+          ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+          Furniel (c) 2013-2017
+          Android Localizer (aiLocalizer)
+        -->
 <resources>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>IJP %1$s</item>
-        <item>IJP %1$s</item>
-        <item>IJP %1$s</item>
-        <item>IJP %1$s</item>
-        <item>IJP %1$s</item>
-        <item>IJP %1$s</item>
-        <item>IJP %1$s</item>
-    </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Biały</item>
-        <item>Żółty</item>
-        <item>Szary</item>
-        <item>Brązowy</item>
-        <item>Zielony</item>
-        <item>Niebieski</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Przesuwanie stron</item>
-        <item>Przełączanie kart</item>
-        <item>Brak</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Domyślna strona startowa</item>
-        <item>Użytkownika</item>
-    </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>Telefon</item>
-        <item>Klawiatura</item>
-    </string-array>
-    <string-array name="pref_text_zoom_choices">
-        <item>Malutki</item>
-        <item>Mały</item>
-        <item>Normalny</item>
-        <item>Duży</item>
-        <item>Ogromny</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Komputer</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
-    <string-array name="shortcut_dialog_delete">
-        <item>Usuń</item>
-        <item>Nie, dziękuję</item>
-    </string-array>
-    <string-array name="shortcut_dialog_keep">
-        <item>OK</item>
-        <item>Obserwuj</item>
-    </string-array>
-    <string-array name="shortcut_dialog_title">
-        <item>Wiadomość z przeglądarki</item>
-        <item>Obserwuj Olimpiadę z Mi</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>Słonecznie</item>
-        <item>Pochmurno</item>
-        <item>Pochmurno</item>
-        <item>Mglisto</item>
-        <item>Ulewne deszcze</item>
-        <item>Ulewa</item>
-        <item>Ulewa</item>
-        <item>Burza z piorunami</item>
-        <item>Deszcz</item>
-        <item>Intensywne opady deszczu</item>
-        <item>Umiarkowany deszcz</item>
-        <item>Przelotne opady</item>
-        <item>Deszcz ze śniegiem</item>
-        <item>Burza śnieżna</item>
-        <item>Śnieg</item>
-        <item>Duże opady śniegu</item>
-        <item>Umiarkowane opady śniegu</item>
-        <item>Przelotne opady śniegu</item>
-        <item>Burza piaskowa</item>
-        <item>Burza piaskowa</item>
-        <item>Pyliście</item>
-        <item>Wietrznie</item>
-        <item>Grad</item>
-        <item>Zadyma</item>
-        <item>Mglisto</item>
-        <item>Marznący deszcz</item>
-        <item></item>
-    </string-array>
-	<string-array name="pref_navscreen_layoutstate_choices">
-        <item>Widok wertykalny</item>
-        <item>Widok horyzontalny</item>
-    </string-array>
+  <string-array name="menu_theme_setting">
+    <item>Biały</item>
+    <item>Żółty</item>
+    <item>Szary</item>
+    <item>Brązowy</item>
+    <item>Zielony</item>
+    <item>Niebieski</item>
+  </string-array>
+  <string-array name="pref_fling_on_border_gesture_entries">
+    <item>Przesuwanie stron</item>
+    <item>Przełączanie kart</item>
+    <item>Brak</item>
+  </string-array>
+  <string-array name="pref_homepage_choices">
+    <item>Domyślna strona startowa</item>
+    <item>Użytkownika</item>
+  </string-array>
+  <string-array name="pref_nav_mode_summary">
+    <item>Telefon</item>
+    <item>Klawiatura</item>
+  </string-array>
+  <string-array name="pref_navscreen_layoutstate_choices">
+    <item>Widok wertykalny</item>
+    <item>Widok horyzontalny</item>
+  </string-array>
+  <string-array name="pref_text_zoom_choices">
+    <item>Malutki</item>
+    <item>Mały</item>
+    <item>Normalny</item>
+    <item>Duży</item>
+    <item>Ogromny</item>
+  </string-array>
+  <string-array name="pref_ua_choices">
+    <item>Android</item>
+    <item>Komputer</item>
+    <item>iPhone</item>
+    <item>iPad</item>
+  </string-array>
+  <string-array name="shortcut_dialog_delete">
+    <item>Usuń</item>
+    <item>Nie, dziękuję</item>
+  </string-array>
+  <string-array name="shortcut_dialog_keep">
+    <item>OK</item>
+    <item>Obserwuj</item>
+  </string-array>
+  <string-array name="shortcut_dialog_title">
+    <item>Wiadomość z przeglądarki</item>
+    <item>Obserwuj Olimpiadę z Mi</item>
+  </string-array>
+  <string-array name="weather_type">
+    <item>Słonecznie</item>
+    <item>Pochmurno</item>
+    <item>Pochmurno</item>
+    <item>Mglisto</item>
+    <item>Ulewne deszcze</item>
+    <item>Ulewa</item>
+    <item>Ulewa</item>
+    <item>Burza z piorunami</item>
+    <item>Deszcz</item>
+    <item>Intensywne opady deszczu</item>
+    <item>Umiarkowany deszcz</item>
+    <item>Przelotne opady</item>
+    <item>Deszcz ze śniegiem</item>
+    <item>Burza śnieżna</item>
+    <item>Śnieg</item>
+    <item>Duże opady śniegu</item>
+    <item>Umiarkowane opady śniegu</item>
+    <item>Przelotne opady śniegu</item>
+    <item>Burza piaskowa</item>
+    <item>Burza piaskowa</item>
+    <item>Pyliście</item>
+    <item>Wietrznie</item>
+    <item>Grad</item>
+    <item>Zadyma</item>
+    <item>Mglisto</item>
+    <item>Marznący deszcz</item>
+    <item />
+  </string-array>
 </resources>

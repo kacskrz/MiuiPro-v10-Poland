@@ -579,8 +579,8 @@
   <string name="dialog_no_longer_alert">Nie pokazuj ponownie</string>
   <string name="dialog_restrict_all_mobile_summary">%s Po tym łączność poprzez dane komórkowe będzie ograniczona dla wszystkich aplikacji.</string>
   <string name="dialog_restrict_all_mobile_title">Ograniczenie %s łączności przez dane komórkowe</string>
-  <string name="dialog_restrict_all_wlan_summary">Po tym połączenie WLAN będzie ograniczone dla wszystkich aplikacji.</string>
-  <string name="dialog_restrict_all_wlan_title">Ograniczenie łączności WLAN</string>
+  <string name="dialog_restrict_all_wlan_summary">Po tym połączenie Wi-Fi będzie ograniczone dla wszystkich aplikacji.</string>
+  <string name="dialog_restrict_all_wlan_title">Ograniczenie łączności Wi-Fi</string>
   <string name="dialog_restrict_negative">Ogranicz</string>
   <string name="dialog_restrict_positive">Wyjdź</string>
   <string name="dialog_roaming_message">Twój operator może naliczyć dodatkowe opłaty za dane mobilne w roamingu.</string>
