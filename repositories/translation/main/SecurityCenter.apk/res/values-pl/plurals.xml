@@ -309,7 +309,7 @@
     <item quantity="other">"%d minut "</item>
     <item quantity="one">"%d minuta "</item>
     <item quantity="few">"%d minuty "</item>
-    <item quantity="many">"%d godzin "</item>
+    <item quantity="many">"%d minut "</item>
   </plurals>
   <plurals name="power_center_battery_volume">
     <item quantity="other">%d mAh</item>
