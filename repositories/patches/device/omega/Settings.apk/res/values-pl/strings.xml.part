@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Czytnik linii papilarnych znajduje się z przodu telefonu</string>
+    <string name="add_front_fingerprint_instruction_msg">Skaner linii papilarnych znajdziesz pod przyciskiem Home.</string>
+</resources>

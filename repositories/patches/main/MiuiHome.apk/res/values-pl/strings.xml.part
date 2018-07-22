@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="defalut_launcher_title">Domyślny menedżer pulpitu</string>
+  <string name="launcher_auto_fill_empty_title">Wypełnij puste miejsca</string>
+  <string name="launcher_title">Ekran główny i Ostatnio otwierane</string>
+  <string name="lock_screen_cells_title">Zablokuj układ ekranu głównego</string>
+  <string name="miui_screen_config_title">Ustawienia ekranu głównego</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Zakończ</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Wyłącz</string>
+  <string name="open_personal_assistant_dialog_desc">Nie będziesz w stanie korzystać z Panelu informacyjnego ani otrzymywać jego aktualizacji. Wyłączyć teraz?</string>
+  <string name="open_personal_assistant_dialog_title">Wyłącz Panel informacyjny</string>
+  <string name="open_personal_assistant_title">Włącz Panel informacyjny</string>
+  <string name="preferred_app_settings_not_selected">Nie wybrano</string>
+  <string name="recents_config_title">Ostatnie</string>
+  <string name="screen_cells_config_title">Układ ekranu głównego</string>
+  <string name="show_mem_info_title">Pokaż stan pamięci</string>
+  <string name="title_jeejen">Ekran główny Jeejen</string>
+</resources>

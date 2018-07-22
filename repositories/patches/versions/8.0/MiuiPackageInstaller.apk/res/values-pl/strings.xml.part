@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ads_install_button_isDownloading">Pobieranie</string>
+  <string name="anonymous_source_continue">Kontynuuj</string>
+  <string name="anonymous_source_warning">Twój telefon i dane osobiste są bardziej podatne na ataki przez nieznane aplikacje. Instalując tą aplikację, zgadzasz się na to, że jesteś odpowiedzialny za wszelkie uszkodzenia telefonu lub utratę danych, które mogą wyniknąć z jej użytkowania.</string>
+  <string name="disabled">Wyłączone</string>
+  <string name="disabled_by_admin">Wyłączone przez administratora</string>
+  <string name="disabled_by_admin_summary_text">Kontrolowane przez administratora</string>
+  <string name="dlg_msg_unoffical_ok">OK</string>
+  <string name="enabled_by_admin">Włączone przez administratora</string>
+  <string name="external_source_trusted">Dozwolone</string>
+  <string name="external_source_untrusted">Niedozwolone</string>
+  <string name="external_sources_settings">Ustawienia</string>
+  <string name="failed_to_open_app_settings_toast">Nie udało się otworzyć ustawień dla %1$s</string>
+  <string name="install_other_apps">Instalacja nieznanej aplikacji</string>
+  <string name="miui_compatibility_desc">Ta aplikacja nie jest zoptymalizowana dla Twojego urządzenia. Jeśli ją zainstalujesz, może nie działać poprawnie. Poczekaj, aż programiści rozwiążą istniejące problemy ze zgodnością i zainstaluj nową wersję aplikacji po pewnym czasie.</string>
+  <string name="miui_not_uninstall_system_app">Nie można odinstalować aplikacji systemowej</string>
+  <string name="no_application">Nic</string>
+  <string name="unlike">Nie, dzięki</string>
+  <string name="untrusted_external_source_warning">Ze względów bezpieczeństwa Twój telefon nie może instalować nieznanych aplikacji z tego źródła.</string>
+  <string name="user_is_not_allowed_dlg_text">Bieżący użytkownik nie może wykonać tej dezinstalacji.</string>
+  <string name="user_is_not_allowed_dlg_title">Niedozwolone</string>
+  <string name="wear_app_channel">Instalacja/dezinstalacja aplikacji Android Wear</string>
+</resources>

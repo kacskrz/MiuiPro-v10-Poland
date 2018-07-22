@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_networkLocationProviderPackageName">com.google.android.gms</string>
+    <string name="press_color_to_apply">Kliknij na kolor, aby wybrać</string> 
+    <string name="auto_app_launch">Aplikacja uruchamiająca</string>
+    <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
+    <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
+    <string name="config_geocoderProviderPackageName">com.google.android.gms</string>
+    <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
+    <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
+	<string name="cat_1">Czyszczenie w trakcie...</string>
+	<string name="cat_2">Bluetooth wyłączone</string>
+	<string name="cat_3">Bluetooth włączone</string>
+	<string name="cat_4">Dane komórkowe są wyłączone</string>
+	<string name="cat_5">Dane komórkowe są włączone</string>
+	<string name="cat_6">Wi-Fi wyłączone</string>
+	<string name="cat_7">Wi-Fi włączone</string>
+</resources>

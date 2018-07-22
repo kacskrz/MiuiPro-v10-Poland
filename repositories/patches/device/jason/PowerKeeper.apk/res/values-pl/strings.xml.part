@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="nonui_mode_config_description">Gdy MIUI wykryje, że nie korzystasz z telefonu, automatycznie wyłączy diodę powiadomień, skaner linii papilarnych oraz sensory, a także nie podświetli ekranu przy powiadomieniach.</string>
+   <string name="nonui_mode_config_title">Tryb nieinteraktywny</string>
+</resources>

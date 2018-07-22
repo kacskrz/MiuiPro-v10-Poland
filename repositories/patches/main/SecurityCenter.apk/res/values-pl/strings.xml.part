@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_main_hbassistant_title">Ochrona</string>
+    <string name="card_main_hbassistant_summary">Przyspieszenie działania &amp; lepsze doświadczenie w grach</string>
+	<string name="power_settings_number">Procentowo i graficznie</string>
+    <string name="xunyou_pay_webview">Tylko procentowo</string> 
+    <string name="xunyou_server_expired">Wyłączone</string>
+	<string name="card_main_deepclean_wechat_title">Ochrona</string>
+    <string name="card_main_deepclean_qq_title">Test sieci</string>
+</resources>

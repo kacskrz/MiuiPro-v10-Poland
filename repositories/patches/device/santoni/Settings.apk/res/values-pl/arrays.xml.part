@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="led_color_entries">
+        <item>Żółć</item>
+        <item>Cyjan</item>
+        <item>Biel</item>
+        <item>Fiolet</item>
+    </string-array>
+</resources>

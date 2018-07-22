@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="end_call_title">Akcja po zakończeniu rozmowy</string> 
+    <string name="incommingcall_title">Po otrzymaniu</string> 
+    <string name="outgoingcall_title">Po wyjściu</string>
+    <string name="call_backlight_title">Maksymalna jasność</string> 
+    <string name="call_backlight_night_title">Tryb nocny</string> 
+    <string name="call_backlight_mode">Jasność, kiedy dzwonisz</string> 
+    <string name="call_backlight_condition_title">Zmień warunki</string> 
+    <string name="call_backlight_start_time">Godzina rozpoczęcia</string> 
+    <string name="call_backlight_stop_time">Godzina zakończenia</string> 
+	<string name="call_backlight_new_title">Jasność</string>
+	<string name="call_backlight_new_on">Pierwszy tryb</string>
+    <string name="call_backlight_new_off">Dodatkowy tryb</string>
+    <string name="call_backlight_start_time_summary">%s:00</string> 
+    <string name="call_backlight_stop_time_summary">%s:00</string>
+    <string name="preferred_network_type_pref_entries_only_4g">Tylko 4G</string>
+    <string name="preferred_network_type_pref_entries_only_4g_3g">4G/3G (LTE/WCDMA)</string>
+    <string name="preferred_network_type_pref_entries_only_2g_3g_4g">2G/3G/4G (GSM/WCDMA/LTE)</string>
+    <string name="preferred_network_type_pref_entries_only_2g_3g">2G/3G (GSM/WCDMA)</string>
+	<string name="full_avatar_title">Pełnoekranowe zdjęcie rozmówcy (dialer)</string>
+	<string name="incall_background_title">Na pełnym ekranie bez ust. zdjęcia</string>
+	<string name="incall_small_background_title">Standardowo bez zdjęcia</string>
+	<string name="default_image_pick">Wybierz obraz z galerii</string>
+	<string name="call_record_setrate">Ustawienie jakości nagrania</string>
+    <string name="set_samplingrate_title">Jakość próby (samplerate)</string>
+    <string name="set_bitrate_title">Jakość (Bitrate)</string>
+	<string name="show_search_title">Wyszukiwarka</string>
+	<string name="show_profile_title">Ukryj profil</string>
+	<string name="show_group_title">Ukryj grupy</string>
+	<string name="flash_time">Ustawienie szybkości migania</string> 
+    <string name="flash_time_title">Opóźnienie włączenia</string> 
+    <string name="flash_time_on_title">Włączone</string> 
+    <string name="flash_time_off_title">Wyłączone</string> 
+    <string name="ring_time_summary">Czas: %s ms</string>
+	<string name="sim_time_title">Wybór karty SIM przy połączeniu (dual SIM)</string> 
+    <string name="sim_time_summary">Czas: %s s</string>
+	<string name="key_title">Pokazywanie przycisków</string> 
+    <string name="set_key_call_title">Zdolność ukrywania/pokazywania</string> 
+    <string name="key_title_summary">Aby wyświetlić przyciski w oknie połączenia, przesuń numer w dół. Aby je ukryć, przesuń numer z powrotem w górę.</string> 
+    <string name="key_call_title">Stan początkowy</string> 
+	<string name="call_home_title">Akcja przycisku Home</string>
+	<string name="auto_redial_times_title">Próby wyboru</string> 
+    <string name="auto_redial_times_summary">Instalowane: %s</string>
+	<string name="button_color_title">Kolor przycisków</string>  
+    <string name="text_color_title">Kolor nazw przycisków</string>
+</resources>
