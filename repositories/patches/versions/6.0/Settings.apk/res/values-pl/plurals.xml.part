@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikacji może otwierać obsługiwane przez siebie linki</item>
+        <item quantity="one">Jedna aplikacja może otwierać obsługiwane przez siebie linki</item>
+        <item quantity="few">%d aplikacje mogą otwierać obsługiwane przez siebie linki</item>
+        <item quantity="many">%d aplikacji może otwierać obsługiwane przez siebie linki</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikacji może ignorować optymalizację baterii</item>
+        <item quantity="one">1 aplikacja może ignorować optymalizację baterii</item>
+        <item quantity="few">%d aplikacje mogą ignorować optymalizację baterii</item>
+        <item quantity="many">%d aplikacji może ignorować optymalizację baterii</item>
+    </plurals>	
+</resources>
