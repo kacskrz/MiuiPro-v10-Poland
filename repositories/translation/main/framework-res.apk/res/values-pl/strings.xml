@@ -212,6 +212,9 @@
   <string name="display_manager_overlay_display_secure_suffix">, bezpieczny</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
   <string name="dlg_ok">OK</string>
+  <string name="dlg_confirm_kill_storage_users_text">"Jeśli włączysz pamięć USB, część aplikacji, których używasz, zostanie zatrzymana i może być niedostępna do momentu wyłączenia pamięci USB."</string>
+  <string name="dlg_confirm_kill_storage_users_title">Włącz pamięć USB</string>
+  <string name="dlg_error_title">Nieudana operacja USB</string>
   <string name="DndMmi">Nie przeszkadzać</string>
   <string name="done_label">Gotowe</string>
   <string name="double_tap_toast">Wskazówka: dotknij dwukrotnie, aby powiększyć lub pomniejszyć.</string>
@@ -790,6 +793,8 @@
   <string name="permdesc_disableKeyguard">Pozwala aplikacji na wyłączenie blokady klawiatury i wszystkich związanych z tym haseł zabezpieczających. Na przykład telefon wyłącza blokadę klawiatury, gdy odbiera połączenie przychodzące, a następnie włącza ją ponownie po zakończeniu połączenia.</string>
   <string name="permdesc_enableCarMode">Pozwala aplikacji na włączanie trybu samochodowego.</string>
   <string name="permdesc_expandStatusBar">Pozwala aplikacji na rozwijanie lub zwijanie paska stanu.</string>
+  <string name="permdesc_flashlight">Pozwala aplikacji na kontrolowanie latarki.</string>
+  <string name="permlab_flashlight">kontrolowanie latarki</string>
   <string name="permdesc_getAccounts">Pozwala aplikacji na uzyskanie listy kont zapisanych w telefonie. Może ona obejmować wszystkie konta utworzone przez zainstalowane aplikacje.</string>
   <string name="permdesc_getPackageSize">Pozwala aplikacji na pobieranie własnego kodu, danych oraz rozmiarów pamięci podręcznej.</string>
   <string name="permdesc_getTasks">Pozwala aplikacji na pobieranie informacji o aktualnie i niedawno działających zadaniach. Dzięki temu aplikacja może uzyskać informacje o tym, które aplikacje są używane na urządzeniu.</string>
@@ -1085,6 +1090,7 @@
   <string name="restr_pin_error_too_short">PIN jest za krótki. Musi mieć co najmniej 4 cyfry.</string>
   <string name="restr_pin_incorrect">Nieprawidłowy</string>
   <string name="restr_pin_try_later">Spróbuj ponownie później</string>
+  <string name="RestrictedChangedTitle">Ograniczony dostęp został zmieniony</string>
   <string name="revoke">Cofnij</string>
   <string name="ringtone_default">Dzwonek domyślny</string>
   <string name="ringtone_default_with_actual">Dzwonek domyślny (%1$s)</string>
@@ -1358,6 +1364,13 @@
   <string name="whichViewApplicationLabel">Otwórz</string>
   <string name="whichViewApplicationNamed">Otwórz w aplikacji %1$s</string>
   <string name="wifi_available_sign_in">Zaloguj się w sieci Wi-Fi</string>
+  <string name="wifi_available_action_all_networks">Wszystkie sieci</string>
+  <string name="wifi_available_action_connect">Połącz</string>
+  <string name="wifi_available_content_failed_to_connect">Dotknij, aby zobaczyć wszystkie sieci</string>
+  <string name="wifi_available_title">Połącz z otwartą siecią Wi-Fi</string>
+  <string name="wifi_available_title_connected">Połączono z siecią Wi-Fi</string>
+  <string name="wifi_available_title_connecting">Łączenie z otwartą siecią Wi-Fi</string>
+  <string name="wifi_available_title_failed_to_connect">Nie można połączyć się z siecią Wi-Fi</string>
   <string name="wifi_calling_off_summary">Wył.</string>
   <string name="wifi_connect_alert_message">Aplikacja %1$s chce połączyć się z siecią Wi-Fi %2$s</string>
   <string name="wifi_connect_alert_title">Zezwolić na połączenie?</string>
@@ -1402,4 +1415,11 @@
   <string name="zen_mode_forever_dnd">Do wyłączenia Nie przeszkadzać</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
+  <string name="EmergencyCallWarningSummary">Połączenia alarmowe wymagają sieci komórkowej.</string>
+  <string name="EmergencyCallWarningTitle">Aktywne jest połączenie poprzez Wi-Fi</string>
+  <string name="notification_channel_mobile_data_status">Stan danych mobilnych</string>
+  <string name="notification_reply_button_accessibility">Odpowiedz</string>
+  <string name="popup_window_default_title">Okno popup</string>
+  <string name="usb_unsupported_audio_accessory_message">Podłączone urządzenie jest niekompatybilne z tym urządzeniem. Dotknij, aby dowiedzieć się więcej.</string>
+  <string name="usb_unsupported_audio_accessory_title">Wykryto analogowe akcesorium audio</string>
 </resources>

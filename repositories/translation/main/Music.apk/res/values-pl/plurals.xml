@@ -234,4 +234,14 @@
         <item quantity="few">Pozostały %d minuty</item>
         <item quantity="many">Pozostało %d minut</item>
     </plurals>
+    <plurals name="comment_input_length_invalid">
+        <item quantity="other">Możesz wprowadzić do %1$d znaków.</item>
+        <item quantity="one">Możesz wprowadzić do %1$d znaku.</item>
+    </plurals>
+	<plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Hej, %1$s! Dostępnych jest %1$d aktualizacji dla Ciebie:</item>
+        <item quantity="one">Hej, %1$s! Dostępna jest %1$d aktualizacja dla Ciebie:</item>
+        <item quantity="few">Hej, %1$s! Dostępne są %1$d aktualizacje dla Ciebie:</item>
+        <item quantity="many">Hej, %1$s! Dostępnych jest %1$d aktualizacji dla Ciebie:</item>	
+    </plurals>
 </resources>

@@ -171,6 +171,11 @@
   <string name="twohours">1 godzina</string>
   <string name="unknown_caller">Nieznany numer</string>
   <string name="user_switching_dialog_text">Przełączanie…</string>
+  <string name="voice_begin">Co chciałbyś powiedzieć?</string>
+  <string name="voice_button_action_down">Puść, aby wyszukać</string>
+  <string name="voice_button_action_up">Dotknij, aby rozmawiać</string>
+  <string name="voice_input_error_network">"Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieciowe i spróbuj ponownie."</string>
+  <string name="voice_input_error_other">Wystąpił błąd. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="wifi_assistant_wifi_no_internet">Ta sieć Wi-Fi nie ma dostępu do Internetu</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Zobacz szczegóły</string>
   <string name="xspace_resolver_activity_title">Wybierz aplikację</string>

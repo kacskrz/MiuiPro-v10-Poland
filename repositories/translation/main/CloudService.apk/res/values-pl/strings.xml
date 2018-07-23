@@ -33,6 +33,7 @@
   <string name="buy_space_sulotion_title">Kup przestrzeń dyskową</string>
   <string name="calendar_sync">Kalendarz</string>
   <string name="click_to_enabled">Dotknij, by włączyć synchronizację</string>
+  <string name="close_shortcut">Zamknij</string>
   <string name="cloud_back_up_button_ok">Zatrzymaj</string>
   <string name="cloud_back_up_close_info">Dotknij, by wykonać kopię zapasową.</string>
   <string name="cloud_back_up_dialog_content">Zatrzymać tworzenie kopii zapasowej? Jeśli teraz zatrzymasz, to nie będziesz w stanie użyć tej kopii zapasowej by przywrócić aplikacje.</string>

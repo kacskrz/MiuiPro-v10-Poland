@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="account">Konto</string>
   <string name="account_and_cloud">Konto</string>
@@ -87,7 +87,7 @@
   <string name="audio_recognition_setting_title">Znajdowanie okładek albumów i tekstów utworów</string>
   <string name="auth_activity_title">Konto Xunlei</string>
   <string name="auto_download_in_wifi">Pobierz ulubione utwory z Wi-Fi</string>
-  <string name="auto_enter_nowplaying_setting_title">Auto Enter Nowplaying</string>
+  <string name="auto_enter_nowplaying_setting_title">Pokazuj zmaksymalizowany odtwarzacz automatycznie</string>
   <string name="auto_payment">Auto renew</string>
   <string name="auto_payment_date">Następna płatność: %s</string>
   <string name="auto_restart_under_wifi">Plik zostanie pobrany, gdy twoje urządzenia połączy się przez Wi-Fi</string>
@@ -144,11 +144,10 @@
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="comment_input_empty">Nie można dodać pustego komentarza.</string>
   <string name="comment_input_hint">Wpisz komentarz</string>
-  <string name="comment_input_length_invalid">Limit komentarza do %1$d znaków, obecnie %2$d znaków</string>
   <string name="comment_ref_format">%1$s: %2$s</string>
   <string name="comment_ref_reply_format">Odpowiedz @%1$s: %2$s</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete_comment">Czy chcesz permanentnie usunąć ten komentarz?</string>
+  <string name="confirm_delete_comment">Usunąć ten komentarz?</string>
   <string name="confirm_download">Pobierz</string>
   <string name="confirm_to_renew">Odnów</string>
   <string name="connecting_apk">Łączenie…</string>
@@ -201,8 +200,8 @@
   <string name="dialog_file_missing_body">Nie udało się znaleźć pobranego pliku.</string>
   <string name="dialog_file_missing_title">Nie można otworzyć pliku</string>
   <string name="dialog_hint_music_error">Brak utworów…</string>
-  <string name="dialog_insufficient_space_on_cache">Nie można ukończyć pobierania. Brak miejsca w pamięci telefonu.</string>
-  <string name="dialog_insufficient_space_on_external">Nie można zakończyć pobierania. Brak miejsca na karcie SD.</string>
+  <string name="dialog_insufficient_space_on_cache">Brak wystarczającej przestrzeni w pamięci wewnętrznej</string>
+  <string name="dialog_insufficient_space_on_external">Brak wystarczającej przestrzeni w pamięci zewnętrznej</string>
   <string name="dialog_media_not_found">Nie można pobrać. Karta SD jest niedostępna.</string>
   <string name="dialog_not_show_again">Nie pokazuj ponownie</string>
   <string name="dialog_queued_body">Plik w kolejce do pobrania.</string>
@@ -230,7 +229,7 @@
   <string name="disable_auto_payment_success_message">Automatyczne odnawianie jest wyłączone. Po wygaśnięciu aktualnej subskrypcji, będziesz musiał ponownie subskrybować, aby pobierać utwory.</string>
   <string name="disallow_add_to_fm">Nie można dodać utworów do radia FM</string>
   <string name="disallow_add_to_personal_radio">Tylko do odczytu</string>
-  <string name="dislike_comment_success">Pomyślnie dodano niepolubienie</string>
+  <string name="dislike_comment_success">Usunięto polubienie</string>
   <string name="doc_filter">Dokumenty</string>
   <string name="done">Gotowe</string>
   <string name="download">Pobierz</string>
@@ -460,11 +459,11 @@
   <string name="latest_song">Historia odtwarzania (%d)</string>
   <string name="like">Like</string>
   <string name="like_comment_failed">Nie udało się polubić komentarza</string>
-  <string name="like_comment_success">Pomyślnie polubiono</string>
+  <string name="like_comment_success">Lubisz to</string>
   <string name="list_item_play_all_tracks">Odtwarzaj wszystkie</string>
   <string name="list_item_play_FM_radio">Odtwarzaj stacje FM</string>
   <string name="load_shuffle">Ładowanie…</string>
-  <string name="load_success">załadowane pomyślnie</string>
+  <string name="load_success">Pomyślnie odświeżono</string>
   <string name="loadercontainer_loading">Chwileczkę…</string>
   <string name="loading_hint">Chwileczkę…</string>
   <string name="local_header_title">Lokalna muzyka</string>
@@ -578,13 +577,13 @@
   <string name="network_settings_error">Nie można połączyć z siecią</string>
   <string name="network_traffic">Sieć</string>
   <string name="news_mark">Wiadomość</string>
-  <string name="news_not_interest_cancel">anuluj</string>
-  <string name="news_not_interest_message">Możesz wybrać więcej powodów do wyrażenia opinii na temat spamu i konkretnych treści, które nie są interesujące, wulgarności, tytułów itp.</string>
-  <string name="news_not_interest_negative">Wybierz dokładne powody</string>
-  <string name="news_not_interest_positive">nie interesuje mnie to</string>
-  <string name="news_not_interest_title">Maskowanie opinii</string>
-  <string name="news_not_interest_toast">Zredukuje podobne zalecenia dotyczące treści dla Ciebie!</string>
-  <string name="news_top_title">Gorące wiadomości</string>
+  <string name="news_not_interest_cancel">Anuluj</string>
+  <string name="news_not_interest_message">Dlaczego to zgłaszasz?</string>
+  <string name="news_not_interest_negative">Inne powody</string>
+  <string name="news_not_interest_positive">Nie interesuje mnie to</string>
+  <string name="news_not_interest_title">Opinia</string>
+  <string name="news_not_interest_toast">"Nie będziemy już pokazywać takich elementów"</string>
+  <string name="news_top_title">Wiadomości</string>
   <string name="next_time">Nie teraz</string>
   <string name="no_album_info">Brak informacji o albumie</string>
   <string name="no_artist_info">Brak informacji o wykonawcy</string>
@@ -609,8 +608,8 @@
   <string name="notif_text_engine_on">Przyspieszanie…</string>
   <string name="notif_title_file_size">razem %1$d</string>
   <string name="notif_title_single_downloading">Pobieranie \"%1$s\"</string>
-  <string name="notification_comment_fav_title">Kiedy twoje komentarze są polubione</string>
-  <string name="notification_comment_reply_title">Kiedy otrzymasz odpowiedź na komentarz</string>
+  <string name="notification_comment_fav_title">Polubienia</string>
+  <string name="notification_comment_reply_title">Odpowiedzi na komentarze</string>
   <string name="notification_des_next_song">Następny: %s</string>
   <string name="notification_des_no_song">Mi Music. New every day.</string>
   <string name="notification_download_complete">Pobieranie ukończone</string>
@@ -619,9 +618,9 @@
   <string name="notification_play_summary">Zobacz aktualny i następny utwór, wyświetl tekst na ekranie głównym</string>
   <string name="notification_play_title">Widżet paska powiadomień</string>
   <string name="notification_setting">Ustawienia powiadomień</string>
-  <string name="notification_settings_summary">Poznaj nowe trendy muzyczne i wiadomości społecznościowe</string>
-  <string name="notification_settings_title">Włącz powiadomienia</string>
-  <string name="notification_social_title">Powiadomienie z społeczności</string>
+  <string name="notification_settings_summary">Otrzymuj powiadomienia o wiadomościach i ostatnich wydaniach</string>
+  <string name="notification_settings_title">Powiadomienia push</string>
+  <string name="notification_social_title">Powiadamiaj o aktywności użytkowników</string>
   <string name="notification_title_no_song">Sprawdź czego wszyscy słuchają!</string>
   <string name="nowplaying_circle_style">Styl przycisku odtwórz</string>
   <string name="nowplaying_circle_style_rainbow">Tęcza</string>
@@ -692,8 +691,8 @@
   <string name="please_download_first">Musisz pobrać utwór przed użyciem jako dzwonek</string>
   <string name="please_search_or_select">Wyszukaj lub zaznacz</string>
   <string name="please_select_song">Wybierz przynajmniej jeden utwór</string>
-  <string name="post_comment_failed">Nie udało się dodać komentarza</string>
-  <string name="post_comment_success">Dodano komentarz pomyślnie</string>
+  <string name="post_comment_failed">Nie udało się opublikować komentarza</string>
+  <string name="post_comment_success">Pomyślnie opublikowano komentarz</string>
   <string name="power_save_mode_dialog_msg">Oszczędzanie baterii jest włączone. Rozpocząć pobieranie teraz?</string>
   <string name="pref_download_settings_title">Limit rozmiaru pobierania</string>
   <string name="pref_summary_any_bytes_popup">Pobieraj pliki tylko przy połączeniu Wi-Fi</string>
@@ -714,7 +713,7 @@
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Użyć szybkiego pobierania Xunlei?</string>
   <string name="project_device">Telefon MI</string>
-  <string name="project_device_bs">Mój telefon</string>
+  <string name="project_device_bs">Mój Black Shark</string>
   <string name="project_device_mobile">Urządzenie mobilne</string>
   <string name="pulluprefreshrecyclerview_loading_error">Nie udało się załadować</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Pomyślnie wczytano</string>
@@ -762,7 +761,7 @@
   <string name="reply_comment_hint">Odpowiedz @%s</string>
   <string name="report">Zgłoś</string>
   <string name="report_comment_failed">Nie można zgłosić</string>
-  <string name="report_comment_success">Zgłoszono z powodzeniem</string>
+  <string name="report_comment_success">Przyjrzymy się Twojemu zgłoszeniu. Dzięki za opinię!</string>
   <string name="restart_download">Restart</string>
   <string name="restart_immediate">Restart</string>
   <string name="resume_download">Wznów</string>
@@ -849,7 +848,7 @@
   <string name="song_name">Utwór</string>
   <string name="song_not_find">Utwór jest niedostępny</string>
   <string name="song_offline">Utwór nie jest już dostępny.</string>
-  <string name="song_playing">Ta piosenka jest odtwarzana</string>
+  <string name="song_playing">Odtwarzanie</string>
   <string name="song_unit">el.</string>
   <string name="sort_by_name">Nazwy</string>
   <string name="sort_by_time">Data</string>
@@ -868,11 +867,10 @@
   <string name="stream_quality">Jakość muzyki</string>
   <string name="streamloadingtext">Łączenie z %s</string>
   <string name="suggest_text">Inne polubienia</string>
-  <string name="swipe_to_load_head_complete_fail">odświeżenie nie powiodło się</string>
-  <string name="swipe_to_load_head_complete_success">%1$s twój %2$d wyłączne zalecenia zostały zaktualizowane</string>
-  <string name="swipe_to_load_head_pengding">przesuń, aby odświeżyć</string>
-  <string name="swipe_to_load_head_refreshing">odświeżanie</string>
-  <string name="swipe_to_load_head_release">zwolnij, aby odświeżyć</string>
+  <string name="swipe_to_load_head_complete_fail">Nie udało się odświeżyć. Spróbuj ponownie.</string>
+  <string name="swipe_to_load_head_pengding">Przesuń, aby odświeżyć</string>
+  <string name="swipe_to_load_head_refreshing">Sekundkę…</string>
+  <string name="swipe_to_load_head_release">Zwolnij, aby odświeżyć</string>
   <string name="sync_only_in_wifi">Tylko z Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Synchronizuj listy odtwarzania muzyki z Chmurą na wszystkich urządzeniach</string>
   <string name="tab_album">Albumy</string>
@@ -990,29 +988,56 @@
   <string name="welcome_to_new_music">Witaj w nowej wersji Muzyki Mi</string>
   <string name="wifi_required_body" formatted="false">Połącz się z Wi-Fi, aby zakończyć pobieranie %s. \n\nDotknij %s, aby rozpocząć pobieranie przy połączeniu z siecią Wi-Fi.</string>
   <string name="wifi_required_title">Należy połączyć się przez Wi-Fi, aby pobrać ten plik</string>
-  <string name="xiaoai_install_message">Teraz przejdź do pobrania i zainstaluj go!</string>
-  <string name="xiaoai_install_title">Nie zainstalowano silnika głosowego</string>
-  <string name="xiaoai_update_message">Teraz przejdź do pobierania i aktualizacji!</string>
-  <string name="xiaoai_update_title">Wersja silnika głosowego jest zbyt niska</string>
-    <string name="add_cannot_gif_list">Nie można dodać do playlisty</string>
-    <string name="albun_publish_time">Czas publikacji:%1$s</string>
-    <string name="cannot_comment_try_scroll">Ta piosenka nie może zostać skomentowana, spróbuj przewinąć</string>
-    <string name="comment">komentarz</string>
-    <string name="more_milink_bluetooth">Milink i Bluetooth</string>
-    <string name="multiple_select">Wielokrotny wybór</string>
-    <string name="nowplaying_find_more">Znajdź więcej</string>
-    <string name="play_all"><Data>Odtwórz wszystko&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
-    <string name="play_mode_circle">Odtwarzanie w pętli</string>
-    <string name="play_mode_shuffle">Odtwarzanie losowe</string>
-    <string name="play_mode_single">Odtwarzanie pojedyncze</string>
-    <string name="song_group_float_save_picture">Zapisz obraz</string>
-    <string name="song_group_float_save_picture_success">Zapisano pomyślnie</string>
-    <string name="song_group_float_to_save_picture">Zapisano do %1$s</string>
-    <string name="talkback_frame_list">Frame List</string>
-    <string name="talkback_next_play">Następne</string>
-    <string name="talkback_remove_list">Usuń z listy</string>
-    <string name="title_album_list">Album</string>
-    <string name="title_play_list">Playlista</string>
-    <string name="video_more_dislike">Nie lubię tego</string>
-    <string name="video_more_like">Lubię to</string>
+  <string name="xiaoai_install_message">Wygląda na to, że nie masz zainstalowanego asystenta głosowego Mi AI. Możesz go pobrać i zainstalować teraz.</string>
+  <string name="xiaoai_install_title">Instalacja asystenta głosowego Mi AI</string>
+  <string name="xiaoai_update_message">Wygląda na to, że wersja silnika głosowego Mi AI jest za stara. Możesz zaktualizować ją teraz.</string>
+  <string name="xiaoai_update_title">Zaktualizuj Mi AI</string>
+  <string name="add_cannot_gif_list">Nie można dodać do playlisty</string>
+  <string name="albun_publish_time">Czas publikacji:%1$s</string>
+  <string name="cannot_comment_try_scroll">Ta piosenka nie może zostać skomentowana, spróbuj przewinąć</string>
+  <string name="comment">komentarz</string>
+  <string name="more_milink_bluetooth">Milink i Bluetooth</string>
+  <string name="multiple_select">Wielokrotny wybór</string>
+  <string name="nowplaying_find_more">Znajdź więcej</string>
+  <string name="play_all"><Data>Odtwórz wszystko&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
+  <string name="play_mode_circle">Odtwarzanie w pętli</string>
+  <string name="play_mode_shuffle">Odtwarzanie losowe</string>
+  <string name="play_mode_single">Odtwarzanie pojedyncze</string>
+  <string name="song_group_float_save_picture">Zapisz obraz</string>
+  <string name="song_group_float_save_picture_success">Zapisano pomyślnie</string>
+  <string name="song_group_float_to_save_picture">Zapisano do %1$s</string>
+  <string name="talkback_frame_list">Frame List</string>
+  <string name="talkback_next_play">Następne</string>
+  <string name="talkback_remove_list">Usuń z listy</string>
+  <string name="title_album_list">Album</string>
+  <string name="title_play_list">Playlista</string>
+  <string name="video_more_dislike">Nie lubię tego</string>
+  <string name="video_more_like">Lubię to</string>
+  <string name="click_login">Dotknij, aby się zalogować</string>
+  <string name="delete_comment_successfully">Pomyślnie usunięto komentarz</string>
+  <string name="download_times">Pozostały czas pobierania: %d</string>
+  <string name="favorite_songgroup">Ulubiony gatunek piosenek(%d)</string>
+  <string name="login">Zaloguj się</string>
+  <string name="login_tips">Zaloguj się, aby uzyskać odpowiednie rekomendacje</string>
+  <string name="market_version_too_low">Zaktualizuj najpierw Mi App Store</string>
+  <string name="mi_live_install">Instalacja asystenta Mi Live…</string>
+  <string name="new_search_instant_title">Szukaj：%1$s</string>
+  <string name="no_copyright_song_confirm_close">Zamknij</string>
+  <string name="no_copyright_song_hint_text">Ta piosenka nie ma praw autorskich</string>
+  <string name="no_copyright_song_recommend_hint_text">Lepiej spróbować tego</string>
+  <string name="play_all_shuffle"><Data>Tasuj wszystkie&lt;font color=#999999>(%1$d)&lt;/font></Data></string>
+  <string name="play_all_song_with_count">Graj wszystkie(%d)</string>
+  <string name="shuffle_music_with_count">Odtwarzanie losowe(%d)</string>
+  <string name="title_online_special">Wszystkie wydania</string>
+  <string name="vip_tip">Subskrybuj Mi Muzykę, aby strumieniować dźwięk wysokiej jakości</string>
+  <string name="voice_ass">Asystent głosowy</string>
+  <string name="video_network_message">"Używasz teraz danych mobilnych. Potrzebujesz %1$s danych, by to odtworzyć."</string>
+  <string name="video_network_negative">Pozwól tym razem</string>
+  <string name="video_network_positive">Pozwól dzisiaj</string>
+  <string name="video_play_error">Dotknij, aby odtworzyć ponownie</string>
+  <string name="video_play_finish_continue">Odtwórz ponownie</string>
+  <string name="video_play_mobile_net_continue">Użyj danych mobilnych</string>
+  <string name="video_player_data_error_tip">"Nie można odtworzyć wideo. Poczekaj minutę lub dwie i spróbuj ponownie."</string>
+  <string name="video_player_net_error">"Nie udało się połączyć z siecią. Sprawdź swoje ustawienia sieciowe i spróbuj ponownie."</string>
+  <string name="video_player_no_data">To wideo nie jest już dostępne.</string>
 </resources>

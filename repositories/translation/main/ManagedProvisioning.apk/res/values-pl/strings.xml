@@ -89,4 +89,9 @@
     <string name="cancel_setup_and_factory_reset_dialog_ok">Resetuj urządzenie</string>
 	 <string name="cant_replace_or_remove_work_profile">"Nie można zastąpić bądź usunąć profilu służbowego"</string>
   <string name="work_profile_cant_be_added_contact_admin">Profil służbowy nie może być dodany na tym urządzeniu. Jeśli masz pytania, skontaktuj się z administratorem.</string>
+  <string name="device_owner_error_already_provisioned_user">To urządzenie jest już skonfigurowane dla tego użytkownika.</string>
+<string name="device_owner_error_package_name_invalid">"Nie można zainstalować aplikacji administrującej. Nazwa pakietu jest nieprawidłowa. Skontaktuj się ze swoim działem IT."</string>
+<string name="device_owner_error_package_not_installed">"Aplikacja administrująca nie jest zainstalowana na tym urządzeniu"</string>
+<string name="set_up">Ustaw</string>
+<string name="user_is_not_owner">Profile służbowe muszą być ustawione na pierwszym koncie na tym urządzeniu</string>
 </resources>
