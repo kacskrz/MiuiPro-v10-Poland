@@ -465,7 +465,7 @@
   <string name="band_mode_set">Ustaw</string>
   <string name="band_mode_succeeded">Udało się</string>
   <string name="band_mode_title">Ustawianie trybu pasma radiowego</string>
-  <string name="baseband_version">Wersja pasma podstawowego</string>
+  <string name="baseband_version">Modem</string>
   <string name="batch_delete_saved_network">Usunąć wybrane sieci: %s?</string>
   <string name="batch_delete_saved_networks">Usuń wszystkie wybrane sieci</string>
   <string name="battery_action_app_details">Informacje o aplikacji</string>
@@ -514,7 +514,7 @@
   <string name="battery_info_health_unknown">Nieznana</string>
   <string name="battery_info_health_unspecified_failure">Nieznany błąd</string>
   <string name="battery_info_label">Informacje o baterii</string>
-  <string name="battery_info_level_label">Poziom naładowania baterii:</string>
+  <string name="battery_info_level_label">Procent naładowania baterii:</string>
   <string name="battery_info_power_ac">Zasilacz</string>
   <string name="battery_info_power_ac_usb">Zasilacz i USB</string>
   <string name="battery_info_power_label">Podłączone zasilanie:</string>
@@ -541,7 +541,7 @@
   <string name="battery_info_voltage_label">Napięcie baterii:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_last_full_charge">Ostatnie naładowanie</string>
-  <string name="battery_level_title">Poziom naładowania baterii</string>
+  <string name="battery_level_title">Procent naładowania baterii</string>
   <string name="battery_light_summary">Włącz pulsowanie diody powiadomień podczas ładowania</string>
   <string name="battery_light_title">Zaświeć diodę w czasie ładowania</string>
   <string name="battery_msg_unaccounted">Użycie baterii oznacza przybliżone zużycie energii i nie uwzględnia wszystkich źródeł zasilanych z baterii. „Inne” to różnica między obliczonym w przybliżeniu zużyciem energii a faktycznym wyczerpaniem baterii.</string>
@@ -2076,7 +2076,7 @@
   <string name="keep_legacy_fingerprint">Zachowaj</string>
   <string name="keep_screen_on">Pozostań wybudzony</string>
   <string name="keep_screen_on_summary">Ekran nigdy nie będzie wyłączany w czasie ładowania</string>
-  <string name="kernel_version">Wersja jądra</string>
+  <string name="kernel_version">Wersja kernela</string>
   <string name="key_combination_power_back">Przyciski Zasilanie + Wstecz</string>
   <string name="key_combination_power_home">Przyciski Zasilanie + Ekran główny</string>
   <string name="key_combination_power_menu">Przyciski Zasilanie + Menu</string>
@@ -3906,7 +3906,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="security_keyguard_category_name">Ekran blokady</string>
   <string name="security_password_category_name">Blokada ekranu</string>
   <string name="security_passwords_title">Hasła</string>
-  <string name="security_patch">Poziom poprawek bezpieczeństwa Android</string>
+  <string name="security_patch">Poprawki bezpieczeństwa Androida</string>
   <string name="security_privacy_settings_title">Prywatność</string>
   <string name="security_relative">Bezpieczeństwo</string>
   <string name="security_settings_billing_desc">W aplikacji mogą być pobierane opłaty:</string>
@@ -4625,7 +4625,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Jeśli wyłączysz hasło ekranu blokady, zapisane odciski palców zostaną usunięte. Nie będziesz w stanie odblokować urządzenia za pomocą odcisku palca.</string>
   <string name="turn_off_security_lock">Wyłącz blokadę</string>
   <string name="turn_on_keyguard_password">Włącz hasło ekranu blokady</string>
-  <string name="turn_on_keyguard_password_alert">Zapamiętaj swoje hasło. Jeśli zapomnisz, nie będziesz mógł go odzyskać.</string>
+  <string name="turn_on_keyguard_password_alert">Zapamiętaj swoje hasło.</string>
   <string name="turn_on_keyguard_password_alert_choose">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP.</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Nie teraz</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Rozumiem</string>
