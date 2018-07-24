@@ -348,6 +348,16 @@
     <string name="no_subject_view">(Brak tematu)</string>
     <string name="non_english_subject_limit">Limit 13 znaków</string>
     <string name="nosend_message">Nie wysłano</string>
+    <string name="notification_channel_msg_description">Powiadomienie o wiadomości</string>
+    <string name="notification_channel_msg_name">Wiadomość</string>
+    <string name="notification_channel_other_description">Powiadomienie inne niż wiadomość</string>
+    <string name="notification_channel_other_name">Inne</string>
+    <string name="notification_channel_sim1_description">Powiadomienie o wiadomości SIM 1</string>
+    <string name="notification_channel_sim1_name">Wiadomość SIM 1</string>
+    <string name="notification_channel_sim2_description">Powiadomienie o wiadomości SIM 2</string>
+    <string name="notification_channel_sim2_name">Wiadomość SIM 2</string>
+    <string name="notification_group_name">SMS</string>
+    <string name="unsubscribe">Nie subskrybuj</string>
     <string name="notification_failed_multiple">Nie można wysłać %s wiadomości</string>
     <string name="notification_failed_multiple_title">Wiadomości nie zostały wysłane</string>
     <string name="notification_multiple">[%s]</string>
@@ -672,10 +682,8 @@ Ostatnia próba: %s."</string>
 	<string name="dialog_title_fake_cell_detect_error">Wprowadzenie poprawek</string>
 	<string name="draft">Projekt</string>
 	<string name="fake_cell_alert_detect_error">"To nie zostało wysłane z fałszywego BTSa"</string>
-	<string name="notification_channel_description">Powiadomienia o wiiadomościach</string>
-     <string name="notification_channel_name">SMS</string>
-     <string name="notification_copy">Skopiuj OTP</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
-     <string name="toast_pending_hangup_msg">Wiadomość zostanie wysłana po zakończeniu rozmowy</string>
-     <string name="url_scan_again">Sprawdź ponownie</string>
+    <string name="notification_copy">Skopiuj OTP</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="toast_pending_hangup_msg">Wiadomość zostanie wysłana po zakończeniu rozmowy</string>
+    <string name="url_scan_again">Sprawdź ponownie</string>
 </resources>

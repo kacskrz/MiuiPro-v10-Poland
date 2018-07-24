@@ -190,7 +190,7 @@
     <string name="close_camera_requesting">Wyłączanie aparatu…</string>
     <string name="close_camera_failed">Nie udało się wyłączyć aparatu…</string>
     <string name="change_to_voice_tips_when_background">Rozmówca przełączył się na rozmowę głosową</string>
-    <string name="video_crbt_title">%s dzwonek zwrotny wideo</string>
+    <string name="video_crbt_title">Odtworzony zostanie sygnał zwrotny wideokonferencji drugiej strony</string>
     <string name="call_button_tools_text">Funkcje</string>
     <string name="call_button_dialer_text">Klawiatura</string>
     <string name="call_button_mute_text">Wycisz</string>

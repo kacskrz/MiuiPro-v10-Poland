@@ -21,9 +21,13 @@
 	<plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">Pozostało %d sekund</item>
         <item quantity="one">Pozostała %d sekunda</item>
+        <item quantity="few">Pozostały %d sekundy</item>
+        <item quantity="many">Pozostało %d sekund</item>
      </plurals>
      <plurals name="word_count">
-        <item quantity="other">%s słów</item>
-        <item quantity="one">%s słowo</item>
+        <item quantity="other">%d słów</item>
+        <item quantity="one">%d słowo</item>
+        <item quantity="few">%d słowa</item>
+        <item quantity="many">%d słów</item>
      </plurals>
 </resources>

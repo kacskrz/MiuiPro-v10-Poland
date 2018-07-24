@@ -80,7 +80,7 @@
     <string name="app_widget">Notatki</string>
     <string name="widget_havenot_content">Brak powiązanej notatki. Dotknij aby utworzyć nową notatkę. Naciśnij długo na widżet aby móc zmieniać rozmiar.</string>
     <string name="widget_content_loading">Chwileczkę…</string>
-    <string name="notelist_string_info">...</string>
+    <string name="notelist_string_info">…</string>
     <string name="note_alert_expired">Przedawnione</string>
     <string name="notealert_ok">OK</string>
     <string name="notealert_enter">Otwórz notatkę</string>
@@ -169,9 +169,6 @@
     <string name="sns_choose_quality_title">Wybierz jakość obrazu</string>
     <string name="sns_choose_quality_high">Wysoka (%1$s)</string>
     <string name="sns_choose_quality_low">Niska</string>
-    <string name="welcome_note_for_cm">"I wiele więcej możliwości!
-  - Synchronizuj z Chmurą
-  - Ustaw przypomnienia"</string>
     <string name="cloud_trash_bin_title">Usuń notatki w Chmurze Xiaomi</string>
     <string name="done">Gotowe</string>
     <string name="menu_add_description">Dodaj notatkę</string>

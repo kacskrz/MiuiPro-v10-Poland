@@ -188,7 +188,7 @@
   <string name="wifi_enable_data_and_wifi_roam">Asystent Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Utrzymaj włączone dane mobilne i Wi-Fi, aby przełączyć na dane, gdy jakość Wi-Fi jest słaba.</string>
   <string name="wifi_other_network">Dodaj inną sieć</string>
-  <string name="wifi_scan_notify_text_location_off">Apps may scan for nearby networks, even when WLAN is off. If you don\'t want this to happen, go to Advanced &gt; Scanning always available.</string>
+  <string name="wifi_scan_notify_text_location_off">Aplikacje mogą skanować urządzenie w poszukiwaniu sieci, nawet jeśli Wi-Fi jest wyłączone. Jeśli nie chcesz, aby się to działo, przejdź do Zaawansowanych ustawień &gt; Skanowanie zawsze dostępne.</string>
   <string name="wifi_scan_notify_text_location_on">Aby poprawić dokładność lokalizacji i do innych celów, Google i inne aplikacje mogą skanować urządzenie w poszukiwaniu pobliskich sieci, nawet gdy sieć Wi-Fi jest wyłączona. Jeśli nie chcesz, aby tak się stało, przejdź do Zaawansowanych ustawień &gt; Skanowanie zawsze dostępne.</string>
   <string name="wifi_select_assistant_dialog_title">Wybierz asystenta</string>
   <string name="wifi_share_count">Masz %d udostępnione sieci</string>

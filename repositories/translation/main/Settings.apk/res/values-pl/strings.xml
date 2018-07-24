@@ -4544,8 +4544,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="toast_lockscreen_glogin_empty_password">Wprowadź hasło</string>
   <string name="toast_need_login">Zaloguj się na konto Xiaomi</string>
   <string name="total">Nie przeszkadzać</string>
-  <string name="total_info">Wycisza dźwięki %1$s poza budzikiem</string>
-  <string name="total_info_sub">i wyłącza wibrację</string>
+  <string name="total_info">Wycisza dźwięki i wyłącza wibracje poza budzikiem</string>
+  <string name="total_info_no_vibrator">Wycisza dźwięki z wyjątkiem budzika</string>
   <string name="total_memory">Pamięć ogółem</string>
   <string name="total_size">Razem: %s</string>
   <string name="total_size_label">Razem</string>
@@ -5675,8 +5675,6 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="zone_auto_summaryOn">Użyj strefy czasowej podanej przez sieć</string>
   <string name="zone_list_menu_sort_alphabetically">Sortuj alfabetycznie</string>
   <string name="zone_list_menu_sort_by_timezone">Sortuj według strefy czasowej</string>
-  <string name="cancel_description">Zakończ</string>
-  <string name="confirm_description">Potwierdź</string>
   <string name="fallback_home_title">Chwileczkę…</string>
   <string name="key_fsg_dialog_message">"Używasz gestów pełnoekranowych do nawigacji urządzeniem. Funkcje oparte na przyciskach są teraz niedostępne. Przełączyć się na nie?"</string>
   <string name="key_fsg_dialog_negative">Zakończ</string>
