@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about">O</string>
-  <string name="action_back">back</string>
+  <string name="action_back">Wstecz</string>
   <string name="action_settings">Ustawienia</string>
-  <string name="ad_download">Install</string>
+  <string name="ad_download">Instaluj</string>
   <string name="ad_mark">Reklama</string>
   <string name="ad_title">Inne osoby pobierały to także z  %1$s  </string>
-  <string name="ad_title_other">Osoby, które pobrały ten obraz , pobrały także</string>
+  <string name="ad_title_other">Osoby z tym obrazem pobrały także</string>
   <string name="add_flow_fail_haveget_msg">Okres próbny się zakończył.</string>
   <string name="add_flow_fail_vip_msg">Szybkie pobieranie Xunlei jest włączone</string>
   <string name="add_flow_success_msg">%s added this month</string>
@@ -20,7 +20,8 @@
   <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Konto Xunlei</string>
   <string name="auth_fail">Nie udało się uzyskać autoryzacji</string>
-  <string name="bind_xunlei_account">Added Xunlei account %1$s</string>
+  <string name="average_speed">Przeciętna prędkość</string>
+  <string name="bind_xunlei_account">Dodano konto Xunlei %1$s</string>
   <string name="bt_download">Pobierz</string>
   <string name="bt_path_not_exit">Ścieżka nie istnieje</string>
   <string name="bt_restart_dialog_message">Wznowić wszystkie pobierania z folderu BT?</string>
@@ -68,8 +69,8 @@
   <string name="dialog_insufficient_space_on_cache">Nie można ukończyć pobierania. Brak miejsca w pamięci telefonu.</string>
   <string name="dialog_insufficient_space_on_external">Nie można ukończyć pobierania. Brak miejsca na nośniku zewnętrznym.</string>
   <string name="dialog_media_not_found">Podłącz nośnik zewnętrzną, aby pobrać.</string>
-  <string name="dialog_msg_disabled_net">%1$s ograniczył pobieranie dla aktualnej sieci. Dotknij Ustawienia sieci, aby przejść do Panelu sterowania.</string>
-  <string name="dialog_msg_recommend">Po wyłączeniu nie będziesz mógł wyświetlić polecanych źródeł.</string>
+  <string name="dialog_msg_disabled_net">%1$s ograniczył pobieranie dla aktualnej sieci. Dotknij Ustawień sieci, aby przejść do Panelu sterowania.</string>
+  <string name="dialog_msg_recommend">"Po wyłączeniu nie będziesz mógł wyświetlić polecanych źródeł. Możesz wybrać opcję \"Ładuj treść wyłącznie poprzez Wi-Fi\", aby zachować dane mobilne."</string>
   <string name="dialog_queued_body">Plik został dodany do kolejki i zostanie wkrótce pobrany.</string>
   <string name="dialog_speed_cancel">Zakończ</string>
   <string name="dialog_speed_msg">Korzystanie z danych mobilnych do testowania sieci może pochłaniać duże ilości danych mobilnych. Kontynuować mimo to?</string>
@@ -143,7 +144,7 @@
   <string name="durationDays">%1$d days</string>
   <string name="durationHourMinute">%1$d godz. %2$d min.</string>
   <string name="durationHourMinutes">%1$d godz. %2$d min.</string>
-  <string name="durationHours">%1$d hrs</string>
+  <string name="durationHours">%1$d godz.</string>
   <string name="durationMinute">%1$d min.</string>
   <string name="durationMinutes">%1$d min.</string>
   <string name="durationMinuteSecond">%1$d min %2$d sek</string>
@@ -155,19 +156,22 @@
   <string name="editmode_menu_share">Udostępnij</string>
   <string name="engine_open">Otwórz</string>
   <string name="enter_search">Wyszukiwanie w sieci</string>
+  <string name="everyone_test">Wszyscy testują</string>
   <string name="experience_xunlei_account_speed">Członkowie Xunlei mogą cieszyć się z prędkości światła przy przesyłaniu.</string>
   <string name="expire_notification_msg">Członkostwo Xunlei wkrótce wygaśnie.</string>
   <string name="expire_today_notification_msg">Członkostwo Xunlei wygasa dzisiaj.</string>
   <string name="extend">Więcej</string>
-  <string name="extra_ad_title">You may also like</string>
+  <string name="extra_ad_title">Możesz polubić także</string>
   <string name="extract_file">Rozpakowywanie pliku…</string>
+  <string name="fastest_speed">Najwyższa prędkość</string>
   <string name="file_exist_hint">Ten plik już istnieje</string>
   <string name="file_picker">Wybierz lokalizację</string>
   <string name="file_size">Rozmiar:</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
-  <string name="force_touch_newdownload">New download</string>
-  <string name="force_touch_rank">Rankings</string>
-  <string name="force_touch_search">Search the web</string>
+  <string name="flow_consume">Ruch</string>
+  <string name="force_touch_newdownload">Nowe pobranie</string>
+  <string name="force_touch_rank">Rankingi</string>
+  <string name="force_touch_search">Przeszukaj sieć</string>
   <string name="free_high_speed_channel">Szybkie pobieranie Xunlei (darmowe)</string>
   <string name="free_speedup_exp">Wypróbuj za darmo szybkie pobieranie Xunlei</string>
   <string name="get_account_dialog_msg">Pobieranie informacji o koncie…</string>
@@ -205,9 +209,9 @@
   <string name="member_cost">Roczny</string>
   <string name="menu_all_task_pause">Wstrzymaj wszystko</string>
   <string name="menu_all_task_start">Rozpocznij wszystkie</string>
-  <string name="menu_back">Back to Xunlei membership</string>
-  <string name="menu_des_more">More</string>
-  <string name="menu_des_vip">Xunlei membership</string>
+  <string name="menu_back">Wróć do członkostwa Xunlei</string>
+  <string name="menu_des_more">Więcej</string>
+  <string name="menu_des_vip">Członkostwo Xunlei</string>
   <string name="menu_enter_edit_mode">Edytor</string>
   <string name="menu_preferences">Ustawienia pobierania</string>
   <string name="menu_title_fileexplore">Eksplorer</string>
@@ -232,9 +236,9 @@
   <string name="no_vip_info">Zostań członkiem Xunlei, aby przyspieszyć pobieranie</string>
   <string name="no_vip_show_info">Przyspiesz pobieranie\nna wszystkich swoich urządzeniach z Xunlei</string>
   <string name="notify_disabled_net_by_app">Dostęp do internetu ograniczony</string>
-  <string name="notify_install_guide_forward_text">Open</string>
-  <string name="notify_install_guide_msg">Installed successfully</string>
-  <string name="notify_install_guide_title">Installed %s successfully</string>
+  <string name="notify_install_guide_forward_text">Otwórz</string>
+  <string name="notify_install_guide_msg">Pomyślnie zainstalowano</string>
+  <string name="notify_install_guide_title">Pomyślnie zainstalowano %s</string>
   <string name="notify_not_support">Takie powiadomienia nie są obsługiwane, aktualizuj teraz</string>
   <string name="notify_only_wifi_download">Oczekiwanie na sieć Wi-Fi</string>
   <string name="one_month">1 miesiąc</string>
@@ -258,12 +262,12 @@
   <string name="paused_unknown">Wstrzymano</string>
   <string name="paused_waiting_for_network">Oczekiwanie na sieć</string>
   <string name="paused_waiting_to_retry">Oczekiwanie na ponowienie</string>
-  <string name="percent_title">%1$s people downloaded</string>
+  <string name="percent_title">Pobrało %1$s osób</string>
   <string name="period_of_validity">Ważność:</string>
   <string name="petabyteShort">PB</string>
-  <string name="pref_download_revert_default">Domyślne</string>
-  <string name="pref_download_settings_title">Limit rozmiaru pobierania</string>
-  <string name="pref_download_storage_path">Utwórz nowy folder dla pobranych elementów</string>
+  <string name="pref_download_revert_default">Zapisz w domyślnej lokalizacji</string>
+  <string name="pref_download_settings_title">Pobieranie za pomocą danych mobilnych jest ograniczone</string>
+  <string name="pref_download_storage_path">Zapisz w własnej lokalizacji</string>
   <string name="pref_sniff_shortcut">Utwórz skrót na ekranie głównym do wyszukiwania w sieci</string>
   <string name="pref_summary_any_bytes_popup">Zawsze czekaj na połączenie Wi-Fi, aby pobrać pliki</string>
   <string name="pref_summary_enable_max_bytes_popup">Powiadom mnie, gdy przekroczę ustawiony limit pobierania plików z wykorzystaniem danych mobilnych</string>
@@ -378,7 +382,7 @@
   <string name="sniff_terms_check_text">Zgoda na Warunki użytkowania</string>
   <string name="sniff_terms_msg">Musisz zaakceptować \"Warunki korzystania\", aby móc korzystać z silnika wyszukiwania firm trzecich.</string>
   <string name="sniff_terms_msg_a">Funkcja jest dostarczana przez zewnętrznego developera. Musisz zgodzić się na Warunki użytkowania zanim z niej skorzystasz.</string>
-  <string name="sniff_terms_msg_b">Funkcja jest dostarczana przez zewnętrznego developera. Musisz zgodzić się na Warunki użytkowania zanim skorzystasz z tej funkcji. Jeśli zgadzasz się na warunki, zaznacz pole wyboru poniżej.</string>
+  <string name="sniff_terms_msg_b">Funkcja wyszukiwania jest dostarczana przez zewnętrznego developera. Musisz zgodzić się na Warunki użytkowania, zanim skorzystasz z tej funkcji. Jeśli zgadzasz się na warunki, zaznacz opcję poniżej.</string>
   <string name="sniff_terms_msg_bold">Warunki Użytkowania</string>
   <string name="sniff_terms_msg_bold_new">Warunki użytkowania</string>
   <string name="sniff_terms_reject">Odmów</string>
@@ -389,6 +393,7 @@
   <string name="speed_entrance">Testuj prędkość Wi-Fi</string>
   <string name="speed_result_broadband_text1">Obecna prędkość pobierania</string>
   <string name="speed_result_broadband_text2">%s przepustowości</string>
+  <string name="speed_result_broadband_text3">Internet szerokopasmowy</string>
   <string name="speed_result_finish">Ukończone</string>
   <string name="speed_result_restart">Testuj ponownie</string>
   <string name="speed_start">Testuj</string>
@@ -412,8 +417,12 @@
   <string name="subfile_list">Pliki</string>
   <string name="task_detail">Zadania</string>
   <string name="task_detail_notfound_confirm">OK</string>
-  <string name="task_fail">Niepowodzenie</string>
+  <string name="task_fail">Nie udało się ukończyć operacji</string>
   <string name="terabyteShort">TB</string>
+  <string name="test_speed">Test</string>
+  <string name="test_speed_detail">Szczegóły</string>
+  <string name="test_speed_please">Dotknij, aby przetestować prędkość...</string>
+  <string name="test_speed_result">Rezultat testu</string>
   <string name="text_showmore_infoflow">Pokaż więcej źródeł</string>
   <string name="third_web_cancel">Anuluj</string>
   <string name="third_web_confirm">OK</string>
@@ -422,6 +431,7 @@
   <string name="third_web_filesize">Rozmiar</string>
   <string name="third_web_savepath">Lokalizacja</string>
   <string name="third_web_title">Pobieranie</string>
+  <string name="time_consume">Czas trwania</string>
   <string name="title_homepage_infoflow">Ostatnie aktualizacje</string>
   <string name="title_tips">Powiadomienie</string>
   <string name="title_unbind_xunlei">Usuń swoje konto Xunlei</string>
@@ -431,6 +441,7 @@
   <string name="torrent_file_error">Nie udało się przetworzyć pliku torrent</string>
   <string name="torrent_no_subfile">Brak podplików w tym torrencie</string>
   <string name="total_speedup">Przyspieszenie prędkości (w sumie)</string>
+  <string name="try_download">Spróbuj pobrać</string>
   <string name="turn_off_xunlei_message">Możesz doświadczyć wolniejszych prędkości pobierania.</string>
   <string name="turn_off_xunlei_tips">Szybkie pobieranie Xunlei jest wyłączone</string>
   <string name="turn_off_xunlei_title">Wyłącz szybkie pobieranie Xunlei</string>
@@ -490,6 +501,4 @@
   <string name="xunlei_open_info">Użyć silnika Xunlei do otwierania linków tego typu?</string>
   <string name="xunlei_speed_service">Szybkie pobieranie Xunlei</string>
   <string name="xunlei_switch">Silnik pobierania Xunlei</string>
-  <string name="ad_install">Zainstaluj</string>
-  <string name="common_google_play_services_unknown_issue">%1$s ma problemy z Usługami Google Play. Spróbuj ponownie.</string>
 </resources>

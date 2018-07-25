@@ -119,7 +119,7 @@
   <string name="install_failed">Nie udało się zaktualizować MIUI</string>
   <string name="install_file_explorer">Zainstaluj najpierw Menadżera plików</string>
   <string name="install_local">Instalacja z pamięci</string>
-  <string name="internal_build">Wewnętrzny</string>
+  <string name="internal_build">Wewnętrzna</string>
   <string name="later">Później</string>
   <string name="loading">Żądanie…</string>
   <string name="log_share">Udostępnij</string>
@@ -321,6 +321,6 @@
   <string name="vote_not_recommend">Nie polecam</string>
   <string name="vote_recommend">Polecam aktualizację</string>
   <string name="vote_submit">Wyślij</string>
-  <string name="weekly_build">Rozwojowa</string>
+  <string name="weekly_build">Beta</string>
   <string name="worst_update">Najgorsza do tej pory</string>
 </resources>
