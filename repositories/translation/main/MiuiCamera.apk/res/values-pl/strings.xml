@@ -507,5 +507,10 @@ w Trybie portretowym"</string>
   <string name="lighting_pattern_rainbow">Tęcza</string>
   <string name="lighting_pattern_shutter">Żaluzja</string>
   <string name="lighting_pattern_stage">Scena</string>
-    <string name="pref_camera_super_resolution_title">Włącz SR</string>
+  <string name="pref_camera_super_resolution_title">Włącz SR</string>
+  <string name="beauty_fragment_tab_name_3d_makeup">Charakteryzacja</string>
+  <string name="edit_blusher">Szminka</string>
+  <string name="edit_eyebrow_dye">Brwi</string>
+  <string name="edit_jelly_lips">Błyszczyk</string>
+  <string name="edit_pupil_line">Kredka do oczu</string>
 </resources>

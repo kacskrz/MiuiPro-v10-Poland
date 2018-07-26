@@ -1249,9 +1249,9 @@ aby spersonalizować Galerię"</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
   <string name="video_editor_smart_effect_rhythm">Rytm</string>
   <string name="video_editor_smart_effect_street">Metropolia</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">Możesz zastosować ten efekt do filmów o długości do 40 sekund.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Ten efekt może zostać zastosowany do wideo nie dłuższego niż 40 sekund. Automatycznie skorygowano czas trwania.</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">Możesz zastosować ten efekt do filmów, które trwają co najmniej 6 sekund.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">Możesz zastosować ten efekt do filmów o długości do 60 sekund.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">Ten efekt może zostać zastosowany do wideo nie dłuższego niż 60 sekund. Automatycznie skorygowano czas trwania.</string>
   <string name="video_editor_text_edit_all">Wszystko</string>
   <string name="video_editor_text_edit_input_all_hint">Wprowadź tekst</string>
   <string name="video_editor_unzip_file_fail">"Nie udało się wypakowac wideo."</string>
@@ -1287,5 +1287,5 @@ aby spersonalizować Galerię"</string>
   <string name="picker_origin_request_progress_message">Przygotowywanie oryginalnych plików (%1$d/%2$d)…</string>
   <string name="search_request_requesting">Zastosowane. Zaczekaj chwilę, zanim zaczniesz.</string>
   <string name="secret_reason_video_not_support">"Nie można dodać wideo do ukrytego albumu"</string>
-  <string name="video_editor_video_loading">Przygotowywanie wideo,Zaczekaj minutę bądź dwie i spróbuj ponownie.</string>
+  <string name="video_editor_video_loading">Przygotowywanie wideo… Zaczekaj minutę bądź dwie i spróbuj ponownie.</string>
 </resources>

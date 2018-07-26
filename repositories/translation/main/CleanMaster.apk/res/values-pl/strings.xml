@@ -120,7 +120,7 @@
   <string name="deep_clean_completed_tips">Pomyślnie wyczyszczono</string>
   <string name="deep_clean_data_path_clean_title">Wyczyść pamięć podręczną</string>
   <string name="deep_clean_uninstall_completed_tips">Pomyślnie odinstalowano</string>
-  <string name="deepclean_1_k_clean">Szybkie czyszczenie</string>
+  <string name="deepclean_1_k_clean">Wyczyść pamięć</string>
   <string name="deepclean_apk_content">Usuń pliki APK lub niepotrzebne aplikacje</string>
   <string name="deepclean_apk_summary_empty">Wszystko ok. Brak APK do usunięcia</string>
   <string name="deepclean_apk_version_error">Nieznane</string>
@@ -293,7 +293,7 @@
   <string name="low_memory_warning_dialog_ok_button">Wyczyść</string>
   <string name="low_memory_warning_dialog_title">Za mało miejsca</string>
   <string name="main_title_filesize">%1$s śmieci</string>
-  <string name="main_total_garbage">Razem śmieci</string>
+  <string name="main_total_garbage">Rozmiar śmieci</string>
   <string name="mainbtn_text_no_trash">Pomiń</string>
   <string name="mainbtn_text_quick_cleanup">Wyczyść %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Wyczyść</string>
