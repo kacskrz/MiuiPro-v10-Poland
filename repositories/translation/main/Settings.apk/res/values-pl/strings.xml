@@ -5149,8 +5149,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_assistant_disconnect">Rozłącz</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">Ta sieć Wi-Fi nie ma dostępu do Internetu, Użyć danych mobilnych?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">Ta sieć Wi-Fi nie ma dostępu do Internetu. Rozłączyć się teraz?</string>
-  <string name="wifi_assistant_explicitly_confirm_wifi_message">Ta sieć Wi-Fi nie ma dostępu do Internetu. Dostępne są inne sieci. Przełączyć się?</string>
-  <string name="wifi_assistant_keep_connection">Ciągle połączone</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">Ta sieć Wi-Fi nie ma dostępu do Internetu. Dostępne są inne sieci. Przełączyć się na nie?</string>
+  <string name="wifi_assistant_keep_connection">Pozostaw połączone</string>
   <string name="wifi_assistant_off">Wył.</string>
   <string name="wifi_assistant_ok">OK</string>
   <string name="wifi_assistant_on">Wł.</string>
