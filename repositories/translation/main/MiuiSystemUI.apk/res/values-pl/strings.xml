@@ -676,6 +676,7 @@
   <string name="incorrect_pukcode">Nieprawidłowy kod PUK</string>
   <string name="input_password_after_boot_msg">Aby odblokować urządzenie, wpisz hasło</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nie można przełączyć się między przestrzeniami w czasie połączenia</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Nie można przełączyć się pomiędzy przestrzeniami, gdy ochrona rodzicielska jest włączona</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Musisz zalogować się do Pierwszej przestrzeni po ponownym uruchomieniu urządzenia</string>
   <string name="input_password_handle_sdcard_fs">Nie można wejść do Drugiej przestrzeni z ekranu blokady. Możesz wejść tylko z Pierwszej przestrzeni.</string>
   <string name="input_password_hint_text">Wprowadź hasło</string>

@@ -16,4 +16,16 @@
         <item>Wydajny</item>
         <item>Zrównoważony</item>
     </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Natychmiastowy spoczynek</item>
+        <item>Strategia oszczędzania baterii</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>Własne</item>
+        <item>Oszczędzanie baterii</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aktywne aplikacje</item>
+        <item>Nieaktywne aplikacje</item>
+    </string-array>
 </resources>

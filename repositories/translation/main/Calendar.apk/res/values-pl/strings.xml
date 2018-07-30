@@ -378,7 +378,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="tab_title_day">Dzień</string>
     <string name="tab_title_month">Miesiąc</string>
     <string name="tab_title_week">Tydzień</string>
-    <string name="talk_back_read_date">Aktualna data: %1$s (%2$s według kalendarza księżycowego).</string>
+    <string name="talk_back_read_date">%1$s (%2$s według kalendarza księżycowego).</string>
     <string name="template_week_num">Tydzień %1$s</string>
     <string name="time_zone">Strefa czasowa</string>
     <string name="today_no_events">Brak wydarzeń na dziś</string>
@@ -434,4 +434,9 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="guide_card_second_text">Import zbiorczy, urodziny kolegów nie są pominięte</string>
     <string name="guide_card_title">Importuj daty urodzin</string>
 	<string name="receive_net_mock_success">Pomyślnie otrzymano obiekt z Internetu</string>
+    <string name="close_alarm">Wyłącz</string>
+    <string name="guide_card_close">zamknij</string>
+    <string name="login_failed_toast">"Nie udało się zalogować, odśwież i spróbuj ponownie"</string>
+    <string name="talk_back_month">Miesiąc</string>
+    <string name="talk_back_setting">ustawienie</string>
 </resources>
