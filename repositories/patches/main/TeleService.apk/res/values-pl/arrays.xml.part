@@ -59,4 +59,8 @@
         <item>Wyłącz dźwięk</item> 
         <item>Wyłączone</item> 
     </string-array> 
+    <string-array name="call_windows_entries">  
+        <item>Na pełnym ekranie</item>  
+        <item>Okno pop-up</item>  
+    </string-array>
  </resources>

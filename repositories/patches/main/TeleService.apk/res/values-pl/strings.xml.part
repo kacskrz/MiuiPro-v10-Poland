@@ -44,4 +44,8 @@
     <string name="auto_redial_times_summary">Instalowane: %s</string>
 	<string name="button_color_title">Kolor przycisków</string>  
     <string name="text_color_title">Kolor nazw przycisków</string>
+    <string name="name_color_title">Kolor nazwy, czasu rozmowy itd.</string> 
+    <string name="number_color_title">Kolor liczb, liter itd.</string> 
+    <string name="icon_color_title">Kolor SIM, gwiazdki, krzyżyka itd.</string>
+	<string name="call_windows_title">Okno połączenia</string>
 </resources>
