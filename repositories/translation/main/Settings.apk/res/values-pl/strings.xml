@@ -2870,7 +2870,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="notification_channel_badge_title">Pokaż plakietkę z powiadomieniem</string>
   <string name="notification_channel_sound_title">Dźwięk</string>
   <string name="notification_channel_title">Kategoria powiadomienia</string>
-  <string name="notification_channels">Kategorie</string>
+  <string name="notification_channels">Kategorie powiadomień</string>
   <string name="notification_channels_other">Inne</string>
   <string name="notification_content_block_summary">Nigdy nie pokazuj powiadomień w obszarze powiadomień ani na urządzeniach peryferyjnych</string>
   <string name="notification_content_block_title">Pokazuj powiadomienia</string>
@@ -3109,6 +3109,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="picture_in_picture_title">Obraz w obrazie</string>
   <string name="pin_failed">Operacja z kodem PIN karty SIM nie udała się.</string>
   <string name="ping_test_label">Przeprowadź test pingu</string>
+  <string name="play_pause_description">Przycisk Odtwórz/Pauza</string>
   <string name="please_select_phase2">Uwierzytelnianie w drugiej fazie</string>
   <string name="please_type_passphrase">Hasło</string>
   <string name="pointer_location">Lokalizacja wskaźnika</string>

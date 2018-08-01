@@ -35,7 +35,7 @@
 *\u0009\u0009\u0009\u0009Alarmów, zegara i ustawień 
 *\u0009\u0009\u0009\u0009Ustawień powiadomień 
 *\u0009\u0009\u0009\u0009Ustawień MIUI i systemu 
-\"Info: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.\""</string>
+\Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.\"</string>
     <string name="cloud_app_no_data">Brak kopii zapasowych</string>
     <string name="cloud_app_restore_error">Nie udało się przywrócić</string>
     <string name="cloud_app_restore_success">Aplikacje zostały przywrócone</string>
@@ -167,9 +167,9 @@
 	   <string name="btn_restore_abort">Anuluj</string>
    <string name="btn_restore_cancel">Zakończ</string>
    <string name="btn_restore_resume">Kontynuuj</string>
-   <string name="btn_restore_retry">Ponów</string>
-   <string name="msg_alert_cancel_restore">Kopia z Chmury jest przywracana, zatrzymać to?</string>
-   <string name="msg_alert_restore_error">Przywrócenie kopii z Chmury nie udało się, spróbuj ponownie.</string>
+   <string name="btn_restore_retry">Spróbuj ponownie</string>
+   <string name="msg_alert_cancel_restore">Trwa przywracanie elementów. Zatrzymać mimo to?</string>
+   <string name="msg_alert_restore_error">Nie udało się przywrócić elementów z Chmury Xiaomi, spróbuj ponownie.</string>
    <string name="title_alert_cancel_restore">Zatrzymanie przywracania</string>
-   <string name="title_alert_restore_error">Nieudane przywrócenie</string>
+   <string name="title_alert_restore_error">Nie udało się przywrócić</string>
 </resources>

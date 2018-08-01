@@ -88,7 +88,7 @@
 	<string name="app_preload_policies_summary">"Użyj uczenia maszynowego, aby przewidzieć aplikacje, z których prawdopodobnie będziesz korzystać, i wczytuj zasoby z wyprzedzeniem."</string>
 	<string name="app_preload_policies_title">Inteligentne preładowanie aplikacji</string>
 	<string name="pref_config_title">Optymalizacja wydajności</string>
-    <string name="active_classify">klasyfikuj wg stanu aktywnego</string>
+    <string name="active_classify">Sortuj wg stanu aktywności</string>
     <string name="appconfig_active_app_dialog_title">Zarządzanie aktywnymi aplikacjami</string>
-    <string name="config_classify">klasyfikuj wg konfiguracji</string>
+    <string name="config_classify">Sortuj wg ustawień aplikacji</string>
 </resources>

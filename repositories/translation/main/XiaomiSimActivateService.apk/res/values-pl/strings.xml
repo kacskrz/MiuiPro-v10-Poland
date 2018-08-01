@@ -118,10 +118,10 @@ Wpisz numer powiązany z nową kartą SIM, aby aktywować ponownie %s."</string>
     <string name="privacy_revoke_tips">Jeśli odwołasz, nie będzie można korzystać z synchronizacji SMS</string>
     <string name="privacy_revoke_failed_msg">Unieważniono prywatność, nie można uzyskać numeru telefonu, aktywacja nieudana</string>
     <string name="activate_feature_voip">Wiadomość Mi VoIP</string>
-    <string name="checking_client">sprawdzanie klienta env</string>
+    <string name="checking_client">Sprawdzanie środowiska aktywacji</string>
     <string name="error_checking_client">Podczas aktywacji wystąpił błąd</string>
     <string name="error_network_io">Wystąpił błąd sieci</string>
     <string name="error_no_send_sms_permission">Usługa aktywacji karty SIM Xiaomi wymaga uprawnień do wysyłania SMS</string>
-    <string name="error_sim_not_in_service">Oczekiwanie na aktywację karty SIM</string>
-    <string name="waiting_sim_in_service">oczekiwanie na sim w usłudze</string>
+    <string name="error_sim_not_in_service">Nie można aktywować karty SIM. Upewnij się, że posiadasz wystarczające środki na koncie.</string>
+    <string name="waiting_sim_in_service">Oczekiwanie na aktywację karty SIM</string>
 </resources>
