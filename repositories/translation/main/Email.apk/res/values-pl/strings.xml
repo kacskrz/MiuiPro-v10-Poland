@@ -774,6 +774,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="preview_attachment">Podgląd</string>
     <string name="previous_action">Wstecz</string>
     <string name="print">Drukuj</string>
+	<string name="privacy_policy">Polityka prywatności</string>
     <string name="prompt_title">Zapytaj</string>
     <string name="protocol_setting_toast">Po wyrażeniu zgody, dotknij prawego górnego rogu, aby przejść do ustawień</string>
     <string name="pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>

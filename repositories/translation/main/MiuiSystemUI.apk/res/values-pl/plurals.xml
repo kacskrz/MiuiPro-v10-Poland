@@ -83,8 +83,8 @@
     <item quantity="one">Karta SIM jest teraz wyłączona. Wprowadź kod PUK, aby kontynuować. Masz %d próbę, zanim karta SIM stanie się bezużyteczna. Skontaktuj się z operatorem, by uzyskać szczegóły.</item>
   </plurals>
   <plurals name="kg_password_wrong_pin_code">
-    <item quantity="other">Nieprawidłowy kod PIN, masz jeszcze %d prób.</item>
-    <item quantity="one">Nieprawidłowy kod PIN, masz tylko %d próbę przed tym, gdy będzie konieczny kontakt z operatorem w celu odblokowania urządzenia.</item>
+    <item quantity="other">Nieprawidłowy kod PIN. Masz jeszcze %d prób.</item>
+    <item quantity="one">Nieprawidłowy kod PIN. Masz tylko %d próbę przed tym, gdy będzie konieczny kontakt z operatorem w celu odblokowania urządzenia.</item>
   </plurals>
   <plurals name="kg_password_wrong_puk_code">
     <item quantity="other">Nieprawidłowy kod PUK, masz jeszcze %d prób, zanim karta SIM stanie się bezużyteczna.</item>

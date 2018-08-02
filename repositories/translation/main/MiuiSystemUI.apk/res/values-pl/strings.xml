@@ -251,7 +251,7 @@
   <string name="apn_settings_not_available">Ustawienia APN są niedostępne dla tego użytkownika</string>
   <string name="app_info">O aplikacji</string>
   <string name="app_label">Systemowy UI</string>
-  <string name="app_name">Keyguard</string>
+  <string name="app_name">Ekran blokady</string>
   <string name="app_process_limit_title">Limit procesu w tle</string>
   <string name="as_important">Ważne</string>
   <string name="as_unimportant">Nieistotne</string>
@@ -750,7 +750,7 @@
   <string name="keyguard_accessibility_pin_area">PIN area</string>
   <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
   <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-  <string name="keyguard_carrier_default">Brak sieci.</string>
+  <string name="keyguard_carrier_default">Brak sieci</string>
   <string name="keyguard_charged">Naładowana</string>
   <string name="keyguard_charging_info_battery_used_time_text">Czas pracy</string>
   <string name="keyguard_charging_info_click_to_detail">Zobacz szczegóły</string>
@@ -782,12 +782,12 @@
   <string name="keyguard_missing_sim_instructions_long">Brak karty SIM lub nie można jej odczytać. Włóż kartę SIM.</string>
   <string name="keyguard_missing_sim_message">Brak karty SIM w telefonie.</string>
   <string name="keyguard_missing_sim_message_short">Brak karty SIM</string>
-  <string name="keyguard_network_locked_message">Sieć zablokowana</string>
-  <string name="keyguard_password_enter_password_code">Wpisz hasło, aby odblokować.</string>
-  <string name="keyguard_password_enter_pin_code">Wpisz kod PIN.</string>
-  <string name="keyguard_password_enter_pin_password_code">Wpisz kod PIN, aby odblokować.</string>
+  <string name="keyguard_network_locked_message">Sieć jest zablokowana</string>
+  <string name="keyguard_password_enter_password_code">Wpisz hasło, aby odblokować</string>
+  <string name="keyguard_password_enter_pin_code">Wpisz kod PIN</string>
+  <string name="keyguard_password_enter_pin_password_code">Wpisz kod PIN, aby odblokować</string>
   <string name="keyguard_password_enter_pin_prompt">Nowy PIN</string>
-  <string name="keyguard_password_enter_puk_code">Wpisz kod PUK i nowy kod PIN.</string>
+  <string name="keyguard_password_enter_puk_code">Wpisz kod PUK i nowy kod PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Kod PUK</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;Kliknij, by wpisać hasło&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Błędny kod PIN</string>
@@ -802,7 +802,7 @@
   <string name="keyguard_sim_unlock_progress_dialog_message">Odblokowywanie karty SIM…</string>
   <string name="keyguard_torch_cover_text">Naciśnij przycisk Zasilania, by latarka pozostała włączona</string>
   <string name="keyguard_unlock">Przesuń w górę, aby odblokować</string>
-  <string name="kg_enter_confirm_pin_hint">Potwierdź wybrany kod PIN</string>
+  <string name="kg_enter_confirm_pin_hint">Potwierdź nowy kod PIN</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">Po raz %1$d nieprawidłowo narysowałeś wzór odblokowania. Po kolejnych %2$d nieudanych próbach konieczne będzie odblokowanie telefonu przy użyciu danych logowania na konto Google.\n\n Spróbuj ponownie za %3$d s.</string>
@@ -817,15 +817,15 @@
   <string name="kg_invalid_sim_puk_hint">PUK musi mieć 8 cyfr.</string>
   <string name="kg_login_too_many_attempts">Zbyt wiele prób narysowania wzoru</string>
   <string name="kg_password_instructions">Wpisz hasło</string>
-  <string name="kg_password_pin_failed">Operacja SIM PIN wadliwa!</string>
-  <string name="kg_password_puk_failed">Operacja SIM PUK wadliwa!</string>
-  <string name="kg_password_wrong_pin_code_pukked">Niewłaściwy kod PIN karty SIM - musisz skontaktować się z operatorem, aby odblokować urządzenie.</string>
+  <string name="kg_password_pin_failed">Nie udało się odblokować, używając PINu karty SIM</string>
+  <string name="kg_password_puk_failed">Nie udało się odblokować, używając kodu PUK karty SIM</string>
+  <string name="kg_password_wrong_pin_code_pukked">Niewłaściwy kod PIN karty SIM. Skontaktuj się z operatorem, aby odblokować urządzenie.</string>
   <string name="kg_password_wrong_puk_code_dead">SIM jest nie do użytku. Skontaktuj się z operatorem.</string>
   <string name="kg_pattern_instructions">Narysuj wzór</string>
-  <string name="kg_pin_accepted">Kod zaakceptowany!</string>
+  <string name="kg_pin_accepted">Kod został zaakceptowany</string>
   <string name="kg_pin_instructions">Podaj PIN</string>
   <string name="kg_prompt_reason_device_admin">Urządzenie zablokowane przez administratora</string>
-  <string name="kg_prompt_reason_restart_password">Enter password to unlock</string>
+  <string name="kg_prompt_reason_restart_password">Wprowadź hasło, aby odblokować</string>
   <string name="kg_prompt_reason_restart_pattern">Narysuj wzór, aby odblokować</string>
   <string name="kg_prompt_reason_restart_pin">Wprowadź PIN, aby odblokować</string>
   <string name="kg_prompt_reason_switch_profiles_password">Hasło wymagane, kiedy przełączasz profile</string>
@@ -835,7 +835,7 @@
   <string name="kg_prompt_reason_timeout_pattern">Wzór wymagany dla bezpieczeństwa</string>
   <string name="kg_prompt_reason_timeout_pin">PIN wymagany dla bezpieczeństwa</string>
   <string name="kg_prompt_reason_user_request">Urządzenie było zablokowane manualnie</string>
-  <string name="kg_puk_enter_pin_hint">Podaj wybrany kod PIN</string>
+  <string name="kg_puk_enter_pin_hint">Podaj nowy kod PIN</string>
   <string name="kg_puk_enter_puk_hint">Karta SIM została wyłączona. Podaj kod PUK, by przejść dalej. Szczegóły uzyskasz od operatora.</string>
   <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" jest teraz wyłączona. Podaj kod PUK, by przejść dalej. Szczegóły uzyskasz od operatora.</string>
   <string name="kg_sim_pin_instructions">Podaj PIN karty SIM</string>
@@ -881,7 +881,7 @@
   <string name="lockscreen_none">Nic</string>
   <string name="lockscreen_shortcut_left">Lewy skrót</string>
   <string name="lockscreen_shortcut_right">Prawy skrót</string>
-  <string name="lockscreen_sim_error_message_short">Niewłaściwa karta.</string>
+  <string name="lockscreen_sim_error_message_short">Karta SIM jest nieprawidłowa.</string>
     <string name="lockscreen_storage_locked">Odblokowanie wszystkich funkcji i danych</string>
   <string name="lockscreen_unlock_left">Lewy skrót także odblokowuje</string>
   <string name="lockscreen_unlock_right">Prawy skrót także odblokowuje</string>
@@ -1666,4 +1666,5 @@
   <string name="data_saver_enable_title">Włączyć Oszczędzanie danych?</string>
   <string name="accessibility_quick_settings_alarm_on">Alarm włączony.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bateria urządzenia Bluetooth %d procent.</string>
+  <string name="accessibility_left_button">Skrót</string>
 </resources>

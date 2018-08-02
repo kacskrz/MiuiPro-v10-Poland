@@ -168,7 +168,7 @@
     <string name="submit_dialog_confirm">Wyślij</string>
     <string name="mobile_data_note_dialog_title">Ostrzeżenie o limicie danych</string>
     <string name="mobile_data_note_dialog_content">Używanie danych mobilnych do wysyłania logów może generować dodatkowe koszty.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">Wysłanie logów za pomocą danych mobilnych będzie wymagać %sMB danych.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">Wygląda na to, że jesteś połączony z siecią komórkową. Przesłanie logów będzie wymagać %sMB danych.</string>
     <string name="mobile_data_note_dialog_cancel">Czekaj na sieć Wi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">Wyślij</string>
     <string name="modem_tool_log_dumping_title">Przechwytywanie logów modemu</string>

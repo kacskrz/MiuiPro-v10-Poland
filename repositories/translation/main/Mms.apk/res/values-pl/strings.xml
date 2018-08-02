@@ -365,6 +365,13 @@
   <string name="nosend_message">Nie wysłano</string>
   <string name="notification_channel_description">Powiadomienia z SMS</string>
   <string name="notification_channel_name">Wiadomości</string>
+  <string name="notification_channel_msg_description">Powiadomienia o wiadomościach</string>
+  <string name="notification_channel_msg_name">Wiadomości</string>
+  <string name="notification_channel_other_description">Inne powiadomienia</string>
+  <string name="notification_channel_sim1_description">Powiadomienia o wiadomościach z karty SIM 1</string>
+  <string name="notification_channel_sim1_name">Wiadomości SIM 1</string>
+  <string name="notification_channel_sim2_description">Powiadomienia o wiadomościach z karty SIM 2</string>
+  <string name="notification_channel_sim2_name">Wiadomości SIM 2</string>
   <string name="notification_copy">Skopiuj OTP</string>
   <string name="notification_failed_multiple">Nie można wysłać %s wiadomości</string>
   <string name="notification_failed_multiple_title">Wiadomości nie zostały wysłane</string>
@@ -402,7 +409,7 @@
   <string name="pref_show_sms_template_entry_summary">Wykrywaj jednorazowe hasła i pokazuj menu</string>
   <string name="pref_show_sms_template_in_summary">Wykrywaj kody jednorazowe w wiadomościach SMS</string>
   <string name="pref_show_sms_template_summary">Włącz, aby korzystać z inteligentnych możliwości Wiadomości Mi, takich jak kopiowanie kodów, sprawdzanie stanu konta, itp.</string>
-  <string name="pref_smart_messages_settings">Wiadomości Smart</string>
+  <string name="pref_smart_messages_settings">Smart wiadomości</string>
   <string name="pref_sms_storage_title">Pamięć</string>
   <string name="pref_sms_theme_title">Wyświetlanie</string>
   <string name="pref_summary_allow_si_sl_push">Zezwól na wczytywanie treści z witryn internetowych w wiadomościach</string>
