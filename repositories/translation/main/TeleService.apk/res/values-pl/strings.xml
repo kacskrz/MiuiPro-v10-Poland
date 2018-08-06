@@ -1438,7 +1438,7 @@ Funkcje związane z kodem PIN2 zostaną zablokowane po ponownej nieudanej próbi
     <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_roaming_settings_summary">Podłącz do sieci komórkowej, aby przesłać dane, w roamingu</string>
     <string name="lable_network_not_supported">Sieć nie jest obsługiwana</string>
-    <string name="change_data_preference_4g_only_prompt">Wygląda na to, że masz zainstalowaną tylko kartę SIM 4G. Ustawić ją, jako domyślną dla danych mobilnych?</string>
+    <string name="change_data_preference_4g_only_prompt">Wygląda na to, że masz zainstalowaną tylko kartę SIM 4G. Aby upewnić się, że działa normalnie, ustaw ją jako domyślną dla danych mobilnych. Zrobić to teraz?</string>
     <string name="dialpad_zero">0</string>
     <string name="dialpad_one">1</string>
     <string name="dialpad_two">2</string>
@@ -1813,4 +1813,7 @@ Skontaktuj się z operatorem."</string>
   <string name="dc_alert_dialog_title">Ostrzeżenie o użyciu danych</string>
   <string name="do_not_show_again">"Nie pokazuj ponownie"</string>
   <string name="data_plan">Plany danych mobilnych</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">Karta SIM %1$s wspiera tylko 4G. Aby upewnić się, że twoja karta SIM card działa normalnie, zostało włączone dual 4G.</string>
+    <string name="change_data_sim_4g_only_prompt">Karta SIM %1$s wspiera tylko 4G. Kiedy karta SIM %2$s nie będzie twoją domyślną kartą dla danych mobilnych, karta SIM może nie działać normalnie. Przełączyć teraz?</string>
+    <string name="opened_dual_4g_confirm_prompt">Wygląda na to, że posiadasz tylko kartę SIM 4G. Dual 4G zostało włączone automatycznie.</string>
 </resources>

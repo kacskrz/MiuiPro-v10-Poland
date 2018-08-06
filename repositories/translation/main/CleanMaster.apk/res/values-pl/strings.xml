@@ -108,6 +108,7 @@
   <string name="clean_content_three">3 elementy</string>
   <string name="clean_content_two">2 elementy</string>
   <string name="clean_content_zero">Brak</string>
+  <string name="clean_summary">Wyczyszczono %1$s plików</string>
   <string name="clear_bigfiles">Usuń duże pliki, duplikaty zdjęć i inne zbędne elementy</string>
   <string name="clear_immediately">Wyczyść teraz</string>
   <string name="clear_safe_notify">Widżet paska powiadomień</string>

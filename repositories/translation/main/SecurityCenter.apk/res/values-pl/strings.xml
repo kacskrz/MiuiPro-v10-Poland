@@ -1451,7 +1451,7 @@
   <string name="pref_key_tethering_setting">Jednorazowy limit danych</string>
   <string name="pref_key_tethering_title">Jednorazowy limit danych</string>
   <string name="pref_manual_adjust">Ustaw ręcznie statystyki wykorzystania danych</string>
-  <string name="pref_mi_sim_settings">Ustawienia Mi SIM</string>
+  <string name="pref_mi_sim_settings">Ustawienia %s paczek</string>
   <string name="pref_more_settings">Dodatkowe ustawienia</string>
   <string name="pref_new_installed_preconfig_title">Domyślne ustawienia dla nowych aplikacji</string>
   <string name="pref_normal_traffic_limit">Gdy plan danych zostanie wykorzystany</string>
@@ -1466,7 +1466,7 @@
   <string name="pref_roaming_setting_gategory">Ustawienia</string>
   <string name="pref_special_package_setting">Plan danych użytkownika</string>
   <string name="pref_special_package_setting_summary">Zarządzaj danymi poza szczytem, pakiety doładowania, dzienne plany danych, i określone dane</string>
-  <string name="pref_summary_upload_data_usage">Zgłoś swoje statystyki użycia danych, aby ulepszyć MIUI. Zgłaszanie jest wykonywane zgodnie z Polityką prywatności.</string>
+  <string name="pref_summary_upload_data_usage">Zgłoś swoje statystyki użycia danych, aby ulepszyć usługi MIUI. Zgłaszanie jest wykonywane zgodnie z Polityką prywatności.</string>
   <string name="pref_title_declaration">O Monitorze Danych</string>
   <string name="pref_title_diagnostics_show_float_notification">Pływające powiadomienia</string>
   <string name="pref_title_manual_check_virus_db_update">Sprawdź dostępność aktualizacji</string>
@@ -1535,6 +1535,9 @@
   <string name="report_success">Wiadomość zgłoszona</string>
   <string name="report_warning">Zgłosić SMS %1$s do Xiaomi? Wiadomości i numery z jakich zostały wysłane zostaną przekazane na serwery Xiaomi do przejrzenia. Wszystkie informacje osobiste, powiązane z tymi wiadomościami, pozostaną anonimowe.</string>
   <string name="report_warning_title">Zgłoś SMS</string>
+  <string name="reset_data_title">Nie można przywrócić hasła</string>
+  <string name="reset_data_dialog_message">To urządzenie nie jest powiązane ze Twoim kontem Xiaomi. Nie można przywrócić bądź zresetować hasła. Wykonaj kopię zapasową wszystkich ważnych rzeczy i przywróć telefon do ustawień fabrycznych. Wszystkie dane zostaną całkowicie usunięte, a karta SD zostanie sformatowana w trakcie przywracania ustawień fabrycznych.</string>
+  <string name="reset_data_dialog_ok">Reset do ustawień fabrycznych</string>
   <string name="resource_antispam">Lista blokowanych</string>
   <string name="resource_antivirus">Antywirus</string>
   <string name="resource_app_permissions">Uprawnienia aplikacji</string>
@@ -2199,7 +2202,7 @@
   <string name="menu_summary_networkassistants_4">Brak danych</string>
   <string name="menu_summary_power_manager">Oszczędzanie baterii zapewnia Ci więcej czasu między ładowaniami</string>
   <string name="menu_summary_power_manager_1">Bateria jest w pełni naładowana</string>
-  <string name="menu_summary_power_manager_2">%s pozostało</string>
+  <string name="menu_summary_power_manager_2">Zostało %s</string>
   <string name="menu_summary_power_manager_3">Podłącz ładowarkę</string>
   <string name="menu_summary_power_manager_4">%s do pełna</string>
   <string name="network_traffic_warning_text">"MIUI nie może tutaj obliczyć statystyk użytkowania danych dla poszczególnych aplikacji systemowych. W przypadku aplikacji korzystającej z mobilnych danych będzie można zobaczyć informacje o wykorzystaniu danych w szczegółach aplikacji."</string>

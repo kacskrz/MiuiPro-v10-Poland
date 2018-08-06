@@ -5708,4 +5708,8 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">"Nie można użyć tej funkcji z powodu zbyt słabej baterii"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Aby rozpocząć nagrywanie, akumulator musi naładować się do poziomu co najmniej 5%.</string>
     <string name="status_bar_settings_notification_shade_shortcut">Skrót na pasku powiadomień (nad przełącznikami)</string>
+    <string name="bootloader_locked_answer_2_no_sim">"1. Dotknij przycisku \"Dodaj konto\" poniżej, aby powiązać konto Xiaomi z tym urządzeniem.
+2. Pobierz narzędzie odblokowujące z naszej strony. Musisz odblokować urządzenie przy użyciu komputera. Pobierz stąd:"</string>
+    <string name="security_input">Bezpieczne wprowadzanie</string>
+    <string name="security_input_hint">Używaj bezpiecznej klawiatury do wprowadzania haseł</string>
 </resources>

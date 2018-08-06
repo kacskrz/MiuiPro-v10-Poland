@@ -875,8 +875,8 @@
   <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
   <string name="lockscreen_carrier_default">Brak sieci</string>
   <string name="lockscreen_charging_msg">Ładowanie</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Wpisano błędne hasło %d razy. Po kolejnych %d błędnych próbach telefon zostanie przywrócony do ustawień fabrycznych i wszystkie dane zostaną utracone.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Wpisano błędne hasło %d razy. Po kolejnych %d błędnych próbach zostaniesz poproszony o odblokowanie telefonu używając Konta Mi.\n\n Spróbuj ponownie za %d sekund.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Wpisano błędne hasło %d razy. Po kolejnych %d błędnych próbach telefon zostanie przywrócony do ustawień fabrycznych, a wszystkie dane zostaną utracone.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Wpisano błędne hasło %d razy. Po kolejnych %d błędnych próbach zostaniesz poproszony o odblokowanie telefonu, używając Konta Mi.\n\n Spróbuj ponownie za %d sekund.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Wpisałeś błędne hasło %d razy. Telefon zostanie zresetowany do ustawień fabrycznych.</string>
   <string name="lockscreen_none">Nic</string>
   <string name="lockscreen_shortcut_left">Lewy skrót</string>
@@ -917,11 +917,11 @@
   <string name="miui_ringer_standard">Cisza</string>
   <string name="miui_ringer_standard_description">Wycisz dzwonki dla połączeń przychodzących i powiadomień</string>
   <string name="miui_ringer_total">Nie przeszkadzać</string>
-  <string name="miui_ringer_total_description">Wycisz dźwięki i wyłącz wibracje dla wszystkich elementów oprócz budzika</string>
-  <string name="miui_toast_zen_dnd_to_off">Dźwięki i wibracje przywrócone do normy</string>
-  <string name="miui_toast_zen_standard_to_off">Dzwonki przywrócone do normy</string>
-  <string name="miui_toast_zen_to_dnd">Dźwięki są wyciszone, a wibracje wyłączone</string>
-  <string name="miui_toast_zen_to_standard">Dzwonki dla połączeń i powiadomień wyciszone</string>
+  <string name="miui_ringer_total_description">Wycisz dźwięki i wyłącz wibracje dla wszystkich dźwięków oprócz budzika</string>
+  <string name="miui_toast_zen_dnd_to_off">Dźwięki i wibracje zostały przywrócone do normalnego stanu.</string>
+  <string name="miui_toast_zen_standard_to_off">Dzwonki zostały przywrócone do normalnego stanu.</string>
+  <string name="miui_toast_zen_to_dnd">Dźwięki zostały wyciszone, a wibracje wyłączone.</string>
+  <string name="miui_toast_zen_to_standard">Dzwonki dla połączeń i powiadomień zostały wyciszone.</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Dane mobilne</string>
   <string name="mobile_data_always_on">Dane mobilne zawsze aktywne</string>

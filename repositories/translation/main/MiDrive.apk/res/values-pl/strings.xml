@@ -60,7 +60,7 @@
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Nie można przenieść"</string>
   <string name="move_failed_retry">"Nie można przenieść, odczekaj %1$s i spróbuj ponownie"</string>
-  <string name="need_get_accounts_permission">Mi Drive musi uzyskać dostęp do Twojego konta, aby działać normalnie.</string>
+  <string name="need_get_accounts_and_storage_permission">Mi Drive musi uzyskać dostęp do informacji o Twoim koncie oraz pamięci zewnętrznej, aby działać normalnie.</string>
   <string name="never_notify">"Nie pokazuj ponownie"</string>
   <string name="no_app_found_to_open_file">Nie znaleziono aplikacji do wykonania tej akcji</string>
   <string name="no_more_space">Za mało miejsca do przechowywania.</string>
@@ -108,7 +108,7 @@
   <string name="quota_info">Mi Drive: %1$s dostępne, %2$s ogółem</string>
   <string name="rename_alert">"Jeśli zmienisz rozszerzenie pliku, może on przestać się otwierać."</string>
   <string name="rename_failed">Plik o tej samej nazwie już istnieje.</string>
-  <string name="request_permission_msg">Zezwól Mi Drive na dostęp do informacji o koncie, aby mógł on działać normalnie.</string>
+  <string name="request_permission_msg">Zezwól Mi Drive na dostęp do informacji o koncie oraz pamięci zewnętrznej, aby mógł on działać normalnie.</string>
   <string name="request_permission_title">Wymagane są uprawnienia</string>
   <string name="sd_full">Twoja karta SD jest pełna.</string>
   <string name="sd_invalid">Twoja karta SD jest uszkodzona.</string>

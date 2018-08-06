@@ -151,5 +151,6 @@
     <string name="head_set_tip_dialog_msg">Rozłącz swoje słuchawki, aby móc nagrywać dźwięk wg ustawień (np. muzyka, głos).</string>
     <string name="head_set_tip_dialog_ok">Rozumiem</string>
     <string name="rename_fail_tip">Nie udało się zmienić nazwy. Plik o tej nazwie już istnieje.</string>
-	  <string name="record_format_preference_title">Format nagrywania</string>
+    <string name="record_format_preference_title">Format nagrywania</string>
+    <string name="privacy_policy_title">Polityka prywatności</string>
 </resources>

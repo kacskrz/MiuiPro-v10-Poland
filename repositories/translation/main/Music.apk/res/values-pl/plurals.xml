@@ -244,4 +244,9 @@
         <item quantity="few">Hej, %1$s! Dostępne są %1$d aktualizacje dla Ciebie:</item>
         <item quantity="many">Hej, %1$s! Dostępnych jest %1$d aktualizacji dla Ciebie:</item>	
     </plurals>
+    <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d piosenek)</item>
+        <item quantity="one">(%d piosenka)</item>
+		<item quantity="few">(%d piosenki)</item>
+    </plurals>
 </resources>

@@ -495,4 +495,8 @@
         <item quantity="few">Ukryto %d aplikacje</item>
         <item quantity="many">Ukryto %d aplikacji</item>
     </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Reset do ustawień fabrycznych (%d s)</item>
+        <item quantity="one">Reset do ustawień fabrycznych (%d s)</item>
+    </plurals>
 </resources>
