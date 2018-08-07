@@ -126,6 +126,7 @@
   <string name="log_status_locked_info">Nie masz uprawnień dostępu do logu aktualizacji.</string>
   <string name="log_status_locked_summary">Upewnij się, że konto na które się zalogowałeś ma odpowiednie uprawnienia.</string>
   <string name="menu_more_button">Menu</string>
+  <string name="menu_title_privacy">Polityka prywatności</string>
   <string name="menu_title_apply_for_alpha">Zapisz się do programu testowania wersji Beta</string>
   <string name="menu_title_current_version_log">Co nowego?</string>
   <string name="menu_title_download_current_rom">Pobierz aktualizacje</string>

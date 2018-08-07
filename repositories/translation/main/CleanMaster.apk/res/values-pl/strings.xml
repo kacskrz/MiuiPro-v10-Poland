@@ -566,4 +566,13 @@
   <string name="whatsapp_delete_confirm_cancel">Wyjdź</string>
   <string name="whatsapp_delete_confirm_message">Usunąć teraz?</string>
   <string name="whatsapp_delete_confirm_ok">OK</string>
+  <string name="onekeyclean_boosting_title">Przyspieszenie działania</string>
+  <string name="onekeyclean_boosted_title">Pomyślnie wyczyszczono</string>
+  <string name="onekeyclean_boost_cleaned">Wyczyszczono %s</string>
+  <string name="onekeyclean_boost_available">Dostępne %s</string>
+  <string name="onekeyclean_card_summery">Wyczyść śmieci, aby zwolnić miejsce</string>
+  <string name="onekeyclean_card_btn">Wyczyść teraz</string>
+  <string name="memory_clean_icon_text">Wyczyść pamięć</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Utwórz skrót na Ekranie głównym</string>
+  <string name="memory_clean_no_trash_tip">Wszystko wygląda dobrze</string>
 </resources>
