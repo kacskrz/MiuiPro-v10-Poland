@@ -802,7 +802,7 @@
   <string name="gmscore_support_service">Usługi Google</string>
   <string name="go_to">Kontynuuj</string>
   <string name="go_to_setting_fingerprint">Ustawienia</string>
-  <string name="google_base_app_install_choice">\"%s\" wymaga aplikacji Google Service Framework do poprawnego działania. Pobrać i zainstalować teraz?</string>
+  <string name="google_base_app_install_choice">Aplikacja wymaga aplikacji Google Service Framework do poprawnego działania. Pobrać i zainstalować teraz?</string>
   <string name="gs_anto_clean_memory_whitelist">Wyjątki</string>
   <string name="gs_app_back_self_start">Oszczędzanie baterii</string>
   <string name="gs_auto_clean_memory">Wyczyść pamięć podręczną</string>

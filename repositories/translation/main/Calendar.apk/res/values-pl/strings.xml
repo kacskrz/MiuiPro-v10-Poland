@@ -435,8 +435,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="guide_card_title">Importuj daty urodzin</string>
 	<string name="receive_net_mock_success">Pomyślnie otrzymano obiekt z Internetu</string>
     <string name="close_alarm">Wyłącz</string>
-    <string name="guide_card_close">zamknij</string>
+    <string name="guide_card_close">Zamknij</string>
     <string name="login_failed_toast">"Nie udało się zalogować, odśwież i spróbuj ponownie"</string>
     <string name="talk_back_month">Miesiąc</string>
-    <string name="talk_back_setting">ustawienie</string>
+    <string name="talk_back_setting">Ustawienia</string>
 </resources>

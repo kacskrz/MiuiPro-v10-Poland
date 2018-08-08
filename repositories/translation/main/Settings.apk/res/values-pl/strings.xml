@@ -5712,4 +5712,10 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
 2. Pobierz narzędzie odblokowujące z naszej strony. Musisz odblokować urządzenie przy użyciu komputera. Pobierz stąd:"</string>
     <string name="security_input">Bezpieczne wprowadzanie</string>
     <string name="security_input_hint">Używaj bezpiecznej klawiatury do wprowadzania haseł</string>
+    <string name="forget_password_dialog_button_text">Wstecz</string>
+    <string name="forget_password_dialog_content_four"><Data>2. Wybierz &lt;font color=#e6e6e6>[Wipe data]&lt;/font> i poczekaj, aż urządzenie uruchomi się ponownie.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>"Jeśli zapomnisz swojego hasła, nie będziesz w stanie go przywrócić. Możesz jednak zresetować hasło po &lt;font color=#ec2700>wymazaniu wszystkich danych na urządzeniu&lt;/font> (włącznie z zdjęciami, kontaktami itd.). Wykonaj kopię zapasową ważnych danych przed wykonaniem tej czynności."</Data></string>
+    <string name="forget_password_dialog_content_three"><Data>"1. Wyłącz urządzenie. Przytrzymaj przyciski &lt;font color=#e6e6e6>[Power]&lt;/font> i &lt;font color=#e6e6e6>[Volume+]&lt;/font> jednocześnie, i przytrzymaj je, dopóki nie zobaczysz &lt;img src=''> ikony."</Data></string>
+    <string name="forget_password_dialog_content_two">Postępuj zgodnie z wskazówkami, aby wymazać dane:</string>
+    <string name="forget_password_dialog_title">Zresetuj Twoje haslo</string>
 </resources>
