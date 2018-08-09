@@ -792,9 +792,9 @@ aby spersonalizować Galerię"</string>
     <string name="picker_image_will_download">%d z wybranych zdjęć nie znajduje się na urządzeniu. Zostaną pobrane.</string>
     <string name="picker_no_network_message">Połącz się z siecią, aby pobrać</string>
     <string name="picker_origin_need_download">%1$d z wybranych zdjęć (%2$dMB) nie znajduje się na urządzeniu. Pobrać wykorzystując dane mobilne?</string>
-    <string name="picker_title_format">Wybierz %1$d do %2$d zdjęć</string>
+    <string name="picker_title_format">Wybierz od %1$d do %2$d zdjęć</string>
     <string name="picker_title_selection_format">Wybrane zdjęcia: %d</string>
-    <string name="picker_title_selection_format_multiple">Wybierz %1$d do %2$d zdjęć (%3$d)</string>
+    <string name="picker_title_selection_format_multiple">Wybierz od %1$d do %2$d zdjęć (%3$d)</string>
     <string name="picker_title_specify_format">Wybierz %d zdjęć</string>
     <string name="picker_title_specify_format_one">Wybierz %d zdjęcie</string>
     <string name="picker_title_unlimit">Wybierz zdjęcia</string>
