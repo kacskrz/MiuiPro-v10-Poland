@@ -367,11 +367,13 @@
   <string name="notification_channel_name">Wiadomości</string>
   <string name="notification_channel_msg_description">Powiadomienia o wiadomościach</string>
   <string name="notification_channel_msg_name">Wiadomości</string>
+  <string name="notification_channel_other_name">Inne</string>
   <string name="notification_channel_other_description">Inne powiadomienia</string>
   <string name="notification_channel_sim1_description">Powiadomienia o wiadomościach z karty SIM 1</string>
   <string name="notification_channel_sim1_name">Wiadomości SIM 1</string>
   <string name="notification_channel_sim2_description">Powiadomienia o wiadomościach z karty SIM 2</string>
   <string name="notification_channel_sim2_name">Wiadomości SIM 2</string>
+  <string name="notification_group_name">Wiadomości</string>
   <string name="notification_copy">Skopiuj OTP</string>
   <string name="notification_failed_multiple">Nie można wysłać %s wiadomości</string>
   <string name="notification_failed_multiple_title">Wiadomości nie zostały wysłane</string>
