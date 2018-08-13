@@ -1667,4 +1667,8 @@
   <string name="accessibility_quick_settings_alarm_on">Alarm włączony.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bateria urządzenia Bluetooth %d procent.</string>
   <string name="accessibility_left_button">Skrót</string>
+  <string name="accessibility_fingerprint_dialog_app_icon">Ikona aplikacji</string>
+  <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ikona linii papilarnych</string>
+  <string name="accessibility_fingerprint_dialog_help_area">Obszar wiadomości pomocy</string>
+  <string name="fingerprint_dialog_touch_sensor">Dotknij czytnika linii papilarnych</string>
 </resources>

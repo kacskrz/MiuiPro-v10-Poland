@@ -5718,4 +5718,5 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="forget_password_dialog_content_three"><Data>"1. Wyłącz urządzenie. Przytrzymaj przyciski &lt;font color=#e6e6e6>[Power]&lt;/font> i &lt;font color=#e6e6e6>[Volume+]&lt;/font> jednocześnie, i przytrzymaj je, dopóki nie zobaczysz &lt;img src=''> ikony."</Data></string>
     <string name="forget_password_dialog_content_two">Postępuj zgodnie z wskazówkami, aby wymazać dane:</string>
     <string name="forget_password_dialog_title">Zresetuj Twoje haslo</string>
+  <string name="enterprise_mode">Tryb Enterprise</string>
 </resources>

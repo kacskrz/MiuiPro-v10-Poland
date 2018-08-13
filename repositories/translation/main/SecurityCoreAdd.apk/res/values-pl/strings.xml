@@ -387,4 +387,30 @@
   <string name="net_work_notice">Kontrola rodzicielska musi łączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Te uprawnienia są wymagane, aby wysyłać informacje o poziomach naładowania baterii, liczbie kroków oraz lokalizacji do kontrolowanych urządzeń. Czy zgadzasz się na to?</string>
   <string name="qq_login">Zaloguj się do QQ</string>
   <string name="this_function_can_not_use_in_second_space">Ta funkcja może zostać użyta tylko w pierwszej przestrzeni</string>
+  <string name="about_ent_mode">O trybie Enterprise</string>
+  <string name="activate_ent_mode">Aktywuj tryb Enterprise</string>
+  <string name="ent_activating">Aktywacja…</string>
+  <string name="ent_activation">Aktywuj</string>
+  <string name="ent_activation_hint">Wprowadź Twój kod korporacji wraz z kodem licencji, by aktywować tryb Enterprise. Po wykonaniu tej czynności zostaną włączone niestandardowe usługi dla przedsiębiorstw.</string>
+  <string name="ent_activation_hint_whit_licence">"Aktywuj tryb Enterprise, aby włączyć niestandardowe usługi dla przedsiębiorstw.
+Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczytaj i zaakceptuj powiązane polityki prywatności."</string>
+  <string name="ent_agency_code">Kod firmowy</string>
+  <string name="ent_agency_code_hint">Wpisz kod firmowy</string>
+  <string name="ent_agency_code_invalid">Wprowadzony kod firmowy jest nieprawidłowy.</string>
+  <string name="ent_agree_privacy_policy">Przeczytałem i akceptuję Politykę prywatności</string>
+  <string name="ent_app_verified">Wygląda na to, że na Twoim urządzeniu są zainstalowane aplikacje dla przedsiębiorstw. Aktywować tryb Enterprise?</string>
+  <string name="ent_confirm_dialog_content">Po aktywowaniu trybu Enterprise nie będzie można wrócić do aktualnego stanu systemu. Jednak wszystkie Twoje dane będą nadal przechowywane na tym urządzeniu. Będziesz musiał ponownie uruchomić urządzenie, aby aktywować tryb Enterprise. Aktywować teraz?</string>
+  <string name="ent_disallow_running">Aplikacja jest zabroniona</string>
+  <string name="ent_error_dialog_content">Co najmniej jeden z wprowadzonych przez Ciebie kodów był niepoprawny. Sprawdź kody firmowe i licencyjne i wprowadź je ponownie.</string>
+  <string name="ent_get_code_hint">You can get corporate and licence codes from your supervisor</string>
+  <string name="ent_invalid_agency">Kod firmowy jest nieprawidłowy.</string>
+  <string name="ent_invalid_qr">Kod QR jest nieprawidłowy.</string>
+  <string name="ent_licence_code">Kod licencji</string>
+  <string name="ent_licence_code_hint">Wpisz kod licencji</string>
+  <string name="ent_licence_code_invalid">Wprowadzony kod licencji jest nieprawidłowy.</string>
+  <string name="ent_mode_activated">Tryb Enterprise został aktywowany</string>
+  <string name="ent_network_error">Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieciowe i spróbuj ponownie.</string>
+  <string name="ent_next_step">Dalej</string>
+  <string name="ent_privacy_policy_notice">* Dane osobowe w tym trybie są zbierane zgodnie z zasadami ustalonymi przez Twoją korporację. Xiaomi nie gromadzi danych osobowych w tym trybie.</string>
+  <string name="enterprise_mode">Tryb Enterprise</string>
 </resources>

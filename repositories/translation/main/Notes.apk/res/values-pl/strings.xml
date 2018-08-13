@@ -233,4 +233,6 @@
      <string name="date_time_picker_dialog_title">Ustaw datę i czas</string>
      <string name="date_time_picker_has_not_set_alarm">"Alarm nie jest ustawiony"</string>
      <string name="date_time_picker_has_set_alarm">Pomyślnie ustawiono alarm</string>
+  <string name="setting_other">INNE</string>
+  <string name="setting_privacy">Polityka prywatności</string>
 </resources>

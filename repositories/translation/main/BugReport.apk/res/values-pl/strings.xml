@@ -330,4 +330,6 @@
     <string name="toast_loading_app_id">Zbieranie informacji…</string>
     <string name="reply_option_log_hint">Opcjonalnie</string>
     <string name="reply_select_log_hint">Wybierz plik z logiem</string>
+    <string name="privacy_policy_title">Polityka prywatności</string>
+    <string name="tab_title_preferences">Ustawienia</string>
 </resources>
