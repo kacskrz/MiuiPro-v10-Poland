@@ -60,4 +60,9 @@
         <item>0</item>
         <item>1</item>
     </string-array>
+    <string-array name="recv_type">
+        <item>Odbierz i powiadom</item>
+        <item>Tylko odbierz</item>
+        <item>Odrzuć</item>
+    </string-array>
 </resources>

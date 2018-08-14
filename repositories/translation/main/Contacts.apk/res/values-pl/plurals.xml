@@ -205,4 +205,9 @@
         <item quantity="one">%1$d osoba</item>
         <item quantity="few">%1$d osoby</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Zaimportowano %1$d kontaktów</item>
+        <item quantity="one">Zaimportowano %1$d kontakt</item>
+		<item quantity="few">Zaimportowano %1$d kontakty</item>
+    </plurals>
 </resources>
