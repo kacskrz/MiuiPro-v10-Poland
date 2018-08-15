@@ -98,7 +98,7 @@
   <string name="antivirus_privacy_dialog_cloudscan">Prześlij nazwy aplikacji i szczegóły</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Prześlij i zeskanuj nazwy aplikacji i szczegóły za pomocą internetowych definicji wirusów.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
-  <string name="antivirus_privacy_dialog_summary">Funkcja kopiuje szyfrowane dane urządzenia na serwery Avast, AVL and Tencent (%s).</string>
+  <string name="antivirus_privacy_dialog_summary">Funkcja kopiuje szyfrowane dane urządzenia na serwery Avast, AVL i Tencent (%s).</string>
   <string name="antivirus_privacy_dialog_summary_link">pokaż Politykę Prywatności</string>
   <string name="antivirus_privacy_dialog_title">Polityka Prywatności</string>
   <string name="antivirus_sec_network_unavailable">Aplikacja panelu sterowania nie może się zaktualizować ponieważ ograniczyłeś połączenie internetowe. Zezwolić Panelowi sterowania na łączenie się z internetem?</string>
@@ -557,7 +557,7 @@
   <string name="databooster_tips_title">Powiadomienie</string>
   <string name="declaration_dialog_msg">Monitor Danych pomaga śledzić użycie danych mobilnych, jednak nie gwarantuje, że operator nie naliczy dodatkowych opłat za przekroczenie limitu transmisji.</string>
   <string name="deep_clean_disconnect_data_title">Wyłącz dane mobilne, gdy urządzenie jest zablokowane</string>
-  <string name="deep_clean_memory_clean_title">Wyczyść pamięć podr., po zablokowaniu urządzenia</string>
+  <string name="deep_clean_memory_clean_title">Wyczyść pamięć podr. po zablokowaniu urządzenia</string>
   <string name="deep_clean_never_memory_clean">Nigdy</string>
   <string name="deep_save_memory_clean_summary">Wyczyść pamięć podręczna, gdy urządzenie jest zablokowane, aby zapobiegać zużyciu baterii przez aplikacje</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Zaplanuj czas włączenia i wyłączenia urządzenia</string>
@@ -812,7 +812,7 @@
   <string name="gs_autobooster_dialog_message">Jeśli korzystasz z przyspieszenia prędkości Xunyou, otwórz gry na odpowiednich stronach.</string>
   <string name="gs_call_handsfree">Odbieranie połączenia bez pomocy rąk</string>
   <string name="gs_call_handsfree_mute">Tryb cichy</string>
-  <string name="gs_dialog_confirm_close_msg">Skrót zostanie usunięty z ekranu głównego. Przejdź do Bezpieczeństwa &gt; Ustawienia, aby go przywrócić.</string>
+  <string name="gs_dialog_confirm_close_msg">Skrót zostanie usunięty z ekranu głównego. Przejdź do Panelu Sterowania &gt; Ustawienia, aby go przywrócić.</string>
   <string name="gs_dialog_confirm_close_title">Wyłącz</string>
   <string name="gs_forbid_autosync">Ogranicz synchronizację w tle</string>
   <string name="gs_game_disturb_msg">Nie przeszkadzać</string>
@@ -839,7 +839,7 @@
   <string name="handle_title_network">Bezpieczeństwo Wi-Fi</string>
   <string name="handle_title_pay_env">Środowisko płatności</string>
   <string name="handle_title_privacy">Prywatność i bezpieczeństwo</string>
-  <string name="hide_mode_app_background_setting_text">Aplikacja oszczędzania baterii</string>
+  <string name="hide_mode_app_background_setting_text">Oszczędzanie baterii w aplikacjach</string>
   <string name="hide_mode_summary_text">Zarządzaj aktywnością aplikacji w tle, aby zaoszczędzić baterię</string>
   <string name="hide_system_app">Ukryj aplikacje systemowe</string>
   <string name="hint_antispam_mode_edit">Tryb użytkownika</string>
@@ -1619,8 +1619,8 @@
   <string name="Setting_lock">Ustawienia</string>
   <string name="setting_privacy_password">Dodaj wzór</string>
   <string name="settings">Ustawienia użycia danych</string>
-  <string name="settings_battery_consume_abnormal_summary">Otrzymuj powiadomienia, gdy bateria jest szybko drenowana</string>
-  <string name="settings_battery_consume_abnormal_title">Powiadomienia o drenowaniu baterii</string>
+  <string name="settings_battery_consume_abnormal_summary">Otrzymuj powiadomienia, gdy poziom baterii spada zbyt szybko</string>
+  <string name="settings_battery_consume_abnormal_title">Powiadomienia o drenażu baterii</string>
   <string name="settings_category_other">Inne ustawienia</string>
   <string name="settings_category_overheat">Nagrzewanie</string>
   <string name="settings_choice_no_notification">Wyłączone</string>
@@ -2194,7 +2194,7 @@
   <string name="menu_summary_app_manager">Aktualizuj i odinstalowuj aplikacje</string>
   <string name="menu_summary_app_manager_2">Dostępne aktualizacje</string>
   <string name="menu_summary_garbage_cleanup">Nie znaleziono śmieci</string>
-  <string name="menu_summary_garbage_cleanup_2">Rozmiar śmieci</string>
+  <string name="menu_summary_garbage_cleanup_2">Łącznie śmieci</string>
   <string name="menu_summary_garbage_cleanup_3">Wyczyść śmieci teraz</string>
   <string name="menu_summary_networkassistants">Zarządzaj swoim planem danych</string>
   <string name="menu_summary_networkassistants_2">Przekroczono limit</string>

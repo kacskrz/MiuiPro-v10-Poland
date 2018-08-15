@@ -22,7 +22,7 @@
     <string name="description_title">O nagrywaniu ekranu</string>
     <string name="deselect_all">Odznacz wszystko</string>
     <string name="error_open_file_failed_no_app_found">Nie udało się znaleźć aplikacji, która otwiera ten plik</string>
-    <string name="frames">Klatek na sekundę</string>
+    <string name="frames">Klatki na sekundę</string>
     <string name="frames_summary">Większa liczba klatek zmniejsza rozmycie obrazu</string>
     <string name="frequently_click_toast">Chwileczkę…</string>
     <string name="gleam_led_while_recording">Mrugaj diodą powiadomień przy nagrywaniu</string>
