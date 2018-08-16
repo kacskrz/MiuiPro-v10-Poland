@@ -275,6 +275,7 @@
   <string name="pref_summary_no_limit_popup">Bez ograniczeń</string>
   <string name="pref_title_enable_max_bytes_popup">Pokaż powiadomienie zużycia danych</string>
   <string name="preferences_title">Ustawienia</string>
+  <string name="privacy_policy">Polityka prywatności</string>
   <string name="privacy_tip_cancel">Anuluj</string>
   <string name="privacy_tip_content">Użyć szybkiego pobierania Xunlei? Pobierany link URL zostanie skopiowany do serwerów Xunlei. Dane twojego konta Xiaomi również zostaną przesłane, aby sprawdzić czy posiadasz aktywną subskrypcję usługi.</string>
   <string name="privacy_tip_ok">OK</string>
