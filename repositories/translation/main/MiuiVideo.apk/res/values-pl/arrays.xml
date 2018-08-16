@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="message_center_tab_list">
+        <item>Komentarze</item>
+        <item>Polubienia</item>
+        <item>Powiadomienia</item>
+    </string-array>
+</resources>

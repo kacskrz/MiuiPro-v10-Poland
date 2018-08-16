@@ -738,4 +738,47 @@
     <string name="offline_setting_mobile_net_limit_title">Ograniczenia w użyciu danych mobilnych</string>
     <string name="offline_setting_mobile_net_unlimited">Bez limitu</string>
 	<string name="offline_download_setting">Pobrania</string>
+    <string name="install">Zainstaluj</string>
+    <string name="installing">Instalacha…</string>
+    <string name="message_center_activity_title">Moje wiadomości</string>
+    <string name="message_center_activity_title_setting">Ustawienia</string>
+    <string name="message_comment_item_my_content"><Data>&lt;font color=#3f3f3f>Moje&lt;/font></Data>: %s</string>
+    <string name="message_comment_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Ja&lt;/font></Data> odpowiadam do <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+    <string name="message_comment_item_reply"><Data>&lt;font color=#5C7997>%s&lt;/font></Data> odpowiedział:</string>
+    <string name="message_list_fragment_login_comment">Zaloguj się, aby widzieć wiadomości dot. komentarzy.</string>
+    <string name="message_list_fragment_login_praise">Zaloguj się, aby widzieć wiadomości dot. polubień.</string>
+    <string name="message_list_fragment_no_message">Nie masz jeszcze żadnych wiadomości.</string>
+    <string name="message_praise_item_more">%1$s, %2$s, <Data>&lt;font color=#3f3f3f>i&lt;/font></Data> %3$s <Data>&lt;font color=#3f3f3f>inne osoby&lt;/font></Data></string>
+    <string name="message_praise_item_my_content"><Data>&lt;font color=#3f3f3f>Moje&lt;/font></Data>: %s</string>
+    <string name="message_praise_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Ja&lt;/font></Data> odpowiadam do <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+    <string name="message_praise_item_praise">lubi Twój komentarz</string>
+    <string name="message_praise_item_praised">polubił Twój komentarz</string>
+    <string name="message_setting">Zarządzanie wiadomościami</string>
+    <string name="message_setting_clear_message_dialog_clear_all">Wszystkie wiadomości</string>
+    <string name="message_setting_clear_message_dialog_clear_comment">Wiadomości dot. komentarzt</string>
+    <string name="message_setting_clear_message_dialog_clear_notification">Powiadomienia</string>
+    <string name="message_setting_clear_message_dialog_clear_prasie">Wiadomości dot. polubień</string>
+    <string name="message_setting_clear_message_dialog_title">Wyczyść wiadomości</string>
+    <string name="message_setting_clear_message_title">Wyczyść wiadomości</string>
+    <string name="message_setting_clear_message_toast_fail">Nie udało się wyczyścić wiadomości</string>
+    <string name="message_setting_clear_message_toast_success">Pomyślnie wyczyszczono wiadomości</string>
+    <string name="message_setting_unread_message_summary">Włącz tą opcję, aby otrzymywać powiadomienia</string>
+    <string name="message_setting_unread_message_title">Powiadom o nieprzeczytanych wiadomościach</string>
+    <string name="notification_desc_offline">Powiadom o zakończonych pobieraniach</string>
+    <string name="notification_name_apklaunch">Powiadom o uruchamianiu innych aplikacji</string>
+    <string name="notification_name_appupdate">Powiadomienia o aktualizacjach</string>
+    <string name="notification_name_common">Regularne powiadomienia</string>
+    <string name="notification_name_message_push">Powiadomienia push</string>
+    <string name="notification_name_offline">Powiadomienia o pobraniach</string>
+    <string name="open">Otwórz</string>
+    <string name="operate_message_item_dialog_comment">Zobacz komentarze</string>
+    <string name="operate_message_item_dialog_delete">Usuń</string>
+    <string name="operate_message_item_dialog_reply">Odpowiedź</string>
+    <string name="operate_message_item_dialog_video">Zobacz \"%s\"</string>
+    <string name="privacy">Polityka prywatności</string>
+    <string name="toast_operate_message_delete_success">Pomyślnie usunięto</string>
+    <string name="toast_gprs_network">Używanie danych mobilnych do streamowania wideo…</string>
+    <string name="v_notification_settings_summary">Powiadomienia na pasku statusu</string>
+    <string name="v_notification_settings_title">Zarządzanie powiadomieniami</string>
+    <string name="dolby_audio_cant_play">Ta ścieżka audio nie może zostać odtworzona z powodu roszczeń dot. praw autorskich.</string>
 </resources>

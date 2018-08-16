@@ -575,4 +575,5 @@
   <string name="memory_clean_icon_text">Wyczyść pamięć</string>
   <string name="pref_title_create_onekeyclean_shortcut">Utwórz skrót na Ekranie głównym</string>
   <string name="memory_clean_no_trash_tip">Wszystko wygląda dobrze</string>
+  <string name="pref_about_privacy_title">Polityka prywatności</string>
 </resources>

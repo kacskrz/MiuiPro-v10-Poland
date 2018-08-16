@@ -413,4 +413,5 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
   <string name="ent_next_step">Dalej</string>
   <string name="ent_privacy_policy_notice">* Dane osobowe w tym trybie są zbierane zgodnie z zasadami ustalonymi przez Twoją korporację. Xiaomi nie gromadzi danych osobowych w tym trybie.</string>
   <string name="enterprise_mode">Tryb Enterprise</string>
+  <string name="menu_item_about_privacy_title">Polityka prywatności</string>
 </resources>

@@ -94,6 +94,7 @@
     <string name="language_entry_spanish">Hiszpański</string>
     <string name="language_entry_swedish">Szwedzki</string>
     <string name="low_version_tip">Wersja MIUI jest nieaktualna. Zaktualizuj MIUI, aby móc używać Skanera.</string>
+	<string name="miracast_message">Przesyłać na %s?</string>
     <string name="module_title_code">Kod QR</string>
     <string name="module_title_document">Dokument</string>
     <string name="module_title_namecard">Wizytówka</string>
