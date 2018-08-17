@@ -2219,5 +2219,6 @@
    <string name="gb_first_window_start">Zacznij grać</string>
    <string name="gb_first_window_summary">Zwiększ szybkość i wydajność na poziomie systemu</string>
    <string name="gb_first_window_title">Przyspieszenie prędkości gier</string>
-  <string name="manage_hybrid_permissions">"Zarządzaj uprawnieniami aplikacji"</string>   
+  <string name="manage_hybrid_permissions">"Zarządzaj uprawnieniami aplikacji"</string>
+  <string name="menu_item_about_privacy_title">Polityka prywatności</string>  
 </resources>
