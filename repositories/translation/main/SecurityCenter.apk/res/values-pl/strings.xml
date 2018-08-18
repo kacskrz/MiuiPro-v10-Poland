@@ -1876,8 +1876,8 @@
   <string name="sys_app_prot_cracked_confirm">Rozumiem</string>
   <string name="sys_cpu_title">Użycie CPU</string>
   <string name="sys_freememory_title">Dostępne</string>
-  <string name="sys_title_gamebooster_unit_gb">G</string>
-  <string name="sys_title_gamebooster_unit_mb">M</string>
+  <string name="sys_title_gamebooster_unit_gb">GB</string>
+  <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplikacje systemowe</string>
   <string name="system_application">Systemowe</string>
   <string name="tab_blacklist">Lista blokowanych</string>

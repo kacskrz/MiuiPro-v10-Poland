@@ -48,7 +48,7 @@
     <string name="volume_button_setting_title">Przyciski głośności</string>
     <string name="add_timezone_title">Dodaj strefę czasową</string>
     <string name="alarm_ascending_mode_summary">Głośność alarmu zwiększa się stopniowo</string>
-    <string name="alarm_ascending_mode_title">Narastający</string>
+    <string name="alarm_ascending_mode_title">Narastający dźwięk alarmu</string>
     <string name="alarm_disabled">Wyłączony</string>
     <string name="alarm_label_hint">Etykieta alarmu</string>
     <string name="alarm_settings">Ustawienia alarmu</string>

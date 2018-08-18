@@ -713,7 +713,7 @@
     <string name="msg_type_sms_rcs">SMS, MMS oraz wiadomości internetowe</string>
     <string name="network_error_description">Wystąpił błąd sieci. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="not_prepare_for_send">Brak wiadomości do wysłania</string>
-    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="privacy_policy">Politykę prywatności</string>
     <string name="rcs_auto_resend_mms">Skonwertuj do MMS</string>
     <string name="rcs_auto_resend_sms">Skonwertuj do SMS</string>
     <string name="rcs_auto_resume">Wznów przerwane przesyłanie automatycznie</string>
@@ -770,5 +770,5 @@
     <string name="rms_video_body">[Wideo]</string>
     <string name="send_rms_editor_hints">Wiadomości China Mobile</string>
     <string name="send_rms_editor_hints_omit">Wiadomości Mi</string>
-    <string name="user_agreement">Zgoda użytkownika</string>
+    <string name="user_agreement">Zgodę użytkownika</string>
 </resources>

@@ -1237,7 +1237,7 @@
   <string name="voice_title_please">Mówienie…</string>
   <string name="voice_title_speech_again">Nie rozumiem</string>
   <string name="weather_location_confirm_message">Wyłączenie tej funkcji może wpłynąć na urządzenie.</string>
-  <string name="webpage_title">Zakładki i Historia</string>
+  <string name="webpage_title">Zakładki i historia</string>
   <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
   <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
   <string name="abc_capital_off">WYŁ.</string>
@@ -1260,22 +1260,22 @@
   <string name="guide_games_text">gry</string>
   <string name="guide_history_text">historia</string>
   <string name="guide_human_type_main_title">Przeglądarka, która Cię rozumie</string>
-  <string name="guide_human_type_subtitle">Otrzymuj najlepsze rekomendacje</string>
+  <string name="guide_human_type_subtitle">Otrzymuj najlepsze propozycje</string>
   <string name="guide_label_chosen_hint">Możesz wybrać co najwyżej %d kategorii</string>
   <string name="guide_military_text">militaria</string>
   <string name="guide_motor_text">motoryzacja</string>
   <string name="guide_politics_text">polityka</string>
   <string name="guide_rocket_type_main_title">Szybki jak błyskawica</string>
-  <string name="guide_rocket_type_subtitle">Niesamowite działanie, szybki UI</string>
+  <string name="guide_rocket_type_subtitle">Niesamowite działanie, szybki interfejs</string>
   <string name="guide_skip">Pomiń</string>
   <string name="guide_sports_text">sporty</string>
   <string name="guide_start_experience">Start</string>
   <string name="guide_tech_text">technologia</string>
   <string name="search_menu_title">Szukaj</string>
   <string name="suggestion_clear_item_message">Czy potwierdzasz czyszczenie tego elementu rekordu wejścia?</string>
-  <string name="suggestion_hotwords_title_change_button_text">ZMIEŃ WIĘCEJ</string>
-  <string name="suggestion_hotwords_title_text">Gorące wyszukiwanie</string>
-  <string name="suggestion_input_history_title_text">INPUT HISTORY</string>
+  <string name="suggestion_hotwords_title_change_button_text">POKAŻ INNE</string>
+  <string name="suggestion_hotwords_title_text">Ostatnio popularne wyszukiwania</string>
+  <string name="suggestion_input_history_title_text">Ostatnio wyszukiwane przez Ciebie</string>
   <string name="suggestion_input_hitory_clear_text">WYCZYŚĆ</string>
   <string name="url_hint_head">Wszyscy szukają：</string>
 </resources>

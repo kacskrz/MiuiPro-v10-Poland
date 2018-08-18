@@ -162,7 +162,7 @@
     <string name="countdown_today">Dzisiaj</string>
     <string name="date_calculate">Oblicz datę</string>
     <string name="date_calculate_days">Wpisz liczbę dni</string>
-    <string name="date_calculate_description">Dowiedz się jaka jest to data przed lub po określonym dniu</string>
+    <string name="date_calculate_description">Dowiedz się, jaka jest to data przed lub po określonym dniu</string>
     <string name="date_calculate_direction">Kierunek</string>
     <string name="date_calculate_direction_content_description">Aktualny kierunek: %1s.</string>
     <string name="date_calculate_hint">Dowiedz się, jaka data nastąpi po określonej liczbie dni</string>
@@ -170,7 +170,7 @@
     <string name="date_calculate_tab">Oblicz datę</string>
     <string name="date_calculate_today">0 dni</string>
     <string name="date_calculate_when">Rozpocznij</string>
-    <string name="date_interval_description">Dowiedz się ile dni jest pomiędzy dwiema datami</string>
+    <string name="date_interval_description">Dowiedz się, ile dni jest pomiędzy dwiema datami</string>
     <string name="date_interval_end">Do</string>
     <string name="date_interval_start">Od</string>
     <string name="date_interval_tab">Interwał</string>
