@@ -46,7 +46,7 @@
   <string name="alert_dialog_download_progress">"Pobieranie aplikacji: "</string>
   <string name="app_charging_wifi_mode">Zachowanie nowej wersji</string>
   <string name="app_charging_wifi_mode_summary">Aktualizuj Mi Video automatycznie po podłączeniu do Wi-Fi podczas ładowania urządzenia</string>
-  <string name="app_name">Mi Wideo</string>
+  <string name="app_name">Wideo</string>
   <string name="app_version">"Wersja "</string>
   <string name="app_wifi_mode">Automatyczna aktualizacja</string>
   <string name="app_wifi_mode_summary">Aktualizuj Mi Video automatycznie, gdy jestem połączony z siecią Wi-Fi</string>
@@ -329,7 +329,7 @@
   <string name="passport_wrong_captcha">Wprowadzony kod jest nieprawidłowy</string>
   <string name="passport_wrong_phone_number_format">Wprowadzony format numeru telefonu jest nieprawidłowy</string>
   <string name="passport_wrong_vcode">Wprowadzony kod jest nieprawidłowy</string>
-  <string name="path_settings">Aplikacje systemowe/Mi Wideo/Ustawienia</string>
+  <string name="path_settings">Aplikacje systemowe/Wideo/Ustawienia</string>
   <string name="pay_record_empty">Brak rekordów zakupu.</string>
   <string name="performance_mode">Wysoka wydajność</string>
   <string name="performance_mode_desc">Włącz, aby zwiększyć prędkość</string>

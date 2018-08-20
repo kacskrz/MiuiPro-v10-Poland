@@ -89,7 +89,7 @@
     <string name="life_post_setting">Poranny raport</string>
     <string name="life_post_setting_FBE_remind">Ze względu na ograniczenia systemu, informacje pogodowe w porannym raporcie mogę nie być wyświetlane prawidłowo po ponownym uruchomieniu</string>
     <string name="life_post_setting_close_title">Zamknij poranne raporty</string>
-    <string name="life_post_setting_open_subtitle">Otrzymywanie informacji pogodowych, gdy alarmy są wyłączone, między 4:00, a 9:30</string>
+    <string name="life_post_setting_open_subtitle">Otrzymywanie informacji pogodowych, gdy alarmy są włączone, między 4:00 a 9:30</string>
     <string name="life_post_setting_open_title">Otrzymywanie porannych raportów</string>
     <string name="life_post_setting_wake_up_list_title">Historia budzenia</string>
     <string name="life_post_wake_up_acumu_day_title">Liczba dni</string>
@@ -120,7 +120,7 @@
     <string name="setting_alarm_arriving_title">Powiadomienie przed dzwonkiem</string>
     <string name="shutdown_alarm_disable_summary">Alarm nie będzie aktywny po wyłączeniu urządzenia</string>
     <string name="shutdown_alarm_enable_summary">Alarm będzie aktywny po wyłączeniu urządzenia</string>
-    <string name="shutdown_alarm_title">Alarm odliczania</string>
+    <string name="shutdown_alarm_title">Alarm zawsze aktywny</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Wyłącz następny: %s</string>
     <string name="slider_text">Przesuń w górę, aby wyłączyć</string>
@@ -154,7 +154,7 @@
     <string name="tomorrow">Jutro</string>
     <string name="turn_off_a_repeat_alarm">Wyłącz alarmy z powtórzeniem</string>
     <string name="turn_off_this_repeat_alarm">Wyłącz powtarzanie tego alarmu</string>
-    <string name="upcoming_alarm">Nadchodzący alarm %s</string>
+    <string name="upcoming_alarm">Nadchodzący alarm o %s</string>
     <string name="upcoming_alarm_hint">Możesz wyłączyć ten alarm przed czasem</string>
     <string name="vibrate_pref_summary">Wibracje podczas alarmu</string>
     <string name="vibrate_when_ringing">Wibracje podczas alarmu</string>

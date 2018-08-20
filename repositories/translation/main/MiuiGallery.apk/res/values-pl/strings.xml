@@ -1288,4 +1288,5 @@ aby spersonalizować Galerię"</string>
   <string name="search_request_requesting">Zastosowane. Zaczekaj chwilę, zanim zaczniesz.</string>
   <string name="secret_reason_video_not_support">"Nie można dodać wideo do ukrytego albumu"</string>
   <string name="video_editor_video_loading">Przygotowywanie wideo… Zaczekaj minutę bądź dwie i spróbuj ponownie.</string>
+  <string name="photo_editor_crop_auto">Auto</string>
 </resources>

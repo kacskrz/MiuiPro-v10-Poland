@@ -73,7 +73,7 @@
     <string name="timer_format">%s</string>
 	<string name="cannot_change_frames">Liczba klatek na sekundę może być dostosowana tylko do nagrań ze stałą szybkością klatek.</string>
   <string name="close_screen_record">Zatrzymano nagrywanie</string>
-  <string name="fixed_frame_rate">Stała szybkość klatek</string>
+  <string name="fixed_frame_rate">Stałe FPS</string>
   <string name="fixed_frame_rate_summary">Nagrywanie filmów ze stałą liczbą klatek poprawia odtwarzanie na platformach społecznościowych i zmniejsza żywotność baterii.</string>
   <string name="is_checked">Wybrano</string>
   <string name="is_go_home">Wróć do Nagrywania ekranu</string>

@@ -4,7 +4,7 @@
     <string name="error_filename_too_long">Nazwa pliku jest za długa</string>
     <string name="power_config_select_apps_title">Aplikacje</string>
     <string name="power_config_event_delete">Usuń</string>
-    <string name="hide_mode_desc">Gdy aplikacja działa w tle, jej aktywność jest monitorowana, aby zmniejszyć zużycie baterii.</string>
+    <string name="hide_mode_desc"><font color="#000000">Gdy aplikacja działa w tle, jej aktywność jest monitorowana, aby zmniejszyć zużycie baterii. Ta funkcja pobiera i wykorzystuje dane użytkownika zgodnie z %s</font></string>
     <string name="power_hide_mode_title">Bateria i wydajność</string>
     <string name="power_config_apps">Oszczędzanie baterii</string>
     <string name="app_list_title">Wybierz aplikacje</string>
@@ -91,4 +91,8 @@
     <string name="active_classify">Sortuj wg stanu aktywności</string>
     <string name="appconfig_active_app_dialog_title">Zarządzanie aktywnymi aplikacjami</string>
     <string name="config_classify">Sortuj wg ustawień aplikacji</string>
+    <string name="privacy">Polityką prywatności</string>
+    <string name="about_extreme_mode">Ekstremalne oszczędzanie baterii</string>
+    <string name="extreme_mode_max_item_alert">Tylko 4 aplikacje mogą być uruchamiane w tle w trybie ekstremalnego oszczędzania baterii</string>
+    <string name="message_i_know">Wiem</string>
 </resources>

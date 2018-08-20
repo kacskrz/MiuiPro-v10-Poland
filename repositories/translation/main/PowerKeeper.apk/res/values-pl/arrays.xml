@@ -28,4 +28,8 @@
         <item>Aktywne aplikacje</item>
         <item>Nieaktywne aplikacje</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>Aplikacje systemowe</item>
+        <item>Inne aplikacje</item>
+    </string-array>
 </resources>

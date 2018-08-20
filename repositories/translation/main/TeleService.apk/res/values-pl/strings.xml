@@ -1818,4 +1818,5 @@ Skontaktuj się z operatorem."</string>
     <string name="opened_dual_4g_confirm_prompt">Wygląda na to, że posiadasz tylko kartę SIM 4G. Dual 4G zostało włączone automatycznie.</string>
   <string name="dds_switch_warning_message_data_off">Nie udało się odnaleźć SIM %1$s. Karta SIM %2$s jest teraz ustawiona jako Twoja domyślna karta do obsługi danych mobilnych. Dane mobilne są obecnie wyłączone.</string>
   <string name="dds_switch_warning_message_data_on">Nie udało się odnaleźć SIM %1$s. Karta SIM %2$s jest teraz ustawiona jako Twoja domyślna karta do obsługi danych mobilnych.  Dane mobilne są wyłączone, aby uniknąć niepotrzebnych opłat od operatora.</string>
+  <string name="privacy_policy_title">Polityka prywatności</string>
 </resources>

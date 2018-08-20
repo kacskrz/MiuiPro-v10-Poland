@@ -61,4 +61,6 @@
     <string name="unit_degree">Stopni</string>
     <string name="open_perm_msg">Kompas wymaga dostępu do informacji o lokalizacji oraz aparatu. Jest to konieczne do określenia współrzędnych i zapewnienia podglądu na żywo. Zgadzasz się na to?</string>
     <string name="open_perm_title">Wymagane uprawnienia</string>
+    <string name="preference_other">Inne</string>
+    <string name="preference_privacy_title">Polityka prywatności</string>
 </resources>

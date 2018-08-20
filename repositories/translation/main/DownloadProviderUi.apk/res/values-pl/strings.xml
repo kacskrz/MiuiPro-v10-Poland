@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about">O</string>
+  <string name="about">O aplikacji</string>
   <string name="action_back">Wstecz</string>
   <string name="action_settings">Ustawienia</string>
   <string name="ad_download">Instaluj</string>
@@ -59,7 +59,7 @@
   <string name="dialog_cannot_resume">Pobieranie przerwane. Rozpocznij ponownie.</string>
   <string name="dialog_confirm_delete_checkbox_message">Usuń także pliki lokalne</string>
   <string name="dialog_confirm_delete_downloads_message">Usunąć %d zadań?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Usuń te zadania</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Usunąć te zadania?</string>
   <string name="dialog_content_limit_max">Nielimitowane</string>
   <string name="dialog_content_limit0">Ogranicz pobieranie</string>
   <string name="dialog_failed_body">Czy chcesz ponowić pobieranie pliku później czy usunąć z kolejki?</string>
@@ -304,7 +304,7 @@
   <string name="retry_download">Spróbuj ponownie</string>
   <string name="revert_default">Przywróć ustawienia domyślne</string>
   <string name="revert_download_path">Użyć domyślnej lokalizacji dla pobranych plików?</string>
-  <string name="save_path">"Zapisz pobierane do: "</string>
+  <string name="save_path">"Zapisywać pobierane do:  ?"</string>
   <string name="save_text">Oszczędź ￥%1$s</string>
   <string name="search_clear_history_btn">Wyczyść historię wyszukiwania</string>
   <string name="search_clear_history_toast">Historia wyczyszczona</string>
@@ -443,7 +443,7 @@
   <string name="torrent_no_subfile">Brak podplików w tym torrencie</string>
   <string name="total_speedup">Przyspieszenie prędkości (w sumie)</string>
   <string name="try_download">Spróbuj pobrać</string>
-  <string name="turn_off_xunlei_message">Możesz doświadczyć wolniejszych prędkości pobierania.</string>
+  <string name="turn_off_xunlei_message">Prędkość pobierania plików może się zmniejszyć po wyłączeniu tej opcji.</string>
   <string name="turn_off_xunlei_tips">Szybkie pobieranie Xunlei jest wyłączone</string>
   <string name="turn_off_xunlei_title">Wyłącz szybkie pobieranie Xunlei</string>
   <string name="unbind_xunlei_2_success">Dodano konto Xunlei</string>

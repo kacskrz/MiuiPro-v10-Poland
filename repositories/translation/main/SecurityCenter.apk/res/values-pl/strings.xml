@@ -240,7 +240,7 @@
   <string name="applock_add_account_info">Dodaj konto Xiaomi, aby móc zresetować hasło, w przypadku gdy go zapomnisz.</string>
   <string name="applock_add_account_setting">Konto i prywatność</string>
   <string name="applock_bind_account_title">Nie pamiętam hasła</string>
-  <string name="applock_close_dialog_summary">Aplikacje nie będą już chronione, a twoje hasło zostanie usunięte po wyłączeniu Blokowania aplikacji.</string>
+  <string name="applock_close_dialog_summary">Wszystkie ukryte aplikacje zostaną odkryte, ich skróty na Ekranie głównym przywrócone, a Twoje hasło blokady aplikacji usunięte. Wyłączyć Blokowanie aplikacji?</string>
   <string name="applock_close_dialog_title">Wyłączyć​ Blokowanie aplikacji?</string>
   <string name="applock_exit_account_info">Konto zostanie automatycznie usunięte, gdy się wylogujesz</string>
   <string name="applock_header_text_less_than_half">Zbyt mały. Przeciągnij jeszcze trochę.</string>
@@ -1270,7 +1270,7 @@
   <string name="optimize_result_button_realname_now">Weryfikuj</string>
   <string name="optimize_result_button_see_detaills">Szczegóły</string>
   <string name="optimize_result_button_to_set">Ustaw</string>
-  <string name="optimize_result_button_update_now">Update</string>
+  <string name="optimize_result_button_update_now">Aktualizuj</string>
   <string name="optimize_result_header_view_summary">Przyspieszenie prędkości</string>
   <string name="optimize_result_summary_sucurity_risk">Niektóre funkcje zabezpieczeń są wyłączone. Włącz te funkcje, aby urządzenie było bardziej bezpieczne:</string>
   <string name="optimize_result_summary_system_default_settings">Korzystanie z aplikacji domyślnej MIUI zwiększa poziom stabilności i bezpieczeństwa systemu.</string>
@@ -1669,7 +1669,7 @@
   <string name="sms_prefix">Blokowane prefiksy</string>
   <string name="sms_service">Blokowane usługi SMS</string>
   <string name="sms_smart_engine_update">Aktualizuj automatycznie filtr SMS</string>
-  <string name="sms_smart_engine_update_now">Update</string>
+  <string name="sms_smart_engine_update_now">Aktualizacja</string>
   <string name="sms_stranger_block">Blokuj SMS od nieznajomych</string>
   <string name="SMSpass">Zezwól na SMS</string>
   <string name="sorted_dialog_title">Sortuj według</string>
@@ -2221,4 +2221,29 @@
    <string name="gb_first_window_title">Przyspieszenie prędkości gier</string>
   <string name="manage_hybrid_permissions">"Zarządzaj uprawnieniami aplikacji"</string>
   <string name="menu_item_about_privacy_title">Polityka prywatności</string>  
+    <string name="extreme_power_save_mode_title">Ekstremalne oszczędzanie baterii</string>
+    <string name="extreme_power_save_mode_summary">Ekstremalne oszczędzanie baterii ogranicza aktywność w tle, zatrzymuje synchronizację i zmniejsza kolory wyświetlania.</string>
+    <string name="extreme_power_save_description"><li>"Ekstremalne oszczędzanie baterii zatrzymuje całą aktywność tła aplikacji po jej opuszczeniu i powrocie do Ekranu głównego. Ta aplikacja nie będzie wysyłać Ci powiadomień ani otrzymywać aktualizacji."</li>"
+"<li>Jeśli chcesz, aby aplikacja działała w tle, zablokuj ją w menu Ostatnich aplikacji lub dodaj ją do wyjątków w tle poniżej. W trybie Ekstremalne oszczędzanie baterii można uruchomić maksymalnie 4 aplikacje w tle.</li>"
+"<li>Ekstremalne oszczędzanie baterii domyślnie wyłącza NFC. Możesz to zmienić w Ustawieniach.</li>"
+"<li>Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urządzenia, funkcja Ekstremalnego oszczędzania baterii zostanie automatycznie wyłączona, gdy bateria będzie naładowana w 30%.</li></string>
+    <string name="extreme_add_white_list_title">Wyjątki działające w tle</string>
+    <string name="extreme_add_white_list_summary">Dodaj maks. 4 aplikacje</string>
+    <string name="notification_open_extreme_mode_text">Włączono Ekstremalne oszczędzanie baterii</string>
+    <string name="notification_exit_extreme_mode_title">Wyłączono Ekstremalne oszczędzanie baterii</string>
+    <string name="notification_exit_extreme_mode_text">Bateria jest naładowana w więcej niż %s</string>
+    <string name="privacy_apps_category_title">Ukryte aplikacje</string>
+    <string name="privacy_apps">Ukryte aplikacje</string>
+    <string name="privacy_apps_enable_summary">Przenieś aplikacje do ukrytego folderu i usuń ich skróty na Ekranie głównym</string>
+    <string name="privacy_apps_manage">Zarządzaj ukrytymi aplikacjami</string>
+    <string name="privacy_apps_tutorial">Tutorial</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Po ukryciu aplikacji jest ona przenoszona do ukrytego folderu. Jej skrót na Ekranie głównym zostaje ukryty.
+Ta funkcja nie wspiera aplikacji systemowych."</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">"Rozłóż dwa palce na ekranie. Zobaczysz komunikat z prośbą o podanie hasła do blokady aplikacji."</string>
+    <string name="privacy_apps_tutorial_prompt_pagethree">Po wprowadzeniu hasła pojawi się folder z ukrytymi aplikacjami.</string>
+    <string name="privacy_apps_manage_dialog_title">O Ukrytych aplikacjach</string>
+    <string name="privacy_apps_manager_dialog_message">Ukrywanie aplikacji wymaga ustawienia blokady ekranu aplikacji. Powiadomienia dotyczące ukrytych aplikacji zostaną wyłączone. Ukryć tą aplikację?</string>
+    <string name="privacy_apps_checkbox_remind_choice">"Nie pokazuj ponownie"</string>
+    <string name="privacy_apps_go_to_use">Start</string>
+    <string name="privacy_apps_close">Zamknij</string>
 </resources>

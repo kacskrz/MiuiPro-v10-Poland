@@ -2593,8 +2593,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="miui_lab_ai_cloud_closed">Preładowanie aplikacji AI nie jest jeszcze dostępne.</string>
   <string name="miui_lab_ai_preload_desc">Preładowanie aplikacji za pomocą AI poprawia prędkość ich uruchamiania</string>
   <string name="miui_lab_ai_preload_title">Preładowanie aplikacji (szt. inteligencja)</string>
-  <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
-  <string name="miui_lab_drive_mode_title">Car mode</string>
+  <string name="miui_lab_drive_mode_desc">Używaj kontroli głosem i odsłuchuj wiadomości WeChat</string>
+  <string name="miui_lab_drive_mode_title">Tryb auta</string>
   <string name="miui_lab_feature_applied">Aplikowano</string>
   <string name="miui_lab_feature_off">Wyłączone</string>
   <string name="miui_lab_feature_on">Włączone</string>
@@ -2603,8 +2603,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="miui_lab_gallery_search_title">Znajdź zdjęcia w Galerii</string>
   <string name="miui_lab_settings">Laboratorium MIUI</string>
   <string name="miui_lab_slogan">Ucz się. Eksploruj. Odkrywaj.</string>
-  <string name="miui_lab_super_resolution_desc">Make images crisper</string>
-  <string name="miui_lab_super_resolution_title">Super resolution</string>
+  <string name="miui_lab_super_resolution_desc">Twórz bogatsze w szczegóły zdjęcia (WeChat/Toutiao)</string>
+  <string name="miui_lab_super_resolution_title">Superrozdzielczość</string>
   <string name="miui_lab_taplus_desc">Naciśnij i przytrzymaj elementy, aby uruchomić akcje</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_lab_install_drive_mode_error">"Nie udało się zainstalować, spróbuj ponownie."</string>
@@ -5719,4 +5719,7 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="forget_password_dialog_content_two">Postępuj zgodnie z wskazówkami, aby wymazać dane:</string>
     <string name="forget_password_dialog_title">Zresetuj Twoje haslo</string>
   <string name="enterprise_mode">Tryb Enterprise</string>
+    <string name="delete_sound_effect">\"Usuń\" dźwięk</string>
+    <string name="keyguard_security_setting_others">Inne</string>
+    <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
 </resources>
