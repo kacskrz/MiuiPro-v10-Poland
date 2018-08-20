@@ -2590,9 +2590,9 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="miui_allow_vibrate">Wibracje</string>
   <string name="miui_data_usage_menu_metered">Mobilny punkt dostępu</string>
   <string name="miui_experience_optimization">Włącz optymalizacje MIUI</string>
-  <string name="miui_lab_ai_cloud_closed">Preładowanie aplikacji AI nie jest jeszcze dostępne.</string>
+  <string name="miui_lab_ai_cloud_closed">Inteligentne uruchamianie aplikacji nie jest jeszcze dostępne.</string>
   <string name="miui_lab_ai_preload_desc">Preładowanie aplikacji za pomocą AI poprawia prędkość ich uruchamiania</string>
-  <string name="miui_lab_ai_preload_title">Preładowanie aplikacji (szt. inteligencja)</string>
+  <string name="miui_lab_ai_preload_title">Inteligentne uruchamianie aplikacji</string>
   <string name="miui_lab_drive_mode_desc">Używaj kontroli głosem i odsłuchuj wiadomości WeChat</string>
   <string name="miui_lab_drive_mode_title">Tryb auta</string>
   <string name="miui_lab_feature_applied">Aplikowano</string>
