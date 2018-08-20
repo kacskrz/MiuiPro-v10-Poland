@@ -5719,7 +5719,7 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="forget_password_dialog_content_two">Postępuj zgodnie z wskazówkami, aby wymazać dane:</string>
     <string name="forget_password_dialog_title">Zresetuj Twoje haslo</string>
   <string name="enterprise_mode">Tryb Enterprise</string>
-    <string name="delete_sound_effect">\"Usuń\" dźwięk</string>
+    <string name="delete_sound_effect">Dźwięk \"Usuń\" </string>
     <string name="keyguard_security_setting_others">Inne</string>
     <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
 </resources>
