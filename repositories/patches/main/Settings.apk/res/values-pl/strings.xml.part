@@ -161,7 +161,5 @@
   <string name="time_autoexit_title">Wyświetlanie czasu</string>
   <string name="gesture_home">Gesty na pulpicie</string> 
   <string name="vol_sounds_title">Wyłącz dźwięk odtwarzany przy wyjściu z Trybu ciszy</string>
-  <string name="del_sounds_title">Dźwięk przy usuwaniu plików</string>
-  <string name="del_sounds_summary">Kontakty, zdjęcia, nagrania itp.</string>
   <string name="notif_view_title">Typ powiadomienia</string>
 </resources>
