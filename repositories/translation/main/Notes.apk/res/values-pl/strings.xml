@@ -35,7 +35,8 @@
     <string name="menu_new_folder">Nowy folder</string>
     <string name="sns_desc_image_preview">Podgląd wiadomości</string>
     <string name="hidden_notes_fragment_title">Ukryte notatki</string>
-    <string name="toast_notes_hidden">Pomyślnie ukryto</string>
+    <string name="toast_notes_hidden_edit">Ta notatka została pomyślnie ukryta. Przeciągnij w dół, by zobaczyć ukryte notatki.</string>
+    <string name="toast_notes_hidden_home">Ta notatka została pomyślnie ukryta. Przeciągnij w dół, by zobaczyć ukryte notatki.</string>
     <string name="toast_notes_unhidden">Pomyślnie odkryto</string>
     <string name="toast_notes_hidden_count">%1$s ukryto pomyślnie</string>
     <string name="toast_notes_unhidden_count">%1$s odkryto pomyślnie</string>

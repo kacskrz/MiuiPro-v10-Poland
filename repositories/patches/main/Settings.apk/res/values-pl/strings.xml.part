@@ -36,7 +36,7 @@
   <string name="haptic_off">Wibracja, kiedy urządzenie się ładuje</string>
   <string name="headset_icon_title">Ukryj ikonę headsetu</string>
   <string name="hide_app">Ustawienia wyświetlania ikon</string>
-  <string name="hide_app_title">Aplikacje, których ikony mają być ukrywane</string>
+  <string name="hide_app_title">Aplikacje systemowe, których ikony mają być ukrywane</string>
   <string name="icon_mode">Ikony na pasku statusu</string>
   <string name="icon_name_title">Ukryj podpisy pod ikonami</string>
   <string name="icon_off">Nie pokazuj</string>

@@ -24,4 +24,5 @@ przejdź na %s na innym podłączonym urządzeniu."</string>
     <string name="settings_ad_loading">Chwileczkę…</string>
     <string name="settings_ad_loading_unavailable">Nie udało się załadować informacji</string>
     <string name="autoconnect">Połącz automatycznie</string>
+    <string name="open_wifi_connect_and_use_data_summary">aby nadal korzystać z danych, dotknij, by przełączyć wi-fi i sprawdź.</string>
 </resources>

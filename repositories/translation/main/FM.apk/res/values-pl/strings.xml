@@ -67,4 +67,5 @@
     <string name="using_recorder_confirm">Zgadzam się</string>
     <string name="using_recorder_cancel">Odrzuć</string>
     <string name="runtime_permission_ungranted">"Nie można uruchomić, gdyż nie nadano uprawnień"</string>
+    <string name="menu_privacy">Polityka prywatności</string>
 </resources>
