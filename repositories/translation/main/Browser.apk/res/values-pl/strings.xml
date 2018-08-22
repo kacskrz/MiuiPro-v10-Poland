@@ -1278,4 +1278,5 @@
   <string name="suggestion_input_history_title_text">Ostatnio wyszukiwane przez Ciebie</string>
   <string name="suggestion_input_hitory_clear_text">WYCZYŚĆ</string>
   <string name="url_hint_head">Wszyscy szukają：</string>
+  <string name="pref_privacy_policy">Polityka prywatności</string>
 </resources>

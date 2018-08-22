@@ -499,4 +499,13 @@
         <item quantity="other">Reset do ustawień fabrycznych (%d s)</item>
         <item quantity="one">Reset do ustawień fabrycznych (%d s)</item>
     </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d znaków więcej</item>
+        <item quantity="one">    +%1$d znak więcej</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d kwestii wymaga optymalizacji</item>
+        <item quantity="one">%1$d kwestia wymaga optymalizacji</item>
+		<item quantity="few">%1$d kwestie wymagają optymalizacji</item>
+    </plurals>
 </resources>
