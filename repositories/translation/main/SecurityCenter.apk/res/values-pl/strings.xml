@@ -2340,4 +2340,5 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="first_aid_card_kadun_button3">Wyłącz</string>
     <string name="first_aid_dialog_title_stop_scan">Zatrzymanie skanowania</string>
     <string name="first_aid_dialog_msg_stop_scan">Czy chcesz zatrzymać skanowanie teraz?</string>
+    <string name="see_more_content">Zaktualizuj centrum gier, by zobaczyć więcej atrakcji</string>
 </resources>

@@ -398,4 +398,16 @@
         <item quantity="few">Pozostały %1$d kroki do przywrócenia ustawień fabrycznych</item>
         <item quantity="many">Pozostało %1$d kroków do przywrócenia ustawień fabrycznych</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">Po %1$d kliknięciach będziesz mógł uzyskać log audio</item>
+        <item quantity="one">Po %1$d kliknięciu będziesz mógł uzyskać log audio</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">Po %1$d kliknięciach będziesz mógł uzyskać log GPS</item>
+        <item quantity="one">Po %1$d kliknięciu będziesz mógł uzyskać log GPS</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">Po %1$d kliknięciach będziesz mógł uzyskać log modemu</item>
+        <item quantity="one">Po %1$d kliknięciu będziesz mógł uzyskać log modemu</item>
+    </plurals>
 </resources>

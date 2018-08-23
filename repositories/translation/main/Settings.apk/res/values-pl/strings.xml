@@ -5722,4 +5722,11 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="delete_sound_effect">Dźwięk \"Usuń\" </string>
     <string name="keyguard_security_setting_others">Inne</string>
     <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
+    <string name="sccret_code_error">Wprowadzony przez Ciebie kod jest nieprawidłowy.</string>
+    <string name="stop_upload_audio_log">Zakończ uzyskiwanie logu audio</string>
+    <string name="stop_upload_gps_log">Zakończ uzyskiwanie logu GPS</string>
+    <string name="stop_upload_modem_log">Zakończ uzyskiwanie logu modemu</string>
+    <string name="upload_audio_log">Rozpocznij uzyskiwanie logu audio</string>
+    <string name="upload_gps_log">Rozpocznij uzyskiwanie logu GPS</string>
+    <string name="upload_modem_log">Rozpocznij uzyskiwanie logu modemu</string>
 </resources>
