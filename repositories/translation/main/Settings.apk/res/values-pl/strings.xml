@@ -4630,11 +4630,11 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="turn_off_security_lock">Wyłącz blokadę</string>
   <string name="turn_on_keyguard_password">Włącz hasło ekranu blokady</string>
   <string name="turn_on_keyguard_password_alert">Zapamiętaj swoje hasło.</string>
-  <string name="turn_on_keyguard_password_alert_choose">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP.</string>
+  <string name="turn_on_keyguard_password_alert_choose">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP, o ile recovery nie jest szyfrowane.</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Nie teraz</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Rozumiem</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Rozumiem (%ds)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP.</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP, o ile recovery nie jest szyfrowane.</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Zapamiętaj swoje hasło</string>
   <string name="turn_on_security_lock">Wybierz ekran blokady</string>
   <string name="turn_on_torch">Włącz latarkę</string>

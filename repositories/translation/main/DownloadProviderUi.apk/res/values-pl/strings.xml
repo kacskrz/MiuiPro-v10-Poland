@@ -304,7 +304,7 @@
   <string name="retry_download">Spróbuj ponownie</string>
   <string name="revert_default">Przywróć ustawienia domyślne</string>
   <string name="revert_download_path">Czy chcesz użyć domyślnej lokalizacji dla pobranych plików?</string>
-  <string name="save_path">"Zapisywać pobierane pliki do:  "?</string>
+  <string name="save_path">"Zapisywać pobierane pliki do:  "</string>
   <string name="save_text">Oszczędź ￥%1$s</string>
   <string name="search_clear_history_btn">Wyczyść historię wyszukiwania</string>
   <string name="search_clear_history_toast">Historia wyczyszczona</string>
