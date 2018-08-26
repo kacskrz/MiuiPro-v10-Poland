@@ -2221,10 +2221,10 @@
   <string name="menu_item_about_privacy_title">Polityka prywatności</string>  
     <string name="extreme_power_save_mode_title">Ekstremalne oszczędzanie baterii</string>
     <string name="extreme_power_save_mode_summary">Ekstremalne oszczędzanie baterii ogranicza aktywność w tle, zatrzymuje synchronizację i zmniejsza wyświetlane kolory.</string>
-    <string name="extreme_power_save_description">Ekstremalne oszczędzanie baterii zatrzymuje całą aktywność tła aplikacji po jej opuszczeniu i powrocie do Ekranu głównego. Ta aplikacja nie będzie wysyłać Ci powiadomień ani otrzymywać aktualizacji.
-Jeśli chcesz, aby aplikacja działała w tle, zablokuj ją w menu Ostatnich aplikacji lub dodaj ją do wyjątków w tle poniżej. W trybie Ekstremalne oszczędzanie baterii można uruchomić maksymalnie 4 aplikacje w tle.
+    <string name="extreme_power_save_description">Ekstremalne oszczędzanie baterii zatrzymuje całą aktywność aplikacji w tle po jej opuszczeniu i powrocie do Ekranu głównego. Ta aplikacja nie będzie wysyłać Ci powiadomień ani otrzymywać aktualizacji.
+Jeśli chcesz, aby aplikacja działała w tle, zablokuj ją w menu Ostatnich aplikacji lub dodaj ją do wyjątków w tle poniżej. W trybie Ekstremalnego oszczędzania baterii można uruchomić maksymalnie 4 aplikacje w tle.
 Ekstremalne oszczędzanie baterii domyślnie wyłącza NFC. Możesz to zmienić w Ustawieniach.
-Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urządzenia, funkcja Ekstremalnego oszczędzania baterii zostanie automatycznie wyłączona, gdy bateria będzie naładowana w 30%.</string>
+Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urządzenia, funkcja Ekstremalnego oszczędzania baterii zostanie automatycznie wyłączona, gdy bateria będzie naładowana w minimum 30%.</string>
     <string name="extreme_add_white_list_title">Wyjątki działające w tle</string>
     <string name="extreme_add_white_list_summary">Dodaj maks. 4 aplikacje</string>
     <string name="notification_open_extreme_mode_text">Włączono Ekstremalne oszczędzanie baterii</string>
@@ -2237,7 +2237,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="privacy_apps_tutorial">Tutorial</string>
     <string name="privacy_apps_tutorial_prompt_pageone">"Po ukryciu aplikacji jest ona przenoszona do ukrytego folderu, a jej skrót na Ekranie głównym zostaje ukryty.
 Ta funkcja nie wspiera aplikacji systemowych."</string>
-    <string name="privacy_apps_tutorial_prompt_pagetwo">"Przesuń dwa palce po ekranie. Zobaczysz komunikat z prośbą o podanie hasła do blokady aplikacji."</string>
+    <string name="privacy_apps_tutorial_prompt_pagetwo">"Rozłóż dwa palce na ekranie. Zobaczysz komunikat z prośbą o podanie hasła do blokady aplikacji."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Po wprowadzeniu hasła pojawi się folder z ukrytymi aplikacjami.</string>
     <string name="privacy_apps_manage_dialog_title">O Ukrytych aplikacjach</string>
     <string name="privacy_apps_manager_dialog_message">Ukrywanie aplikacji wymaga ustawienia blokady ekranu aplikacji. Powiadomienia dotyczące ukrytych aplikacji zostaną wyłączone. Ukryć tą aplikację?</string>
@@ -2274,7 +2274,7 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="exo_track_surround_7_point_1">Dźwięk przestrzenny 7.1</string>
     <string name="exo_track_unknown">Nieznane</string>
     <string name="title_first_aid_kit">Pierwsza pomoc</string>
-    <string name="summary_first_aid_kit">Napraw problemy przy użyciu naszego narzędzia Pierwszej pomocy</string>
+    <string name="summary_first_aid_kit">Napraw problemy przy użyciu narzędzia Pierwszej pomocy</string>
     <string name="button_first_aid_kit">Napraw teraz</string>
     <string name="button_restrict_data_usage">Zgoda</string>
     <string name="button_background_connection">Zgoda</string>

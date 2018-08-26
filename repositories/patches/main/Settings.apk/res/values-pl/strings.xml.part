@@ -162,4 +162,26 @@
   <string name="gesture_home">Gesty na pulpicie</string> 
   <string name="vol_sounds_title">Wyłącz dźwięk odtwarzany przy wyjściu z Trybu ciszy</string>
   <string name="notif_view_title">Typ powiadomienia</string>
+<string name="WCDMA_preferred">Preferowane WCDMA</string>
+    <string name="GSM_only">Tylko GSM</string>
+    <string name="WCDMA_only">Tylko WCDMA</string>
+    <string name="GSM_auto">GSM auto (PRL)</string>
+    <string name="CDMA_auto">CDMA auto (PRL)</string>
+    <string name="CDMA_only">Tylko CDMA</string>
+    <string name="EvDo_only">Tylko EvDo</string>
+    <string name="Global_auto">Global auto (PRL)</string>
+    <string name="LTE_CDMA_auto">LTE/CDMA auto (PRL)</string>
+    <string name="LTE_UMTS_auto">LTE/UMTS auto (PRL)</string>
+    <string name="LTE_CDMA_UMTS_auto">LTE/CDMA/UMTS auto (PRL)</string>
+    <string name="LTE_only">Tylko LTE</string>
+    <string name="TD_SCDMA_only">Tylko TD/SCDMA</string>
+    <string name="Unknown_set">Nieznany</string>
+    <string name="Disabled_set">Wyłączony</string>
+    <string name="Immediate_set">Natychmiastowy</string>
+    <string name="Min_5s">Min 5s</string>
+    <string name="Min_10s">Min 10s</string>
+    <string name="Min_60s">Min 60s</string>
+    <string name="allowed_set">dozwolone</string>
+    <string name="not_allowed_set">niedozwolone</string>
+    <string name="no_neighboring_cells">brak sąsiednich komórek</string>
 </resources>

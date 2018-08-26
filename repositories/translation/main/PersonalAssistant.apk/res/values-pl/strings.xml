@@ -1017,16 +1017,16 @@
     <string name="agenda_i_known">Wiem</string>
     <string name="agenda_need_install_alipay">Ta funkcja musi być zainstalowana po użyciu Alipay</string>
     <string name="agenda_pay_is_not_available">Usługa płatności jest niedostępna</string>
-    <string name="app_setting">Ustawienia asystenta</string>
+    <string name="app_setting">Ustawienia Asystenta</string>
     <string name="app_setting_add_header_bg">Dodaj obraz w tle nagłówka</string>
     <string name="app_setting_datetime">Wyświetlanie daty</string>
     <string name="app_setting_dialog_cancel">Anuluj</string>
     <string name="app_setting_has_not_setted">Nieustawione</string>
     <string name="app_setting_has_setted">Ustawione</string>
     <string name="app_setting_more_setting">Więcej ustawień</string>
-    <string name="app_setting_on_off_setting">Przełącz ustawienie</string>
+    <string name="app_setting_on_off_setting">Przełączniki widoku Asystenta</string>
     <string name="app_setting_search">Pasek wyszukiwania</string>
-    <string name="app_setting_xiaoai">Przycisk asystenta Xiao AI</string>
+    <string name="app_setting_xiaoai">Przycisk Mi AI (bez zastosowania)</string>
     <string name="go_to_pay">Szybka płatność</string>
-    <string name="tb_setting_xiaoai">Xiao AI</string>
+    <string name="tb_setting_xiaoai">Mi AI</string>
 </resources>
