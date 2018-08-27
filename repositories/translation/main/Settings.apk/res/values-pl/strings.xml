@@ -5729,4 +5729,9 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="upload_audio_log">Rozpocznij uzyskiwanie logu audio</string>
     <string name="upload_gps_log">Rozpocznij uzyskiwanie logu GPS</string>
     <string name="upload_modem_log">Rozpocznij uzyskiwanie logu modemu</string>
+  <string name="failed_to_erase_text">Proszę, usuń hasło ekranu blokady przed wykonaniem operacji 1217.</string>
+  <string name="failed_to_erase_title">Operacja zabroniona</string>
+  <string name="navigation_guide_appswitch_anim_summary">Przesuń palcem po ekranie, zaczynając od krawędzi, by wrócić do poprzedniej aplikacji</string>
+  <string name="navigation_guide_appswitch_anim_title">Przełącz do poprzedniej aplikacji</string>
+  <string name="navigation_guide_appswitch_click">Włącz najpierw gest \"Przełącz do aplikacji\"</string>
 </resources>

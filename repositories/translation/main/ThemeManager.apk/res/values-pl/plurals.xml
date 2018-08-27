@@ -10,4 +10,9 @@
         <item quantity="one">Aktualizacja dla %1$d motywu</item>
         <item quantity="few">Aktualizacje dla %1$d motywów</item>
     </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d komentarzy</item>
+        <item quantity="one">%d komentarz</item>
+		<item quantity="few">%d komentarze</item>
+    </plurals>
 </resources>

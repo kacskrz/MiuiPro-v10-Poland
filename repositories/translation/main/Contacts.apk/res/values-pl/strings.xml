@@ -118,7 +118,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">"wychodzące: "</string>
     <string name="callrecordview_item_op_video">Wideo</string>
     <string name="callrecordview_menu_add_call_note">Dodaj notatkę</string>
-    <string name="callrecordview_menu_batch_delete">Wyczyść wsadowo</string>
+    <string name="callrecordview_menu_batch_delete">Zaznacz więcej</string>
     <string name="callrecordview_menu_blocklist">Lista blokowanych</string>
     <string name="callrecordview_menu_conference">Połączenie konferencyjne</string>
     <string name="callrecordview_menu_delete">Usuń z historii połączeń</string>

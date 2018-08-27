@@ -1682,4 +1682,7 @@
     <string name="dlg_summary_title">Ekstremalne oszczędzanie baterii zatrzymuje całą aktywność w tle po opuszczeniu aplikacji i powrocie do ekranu głównego. Jeśli chcesz, aby aplikacja działała w tle, dodaj ją do wyjątków działających w tle.</string>
     <string name="enable_extreme_power_save_mode">Ekstremalne oszczędzanie baterii</string>
     <string name="open_extreme_power_save_mode_title">Włącz Ekstremalne oszczędzanie baterii</string>
+  <string name="keyguard_charging_back_to_lockscreen">Wróć do ekranu blokady</string>
+  <string name="keyguard_left_torch">Latarka</string>
+  <string name="switch_system_user">Otwórz Pierwszą przestrzeń</string>
 </resources>

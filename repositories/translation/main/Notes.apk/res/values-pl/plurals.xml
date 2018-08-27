@@ -25,9 +25,9 @@
         <item quantity="many">Pozostało %d sekund</item>
      </plurals>
      <plurals name="word_count">
-        <item quantity="other">%d słów</item>
-        <item quantity="one">%d słowo</item>
-        <item quantity="few">%d słowa</item>
-        <item quantity="many">%d słów</item>
+        <item quantity="other">%d znaków</item>
+        <item quantity="one">%d znak</item>
+        <item quantity="few">%d znaki</item>
+        <item quantity="many">%d znaków</item>
      </plurals>
 </resources>

@@ -488,4 +488,6 @@
   <string name="xiaomi_update_dialog_title">%1$s aktualizacja!</string>
   <string name="younger_brother">młodszy brat</string>
   <string name="younger_sister">młodsza siostra</string>
+  <string name="preference_other">Pozostałe</string>
+  <string name="preference_privacy_title">Polityka prywatności</string>
 </resources>
