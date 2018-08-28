@@ -153,7 +153,8 @@
   <string name="my_worst_update">Najgorsza aktualizacja</string>
   <string name="next">Następny</string>
   <string name="no_log">Brak podsumowania</string>
-  <string name="no_wifi_msg">Używanie danych mobilnych może generować dodatkowe koszty. Połącz z Wi-Fi, aby pobrać aktualizacje.</string>
+  <string name="no_wifi_msg">"Używasz teraz danych mobilnych. Pobieranie aktualizacji może generować dodatkowe koszty. Możesz pobrać aktualizacje teraz albo poczekać na połączenie z siecią Wi-Fi."</string>
+  <string name="no_wifi_no_auto_msg">"Używasz teraz danych mobilnych. Pobieranie aktualizacji może generować dodatkowe koszty. Możesz pobrać aktualizacje teraz albo poczekać na połączenie z siecią Wi-Fi i automatyczną instalację aktualizacji."</string>
   <string name="no_wifi_title">Połącz z Wi-Fi</string>
   <string name="not_open">Nie</string>
   <string name="notification_auto_reboot_seccess_title">Urządzenie zaktualizowane automatycznie</string>
@@ -324,4 +325,6 @@
   <string name="vote_submit">Wyślij</string>
   <string name="weekly_build">Beta</string>
   <string name="worst_update">Najgorsza do tej pory</string>
+  <string name="later_download">Pobierz później</string>
+  <string name="open_auto_download">Pobierz automatycznie</string>
 </resources>

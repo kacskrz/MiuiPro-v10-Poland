@@ -1029,4 +1029,6 @@
     <string name="app_setting_xiaoai">Przycisk Mi AI (bez zastosowania)</string>
     <string name="go_to_pay">Szybka płatność</string>
     <string name="tb_setting_xiaoai">Mi AI</string>
+    <string name="express_select_send_providers">Wybierz dostawcę usług kurierskich</string>
+    <string name="express_send_not_available">Usługa jest tymczasowo niedostępna, proszę spróbować później</string>
 </resources>

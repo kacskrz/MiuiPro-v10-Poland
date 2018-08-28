@@ -986,7 +986,7 @@
   <string name="charge_length_format">%1$s temu</string>
   <string name="charging_sounds_title">Dźwięki ładowania</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
-  <string name="check_importance">Oznaczyć jako ważne?</string>
+  <string name="check_importance">Zasady dla grupowych powiadomień</string>
   <string name="check_update">Sprawdź aktualizacje</string>
   <string name="checkbox_notification_same_as_incoming_call">Użyj głośności połączeń przychodzących dla powiadomień</string>
   <string name="checking_decryption">Sprawdzam…</string>
@@ -5734,4 +5734,7 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="navigation_guide_appswitch_anim_summary">Przesuń palcem po ekranie, zaczynając od krawędzi, by wrócić do poprzedniej aplikacji</string>
   <string name="navigation_guide_appswitch_anim_title">Przełącz do poprzedniej aplikacji</string>
   <string name="navigation_guide_appswitch_click">Włącz najpierw gest \"Przełącz do aplikacji\"</string>
+  <string name="check_importance_dialog_cancel">Anuluj</string>
+  <string name="handy_mode_tips_full_screen">"Kiedy używasz pełnoekranowych gestów, możesz włączyć tryb Jednej Dłoni, używając Asystenta dotyku. Możesz również przełączyć się na używanie przycisków zamiast gestów."</string>
+
 </resources>
