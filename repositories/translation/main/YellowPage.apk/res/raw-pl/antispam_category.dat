@@ -1,0 +1,15 @@
+#category_id,type,names,icon
+version:6
+1|0|en_US:Fraud;zh_CN:诈骗电话;zh_TW:詐騙電話;pl_PL:Wyłudzenie|http://file.market.xiaomi.com/download/FoundApp/0f16e24f7fca84fce1b9ecb835fc0d841204c57c6
+2|0|en_US:Real estate;zh_CN:房产中介;zh_TW:房產中介;pl_PL:Nieruchomości|http://file.market.xiaomi.com/download/FoundApp/0616e42f7ac082fc4ab9efb83a5c068716f41c5d2
+3|0|en_US:Ads;zh_CN:广告推销;zh_TW:廣告推銷;pl_PL:Reklamy|http://file.market.xiaomi.com/download/FoundApp/059bb4985743ff3960af5bc59dbbb30b30b428797
+5|0|en_US:Delivery;zh_CN:快递外卖;zh_TW:快遞送餐;pl_PL:Dostawa|http://file.market.xiaomi.com/download/FoundApp/0d4745f14c86636fc42d04bae140226c5b3406a43
+6|3|en_US:Loans;zh_CN:贷款推销;zh_TW:貸款推銷
+8|0|en_US:Network telephone, beware of fraud;zh_CN:网络电话，谨防诈骗;zh_TW:網絡電話，謹防詐騙
+9|3|en_US:Finance;zh_CN:理财推销;zh_TW:理財推銷
+10|0|en_US:Crank;zh_CN:骚扰;zh_TW:騷擾
+11|0|en_US:Taxi;zh_CN:出租车;zh_TW:出租車|http://file.market.xiaomi.com/download/FoundApp/0c3146449b2af4842110b1c791c42fce1c5957b4e
+12|3|en_US:Customer support;zh_CN:客服售后;zh_TW:客服售後
+13|3|en_US:Education;zh_CN:教育培训;zh_TW:教育培訓
+14|3|en_US:Renovation;zh_CN:装修维修;zh_TW:裝修維修
+15|3|en_US:Recruitment;zh_CN:猎头招聘;zh_TW:獵頭招聘

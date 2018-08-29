@@ -117,8 +117,8 @@
     <string name="mark_number_custom_mark_deleted">Informacja oflagowania usunięta</string>
     <string name="mark_number_delete_confirm_message">Usunąć informacje oflagowania %s?</string>
     <string name="mark_number_delete_confirm_title">Usuń informacje oflagowania</string>
-    <string name="mark_number_dialog_maintitle">Oflaguj ten numer telefonu</string>
-    <string name="mark_number_dialog_subtitle">%1$s (oflagowany przez %2$d osób)</string>
+    <string name="mark_number_dialog_maintitle">Oznacz ten numer telefonu</string>
+    <string name="mark_number_dialog_subtitle">%1$s (oznaczony przez %2$d osób)</string>
     <string name="mark_number_feedback">Oflaguj</string>
     <string name="mark_number_feedback_hint">Wpisz opinię</string>
     <string name="mark_number_feedback_invalid_hint">Wyraź swoją opinię</string>
