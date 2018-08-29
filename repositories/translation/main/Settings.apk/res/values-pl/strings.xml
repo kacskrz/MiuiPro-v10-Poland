@@ -5736,5 +5736,8 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="navigation_guide_appswitch_click">Włącz najpierw gest \"Przełącz do aplikacji\"</string>
   <string name="check_importance_dialog_cancel">Anuluj</string>
   <string name="handy_mode_tips_full_screen">"Kiedy używasz pełnoekranowych gestów, możesz włączyć tryb Jednej Dłoni, używając Asystenta dotyku. Możesz również przełączyć się na używanie przycisków zamiast gestów."</string>
-
+  <string name="close_aod">"Ta funkcja nie może być połączona z trybem \"Zawsze włączony\". Wyłącz tryb \"Zawsze włączony\" najpierw."</string>
+  <string name="close_fod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
+  <string name="close_fod_aod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Tryb \"Zawsze włączony\" również nie będzie dostępny. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
+  <string name="to_close">Wyłącz</string>
 </resources>

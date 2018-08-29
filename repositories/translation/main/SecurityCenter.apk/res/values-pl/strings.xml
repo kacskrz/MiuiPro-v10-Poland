@@ -461,7 +461,7 @@
   <string name="card_main_deepclean_wechat_action">Wyczyść</string>
   <string name="card_main_deepclean_wechat_summary">Wyczyść pamięć podręczną WeChat, aby zwolnić miejsce</string>
   <string name="card_main_deepclean_wechat_title">Pamięć podręczna WeChat</string>
-  <string name="card_main_gamebooster_title">Przyspieszenie prędkości gier</string>
+  <string name="card_main_gamebooster_title">Przyspiesz gry</string>
   <string name="card_main_hbassistant_summary">Użyj tego narzędzia, aby przechwytywać koperty szybciej</string>
   <string name="card_main_hbassistant_title">Asystent czerwonej koperty</string>
   <string name="card_main_monthreport_action">Pokaż</string>
@@ -1084,7 +1084,7 @@
   <string name="menu_setting_traffic">Ustawienia manualne</string>
   <string name="menu_sms">Wyślij wiadomość</string>
   <string name="menu_text_antispam">Lista blokowanych</string>
-  <string name="menu_text_antivirus">Skanowanie bezpieczeństwa</string>
+  <string name="menu_text_antivirus">Bezpieczeństwo</string>
   <string name="menu_text_garbage_cleanup">Sprzątacz</string>
   <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">Uprawnienia</string>
@@ -1281,9 +1281,9 @@
   <string name="optmizingbar_ready">Optymalizacja…</string>
   <string name="optmizingbar_stop_optmize">Przerwij</string>
   <string name="optmizingbar_title_acceleration">Optymalizowanie…</string>
-  <string name="optmizingbar_title_clear">Wyczyść pamięć podręczną</string>
+  <string name="optmizingbar_title_clear">Pamięć podr.</string>
   <string name="optmizingbar_title_security">Bezpieczeństwo</string>
-  <string name="optmizingbar_title_system">Bezpieczeństwo systemu</string>
+  <string name="optmizingbar_title_system">System</string>
   <string name="organization">Organizacja</string>
   <string name="other">Inne ustawienia</string>
   <string name="other_exception_summary">Brak połączenia z siecią</string>
@@ -2033,14 +2033,14 @@
   <string name="title_realname_verify">Weryfikacja ID</string>
   <string name="title_restrict_data_usage">%s nie może połączyć się z Internetem?</string>
   <string name="title_show_notification">Widżet paska powiadomień</string>
-  <string name="title_system_auto_download">Aktualizacje zostaną pobrane automatycznie</string>
+  <string name="title_system_auto_download">Aktualizacje będą pobrane automatycznie</string>
   <string name="title_telecom_operator">Automatycznie</string>
   <string name="title_usb_no">Debugowanie USB włączone</string>
   <string name="title_usb_yes">Debugowanie USB wyłączone</string>
   <string name="title_virus_cloudscan">Skanowanie chmury</string>
   <string name="title_virus_no">Wykryto wirusa</string>
-  <string name="title_virus_update_no">Autom. aktualizacja bazy wirusów wyłączona</string>
-  <string name="title_virus_update_yes">Autom. aktualizacja bazy wirusów włączona</string>
+  <string name="title_virus_update_no">Autom. aktualizacja bazy wirusów wył.</string>
+  <string name="title_virus_update_yes">Autom. aktualizacja bazy wirusów wł.</string>
   <string name="title_virus_yes">Nie wykryto wirusów</string>
   <string name="title_xiaomi_roaming">Roaming Xiaomi</string>
   <string name="toast_add_virus_white_list_no_need_repeat">Ten wyjątek już istnieje</string>
@@ -2183,11 +2183,11 @@
   <string name="gamebox_type_float">Specjalny skrót</string>
   <string name="gamebox_type_gesture">Przesuń, by pokazać</string>
     <string name="notify_channel_name_security">Bezpieczeństwo systemu</string>
-	  <string name="card_main_gamebooster_summary">Przyspiesz stabilność połączenia dla gier</string>
+  <string name="card_main_gamebooster_summary">Zwiększ stabilność połączenia</string>
   <string name="menu_summary_antispam">Blokuj połączenia i wiadomości</string>
   <string name="menu_summary_antispam_2">Blokowane połączenia i wiadomości</string>
-  <string name="menu_summary_antivirus">Szukaj wirusów na swoim urządzeniu</string>
-  <string name="menu_summary_antivirus_2">Znaleziono potencjalne ryzyka</string>
+  <string name="menu_summary_antivirus">Szukaj wirusów</string>
+  <string name="menu_summary_antivirus_2">Znaleziono potencjalne ryzyko</string>
   <string name="menu_summary_antivirus_3">"Nie skanowano urządzenia"</string>
   <string name="menu_summary_app_manager">Aktualizuj i odinstalowuj aplikacje</string>
   <string name="menu_summary_app_manager_2">Dostępne aktualizacje</string>
@@ -2220,7 +2220,7 @@
   <string name="manage_hybrid_permissions">"Zarządzaj uprawnieniami aplikacji"</string>
   <string name="menu_item_about_privacy_title">Polityka prywatności</string>  
     <string name="extreme_power_save_mode_title">Ekstremalne oszczędzanie baterii</string>
-    <string name="extreme_power_save_mode_summary">Ekstremalne oszczędzanie baterii ogranicza aktywność w tle, zatrzymuje synchronizację i zmniejsza wyświetlane kolory.</string>
+    <string name="extreme_power_save_mode_summary">Ekstremalne oszczędzanie baterii ogranicza aktywność w tle i zatrzymuje synchronizację.</string>
     <string name="extreme_power_save_description">Ekstremalne oszczędzanie baterii zatrzymuje całą aktywność aplikacji w tle po jej opuszczeniu i powrocie do Ekranu głównego. Ta aplikacja nie będzie wysyłać Ci powiadomień ani otrzymywać aktualizacji.
 Jeśli chcesz, aby aplikacja działała w tle, zablokuj ją w menu Ostatnich aplikacji lub dodaj ją do wyjątków w tle poniżej. W trybie Ekstremalnego oszczędzania baterii można uruchomić maksymalnie 4 aplikacje w tle.
 Ekstremalne oszczędzanie baterii domyślnie wyłącza NFC. Możesz to zmienić w Ustawieniach.

@@ -345,4 +345,5 @@
   <string name="widget_gadget_player">Muzyka</string>
   <string name="widget_global_search">Szukaj</string>
   <string name="widget_quick_function">Szybkie funkcje</string>
+  <string name="use_theme_screen_cells_title">Zezwól motywowi na zastąpienie układu ekranu</string>
 </resources>
