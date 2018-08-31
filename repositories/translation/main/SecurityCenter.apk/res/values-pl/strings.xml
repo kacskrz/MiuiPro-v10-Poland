@@ -2240,7 +2240,7 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Rozłóż dwa palce na ekranie. Zobaczysz komunikat z prośbą o podanie hasła do blokady aplikacji."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Po wprowadzeniu hasła pojawi się folder z ukrytymi aplikacjami.</string>
     <string name="privacy_apps_manage_dialog_title">O Ukrytych aplikacjach</string>
-    <string name="privacy_apps_manager_dialog_message">Skrót do aplikacji nie będzie widoczny na pulpicie po ukryciu tej aplikacji. Ukryć tą aplikację teraz?</string>
+    <string name="privacy_apps_manager_dialog_message">Skrót do aplikacji nie będzie widoczny na pulpicie po jej ukryciu. Ukryć tą aplikację teraz?</string>
     <string name="privacy_apps_checkbox_remind_choice">"Nie pokazuj ponownie"</string>
     <string name="privacy_apps_go_to_use">Start</string>
     <string name="privacy_apps_close">Zamknij</string>
