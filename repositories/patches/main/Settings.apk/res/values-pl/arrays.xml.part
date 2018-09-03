@@ -205,4 +205,8 @@
         <item>3 kolumny</item> 
         <item>4 kolumny</item> 
     </string-array> 
+    <string-array name="app_assistant_entries"> 
+        <item>Asystent Google</item> 
+        <item>Asystent Yandex</item> 
+    </string-array>
 </resources>
