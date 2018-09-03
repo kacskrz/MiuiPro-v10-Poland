@@ -249,4 +249,14 @@
         <item quantity="one">(%d piosenka)</item>
 		<item quantity="few">(%d piosenki)</item>
     </plurals>
+    <plurals name="Ndialog_renew_content">
+        <item quantity="other">"Twoja subskrypcja wygasa za %d dni.
+Czy chcesz ją odnowić?"</item>
+        <item quantity="one">"Twoja subskrypcja wygasa za %d dzień.
+Czy chcesz ją odnowić?"</item>
+    </plurals>
+    <plurals name="Nhungama_free_download_summary">
+        <item quantity="other">Możesz pobrać %1$d darmowych utworów. Pobrać %2$s teraz?</item>
+        <item quantity="one">Możesz pobrać %1$d darmowy utwór. Pobrać %2$s teraz?</item>
+    </plurals>
 </resources>

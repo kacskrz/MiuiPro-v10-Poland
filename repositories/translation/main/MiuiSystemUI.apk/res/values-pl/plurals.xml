@@ -148,4 +148,16 @@
     <item quantity="few">Bezchmurnie</item>
     <item quantity="many">Słonecznie</item>
   </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Pozostało %d godzin</item>
+        <item quantity="one">Pozostała %d godzina</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Pozostało %d minut</item>
+        <item quantity="one">Pozostała %d minuta</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Pozostało %1$d godz. %2$d min</item>
+        <item quantity="one">Pozostało %1$d godz. %2$d min</item>
+    </plurals>
 </resources>

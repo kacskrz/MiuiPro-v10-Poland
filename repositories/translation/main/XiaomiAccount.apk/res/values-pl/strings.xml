@@ -473,4 +473,5 @@ Twój numer odblokowujący: %s"</string>
   <string name="passport_new_user_register">Załóż konto</string>
   <string name="passport_register_using_other_ways">Inne opcje rejestracji</string>
   <string name="passport_wrong_voice">Wprowadzony kod jest nieprawidłowy</string>
+  <string name="account_invalid_user_avatar">Awatar jest nieprawidłowy</string>
 </resources>

@@ -508,4 +508,12 @@
         <item quantity="one">%1$d kwestia wymaga optymalizacji</item>
 		<item quantity="few">%1$d kwestie wymagają optymalizacji</item>
     </plurals>
+   <plurals name="power_center_menu_text">
+      <item quantity="other">elementów</item>
+      <item quantity="one">element</item>
+   </plurals>
+   <plurals name="power_center_list_item_optimize_button">
+      <item quantity="other">Zyskaj %d minut</item>
+      <item quantity="one">Zyskaj %d minutę</item>
+   </plurals>
 </resources>

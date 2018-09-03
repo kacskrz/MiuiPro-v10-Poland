@@ -611,4 +611,10 @@
   <string name="resource_free_download">Pobierz za darmo</string>
   <string name="tag_ad">Reklama</string>
   <string name="tips_theme_gate_transfer_fail">"Nie udało się otworzyć tej strony. Zaczekaj minutę bądź dwie i spróbuj ponownie."</string>
+  <string name="exit_extreme_mode_dialog_agree">Zgoda</string>
+  <string name="exit_extreme_mode_dialog_cancel">Anuluj</string>
+  <string name="exit_extreme_mode_dialog_title">Wyłącz Ekstremalne oszczędzanie</string>
+  <string name="extreme_mode_dialog_message">"Ta funkcja nie jest dostępna w trybie Ekstremalnego oszczędzania. Wyłącz je, by móc użyć tej funkcji."</string>
+  <string name="extreme_mode_dialog_ok">Rozumiem</string>
+  <string name="extreme_mode_dialog_title">Alert</string>
 </resources>

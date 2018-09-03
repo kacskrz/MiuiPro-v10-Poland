@@ -1054,4 +1054,23 @@
     <string name="privacy_preference">Polityka prywatności</string>
     <string name="tab_video_list">Wideo</string>
     <string name="title_online_recommend_type">Wybierz kategorię</string>
+  <string name="dialog_renew_failure">Przepraszamy, nie udało się wykonać akcji</string>
+  <string name="dialog_renew_positive_text">TAK, CHCĘ BYĆ PRO</string>
+  <string name="dialog_renew_success">Dziękujemy za Twoje potwierdzenie</string>
+  <string name="download_dialog_fail">"Nie udało się pobrać"</string>
+  <string name="download_dialog_success">Pomyślnie pobrano</string>
+  <string name="due_date">Termin: %s</string>
+  <string name="enjoy_hungama_pro">Enjoy Hungama PRO</string>
+  <string name="hd_quality_audio">Audio w jakości HD</string>
+  <string name="individuation_card_login_button">Zaloguj się</string>
+  <string name="individuation_card_login_message">"Zaloguj się, by znaleźć więcej utworów dla Ciebie"</string>
+  <string name="individuation_card_title">Dla Ciebie</string>
+  <string name="individuation_cart_login_title">Chcesz zobaczyć więcej propozycji?</string>
+  <string name="pro_member">PRO Member</string>
+  <string name="renew_dialog_title">"Go Pro
+Be Happy"</string>
+  <string name="search_menu_title">Szukaj</string>
+  <string name="sliding_pro_center">Centrum PRO</string>
+  <string name="unlimited_downloads">Nielimitowane pobrania</string>
+  <string name="unlimited_offline_songs">Nielimitowane utwory offline</string>
 </resources>
