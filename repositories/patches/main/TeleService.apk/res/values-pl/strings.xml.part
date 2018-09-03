@@ -48,4 +48,7 @@
     <string name="number_color_title">Kolor liczb, liter itd.</string> 
     <string name="icon_color_title">Kolor SIM, gwiazdki, krzyżyka itd.</string>
 	<string name="call_windows_title">Okno połączenia</string>
+    <string name="background_color_title">Kolor tła przy połączeniu</string>
+    <string name="background_color_on">Domyślny</string>
+    <string name="background_color_off">Tapeta ekranu blokady</string>
 </resources>

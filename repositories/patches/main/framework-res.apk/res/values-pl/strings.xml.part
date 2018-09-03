@@ -15,4 +15,5 @@
 	<string name="cat_5">Dane komórkowe są włączone</string>
 	<string name="cat_6">Wi-Fi wyłączone</string>
 	<string name="cat_7">Wi-Fi włączone</string>
+    <string name="not_setup_app">Aplikacja asystenta głosowego jest nieskonfigurowana</string>
 </resources>

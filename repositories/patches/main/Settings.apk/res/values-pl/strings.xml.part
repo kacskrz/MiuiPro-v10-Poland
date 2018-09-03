@@ -184,4 +184,5 @@
     <string name="allowed_set">dozwolone</string>
     <string name="not_allowed_set">niedozwolone</string>
     <string name="no_neighboring_cells">brak sąsiednich komórek</string>
+    <string name="app_assistant_title">Przycisk asystenta głosowego</string>
 </resources>
