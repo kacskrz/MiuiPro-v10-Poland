@@ -576,4 +576,6 @@
   <string name="pref_title_create_onekeyclean_shortcut">Utwórz skrót na Ekranie głównym</string>
   <string name="memory_clean_no_trash_tip">Wszystko wygląda dobrze</string>
   <string name="pref_about_privacy_title">Polityka prywatności</string>
+  <string name="toast_updater_close_4g_text">"Aplikacje nie będą aktualizowane poprzez dane mobilne (LTE)"</string>
+  <string name="toast_updater_open_4g_text">Aplikacje będą aktualizowane poprzez dane mobilne (LTE)</string>
 </resources>

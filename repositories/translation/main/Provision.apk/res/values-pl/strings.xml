@@ -3,7 +3,7 @@
   <string name="accessibility_enabled">Ułatwienie włączone.</string>
   <string name="agree">Zgadzam się</string>
   <string name="agree_terms">Przeczytałem i zgadzam się na Warunki użytkowania i Politykę prywatności.</string>
-  <string name="app_name">Provision</string>
+  <string name="app_name">Konfiguracja</string>
   <string name="application_permissions">Uprawnienia aplikacji</string>
   <string name="back">Wstecz</string>
   <string name="cm_terms_content">W celu poprawy usług świadczonych dla ciebie, operator sieci komórkowej wybrany przez ciebie może przesłać twoje dane osobowe i informacje o tym urządzeniu do swoich serwerów za pomocą sieci Wi-Fi lub połączenia danych mobilnych. Informacje te będą wykorzystywane wyłącznie do celów statystycznych w celu poprawy jakości usług oraz zapewnienia bardziej spersonalizowane treści. Informacje te nie będą wykorzystywane do identyfikacji użytkownika osobiście i nie będą ujawniane firmom trzecim.</string>
@@ -77,6 +77,10 @@
   <string name="terms_of_use_lable_apps">Usługi Xiaomi, usługi aktywacji karty MI SIM, chmura Xiaomi, funkcja Znajdź urządzenie, ekran główny, serwis gier, komponenty systemu MAB i MSA, MIUI Daemon, aplikacje internetowe, Asystent MIUI, statystyki, inteligentna karta Mi, Mi Link</string>
   <string name="title_fingerprint">Ustaw hasło</string>
   <string name="user_agreement">Regulamin Usługi</string>
+  <string name="voice_assist_advice">Mi AI pozwala używać Tobie kontroli za pomocą głosu, ale zużywa więcej energii (+1% na godzinę).</string>
+  <string name="voice_assist_condition">"Możesz używać Mi AI, gdy:
+1. ekran jest włączony,
+2. słuchasz muzyki na wyłączonym ekranie."</string>
   <string name="voice_assist_desp">Powiedz \"Mi AI\" do swojego telefonu. Mi AI rozpozna twój głos i będziesz w stanie kontrolować swoje urządzenie.</string>
   <string name="voice_assist_title">Wybudź za pomocą głosu</string>
   <string name="welcome">Witamy</string>

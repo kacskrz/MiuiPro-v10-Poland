@@ -5740,5 +5740,12 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="close_fod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
   <string name="close_fod_aod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Tryb \"Zawsze włączony\" również nie będzie dostępny. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
   <string name="to_close">Wyłącz</string>
- <string name="title_jeejen">Pulpit Jeejen</string>
+  <string name="title_jeejen">Pulpit Jeejen</string>
+  <string name="status_bar_settings_customer_feedback">opinia</string>
+  <string name="status_bar_settings_function_description">O tej funkcji</string>
+  <string name="status_bar_settings_user_fold_description1">Folder powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
+  <string name="status_bar_settings_user_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do folderu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
+  <string name="status_bar_settings_user_fold_disable">Wył.</string>
+  <string name="status_bar_settings_user_fold_enable">Wł.</string>
 </resources>

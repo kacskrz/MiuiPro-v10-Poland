@@ -800,8 +800,8 @@ Pozostało prób: %d."</string>
     <string name="card_title_redialing">Ponawianie</string>
     <string name="card_title_conf_call">Poł. konferencyjne</string>
     <string name="card_title_incoming_call">Połączenie</string>
-    <string name="card_title_call_ended">Połączenie zakończone</string>
-    <string name="card_title_on_hold">Oczekujące</string>
+    <string name="card_title_call_ended">"Połączenie zakończone "</string>
+    <string name="card_title_on_hold">"Oczekujące "</string>
     <string name="card_title_hanging_up">Trwa rozłączanie</string>
     <string name="card_title_in_call">Trwa połączenie</string>
     <string name="card_title_unconditionalCF">Bezwarunkowe przekierowanie połączeń włączone</string>

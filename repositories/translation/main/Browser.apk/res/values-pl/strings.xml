@@ -1279,4 +1279,7 @@
   <string name="suggestion_input_hitory_clear_text">WYCZYŚĆ</string>
   <string name="url_hint_head">Wszyscy szukają：</string>
   <string name="pref_privacy_policy">Polityka prywatności</string>
+  <string name="data_traffic_download_cancel">Anuluj</string>
+  <string name="data_traffic_download_prompt">Obecny plik wideo może być pobrany tylko przez Wi-Fi</string>
+  <string name="data_traffic_download_setting">Ustawienia</string>
 </resources>
