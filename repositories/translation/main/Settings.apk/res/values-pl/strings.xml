@@ -220,8 +220,8 @@
   <string name="another_migration_already_in_progress">Inna migracja jest już w toku.</string>
   <string name="anti_spam">Lista blokowanych</string>
   <string name="aod_mode_summary">Zawsze pokazuj czas, datę i wiadomości, gdy ekran jest wyłączony.</string>
-  <string name="aod_mode_time_summary">Schedule time when your device should switch to Always on mode</string>
-  <string name="aod_mode_time_title">Schedule</string>
+  <string name="aod_mode_time_summary">Zaplanuj czas włączenia Zawsze włączony</string>
+  <string name="aod_mode_time_title">Zaplanowane</string>
   <string name="aod_mode_title">Tryb Zawsze włączony</string>
   <string name="aod_mode_turn_off">Off</string>
   <string name="aod_mode_turn_on">On</string>
@@ -280,9 +280,9 @@
   <string name="app_launch_open_domain_urls_title">Otwórz obsługiwane linki</string>
   <string name="app_launch_other_defaults_title">Inne ustawienia domyślne</string>
   <string name="app_launch_supported_domain_urls_title">Obsługiwane linki</string>
-  <string name="app_link_open_always">Otwieraj w tej aplikacji</string>
+  <string name="app_link_open_always">Otwieraj</string>
   <string name="app_link_open_ask">Pytaj za każdym razem</string>
-  <string name="app_link_open_never">Nie otwieraj w tej aplikacji</string>
+  <string name="app_link_open_never">Nie otwieraj</string>
   <string name="app_list_memory_use">Wykorzystanie przez aplikacje</string>
   <string name="app_list_preference_none">Brak</string>
   <string name="app_memory_use">Użycie pamięci</string>
@@ -1316,7 +1316,7 @@
   <string name="default_apps_title">Domyślne</string>
   <string name="default_assist_title">Aplikacja asystująca</string>
   <string name="default_browser_title">Przeglądarka</string>
-  <string name="default_browser_title_none">Brak domyślnej przeglądarki</string>
+  <string name="default_browser_title_none">Brak</string>
   <string name="default_calendar_app_title">Aplikacja kalendarza</string>
   <string name="default_contacts_app_title">Aplikacja do obsługi kontaktów</string>
   <string name="default_emergency_app">Aplikacja alarmowa</string>
@@ -1326,7 +1326,7 @@
   <string name="default_launcher_title">Domyślny launcher</string>
   <string name="default_map_app_title">Aplikacja do map</string>
   <string name="default_notification_assistant">Asystent powiadomień</string>
-  <string name="default_phone_title">Aplikacja Telefon</string>
+  <string name="default_phone_title">Telefon</string>
   <string name="default_rule_name">Minutnik 1</string>
   <string name="default_sound">Dźwięk domyślny</string>
   <string name="default_spell_checker">Domyślne sprawdzanie pisowni</string>
@@ -2000,7 +2000,7 @@
   <string name="high_power_system">Optymalizacja baterii niedostępna</string>
   <string name="history_details_title">Historia – szczegóły</string>
   <string name="home">Ekran główny ustawień</string>
-  <string name="home_app">Aplikacja ekranu głównego</string>
+  <string name="home_app">Launcher</string>
   <string name="home_key">Ekran główny</string>
   <string name="home_work_profile_not_supported">Nie obsługuje profili do pracy</string>
   <string name="http_invoke_app">Aplikacje sieciowe</string>
@@ -2837,7 +2837,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="no_connected_devices">Brak podłączonych urządzeń</string>
   <string name="no_data_usage">Brak użycia danych</string>
   <string name="no_default_apps">Brak domyślnych aplikacji.</string>
-  <string name="no_default_home">Brak domyślnego ekranu głównego</string>
+  <string name="no_default_home">Brak</string>
   <string name="no_device_admins">Brak dostępnych administratorów urządzenia</string>
   <string name="no_internet_access_remember">Nie pytaj ponownie o tę sieć</string>
   <string name="no_internet_access_text">Sieć Wi-Fi %1$s nie ma dostępu do Internetu. Czy nadal chcesz być z nią połączony?</string>
@@ -5741,11 +5741,14 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="close_fod_aod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Tryb \"Zawsze włączony\" również nie będzie dostępny. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
   <string name="to_close">Wyłącz</string>
   <string name="title_jeejen">Pulpit Jeejen</string>
-  <string name="status_bar_settings_customer_feedback">opinia</string>
+  <string name="status_bar_settings_customer_feedback">opinię</string>
   <string name="status_bar_settings_function_description">O tej funkcji</string>
   <string name="status_bar_settings_user_fold_description1">Folder powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
   <string name="status_bar_settings_user_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
   <string name="status_bar_settings_user_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do folderu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
   <string name="status_bar_settings_user_fold_disable">Wył.</string>
   <string name="status_bar_settings_user_fold_enable">Wł.</string>
+  <string name="aod_close_color_inversion">"Ta funkcja nie może być używana razem z inwersją kolorów. Wyłącz najpierw tą funkcję."</string>
+  <string name="aod_got_it">Rozumiem</string>
+  <string name="aod_to_close">Wyłącz</string>
 </resources>
