@@ -511,6 +511,7 @@
    <plurals name="power_center_menu_text">
       <item quantity="other">elementów</item>
       <item quantity="one">element</item>
+	  <item quantity="few">elementy</item>
    </plurals>
    <plurals name="power_center_list_item_optimize_button">
       <item quantity="other">Zyskaj %d minut</item>
