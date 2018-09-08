@@ -24,7 +24,7 @@
     <string name="nonui_mode_config_title">Tryb nieinteraktywny</string>
     <string name="nonui_mode_config_description">Nie podświetla ekranu dla powiadomień, wyłącza diodę powiadomień, czujnik odczytu odcisku palca oraz sterowanie dotykami, aby zaoszczędzić baterię, gdy MIUI wykryje, że nie korzystasz z urządzenia.</string>
     <string name="power_center">Zasilanie</string>
-    <string name="power_usage">Zasilanie</string>
+    <string name="power_usage">Zużycie baterii</string>
     <string name="power_mode">Tryb zasilania</string>
     <string name="performance_category">Wydajność</string>
     <string name="scenario_policies_warmcontrol">Kontrola temperatury</string>

@@ -2343,7 +2343,7 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="see_more_content">Zaktualizuj centrum gier, by zobaczyć więcej atrakcji</string>
   <string name="auto_task_result_summary_text">Ustaw zautomatyzowane zadania dla Oszczędzania baterii</string>
   <string name="extreme_power_save_mode_card_summary">Włącz Ekstremalne oszczędzanie w celu zachowania energii, gdy bateria jest słaba.</string>
-  <string name="handle_title_abnormal">Drenujące baterię</string>
+  <string name="handle_title_abnormal">Nadmierny pobór energii</string>
   <string name="handle_title_app">Aplikacje</string>
   <string name="handle_title_details">Szczegóły zużycia baterii</string>
   <string name="handle_title_system">Zużycie baterii przez system</string>
