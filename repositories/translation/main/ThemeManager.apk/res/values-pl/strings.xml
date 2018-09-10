@@ -321,7 +321,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">10 urządzeń zostało już autoryzowanych dla tego konta</string>
   <string name="resource_get_auth_exceed_max_limit_title">Przekroczono liczbę uprawnionych urządzeń</string>
   <string name="resource_get_auth_has_been_undercarriaged">Ten motyw nie jest już dostępny.</string>
-  <string name="resource_get_auth_not_official">Motywy z zewnęntrznych źródeł nie są wspierane</string>
+  <string name="resource_get_auth_not_official">Motywy z zewnętrznych źródeł nie są wspierane</string>
   <string name="resource_get_auth_retrieving">Zbieranie danych…</string>
   <string name="resource_has_been_downloaded">Motyw został pomyślnie pobrany</string>
   <string name="resource_hint">Wiadomość</string>
