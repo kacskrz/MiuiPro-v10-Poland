@@ -17,7 +17,7 @@
     <string name="recording">Nagrywanie</string>
     <string name="recording_stopped">Nagrywanie zakończone</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">Brak dostępu do karty SD</string>
+    <string name="error_sdcard_access">Brak dostępu do pamięci</string>
     <string name="error_app_internal">Upewnij się, czy inna aplikacja nie korzysta w tej chwili z funkcji nagrywania.</string>
     <string name="error_app_internal_title">Błąd aplikacji</string>
     <string name="error_file_access">Plik nie istnieje lub jest uszkodzony</string>
