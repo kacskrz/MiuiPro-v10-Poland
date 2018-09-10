@@ -66,7 +66,7 @@
     <string name="alert_message_restore">Nie udało się otworzyć notatki. Przywróć ją, aby edytować zawartość.</string>
     <string name="note_sort_way">Wybierz jak chcesz sortować notatki</string>
     <string name="trash_folder_reminder">Notatki, które usunięto, zostaną trwale usunięte w ciągu 30 dni.</string>
-    <string name="cta_reminder">Aplikacja wymaga połączenia z internetem, aby wykonać kopię w Chmurze Xiaomi, a także uprawnień do odczytu kontaktów, aby móc ustalić etykietę notatki w czasie rozmowy.</string>
+    <string name="cta_reminder">Aplikacja Notatki wymaga uprawnień do połączenia z internetem, nagrywania audio, a także uprawnień do odczytu kontaktów, aby działać normalnie. Zezwolić na to?</string>
     <string name="menu_add_folder">Dodaj do folderu</string>
     <string name="dialog_share_title">Udostępnij notatkę</string>
     <string name="dialog_share_as_text">Udostępnij notatkę jako tekst</string>

@@ -17,7 +17,7 @@
     <string name="recording">Nagrywanie</string>
     <string name="recording_stopped">Nagrywanie zakończone</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">Brak dostępu do pamięci urządzenia</string>
+    <string name="error_sdcard_access">Brak dostępu do karty SD</string>
     <string name="error_app_internal">Upewnij się, czy inna aplikacja nie korzysta w tej chwili z funkcji nagrywania.</string>
     <string name="error_app_internal_title">Błąd aplikacji</string>
     <string name="error_file_access">Plik nie istnieje lub jest uszkodzony</string>
@@ -98,7 +98,7 @@
     <string name="record_quliaty_preference_title">Jakość nagrywania</string>
     <string name="cloud_record_tip">Synchronizuj nagrania z Chmurą.</string>
     <string name="cloud_record_open">Synchronizuj nagrania</string>
-    <string name="cloud_service_state_open_reminder">Włącz synchronizację z Chmurą Xiaomi, aby synchronizować pliki nagrań.</string>
+    <string name="cloud_service_state_open_reminder">Włącz synchronizację z Chmurą Xiaomi, aby synchronizować nagrania.</string>
     <string name="cloud_status_full_dialog_title">Brak miejsca w Chmurze</string>
     <string name="cloud_status_full_dialog_msg">Dysk w Chmurze jest pełny. Nie można zsynchronizować więcej nagrań.</string>
     <string name="cloud_status_full_dialog_cancel">Nie teraz</string>

@@ -5751,4 +5751,5 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="aod_close_color_inversion">"Ta funkcja nie może być używana razem z inwersją kolorów. Wyłącz najpierw tą funkcję."</string>
   <string name="aod_got_it">Rozumiem</string>
   <string name="aod_to_close">Wyłącz</string>
+  <string name="following_us_title">Obserwuj nas</string>
 </resources>
