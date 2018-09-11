@@ -210,4 +210,22 @@
         <item quantity="one">Zaimportowano %1$d kontakt</item>
 		<item quantity="few">Zaimportowano %1$d kontakty</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Znaleziono więcej niż %d kontaktów.</item>
+        <item quantity="one">Znaleziono więcej niż %d kontakt.</item>
+        <item quantity="few">Znaleziono więcej niż %d kontakty.</item>
+    </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d powtórzonych kontaktów</item>
+        <item quantity="one">%1$d powtórzony kontakt</item>
+        <item quantity="few">%1$d powtórzone kontakty</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">"Nie można wybrać wszystkich. Zaznacz tylko %1$d"</item>
+        <item quantity="one">"Nie można wybrać wszystkich. Zaznacz tylko %1$d"</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Zaznacz tylko %1$d</item>
+        <item quantity="one">Zaznacz tylko %1$d</item>
+    </plurals>
 </resources>

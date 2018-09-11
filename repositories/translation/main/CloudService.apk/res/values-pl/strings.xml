@@ -585,6 +585,6 @@
     <string name="micloud_main_simple_synced">Zsynchronizowano</string>
     <string name="micloud_main_simple_syncing">Synchronizowanie</string>
     <string name="micloud_main_simple_pending">Oczekiwanie</string>
-    <string name="micloud_main_simple_off">Nie synchronizuj</string>
+    <string name="micloud_main_simple_off">Synchronizacja wyłączona</string>
     <string name="micloud_main_simple_last_sync_time">Ostatnio synchronizowano： %s</string>
 </resources>

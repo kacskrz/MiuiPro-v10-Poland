@@ -108,7 +108,7 @@
   <string name="clean_content_three">3 elementy</string>
   <string name="clean_content_two">2 elementy</string>
   <string name="clean_content_zero">Brak</string>
-  <string name="clean_summary">Wyczyszczono %1$s plików</string>
+  <string name="clean_summary">Wyczyszczono %1$s</string>
   <string name="clear_bigfiles">Usuń duże pliki, duplikaty zdjęć i inne zbędne elementy</string>
   <string name="clear_immediately">Wyczyść teraz</string>
   <string name="clear_safe_notify">Widżet paska powiadomień</string>
@@ -578,4 +578,5 @@
   <string name="pref_about_privacy_title">Polityka prywatności</string>
   <string name="toast_updater_close_4g_text">"Aplikacje nie będą aktualizowane poprzez dane mobilne (LTE)"</string>
   <string name="toast_updater_open_4g_text">Aplikacje będą aktualizowane poprzez dane mobilne (LTE)</string>
+  <string name="cd_scanning">skanowanie</string>
 </resources>

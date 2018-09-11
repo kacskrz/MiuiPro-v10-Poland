@@ -515,4 +515,6 @@ w Trybie portretowym"</string>
   <string name="edit_pupil_line">Kredka do oczu</string>
   <string name="accessibility_intent_done_retry">Zrób ponownie</string>
   <string name="view_privacy_policy">Pokaż politykę prywatności</string>
+  <string name="capture_back_pressed_hint">Dotknij ponownie, by wyjść</string>
+  <string name="fps960_toast">Nagrywanie w zwolnionym tempie zacznie się, gdy licznik osiągnie białą kropkę</string>
 </resources>

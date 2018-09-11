@@ -2369,5 +2369,9 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
   <string name="power_center_scan_item_title_running_app">Aplikacje uruchomione w tle</string>
   <string name="power_center_scan_result_safe">Nie znaleziono problemów z baterią</string>
   <string name="power_center_stop_scan_title">Zatrzymaj skanowanie</string>
-  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Włączone jest Oszczędzanie baterii. Ogranicza ono aktywność aplikacji w tle, zatrzymuje synchronizację i ogranicza animacje systemowe do minimum."</string>
+  <string name="power_save_started_summary_text">"Włączone jest Oszczędzanie baterii. Ogranicza ono aktywność aplikacji w tle, zatrzymuje synchronizację i ogranicza animacje systemowe do minimum."</string>
+  <string name="device_manager_apply_step_1">Aktywować administrowanie urządzeniem dla tej aplikacji?</string>
+  <string name="device_manager_apply_step_2">"Aktywacja administrowania urządzeniem dla tej aplikacji może doprowadzić do ujawnienia Twoich osobistych danych.
+Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - zresetowane."</string>
+  <string name="device_manager_apply_step_3">Upewnij się, że rozumiesz wszystkie potencjalne ryzyka przed podjęciem tego działania. Aktywować administrację urządzeniem dla tej aplikacji?</string>
 </resources>

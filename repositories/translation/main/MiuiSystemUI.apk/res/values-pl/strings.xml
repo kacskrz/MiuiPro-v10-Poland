@@ -576,7 +576,7 @@
   <string name="face_unlock_offset_top">Podnieś wyżej telefon</string>
   <string name="face_unlock_open_eye">Otwórz szerzej oczy</string>
   <string name="face_unlock_passwork">Użyj hasła</string>
-  <string name="face_unlock_passwork_and_fingerprint">Użyj hasła lub danych twarzy</string>
+  <string name="face_unlock_passwork_and_fingerprint">Użyj hasła lub odcisku palca</string>
   <string name="face_unlock_quality">Nie udało się dostrzec twojej twarzy</string>
   <string name="face_unlock_reenter_content">Algorytm odblokowywania za pomocą twarzy jest aktualizowany. Dotknij, aby ponownie nagrać dane twarzy.</string>
   <string name="face_unlock_reenter_title">Nagraj swoje dane twarz ponownie.</string>

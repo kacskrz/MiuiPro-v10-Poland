@@ -92,7 +92,7 @@
     <string name="appconfig_active_app_dialog_title">Zarządzanie aktywnymi aplikacjami</string>
     <string name="config_classify">Sortuj wg ustawień aplikacji</string>
     <string name="privacy">Polityką prywatności</string>
-    <string name="about_extreme_mode">Ekstremalne oszczędzanie baterii</string>
-    <string name="extreme_mode_max_item_alert">Tylko 4 aplikacje mogą być uruchamiane w tle w trybie ekstremalnego oszczędzania baterii</string>
-    <string name="message_i_know">Wiem</string>
+    <string name="about_extreme_mode">Ekstremalne oszczędzanie</string>
+    <string name="extreme_mode_max_item_alert">Możesz wybrać do 4 aplikacji mogących uruchamiać się w tle w trybie ekstremalnego oszczędzania</string>
+    <string name="message_i_know">Rozumiem</string>
 </resources>
