@@ -11,7 +11,7 @@
     <string-array name="thermal_summaries">
         <item>Priorytet dla kontroli temperatury</item>
         <item>Priorytet dla wydajności</item>
-        <item>Konfiguracja wyłączona w trybie Ekstremalnego oszczędzania</item>
+        <item>Nie działa w trybie Ekstremalnego oszczędzania</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Wydajny</item>

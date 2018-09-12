@@ -486,7 +486,7 @@
 Wyczyść ją dla lepszego efektu."</string>
    <string name="lens_dirty_detected_title_back">Tylna soczewka aparatu jest brudna</string>
    <string name="lens_dirty_detected_title_front">Przednia soczewka aparatu jest brudna</string>
-     <string name="back_bokeh_use_hint">"Upewnij się, że obiekt nie jest oddalony dalej niż 1,5 metra od aparatu."</string>
+     <string name="back_bokeh_use_hint">"Umieść obiekt nie dalej niż 1,5 metra dla lepszego efektu"</string>
 	 <string name="pref_camera_sr_enable_title">Włącz SR</string>
    <string name="pref_google_lens">Google lens</string>
    <string name="pref_video_quality_summary">Wideo w 4K w 120 FPS nie jest wspierane</string>
@@ -517,4 +517,6 @@ w Trybie portretowym"</string>
   <string name="view_privacy_policy">Pokaż politykę prywatności</string>
   <string name="capture_back_pressed_hint">Dotknij ponownie, by wyjść</string>
   <string name="fps960_toast">Nagrywanie w zwolnionym tempie zacznie się, gdy licznik osiągnie białą kropkę</string>
+  <string name="portrait_mode_use_hint_for_bokeh">"Wypróbuj Tryb portretowy.
+Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
 </resources>

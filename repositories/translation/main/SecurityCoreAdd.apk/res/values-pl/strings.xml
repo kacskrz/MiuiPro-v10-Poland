@@ -421,4 +421,6 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
     <string name="install">Instaluj</string>
     <string name="install_error">"Nie udało się zainstalować. Spróbuj ponownie"</string>
     <string name="ent_install_dialog_content">Czy chcesz zainstalować aplikacje i zrestartować Twoje urządzenie teraz?</string>
+  <string name="confirm_close_password_desc">"Nie będziesz w stanie wejść do Drugiej przestrzeni z poziomu ekranu blokady po wyłączeniu hasła. Wyłączyć je mimo to?"</string>
+  <string name="confirm_close_password_title">Wyłączenie hasła</string>
 </resources>

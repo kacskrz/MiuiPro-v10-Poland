@@ -1235,5 +1235,5 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="toast_call_no_SoundRecorder">Aplikacja Dyktafon jest niedostępna</string>
     <string name="toast_call_no_notes">Aplikacja Notatki jest niedostępna</string>
     <string name="rcs_app_name">Mini aplikacja</string>
-    <string name="conference_call_disable_tip">"Nie można wykonać połączenia. Upewnij się, że jesteś w zasięgu sieci 4G ze wsparciem dla VoLTE."</string>
+    <string name="conference_call_disable_tip">"Nie można wykonać połączenia. Upewnij się, że jesteś w zasięgu sieci LTE ze wsparciem dla VoLTE."</string>
 </resources>

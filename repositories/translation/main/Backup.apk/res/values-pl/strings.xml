@@ -583,4 +583,11 @@ Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="trans_cancel_selection_title">Pozostań w Mi Mover</string>
   <string name="trans_select_notification_message">Dotknij, by zobaczyć</string>
   <string name="trans_select_notification_title">Mi Mover pracuje…</string>
+  <string name="trans_success_dialog_button_market_comment">Komentarz</string>
+  <string name="trans_success_dialog_button_survey">Ankieta</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">"Powiedz nam, co sądzisz o Przenoszeniu danych."</string>
+  <string name="trans_success_dialog_survey_title">Doceniamy Twoją opinię</string>
+  <string name="trans_success_survey_hint">Wypełnij wszystkie pola.</string>
+  <string name="trans_cancel_dialog_survey_title">Dlaczego przerwałeś ten transfer?</string>
+  <string name="trans_dialog_survey_finish">Wyślij</string>
 </resources>

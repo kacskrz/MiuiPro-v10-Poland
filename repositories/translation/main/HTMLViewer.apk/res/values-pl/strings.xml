@@ -25,4 +25,5 @@ przejdź na %s na innym podłączonym urządzeniu."</string>
     <string name="settings_ad_loading_unavailable">Nie udało się załadować informacji</string>
     <string name="autoconnect">Połącz automatycznie</string>
     <string name="open_wifi_connect_and_use_data_summary">Używasz danych mobilnych. Kliknij, by przełączyć się na Wi-Fi.</string>
+    <string name="poco_privacy_policy">Polityka prywatności i zgoda użytkownika POCO Launcher</string>
 </resources>

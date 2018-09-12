@@ -2329,7 +2329,7 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="first_aid_card_unable_install_button">Zwolnij miejsce</string>
     <string name="first_aid_result_summary_normal">Wszystko wygląda dobrze!</string>
     <string name="first_aid_result_feedback_title">Opinia</string>
-    <string name="first_aid_result_feedback_summary">"Nie mogę rozwiązać problemów z moim urządzeniem."</string>
+    <string name="first_aid_result_feedback_summary">"W skanowaniu Pierwszej pomocy nie udało się znaleźć żadnych problemów, jednak zauważyłem niektóre z nich."</string>
     <string name="first_aid_result_feedback_button">Wyślij</string>
     <string name="first_aid_card_kadun_title">Urządzenie zwalnia</string>
     <string name="first_aid_card_kadun_summary1">Zwolnij miejsce w pamięci, aby Twoje urządzenie działało normalnie.</string>
@@ -2374,4 +2374,5 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
   <string name="device_manager_apply_step_2">"Aktywacja administrowania urządzeniem dla tej aplikacji może doprowadzić do ujawnienia Twoich osobistych danych.
 Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - zresetowane."</string>
   <string name="device_manager_apply_step_3">Upewnij się, że rozumiesz wszystkie potencjalne ryzyka przed podjęciem tego działania. Aktywować administrację urządzeniem dla tej aplikacji?</string>
+  <string name="first_aid_result_summary_not_finished">"Skanowanie nie zostało ukończone. Część problemów mogła zostać niewykryta."</string>
 </resources>

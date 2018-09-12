@@ -517,4 +517,9 @@
       <item quantity="other">Zyskaj %d minut</item>
       <item quantity="one">Zyskaj %d minutę</item>
    </plurals>
+  <plurals name="first_aid_card_float_window_summary">
+    <item quantity="other">%d aplikacji może być wyświetlanych nieprawidłowo. Ogranicz pływające powiadomienia.</item>
+    <item quantity="one">%d aplikacja może być wyświetlana nieprawidłowo. Ogranicz pływające powiadomienia.</item>
+    <item quantity="few">%d aplikacje mogą być wyświetlane nieprawidłowo. Ogranicz pływające powiadomienia.</item>
+  </plurals> 
 </resources>

@@ -1686,4 +1686,5 @@
   <string name="keyguard_charging_back_to_lockscreen">Wróć do ekranu blokady</string>
   <string name="keyguard_left_torch">Latarka</string>
   <string name="switch_system_user">Otwórz Pierwszą przestrzeń</string>
+  <string name="face_unlock_sc_status">Przesuń ekran w dół, aby włączyć Aparat</string>
 </resources>

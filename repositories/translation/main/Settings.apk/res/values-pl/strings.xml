@@ -5729,8 +5729,8 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="upload_audio_log">Rozpocznij uzyskiwanie logu audio</string>
     <string name="upload_gps_log">Rozpocznij uzyskiwanie logu GPS</string>
     <string name="upload_modem_log">Rozpocznij uzyskiwanie logu modemu</string>
-  <string name="failed_to_erase_text">Proszę, usuń hasło ekranu blokady przed wykonaniem operacji 1217.</string>
-  <string name="failed_to_erase_title">Operacja zabroniona</string>
+  <string name="failed_to_erase_text">Usuń hasło ekranu blokady przed wpisaniem kodu \"1217\".</string>
+  <string name="failed_to_erase_title">Nie można ukończyć tej akcji</string>
   <string name="navigation_guide_appswitch_anim_summary">Przesuń palcem po ekranie, zaczynając od krawędzi, by wrócić do poprzedniej aplikacji</string>
   <string name="navigation_guide_appswitch_anim_title">Wróć do poprzedniej aplikacji</string>
   <string name="navigation_guide_appswitch_click">Włącz najpierw gest \"Przełącz do aplikacji\"</string>
@@ -5752,4 +5752,7 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="aod_got_it">Rozumiem</string>
   <string name="aod_to_close">Wyłącz</string>
   <string name="following_us_title">Obserwuj nas</string>
+  <string name="bootloader_device_bind_no_data_network">Wyłącz Wi-Fi i dodaj Twoje konto i urządzenie, używając transmisji danych.</string>
+  <string name="bootloader_device_bind_server_token_expired_1">"Nie udało się zweryfikować. Spróbuj dodać konto i urządzenie ponownie."</string>
+  <string name="bootloader_device_bind_server_token_expired_2">"Nie udało się zweryfikować. Zaloguj się na konto jeszcze raz i zacznij od nowa."</string>
 </resources>
