@@ -53,6 +53,7 @@
   <string name="other_settings_user_experience">Program zadowolenia użytkownika</string>
   <string name="other_settings_user_experience_summary">Pomóż ulepszać nasze produkty i usługi poprzez anonimowe wysyłanie wykorzystanych danych.</string>
   <string name="other_settings_user_experience_summary_index">Szczegóły</string>
+  <string name="poco_agree_terms_other">(Włączając Politykę prywatności i zgodę użytkownika POCO Launcher)</string>
   <string name="pref_title_data_slot">Preferowana karta SIM (internet)</string>
   <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
   <string name="privacy_policy">Polityka Prywatności</string>

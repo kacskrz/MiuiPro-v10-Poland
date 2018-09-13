@@ -490,4 +490,6 @@
   <string name="younger_sister">młodsza siostra</string>
   <string name="preference_other">Pozostałe</string>
   <string name="preference_privacy_title">Polityka prywatności</string>
+  <string name="tax_thershold_native_new">%s (nowa)</string>
+  <string name="tax_thershold_native_new_description">Podatki będą obliczane zgodnie z nową ustawą podatkową, począwszy od 1 października 2018 roku</string>
 </resources>

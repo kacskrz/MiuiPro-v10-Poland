@@ -42,6 +42,11 @@
         <item quantity="few">%d wiadomości</item>
         <item quantity="many">%d wiadomości</item>
     </plurals>
+  <plurals name="mark_number_dialog_subtitle">
+     <item quantity="other">Oznaczony jako %2$s przez %1$d osób</item>
+     <item quantity="one">Oznaczony jako %2$s przez %1$d osobę</item>
+     <item quantity="few">Oznaczony jako %2$s przez %1$d osoby</item>
+  </plurals>
     <plurals name="message_count">
         <item quantity="other">SMS: %1$s</item>
         <item quantity="one">%1$s SMS</item>

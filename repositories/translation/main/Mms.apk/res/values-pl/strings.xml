@@ -238,6 +238,7 @@
   <string name="loading_conversations">Chwileczkę…</string>
   <string name="loading_mms">Chwileczkę…</string>
   <string name="manage_permission_app_label">Uprawnienia urządzenia</string>
+  <string name="mark_number_by_own_dialog_subtitle">Oznaczony jako %1$s</string>
   <string name="me">Ja</string>
   <string name="menu_add_black">Blokuj ten numer</string>
   <string name="menu_add_contact">Dodaj do kontaktu</string>
@@ -476,7 +477,7 @@
   <string name="private_message">Prywatne wiadomości</string>
   <string name="private_new_notification">Powiadomienia wiadomości</string>
   <string name="private_protect">Ochrona prywatności</string>
-  <string name="private_settings">Ustawienia prywatnych wiadomości</string>
+  <string name="private_settings">Ustawienia</string>
   <string name="processing">Przetwarzanie...</string>
   <string name="prvate_contact">Prywatne kontakty</string>
   <string name="quick_reply">Odp</string>

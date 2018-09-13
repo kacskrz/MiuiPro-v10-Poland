@@ -5755,4 +5755,6 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="bootloader_device_bind_no_data_network">Wyłącz Wi-Fi i dodaj Twoje konto i urządzenie, używając transmisji danych.</string>
   <string name="bootloader_device_bind_server_token_expired_1">"Nie udało się zweryfikować. Spróbuj dodać konto i urządzenie ponownie."</string>
   <string name="bootloader_device_bind_server_token_expired_2">"Nie udało się zweryfikować. Zaloguj się na konto jeszcze raz i zacznij od nowa."</string>
+  <string name="accessibility_summary_source">Dostarczane przez %s</string>
+  <string name="credentials_title_verification">Weryfikacja</string>
 </resources>

@@ -43,4 +43,73 @@
         <item>Dziadek (ze strony matki)</item>
         <item>Babcia (ze strony matki)</item>
     </string-array>
+    <string-array name="card_last_week_day">
+     <item>Ostatni poniedziałek</item>
+     <item>Ostatni wtorek</item>
+     <item>Ostatnia środa</item>
+     <item>Ostatni czwartek</item>
+     <item>Ostatni piątek</item>
+    </string-array>
+  <string-array name="holiday_last_year">
+     <item>"Ostatni Nowy Rok"</item>
+     <item>"Ostatnie Walentynki"</item>
+     <item>Ostatnie Święto Pracy</item>
+     <item>"Ostatni Dzień Dziecka"</item>
+     <item>Ostatnie Święto Niepodległości</item>
+     <item>Ostatnie Święta Bożego Narodzenia</item>
+  </string-array>
+  <string-array name="holiday_past_year">
+     <item>"Nowy Rok przez lata"</item>
+     <item>"Walentynki przez lata"</item>
+     <item>Święto Pracy przez lata</item>
+     <item>"Dzień Dziecka przez lata"</item>
+     <item>Święto Niepodległości przez lata</item>
+     <item>Święta Bożego Narodzenia przez lata</item>
+  </string-array>
+  <string-array name="month_last_year">
+     <item>Ostatni styczeń</item>
+     <item>Ostatni luty</item>
+     <item>Ostatni marzec</item>
+     <item>Ostatni kwiecień</item>
+     <item>Ostatni maj</item>
+     <item>Ostatni czerwiec</item>
+     <item>Ostatni lipiec</item>
+     <item>Ostatni sierpień</item>
+     <item>Ostatni wrzesień</item>
+     <item>Ostatni październik</item>
+     <item>Ostatni listopad</item>
+     <item>Ostatni grudzień</item>
+  </string-array>
+  <string-array name="month_past_year">
+     <item>Wspomnienia ze stycznia</item>
+     <item>Wspomnienia z lutego</item>
+     <item>Wspomnienia z marca</item>
+     <item>Wspomnienia z kwietnia</item>
+     <item>Wspomnienia z maja</item>
+     <item>Wspomnienia z czerwca</item>
+     <item>Wspomnienia z lipca</item>
+     <item>Wspomnienia z sierpnia</item>
+     <item>Wspomnienia z września</item>
+     <item>Wspomnienia z października</item>
+     <item>Wspomnienia z listopada</item>
+     <item>Wspomnienia z grudnia</item>
+  </string-array>
+  <string-array name="season_last_year">
+     <item>Ostatniej wiosny</item>
+     <item>Ostatniego lata</item>
+     <item>Ostatniej jesieni</item>
+     <item>Ostatniej zimy</item>
+  </string-array>
+  <string-array name="season_past_year">
+     <item>Wiosenne wspomnienia</item>
+     <item>Letnie wspomnienia</item>
+     <item>Jesienne wspomnienia</item>
+     <item>Zimowe wspomnienia</item>
+  </string-array>
+  <string-array name="season_recap">
+     <item>Podsumowanie wiosny</item>
+     <item>Podsumowanie lata</item>
+     <item>Podsumowanie jesieni</item>
+     <item>Podsumowanie zimy</item>
+  </string-array>
 </resources>

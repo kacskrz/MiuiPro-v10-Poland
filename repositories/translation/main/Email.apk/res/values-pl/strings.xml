@@ -664,6 +664,9 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="notification_action_undo_delete">Usunięto</string>
     <string name="notification_action_undo_remove_label">Usunięto znacznik</string>
     <string name="notification_exchange_calendar_added">Dodano kalendarz Exchange</string>
+    <string name="notify_channel_new_mail">Powiadom o nowych wiadomościach</string>
+    <string name="notify_channel_permission_notice">Uprawnienie do przypominania o powiadomieniach</string>
+    <string name="notify_channel_send_fail">Powiadom o niedostarczeniu wiadomości</string>
     <string name="oauth_error_description">Nie udało się autoryzować</string>
     <string name="oauth_gmail_login_notify">Wprowadź swoją nazwę użytkownika konta Google i hasło na następnej stronie logowania.</string>
     <string name="oauth_login_continue">Kontynuuj</string>
@@ -881,7 +884,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="saved">Zapisano, %s</string>
     <string name="saving">Zapisywanie...</string>
     <string name="sdcard_cannot_use">Nie można użyć karty SD</string>
-    <string name="search_bar_text">Wyszukaj nadawcę albo kontakt</string>
+    <string name="search_bar_text">Wyszukaj wiadomości lub kontakty</string>
     <string name="search_hint">Wyszukaj wiadomości</string>
     <string name="search_result">"Wyniki wyszukiwania "</string>
     <string name="search_tabs_name_all">Wszystko</string>
@@ -931,6 +934,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="shortcut_name_title">Nazwij skrót folderu</string>
     <string name="show_elided">▶ Pokaż cytowany tekst</string>
     <string name="show_images">Pobierz i pokaż obrazy</string>
+    <string name="show_more_attachment">Więcej załączników</string>
     <string name="show_password">Pokaż hasło</string>
     <string name="signature">"
 
@@ -1012,7 +1016,7 @@ Usunąć konto?"</string>
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
     <string name="update_to_wps_mail">Więcej możliwości z Pocztą WPS</string>
     <string name="updated_at">Ostatnia aktualizacja: %1$s</string>
-    <string name="upload_log">Wyślij raport z diagnostyki</string>
+    <string name="upload_log">Wyślij raport</string>
     <string name="upload_log_failed">Nie udało się wysłać raportu</string>
     <string name="upload_log_no">Anuluj</string>
     <string name="upload_log_success">Pomyślnie wysłany, odpowiemy wkrótce.</string>
@@ -1061,19 +1065,21 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="output_to_disk">Zapisz logi do pliku</string>
   <string name="request_copy_db_to_disk">Mail prosi o skopiowanie bazy danych do pliku</string>
   <string name="three_day">Trzy dni</string>
-  <string name="account_setup_failed_auth_required">"Metody identyfikacji nie są wspierane przez serwer."</string>
-  <string name="login_mail">Zaloguj się na pocztę e-mail</string>
-  <string name="need_get_qq_mail">Potrzeba QQ Mail</string>
+  <string name="account_setup_failed_auth_required">"Ta metoda autoryzacji nie jest wspierana przez serwer."</string>
+  <string name="login_mail">Zaloguj się</string>
+  <string name="need_get_qq_mail">Wymagane QQ Mail</string>
   <string name="open_notification_kingagent">Open the notice of the burial point</string>
-  <string name="optimization_suggestion">Sugestia optymalizacji</string>
+  <string name="optimization_suggestion">Sugestie dot. optymalizacji</string>
   <string name="others_mail">Inne</string>
-  <string name="others_mail_des">(Konwertuje ponad 60,0000 maili)</string>
-  <string name="qq_authorization_help_get">Pomóż mi uzyskać</string>
-  <string name="qq_authorization_know">Zrozumienie kodu autoryzacji</string>
-  <string name="qq_authorization_tips">Nie przypominaj więcej</string>
-  <string name="qq_verify_code">(Potrzeba kodu weryfikacyjnego QQ)</string>
+  <string name="others_mail_des">(Kompatybilne z 600K usługami poczty)</string>
+  <string name="qq_authorization_help_get">Uzyskaj kod</string>
+  <string name="qq_authorization_know">O kodzie</string>
+  <string name="qq_authorization_tips">Nie pokazuj ponownie</string>
+  <string name="qq_verify_code">(Wymagany kod weryfikacyjny QQ)</string>
   <string name="title_activity_about">O</string>
   <string name="verify_code">Kod weryfikacyjny</string>
   <string name="version_string">Wersja: %s</string>
   <string name="wps_title">Poczta WPS</string>
+  <string name="chinese">Chińskie</string>
+  <string name="mail_search_lab">pasek wyszukiwania</string>
 </resources>
