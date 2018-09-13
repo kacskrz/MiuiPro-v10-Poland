@@ -44,11 +44,11 @@
         <item>Babcia (ze strony matki)</item>
     </string-array>
     <string-array name="card_last_week_day">
-     <item>Ostatni poniedziałek</item>
-     <item>Ostatni wtorek</item>
-     <item>Ostatnia środa</item>
-     <item>Ostatni czwartek</item>
-     <item>Ostatni piątek</item>
+     <item>Poprzedni poniedziałek</item>
+     <item>Poprzedni wtorek</item>
+     <item>Poprzednia środa</item>
+     <item>Poprzedni czwartek</item>
+     <item>Poprzedni piątek</item>
     </string-array>
   <string-array name="holiday_last_year">
      <item>"Ostatni Nowy Rok"</item>
@@ -67,18 +67,18 @@
      <item>Święta Bożego Narodzenia przez lata</item>
   </string-array>
   <string-array name="month_last_year">
-     <item>Ostatni styczeń</item>
-     <item>Ostatni luty</item>
-     <item>Ostatni marzec</item>
-     <item>Ostatni kwiecień</item>
-     <item>Ostatni maj</item>
-     <item>Ostatni czerwiec</item>
-     <item>Ostatni lipiec</item>
-     <item>Ostatni sierpień</item>
-     <item>Ostatni wrzesień</item>
-     <item>Ostatni październik</item>
-     <item>Ostatni listopad</item>
-     <item>Ostatni grudzień</item>
+     <item>Poprzedni styczeń</item>
+     <item>Poprzedni luty</item>
+     <item>Poprzedni marzec</item>
+     <item>Poprzedni kwiecień</item>
+     <item>Poprzedni maj</item>
+     <item>Poprzedni czerwiec</item>
+     <item>Poprzedni lipiec</item>
+     <item>Poprzedni sierpień</item>
+     <item>Poprzedni wrzesień</item>
+     <item>Poprzedni październik</item>
+     <item>Poprzedni listopad</item>
+     <item>Poprzedni grudzień</item>
   </string-array>
   <string-array name="month_past_year">
      <item>Wspomnienia ze stycznia</item>
