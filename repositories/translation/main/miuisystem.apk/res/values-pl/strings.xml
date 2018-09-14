@@ -146,4 +146,8 @@
   <string name="yellow_page_unable_send_sms">Nie można wysłać SMS</string>
   <string name="cowboy">Kowboj</string>
   <string name="icelatte">Ice latte</string>
+  <string name="group_name_contacts">Kontakty</string>
+  <string name="group_name_coworkers">Koledzy</string>
+  <string name="group_name_family">Rodzina</string>
+  <string name="group_name_friends">Przyjaciele</string>
 </resources>
