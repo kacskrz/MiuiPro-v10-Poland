@@ -2375,4 +2375,6 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
 Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - zresetowane."</string>
   <string name="device_manager_apply_step_3">Upewnij się, że rozumiesz wszystkie potencjalne ryzyka przed podjęciem tego działania. Aktywować administrację urządzeniem dla tej aplikacji?</string>
   <string name="first_aid_result_summary_not_finished">"Skanowanie nie zostało ukończone. Część problemów mogła zostać niewykryta."</string>
+  <string name="card_main_deepclean_whatsapp_title">Czyszczenie WhatsApp</string>
+  <string name="card_main_hwtest_title">Test sprzętu</string>
 </resources>

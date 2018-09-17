@@ -172,4 +172,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="msg_alert_restore_error">Nie udało się przywrócić elementów z Chmury Xiaomi, spróbuj ponownie.</string>
    <string name="title_alert_cancel_restore">Zatrzymanie przywracania</string>
    <string name="title_alert_restore_error">Nie udało się przywrócić</string>
+   <string name="error_retry_later">Próba nieudana, spróbuj ponownie później.</string>
+   <string name="home_hint_other_launcher">Inny launcher</string>
+   <string name="unsupported_home">Zaktualizuj system do najnowszej wersji.</string>
 </resources>
