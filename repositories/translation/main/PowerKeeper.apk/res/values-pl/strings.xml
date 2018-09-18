@@ -95,4 +95,6 @@
     <string name="about_extreme_mode">Ekstremalne oszczędzanie</string>
     <string name="extreme_mode_max_item_alert">Możesz wybrać do 4 aplikacji mogących uruchamiać się w tle w trybie ekstremalnego oszczędzania</string>
     <string name="message_i_know">Rozumiem</string>
+    <string name="high_temp_state">Wysoka temperatura</string>
+    <string name="high_temp_state_message">Ochrona przed wysoką temperaturą - dane, Wi-Fi, GPS, aparat itd. będą ograniczone</string>
 </resources>

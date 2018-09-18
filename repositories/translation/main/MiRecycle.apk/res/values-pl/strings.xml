@@ -28,7 +28,7 @@
   <string name="btn_text_otp_on_call">OTP on Call</string>
   <string name="btn_text_resend_otp">Wyślij ponownie OTP</string>
   <string name="btn_text_retry">Spróbuj ponownie</string>
-  <string name="buy_action_description">Sprzedane przez : ONEASSIT</string>
+  <string name="buy_action_description">Sprzedawane przez: ONEASSIT</string>
   <string name="buy_action_title">Ochrona Mi</string>
   <string name="buy_claim_end">"
 z Ochroną Mi"</string>
@@ -60,9 +60,9 @@ accidental damage to your smartphone"</string>
   <string name="city">Miasto</string>
   <string name="comment_leave_us_a_comment">leave us a comment</string>
   <string name="confirm_account_no">Confirm Account No.</string>
-  <string name="cs_buy_privacy_content">Xiaomi will send Cashify activation time of your device to secure you a better offer. The service is provided by Cashify. All related liability shall be borne by Cashify. Contact Cashify if you have any questions.</string>
-  <string name="cs_buy_privacy_description">Tapping Continue signifies that you agree to Terms and Conditions provided by &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href="https://www.cashify.in/privacy-policy"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Cashify&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
-  <string name="cs_buy_unsupport_content">Unsupported device type or rooted device.</string>
+  <string name="cs_buy_privacy_content">Xiaomi wyśle ​​czas aktywacji Cashify twojego urządzenia, aby zapewnić ci lepszą ofertę. Usługa jest świadczona przez Cashify. Wszystkie związane z tym zobowiązania są ponoszone przez Cashify. Jeśli masz jakieś pytania, skontaktuj się z Cashify.</string>
+  <string name="cs_buy_privacy_description">Kliknięcie przycisku Kontynuuj oznacza, że zgadzasz się na Warunki użytkowania dostarczone przez &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; i &lt;a href="https://www.cashify.in/privacy-policy"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Cashify&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
+  <string name="cs_buy_unsupport_content">Urządzenie jest zrootowane bądź niewspierane.</string>
   <string name="customer_care">Customer Support</string>
   <string name="customer_order_pick_confirmation">An expert will pickup your device and make payment.</string>
   <string name="default_error_msg">Coś poszło nie tak!</string>
@@ -70,8 +70,8 @@ accidental damage to your smartphone"</string>
   <string name="device_processor">Procesor</string>
   <string name="device_resolution">Rozdzielczość</string>
   <string name="dialog_button_update">Aktualizacja</string>
-  <string name="dialog_content_stop">"Stop hardware test before it's finished?"</string>
-  <string name="dialog_content_update">Please try again after update.</string>
+  <string name="dialog_content_stop">"Zatrzymać test sprzętu przed jego zakończeniem?"</string>
+  <string name="dialog_content_update">Spróbuj ponownie po aktualizacji.</string>
   <string name="done_claim_ps">*Customer is required to pay the Excess chares as per the program Terms and conditions</string>
   <string name="done_download_invoice">&lt;u&gt;Download invoice&lt;/u&gt;</string>
   <string name="done_how_claim">How to make claim?</string>
@@ -117,11 +117,11 @@ Damaged Device from your doorstep"</string>
   <string name="instant_bank_transfer">Natychmiastowy przelew</string>
   <string name="insurance_button">Ubezpieczenie</string>
   <string name="insurance_description">Ubezpieczenie zapewnia dodatkowe pokrycie kosztów naprawy</string>
-  <string name="insurance_entrance">Ochrona Mi - ochrona słuchawek</string>
+  <string name="insurance_entrance">Ochrona Mi - dodatkowe wsparcie</string>
   <string name="item_name_battery">Bateria</string>
   <string name="item_name_bluetooth">Bluetooth</string>
   <string name="item_name_frontcamera">Przedni aparat</string>
-  <string name="item_name_rearcamera">Aparat</string>
+  <string name="item_name_rearcamera">Główny aparat</string>
   <string name="item_name_sensors">Sensory</string>
   <string name="item_name_vibration">Wibracja</string>
   <string name="item_name_wifi">Wi-Fi</string>
@@ -138,9 +138,9 @@ Damaged Device from your doorstep"</string>
   <string name="msg_empty_cancel_reason">Wybierz powód anulowania</string>
   <string name="network_error_msg">Wystąpił błąd sieci lub jest ona za wolna. Spróbuj ponownie.</string>
   <string name="network_unaccessable">Brak dostępu do sieci. Włącz ją</string>
-  <string name="oa_buy_privacy_content">Xiaomi will send OneAssist activation time of your device to secure you a better offer. The service is provided by OneAssist. All related liability shall be borne by OneAssist. Contact OneAssist if you have any questions.</string>
-  <string name="oa_buy_privacy_description">Tapping Continue signifies that you agree to Terms and Conditions provided by &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href="https://oneassist.in/privacypolicy/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
-  <string name="oa_buy_unsupport_content">The device has exceeded the valid purchase date or unsupported phone type.</string>
+  <string name="oa_buy_privacy_content">Xiaomi wyśle ​​czas aktywacji OneAssist dla twojego urządzenia, aby zapewnić ci lepszą ofertę. Usługa jest świadczona przez OneAssist. Wszelkie związane z tym koszty ponosi OneAssist. Jeśli masz jakieś pytania, skontaktuj się z OneAssist.</string>
+  <string name="oa_buy_privacy_description">Kliknięcie przycisku Kontynuuj oznacza, że zgadzasz się na Warunki użytkowania dostarczane przez &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; i &lt;a href="https://oneassist.in/privacypolicy/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
+  <string name="oa_buy_unsupport_content">Urządzenie przekroczyło prawidłową datę zakupu lub dany typ telefonu jest nieobsługiwany.</string>
   <string name="oainfo_buynow">Kup teraz</string>
   <string name="oainfo_guard">Gwarantowane</string>
   <string name="oainfo_wait_activation">Oczekiwanie na aktywację</string>
@@ -157,7 +157,7 @@ Damaged Device from your doorstep"</string>
   <string name="push_ht_title">Sprawdź nową opcję w Panelu Sterowania</string>
   <string name="push_oa_content">Safeguard your device using extended warranty</string>
   <string name="push_oa_title">Ochrona Mi</string>
-  <string name="quote_upto_price">Awesome! Your device is still in good condition and values a lot. Get up to Rs. %s</string>
+  <string name="quote_upto_price">Świetnie! Twoje urządzenie jest ciągle w dobrym stanie i ma sporą wartość. Uzyskaj do Rs. %s</string>
   <string name="recycle_button">Recykling</string>
   <string name="recycle_description">Uzyskaj pieniądze, oddając stary telefon do recyklingu</string>
   <string name="recycle_entrance">Recykling Cashify</string>
