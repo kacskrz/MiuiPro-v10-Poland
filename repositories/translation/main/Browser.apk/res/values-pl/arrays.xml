@@ -79,4 +79,9 @@
     <item>Marznący deszcz</item>
     <item />
   </string-array>
+  <string-array name="pref_tab_restore_array">
+    <item>Zawsze pytaj</item>
+    <item>Otwórz</item>
+    <item>Zamknij</item>
+  </string-array>
 </resources>

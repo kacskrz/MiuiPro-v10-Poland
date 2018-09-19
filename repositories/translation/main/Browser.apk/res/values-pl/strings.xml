@@ -130,7 +130,9 @@
   <string name="browserFrameFileErrorLabel">Błąd pliku</string>
   <string name="browserFrameFormResubmitMessage">Strona, którą próbujesz wyświetlić, zawiera już wysłane dane. Jeśli wyślesz je ponownie, wszelkie operacje wykonane przez formularz na tej stronie (np. wyszukiwanie lub zakup online) zostaną powtórzone.</string>
   <string name="browserFrameNetworkErrorLabel">Błąd połączenia</string>
+  <string name="bubble_guide_bottom_message_text">Masz %d nieprzeczytanych wiadomości</string>
   <string name="bubble_guide_logined_text">Zaloguj się, aby uzyskać szczęśliwe losowanie</string>
+  <string name="bubble_guide_portrait_message_text">Kliknij, aby zobaczyć</string>
   <string name="bubble_guide_unlogined_text">Zaloguj się, aby korzystać z przywilejów</string>
   <string name="cancel">Anuluj</string>
   <string name="cancle_sync_cloud_tabs">Anuluj synchronizację</string>
@@ -226,6 +228,8 @@
   <string name="dialog_insufficient_space_on_external">Brak miejsca na nośniku zewnętrznym</string>
   <string name="dialog_media_not_found">Nie można pobrać: nie wykryto zewnętrznego nośnika</string>
   <string name="dialog_queued_body">Plik w kolejce do pobrania.</string>
+  <string name="dialog_recovery_tabs_disc">Wykrywanie niezamkniętych stron wymaga pełnego odzyskania.</string>
+  <string name="dialog_recovery_tabs_title">Otwórz stronę przed odzyskiem</string>
   <string name="dialog_title_not_available">Nie udało się pobrać</string>
   <string name="dialog_title_queued_body">Plik nie jest jeszcze dostępny</string>
   <string name="document_download_background_btn">Pobierz w tle</string>
@@ -302,6 +306,7 @@
   <string name="error_title">Nie udało się zsynchronizować</string>
   <string name="error_unauthorized">Synchronizacja z Twoim kontem Xiaomi została wyłączona - zbyt dużo błędnych logowań.</string>
   <string name="exit">Wyjście</string>
+  <string name="exit_browser_confirmation">Dotknij ponownie, aby wrócić na pulpit</string>
   <string name="exit_browser_warning">Zamknąć przeglądarkę?</string>
   <string name="exit_fullscreen">Wyjdź z trybu pełnoekranowego</string>
   <string name="favorite">Ulubione</string>
@@ -835,6 +840,7 @@
   <string name="pref_check_security_url_summary_international">Zezwól przeglądarce na dostęp do URLi serwisów, które odwiedzasz, aby otrzymywać bardziej istotne propozycje.</string>
   <string name="pref_check_security_url_title">Sprawdź bezpieczeństwo adresu</string>
   <string name="pref_check_security_url_title_international">Pobierz URL</string>
+  <string name="pref_checkbox_tab_restore">Zapamiętaj tą opcję (możesz ją zmienić w Zaawansowanych ustawieniach)</string>
   <string name="pref_clear_adblock_statistics">Wyczyść statystyki blokowania</string>
   <string name="pref_clear_adblock_statistics_dlg">Wyczyścić licznik zablokowanych reklam?</string>
   <string name="pref_clear_all_data_dlg">Wyczyścić wszystkie zapisane powyżej dane?</string>
@@ -920,6 +926,8 @@
   <string name="pref_security_show_security_warning_summary">Pokaż ostrzeżenie jeśli zostanie wykryty problem z bezpieczeństwem witryny</string>
   <string name="pref_set_homepage_to">Ustaw jako</string>
   <string name="pref_setting_title">Ustawienia strony</string>
+  <string name="pref_slide_back_forward">Przesuń w tył lub do przodu</string>
+  <string name="pref_tab_restore">Przywróć ostatnio otwartą stronę przy starcie</string>
   <string name="pref_ua_string">Tryb user agenta</string>
   <string name="pref_version_info">Informacje o wersji</string>
   <string name="pref_volume_key_action">Przewijaj strony przyciskami głośności</string>
@@ -1045,6 +1053,7 @@
   <string name="signed_in">Zameldowano się</string>
   <string name="skip_button_label">Pomiń</string>
   <string name="skip_current_version">Pomiń wersję</string>
+  <string name="slide_guide">Przesuń, aby powrócić</string>
   <string name="snapshot">Lokalne</string>
   <string name="snapshot_failed">Nie udało się zapisać strony</string>
   <string name="snapshot_successed">Otwórz Zakładki/Historia-&gt;LOCAL, aby wyświetlić stronę</string>
