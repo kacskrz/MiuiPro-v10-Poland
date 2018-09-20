@@ -142,7 +142,7 @@
     <string name="account_setup_options_mail_window_auto">Automatycznie</string>
     <string name="account_setup_options_mail_window_default">Użyj wartości domyślnej konta</string>
     <string name="account_setup_options_mail_window_label">Okres synchronizacji</string>
-    <string name="account_setup_options_mail_window_label_imap_or_pop3">Zachowaj przez</string>
+    <string name="account_setup_options_mail_window_label_imap_or_pop3">Okres przechowywania wiadomości</string>
     <string name="account_setup_options_title">Ustawienia konta</string>
     <string name="account_setup_outgoing_port_label">Port</string>
     <string name="account_setup_outgoing_require_login_label">Musisz się zalogować</string>
