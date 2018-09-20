@@ -516,7 +516,7 @@ w Trybie portretowym"</string>
   <string name="accessibility_intent_done_retry">Zrób ponownie</string>
   <string name="view_privacy_policy">Pokaż politykę prywatności</string>
   <string name="capture_back_pressed_hint">Dotknij ponownie, by wyjść</string>
-  <string name="fps960_toast">Nagrywanie w zwolnionym tempie zacznie się, gdy licznik osiągnie białą kropkę</string>
+  <string name="fps960_toast">Nagrywanie w zwolnionym tempie zacznie się w ostatnich 15 sekundach nagrania</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Wypróbuj Tryb portretowy.
 Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
 </resources>

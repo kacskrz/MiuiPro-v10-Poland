@@ -9,6 +9,13 @@
         <item>Ten i przyszłe wydarzenia</item>
         <item>Wszystkie wydarzenia</item>
     </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Brak typu wydarzenia, który chciałem utworzyć</item>
+        <item>Więcej ustawień</item>
+        <item>Nie można ustawić niektórych opcji</item>
+        <item>Po prostu się rozejrzyj</item>
+        <item>"Nie powiem"</item>
+    </string-array>
     <string-array name="ordinal_labels">
         <item>pierwszy</item>
         <item>drugi</item>

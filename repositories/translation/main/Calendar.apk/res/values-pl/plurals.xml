@@ -130,4 +130,9 @@
         <item quantity="one">%d dzień roboczy</item>
         <item quantity="few">%d dni robocze</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Możesz ustawić %d przypomnień</item>
+        <item quantity="one">Możesz ustawić %d przypomnienie</item>
+        <item quantity="few">Możesz ustawić %d przypomnienia</item>
+    </plurals>
 </resources>

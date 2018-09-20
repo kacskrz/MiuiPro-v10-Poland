@@ -456,4 +456,5 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="login_failed_toast">"Nie udało się zalogować, odśwież i spróbuj ponownie"</string>
     <string name="talk_back_month">Miesiąc</string>
     <string name="talk_back_setting">Ustawienia</string>
+    <string name="edit_event_dislike_title">Dlaczego to anulowałeś?</string>
 </resources>
