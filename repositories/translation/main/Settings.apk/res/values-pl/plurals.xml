@@ -410,4 +410,8 @@
         <item quantity="other">Po %1$d kliknięciach będziesz mógł uzyskać log modemu</item>
         <item quantity="one">Po %1$d kliknięciu będziesz mógł uzyskać log modemu</item>
     </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Nie dodano %d gier"</item>
+        <item quantity="one">"Nie dodano %d gry"</item>
+    </plurals>
 </resources>
