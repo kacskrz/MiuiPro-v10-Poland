@@ -6,7 +6,7 @@
   <string name="ac_firstUseApplock_title">Ustaw hasło, aby chronić swoje aplikacje</string>
   <string name="ac_mask_all_apps">Ukryj dla wszystkich aplikacji</string>
   <string name="ac_notification_contentText">Dotknij, aby włączyć</string>
-  <string name="ac_notification_contentTitle">Chroń aplikacje, za pomocą Blokowania aplikacji</string>
+  <string name="ac_notification_contentTitle">Chroń aplikacje za pomocą Blokowania aplikacji</string>
   <string name="ac_post_notification_contentText">Uzyskaj ochronę na poziomie systemu</string>
   <string name="ac_post_notification_contentTitle">Włącz Blokowanie aplikacji</string>
   <string name="ac_pre_notification_contentText">Chroń swoje informacje osobiste</string>
