@@ -493,7 +493,7 @@
   <string name="dock_forced_resizable">Aplikacja może nie działać na Podzielonym ekranie</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Podzielony ekran nie jest obsługiwany na ekranie blokady.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacja nie obsługuje Podzielonego ekranu</string>
-  <string name="drag_to_add_tiles">Przeciągnij, aby dodać przełączniki</string>
+  <string name="drag_to_add_tiles">Dotknij i przytrzymaj, by dodać bądź zmienić elementy</string>
   <string name="drag_to_remove_tiles">Przeciągnij tu, aby usunąć</string>
   <string name="drive_mode_tip">Jesteś w trybie samochodowym</string>
   <string name="drive_mode_tip_idle">Dotknij, by wyjść z trybu samochodowego</string>
@@ -1191,6 +1191,7 @@
   <string name="quick_settings_sync_label">Synchronizacja</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_time_label">Czas</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Aby dodać dany element, przytrzymaj go, a następnie przenieś do wyższej części panelu.</string>
   <string name="quick_settings_user_label">Ja</string>
   <string name="quick_settings_user_new_user">Nowy użytkownik</string>
   <string name="quick_settings_user_title">Użytkownik</string>
@@ -1218,7 +1219,7 @@
   <string name="recents_accessibility_split_screen_top">Podzielony ekran na górze</string>
   <string name="recents_app_info_button_label">Informacje o aplikacji</string>
   <string name="recents_caption_resize">Wybierz nowy wygląd zadań</string>
-  <string name="recents_drag_hint_message">Przeciągnij elementy tutaj</string>
+  <string name="recents_drag_hint_message">Dotknij i przytrzymaj aplikację, a następnie przeciągnij ją tutaj.</string>
   <string name="recents_empty_message">Brak ostatnich elementów</string>
   <string name="recents_empty_message_dismissed_all">Usunąłeś wszystkie elementy</string>
   <string name="recents_empty_message_multi_window">Otwórz aplikacje z Ekranu głównego</string>

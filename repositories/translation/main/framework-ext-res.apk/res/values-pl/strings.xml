@@ -119,6 +119,7 @@
   <string name="screenshot_gesture_detect_alert_title">Zrzut ekranu trzema palcami</string>
   <string name="security_permission_denied_text">Odmowa dostępu</string>
   <string name="security_permission_failed_text">Wystąpił błąd, spróbuj ponownie później</string>
+  <string name="security_permission_network_failed_text">"Nie można połączyć się z siecią. Sprawdź swoje ustawienia sieciowe i spróbuj ponownie."</string>
   <string name="security_permission_validate_warning">Dziękujemy za pomoc w ulepszaniu MIUI!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi oraz dane mobilne są włączone</string>
   <string name="security_permission_xiaomi_account_missed_text">Wpisz nazwę użytkownika konta Xiaomi</string>

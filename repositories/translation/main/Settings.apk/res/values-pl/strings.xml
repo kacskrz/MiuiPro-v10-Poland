@@ -1779,6 +1779,7 @@
   <string name="fingerprint_manage_tittle">Odcisk palca</string>
   <string name="fingerprint_not_identified_msg">Nie udało się odczytać odcisku palca. Wpisz swoje hasło</string>
   <string name="fingerprint_not_recognized">Nie rozpoznano odcisku palca.</string>
+  <string name="fingerprint_others_title">Inne</string>
   <string name="fingerprint_payment">Płatności odciskiem palca</string>
   <string name="fingerprint_removal_failed">Nie udało sie usunąć odcisku palca. Spróbuj ponownie później</string>
   <string name="fingerprint_swipe_for_notifications_summary">Aby sprawdzić powiadomienia, przesuń palcem w dół na czytniku linii papilarnych z tyłu telefonu.</string>
@@ -1956,6 +1957,11 @@
   <string name="gxzw_add_fingerprint_put_finger_message">Naciśnij ekran i unieś palec po odczuciu wibracji. Powtórz tą czynność kilkukrotnie.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Naciśnij i podnieś po zawibrowaniu</string>
   <string name="gxzw_add_fingerprint_title">Dodaj swój odcisk palca</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metal</string>
+  <string name="gxzw_anim_pulse">Puls</string>
+  <string name="gxzw_anim_rhythm">Rytm</string>
+  <string name="gxzw_anim_title">Animacja odcisku palca</string>
   <string name="handy_mode">Tryb jednoręczny</string>
   <string name="handy_mode_enable">Tryb jednoręczny</string>
   <string name="handy_mode_size">Rozmiar ekranu</string>
@@ -2344,7 +2350,7 @@
   <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN do Drugiej przestrzeni.
 Musi on zawierać tyle samo cyfr,
 co PIN z Pierwszej przestrzeni."</string>
-  <string name="lockpassword_choose_your_pin_title">Wprowadź od 4 do 16 znaków</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Wprowadź od %d do %d znaków</string>
   <string name="lockpassword_confirm_for_second_user">Potwierdź swoje hasło do Drugiej przestrzeni</string>
   <string name="lockpassword_confirm_passwords_dont_match">Hasła nie pasują</string>
   <string name="lockpassword_confirm_pins_dont_match">Kody PIN nie są takie same</string>
@@ -4714,7 +4720,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="unlock_set_unlock_password_title">Hasło</string>
   <string name="unlock_set_unlock_pattern_summary">Narysuj prosty wzór palcami, aby odblokować urządzenie</string>
   <string name="unlock_set_unlock_pattern_title">Wzór</string>
-  <string name="unlock_set_unlock_pin_summary">Wprowadź od 4 do 16 cyfr, aby odblokować urządzenie</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Wprowadź od %d do %d cyfr, aby odblokować urządzenie</string>
   <string name="unlock_set_unlock_pin_title">Kod PIN</string>
   <string name="unlock_set_unlock_summary">Ustaw ekran blokady</string>
   <string name="unlock_setup_wizard_fingerprint_details">Po ustawieniu blokady ekranu możesz też skonfigurować rozpoznawanie odcisku palca. Kliknij Ustawienia &gt; Zabezpieczenia.</string>

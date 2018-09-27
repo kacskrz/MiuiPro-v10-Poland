@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="angle">deg</string>
   <string name="app_name">Kalkulator</string>
@@ -181,6 +181,7 @@
   <string name="negDesc">Przełącz między temperaturami poniżej i powyżej zera</string>
   <string name="network_confirm_content">Przelicznik walut, kalkulator podatku oraz zadłużenia wymagają połączenia z internetem oraz dostępu do lokalizacji, do poprawnego działania.</string>
   <string name="network_confirm_title">Wymagane uprawnienia</string>
+  <string name="not_supported_due_to_language">Ta funkcja jest dostępna tylko w języku chińskim</string>
   <string name="percentage">%</string>
   <string name="percentDesc">procent</string>
   <string name="pi">π</string>
