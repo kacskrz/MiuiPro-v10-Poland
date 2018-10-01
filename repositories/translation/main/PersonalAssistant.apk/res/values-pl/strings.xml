@@ -81,7 +81,8 @@
   <string name="ball_hupu">HuPu Sports</string>
   <string name="ball_net_errot">Nie udało się połączyć z siecią.</string>
   <string name="ball_recent_no_data">Brak informacji o nadchodzących meczach.</string>
-  <string name="beijing">Beijing</string>
+  <string name="battery_history">Bateria</string>
+  <string name="beijing">Pekin</string>
   <string name="bicycle">Na rowerze</string>
   <string name="book_assistant">Book a trip</string>
   <string name="book_assistant_empty">No bookings yet.</string>
