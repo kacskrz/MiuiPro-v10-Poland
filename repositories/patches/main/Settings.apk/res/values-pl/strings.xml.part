@@ -185,4 +185,7 @@
     <string name="not_allowed_set">niedozwolone</string>
     <string name="no_neighboring_cells">brak sąsiednich komórek</string>
     <string name="app_assistant_title">Przycisk asystenta głosowego</string>
+	<string name="icon_setnet_title">Ikony zasięgu sieci (przy 2 kartach SIM)</string>
+	<string name="icon_setnet_on">Pionowo</string>
+	<string name="icon_setnet_off">Poziomo</string>
 </resources>
