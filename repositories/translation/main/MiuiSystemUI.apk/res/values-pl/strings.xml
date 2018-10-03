@@ -272,7 +272,7 @@
   <string name="battery_info_status_full">Pełna</string>
   <string name="battery_info_status_not_charging">Nie ładuje</string>
   <string name="battery_info_status_unknown">Nieznany</string>
-  <string name="battery_low_percent_format">%d%% pozostało</string>
+  <string name="battery_low_percent_format">Pozostało %d%%</string>
   <string name="battery_low_percent_format_saver_started">%s pozostało. Oszczędzanie baterii jest włączone.</string>
   <string name="battery_low_title">Podłącz ładowarkę</string>
   <string name="battery_low_why">Ustawienia</string>
