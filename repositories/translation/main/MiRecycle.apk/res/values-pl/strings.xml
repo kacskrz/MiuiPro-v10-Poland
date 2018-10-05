@@ -126,8 +126,8 @@ Damaged Device from your doorstep"</string>
   <string name="item_name_vibration">Wibracja</string>
   <string name="item_name_wifi">Wi-Fi</string>
   <string name="item_result_canceled">Anulowane</string>
-  <string name="item_result_fail">Nienormalne</string>
-  <string name="item_result_pass">Dobre</string>
+  <string name="item_result_fail">Nie działa</string>
+  <string name="item_result_pass">OK</string>
   <string name="item_result_refused">Odrzucone</string>
   <string name="item_testing_completed">zakończone</string>
   <string name="label_my_order">Moje zamówienie</string>
