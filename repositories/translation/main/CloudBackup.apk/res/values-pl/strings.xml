@@ -31,10 +31,10 @@
     <string name="cloud_back_up_share_activity_discription">Dodaj więcej przestrzeni dyskowej, codziennych kopii zapasowych i innych.</string>
     <string name="cloud_back_up_share_activity_confirm">Aktualizuj</string>
     <string name="cloud_back_up_detail_discription">Kopia w Chmurze Xiaomi będzie wykonywana przy połączeniu Wi-Fi dla: 
-*\u0009\u0009Aplikacji, wyglądu ekranu głównego i tapet 
-*\u0009\u0009Alarmów, zegara i ustawień 
-*\u0009\u0009Ustawień powiadomień 
-*\u0009\u0009Ustawień MIUI i systemu 
+* Aplikacji, wyglądu ekranu głównego i tapet 
+* Alarmów, zegara i ustawień 
+* Ustawień powiadomień 
+* Ustawień MIUI i systemu 
 Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</string>
     <string name="cloud_app_no_data">Brak kopii zapasowych</string>
     <string name="cloud_app_restore_error">Nie udało się przywrócić</string>
@@ -175,4 +175,9 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="error_retry_later">Próba nieudana, spróbuj ponownie później.</string>
    <string name="home_hint_other_launcher">Inny launcher</string>
    <string name="unsupported_home">Zaktualizuj system do najnowszej wersji.</string>
+   <string name="load_backup_failed">Nie udało się załadować kopii</string>
+   <string name="loading_user_backup">Ładowanie kopii użytkownika…</string>
+   <string name="main_space">Główna przestrzeń</string>
+   <string name="second_space">Druga przestrzeń</string>
+   <string name="try_continue">Dotknij, aby kontynuować</string>
 </resources>

@@ -162,6 +162,7 @@
     <string name="add_account_keywords">Dodaj konto;dodaj konto pocztowe</string>
     <string name="add_attachment">Dodaj załącznik</string>
     <string name="add_calendar">Przypomnij</string>
+    <string name="add_file_exception">Dodaj wyjątek. Spróbuj go dodać z innych ścieżek.</string>
     <string name="add_label">Dodaj folder</string>
     <string name="add_pre_message_attachments">Dodać załączniki do szkicu?</string>
     <string name="add_pre_message_attachments_no">Nie dodawaj</string>

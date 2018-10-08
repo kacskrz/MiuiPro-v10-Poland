@@ -519,4 +519,6 @@ w Trybie portretowym"</string>
   <string name="fps960_toast">Nagrywanie w zwolnionym tempie zacznie się w ostatnich 15 sekundach nagrania</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Wypróbuj Tryb portretowy.
 Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
+  <string name="close_back_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
+  <string name="close_front_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
 </resources>

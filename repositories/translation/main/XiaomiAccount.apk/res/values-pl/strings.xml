@@ -8,7 +8,7 @@
     <string name="passport_login">Zaloguj</string>
     <string name="passport_relogin">Zaloguj się ponownie</string>
     <string name="passport_skip_login">Pomiń</string>
-    <string name="passport_skip_setup_account_title">Pomiń konfigurację</string>
+    <string name="passport_skip_setup_account_title">"Nie używasz konta Xiaomi?"</string>
     <string name="passport_skip_setup_account_msg">Konto Xiaomi będzie można skonfigurować później w Ustawieniach.</string>
     <string name="passport_confirm_login">Kontynuuj</string>
     <string name="passport_find_password_on_web_msg">Przejdź na account.mi.com aby odzyskać hasło.</string>

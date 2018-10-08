@@ -1422,4 +1422,7 @@
   <string name="popup_window_default_title">Okno popup</string>
   <string name="usb_unsupported_audio_accessory_message">Podłączone urządzenie jest niekompatybilne z tym urządzeniem. Dotknij, aby dowiedzieć się więcej.</string>
   <string name="usb_unsupported_audio_accessory_title">Wykryto analogowe akcesorium audio</string>
+  <string name="notification_description">Stan rozmowy głosowej</string>
+  <string name="status_communication_speaker_summary">Trwa rozmowa telefoniczna. Dźwięk będzie nadal odtwarzany przez głośnik po podłączeniu słuchawek.</string>
+  <string name="status_communication_summary">Trwa połączenie. Obecnie możesz tylko zmienić poziom jego głośności.</string>
 </resources>
