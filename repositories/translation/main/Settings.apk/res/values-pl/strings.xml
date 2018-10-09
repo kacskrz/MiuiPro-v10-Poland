@@ -5836,7 +5836,7 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="dangerous_option">Opcje programistyczne dużego ryzyka</string>
   <string name="dangerous_option_hint">%1$s jest włączone. Dotknij, aby zmienić to ustawienie.</string>
   <string name="dangerous_option_hint_title">Włączona jest ryzykowna funkcja</string>
-  <string name="gxzw_dialog_message">"Aby móc normalnie używać czytnika linii papilarnych, nie używaj szkieł ani innej ochrony ekranu. Jeśli uważasz, że nadal jest konieczne zabezpieczenie ekranu, wybierz coś spośród kompatybilnych z czytnikiem opcji."</string>
+  <string name="gxzw_dialog_message">"Czytnik linii papilarnych wbudowany w ekran działa najlepiej bez dodatkowej ochrony ekranu, takiej jak szkła hartowane czy folie. Jeśli nadal chcesz zabezpieczyć ekran, korzystaj tylko z najwyższej jakości akcesoriów."</string>
   <string name="gxzw_dialog_not_show_again">"Nie pokazuj ponownie"</string>
   <string name="gxzw_dialog_ok">Rozumiem</string>
   <string name="gxzw_dialog_title">O czytniku linii papilarnych w ekranie</string>
