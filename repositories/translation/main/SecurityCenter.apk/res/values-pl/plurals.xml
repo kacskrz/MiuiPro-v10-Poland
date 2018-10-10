@@ -162,10 +162,10 @@
     <item quantity="many">%d zagrożeń,</item>
   </plurals>
   <plurals name="hints_handle_item_text_virus_number">
-    <item quantity="other">%d trojanów,</item>
-    <item quantity="one">%d trojan,</item>
-    <item quantity="few">%d trojany,</item>
-    <item quantity="many">%d trojanów,</item>
+    <item quantity="other">%d trojanów</item>
+    <item quantity="one">%d trojan</item>
+    <item quantity="few">%d trojany</item>
+    <item quantity="many">%d trojanów</item>
   </plurals>
   <plurals name="hints_permission_apps_count">
     <item quantity="other">%d aplikacji</item>

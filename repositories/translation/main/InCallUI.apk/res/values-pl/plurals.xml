@@ -12,4 +12,19 @@
         <item quantity="few">Pozostały %d minuty</item>
         <item quantity="many">Pozostało %d minut</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%d minuty</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d godzin</item>
+        <item quantity="one">1 godzina</item>
+        <item quantity="few">%d godziny</item>
+    </plurals>
 </resources>

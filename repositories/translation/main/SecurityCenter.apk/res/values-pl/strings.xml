@@ -1105,7 +1105,7 @@
   <string name="mi_service_app_detail">Szczegóły</string>
   <string name="mi_service_traffic_detail">Szczegóły usługi</string>
   <string name="mian_page_primary_txt">Roaming</string>
-  <string name="midrop_post_notification_contentText">Wypróbuj Mi Drop. Jest szybki i bez reklam.</string>
+  <string name="midrop_post_notification_contentText">Przenoś pliki z prędkością do 50MB/s w aplikacji Mi Drop.</string>
   <string name="midrop_post_notification_contentTitle">Potrzebujesz przegrać pliki?</string>
   <string name="mixed_need_to_confirm">Wprowadź ponownie, aby potwierdzić</string>
   <string name="mixed_password_confirmed_header_confirm">Pomyślnie ustawiono. Dotknij aby potwierdzić.</string>

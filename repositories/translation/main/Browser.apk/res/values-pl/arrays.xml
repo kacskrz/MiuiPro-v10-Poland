@@ -81,7 +81,7 @@
   </string-array>
   <string-array name="pref_tab_restore_array">
     <item>Zawsze pytaj</item>
-    <item>Otwórz</item>
-    <item>Zamknij</item>
+    <item>Przywróć</item>
+    <item>Nie przywracaj</item>
   </string-array>
 </resources>

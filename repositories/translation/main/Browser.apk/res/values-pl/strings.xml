@@ -228,8 +228,8 @@
   <string name="dialog_insufficient_space_on_external">Brak miejsca na nośniku zewnętrznym</string>
   <string name="dialog_media_not_found">Nie można pobrać: nie wykryto zewnętrznego nośnika</string>
   <string name="dialog_queued_body">Plik w kolejce do pobrania.</string>
-  <string name="dialog_recovery_tabs_disc">Wykrywanie niezamkniętych stron wymaga pełnego odzyskania.</string>
-  <string name="dialog_recovery_tabs_title">Otwórz stronę przed odzyskiem</string>
+  <string name="dialog_recovery_tabs_disc">Załadowanie otwartej strony z poprzedniej sesji będzie wymagać załadowania znajdujących się na niej danych.</string>
+  <string name="dialog_recovery_tabs_title">Przywrócić ostatnio otwartą stronę?</string>
   <string name="dialog_title_not_available">Nie udało się pobrać</string>
   <string name="dialog_title_queued_body">Plik nie jest jeszcze dostępny</string>
   <string name="document_download_background_btn">Pobierz w tle</string>
@@ -926,8 +926,8 @@
   <string name="pref_security_show_security_warning_summary">Pokaż ostrzeżenie jeśli zostanie wykryty problem z bezpieczeństwem witryny</string>
   <string name="pref_set_homepage_to">Ustaw jako</string>
   <string name="pref_setting_title">Ustawienia strony</string>
-  <string name="pref_slide_back_forward">Przesuń w tył lub do przodu</string>
-  <string name="pref_tab_restore">Przywróć ostatnio otwartą stronę przy starcie</string>
+  <string name="pref_slide_back_forward">Przesuwanie do przodu i tyłu poprzez gesty krawędzi</string>
+  <string name="pref_tab_restore">Przywracanie ostatnio otwartej strony przy starcie</string>
   <string name="pref_ua_string">Tryb user agenta</string>
   <string name="pref_version_info">Informacje o wersji</string>
   <string name="pref_volume_key_action">Przewijaj strony przyciskami głośności</string>
