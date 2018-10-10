@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ios_toggle_entries"> 
+        <item>Domyślnie</item> 
+        <item>Bluetooth i GPS</item> 
+        <item>Ikony powiadomień</item>
+  </string-array>
+</resources>
