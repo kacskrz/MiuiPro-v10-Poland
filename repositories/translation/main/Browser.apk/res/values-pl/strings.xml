@@ -228,7 +228,7 @@
   <string name="dialog_insufficient_space_on_external">Brak miejsca na nośniku zewnętrznym</string>
   <string name="dialog_media_not_found">Nie można pobrać: nie wykryto zewnętrznego nośnika</string>
   <string name="dialog_queued_body">Plik w kolejce do pobrania.</string>
-  <string name="dialog_recovery_tabs_disc">Załadowanie otwartej strony z poprzedniej sesji będzie wymagać załadowania znajdujących się na niej danych.</string>
+  <string name="dialog_recovery_tabs_disc">Wczytanie otwartej strony z poprzedniej sesji będzie wymagać załadowania znajdujących się na niej danych.</string>
   <string name="dialog_recovery_tabs_title">Przywrócić ostatnio otwartą stronę?</string>
   <string name="dialog_title_not_available">Nie udało się pobrać</string>
   <string name="dialog_title_queued_body">Plik nie jest jeszcze dostępny</string>
