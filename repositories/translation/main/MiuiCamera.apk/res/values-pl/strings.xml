@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="access_sd_fail">Nie udało się uzyskać dostępu do nośnika USB.</string>
+  <string name="accessibility_camera_lighting_close_panel">Zamknięto menu oświetlania</string>
+  <string name="accessibility_camera_lighting_open_panel">Otwarto menu oświetlania</string>
   <string name="accessibility_camera_picker">Przednia/Tylna kamera</string>
   <string name="accessibility_portrait_button">Tryb portretowy</string>
   <string name="accessibility_review_thumbnail">Ostatnie zdjęcia</string>
@@ -521,4 +523,5 @@ w Trybie portretowym"</string>
 Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="close_back_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
   <string name="close_front_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
+  <string name="lighting_pattern_null">Nic</string>
 </resources>

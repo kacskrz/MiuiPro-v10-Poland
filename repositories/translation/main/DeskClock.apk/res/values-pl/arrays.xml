@@ -109,13 +109,12 @@
         <item>Gwinea</item>
         <item>Senegal</item>
         <item>Tanzania</item>
-        <item>Republic of the Djibouti</item>
+        <item>Djibouti</item>
         <item>Sierra Leone</item>
         <item>Botswana</item>
         <item>Zimbabwe</item>
         <item>Płd. Afryka</item>
         <item>Uganda</item>
-        <item>Republika Sudanu</item>
         <item>Rwanda</item>
         <item>Demokratyczna Republika Kongo</item>
         <item>Nigeria</item>
@@ -128,7 +127,6 @@
         <item>Tunezja</item>
         <item>USA</item>
         <item>Argentyna</item>
-        <item>Aruba</item>
         <item>Paragwaj</item>
         <item>Barbados</item>
         <item>Belize</item>
@@ -147,7 +145,6 @@
         <item>Kanada</item>
         <item>El Salwador</item>
         <item>Brazylia</item>
-        <item>Turks and Caicos Islands</item>
         <item>Grenada</item>
         <item>Guatemala</item>
         <item>Gujana</item>
@@ -182,8 +179,6 @@
         <item>USA</item>
         <item>Trynidad i Tobago</item>
         <item>Haiti</item>
-        <item>Puerto Rico</item>
-        <item>Dominikana</item>
         <item>Brazylia</item>
         <item>Kanada</item>
         <item>Saint Kitts and Nevis</item>
@@ -193,7 +188,6 @@
         <item>Kanada</item>
         <item>Kanada</item>
         <item>Kanada</item>
-        <item>Antarktyda</item>
         <item>Svalbard and Jan Mayen</item>
         <item>Kazachstan</item>
         <item>Jordan</item>
@@ -213,7 +207,7 @@
         <item>Wietnam</item>
         <item>Chiny</item>
         <item>Indonezja</item>
-        <item>Izrael</item>
+        <item></item>
         <item>Afganistan</item>
         <item>Pakistan</item>
         <item>Nepal</item>
@@ -227,7 +221,6 @@
         <item>Katar</item>
         <item>Myanmar</item>
         <item>Arabia Saudyjska</item>
-        <item>Chiny</item>
         <item>Korea Płd.</item>
         <item>Chiny</item>
         <item>Singapur</item>
@@ -284,14 +277,14 @@
         <item>Czechy</item>
         <item>Łotwa</item>
         <item>Włochy</item>
-        <item>San Marino</item>
+        <item></item>
         <item>Bośnia i Hercegowina</item>
-        <item>Ukraina</item>
+        <item></item>
         <item>Macedonia</item>
         <item>Bułgaria</item>
         <item>Szwecja</item>
         <item>Estonia</item>
-        <item>Watykan</item>
+        <item></item>
         <item>Austria</item>
         <item>Litwa</item>
         <item>Polska</item>
@@ -304,11 +297,8 @@
         <item>Fiji</item>
         <item>Guam</item>
         <item>USA</item>
-        <item>Australia</item>
         <item>Nowa Kaledonia</item>
-        <item>Samoa</item>
         <item>Polynezja Francuska</item>
-        <item>Antigua i Barbuda</item>
         <item>USA</item>
         <item>USA</item>
         <item>Canada</item>

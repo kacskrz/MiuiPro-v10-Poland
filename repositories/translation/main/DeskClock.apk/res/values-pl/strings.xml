@@ -200,7 +200,7 @@
      <string name="timer_running">Minutnik jest uruchomiony</string>
      <string name="timer_running_hint">Kontynuuj</string>
      <string name="timer_start_timer">Uruchom odliczanie</string>
-     <string name="worldclock_input_hint_text">Wprowadź miasto</string>
+     <string name="worldclock_input_hint_text">Wpisz miasto lub kraj</string>
      <string name="worldclock_search_city">Wybierz miasto</string>
      <string name="worldclock_world_time">Strefy czasowe</string>
      <string name="worldcolock_timezone_current">Obecna: %1$s</string>
@@ -221,4 +221,8 @@
   <string name="other_category_title">Pozostałe</string>
   <string name="privacy_policy">Polityka prywatności</string>
   <string name="timer_created">Minutnik został utworzony</string>
+  <string name="timer_alert_mute_off">Gdy minutnik się zatrzyma, zadzwoni alarm</string>
+  <string name="timer_alert_mute_on">"Alarm nie zadzwoni, gdy minutnik się zatrzyma"</string>
+  <string name="timer_alert_mute_remind">Dotknij, by wyciszyć alarm</string>
+  <string name="timer_alert_mute_switch">Przełącz, aby wyciszać alarmy w minutniku</string>
 </resources>

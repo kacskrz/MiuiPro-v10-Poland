@@ -22,4 +22,8 @@
     <string name="abc_capital_off">WYŁ.</string>
     <string name="search_menu_title">Szukaj</string>
 	<string name="sound_file_delete">Plik dźwiękowy nie istnieje, nie można go odtworzyć!</string>
+    <string name="cit_camera_fast_check_title">Szybki test aparatu</string>
+    <string name="cit_tool_bluetooth_tx_m">Wejdź w tryb testu częst. Bluetooth BR/EDR 2.441GHz</string>
+    <string name="cit_tool_bluetooth_le_tx_4x_payload">payload:</string>
+    <string name="cit_tool_bluetooth_le_tx_50_payload">payload:</string>
 </resources>

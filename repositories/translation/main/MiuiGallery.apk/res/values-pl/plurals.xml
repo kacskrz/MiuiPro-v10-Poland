@@ -325,4 +325,8 @@
         <item quantity="one">%d element</item>
         <item quantity="few">%d elementy</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Wybierz max. %d zdjęcia</item>
+        <item quantity="one">Wybierz max. %d zdjęcie</item>
+    </plurals>
 </resources>

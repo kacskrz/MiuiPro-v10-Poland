@@ -1331,4 +1331,12 @@ aby spersonalizować Galerię"</string>
   <string name="story_remove_confirm_title">Usuwanie zdjęć</string>
   <string name="story_rename_invalid_char">"Nie można użyć \"%s\" w nazwie wspomnienia. Użyj liter i cyfr."</string>
   <string name="story_rename_invalid_prefix">"Tytuły wspomnień nie mogą zaczynać się od \".\" lub \"_\""</string>
+  <string name="collage_select_image_range">Kolaże mogą składać się z od 1 do 4 zdjęć</string>
+  <string name="frame_not_support_image_ratio">"Ta proporcja nie jest obsługiwana"</string>
+  <string name="operation_produce">Kreatywność</string>
+  <string name="photo_editor_crop_auto_tips">Przycięto automatycznie</string>
+  <string name="photo_editor_frame">Ramka</string>
+  <string name="photo_movie_select_image_range">Clipy mogą zawierać od 3 do 6 zdjęć</string>
+  <string name="select_image_operation">Dodawanie zdjęć</string>
+  <string name="unsupport_video">"%s nie działa z plikami wideo"</string>
 </resources>

@@ -718,7 +718,13 @@
   <string name="noApplications">Żadna z aplikacji nie może wykonać tej czynności.</string>
   <string name="noon">południe</string>
   <string name="Noon">Południe</string>
+  <string name="notification_channel_alerts">Alerty</string>
+  <string name="notification_channel_call_forward">Przekierowywanie połączeń</string>
   <string name="notification_channel_mobile_data_alert">Alerty danych mobilnych</string>
+  <string name="notification_channel_network_alert">Alerty</string>
+  <string name="notification_channel_sms">Wiadomości SMS</string>
+  <string name="notification_channel_voice_mail">Poczta głosowa</string>
+  <string name="notification_channel_wfc">Połączenia przez Wi-Fi</string>
   <string name="notification_hidden_by_policy_text">Treść ukryta z powodu zasad</string>
   <string name="notification_hidden_text">Nowe powiadomienie</string>
   <string name="notification_listener_binding_label">Odbiornik powiadomień</string>

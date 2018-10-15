@@ -112,4 +112,9 @@
      <item>Podsumowanie jesieni</item>
      <item>Podsumowanie zimy</item>
   </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Przenieś</item>
+        <item>Skopiuj</item>
+        <item>@string/cancel</item>
+    </string-array>
 </resources>
