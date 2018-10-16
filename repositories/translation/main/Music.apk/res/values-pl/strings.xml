@@ -1074,6 +1074,6 @@ Be Happy"</string>
   <string name="unlimited_downloads">Nielimitowane pobrania</string>
   <string name="unlimited_offline_songs">Nielimitowane utwory offline</string>
   <string name="toast_not_pro">Ta funkcja jest dostępna tylko dla osobów z pakietem PRO.</string>
-  <string name="toast_is_pro">"Jesteś już w pakiecie PRO."</string>
+  <string name="toast_is_pro">"Już korzystasz z pakietu PRO."</string>
   <string name="long_press_to_select_lyric">Dotknij i przytrzymaj, aby wybrać plik z tekstem utworu</string>
 </resources>
