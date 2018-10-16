@@ -2377,4 +2377,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="first_aid_result_summary_not_finished">"Skanowanie nie zostało ukończone. Część problemów mogła zostać niewykryta."</string>
   <string name="card_main_deepclean_whatsapp_title">Czyszczenie WhatsApp</string>
   <string name="card_main_hwtest_title">Test sprzętu</string>
+  <string name="summary_rcs_switch">Wysyłaj SMS-y do użytkowników China Mobile bez ponoszenia opłat</string>
+  <string name="title_rcs_switch">Włącz Wiadomości China Mobile</string>
 </resources>
