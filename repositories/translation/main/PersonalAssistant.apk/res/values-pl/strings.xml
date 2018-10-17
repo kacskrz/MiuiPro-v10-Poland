@@ -1032,4 +1032,6 @@
     <string name="tb_setting_xiaoai">Mi AI</string>
     <string name="express_select_send_providers">Wybierz dostawcę usług kurierskich</string>
     <string name="express_send_not_available">Usługa jest tymczasowo niedostępna, proszę spróbować później</string>
+    <string name="card_banner_close_never">Nie przypominaj ponownie</string>
+    <string name="card_banner_close_tomorrow">Przypomnij mi jutro</string>
 </resources>
