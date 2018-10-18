@@ -2379,4 +2379,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="card_main_hwtest_title">Test sprzętu</string>
   <string name="summary_rcs_switch">Wysyłaj SMS-y do użytkowników China Mobile bez ponoszenia opłat</string>
   <string name="title_rcs_switch">Włącz Wiadomości China Mobile</string>
+  <string name="gs_gamebox_slip">Przesuń ekran w dół, by otworzyć</string>
+  <string name="gamebox_app_not_find">Zainstaluj najpierw aplikację.</string>
 </resources>
