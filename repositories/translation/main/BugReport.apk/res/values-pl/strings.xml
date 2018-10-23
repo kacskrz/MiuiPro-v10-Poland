@@ -333,4 +333,33 @@
     <string name="privacy_policy_title">Polityka prywatności</string>
     <string name="tab_title_preferences">Ustawienia</string>
 	<string name="privacy_category_title">Prywatność</string>
+    <string name="catch_full_log_action_cancel">Anuluj</string>
+    <string name="catch_full_log_action_complete">Zakończ i wyślij</string>
+    <string name="catch_full_log_action_start">Wygeneruj log</string>
+    <string name="catch_full_log_add_original_photo">Dodaj zdjęcie</string>
+    <string name="catch_full_log_add_photo">Dodaj zdjęcie</string>
+    <string name="catch_full_log_add_photo_dialog_content">"Jeśli problem zgłaszany przez Ciebie dotyczy jakości zdjęć z aparatu, dodaj przykładowe, oryginalne zdjęcie (nieprzycięte), aby pomóc nam zlokalizować przyczynę tego problemu. Dodać zdjęcie teraz?"</string>
+    <string name="catch_full_log_dialog_confirm_text">Przejdź do pulpitu</string>
+    <string name="catch_full_log_dialog_content">"MIUI generuje teraz log. Może to wpłynąć na ogólną wydajność urządzenia. Jeśli nie jesteś w stanie odtworzyć problemu, który chcesz zgłosić, wróć do logów i kliknij przycisk \"Anuluj\"."</string>
+    <string name="catch_full_log_dump_hprof_failed">"Nie można wygenerować logu dot. lagów"</string>
+    <string name="catch_full_log_item_content_catch_direct">"Kroki:
+1. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
+2. Wróć do tej strony i kliknij na \"Zakończ i wyślij\"."</string>
+    <string name="catch_full_log_item_content_need_open">"Kroki:
+1. Dotknij przycisku \"Wygeneruj log\".
+2. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
+3. Wróć do tej strony i kliknij na \"Zakończ i wyślij\"."</string>
+    <string name="catch_full_log_item_title_audio">Audio, nagrywanie audio i rozmowy</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_dump_heap">Lagi</string>
+    <string name="catch_full_log_item_title_gps">Lokalizacja</string>
+    <string name="catch_full_log_item_title_sensor">Sensory</string>
+    <string name="catch_full_log_item_title_signal">Zasięg sieci</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi i Mi Drop</string>
+    <string name="catch_full_log_notification_content">Kliknij, by wrócić do logów</string>
+    <string name="catch_full_log_notification_title">Generowanie logów…</string>
+    <string name="catch_full_log_start_dump_hprof">Wygeneruj log dot. lagów</string>
+    <string name="catch_full_log_submit_directly">Wyślij</string>
+    <string name="title_catch_full_log">Logi</string>
+    <string name="toast_catch_full_log_catching">Możesz wygenerować tylko jeden log na raz.</string>
 </resources>

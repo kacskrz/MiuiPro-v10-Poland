@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -614,7 +614,11 @@
   <string name="exit_extreme_mode_dialog_agree">Zgoda</string>
   <string name="exit_extreme_mode_dialog_cancel">Anuluj</string>
   <string name="exit_extreme_mode_dialog_title">Wyłącz Ekstremalne oszczędzanie</string>
-  <string name="extreme_mode_dialog_message">"Ta funkcja nie jest dostępna w trybie Ekstremalnego oszczędzania. Wyłącz je, by móc użyć tej funkcji."</string>
+  <string name="extreme_mode_dialog_message">"Ta funkcja nie jest dostępna w trybie Ekstremalnego oszczędzania. Wyłącz ten tryb, by móc użyć tej funkcji."</string>
   <string name="extreme_mode_dialog_ok">Rozumiem</string>
   <string name="extreme_mode_dialog_title">Alert</string>
+  <string name="component_title_settings_video_wallpaper">Tapety z efektami specjalnymi</string>
+  <string name="theme_detail_tab_comment">Komentarze</string>
+  <string name="theme_detail_tab_recommend">Rekomendowane</string>
+  <string name="theme_detail_tab_theme">Motywy</string>
 </resources>

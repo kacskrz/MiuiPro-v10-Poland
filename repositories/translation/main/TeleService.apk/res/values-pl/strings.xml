@@ -1135,7 +1135,7 @@ Zostanie wybrana sieć preferowana."</string>
     <string name="answer_state_setting_title">Ustawienia połączeń przychodzących</string>
     <string name="answer_state_setting_summary">Dodatkowe opcje połączeń przychodzących</string>
     <string name="turnover_mute_title">Odwróć by wyciszyć</string>
-    <string name="turnover_mute_summary">Wycisza dzwonek przy odwróceniu telefonu</string>
+    <string name="turnover_mute_summary">Wycisza dzwonek, wyłącza wibracje i nie wyświetla diody powiadomień przy odwróceniu telefonu</string>
     <string name="handon_ringer_summary">Wycisza dzwonek po podniesieniu telefonu. Funkcja nie działa, jeśli dla połączeń przychodzących używana jest wibracja.</string>
     <string name="handon_ringer_title">Wycisz po podniesieniu</string>
     <string name="crescendo_ringer_title">Zwiększanie głośności dzwonka</string>

@@ -15,4 +15,9 @@
         <item quantity="one">%d komentarz</item>
 		<item quantity="few">%d komentarze</item>
     </plurals>
+     <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s prac</item>
+        <item quantity="one">%1$s praca</item>
+        <item quantity="few">%1$s prace</item>
+    </plurals>
 </resources>

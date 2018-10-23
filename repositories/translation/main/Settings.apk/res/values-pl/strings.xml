@@ -5845,7 +5845,7 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="device_camera">Aparat</string>
   <string name="status_bar_settings_peek_notification_icon">Pokaż ikony dla nowych powiadomień</string>
   <string name="slider_app_open">Otwórz aplikację</string>
-  <string name="slider_app_open_name">Otwórz</string>
+  <string name="slider_app_open_name">Otwórz %1$s</string>
   <string name="slider_app_open_none">Nic</string>
   <string name="slider_button_title">Zmień</string>
   <string name="slider_choose_app">Wybierz aplikację</string>
@@ -5873,4 +5873,8 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="slider_vocie_online_title">Dźwięki online</string>
   <string name="slider_voice_summary">Odtwarzaj dźwięk przy wsuwaniu bądź wysuwaniu slidera</string>
   <string name="slider_voice_title">Dźwięki</string>
+  <string name="slider_global_summary_app">Przesuń ekran w dół, aby uruchomić aplikację</string>
+  <string name="slider_global_summary_drawer">Przesuń ekran w dół, aby otworzyć narzędzia</string>
+  <string name="slider_global_summary_selfie">Przesuń ekran w dół, aby zrobić selfie</string>
+  <string name="slider_tool_none_summary">Przesunięcie ekranu nie ma przypisanej funkcji</string>
 </resources>
