@@ -522,4 +522,8 @@
     <item quantity="one">%d aplikacja może być wyświetlana nieprawidłowo. Ogranicz pływające powiadomienia.</item>
     <item quantity="few">%d aplikacje mogą być wyświetlane nieprawidłowo. Ogranicz pływające powiadomienia.</item>
   </plurals> 
+      <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Utracono %2$d%% baterii w ciągu ostatnich %1$d minut</item>
+        <item quantity="one">Utracono %2$d%% baterii w ciągu ostatniej minuty</item>
+    </plurals>
 </resources>

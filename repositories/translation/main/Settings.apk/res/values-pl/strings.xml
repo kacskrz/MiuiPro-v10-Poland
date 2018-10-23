@@ -5861,7 +5861,7 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="slider_title_jixie">Mechaniczne</string>
   <string name="slider_title_keji">Hi-tech</string>
   <string name="slider_title_lingdong">Intelekt</string>
-  <string name="slider_title_zippo">ZIPPO</string>
+  <string name="slider_title_zippo">Zapalniczka</string>
   <string name="slider_tool_drawer">Otwórz narzędzia</string>
   <string name="slider_tool_none">Nic</string>
   <string name="slider_video_tool_summary">Przesuń ekran w dół, aby wyświetlić dostępne skróty podczas oglądania wideo</string>
@@ -5873,8 +5873,9 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="slider_vocie_online_title">Dźwięki online</string>
   <string name="slider_voice_summary">Odtwarzaj dźwięk przy wsuwaniu bądź wysuwaniu slidera</string>
   <string name="slider_voice_title">Dźwięki</string>
-  <string name="slider_global_summary_app">Przesuń ekran w dół, aby uruchomić aplikację</string>
-  <string name="slider_global_summary_drawer">Przesuń ekran w dół, aby otworzyć narzędzia</string>
+  <string name="slider_global_summary_app">Przesuń ekran w dół, aby otworzyć aplikację</string>
+  <string name="slider_global_summary_drawer">Przesuń ekran w dół, aby zobaczyć dostępne skróty</string>
   <string name="slider_global_summary_selfie">Przesuń ekran w dół, aby zrobić selfie</string>
-  <string name="slider_tool_none_summary">Przesunięcie ekranu nie ma przypisanej funkcji</string>
+  <string name="slider_tool_none_summary">Nie przypisano skrótu slidera</string>
+  <string name="status_bar_settings_notification_style">Styl powiadomień</string>
 </resources>

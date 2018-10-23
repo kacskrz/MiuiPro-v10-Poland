@@ -101,4 +101,9 @@
         <item quantity="few">%d odbiorców</item>
         <item quantity="many">%d odbiorców</item>
     </plurals>
+  <plurals name="delivery_toast_body_more_plurals">
+     <item quantity="other">Wiadomość odebrana przez %1$s i %2$d innych osób</item>
+     <item quantity="one">Wiadomość odebrana przez %1$s i %2$d inną osobę</item>
+     <item quantity="few">Wiadomość odebrana przez %1$s i %2$d inne osoby</item>
+  </plurals>
 </resources>

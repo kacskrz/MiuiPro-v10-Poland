@@ -5,7 +5,7 @@
   <string name="activity_not_found_uri">Brak aplikacji do zakończenia tej akcji</string>
   <string name="add_attachment">Dodaj załączniki</string>
   <string name="add_contact">vCard</string>
-  <string name="add_miui_contact">Karta Mi</string>
+  <string name="add_miui_contact">Kontakt</string>
   <string name="add_music">Dodaj muzykę</string>
   <string name="add_number_to_sender">Dodaj numer do \"%s\"</string>
   <string name="add_picture">Dodaj zdjęcie</string>
@@ -482,6 +482,7 @@
   <string name="prvate_contact">Prywatne kontakty</string>
   <string name="quick_reply">Odp</string>
   <string name="rate_limit_surpassed">OK</string>
+  <string name="rcs_unavailable">"W tym momencie nie możesz użyć Wiadomości China Mobile. Karta SIM China Mobile nie jest Twoją domyślną kartą do danych."</string>
   <string name="received_at_time">Otrzymano: %1s</string>
   <string name="received_label">Otrzymano:</string>
   <string name="recipient_editor_count_format">%d</string>
