@@ -1645,8 +1645,8 @@
   <string name="structure_face_data_input_timeout_title">Spróbuj ponownie</string>
   <string name="structure_face_data_manage_delete_msg">Usuń dane twarzy 3D</string>
      <string name="structure_face_hardware_abnormal_btn">Rozumiem</string>
-   <string name="structure_face_hardware_abnormal_msg">"Nie można zarejestrować danych twarzy z powodu błędu lasera. Skontaktuj się z obsługą klienta, aby uzyskać pomoc."</string>
-   <string name="structure_face_hardware_abnormal_title">Błąd lasera</string>
+   <string name="structure_face_hardware_abnormal_msg">"Wystąpił błąd sprzętu. Zrestartuj urządzenie. Jeśli to nie pomoże, skontaktuj się z serwisem."</string>
+   <string name="structure_face_hardware_abnormal_title">Błąd sprzętu</string>
    <string name="structure_face_modules_abnormal_btn">Restart</string>
    <string name="structure_face_modules_abnormal_msg">"Nie można zarejestrować danych twarzy z powodu błędu modułu optycznego. Uruchom ponownie urządzenie i spróbuj ponownie."</string>
    <string name="structure_face_modules_abnormal_title">Błąd modułu optyki</string>
@@ -1695,4 +1695,7 @@
   <string name="notch_sos_status_bar_title">SOS</string>
   <string name="sos_status_bar_summary">kliknij, aby wyjść</string>
   <string name="sos_status_bar_title">SOS</string>  
+  <string name="enable_atrace">Włącz ATrace</string>
+  <string name="enable_atrace_summary">Rejestruj eventy kernela za pomocą ATrace</string>
+  <string name="structure_face_unlock_tof_covered">"Nie można dodać danych twarzy. Odsuń się od ekranu."</string>
 </resources>

@@ -5878,4 +5878,13 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="slider_global_summary_selfie">Przesuń ekran w dół, aby zrobić selfie</string>
   <string name="slider_tool_none_summary">Nie przypisano skrótu slidera</string>
   <string name="status_bar_settings_notification_style">Styl powiadomień</string>
+  <string name="allow_device_id_access">Aplikacje identyfikujące urządzenie</string>
+  <string name="device_id">Identyfikacja urządzenia</string>
+  <string name="pref_show_lunar_calendar_title">Pokaż chiński kalendarz na ekranie blokady</string>
+  <string name="restore_device_id_content">Zresetuj rekomendacje</string>
+  <string name="restore_device_id_title">Przywróć identyfikację urządzenia</string>
+  <string name="restore_dialog_content">Przywrócenie identyfikacji urządzenia spowoduje zresetowanie spersonalizowanych propozycji.</string>
+  <string name="restore_dialog_positive">Przywróć</string>
+  <string name="restore_dialog_title">Przypomnienie</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
 </resources>

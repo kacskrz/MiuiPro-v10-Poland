@@ -26,4 +26,5 @@
     <string name="cit_tool_bluetooth_tx_m">Wejdź w tryb testu częst. Bluetooth BR/EDR 2.441GHz</string>
     <string name="cit_tool_bluetooth_le_tx_4x_payload">payload:</string>
     <string name="cit_tool_bluetooth_le_tx_50_payload">payload:</string>
+    <string name="cit_headset_pull_finish_test">Słuchawki odłączone, ukończono test</string>
 </resources>
