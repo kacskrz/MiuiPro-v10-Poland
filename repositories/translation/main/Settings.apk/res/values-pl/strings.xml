@@ -5887,4 +5887,13 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="restore_dialog_positive">Przywróć</string>
   <string name="restore_dialog_title">Przypomnienie</string>
   <string name="status_bar_settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
+  <string name="call_records_summary_1">9:35 | 26 sekund | China Unicom</string>
+  <string name="call_records_summary_2">16 sierpnia | 1 min 16 s | China Mobile</string>
+  <string name="call_records_summary_3">16 sierpnia | 2 min 24 s | China Unicom</string>
+  <string name="dangerous_option_switch_title">Powiadom o wysoce ryzykownych funkcjach</string>
+  <string name="launcher_icon">Ikony</string>
+  <string name="miui_optimization_disabled">Wyłącz optymalizację MIUI</string>
+  <string name="page_layout_34">Telefon</string>
+  <string name="page_layout_35">Notatki</string>
+  <string name="words_title">Tekst</string>
 </resources>

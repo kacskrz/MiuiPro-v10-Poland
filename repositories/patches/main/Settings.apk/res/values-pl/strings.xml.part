@@ -188,4 +188,5 @@
 	<string name="icon_setnet_title">Ikony zasięgu sieci (przy 2 kartach SIM)</string>
 	<string name="icon_setnet_on">Pionowo</string>
 	<string name="icon_setnet_off">Poziomo</string>
+  <string name="finger_on_title">Odblokuj po restarcie</string>
 </resources>
