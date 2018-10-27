@@ -189,4 +189,5 @@
 	<string name="icon_setnet_on">Pionowo</string>
 	<string name="icon_setnet_off">Poziomo</string>
   <string name="finger_on_title">Odblokuj po restarcie</string>
+  <string name="aod_style_clock_title">Styl zegarka w trybie AOD</string>
 </resources>

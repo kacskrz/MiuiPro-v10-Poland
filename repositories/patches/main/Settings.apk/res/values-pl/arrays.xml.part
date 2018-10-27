@@ -209,4 +209,9 @@
         <item>Asystent Google</item> 
         <item>Asystent Yandex</item> 
     </string-array>
+    <string-array name="aod_style_clock_entries"> 
+        <item>Poziomy</item> 
+        <item>Pionowy</item> 
+        <item>W jednej linii</item> 
+    </string-array>
 </resources>
