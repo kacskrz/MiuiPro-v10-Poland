@@ -5896,4 +5896,6 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="page_layout_34">Telefon</string>
   <string name="page_layout_35">Notatki</string>
   <string name="words_title">Tekst</string>
+  <string name="bootloader_tips">"Po dodaniu konta Xiaomi nie wylogowuj się z niego, nie wykonuj czyszczenia do ustawień fabrycznych albo czyszczenia danych aplikacji systemowych. Jeśli wykonasz te działania, dodaj swoje konto ponownie w tym trybie. W przeciwnym wypadku możesz nie być w stanie odblokować swojego urządzenia."</string>
+  <string name="bootloader_tips_ok">Rozumiem</string>
 </resources>

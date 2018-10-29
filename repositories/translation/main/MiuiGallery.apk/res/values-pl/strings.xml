@@ -1339,4 +1339,8 @@ aby spersonalizować Galerię"</string>
   <string name="photo_movie_select_image_range">Klipy mogą zawierać od 3 do 6 zdjęć</string>
   <string name="select_image_operation">Dodawanie zdjęć</string>
   <string name="unsupport_video">"%s nie działa z plikami wideo"</string>
+  <string name="operation_set_slide_wallpaper">Ustaw jako tapetę pokazu slajdów</string>
+  <string name="picker_origin_request_progress_fail">"Nie można pobrać oryginalnego obrazka z powodu błędu sieci."</string>
+  <string name="set_as_slide_wallpaper_description">Ten obraz jest miniaturką. Czy chcesz pobrać go w oryginalnym rozmiarze?</string>
+  <string name="set_as_slide_wallpaper_title">Ustaw jako tapetę pokazu slajdów</string>
 </resources>

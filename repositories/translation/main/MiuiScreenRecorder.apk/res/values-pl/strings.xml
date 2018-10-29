@@ -86,4 +86,5 @@
   <string name="first_using_mic_dialog_title">Wymagane uprawnienia</string>
   <string name="using_record_confirm_cancel">Anuluj</string>
   <string name="using_record_confirm_ok">Zgoda</string>
+  <string name="sound_source_summary_without_system_sounds">Używaj tylko mikrofonu albo wyłącz wszelkie dźwięki</string>
 </resources>

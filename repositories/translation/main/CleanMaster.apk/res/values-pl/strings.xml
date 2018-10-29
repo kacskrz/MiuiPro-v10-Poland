@@ -579,4 +579,17 @@
   <string name="toast_updater_close_4g_text">"Aplikacje nie będą aktualizowane poprzez dane mobilne (LTE)"</string>
   <string name="toast_updater_open_4g_text">Aplikacje będą aktualizowane poprzez dane mobilne (LTE)</string>
   <string name="cd_scanning">skanowanie</string>
+  <string name="app_clean_group_document_recv">Otrzymane pliki</string>
+  <string name="app_clean_group_document_send">Wysłane pliki</string>
+  <string name="app_clean_group_image_recv">Otrzymane obrazy</string>
+  <string name="app_clean_group_image_send">Wysłane obrazy</string>
+  <string name="facebook_clean_exit_confirm_cancel">Nie zatrzymuj</string>
+  <string name="facebook_clean_exit_confirm_msg">"Nie ukończono jeszcze skanowania danych Facebooka. Zatrzymać skanowanie teraz?"</string>
+  <string name="facebook_clean_exit_confirm_ok">Zatrzymaj</string>
+  <string name="facebook_clean_exit_confirm_title">Zatrzymać skanowanie?</string>
+  <string name="facebook_cleaner">Czyszczenie Facebooka</string>
+  <string name="facebook_group_cache">Pliki pamięci podręcznej</string>
+  <string name="facebook_group_gif">GIFy</string>
+  <string name="facebook_group_image">Zdjęcia</string>
+  <string name="facebook_group_video">Wideo</string>
 </resources>

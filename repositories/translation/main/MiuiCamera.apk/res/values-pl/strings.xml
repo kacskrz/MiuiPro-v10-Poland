@@ -525,4 +525,10 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="close_front_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
   <string name="lighting_pattern_null">Nic</string>
   <string name="ultra_wide_mode">Szeroki kąt</string>
+  <string name="beauty_body">Ciało</string>
+  <string name="beauty_body_body">Odchudzanie</string>
+  <string name="beauty_body_head">Głowa</string>
+  <string name="beauty_body_legged">Długie nogi</string>
+  <string name="beauty_body_reset_tip">Efekt ciała został wyczyszczony</string>
+  <string name="beauty_body_shoulder">Ramię</string>
 </resources>
