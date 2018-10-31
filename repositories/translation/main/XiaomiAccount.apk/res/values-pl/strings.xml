@@ -94,6 +94,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_email">Adres E-mail</string>
     <string name="passport_vcode_prompt_long">Wpisz kod weryfikacyjny</string>
     <string name="passport_input_phone_hint">Wpisz numer telefonu</string>
+    <string name="passport_input_phone_password">Wpisz hasło dla numeru telefonu: %s</string> 
     <string name="passport_input_voice_captcha_hint">Wpisz głosowy kod weryfikacyjny</string>
     <string name="passport_error_empty_username">Wpisz swoje ID konta Xiaomi</string>
     <string name="passport_error_invalid_phone_num">Numer telefonu jest nieprawidłowy</string>
@@ -170,6 +171,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_quick_register_notice"><u>Nie masz konta Xiaomi? Utwórz je za darmo.</u></string>
     <string name="passport_password_phone_login">Zaloguj się za pomocą konta Xiaomi</string>
     <string name="passport_sms_verification_code_login">Zaloguj za pomocą SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">Zaloguj lub zarejestruj się za pomocą SMS</string> 
     <string name="passport_login_other_account">Inne konto</string>
     <string name="passport_reg_new_account">Utwórz konto</string>
     <string name="passport_select_the_login_account">Wybierz konto do zalogowania</string>
@@ -474,4 +476,5 @@ Twój numer odblokowujący: %s"</string>
   <string name="passport_register_using_other_ways">Inne opcje rejestracji</string>
   <string name="passport_wrong_voice">Wprowadzony kod jest nieprawidłowy</string>
   <string name="account_invalid_user_avatar">Awatar jest nieprawidłowy.</string>
+  <string name="passport_international_register_by_email">Załóż konto za pomocą adresu e-mail</string> 
 </resources>
