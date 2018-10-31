@@ -330,8 +330,8 @@
     <string name="description_image_button_plus">Plus</string>
     <string name="description_image_button_pound">Funt</string>
     <string name="description_image_button_seven">siedem</string>
-    <string name="description_image_button_sim1_dial">Połącz używając karty SIM 1</string>
-    <string name="description_image_button_sim2_dial">Połącz używając karty SIM 2</string>
+    <string name="description_image_button_sim1_named_dial">Połącz używając karty SIM 1 %s</string>
+    <string name="description_image_button_sim2_named_dial">Połącz używając karty SIM 2 %s</string>
     <string name="description_image_button_six">sześć</string>
     <string name="description_image_button_star">gwiazdka</string>
     <string name="description_image_button_three">trzy</string>
@@ -1236,4 +1236,6 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="toast_call_no_notes">Aplikacja Notatki jest niedostępna</string>
     <string name="rcs_app_name">Mini aplikacja</string>
     <string name="conference_call_disable_tip">"Nie można wykonać połączenia. Upewnij się, że jesteś w zasięgu sieci LTE ze wsparciem dla VoLTE."</string>
+    <string name="scan_business_card">Zeskanuj wizytówkę</string>
+    <string name="scan_bussiness_card_merge_tip">Sprzeczne dane zostały zastąpione</string>
 </resources>

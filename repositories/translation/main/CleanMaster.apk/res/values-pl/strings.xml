@@ -583,7 +583,7 @@
   <string name="app_clean_group_document_send">Wysłane pliki</string>
   <string name="app_clean_group_image_recv">Otrzymane obrazy</string>
   <string name="app_clean_group_image_send">Wysłane obrazy</string>
-  <string name="facebook_clean_exit_confirm_cancel">Nie zatrzymuj</string>
+  <string name="facebook_clean_exit_confirm_cancel">Anuluj</string>
   <string name="facebook_clean_exit_confirm_msg">"Nie ukończono jeszcze skanowania danych Facebooka. Zatrzymać skanowanie teraz?"</string>
   <string name="facebook_clean_exit_confirm_ok">Zatrzymaj</string>
   <string name="facebook_clean_exit_confirm_title">Zatrzymać skanowanie?</string>
