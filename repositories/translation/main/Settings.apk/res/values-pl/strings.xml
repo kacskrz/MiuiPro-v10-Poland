@@ -5899,4 +5899,8 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="bootloader_tips">"Po dodaniu konta Xiaomi nie wylogowuj się z niego, nie wykonuj czyszczenia do ustawień fabrycznych albo czyszczenia danych aplikacji systemowych. Jeśli wykonasz te działania, dodaj swoje konto ponownie w tym trybie. W przeciwnym wypadku możesz nie być w stanie odblokować swojego urządzenia."</string>
   <string name="bootloader_tips_ok">Rozumiem</string>
   <string name="keyguard_notification_status_title">Powiadomienia</string>
+  <string name="others">Inne</string>
+  <string name="slider_vocie_online_theme">Dźwięk slidera online</string> 
+  <string name="sound_stereo_mode_summary">Opcja dostępna tylko przy odtwarzaniu z głośnika</string>
+  <string name="sound_stereo_mode_title">Dźwięk stereo</string>  
 </resources>

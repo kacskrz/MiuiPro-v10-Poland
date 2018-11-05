@@ -36,8 +36,18 @@
     <string name="vip_feedback_enable">Włącz opiniowanie VIP</string>
     <string name="extreme_power_config_mode_category">Tryb ekstremalny</string>
     <string name="extreme_power_config_mode_title">Tryb ekstremalny</string>
-    <string name="extreme_power_config_mode_desc">Przełącz na tryb ekstremalny, aby wyłączyć synchronizację, Bluetooth, GPS, NFC, podwójne dotknięcie, podświetlenie przycisków, wybudzanie ekranu przy powiadomieniach, a także diodę powiadomień. MIUI skupi się na oszczędzaniu energii.</string>
-    <string name="empty_title_apps_container_list">Brak aplikacji</string>
+   <string name="extreme_power_config_mode_summary">Ekstremalne oszczędzanie baterii ogranicza aktywność w tle i zatrzymuje synchronizację.</string>
+    <string name="extreme_power_config_mode_desc">Ekstremalne oszczędzanie baterii zatrzymuje całą aktywność aplikacji w tle po jej opuszczeniu i powrocie do Ekranu głównego. Ta aplikacja nie będzie wysyłać Ci powiadomień ani otrzymywać aktualizacji.
+Jeśli chcesz, aby aplikacja działała w tle, zablokuj ją w menu Ostatnich aplikacji lub dodaj ją do wyjątków w tle poniżej. W trybie Ekstremalnego oszczędzania baterii można uruchomić maksymalnie 4 aplikacje w tle.
+Ekstremalne oszczędzanie baterii domyślnie wyłącza NFC. Możesz to zmienić w Ustawieniach.
+Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urządzenia, funkcja Ekstremalnego oszczędzania baterii zostanie automatycznie wyłączona, gdy bateria będzie naładowana w minimum 30%.</string>
+    <string name="extreme_add_white_list_title">Wyjątki działające w tle</string>
+    <string name="extreme_add_white_list_summary">Dodaj maks. 4 aplikacje</string>  
+	<string name="extreme_power_settings_title">ustawienia</string> 
+	<string name="notification_exit_extreme_mode_text">Bateria jest naładowana w więcej niż %s.</string>
+	<string name="notification_exit_extreme_mode_title">Wyłączono Ekstremalne oszczędzanie</string>
+	<string name="notification_open_extreme_mode_text">Włączono Ekstremalne oszczędzanie</string>
+	<string name="empty_title_apps_container_list">Brak aplikacji</string>
     <string name="hints_loading_text">Chwileczkę…</string>
     <string name="config_mode_title">Zachowanie aplikacji w tle</string>
     <string name="config_suggest_suffix_title">Oszczędzanie baterii (zalecane)</string>
@@ -97,4 +107,7 @@
     <string name="message_i_know">Rozumiem</string>
     <string name="high_temp_state">Wysoka temperatura</string>
     <string name="high_temp_state_message">Ochrona przed wysoką temperaturą - dane, Wi-Fi, GPS, aparat itd. będą ograniczone</string>
+	<string name="atrace_saved">Pomyślnie zapisano</string>
+	<string name="atrace_saving">Zapisywanie logu ATrace…</string>
+	<string name="atrace_start">Wykonywanie logu ATrace…</string>
 </resources>

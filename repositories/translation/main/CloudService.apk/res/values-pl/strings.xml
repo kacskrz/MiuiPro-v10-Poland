@@ -379,7 +379,7 @@
   <string name="micloud_privacy_cloud_off">Synchronizacja wył.</string>
   <string name="micloud_privacy_cloud_sync">Włącz Chmurę Xiaomi</string>
   <string name="micloud_privacy_explanation">Włącz Chmurę Xiaomi po przyznaniu autoryzacji</string>
-  <string name="micloud_privacy_licence_agreed">Wyraź zgodę na politykę prywatności Chmury Xiaomi.</string>
+  <string name="micloud_privacy_licence_agreed">Wyraź zgodę na &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;politykę prywatności&lt;/u&gt;&lt;/a&gt; Chmury Xiaomi.</string>
   <string name="micloud_privacy_licence_privacy_policy">polityka prywatności</string>
   <string name="micloud_privacy_more">więcej</string>
   <string name="micloud_privacy_progress_content">Autoryzowanie…</string>

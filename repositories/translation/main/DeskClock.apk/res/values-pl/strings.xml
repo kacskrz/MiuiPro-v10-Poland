@@ -119,7 +119,7 @@
     <string name="setting_alarm_arriving_summary">Wyślij powiadomienie przed dzwonkiem</string>
     <string name="setting_alarm_arriving_title">Powiadomienie przed dzwonkiem</string>
     <string name="shutdown_alarm_disable_summary">Alarm nie będzie aktywny po wyłączeniu urządzenia</string>
-    <string name="shutdown_alarm_enable_summary">Alarm będzie aktywny po wyłączeniu urządzenia</string>
+    <string name="shutdown_alarm_enable_summary">"Alarm wyłączy się, jeśli zostanie ustawiony na co najmniej 5 minut po wyłączeniu urządzenia"</string>
     <string name="shutdown_alarm_title">Alarm zawsze aktywny</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Wyłącz następny: %s</string>

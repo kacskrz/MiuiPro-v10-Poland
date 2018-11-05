@@ -534,6 +534,7 @@
   <string name="rename_alert">Zmiana rozszerzenia może uniemożliwić otwarcie tego pliku.</string>
   <string name="rename_alert2">Plik zostanie ukryty po zmianie jego rozszerzenia.</string>
   <string name="rename_failed">Nie udało się zmienić nazwy %1$s</string>
+  <string name="rename_input_null">Wpisz nową nazwę pliku</string> 
   <string name="repair_done">Przywrócono</string>
   <string name="repair_error">Nie udało się przywrócić</string>
   <string name="repair_file">Przywróć zaszyfrowane pliki</string>

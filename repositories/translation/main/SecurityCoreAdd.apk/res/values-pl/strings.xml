@@ -378,7 +378,7 @@
   <string name="xspace_install_completed_global">Dodano ikonę do Pulpitu</string>
   <string name="remove_button">Usuń i zrestartuj</string>
   <string name="remove_button_time">Usuń i zrestartuj(%ds)</string>
-  <string name="stop_xspace_alert_content">"Usunąłeś wszystkie sklonowane aplikacje. Czy chcesz usunąć także konta i dane tych aplikacji? Po tym wyborze możesz utworzyć podwójne aplikacje ponownie, gdy tylko ich potrzebujesz."</string>
+  <string name="stop_xspace_alert_content">"Wszystkie sklonowane aplikacje i ich dane zostaną usunięte na zawsze. Potrzebny będzie także restart urządzenia. Usunąć konta teraz?"</string>
   <string name="stop_xspace_alert_title">Usuwanie kont sklonowanych aplikacji</string>
   <string name="msg_switch_file_second">Czy usunąć te pliki w Drugiej przestrzeni po ich przeniesieniu?</string>
   <string name="use_xiaoai_open">Wybudź, używając asystenta głosowego</string>
@@ -423,4 +423,5 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
     <string name="ent_install_dialog_content">Czy chcesz zainstalować aplikacje i zrestartować Twoje urządzenie teraz?</string>
   <string name="confirm_close_password_desc">"Nie będziesz w stanie wejść do Drugiej przestrzeni z poziomu ekranu blokady po wyłączeniu hasła. Wyłączyć je mimo to?"</string>
   <string name="confirm_close_password_title">Wyłączenie hasła</string>
+  <string name="xspace_remove">"Usuń konta sklonowanych aplikacji"</string>   
 </resources>

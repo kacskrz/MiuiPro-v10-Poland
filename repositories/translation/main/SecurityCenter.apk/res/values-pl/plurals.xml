@@ -275,11 +275,10 @@
     <item quantity="few">%d powiadomienia są widoczne</item>
     <item quantity="many">%d powiadomień jest widocznych</item>
   </plurals>
-  <plurals name="om_ill_proc_multi_app_title">
-    <item quantity="other">%d aplikacji nie pracuje poprawnie i zużywa baterię</item>
-    <item quantity="one">%d aplikacja nie pracuje poprawnie i zużywa baterię</item>
-    <item quantity="few">%d aplikacje nie pracują poprawnie i zużywają baterię</item>
-    <item quantity="many">%d aplikacji nie pracuje poprawnie i zużywa baterię</item>
+  <plurals name="om_locked_apps_title">
+    <item quantity="other">%d zablokowanych aplikacji</item>
+    <item quantity="one">%d zablokowana aplikacja</item>
+    <item quantity="few">%d zablokowane aplikacje</item>
   </plurals>
   <plurals name="people">
     <item quantity="other">Pobrane przez %1$d osób</item>
