@@ -5734,7 +5734,7 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="forget_password_dialog_content_three"><Data>"1. Wyłącz urządzenie. Przytrzymaj przyciski &lt;font color=#e6e6e6>[Power]&lt;/font> i &lt;font color=#e6e6e6>[Volume+]&lt;/font> jednocześnie, i przytrzymaj je, dopóki nie zobaczysz &lt;img src=''> ikony."</Data></string>
     <string name="forget_password_dialog_content_two">Postępuj zgodnie z wskazówkami, aby wymazać dane:</string>
     <string name="forget_password_dialog_title">Zresetuj Twoje haslo</string>
-  <string name="enterprise_mode">Tryb Enterprise</string>
+  <string name="enterprise_mode">Tryb firmowy</string>
     <string name="delete_sound_effect">Dźwięk \"Usuń\" </string>
     <string name="keyguard_security_setting_others">Inne</string>
     <string name="keyguard_security_setting_privacy_policy">Polityka prywatności</string>
@@ -5900,7 +5900,6 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="bootloader_tips_ok">Rozumiem</string>
   <string name="keyguard_notification_status_title">Powiadomienia</string>
   <string name="others">Inne</string>
-  <string name="slider_vocie_online_theme">Dźwięk slidera online</string> 
-  <string name="sound_stereo_mode_summary">Opcja dostępna tylko przy odtwarzaniu z głośnika</string>
-  <string name="sound_stereo_mode_title">Dźwięk stereo</string>  
+  <string name="slider_vocie_online_theme">Dźwięki online</string>  
+   <string name="input_pattern_hint_text">Narysuj wzór odblokowania</string>   
 </resources>

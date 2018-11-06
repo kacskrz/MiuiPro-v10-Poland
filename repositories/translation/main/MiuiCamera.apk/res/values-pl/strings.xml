@@ -531,4 +531,6 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="beauty_body_legged">Długie nogi</string>
   <string name="beauty_body_reset_tip">Efekt ciała został wyczyszczony</string>
   <string name="beauty_body_shoulder">Ramię</string>
+  <string name="ultra_wide_close_tip">Szeroki kąt jest wyłączony</string>
+  <string name="ultra_wide_open_tip">Szeroki kąt</string>   
 </resources>

@@ -1698,4 +1698,5 @@
   <string name="enable_atrace">Włącz ATrace</string>
   <string name="enable_atrace_summary">Rejestruj eventy kernela za pomocą ATrace</string>
   <string name="structure_face_unlock_tof_covered">"Nie można dodać danych twarzy. Odsuń się od ekranu."</string>
+  <string name="download_lock_wallpaper">Kliknij 2 razy, aby pobrać aplikację Muzyka</string> 
 </resources>
