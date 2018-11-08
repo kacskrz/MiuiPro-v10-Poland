@@ -5902,4 +5902,10 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="others">Inne</string>
   <string name="slider_vocie_online_theme">Dźwięki online</string>  
    <string name="input_pattern_hint_text">Narysuj wzór odblokowania</string>   
+  <string name="ai_button_title_global">Przycisk AI</string>
+  <string name="ai_settings_long_click_category">Wciśnięcie i przytrzymanie przycisku AI</string>
+  <string name="ai_settings_long_click_title">Wciśnięcie i przytrzymanie</string>
+  <string name="ai_settings_single_press_des">Kliknij przycisk AI, by włączyć Asystenta Google, a następnie puść go, by otrzymać odpowiedź.</string>
+  <string name="miui_sos_call_log_time_unit">%1$dmin %2$ds</string>
+  <string name="single_press_AI_button">Wciśnięcie przycisku AI</string>
 </resources>

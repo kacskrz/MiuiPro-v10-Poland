@@ -1343,4 +1343,21 @@ aby spersonalizować Galerię"</string>
   <string name="picker_origin_request_progress_fail">"Nie można pobrać oryginalnego obrazka z powodu błędu sieci."</string>
   <string name="set_as_slide_wallpaper_description">Ten obraz jest miniaturką. Czy chcesz pobrać go w oryginalnym rozmiarze?</string>
   <string name="set_as_slide_wallpaper_title">Ustaw jako tapetę pokazu slajdów</string>
+  <string name="document_provider_guide_step_1">1. Kliknij na przycisk \"Więcej\".</string>
+  <string name="document_provider_guide_step_2">2. Wybierz \"Pokaż pamięć wewnętrzną\".</string>
+  <string name="document_provider_guide_step_3">3. Kliknij na ikonę menu po lewej stronie.</string>
+  <string name="document_provider_guide_step_4">4. Wybierz \"Kartę SD\".</string>
+  <string name="document_provider_guide_step_5">5. Następnie kliknij \"Wybierz\".</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Elementy będą zapisywane w pamięci wewnętrznej. Możesz to zmienić w Ustawienia &gt; Pamięć &gt; Ustawienia pamięci.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">"Brak uprawnień."</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Dalej</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Zezwól</string>
+  <string name="ext_sdcard_guide_text">"Galeria wymaga uprawnień do odczytu karty SD:"</string>
+  <string name="ext_sdcard_operation_failed_text">Galeria wymaga uprawnień do odczytu karty SD.</string>
+  <string name="ext_sdcard_operation_failed_title">"Nie można wykonać akcji"</string>
+  <string name="ext_sdcard_permission_request_button_text">Rozumiem</string>
+  <string name="ext_sdcard_permission_request_reason">Galeria wymaga uprawnień do odczytu karty SD, co pozwoli na edytowanie oraz usuwanie zdjęć i filmów na niej zgromadzonych.</string>
+  <string name="ext_sdcard_permission_request_title">Zezwól Galerii na dostęp do karty SD</string>
+  <string name="ext_sdcard_request_failed_button_text">OK</string>
+  <string name="ext_sdcard_request_succeed_toast_text">"Gotowe"</string>
 </resources>

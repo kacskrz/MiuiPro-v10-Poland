@@ -105,8 +105,8 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="about_extreme_mode">Ekstremalne oszczędzanie</string>
     <string name="extreme_mode_max_item_alert">Możesz wybrać do 4 aplikacji mogących uruchamiać się w tle w trybie ekstremalnego oszczędzania</string>
     <string name="message_i_know">Rozumiem</string>
-    <string name="high_temp_state">Wysoka temperatura</string>
-    <string name="high_temp_state_message">Ochrona przed wysoką temperaturą - dane, Wi-Fi, GPS, aparat itd. będą ograniczone</string>
+    <string name="high_temp_state">Przegrzewanie</string>
+    <string name="high_temp_state_message">Twoje urządzenie jest przegrzane. Dane komórkowe, Wi-Fi, GPS, aparat itd. będą ograniczone.</string>
 	<string name="atrace_saved">Pomyślnie zapisano</string>
 	<string name="atrace_saving">Zapisywanie logu ATrace…</string>
 	<string name="atrace_start">Wykonywanie logu ATrace…</string>
