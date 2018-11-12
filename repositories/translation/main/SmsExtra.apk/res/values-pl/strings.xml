@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Nie znaleziono aplikacji do obsługi tej aktywności</string>
+  <string name="allow_network_hint">Włącz opcję \"Aktualizuj informacje automatycznie\" lub sprawdź swoje połączenie z siecią</string>
+  <string name="already_updated">Wersja jest aktualna</string>
   <string name="back_to_message_list">Wróć do listy wiadomości</string>
   <string name="button_close">Zamknij</string>
+  <string name="click_to_update">Kliknij, aby sprawdzić dostępność aktualizacji</string>
   <string name="confirm_delete_conversation">Usunąć tą konwersację?</string>
   <string name="confirm_delete_group_message">Usunąć wiadomości grupowe?</string>
   <string name="confirm_delete_locked_message">Usunąć tą zablokowaną wiadomość?</string>
@@ -11,6 +14,7 @@
   <string name="confirm_dialog_title">Usunąć?</string>
   <string name="copy_message_text">Kopiuj</string>
   <string name="copy_message_text_success">Skopiowano pomyślnie</string>
+  <string name="current_data_version">Wersja Wiadomości Mi</string>
   <string name="delete">Usuń</string>
   <string name="delete_message">Usuń</string>
   <string name="from_label">"Od: "</string>
@@ -50,4 +54,5 @@
    <string name="cm_privacy_dialog_tips">Inteligentna usługa SMS jest dostosowywana przez operatora. Jeśli przeczytałeś i zgadzasz się na %1s, na włączenie tej usługi, musisz się połączyć i zlokalizować usługę w trakcie użytkowania. Czy zgadzasz się na to?</string>
   <string name="cm_privacy_dialog_title">Uwaga</string>
   <string name="summary_pref_cm_smart_sms">Podaj szablony kart, numery usług SMS itp.</string>
+  <string name="updating">Aktualizowanie…</string>
 </resources>

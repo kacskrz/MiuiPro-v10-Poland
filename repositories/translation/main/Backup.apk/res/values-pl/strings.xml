@@ -510,7 +510,7 @@
   <string name="err_pkg_not_exist">"Nie znaleziono aplikacji."</string>
   <string name="err_user_abort">Anulowane przez użytkownika.</string>
   <string name="trans_failed_details_page_title">Nieudane transfery</string>
-  <string name="trans_generate_qrcode_failed">"Nie udało się wygenerować kodu QR. Spróbuj ponownie."</string>
+  <string name="trans_generate_qrcode_failed">"Nie udało się wygenerować kodu QR. Zamknij inne aplikacje i spróbuj ponownie."</string>
   <string name="trans_generating_qrcode">Generowanie kodu QR…</string>
   <string name="trans_old_phone_low_space_msg">"Mi Mover potrzebuje trochę miejsca na przeniesienie danych, ale wygląda na to, że na starym urządzeniu nie ma już wolnej przestrzeni. Zwolnij miejsce w \"Panelu sterowania\" albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="trans_old_phone_low_space_title">Brak wolnej przestrzeni</string>

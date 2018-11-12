@@ -27,4 +27,17 @@
         <item quantity="one">1 godzina</item>
         <item quantity="few">%d godziny</item>
     </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s osób</item>
+        <item quantity="one">%s osoba</item>
+        <item quantity="few">%s osoby</item>
+    </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">Wybrany ponownie %d razy</item>
+        <item quantity="one">Wybrany ponownie %d raz</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">Zgłoszone przez %d użytkowników MIUI</item>
+        <item quantity="one">Zgłoszone przez %d użytkownika MIUI</item>
+    </plurals>
 </resources>

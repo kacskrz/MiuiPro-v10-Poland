@@ -208,7 +208,7 @@
     <string name="feedback_submit_succ_button">Gotowe</string>
     <string name="feedback_title">Tytuł</string>
     <string name="feedback_description">Opis</string>
-    <string name="feedback_select_images">Dodaj zdjęcia</string>
+    <string name="feedback_select_images">Dodaj zdjęcie lub krótkie wideo</string>
     <string name="feedback_delete_images">Usuń obrazy</string>
     <string name="feedback_select_upload_log">Dodaj logi</string>
     <string name="feedback_select_modem_log">Dodaj logi modemu</string>
@@ -313,8 +313,8 @@
     <string name="toast_post_deleted">Temat nie istnieje, został skasowany lub edytowany.</string>
     <string name="toast_log_not_exists">Wymagany log został usunięty lub nie istnieje</string>
     <string name="toast_pic_not_exists">Obraz pamięci podręcznej został usunięty</string>
-    <string name="toast_screenshot_too_large">Nie można wysłać plików większych niż 10MB.</string>
-    <string name="toast_log_too_large">Nie można wysłać. Plik jest zbyt duży.</string>
+    <string name="toast_screenshot_too_large">Nie można wysłać zdjęć lub wideo większych niż 10MB.</string>
+    <string name="toast_log_too_large">Nie można wysłać logu, gdyż jest za duży.</string>
     <string name="title_bbs_feedback_main">Dowiedz się więcej o telefonach Xiaomi</string>
     <string name="title_customer_service">Obsługa użytkownika</string>
     <string name="customer_service_apply">Zgłoszenie do obsługi klienta</string>
@@ -336,7 +336,7 @@
     <string name="catch_full_log_action_cancel">Anuluj</string>
     <string name="catch_full_log_action_complete">Zakończ i wyślij</string>
     <string name="catch_full_log_action_start">Wygeneruj log</string>
-    <string name="catch_full_log_add_original_photo">Dodaj zdjęcie</string>
+    <string name="catch_full_log_add_original_photo">Dodaj zdjęcie lub krótkie wideo</string>
     <string name="catch_full_log_add_photo">Dodaj zdjęcie</string>
     <string name="catch_full_log_add_photo_dialog_content">"Jeśli problem zgłaszany przez Ciebie dotyczy jakości zdjęć z aparatu, dodaj przykładowe, oryginalne zdjęcie (nieprzycięte), aby pomóc nam zlokalizować przyczynę tego problemu. Dodać zdjęcie teraz?"</string>
     <string name="catch_full_log_dialog_confirm_text">Przejdź do pulpitu</string>
@@ -362,4 +362,5 @@
     <string name="catch_full_log_submit_directly">Wyślij</string>
     <string name="title_catch_full_log">Logi</string>
     <string name="toast_catch_full_log_catching">Możesz wygenerować tylko jeden log na raz.</string>
+    <string name="title_first_aid">Pierwsza pomoc</string>
 </resources>

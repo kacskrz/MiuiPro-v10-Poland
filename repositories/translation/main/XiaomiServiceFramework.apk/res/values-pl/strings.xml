@@ -11,4 +11,6 @@ ID urządzenia musi mieć poprawny IMEI lub adres MAC. Bez poprawnego ID urządz
     <string name="sync_notification_title_format">Synchronizacja: %1$s</string>
     <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
     <string name="xmsf_activate_info">Informacje aktywacyjne XMSF</string>
+    <string name="pop_up_allow_notify_dialog">Zezwól</string>
+    <string name="pop_up_deny_notify_dialog">Odrzuć</string>
 </resources>

@@ -161,7 +161,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
     <string name="done_remove">Pomyślnie usunięto</string>
     <string name="doing_restore_home">Przywracanie ekranu głównego i ustawień…</string>
 	<string name="get_device_id_error">Nie udało się uzyskać ID urządzenia</string>
-	<string name="home_hint_global_launcher">Pulpit Poco</string>
+	<string name="home_hint_global_launcher">POCO Launcher</string>
 	<string name="home_restore_error">Nie udało się przywrócić ekranu głównego</string>
 	<string name="self_phone_home">Ten telefon: %s</string>
 	   <string name="btn_restore_abort">Anuluj</string>
@@ -172,9 +172,9 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="msg_alert_restore_error">Nie udało się przywrócić elementów z Chmury Xiaomi, spróbuj ponownie.</string>
    <string name="title_alert_cancel_restore">Zatrzymanie przywracania</string>
    <string name="title_alert_restore_error">Nie udało się przywrócić</string>
-   <string name="error_retry_later">Próba nieudana, spróbuj ponownie później.</string>
+   <string name="error_retry_later">Nie można ukończyć akcji. Poczekaj minutę bądź dwie i spróbuj ponownie.</string>
    <string name="home_hint_other_launcher">Inny launcher</string>
-   <string name="unsupported_home">Zaktualizuj system do najnowszej wersji.</string>
+   <string name="unsupported_home">Zaktualizuj MIUI do najnowszej wersji.</string>
    <string name="load_backup_failed">Nie udało się załadować kopii</string>
    <string name="loading_user_backup">Ładowanie kopii użytkownika…</string>
    <string name="main_space">Główna przestrzeń</string>
