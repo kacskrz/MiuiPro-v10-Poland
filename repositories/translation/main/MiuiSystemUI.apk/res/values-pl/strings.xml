@@ -1498,7 +1498,7 @@
   <string name="unimportant_desc">Wszystkie nieistotne powiadomienia zostaną wyświetlone w osobnym folderze.</string>
   <string name="unimportant_title">Nieistotne</string>
   <string name="unknown">Nieznana</string>
-  <string name="unlock_camera_steady">Stój spokojnie</string>
+  <string name="unlock_camera_steady">Nie przesuwaj telefonu</string>
   <string name="unlock_failed">Błąd wewnętrzny</string>
   <string name="unlock_failed_face_not_found">Wykrywanie</string>
   <string name="unlock_label">Odblokuj</string>
@@ -1693,7 +1693,7 @@
   <string name="lock_screen_no_sim_card_no_service">Brak usługi</string>
   <string name="torch_high_temperature_warning">"Twoje urządzenie jest przegrzane. Nie można użyć latarki."</string>
   <string name="notch_sos_status_bar_title">SOS</string>
-  <string name="sos_status_bar_summary">kliknij, aby wyjść</string>
+  <string name="sos_status_bar_summary">Kliknij, aby wyjść</string>
   <string name="sos_status_bar_title">SOS</string>  
   <string name="enable_atrace">Włącz ATrace</string>
   <string name="enable_atrace_summary">Rejestruj eventy kernela za pomocą ATrace</string>

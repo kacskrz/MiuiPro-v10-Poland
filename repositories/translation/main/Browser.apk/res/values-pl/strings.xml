@@ -249,10 +249,9 @@
   <string name="download_completed">Pobrane</string>
   <string name="download_default_path_txt">Zapamiętaj ten wybór</string>
   <string name="download_dialog_default_path_invalid">Wprowadzona ścieżka pobierania jest nieprawidłowa. Pobieranie do domyślnej lokalizacji…</string>
-  <string name="download_dialog_file_length_hint_txt">"Rozmiar pliku: "</string>
+  <string name="download_dialog_file_length_hint_txt">"Chwileczkę…"</string>
   <string name="download_dialog_file_length_lessthan1kb">Mniej niż 1kB</string>
   <string name="download_dialog_file_length_nolength_error_txt">Nie udało się pobrać</string>
-  <string name="download_dialog_file_length_nolength_txt">Chwileczkę…</string>
   <string name="download_failed">Nie udało się zakończyć pobierania</string>
   <string name="download_filter_all">Wszystko</string>
   <string name="download_filter_apk">Apk</string>
@@ -872,8 +871,7 @@
   <string name="pref_file_download_default_path_prefix">Domyślna lokalizacja: %s</string>
   <string name="pref_file_download_save_modify_default_path">Lokalizacja dla pobrań</string>
   <string name="pref_file_download_save_title">Pobrania</string>
-  <string name="pref_fling_on_border">Przesuń od krawędzi</string>
-  <string name="pref_fling_on_border_title_summary">Przesuń od lewej lub prawej krawędzi</string>
+  <string name="pref_fling_gesture">Przesunięcie gestem</string>
   <string name="pref_font_size_category">Rozmiar tekstu</string>
   <string name="pref_force_userscalable">Wymuś powiększenie</string>
   <string name="pref_force_userscalable_summary">Nie zezwalaj witrynie sterować powiększeniem</string>
@@ -926,7 +924,6 @@
   <string name="pref_security_show_security_warning_summary">Pokaż ostrzeżenie jeśli zostanie wykryty problem z bezpieczeństwem witryny</string>
   <string name="pref_set_homepage_to">Ustaw jako</string>
   <string name="pref_setting_title">Ustawienia strony</string>
-  <string name="pref_slide_back_forward">Przesuwanie do przodu i tyłu poprzez gesty krawędzi</string>
   <string name="pref_tab_restore">Przywracanie ostatnio otwartej strony przy starcie</string>
   <string name="pref_ua_string">Tryb user agenta</string>
   <string name="pref_version_info">Informacje o wersji</string>
@@ -1322,4 +1319,12 @@
   <string name="guide_slide_up">Przesuń w górę</string>
   <string name="guide_chosen_type_main_title_behind">co lubisz</string>
   <string name="guide_chosen_type_main_title_front">Powiedz nam,</string>
+  <string name="action_menu_toast_incognito_off">Wyłącz tryb incognito</string>
+  <string name="action_menu_toast_incognito_on">Włącz tryb incognito</string>
+  <string name="contextmenu_incognito">Tryb incognito</string>
+  <string name="document_download_immediate">Pobierz natychmiast</string>
+  <string name="document_download_normal">Pobierz normalnie</string>
+  <string name="document_download_recommending">Bezpieczne pobieranie (rekomendowane)</string>
+  <string name="novel_toast_hint">Strona została dodana do biblioteki</string>
+  <string name="suggestion_sliding_item_more_text">ZOBACZ WIĘCEJ</string>
 </resources>

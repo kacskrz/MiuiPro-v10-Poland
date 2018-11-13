@@ -8,7 +8,7 @@
     <item>Zielony</item>
     <item>Niebieski</item>
   </string-array>
-  <string-array name="pref_fling_on_border_gesture_entries">
+  <string-array name="pref_fling_gesture_entries">
     <item>Przesuwanie stron</item>
     <item>Przełączanie kart</item>
     <item>Brak</item>
