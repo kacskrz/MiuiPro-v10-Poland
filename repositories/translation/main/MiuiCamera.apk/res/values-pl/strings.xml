@@ -534,4 +534,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="ultra_wide_close_tip">Szeroki kąt jest wyłączony</string>
   <string name="ultra_wide_open_tip">Szeroki kąt</string>   
   <string name="super_night_toast">Wykonywanie zdjęcia</string>
+  <string name="accessibility_camera_liveshot_off">Wyłączono tryb dynamiczny</string>
+  <string name="accessibility_camera_liveshot_on">Włączono tryb dynamiczny</string>
+  <string name="ultra_wide_recommend_tip_hint">Zalecane włączenie trybu szerokiego kąta</string>
 </resources>

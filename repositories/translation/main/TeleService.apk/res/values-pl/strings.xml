@@ -1819,4 +1819,6 @@ Skontaktuj się z operatorem."</string>
   <string name="dds_switch_warning_message_data_off">Nie udało się odnaleźć SIM %1$s. Karta SIM %2$s jest teraz ustawiona jako Twoja domyślna karta do obsługi danych mobilnych. Dane mobilne są obecnie wyłączone.</string>
   <string name="dds_switch_warning_message_data_on">Nie udało się odnaleźć SIM %1$s. Karta SIM %2$s jest teraz ustawiona jako Twoja domyślna karta do obsługi danych mobilnych.  Dane mobilne są wyłączone, aby uniknąć niepotrzebnych opłat od operatora.</string>
   <string name="privacy_policy_title">Polityka prywatności</string>
+  <string name="sip_account_disable">Konto jest nieaktywne. Nie można zaakceptować połączeń.</string>
+  <string name="sip_receive_call_disable">Nie można zaakceptować połączeń. Najpierw zezwól na ich akceptowanie.</string>
 </resources>

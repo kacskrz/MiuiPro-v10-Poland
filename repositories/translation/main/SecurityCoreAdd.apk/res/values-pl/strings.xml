@@ -424,4 +424,8 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
   <string name="confirm_close_password_desc">"Nie będziesz w stanie wejść do Drugiej przestrzeni z poziomu ekranu blokady po wyłączeniu hasła. Wyłączyć je mimo to?"</string>
   <string name="confirm_close_password_title">Wyłączenie hasła</string>
   <string name="xspace_remove">"Usuń konta sklonowanych aplikacji"</string>   
+  <string name="greenguard_child_des">Użyj naszej aplikacji, aby być ciągle razem</string>
+  <string name="greenguard_child_des_title">Potrzebuję pomocy od przyjaciół i rodziny</string>
+  <string name="greenguard_parent_des">Pobierz naszą aplikację i dodaj inne urządzenia</string>
+  <string name="greenguard_parent_des_title">Chcę pomóc moim przyjaciołom i rodzinie</string>
 </resources>

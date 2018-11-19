@@ -5909,4 +5909,14 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="miui_sos_call_log_time_unit">%1$dmin %2$ds</string>
   <string name="single_press_AI_button">Wciśnięcie przycisku AI</string>
   <string name="miui_input_method_settings">Ustawienia metody wprowadzania</string>
+  <string name="long_press_power_key_half_of_second">Przytrzymaj przycisk Power na pół sekundy, aby włączyć Asystenta Google</string>
+  <string name="power_key_how_power_force_off">Jak siłowo zrestartować urządzenie?</string>
+  <string name="power_key_how_power_force_off_detail">Przytrzymaj przycisk Power aż do momentu, gdy urządzenie się zrestartuje</string>
+  <string name="power_key_how_power_off">Jak otworzyć menu wyłączania?</string>
+  <string name="power_key_how_power_off_detail">Przytrzymaj przycisk Power przez 3 sekundy</string>
+  <string name="power_key_how_start">Jak uruchomić Asystenta Google?</string>
+  <string name="power_key_how_start_detail">Przytrzymaj przycisk Power na pół sekundy, a potem go puść.</string>
+  <string name="power_key_start_enjoy">Rozumiem, powiedz więcej na temat Asystenta Google</string>
+  <string name="power_key_start_guide">Uruchom Asystenta Google za pomocą przycisku Power na urządzeniach pełnoekranowych</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">Uruchom asystenta głosowego w trybie pełnoekranowym (bez fizycznych przycisków)</string>
 </resources>

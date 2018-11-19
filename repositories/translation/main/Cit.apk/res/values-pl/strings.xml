@@ -27,4 +27,7 @@
     <string name="cit_tool_bluetooth_le_tx_4x_payload">payload:</string>
     <string name="cit_tool_bluetooth_le_tx_50_payload">payload:</string>
     <string name="cit_headset_pull_finish_test">Słuchawki odłączone, ukończono test</string>
+    <string name="cit_diag_chaging_summary">Kopiuj pliki loggera ładowania do pamięci wewnętrznej</string>
+    <string name="cit_diag_chaging_title">Czytaj log ładowania</string>
+    <string name="cit_diag_chaging_wait">Proszę czekać... Kopiowanie plików</string>
 </resources>
