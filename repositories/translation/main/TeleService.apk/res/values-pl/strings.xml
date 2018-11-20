@@ -1140,7 +1140,7 @@ Zostanie wybrana sieć preferowana."</string>
     <string name="handon_ringer_title">Wycisz po podniesieniu</string>
     <string name="crescendo_ringer_title">Zwiększanie głośności dzwonka</string>
     <string name="crescendo_ringer_summary">Głośność dzwonka będzie narastać stopniowo, do ustawionego poziomu</string>
-    <string name="flash_when_ring_summary">Mrugaj diodą powiadomień przy połączeniu przychodzącym</string>
+	<string name="flash_when_ring_summary">Powiadamiaj diodą LED aparatu o połączeniu</string>
     <string name="flash_when_ring_title">Pulsowanie flesza</string>
     <string name="enable_proximity_summary">Wygaszanie ekranu podczas rozmowy gdy telefon jest przy twarzy</string>
     <string name="enable_proximity_title">Wygaś przy twarzy</string>

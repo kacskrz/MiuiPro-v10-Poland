@@ -1699,4 +1699,12 @@
   <string name="enable_atrace_summary">Rejestruj eventy kernela za pomocą ATrace</string>
   <string name="structure_face_unlock_tof_covered">"Nie można dodać danych twarzy. Odsuń się od ekranu."</string>
   <string name="download_lock_wallpaper">Kliknij 2 razy, aby pobrać aplikację Muzyka</string> 
+  <string name="wapi_auto_sel_cert">Wybierz automatycznie</string>
+  <string name="wapi_cert_select">Certyfikat WAPI</string>
+  <string name="wapi_password_empty">Wpisz hasło</string>
+  <string name="wapi_password_hex_length_invalid">Liczba znaków szesnastkowych musi być liczbą parzystą</string>
+  <string name="wapi_password_length_invalid">Hasło musi mieć od 8 do 64 znaków</string>
+  <string name="wapi_psk_type">Typ hasła</string>
+  <string name="wapi_psk_type_ascii">ASCII</string>
+  <string name="wapi_psk_type_hex">Szesnastkowe</string>
 </resources>

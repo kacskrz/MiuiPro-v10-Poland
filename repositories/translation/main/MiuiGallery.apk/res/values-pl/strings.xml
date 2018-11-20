@@ -1360,4 +1360,5 @@ aby spersonalizować Galerię"</string>
   <string name="ext_sdcard_permission_request_title">Zezwól Galerii na dostęp do karty SD</string>
   <string name="ext_sdcard_request_failed_button_text">OK</string>
   <string name="ext_sdcard_request_succeed_toast_text">"Gotowe"</string>
+  <string name="photo_editor_talkback_crop_screen">Pełnoekranowe proporcje obrazu</string>
 </resources>

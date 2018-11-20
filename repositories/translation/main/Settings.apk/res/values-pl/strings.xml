@@ -5726,8 +5726,8 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
     <string name="status_bar_settings_notification_shade_shortcut">Skrót na pasku powiadomień (nad przełącznikami)</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Dotknij przycisku \"Dodaj konto\" poniżej, aby powiązać konto Xiaomi z tym urządzeniem.
 2. Pobierz narzędzie odblokowujące z naszej strony. Musisz odblokować urządzenie przy użyciu komputera. Pobierz stąd:"</string>
-    <string name="security_input">Bezpieczne wprowadzanie</string>
-    <string name="security_input_hint">Używaj bezpiecznej klawiatury do wprowadzania haseł</string>
+    <string name="security_input">Bezpieczna klawiatura</string>
+    <string name="security_input_hint">Używaj bezpiecznej klawiatury do wpisywania haseł</string>
     <string name="forget_password_dialog_button_text">Wstecz</string>
     <string name="forget_password_dialog_content_four"><Data>2. Wybierz &lt;font color=#e6e6e6>[Wipe data]&lt;/font> i poczekaj, aż urządzenie uruchomi się ponownie.</Data></string>
     <string name="forget_password_dialog_content_one"><Data>"Jeśli zapomnisz swojego hasła, nie będziesz w stanie go przywrócić. Możesz jednak zresetować hasło po &lt;font color=#ec2700>wymazaniu wszystkich danych na urządzeniu&lt;/font> (włącznie z zdjęciami, kontaktami itd.). Wykonaj kopię zapasową ważnych danych przed wykonaniem tej czynności."</Data></string>
@@ -5822,9 +5822,9 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="miui_sos_statusbar_title">Alarmowy SOS jest aktywny</string>
   <string name="sos_privacy_and_content_policy">Zgodą użytkownika i Polityką prywatności</string>
   <string name="sos_privacy_dialog_button_cancel">Anuluj</string>
-  <string name="sos_privacy_dialog_button_ok">Kontynuuj</string>
-  <string name="sos_privacy_dialog_message">"W celu włączenia funkcji alarmowego SOS, potwierdź zapoznanie się z %s. 
-Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie Twojej lokalizacji, skorzystanie z sieci komórkowej i dostęp do kontaktów. Czy zgadzasz się na to?"</string>
+  <string name="sos_privacy_dialog_button_ok">Zgoda</string>
+  <string name="sos_privacy_dialog_message">"Przed użyciem tej funkcji przeczytaj i zatwierdź %s. 
+Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowych i dostępu do kontaktów. Czy zgadzasz się na to?"</string>
   <string name="sos_privacy_dialog_title">Warunki użytkowania</string>
   <string name="talkback_watermark_enable">Znak wodny TalkBack</string>
   <string name="ai_settings_double_click_category">Dwuklik przycisku AI</string>
@@ -5878,14 +5878,14 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="slider_global_summary_selfie">Przesuń ekran w dół, aby zrobić selfie</string>
   <string name="slider_tool_none_summary">Nie przypisano skrótu slidera</string>
   <string name="status_bar_settings_notification_style">Styl powiadomień</string>
-  <string name="allow_device_id_access">Aplikacje identyfikujące urządzenie</string>
-  <string name="device_id">Identyfikacja urządzenia</string>
+  <string name="allow_device_id_access">Aplikacje z dostępem do ID urządzenia</string>
+  <string name="device_id">ID urządzenia</string>
   <string name="pref_show_lunar_calendar_title">Pokaż chiński kalendarz na ekranie blokady</string>
   <string name="restore_device_id_content">Zresetuj rekomendacje</string>
-  <string name="restore_device_id_title">Przywróć identyfikację urządzenia</string>
-  <string name="restore_dialog_content">Przywrócenie identyfikacji urządzenia spowoduje zresetowanie spersonalizowanych propozycji.</string>
+  <string name="restore_device_id_title">Przywróć ID urządzenia</string>
+  <string name="restore_dialog_content">Przywrócenie ID urządzenia spowoduje zresetowanie spersonalizowanych propozycji.</string>
   <string name="restore_dialog_positive">Przywróć</string>
-  <string name="restore_dialog_title">Przypomnienie</string>
+  <string name="restore_dialog_title">Uwaga</string>
   <string name="status_bar_settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
   <string name="call_records_summary_1">9:35 | 26 sekund | China Unicom</string>
   <string name="call_records_summary_2">16 sierpnia | 1 min 16 s | China Mobile</string>
@@ -5916,7 +5916,7 @@ Aby zapewnić normalne korzystanie z tej funkcji, może być konieczne uzyskanie
   <string name="power_key_how_power_off_detail">Przytrzymaj przycisk Power przez 3 sekundy</string>
   <string name="power_key_how_start">Jak uruchomić Asystenta Google?</string>
   <string name="power_key_how_start_detail">Przytrzymaj przycisk Power na pół sekundy, a potem go puść.</string>
-  <string name="power_key_start_enjoy">Rozumiem, powiedz więcej na temat Asystenta Google</string>
+  <string name="power_key_start_enjoy">Dowiedz się więcej o Asystencie Google</string>
   <string name="power_key_start_guide">Uruchom Asystenta Google za pomocą przycisku Power na urządzeniach pełnoekranowych</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Uruchom asystenta głosowego w trybie pełnoekranowym (bez fizycznych przycisków)</string>
 </resources>

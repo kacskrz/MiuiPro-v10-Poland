@@ -65,4 +65,11 @@
         <item>Tylko odbierz</item>
         <item>Odrzuć</item>
     </string-array>
+    <string-array name="reason_type">
+        <item>Oszustwo</item>
+        <item>Nielegalna treść</item>
+        <item>Spam</item>
+        <item>Inne</item>
+        <item>Anuluj</item>
+    </string-array>
 </resources>

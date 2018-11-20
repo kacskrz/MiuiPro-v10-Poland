@@ -703,15 +703,15 @@
     <string name="dialog_title_networking">Warunki użytkowania</string>
     <string name="exceed_length_limit">Przekroczono maksymalny limit długości</string>
     <string name="forward_message_select_title">Przekaż wiadomość</string>
-    <string name="group_already_kicked_hint">Nie jesteś w tej grupie, nie możesz wysłać wiadomości.</string>
-    <string name="group_message_title">Wiadomość grupowa</string>
-    <string name="group_not_exist_hint">Grupa została rozwiązana i nie można wysyłać wiadomości</string>
-    <string name="group_notify_message_title">Wiadomość grupowa</string>
-    <string name="group_rejoin_failed">Operacja grupy nie powiodła się</string>
-    <string name="group_view_settings_disolved">Grupa została rozwiązana i nie można wyświetlić danych grupy.</string>
-    <string name="group_view_settings_not_memeber">Nie można wyświetlić danych grupy w tej grupie</string>
+    <string name="group_already_kicked_hint">Nie można wysłać wiadomości, gdyż nie jesteś członkiem tego czatu.</string>
+    <string name="group_message_title">Czaty grupowe</string>
+    <string name="group_not_exist_hint">Nie można wysłać wiadomości, bowiem czat został usunięty.</string>
+    <string name="group_notify_message_title">Powiadomienia z grup</string>
+    <string name="group_rejoin_failed">Nie udało się dołączyć do czatu</string>
+    <string name="group_view_settings_disolved">Nie można wyświetlić elementów, bowiem czat został usunięty.</string>
+    <string name="group_view_settings_not_memeber">Nie można wyświetlić elementów, gdyż nie jesteś członkiem tego czatu.</string>
     <string name="millionbyte">MB</string>
-    <string name="msg_no_member_selected">Wybierz co najmniej jeden kontakt.</string>
+    <string name="msg_no_member_selected">Wybierz co najmniej 1 kontakt</string>
     <string name="msg_type_sms_rcs">SMS, MMS oraz wiadomości internetowe</string>
     <string name="network_error_description">Wystąpił błąd sieci. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="not_prepare_for_send">Brak wiadomości do wysłania</string>
@@ -773,4 +773,14 @@
     <string name="send_rms_editor_hints">Wiadomości China Mobile</string>
     <string name="send_rms_editor_hints_omit">Wiadomości Mi</string>
     <string name="user_agreement">Zgodę użytkownika</string>
+  <string name="complain_input_number">Wpisz numer telefonu</string>
+  <string name="complain_jump">Pomiń</string>
+  <string name="complain_message_title">Skarga</string>
+  <string name="complain_ok">OK</string>
+  <string name="complain_phone_number">numer telefonu</string>
+  <string name="complain_reason">Dlaczego zgłaszasz tą wiadomość?</string>
+  <string name="complain_success">Dziękujemy za Twoją opinię. Pomoże nam ona ulepszyć aplikację!</string>
+  <string name="complain_tips">"Treść najnowszej wiadomości, którą zgłaszasz, zostanie przesłana na nasze serwery wraz z podanym numerem telefonu. Nasi usługodawcy dokonają przeglądu zgłoszonej wiadomości.
+"</string>
+  <string name="complain_upload">Skarga została zgłoszona</string>
 </resources>

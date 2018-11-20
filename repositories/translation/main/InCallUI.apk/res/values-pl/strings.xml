@@ -231,4 +231,5 @@
 	<string name="conference_call_recorder_title">Telekonferencja</string>
 	<string name="description_message_list_title">Lista szybkich odpowiedzi</string>
 	<string name="volume_boost_text">Pomyślnie zwiększono głośność</string>
+	<string name="supp_service_notification_call_waiting">Wybrany numer jest teraz zajęty. Proszę czekać…</string>
 </resources>

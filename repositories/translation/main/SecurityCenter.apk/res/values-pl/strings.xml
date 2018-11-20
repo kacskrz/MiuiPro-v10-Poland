@@ -46,7 +46,7 @@
   <string name="activity_title_virus_settings">Ustawienia</string>
   <string name="activity_title_white_list">Wyjątki</string>
   <string name="ad_btn_default_text">Dowiedz się więcej</string>
-  <string name="ad_split_screen_title">Przełącz się do trybu pełnoekranowego, aby odblokować</string>
+  <string name="ad_split_screen_title">Wyjdź z trybu dzielonego ekranu, aby odblokować</string>
   <string name="ad_update_time">Ostatnia aktualizacja %s</string>
   <string name="ad_update_time_unKnown">Nieznany czas aktualizacji</string>
   <string name="adb_install_no_network">Połącz z siecią i spróbuj ponownie</string>
@@ -330,7 +330,7 @@
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Przejdź do Blokowania aplikacji</string>
   <string name="back_description_securitycenter">Wstecz</string>
-  <string name="back_modifypassword">Wróć do zmiany hasła</string>
+  <string name="back_modifypassword">Wróć do zmiany typu hasła</string>
   <string name="back_sound_data">Włącz dane mobilne i spróbuj ponownie.</string>
   <string name="back_sound_fail">Nie udało się ustawić. Ustawienia operatora zmieniły się. Ustaw aktualną kartę SIM jako kartę danych, połącz się z siecią i spróbuj ponownie.</string>
   <string name="back_sound_success">Pomyślnie ustawiono</string>
@@ -1117,7 +1117,7 @@
   <string name="mixed_retry_button_text">Anuluj</string>
   <string name="mixed_settings_help_how_to_record">Jak ustawić hasło</string>
   <string name="modify_password_mode">&lt;u&gt;Zmień typ hasła&lt;/u&gt;</string>
-  <string name="modifypassword">Zmień hasło</string>
+  <string name="modifypassword">Zmień typ hasła</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Więcej</string>
   <string name="monitor_requests_from_pc">Instaluj aplikacje przez USB</string>
