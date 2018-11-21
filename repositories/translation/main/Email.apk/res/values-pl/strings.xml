@@ -69,11 +69,11 @@
     <string name="account_setup_address_label">E-mail</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Potwierdź poprawność nazwy użytkownika, hasła i ustawień konta.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Nie udało się skonfigurować konta</string>
-    <string name="account_setup_basics_email_label">Wpisz adres e-mail</string>
+    <string name="account_setup_basics_email_label">Adres e-mail</string>
     <string name="account_setup_basics_login_gmail_without_proxy">Zaloguj się przy użyciu bieżącej sieci</string>
     <string name="account_setup_basics_manual_setup_action">Konfig. ręczna</string>
     <string name="account_setup_basics_mi_mail_login_help">Być może konieczne będzie zweryfikowanie konta za pomocą SMS, aby otrzymywać e-maile</string>
-    <string name="account_setup_basics_password_label">Wprowadź hasło</string>
+    <string name="account_setup_basics_password_label">Hasło</string>
     <string name="account_setup_basics_title">Dodaj konto</string>
     <string name="account_setup_check_settings_check_incoming_msg">Weryfikacja ustawień serwera…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Weryfikacja ustawień SMTP…</string>
@@ -355,7 +355,9 @@
     <string name="device_not_activiey_lint1">Menadżer urządzeń nie został aktywowany</string>
     <string name="device_not_activiey_lint2">Usługa poczty nie działa z Exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">Wybrano opcję ręcznej synchronizacji konta e-mailowego. Odśwież, aby zsynchronizować.</string>
+    <string name="dialog_agree">Zgadzam się</string>
     <string name="dialog_change_sync_lookback">Poczta otrzymana %s temu zostanie automatycznie usunięta. Dotknij, aby to zmienić.</string>
+    <string name="dialog_disagree">Anuluj</string>
     <string name="dialog_insufficient_space_on_external">Nie można pobrać załącznika. Za mało miejsca w pamięci zewnętrznej.</string>
     <string name="dialog_insufficient_space_on_internal">Brak miejsca w pamięci wewnętrznej.</string>
     <string name="dialog_system_auto_sync_account_no_open">Włącz synchronizację konta, aby automatycznie odbierać e-maile</string>
@@ -497,6 +499,7 @@ dla:
     <string name="invalid_recipient_title">Błąd odbiorcy</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
+    <string name="list_empty_to_fresh">Brak maili, spróbuj odświeżyć menu.</string>
     <string name="load_from_remote">Szukaj na serwerze</string>
     <string name="load_more">Wczytaj więcej</string>
     <string name="loading_conversation">Wczytywanie…</string>
@@ -658,14 +661,15 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="not_synced_title">Konto nie jest zsynchronizowane</string>
     <string name="notification_action_archive">Archiwizuj</string>
     <string name="notification_action_delete">Usuń</string>
-    <string name="notification_action_remove_label">Usuń znacznik</string>
+    <string name="notification_action_remove_label">Usuń etykietę</string>
     <string name="notification_action_reply">Odpowiedz</string>
     <string name="notification_action_reply_all">Odp. wszyst.</string>
     <string name="notification_action_undo_archive">Zarchiwizowano</string>
     <string name="notification_action_undo_delete">Usunięto</string>
-    <string name="notification_action_undo_remove_label">Usunięto znacznik</string>
+    <string name="notification_action_undo_remove_label">Usunięto etykietę</string>
     <string name="notification_exchange_calendar_added">Dodano kalendarz Exchange</string>
-    <string name="notify_channel_new_mail">Powiadom o nowych wiadomościach</string>
+    <string name="notify_channel_new_mail">Powiadom o nowych mailach</string>
+    <string name="notify_channel_no_disterb">Tryb Nie przeszkadzać</string>
     <string name="notify_channel_permission_notice">Uprawnienie do przypominania o powiadomieniach</string>
     <string name="notify_channel_send_fail">Powiadom o niedostarczeniu wiadomości</string>
     <string name="oauth_error_description">Nie udało się autoryzować</string>
@@ -778,6 +782,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="preview_attachment">Podgląd</string>
     <string name="previous_action">Wstecz</string>
     <string name="print">Drukuj</string>
+    <string name="privacy_des">Log zawiera informacje dla programistów wygenerowane przez aplikację Poczty oraz dane o Twoim urządzeniu, by pomóc zlokalizować Twój problem i go naprawić. Kliknięciem przycisku %1$s poniżej potwierdzasz, że przeczytałeś i zgodziłeś się na %2$s firmy Xiaomi.</string>
 	<string name="privacy_policy">Polityka prywatności</string>
     <string name="prompt_title">Zapytaj</string>
     <string name="protocol_setting_toast">Po wyrażeniu zgody, dotknij prawego górnego rogu, aby przejść do ustawień</string>

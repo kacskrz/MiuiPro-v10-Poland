@@ -102,4 +102,6 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="terms_privacy_policy_input_method_kika">Polityka prywatności Kika</string>
   <string name="voice_assist_desp_screen_light">Po wybudzeniu ekranu powiedz do telefonu \"Mi AI\". Mi AI rozpozna Twój głos i będzie w stanie kontrolować urządzenie.</string>
   <string name="zone_picker_title">Wybierz strefę czasową</string>
+  <string name="other_settings_enhanced_lockscreen">Tapety ekranu blokady</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
 </resources>

@@ -102,6 +102,7 @@
   <string name="statusbar_element_not">- Powiadomienia</string>
   <string name="statusbar_element_other">- Inne</string>
   <string name="statusbar_element_title">Lokalizacja elementów</string>
+  <string name="support_density_font_title">Zależność rozmiaru czcionki od DPI</string>
   <string name="swipe_up_app_title">Aplikacja uruchamiana po przesunięciu w górę</string>
   <string name="swipe_up_home">Przesuń do góry</string>
   <string name="switch_mobile_title">Typ sieci, kiedy rozmawiasz</string>

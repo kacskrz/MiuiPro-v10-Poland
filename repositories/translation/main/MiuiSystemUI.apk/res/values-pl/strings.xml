@@ -88,6 +88,7 @@
   <string name="accessibility_home">Przycisk Ekran główny</string>
   <string name="accessibility_ime_switch_button">Włącz przycisk wprowadzania tekstu.</string>
   <string name="accessibility_key">Własne przyciski nawigacji</string>
+  <string name="accessibility_left_lock_screen_magazine_button">Tapety ekranu blokady</string>
   <string name="accessibility_location_active">Location requests active</string>
   <string name="accessibility_managed_profile">Profil firmowy</string>
   <string name="accessibility_menu">Przycisk Menu</string>
@@ -1707,4 +1708,10 @@
   <string name="wapi_psk_type">Typ hasła</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Szesnastkowe</string>
+  <string name="face_data_manage_unlock_slide_msg">Zastąp skróty slidera odblokowaniem twarzą</string>
+  <string name="clock_city_name_local">Lokalne</string>
+  <string name="lock_screen_magazine_default_content">Codzienna porcja nowych obrazów</string>
+  <string name="lock_screen_magazine_default_entry_title">Szczegóły tapety</string>
+  <string name="lock_screen_magazine_default_title">Tapety ekranu blokady</string>
+  <string name="open_lock_screen_magazine_hint_text">Przesuń w prawo, by zobaczyć więcej opcji</string>
 </resources>
