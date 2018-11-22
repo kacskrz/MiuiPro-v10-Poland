@@ -297,6 +297,7 @@
   <string name="share">Udostępnij</string>
   <string name="show_all">Pokaż wszystkie</string>
   <string name="show_mem_info_title">Pokaż stan pamięci</string>
+  <string name="show_recents_recommend_title">Pokaż skróty w menu Ostatnich aplikacji</string>
   <string name="sort_by_abc">Sortuj alfabetycznie</string>
   <string name="sort_by_frequency">Sortuj wg wykorzystania</string>
   <string name="sort_by_not_defined">Auto-sortowanie</string>
