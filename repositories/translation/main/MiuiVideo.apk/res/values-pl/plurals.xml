@@ -20,6 +20,10 @@
     <item quantity="other">Wybrany %1$s przedmiotów</item>
     <item quantity="one">Wybrany %1$s pozycja</item>
   </plurals>
+  <plurals name="finish_item_all_counts">
+    <item quantity="other">%1$s wideo</item>
+    <item quantity="one">%1$s wideo</item>
+  </plurals>
   <plurals name="notification_sub_title">
     <item quantity="other">Pobrano %d pliki pomyślnie</item>
     <item quantity="one">Pobrano %d plik pomyślnie</item>
@@ -50,6 +54,15 @@
   <plurals name="updated_already">
     <item quantity="other">Zaktualizowano %d przedmiotów</item>
     <item quantity="one">Zaktualizowano %d pozycja</item>
+  </plurals>
+  <plurals name="v_cache_videos">
+    <item quantity="other">%d wideo w pamięci podręcznej</item>
+    <item quantity="one">%d wideo w pamięci podręcznej</item>
+  </plurals>
+  <plurals name="v_coin_show">
+    <item quantity="other">%d monet</item>
+    <item quantity="one">%d moneta</item>
+    <item quantity="few">%d monet</item>
   </plurals>
   <plurals name="v_video_count">
     <item quantity="other">%d wideo</item>

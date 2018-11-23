@@ -4417,6 +4417,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="suggestions_title">Sugestie</string>
   <string name="sum_carrier_select">Wybierz operatora sieci.</string>
   <string name="summary_divider_text">", "</string>
+  <string name="summary_font_size_v2">Dostosuj rozmiar tekstu, obrazów i ikon</string>
   <string name="summary_range_symbol_combination">%1$s – %2$s</string>
   <string name="summary_range_verbal_combination">Od: %1$s do: %2$s</string>
   <string name="super_resolution_access_title">Uprawnione aplikacje</string>
@@ -4556,10 +4557,12 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="title_font_current">Czcionka systemowa</string>
   <string name="title_font_current2">Czcionka systemowa</string>
   <string name="title_font_size">Rozmiar czcionki</string>
+  <string name="title_font_v2">Tekst i elementy interfejsu</string>
   <string name="title_font2">Czcionka</string>
   <string name="title_hdmi_color_calibration">Korekcja kolorów HDMI</string>
   <string name="title_layout_current">Rozmiar tekstu</string>
   <string name="title_layout_current2">Rozmiar tekstu</string>
+  <string name="title_layout_v2">Rozmiar tekstu i skalowanie</string>
   <string name="toast_lockscreen_glogin_empty_password">Wprowadź hasło</string>
   <string name="toast_need_login">Zaloguj się na konto Xiaomi</string>
   <string name="total">Nie przeszkadzać</string>

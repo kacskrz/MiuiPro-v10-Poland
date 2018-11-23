@@ -220,6 +220,8 @@
   <string name="extended_storage_file_can_not_open">Nie można otworzyć pliku. Skopiuj plik najpierw do pamięci wewnętrznej.</string>
   <string name="extract">Wyodrębnij</string>
   <string name="fail_to_create_folder_unknown">Nie udało się utworzyć katalogu, ze względu na nieznany błąd.</string>
+  <string name="failed_not_access_sd_card">Najpierw zezwól na dostęp do karty SD</string>
+  <string name="failed_obtain_permissions">Nie uzyskano uprawnień</string>
   <string name="favorite_photo">Zdjęcia</string>
   <string name="favorite_ringtone">Dzwonki</string>
   <string name="favorite_screen_cap">Zrzuty ekranu</string>
@@ -405,6 +407,7 @@
   <string name="no_wifi">Brak wykrytych sieci</string>
   <string name="no_wifi_hint">Brak łączności</string>
   <string name="not_installed_documentsui">Aplikacja DocumentsUI nie jest zainstalowana</string>
+  <string name="not_support_documentui">Aplikacja DocumentUI nie jest wspierana na tym urządzeniu</string>
   <string name="notif_server_starting">Serwer FTP startuje…</string>
   <string name="notif_title">Serwer FTP jest uruchomiony</string>
   <string name="notification_dialog_confirm">OK</string>
@@ -545,6 +548,8 @@
   <string name="report_politics">Niepoprawność polityczna</string>
   <string name="report_porn">Pornografia</string>
   <string name="report_violence">Przemoc</string>
+  <string name="request_document_permission">Aby zarządzać plikami na karcie SD, nadaj Menedżerowi Plików wymagane uprawnienia.</string>
+  <string name="request_document_permission_title">Wymagane uprawnienia</string>
   <string name="request_timeout">Przekroczono limit czasu sieci</string>
   <string name="reset_password">Zmień hasło</string>
   <string name="restoring">Przywracanie…</string>
