@@ -54,4 +54,8 @@
         <item quantity="other">%d sekund</item>
         <item quantity="one">%d sekunda</item>
      </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Alarm wyłączy się %2$s razy (%1$s min. każdy)</item>
+        <item quantity="one">Alarm wyłączy się %2$s raz (%1$s min.)</item>
+    </plurals>
 </resources>

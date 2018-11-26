@@ -525,4 +525,19 @@
         <item quantity="other">Utracono %2$d%% baterii w ciągu ostatnich %1$d minut</item>
         <item quantity="one">Utracono %2$d%% baterii w ciągu ostatniej minuty</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Połącz min. %d kropek</item>
+        <item quantity="one">Połącz min. %d kropkę</item>
+        <item quantity="few">Połącz min. %d kropki</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Wpisz min. %d cyfr</item>
+        <item quantity="one">Wpisz min. %d cyfrę</item>
+        <item quantity="few">Wpisz min. %d cyfry</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Wpisz min. %d znaków</item>
+        <item quantity="one">Wpisz min. %d znak</item>
+        <item quantity="few">Wpisz min. %d znaki</item>
+    </plurals>
 </resources>

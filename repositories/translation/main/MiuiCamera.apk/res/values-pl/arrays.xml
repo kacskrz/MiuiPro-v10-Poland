@@ -33,12 +33,15 @@
         <item>Rysunek</item>
         <item>Portret</item>
 		<item>Biżuteria</item>
-      <item>Posąg Buddy</item>
-      <item>Bydło</item>
-      <item>Curry</item>
-      <item>Motocykl</item>
-      <item>Świątynia</item>
-      <item>Plaża</item>
-      <item>Pod wodą</item>
+		<item>Posąg Buddy</item>
+		<item>Bydło</item>
+		<item>Curry</item>
+		<item>Motocykl</item>
+		<item>Świątynia</item>
+		<item>Plaża</item>
+		<item>Pod wodą</item>
+        <item>Wieża</item>
+        <item>Noc</item>
+        <item>Zdjęcie grupowe</item>
     </string-array>
 </resources>

@@ -80,41 +80,49 @@
      <item>Poprzedni listopad</item>
      <item>Poprzedni grudzień</item>
   </string-array>
-  <string-array name="month_past_year">
-     <item>Wspomnienia ze stycznia</item>
-     <item>Wspomnienia z lutego</item>
-     <item>Wspomnienia z marca</item>
-     <item>Wspomnienia z kwietnia</item>
-     <item>Wspomnienia z maja</item>
-     <item>Wspomnienia z czerwca</item>
-     <item>Wspomnienia z lipca</item>
-     <item>Wspomnienia z sierpnia</item>
-     <item>Wspomnienia z września</item>
-     <item>Wspomnienia z października</item>
-     <item>Wspomnienia z listopada</item>
-     <item>Wspomnienia z grudnia</item>
-  </string-array>
   <string-array name="season_last_year">
      <item>Ostatniej wiosny</item>
      <item>Ostatniego lata</item>
      <item>Ostatniej jesieni</item>
      <item>Ostatniej zimy</item>
   </string-array>
-  <string-array name="season_past_year">
-     <item>Wiosenne wspomnienia</item>
-     <item>Letnie wspomnienia</item>
-     <item>Jesienne wspomnienia</item>
-     <item>Zimowe wspomnienia</item>
-  </string-array>
-  <string-array name="season_recap">
-     <item>Podsumowanie wiosny</item>
-     <item>Podsumowanie lata</item>
-     <item>Podsumowanie jesieni</item>
-     <item>Podsumowanie zimy</item>
-  </string-array>
     <string-array name="menu_copy_or_move">
         <item>Przenieś</item>
         <item>Skopiuj</item>
-        <item>@string/cancel</item>
+        <item>Anuluj</item>
+    </string-array>
+    <string-array name="month">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
+    </string-array>
+    <string-array name="season">
+        <item>Wiosna</item>
+        <item>Lato</item>
+        <item>Jesień</item>
+        <item>Zima</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
     </string-array>
 </resources>
