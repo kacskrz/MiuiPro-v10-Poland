@@ -545,7 +545,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="beauty_tab_name_live_beauty">Upiększanie</string>
   <string name="beauty_tab_name_live_filter">Filtr</string>
   <string name="custom_watermark_contains_senstive_words">Zmień wrażliwe słowa %1$s</string>
-  <string name="custom_watermark_tips">Powyższy tekst będzie drugim wierszem znaku wodnego zdjęcia. Ogranicz go do 15 liter angielskich.</string>
+  <string name="custom_watermark_tips">Powyższy tekst będzie drugim wierszem znaku wodnego zdjęcia (do 15 znaków).</string>
   <string name="custom_watermark_too_many_words">Przekroczyłeś limit znaków</string>
   <string name="custom_watermark_words">Własne słowa na znaku wodnym</string>
   <string name="custom_watermark_words_input_hint">Wpisz słowa</string>
