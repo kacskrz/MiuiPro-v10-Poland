@@ -428,4 +428,22 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
   <string name="greenguard_child_des_title">Potrzebuję pomocy od przyjaciół i rodziny</string>
   <string name="greenguard_parent_des">Pobierz naszą aplikację i dodaj inne urządzenia</string>
   <string name="greenguard_parent_des_title">Chcę pomóc moim przyjaciołom i rodzinie</string>
+  <string name="button_text_next_step">Dalej</string>
+  <string name="button_text_next_step_timer">Dalej (%d)</string>
+  <string name="cta_declaration_agree_and_continue">Zgoda</string>
+  <string name="cta_declaration_message_format" formatted="false">Musisz przeczytać i zaakceptować nasze &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; przed użyciem trybu firmowego. Aby aktywować ten tryb, Twoje urządzenie musi być połączone z Internetem. Zgadzasz się na to?</string>
+  <string name="cta_declaration_title">Warunki użytkowania</string>
+  <string name="dialog_message_service_error">Nie udało się odwołać autoryzacji i wykonać resetu do ustawień fabrycznych. Spróbuj ponownie.</string>
+  <string name="dialog_tip_need_network">Aby odwołać autoryzację, Twoje urządzenie musi być połączone z Internetem.</string>
+  <string name="dialog_title_service_error">Błąd serwera</string>
+  <string name="dialog_undo_negative">Nie odwołuj</string>
+  <string name="master_clear_apply_step_1">Odwołanie autoryzacji wymaga wykonanie resetu do ustawień fabrycznych. Usunie to wszystkie pliki i dane, włącznie z kontami, kontaktami, zdjęciami itd. Zrób kopię tych danych przed odwołaniem autoryzacji.</string>
+  <string name="master_clear_apply_step_2">Upewnij się, że wykonałeś kopię ważnych danych na komputerze. Po kliknięciu przycisku \"OK\" rozpocznie się resetowanie telefonu do ustawień fabrycznych.</string>
+  <string name="master_clear_apply_title">Uwaga</string>
+  <string name="more_settings">Więcej</string>
+  <string name="undo_activated_dialog_message">Odwołanie autoryzacji wyłączy Tryb firmowy i spowoduje wykonanie resetu urządzenia do ustawień fabrycznych. Wszystkie związane z autoryzacją funkcje nie będą już dostępne. Xiaomi zaprzestanie gromadzenia informacji wymaganych do działania trybu firmowego (IMEI, ID urządzenia, wersja systemu, region itd.). Przypominamy, że Xiaomi nie zarządza danymi gromadzonymi w trybie firmowym. Zrobimy co w naszej mocy, aby powiadomić wszystkie powiązane podmioty, ale zalecamy skontaktowanie się z przełożonymi firmy w celu zatwierdzenia tego odwołania. Odwołać autoryzację i wykonać reset urządzenia?</string>
+  <string name="undo_activated_dialog_ok">Odwołaj</string>
+  <string name="undo_grant_dialog_message">Xiaomi zaprzestanie gromadzenia informacji wymaganych do działania tej funkcji  (IMEI, ID urządzenia, wersja systemu, region itd.) po odwołaniu autoryzacji. Odwołać ją teraz?</string>
+  <string name="undo_privacy_menu">Odwołaj autoryzację</string>
+  <string name="undo_success">Pomyślnie odwołano</string>
 </resources>

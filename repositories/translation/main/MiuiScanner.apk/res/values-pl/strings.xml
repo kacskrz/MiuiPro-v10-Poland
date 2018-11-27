@@ -222,4 +222,10 @@
 	<string name="translate_try_again">Dotknij, aby spróbować ponownie</string>
 	<string name="translate_type_take_pic">Zdjęcie</string>
     <string name="wifi_exist_fail">Hotspot Wi-Fi \"%1$s\" już istnieje. Usuń go i spróbuj ponownie.</string> 
+    <string name="module_title_plant">Roślina</string>
+	<string name="plant_fail">Nie rozpoznano</string>
+	<string name="plant_loading">Rozpoznawanie…</string>
+	<string name="plant_reg_fail_2">Nie udało się rozpoznać tego obiektu. Skaner jest w stanie rozpoznać jedynie rośliny.</string>
+	<string name="plant_support">" (Pomoc techniczna) "</string>
+	<string name="plant_title">Zrób zdjęcie roślinie, którą chcesz rozpoznać</string>
 </resources>

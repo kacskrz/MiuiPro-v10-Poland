@@ -160,12 +160,16 @@
         <item quantity="other">Pozostało %1$d godz. %2$d min</item>
         <item quantity="one">Pozostało %1$d godz. %2$d min</item>
     </plurals>
-     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Wpisanie hasła jest wymagane po %d godzinach nieaktywności</item>
-        <item quantity="one">Wpisanie hasła jest wymagane po godzinie nieaktywności</item>
-     </plurals>
-     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Narysowane wzoru jest wymagane po %d godzinach nieaktywności</item>
-        <item quantity="one">Narysowanie wzoru jest wymagane po godzinie nieaktywności</item>
-     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź hasło.</item>
+        <item quantity="one">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź hasło.</item>
+        <item quantity="few">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź hasło.</item>
+        <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź hasło.</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź wzór.</item>
+        <item quantity="one">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź wzór.</item>
+        <item quantity="few">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź wzór.</item>
+        <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź wzór.</item>
+    </plurals>
 </resources>

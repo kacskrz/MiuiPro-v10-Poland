@@ -545,7 +545,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="beauty_tab_name_live_beauty">Upiększanie</string>
   <string name="beauty_tab_name_live_filter">Filtr</string>
   <string name="custom_watermark_contains_senstive_words">Zmień wrażliwe słowa %1$s</string>
-  <string name="custom_watermark_tips">Powyższy tekst będzie drugim wierszem znaku wodnego zdjęcia. Ogranicz go do 15 znaków chińskich lub 15 liter angielskich.</string>
+  <string name="custom_watermark_tips">Powyższy tekst będzie drugim wierszem znaku wodnego zdjęcia. Ogranicz go do 15 liter angielskich.</string>
   <string name="custom_watermark_too_many_words">Przekroczyłeś limit znaków</string>
   <string name="custom_watermark_words">Własne słowa na znaku wodnym</string>
   <string name="custom_watermark_words_input_hint">Wpisz słowa</string>
@@ -555,4 +555,9 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_userdefine_watermark_title">Zmiana znaku wodnego</string>
   <string name="ultra_wide_bokeh_close_tip">Tryb portretowy w tym trybie jest wyłączony</string>
   <string name="ultra_wide_bokeh_open_tip">Szeroki tryb portretowy</string>
+  <string name="accessibility_bokeh_adjust">Dostosuj poziom rozmycia</string>
+  <string name="accessibility_bokeh_level">Poziom rozmycia: F%1$s</string>
+  <string name="change_bgm">Zmień ścieżkę dźwiękową</string>
+  <string name="hot_music">Gorące utwory</string>
+  <string name="local_music">Muzyka z telefonu</string>
 </resources>
