@@ -180,4 +180,9 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="main_space">Główna przestrzeń</string>
    <string name="second_space">Druga przestrzeń</string>
    <string name="try_continue">Dotknij, aby kontynuować</string>
+   <string name="backup_stopped_msg">Kontynuowanie robienia kopii nadpisze istniejącą kopię w Chmurze.</string>
+   <string name="backup_stopped_title">Tworzenie kopii w Chmurze wstrzymane</string>
+   <string name="dialog_btn_cancel_backup">Anuluj</string>
+   <string name="dialog_btn_overwrite_backup">Nadpisz</string>
+   <string name="dialog_msg_overwrite_backup">Różnica między kopiami lokalnymi i w Chmurze jest duża. Kontynuacja tworzenia kopii spowoduje nadpisanie istniejącej kopii.</string>
 </resources>
