@@ -363,5 +363,5 @@
     <string name="title_catch_full_log">Logi</string>
     <string name="toast_catch_full_log_catching">Możesz wygenerować tylko jeden log na raz.</string>
     <string name="title_first_aid">Pierwsza pomoc</string>
-	<string name="feedback_status_commit_in_queue_title">Oczekiwanie na informację zwrotną</string>
+	<string name="feedback_status_commit_in_queue_title">Oczekiwanie…</string>
 </resources>
