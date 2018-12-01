@@ -1716,8 +1716,8 @@
   <string name="open_lock_screen_magazine_hint_text">Przesuń w prawo, by zobaczyć więcej opcji</string>
   <string name="recents_title_app_manager">Aplikacje</string>
   <string name="recents_title_game">Gry</string>
-  <string name="recents_title_garbage_cleanup">Czyszczenie</string>
+  <string name="recents_title_garbage_cleanup">Wyczyść</string>
   <string name="recents_title_garbage_deepclean">Śmieci</string>
   <string name="recents_title_market">Znajdź aplikacje</string>
-  <string name="recents_title_security_scan">Bezpieczeństwo</string>
+  <string name="recents_title_security_scan">Antywirus</string>
 </resources>

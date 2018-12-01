@@ -592,6 +592,6 @@
   <string name="facebook_group_gif">GIFy</string>
   <string name="facebook_group_image">Zdjęcia</string>
   <string name="facebook_group_video">Wideo</string>
-  <string name="facebook_function_summery">Usuń rzeczy zachowane przez Facebooka</string>
+  <string name="facebook_function_summery">Wyczyść rzeczy zachowane przez Facebooka</string>
   <string name="facebook_function_title">Czyszczenie Facebooka</string>
 </resources>
