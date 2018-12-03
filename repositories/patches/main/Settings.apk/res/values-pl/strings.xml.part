@@ -191,4 +191,5 @@
 	<string name="icon_setnet_off">Poziomo</string>
   <string name="finger_on_title">Odblokuj po restarcie</string>
   <string name="aod_style_clock_title">Styl zegarka w trybie AOD</string>
+  <string name="icon_app_color_title">Kolorowe ikony powiadomień</string>
 </resources>

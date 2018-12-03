@@ -329,12 +329,12 @@
   <string name="application_item_disable">Odmów</string>
   <string name="application_item_permission">Zezwól</string>
   <string name="application_lock_name">Blokowanie aplikacji</string>
-  <string name="application_manager_section_title">Ustawienia aplikacji</string>
+  <string name="application_manager_section_title">Aplikacje</string>
   <string name="application_permission_manager">Uprawnienia aplikacji</string>
   <string name="application_permissions">Uprawnienia aplikacji</string>
   <string name="application_restrictions">Zezwól na aplikacje i zawartość</string>
   <string name="application_size_label">Aplikacja</string>
-  <string name="applications_settings">Zainstalowane aplikacje</string>
+  <string name="applications_settings">Zarządzanie aplikacjami</string>
   <string name="applications_settings_header">Ustawienia aplikacji</string>
   <string name="applications_settings_summary">Zarządzaj aplikacjami, konfiguruj skróty szybkiego uruchamiania.</string>
   <string name="apply_fingerprint_to_category_title">Użyj odcisku palca do…</string>
