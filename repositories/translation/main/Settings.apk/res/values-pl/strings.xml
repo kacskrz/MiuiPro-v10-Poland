@@ -5922,4 +5922,10 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="power_key_start_enjoy">Dowiedz się więcej o Asystencie Google</string>
   <string name="power_key_start_guide">Uruchom Asystenta Google za pomocą przycisku Power na urządzeniach pełnoekranowych</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Uruchom asystenta głosowego w trybie pełnoekranowym (bez fizycznych przycisków)</string>
+  <string name="default_launcher_set_jeejen_message">Kliknij przycisk Ekranu głównego, aby ustawić launcher Jeejen</string>
+  <string name="default_launcher_set_system_message">Kliknij przycisk Ekranu głównego, aby przywrócić domyślny launcher</string>
+  <string name="dump_log">Wygeneruj logi dot. problemu</string>
+  <string name="dump_log_summary">"Funkcja jest przeznaczona do generowania logów w wersjach Alfa oraz Beta MIUI. Używaj jej z rozwagą.
+Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
+  <string name="dump_log_title">O tej funkcji</string>
 </resources>

@@ -187,4 +187,5 @@
   <string name="talk_back_water_mark_string2">Wciśnij i przytrzymaj \"Volume+\" i \"Volume-\" przez 3 sekundy, by go wyłączyć</string>
   <string name="security_permission_open_wifi_settings">Otwórz ustawienia Wi-Fi</string>
   <string name="xspace_head">Sklonowana aplikacja</string> 
+  <string name="start_dump_log">Zacznij generowanie logów dot. problemu</string>
 </resources>
