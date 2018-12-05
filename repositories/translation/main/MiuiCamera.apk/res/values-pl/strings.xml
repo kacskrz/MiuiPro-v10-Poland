@@ -550,7 +550,6 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="custom_watermark_words">Własne słowa na znaku wodnym</string>
   <string name="custom_watermark_words_input_hint">Wpisz słowa</string>
   <string name="custom_watermark_words_save_success">Zapisano pomyślnie</string>
-  <string name="pref_camera_normal_wide_ldc_title">Upiększanie</string>
   <string name="pref_camera_ultra_wide_ldc_title">Szeroki kąt</string>
   <string name="pref_userdefine_watermark_title">Zmiana znaku wodnego</string>
   <string name="ultra_wide_bokeh_close_tip">Tryb portretowy w tym trybie jest wyłączony</string>
