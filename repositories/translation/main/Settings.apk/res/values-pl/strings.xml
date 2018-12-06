@@ -5928,4 +5928,6 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="dump_log_summary">"Funkcja jest przeznaczona do generowania logów w wersjach Alfa oraz Beta MIUI. Używaj jej z rozwagą.
 Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="dump_log_title">O tej funkcji</string>
+  <string name="miui_ime_xiaoai_voice_hint">Szybsza i wygodniejsza opcja wpisywania tekstu</string>
+  <string name="miui_ime_xiaoai_voice_title">Wprowadzanie głosowe Mi AI</string>
 </resources>

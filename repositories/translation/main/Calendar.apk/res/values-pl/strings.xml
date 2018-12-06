@@ -388,9 +388,9 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
     <string name="subscribe_channel_hint">"Subskrybuj usługi które lubisz i otrzymuj codzienne aktualizacje na swojej stronie głównej.
 Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</string>
     <string name="subscribe_channel_subscribe">Subskrybuj</string>
-    <string name="subscribe_channel_subscribing">Subskrybowanie</string>
+    <string name="subscribe_channel_subscribing">Zasubskrybowano</string>
     <string name="subscribe_channel_title">Kanał</string>
-    <string name="subscribing_card">Subskrybowanie</string>
+    <string name="subscribing_card">Zasubskrybowano</string>
     <string name="tab_title_agenda">Wydarzenia</string>
     <string name="tab_title_day">Dzień</string>
     <string name="tab_title_month">Miesiąc</string>
@@ -426,7 +426,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="travel_train_station">Stacja kolejowa</string>
     <string name="unsubscribe_card">Anuluj subskrypcję</string>
     <string name="unsubscribe_card_success">Pomyślnie anulowano subskrypcję “%1$s”</string>
-    <string name="unsubscribing_card">Anulowanie subskrypcji</string>
+    <string name="unsubscribing_card">Anulowano subskrypcję</string>
     <string name="user_notice_button_exit">Wyjdź</string>
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_declaration_ignore">Nie pokazuj ponownie</string>
@@ -457,4 +457,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="talk_back_month">Miesiąc</string>
     <string name="talk_back_setting">Ustawienia</string>
     <string name="edit_event_dislike_title">Dlaczego to anulowałeś?</string>
+	<string name="event_action_arrive_station">Przyjazd do stacji</string>
+	<string name="event_info_title_anniversary">Rocznica</string>
+	<string name="event_info_title_birthday">Urodziny</string>
+	<string name="event_info_title_countdown">Odliczanie</string>
 </resources>

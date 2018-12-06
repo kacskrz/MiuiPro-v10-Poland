@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Zdjęcia seryjne: zrobiono %1$s zdjęć</item>
+        <item quantity="one">Zdjęcia seryjne: zrobiono %1$s zdjęcie</item>
+        <item quantity="few">Zdjęcia seryjne: zrobiono %1$s zdjęcia</item>
+    </plurals>
+</resources>
