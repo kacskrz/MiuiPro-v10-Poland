@@ -5930,4 +5930,10 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="dump_log_title">O tej funkcji</string>
   <string name="miui_ime_xiaoai_voice_hint">Szybsza i wygodniejsza opcja wpisywania tekstu</string>
   <string name="miui_ime_xiaoai_voice_title">Wprowadzanie głosowe Mi AI</string>
+  <string name="device_description_cpu">Procesor</string>
+  <string name="device_description_battery">Bateria</string>
+  <string name="device_description_camera">Aparat</string>
+  <string name="device_description_screen">Ekran</string>
+  <string name="device_description_resolution">Rozdzielczość</string>
+  <string name="device_description_ram">Pamięć RAM</string>
 </resources>
