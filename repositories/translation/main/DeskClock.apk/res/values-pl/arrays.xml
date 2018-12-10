@@ -29,24 +29,10 @@
         <item>25 minut</item>
         <item>30 minut</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Nic nie rób</item>
         <item>Drzemka</item>
         <item>Odrzuć</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarm za mniej niż minutę</item>
@@ -85,20 +71,8 @@
         <item>Dziś</item>
         <item>Jutro</item>
     </string-array>
-	<string-array name="weather_tips_value">
-        <item>Ogranicz aktywność na powietrzu</item>
-        <item>Drogi są śliskie</item>
-        <item>Możliwe burze, uważaj!</item>
-        <item>"Dziś jest mgliście. Jedź ostroźnie!"</item>
-        <item>Powietrze jest zanieczyszczone, noś maskę!</item>
-        <item>Weź ze sobą parasol</item>
-        <item>Bądź ostrożny na drodze</item>
-        <item>"Dzisiaj może padać grad, bądź ostrożny!"</item>
-        <item>Zbliża się burza piaskowa, nałóż maskę!</item>
-        <item>Miłego dnia!</item>
-    </string-array>
 	<string-array name="countries_names_miui">
-        <item>"Coate d'Ivoire"</item>
+        <item>"Côte d'Ivoire"</item>
         <item>Ghana</item>
         <item>Etiopia</item>
         <item>Algeria</item>

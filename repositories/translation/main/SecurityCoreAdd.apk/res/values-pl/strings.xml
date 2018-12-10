@@ -90,7 +90,7 @@
   <string name="function_not_support">Nie obsługiwane na tym urządzeniu</string>
   <string name="gms_message">Utworzenie sklonowanej aplikacji dla gier wymaga działających usług Google. Utworzyć sklonowaną aplikację usług Google?</string>
   <string name="gms_open_button">Włącz</string>
-  <string name="gms_title">Włącz usługi Google</string>
+  <string name="gms_title">Sklonuj usługi Google</string>
   <string name="go_on_import">Importuj</string>
   <string name="goToSecondSpacce">Przejdź do Drugiej przestrzeni</string>
   <string name="gpg_message">Utworzenie sklonowanej aplikacji dla gier wymaga działających Gier Google Play. Utworzyć sklonowaną aplikację dla Gier Google Play?</string>

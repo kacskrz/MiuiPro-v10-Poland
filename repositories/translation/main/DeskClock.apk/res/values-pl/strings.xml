@@ -80,11 +80,11 @@
     <string name="lap">Okrążenie</string>
     <string name="lap_num">Okrążenie</string>
     <string name="legal_off_day">Dni wolne</string>
-    <string name="legal_off_day_message">" (Alarm wyłączony w dni robocze)"</string>
+    <string name="legal_off_day_message">" (Alarm włączony w dni robocze)"</string>
     <string name="legal_workday">Robocze bez ustawowo wolnych</string>
-    <string name="legal_workday_invalidate">Dane są nieważne. Aktualnie alarm jest powtarzany od Pon. do Pt.</string>
-    <string name="legal_workday_invalidate_message">(Dane są nieważne. Zaktualizuj je w Ustawieniach)</string>
-    <string name="legal_workday_message">" (Alarm wyłączony podczas świąt)"</string>
+    <string name="legal_workday_invalidate">Dane są nieważne. Aktualnie alarm wyłącza się od Pon. do Pt.</string>
+    <string name="legal_workday_invalidate_message">(Dane są nieważne. Zaktualizuj je w Ustawieniach.)</string>
+    <string name="legal_workday_message">" (Alarm włączony podczas świąt)"</string>
     <string name="life_post_setting">Poranny raport</string>
     <string name="life_post_setting_FBE_remind">Ze względu na ograniczenia systemu, informacje pogodowe w porannym raporcie mogę nie być wyświetlane prawidłowo po ponownym uruchomieniu</string>
     <string name="life_post_setting_close_title">Zamknij poranne raporty</string>
@@ -117,7 +117,7 @@
     <string name="reset">Resetuj</string>
     <string name="setting_alarm_arriving_summary">Wyślij powiadomienie przed dzwonkiem</string>
     <string name="setting_alarm_arriving_title">Powiadomienie przed dzwonkiem</string>
-    <string name="shutdown_alarm_disable_summary">Alarm nie będzie aktywny po wyłączeniu urządzenia</string>
+    <string name="shutdown_alarm_disable_summary">Alarm nie wyłączy się po wyłączeniu urządzenia</string>
     <string name="shutdown_alarm_enable_summary">"Alarm wyłączy się, jeśli zostanie ustawiony na co najmniej 5 minut po wyłączeniu urządzenia"</string>
     <string name="shutdown_alarm_title">Alarm zawsze aktywny</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -228,4 +228,5 @@
   <string name="timer_alert_mute_remind">Dotknij, by wyciszyć alarm</string>
   <string name="timer_alert_mute_switch">Przełącz, aby wyciszać alarmy w minutniku</string>
   <string name="repeat_count">Razy</string>
+  <string name="life_post_weather_no_network">Połącz się z siecią, aby zaktualizować informacje o pogodzie</string>
 </resources>

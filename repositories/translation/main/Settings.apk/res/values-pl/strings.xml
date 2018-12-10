@@ -2769,6 +2769,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="network_dashboard_title">Sieć i internet</string>
   <string name="network_detail">Szczegóły: %s</string>
   <string name="network_error">Błąd sieci</string>
+  <string name="network_name_input_error">Nie udało się zapisać SSID. Spróbuj ponownie.</string>
   <string name="network_operators_settings">Operatorzy sieci</string>
   <string name="network_reset_not_available">Resetowanie sieci nie jest dostępne dla tego użytkownika</string>
   <string name="network_restrictions">Ograniczenia sieci</string>
