@@ -551,7 +551,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="custom_watermark_words_input_hint">Wpisz słowa</string>
   <string name="custom_watermark_words_save_success">Zapisano pomyślnie</string>
   <string name="pref_camera_ultra_wide_ldc_title">Szeroki kąt</string>
-  <string name="pref_userdefine_watermark_title">Zmiana znaku wodnego</string>
+  <string name="pref_userdefine_watermark_title">Edytuj znak wodny</string>
   <string name="ultra_wide_bokeh_close_tip">Tryb portretowy w tym trybie jest wyłączony</string>
   <string name="ultra_wide_bokeh_open_tip">Szeroki tryb portretowy</string>
   <string name="accessibility_bokeh_adjust">Dostosuj poziom rozmycia</string>
@@ -577,4 +577,6 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_normal_wide_ldc_description">Naprawia zniekształcenia twarzy na krawędzi zdjęcia</string>
   <string name="pref_camera_normal_wide_ldc_title">Upiększanie twarzy (grupa)</string>
   <string name="pref_camera_ultra_wide_ldc_description">Koryguje zniekształcenia w trybie szerokiego kąta</string>
+  <string name="live_edit_exit_confirm">Wyjdź</string>
+  <string name="live_edit_exit_message">Anulować edycję?</string>
 </resources>

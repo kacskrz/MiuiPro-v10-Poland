@@ -7,6 +7,6 @@
   <string name="error_not_acceptable">Synchronizacja została wyłączona.</string>
   <string name="error_title">"Nie udało się zsynchronizować"</string>
   <string name="error_unauthorized">Synchronizacja została wyłączona z powodu zbyt wielu prób zalogowania.</string>
-  <string name="micloud_downloading_clipboard_message_from_web">Wysyłanie tekstu do schowka</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Otrzymano wiadomość z komputera</string>
   <string name="micloud_send_message_desc">Wysyłanie Wiadomości Mi</string>
 </resources>

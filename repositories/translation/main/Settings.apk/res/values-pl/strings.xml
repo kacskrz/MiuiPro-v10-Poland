@@ -5867,7 +5867,7 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="slider_title_lingdong">Intelekt</string>
   <string name="slider_title_zippo">Zapalniczka</string>
   <string name="slider_tool_drawer">Otwórz narzędzia</string>
-  <string name="slider_tool_none">Nic</string>
+  <string name="slider_tool_none">Brak akcji</string>
   <string name="slider_video_tool_summary">Przesuń ekran w dół, aby wyświetlić dostępne skróty podczas oglądania wideo</string>
   <string name="slider_video_tool_title">Skróty wideo</string>
   <string name="slider_vocie_click_too_often">Za szybko! Poczekaj minutę lub dwie i spróbuj ponownie.</string>
