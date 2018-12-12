@@ -453,8 +453,8 @@
   <string name="user_agree">Zgadzam się</string>
   <string name="user_agreement2">Warunki użytkowania</string>
   <string name="user_agreement4">Politykę Prywatności</string>
-  <string name="user_notice_identify_summary_format">Korzystając z tej usługi, zgadzasz się na %1$s i %2$s od Xiaomi.</string>
-  <string name="user_notice_title">Ogólne warunki handlowe</string>
+  <string name="user_notice_identify_summary_format">Korzystając z tej usługi, zgadzasz się na %1$s i %2$s od Xiaomi. Czy zgadzasz się na połączenie z siecią?</string>
+  <string name="user_notice_title">Zgoda na łączenie się z siecia</string>
   <string name="video_camera_label">Kamera</string>
   <string name="video_effect_entry_blackwhite">Czarno-Biały</string>
   <string name="video_effect_entry_film">Film</string>
@@ -579,4 +579,16 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_ultra_wide_ldc_description">Koryguje zniekształcenia w trybie szerokiego kąta</string>
   <string name="live_edit_exit_confirm">Wyjdź</string>
   <string name="live_edit_exit_message">Anulować edycję?</string>
+  <string name="beauty_reset_toast">Zresetowano efekt upiększania</string>
+  <string name="color_effect_live_blue">Orchidea</string>
+  <string name="color_effect_live_contrast">Kontrast</string>
+  <string name="color_effect_live_deepblack">Czerń i biel</string>
+  <string name="color_effect_live_fair">Wyblakły</string>
+  <string name="color_effect_live_hongkong">Bauhinia</string>
+  <string name="color_effect_live_mousse">Biel</string>
+  <string name="color_effect_live_none">Normalny</string>
+  <string name="color_effect_live_solar">Niebo</string>
+  <string name="color_effect_live_years">Sepia</string>
+  <string name="live_sticker_updating">Aktualizowanie...</string>
+  <string name="pref_camera_device_watermark_title">Dodaj znak wodny telefonu</string>
 </resources>
