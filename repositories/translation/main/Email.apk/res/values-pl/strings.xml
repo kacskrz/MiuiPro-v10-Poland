@@ -668,10 +668,9 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="notification_action_undo_delete">Usunięto</string>
     <string name="notification_action_undo_remove_label">Usunięto etykietę</string>
     <string name="notification_exchange_calendar_added">Dodano kalendarz Exchange</string>
-    <string name="notify_channel_new_mail">Powiadom o nowych mailach</string>
-    <string name="notify_channel_no_disterb">Tryb Nie przeszkadzać</string>
+    <string name="notify_channel_new_mail">Nowe wiadomości</string>
     <string name="notify_channel_permission_notice">Uprawnienie do przypominania o powiadomieniach</string>
-    <string name="notify_channel_send_fail">Powiadom o niedostarczeniu wiadomości</string>
+    <string name="notify_channel_send_fail">Niedostarczenie wiadomości</string>
     <string name="oauth_error_description">Nie udało się autoryzować</string>
     <string name="oauth_gmail_login_notify">Wprowadź swoją nazwę użytkownika konta Google i hasło na następnej stronie logowania.</string>
     <string name="oauth_login_continue">Kontynuuj</string>

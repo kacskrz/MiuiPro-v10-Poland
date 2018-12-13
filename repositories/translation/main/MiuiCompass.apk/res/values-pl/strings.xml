@@ -19,8 +19,8 @@
     <string name="pressure_unit">hPa</string>
     <string name="altitude_unit">m</string>
     <string name="angle">%.0f</string>
-    <string name="dialog_title_no_network">Włącz dostęp do sieci</string>
-    <string name="dialog_body_no_network">Nie można połączyć z siecią</string>
+    <string name="dialog_title_no_network">Nie można połączyć się z siecią</string>
+    <string name="dialog_body_no_network">Włącz Wi-Fi lub dane komórkowe.</string>
     <string name="dialog_calibrat_altitude">Kalibrowanie…</string>
     <string name="latitude">Szerokość</string>
     <string name="longitude">Długość</string>
@@ -32,7 +32,7 @@
     <string name="direction_north_west">PN-Z</string>
     <string name="direction_south_east">PD-W</string>
     <string name="direction_south_west">PD-Z</string>
-    <string name="guide_toast">Aby skalibrować, przesuń telefon tak, jak przedstawiono poniżej.</string>
+    <string name="guide_toast">Aby skalibrować urządzenie, przesuwaj je wg schematu poniżej.</string>
     <string name="mobiledata_alert_dialog_title">Ostrzeżenie o użyciu danych</string>
     <string name="mobiledata_alert_dialog_message">Połączyć się z Internetem, aby skalibrować wysokość?</string>
     <string name="do_not_show_next_time">Nie pokazuj ponownie</string>
