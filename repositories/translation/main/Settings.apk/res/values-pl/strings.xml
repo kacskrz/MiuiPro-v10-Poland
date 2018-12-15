@@ -1862,7 +1862,7 @@
   <string name="force_touch_enable_tips">Dotknij ikon aplikacji w menadżerze pulpitu, aby zobaczyć menu skrótów, gdy dotyk 3D jest włączony.</string>
   <string name="foreground_traffic">Pierwszy plan %s</string>
   <string name="forget">Zapomnij</string>
-  <string name="forget_password_button_text">&lt;u&gt;Nie pamiętam hasła&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Nie pamiętam hasła</string>
   <string name="forget_pattern">&lt;u&gt;Zapomniałeś wzoru?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Dodaj konto Xiaomi</string>
   <string name="forget_privacy_password_summary">Użyj konta Xiaomi do zresetowania hasła</string>
@@ -2739,8 +2739,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="nature_color">Domyślny</string>
   <string name="navigation_guide_app_summary">Przesuń w lewo lub prawo od krawędzi ekranu w górnym obszarze</string>
   <string name="navigation_guide_app_title">Aktywuje akcję aplikacji</string>
-  <string name="navigation_guide_appswitch_summary">Swipe left or right from the edge of the screen and hold for a while</string>
-  <string name="navigation_guide_appswitch_title">Switch to previous app</string>
+  <string name="navigation_guide_appswitch_summary">Przesuń w lewo lub prawo od krawędzi i chwilę przytrzymaj</string>
+  <string name="navigation_guide_appswitch_title">Przełącz do poprzedniej aplikacji</string>
   <string name="navigation_guide_back_anim_summary">Wyświetl animację przesuwania od krawędzi ekranu</string>
   <string name="navigation_guide_back_anim_title">Odtwórz gest \"Wstecz\"</string>
   <string name="navigation_guide_back_summary">Przesuń w lewo lub prawo od krawędzi ekranu</string>
@@ -2755,7 +2755,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="navigation_guide_recent_summary">Przesuń w górę od dołu ekranu i wstrzymaj</string>
   <string name="navigation_guide_recent_title">Otwórz Ostatnie</string>
   <string name="navigation_guide_settings">Dema gestów</string>
-  <string name="navigation_type_radio_text_full_screen">Gesty pełnoekranowe</string>
+  <string name="navigation_type_radio_text_full_screen">Gesty</string>
   <string name="navigation_type_radio_text_virtual_key">Przyciski</string>
   <string name="navigation_type_settings">Nawigacja systemowa</string>
   <string name="nearby_wifi">Dostępne sieci</string>

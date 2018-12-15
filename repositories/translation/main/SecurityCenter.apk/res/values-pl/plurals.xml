@@ -127,9 +127,8 @@
   </plurals>
   <plurals name="hints_apps_perm_count">
     <item quantity="other">%d uprawnień</item>
-    <item quantity="one">%d uprawnień</item>
-    <item quantity="few">%d uprawnienie</item>
-    <item quantity="many">%d uprawnienia</item>
+    <item quantity="one">%d uprawnienie</item>
+    <item quantity="few">%d uprawnienia</item>
   </plurals>
   <plurals name="hints_auto_start_disable_title">
     <item quantity="other">%d aplikacji bez zezwolenia na autostart</item>
@@ -169,8 +168,8 @@
   </plurals>
   <plurals name="hints_permission_apps_count">
     <item quantity="other">%d aplikacji</item>
-    <item quantity="one">%d aplikacji</item>
-    <item quantity="few">%d aplikacji</item>
+    <item quantity="one">%d aplikacja</item>
+    <item quantity="few">%d aplikacje</item>
     <item quantity="many">%d aplikacji</item>
   </plurals>
   <plurals name="hints_roaming_disable_title">

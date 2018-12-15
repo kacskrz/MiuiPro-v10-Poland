@@ -573,7 +573,9 @@
   <string name="diagnostic_attention_dialog_message">Diagnostyka dla %1$s trwa. Poczekaj, aż zostanie zakończona i spróbuj ponownie.</string>
   <string name="dialog_app_roaming_message">%1$s nie może korzystać z danych mobilnych w roamingu. Tylko aplikacje z listy wyjątków mogą korzystać z danych mobilnych podczas roamingu.</string>
   <string name="dialog_app_roaming_title">Przesył danych zablokowany dla %1$s</string>
-  <string name="dialog_msg_auto_start_declare">\"Niektóre aplikacje mogą wskazywać, że nie zostały dopuszczone do autostartu przez MIUI. \nAby sprawdzić uprawnienia aplikacji, przejdź do Ustawienia &gt; Aplikacje. \nDodanie aplikacji do Autostartu pomaga w sytuacjach, gdy widżet się nie aktualizuje lub wyjście do pulpitu powoduje jego ponowne wczytanie.\"</string>
+  <string name="dialog_msg_auto_start_declare">"Niektóre aplikacje mogą wskazywać, że nie zostały dopuszczone do autostartu przez MIUI.
+  Aby sprawdzić uprawnienia aplikacji, przejdź do Ustawienia &gt; Aplikacje.
+  Dodanie aplikacji do Autostartu pomaga w sytuacjach, gdy widżet się nie aktualizuje lub wyjście do pulpitu powoduje jego ponowne wczytanie."</string>
   <string name="dialog_msg_stop_virus_scan">Zatrzymać skanowanie przed zakończeniem?</string>
   <string name="dialog_no_longer_alert">Nie pokazuj ponownie</string>
   <string name="dialog_restrict_all_mobile_summary">%s Po tym łączność poprzez dane komórkowe będzie ograniczona dla wszystkich aplikacji.</string>

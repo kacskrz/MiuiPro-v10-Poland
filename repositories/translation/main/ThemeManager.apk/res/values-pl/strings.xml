@@ -245,7 +245,7 @@
   <string name="resource_comment_current_version">Aktualna wersja</string>
   <string name="resource_comment_edit_comment">Dodaj komentarz</string>
   <string name="resource_comment_edit_comment_waiting">Sprawdzanie historii…</string>
-  <string name="resource_comment_edit_text_default">Możesz napisać nam tutaj, co o tym sądzisz.</string>
+  <string name="resource_comment_edit_text_default">Możesz napisać nam tutaj, co sądzisz o tym motywie.</string>
   <string name="resource_comment_edit_title">Komentarz: %1$s</string>
   <string name="resource_comment_entry_tips">Pokaż komentarze (%1$s)</string>
   <string name="resource_comment_expand_full_text">Rozwiń tekst▼</string>
