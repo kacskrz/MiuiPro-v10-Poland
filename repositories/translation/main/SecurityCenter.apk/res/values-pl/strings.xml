@@ -2427,4 +2427,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="deep_power_save_item_title_auto_brightness">Włącz autom. jasność</string>
   <string name="deep_power_save_item_title_bluetooth">Wyłącz Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Uśpij ekran</string>
+  <string name="notify_channel_mipush">Powiadomienia push</string>
+  <string name="notify_channel_optimize">Powiadomienia</string>
 </resources>

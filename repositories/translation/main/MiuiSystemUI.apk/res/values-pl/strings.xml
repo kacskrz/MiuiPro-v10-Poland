@@ -1720,4 +1720,5 @@
   <string name="recents_title_garbage_deepclean">Śmieci</string>
   <string name="recents_title_market">Znajdź aplikacje</string>
   <string name="recents_title_security_scan">Antywirus</string>
+  <string name="lock_screen_magazine_global_button_text">więcej</string>
 </resources>

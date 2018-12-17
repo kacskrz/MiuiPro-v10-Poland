@@ -342,11 +342,9 @@
     <string name="catch_full_log_dialog_confirm_text">Przejdź do pulpitu</string>
     <string name="catch_full_log_dialog_content">"MIUI generuje teraz log. Może to wpłynąć na ogólną wydajność urządzenia. Jeśli nie jesteś w stanie odtworzyć problemu, który chcesz zgłosić, wróć do logów i kliknij przycisk \"Anuluj\"."</string>
     <string name="catch_full_log_dump_hprof_failed">"Nie można wygenerować logu dot. lagów"</string>
-    <string name="catch_full_log_item_content_catch_direct">"Kroki:
-1. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
+    <string name="catch_full_log_item_content_catch_direct">"1. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
 2. Wróć do tej strony i kliknij na \"Zakończ i wyślij\"."</string>
-    <string name="catch_full_log_item_content_need_open">"Kroki:
-1. Dotknij przycisku \"Wygeneruj log\".
+    <string name="catch_full_log_item_content_need_open">"1. Dotknij przycisku \"Wygeneruj log\".
 2. Wróć do funkcji, którą chcesz zgłosić, i odtwórz problem.
 3. Wróć do tej strony i kliknij na \"Zakończ i wyślij\"."</string>
     <string name="catch_full_log_item_title_audio">Audio, nagrywanie audio i rozmowy</string>
@@ -364,4 +362,8 @@
     <string name="toast_catch_full_log_catching">Możesz wygenerować tylko jeden log na raz.</string>
     <string name="title_first_aid">Pierwsza pomoc</string>
 	<string name="feedback_status_commit_in_queue_title">Oczekiwanie…</string>
+    <string name="catch_full_log_item_content_title">Kroki:</string>
+    <string name="feedback_choose_app_tag">Wybierz element</string>
+    <string name="title_user_guide">Przewodnik</string>
+    <string name="toast_app_tag_required">Wybierz element</string>
 </resources>

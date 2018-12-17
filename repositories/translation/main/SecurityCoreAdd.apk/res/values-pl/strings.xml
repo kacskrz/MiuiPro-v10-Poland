@@ -10,6 +10,8 @@
   <string name="app_name">Komponenty Bezpieczeństwa Rdzenia</string>
   <string name="appData">Zainstalowane aplikacje</string>
   <string name="back">Wstecz</string>
+  <string name="button_input_password">Wpisz hasło</string>
+  <string name="button_touch">Umieść palec na czytniku</string>
   <string name="can_not_delete_when_calling">Nie można usunąć przestrzeni w czasie połączenia</string>
   <string name="can_not_switch_when_calling">Nie można przełączyć się między przestrzeniami w czasie połączenia</string>
   <string name="cancel_button">Anuluj</string>
@@ -63,6 +65,8 @@
   <string name="deleteDataConfirm">Wszystkie elementy zostaną usunięte</string>
   <string name="deleteDataDes">Nie wybrano elementów do przeniesienia. Po usunięciu tych elementów ich odzyskanie będzie niemożliwe.</string>
   <string name="dialog_title">Powiadomienie</string>
+  <string name="dialog_verify">Zweryfikuj odcisk palca</string>
+  <string name="dialog_verify_fingerprint_retry">Nie można zweryfikować odcisku. Spróbuj ponownie.</string>
   <string name="dir_switch_out_all_photos">Galeria Drugiej przestrzeni</string>
   <string name="disable">Wyłącz</string>
   <string name="do_not_ask">Nie pytaj ponownie</string>

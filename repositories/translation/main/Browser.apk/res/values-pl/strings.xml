@@ -254,14 +254,14 @@
   <string name="download_dialog_file_length_nolength_error_txt">Nie udało się pobrać</string>
   <string name="download_failed">Nie udało się zakończyć pobierania</string>
   <string name="download_filter_all">Wszystko</string>
-  <string name="download_filter_apk">Apk</string>
+  <string name="download_filter_apk">APK</string>
   <string name="download_filter_application">Aplikacje</string>
   <string name="download_filter_audio">Muzyka</string>
   <string name="download_filter_image">Zdjęcia</string>
   <string name="download_filter_others">Inne</string>
   <string name="download_filter_text">Pliki</string>
   <string name="download_filter_video">Wideo</string>
-  <string name="download_filter_zip">Zip</string>
+  <string name="download_filter_zip">ZIP</string>
   <string name="download_in_process">Pobieranie…</string>
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_memory_info_avai">" dostępne: %s |"</string>

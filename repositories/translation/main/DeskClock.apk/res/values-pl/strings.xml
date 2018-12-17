@@ -229,4 +229,5 @@
   <string name="timer_alert_mute_switch">Przełącz, aby wyciszać alarmy w minutniku</string>
   <string name="repeat_count">Razy</string>
   <string name="life_post_weather_no_network">Połącz się z siecią, aby zaktualizować informacje o pogodzie</string>
+  <string name="check_theme_app_install">Upewnij się, że na urządzeniu jest zainstalowana aplikacja Motywy.</string>
 </resources>

@@ -528,7 +528,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="beauty_body_body">Odchudzanie</string>
   <string name="beauty_body_head">Głowa</string>
   <string name="beauty_body_legged">Długie nogi</string>
-  <string name="beauty_body_reset_tip">Efekt ciała został wyczyszczony</string>
+  <string name="beauty_body_reset_tip">Usunięto efekt</string>
   <string name="beauty_body_shoulder">Ramię</string>
   <string name="ultra_wide_close_tip">Szeroki kąt jest wyłączony</string>
   <string name="ultra_wide_open_tip">Szeroki kąt</string>   
@@ -578,7 +578,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_ultra_wide_ldc_description">Koryguje zniekształcenia w trybie szerokiego kąta</string>
   <string name="live_edit_exit_confirm">Wyjdź</string>
   <string name="live_edit_exit_message">Anulować edycję?</string>
-  <string name="beauty_reset_toast">Zresetowano efekt upiększania</string>
+  <string name="beauty_reset_toast">Usunięto efekt upiększania</string>
   <string name="color_effect_live_blue">Orchidea</string>
   <string name="color_effect_live_contrast">Kontrast</string>
   <string name="color_effect_live_deepblack">Czerń i biel</string>
@@ -591,4 +591,17 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="live_sticker_updating">Aktualizowanie...</string>
   <string name="pref_camera_device_watermark_title">Dodaj znak wodny telefonu</string>
   <string name="live_edit_share_title">Wyślij</string>
+  <string name="live_error_confirm">Popraw</string>
+  <string name="live_error_message">Błąd funkcji</string>
+  <string name="live_error_title">Błąd funkcji</string>
+  <string name="live_reverse_confirm">Usuń</string>
+  <string name="live_reverse_message">Usunąć ostatni segment?</string>
+  <string name="live_sticker_network_error_hint">Błąd sieci</string>
+  <string name="portait_effect_entry_dusk">Zmierzch</string>
+  <string name="portait_effect_entry_lilt">Rytm</string>
+  <string name="portait_effect_entry_sepia">Sepia</string>
+  <string name="portait_effect_entry_tea">Herbata</string>
+  <string name="pref_camera_ultra_wide_mode_title">Szeroki kąt</string>
+  <string name="ultra_widem_mode_use_hint_text">"Włącz szeroki kąt, by zrobić zdjęcie z szerszej perspektywy.
+Dzięki temu uchwycisz więcej rzeczy."</string>
 </resources>

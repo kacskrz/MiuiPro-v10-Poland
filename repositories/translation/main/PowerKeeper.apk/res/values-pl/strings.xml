@@ -110,4 +110,6 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
 	<string name="atrace_saved">Pomyślnie zapisano</string>
 	<string name="atrace_saving">Zapisywanie logu ATrace…</string>
 	<string name="atrace_start">Wykonywanie logu ATrace…</string>
+    <string name="adaptive_battery_summary">Ustal limity dla niezbyt często działających aplikacji</string>
+    <string name="adaptive_battery_title">Adaptacyjna bateria</string>
 </resources>
