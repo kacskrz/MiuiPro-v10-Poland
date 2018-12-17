@@ -986,10 +986,10 @@
   <string name="same_folder_name_warning">Grupa o tej nazwie już istnieje</string>
   <string name="save_button_text">Zapisz</string>
   <string name="save_dialog_title">Zapisz</string>
-  <string name="save_file">"Zapisz "</string>
+  <string name="save_file">"Zapisz plik "</string>
   <string name="save_file_already_exist_alert_message">Plik o tej samej nazwie już istnieje, zastąpić go?</string>
   <string name="save_file_already_exist_alert_title">Zastąpić plik?</string>
-  <string name="save_file_suffix">" plik"</string>
+  <string name="save_file_suffix">""</string>
   <string name="save_form_data_confirm_message">Wyłączenie tej funkcji może wpłynąć na urządzenie.</string>
   <string name="save_image_failed">Nie udało się zapisać obrazu</string>
   <string name="save_image_success">Zapisano obraz</string>
