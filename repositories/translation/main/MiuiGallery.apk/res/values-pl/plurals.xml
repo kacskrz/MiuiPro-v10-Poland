@@ -329,4 +329,14 @@
         <item quantity="other">Wybierz max. %d zdjęcia</item>
         <item quantity="one">Wybierz max. %d zdjęcie</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elementów jest za dużych do kopii</item>
+        <item quantity="one">%d element jest za duży do kopii</item>
+        <item quantity="few">%d elementy są za duże do kopii</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d elementów jest za dużych do kopii</item>
+        <item quantity="one">%d element jest za duży do kopii</item>
+        <item quantity="few">%d elementy są za duże do kopii</item>
+    </plurals>
 </resources>

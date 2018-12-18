@@ -2429,4 +2429,25 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="deep_power_save_item_title_lock_screen_time">Uśpij ekran</string>
   <string name="notify_channel_mipush">Powiadomienia push</string>
   <string name="notify_channel_optimize">Powiadomienia</string>
+  <string name="applock_face_unlock_summary">Autoryzuj dostęp za pomocą twarzy</string>
+  <string name="applock_face_unlock_title">Odblokuj twarzą</string>
+  <string name="applock_function_base_settings">Blokada aplikacji</string>
+  <string name="applock_function_pwd_settings">Hasło</string>
+  <string name="face_unlock_be_on_the_screen">Trzymaj urządzenie przed twarzą</string>
+  <string name="face_unlock_check_failed">Nie rozpoznano twarzy</string>
+  <string name="face_unlock_face_auth_failed_title">Nie udało się zweryfikować danych twarzy. Przełączam na inne metody odblokowania…</string>
+  <string name="face_unlock_face_start_title">Weryfikacja danych twarzy…</string>
+  <string name="face_unlock_finger_or_password_switch">Użyj odcisku palca lub hasła.</string>
+  <string name="face_unlock_guide_confirm">Tak</string>
+  <string name="face_unlock_guide_dialog_summary">Możesz użyć swojej twarzy do odblokowania telefonu. Włączyć odblokowanie twarzą?</string>
+  <string name="face_unlock_not_found">Nie rozpoznano twarzy</string>
+  <string name="face_unlock_open_eye">Otwórz bardziej oczy</string>
+  <string name="face_unlock_reveal_eye">Oczy muszą być widoczne</string>
+  <string name="face_unlock_reveal_mouth">Usta muszą być widoczne</string>
+  <string name="face_unlock_toast_verity_failed">Nie można zweryfikować twarzy. Przejdź do ustawień Blokady aplikacji i spróbuj zweryfikować tam swoją twarz.</string>
+  <string name="face_unlock_verity_dialog_summary">Zweryfikuj dane twarzy</string>
+  <string name="face_unlock_verity_dialog_title_failed">Nie rozpoznano twarzy</string>
+  <string name="face_unlock_verity_dialog_title_succeed">Pomyślnie zweryfikowano</string>
+  <string name="fingerprint_to_lock_summary">Odblokuj dostęp do aplikacji odciskiem palca</string>
+  <string name="unlock_failed">Błąd wewnętrzny</string>
 </resources>

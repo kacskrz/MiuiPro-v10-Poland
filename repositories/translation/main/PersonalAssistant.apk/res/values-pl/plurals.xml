@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="miot_device_camera_size">
+    <item quantity="other">%d bezprz. kamer</item>
+    <item quantity="one">%d bezprz. kamera</item>
+    <item quantity="few">%d bezprz. kamery</item>
+  </plurals>
   <plurals name="sms_hour_suffix">
     <item quantity="other">W ciągu %d godzin</item>
     <item quantity="one">W ciągu %d godziny</item>

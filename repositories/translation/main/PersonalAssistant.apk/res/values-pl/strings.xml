@@ -1035,4 +1035,27 @@
     <string name="express_send_not_available">Usługa jest tymczasowo niedostępna, proszę spróbować później</string>
     <string name="card_banner_close_never">Nie przypominaj ponownie</string>
     <string name="card_banner_close_tomorrow">Przypomnij mi jutro</string>
+  <string name="miot_device_add_device">Dodaj urządzenie</string>
+  <string name="miot_device_all_device">Wszystkie urządzenia</string>
+  <string name="miot_device_cancel">Anuluj</string>
+  <string name="miot_device_click_show_detail">Kliknij, aby dowiedzieć się więcej o smart-urządzeniach</string>
+  <string name="miot_device_click_show_img">Kliknij, aby zobaczyć obraz</string>
+  <string name="miot_device_cta_and"> i </string>
+  <string name="miot_device_cta_message">Dodaj swoje urządzenia, aby je kontrolować. Kliknij przycisk Autoryzuj, by zgodzić się na </string>
+  <string name="miot_device_edit">Edytuj</string>
+  <string name="miot_device_empty_device_hint">Dodaj urządzenia takie jak oczyszczacze powietrza, kamery czy odkurzacze, aby je łatwiej kontrolować</string>
+  <string name="miot_device_empty_text">Dodaj oczyszczacze powietrza, kamery czy odkurzacze, aby nimi zarządzać.</string>
+  <string name="miot_device_hide_frame_toast">Ukryj obraz</string>
+  <string name="miot_device_install_mijia">Pobierz</string>
+  <string name="miot_device_introduction">Szybsza kontrola smart-urządzeń</string>
+  <string name="miot_device_loading">Ładowanie…</string>
+  <string name="miot_device_login">Zaloguj się</string>
+  <string name="miot_device_mijia_logout_message">Musisz zalogować się na konto Xiaomi przed dodaniem urządzenia. Czy chcesz to zrobić teraz?</string>
+  <string name="miot_device_mijia_logout_title">Nie zalogowałeś się</string>
+  <string name="miot_device_mijia_uninstall_message">Aplikacja Mi Home jest niezainstalowana. Czy chcesz ją pobrać?</string>
+  <string name="miot_device_mijia_uninstall_title">Aplikacja niezainstalowana</string>
+  <string name="miot_device_network_error">Brak sieci</string>
+  <string name="miot_device_no_recent_frame">Kliknij, by zobaczyć</string>
+  <string name="miot_device_show_frame_toast">Wyświetl obraz</string>
+  <string name="miot_device_shrink_list">Zwiń</string>
 </resources>

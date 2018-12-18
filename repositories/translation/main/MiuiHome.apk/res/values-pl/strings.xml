@@ -147,6 +147,7 @@
   <string name="gadget_clock_24_label">Zegar 4x2</string>
   <string name="gadget_clock_34_label">Zegar 4x3</string>
   <string name="gadget_clock_label">Zegar</string>
+  <string name="gadget_dual_clock_label">Zegar podw.</string>
   <string name="gadget_error_text">Nie można wczytać widżetu</string>
   <string name="gadget_google_search_label">Wyszukiwanie Google</string>
   <string name="gadget_load_error">Wczytywanie…</string>
@@ -274,12 +275,14 @@
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Pusto</string>
   <string name="recommend_apps_no_data">Brak danych</string>
+  <string name="recommend_apps_no_data_toast">Na razie to wszystko.</string>
   <string name="recommend_apps_notice">Promowane aplikacje</string>
   <string name="recommend_apps_notice_nodata">Promowane aplikacje (Brak danych)</string>
   <string name="recommend_apps_switch_title">Promowane aplikacje</string>
   <string name="recommend_apps_tips">Funkcja wymaga połączenia z internetem, aby pracować poprawnie. Aby wyłączyć funkcję dotknij nazwy folderu.</string>
   <string name="recommend_loading">Ładowanie</string>
   <string name="recommend_refresh">Odśwież</string>
+  <string name="recommend_xout">Nie pokazuj</string>
   <string name="reset_description_first_time">Możesz przywrócić układ z %1$s w ciągu 2 godzin</string>
   <string name="reset_description_others">Możesz przywrócić układ z %1$s</string>
   <string name="reset_fail">Nie udało się przywrócić</string>

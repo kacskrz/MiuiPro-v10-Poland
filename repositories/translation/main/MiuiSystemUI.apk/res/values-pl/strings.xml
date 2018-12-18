@@ -729,6 +729,9 @@
   <string name="keyboard_key_page_up">Strona w górę</string>
   <string name="keyboard_key_space">Spacja</string>
   <string name="keyboard_key_tab">Tabulator</string>
+  <string name="keyguard_left_calculator">Kalkulator</string>
+  <string name="keyguard_left_calendar">Kalendarz</string>
+  <string name="keyguard_left_contacts">Kontakty</string>
   <string name="keyboard_shortcut_group_applications">Aplikacje</string>
   <string name="keyboard_shortcut_group_applications_assist">Asystent</string>
   <string name="keyboard_shortcut_group_applications_browser">Przeglądarka</string>

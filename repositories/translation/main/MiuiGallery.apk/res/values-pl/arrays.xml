@@ -125,4 +125,10 @@
         <item>Listopad</item>
         <item>Grudzień</item>
     </string-array>
+    <string-array name="weekend_title">
+        <item>Ostatnie weekendy</item>
+        <item>Dni do zapamiętania</item>
+        <item>Codzienne zdarzenia</item>
+        <item>Zwykłe i specjalne</item>
+    </string-array>
 </resources>

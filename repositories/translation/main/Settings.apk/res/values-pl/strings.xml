@@ -4646,7 +4646,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="turn_off_keyguard_password_confirm_msg">Niektóre funkcje zabezpieczeń nie będą działać bez podania hasła.</string>
   <string name="turn_off_keyguard_password_wait_dialog">Wyłączanie hasła…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nie będziesz w stanie odblokować urządzenia za pomocą odcisku palca po wyłączeniu hasła.</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Jeśli wyłączysz hasło ekranu blokady, zapisane odciski palców zostaną usunięte. Nie będziesz w stanie odblokować urządzenia za pomocą odcisku palca.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Jeśli wyłączysz hasło ekranu blokady, zapisane twarze i odciski palca zostaną usunięte. Nie będziesz w stanie odblokować urządzenia za pomocą twarzy i odcisku palca."</string>
   <string name="turn_off_security_lock">Wyłącz blokadę</string>
   <string name="turn_on_keyguard_password">Włącz hasło ekranu blokady</string>
   <string name="turn_on_keyguard_password_alert">Zapamiętaj swoje hasło.</string>
@@ -5938,4 +5938,5 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="device_description_resolution">Rozdzielczość</string>
   <string name="device_description_ram">Pamięć RAM</string>
   <string name="gxzw_anim_star">Gwiazdy</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">"Jeśli wyłączysz hasło ekranu blokady, zapisane twarze zostaną usunięte. Nie będziesz w stanie odblokować urządzenia za pomocą twarzy."</string>
 </resources>
