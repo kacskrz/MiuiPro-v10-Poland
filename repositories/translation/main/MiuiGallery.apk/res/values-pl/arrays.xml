@@ -127,8 +127,8 @@
     </string-array>
     <string-array name="weekend_title">
         <item>Ostatnie weekendy</item>
-        <item>Dni do zapamiętania</item>
+        <item>Godne zapamiętania</item>
         <item>Codzienne zdarzenia</item>
-        <item>Zwykłe i specjalne</item>
+        <item>Zwykłe oraz specjalne</item>
     </string-array>
 </resources>
