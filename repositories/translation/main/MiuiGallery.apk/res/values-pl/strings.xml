@@ -1412,9 +1412,9 @@ aby spersonalizować Galerię"</string>
   <string name="story_download_without_wifi_title">Ostrzeżenie o użyciu danych</string>
   <string name="story_option_menu_delete">Usuń wspomnienie</string>
   <string name="story_photo_downloading">Pobieranie…</string>
-  <string name="alert_selection_description">AI oznacza gwiazdką najlepsze spośród podobnych zdjęć.</string>
-  <string name="alert_selection_title">Wybrane przez AI</string>
-  <string name="backup_file_over_size_desc">Zdjęcia większe niż %1$s oraz wideo większe niż %2$s nie mogą być skopiowane.</string>
+  <string name="alert_selection_description">AI porównuje podobne zdjęcia, a najlepsze oznacza gwiazdką.</string>
+  <string name="alert_selection_title">Inteligentne oznaczanie</string>
+  <string name="backup_file_over_size_desc">"Kopia zdjęć większych niż %1$s oraz filmów większych niż %2$s nie jest możliwa."</string>
   <string name="collage_ratio_text">Proporcje</string>
   <string name="collage_title_stitching">Rolka filmu</string>
   <string name="filter_people_bw">B/W</string>
