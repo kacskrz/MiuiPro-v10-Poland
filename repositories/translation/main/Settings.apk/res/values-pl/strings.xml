@@ -2037,7 +2037,7 @@
   <string name="incoming_call_volume_title">Dzwonek</string>
   <string name="infinity_display_settings">Pełny ekran</string>
   <string name="infinity_display_slogan">Innowacje na pełnym ekranie</string>
-  <string name="infinity_display_title">Wyświetlacz pełnoekranowy</string>
+  <string name="infinity_display_title">Nawigacja systemowa</string>
   <string name="information_dialog_button_text">Rozumiem</string>
   <string name="input_assistance">Wspomaganie wprowadzania</string>
   <string name="input_hint_prefix">Wprowadź %1$s</string>
@@ -5902,7 +5902,7 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="words_title">Tekst</string>
   <string name="bootloader_tips">"Po dodaniu konta Xiaomi nie wylogowuj się z niego, nie wykonuj czyszczenia do ustawień fabrycznych albo czyszczenia danych aplikacji systemowych. Jeśli wykonasz te działania, dodaj swoje konto ponownie w tym trybie. W przeciwnym wypadku możesz nie być w stanie odblokować swojego urządzenia."</string>
   <string name="bootloader_tips_ok">Rozumiem</string>
-  <string name="keyguard_notification_status_title">Powiadomienia</string>
+  <string name="keyguard_notification_status_title">Gdy ekran jest wyłączony i przyjdzie powiadomienie</string>
   <string name="others">Inne</string>
   <string name="slider_vocie_online_theme">Dźwięki online</string>  
    <string name="input_pattern_hint_text">Narysuj wzór odblokowania</string>   

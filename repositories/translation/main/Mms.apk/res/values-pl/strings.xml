@@ -773,9 +773,9 @@
     <string name="send_rms_editor_hints">Wiadomości China Mobile</string>
     <string name="send_rms_editor_hints_omit">Wiadomości Mi</string>
     <string name="user_agreement">Zgodę użytkownika</string>
-  <string name="complain_input_number">Wpisz numer telefonu</string>
+  <string name="complain_input_number">Wpisz numer telefonu (opcjonalny)</string>
   <string name="complain_jump">Pomiń</string>
-  <string name="complain_message_title">Skarga</string>
+  <string name="complain_message_title">Zgłoszenie</string>
   <string name="complain_ok">OK</string>
   <string name="complain_phone_number">numer telefonu</string>
   <string name="complain_reason">Dlaczego zgłaszasz tą wiadomość?</string>
@@ -783,4 +783,31 @@
   <string name="complain_tips">"Treść najnowszej wiadomości, którą zgłaszasz, zostanie przesłana na nasze serwery wraz z podanym numerem telefonu. Nasi usługodawcy dokonają przeglądu zgłoszonej wiadomości.
 "</string>
   <string name="complain_upload">Skarga została zgłoszona</string>
+  <string name="allow_network_hint">Włącz opcję \"Automatyczna aktualizacja informacji\" lub sprawdź połączenie sieciowe</string>
+  <string name="already_updated">Aktualne</string>
+  <string name="button_close">Zamknij</string>
+  <string name="click_to_update">Kliknij, aby sprawdzić aktualizacje</string>
+  <string name="cm_privacy_dialog_allow">Zgoda</string>
+  <string name="cm_privacy_dialog_cancel">Anuluj</string>
+  <string name="cm_privacy_dialog_spannable_tips">Politykę prywatności</string>
+  <string name="cm_privacy_dialog_tips">"Usługi inteligentnych wiadomości są dostarczane przez Twojego operatora. Aplikacja SMS wymaga połączenia z Internetem i dostępu do lokalizacji, aby dostarczać te usługi. Musisz zgodzić się na %1s swojego operatora przed używaniem tych usług. Czy zgadzasz się na to?"</string>
+  <string name="cm_privacy_dialog_title">Informacja</string>
+  <string name="imageview_ad">Reklama</string>
+  <string name="messaging">Wiadomości</string>
+  <string name="more">Więcej</string>
+  <string name="mx_message">Wiadomości Mi</string>
+  <string name="net_sms_subscribed">Pomyślnie zasubskrybowano</string>
+  <string name="net_sms_unsubscribe">Pomyślnie wycofano subskrypcję</string>
+  <string name="packages_select_sim_cards_title">Wybierz kartę SIM</string>
+  <string name="select_different_attachment">Wybierz inny załącznik.</string>
+  <string name="select_different_audio">Wybierz inny plik audio.</string>
+  <string name="select_different_picture">Wybierz inny obraz.</string>
+  <string name="select_different_video">Wybierz inny film.</string>
+  <string name="sim1">Karta SIM 1</string>
+  <string name="sim2">Karta SIM 2</string>
+  <string name="smart_messages_network_allow_message">Wiadomości Mi potrzebują dostępu do Internetu w celu poprawnego działania usług. Zezwolić teraz?</string>
+  <string name="smart_messages_network_allow_title">Wymagane połączenie z Internetem</string>
+  <string name="subscribe">Subskrybuj</string>
+  <string name="summary_pref_cm_smart_sms">Szablony wiadomości, numery usług SMS i więcej.</string>
+  <string name="updating">Aktualizowanie…</string>
 </resources>

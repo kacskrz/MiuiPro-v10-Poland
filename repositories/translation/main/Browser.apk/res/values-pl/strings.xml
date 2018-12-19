@@ -1327,4 +1327,23 @@
   <string name="document_download_recommending">Bezpieczne pobieranie (rekomendowane)</string>
   <string name="novel_toast_hint">Strona została dodana do biblioteki</string>
   <string name="suggestion_sliding_item_more_text">ZOBACZ WIĘCEJ</string>
+  <string name="bookmark_error_page_title">Wystąpił błąd</string>
+  <string name="checking_now">Sprawdzanie...</string>
+  <string name="dialog_recovery_tabs_action">Kliknij, aby przywrócić</string>
+  <string name="dialog_recovery_tabs_tip">Znajdź niezamknięte strony z ostatniej sesji</string>
+  <string name="movie_player_3g_tip_retry">Kontynuuj</string>
+  <string name="movie_player_loading">Wkrótce： %s</string>
+  <string name="network_error_tips">Błąd sieci. Spróbuj ponownie</string>
+  <string name="play_retry">Odtwórz ponownie</string>
+  <string name="player_3g_tip_sub_title">Odtwarzanie spowoduje wykorzystanie danych komórkowych</string>
+  <string name="player_3g_tip_title">Obecnie używasz danych komórkowych, kontynuacja będzie zużywać dane</string>
+  <string name="player_data_error_tip">Film jest tymczasowo niedostępny. Spróbuj później</string>
+  <string name="player_net_error">Brak połączenia z siecią</string>
+  <string name="player_no_data">Brak wideo.</string>
+  <string name="pull_refresh_begin">Pociągnij, aby odświeżyć</string>
+  <string name="pull_refresh_end">Puść, aby odświeżyć</string>
+  <string name="pull_refresh_refreshing">Odświeżanie</string>
+  <string name="recommending_close_toast_text">Wyłącz tą funkcję w zaawansowanych ustawieniach</string>
+  <string name="refresh_text">Odśwież</string>
+
 </resources>

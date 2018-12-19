@@ -29,6 +29,7 @@
   <string name="accessibility_action_divider_top_70">Górny 70%</string>
   <string name="accessibility_action_divider_top_full">Górny pełny ekran</string>
   <string name="accessibility_airplane_mode">Tryb samolotowy.</string>
+  <string name="accessibility_aspect_button">Tryb pełnoekranowy</string>
   <string name="accessibility_ambient_display_charging">Ładowanie</string>
   <string name="accessibility_assistant">Szybkie opcje</string>
   <string name="accessibility_back">Przycisk Wstecz</string>
@@ -256,6 +257,10 @@
   <string name="app_process_limit_title">Limit procesu w tle</string>
   <string name="as_important">Ważne</string>
   <string name="as_unimportant">Nieistotne</string>
+  <string name="aspect_cancel">Anuluj</string>
+  <string name="aspect_message">Aplikacja zostanie uruchomiona ponownie w trybie pełnoekranowym. Jeśli zauważysz jakieś problemy, możesz wyłączyć ten tryb dla tej aplikacji w Ustawieniach &gt; Nawigacja systemowa &gt; Tryb pełnoekranowy.</string>
+  <string name="aspect_ok">OK</string>
+  <string name="aspect_title">Tryb pełnoekranowy</string>
   <string name="audio_effect_custom">Konfiguruj</string>
   <string name="audio_effect_info">Optymalizuj audio</string>
   <string name="audio_effect_settings">Wybierz typ słuchawek</string>

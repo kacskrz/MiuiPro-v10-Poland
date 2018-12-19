@@ -19,10 +19,8 @@
         <item quantity="many">%d wiadomości nie zostało zsynchronizowanych</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Usunąć %1$d wybranych konwersacji?</item>
-        <item quantity="one">Usunąć %1$d wybraną konwersację?</item>
-        <item quantity="few">Usunąć %1$d wybrane konwersacje?</item>
-        <item quantity="many">Usunąć %1$d wybranych konwersacji?</item>
+        <item quantity="other">Usunąć wątki (&lt;g example="15" id="number">%1$s&lt;/g>)?</item>
+        <item quantity="one">Usunąć ten wątek?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d wybranych</item>
