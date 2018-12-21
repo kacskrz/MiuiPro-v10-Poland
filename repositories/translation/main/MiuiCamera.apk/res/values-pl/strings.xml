@@ -604,4 +604,5 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_ultra_wide_mode_title">Szeroki kąt</string>
   <string name="ultra_widem_mode_use_hint_text">"Włącz szeroki kąt, by zrobić zdjęcie z szerszej perspektywy.
 Dzięki temu uchwycisz więcej rzeczy."</string>
+  <string name="pref_privacy_title">Polityka prywatności</string>
 </resources>

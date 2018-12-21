@@ -467,7 +467,7 @@ Zrób więcej zdjęć znajomym!"</string>
     <string name="filter_category_food">Jedzenie</string>
     <string name="filter_category_portrait">Portret</string>
     <string name="filter_category_scene">Krajobraz</string>
-    <string name="filter_film_blackwhite">Czarno-Biały</string>
+    <string name="filter_film_blackwhite">Czarno-biały</string>
     <string name="filter_film_dew">Rosa</string>
     <string name="filter_film_fade">Wyblakły</string>
     <string name="filter_film_film">Film</string>
@@ -1101,7 +1101,7 @@ aby spersonalizować Galerię"</string>
     <string name="video_editor_encode_video_error">Nie można zakodować wideo</string>
     <string name="video_editor_fatal_error">Nieznany błąd</string>
     <string name="video_editor_filter">Filtry</string>
-    <string name="video_editor_filter_black_and_white">Czarno-Biały</string>
+    <string name="video_editor_filter_black_and_white">Czarno-biały</string>
     <string name="video_editor_filter_blue">Niebieski</string>
     <string name="video_editor_filter_cloud">Zimny</string>
     <string name="video_editor_filter_gothic">Zielony</string>
@@ -1226,7 +1226,7 @@ aby spersonalizować Galerię"</string>
   <string name="video_editor_adjust">Wzmocnienia</string>
   <string name="video_editor_filter_and_regulator">Filtry</string>
   <string name="video_editor_filter_bailu">Rosa</string>
-  <string name="video_editor_filter_heibai">B&amp;W</string>
+  <string name="video_editor_filter_heibai">Czarno-biały</string>
   <string name="video_editor_filter_jiaopian">Film</string>
   <string name="video_editor_filter_jingmi">Krzyk</string>
   <string name="video_editor_filter_nuancha">Herbata</string>
@@ -1416,8 +1416,8 @@ aby spersonalizować Galerię"</string>
   <string name="alert_selection_title">Inteligentne oznaczanie</string>
   <string name="backup_file_over_size_desc">"Kopia zdjęć większych niż %1$s oraz filmów większych niż %2$s nie jest możliwa."</string>
   <string name="collage_ratio_text">Proporcje</string>
-  <string name="collage_title_stitching">Rolka filmu</string>
-  <string name="filter_people_bw">B/W</string>
+  <string name="collage_title_stitching">Rolka</string>
+  <string name="filter_people_bw">Czarno-biały</string>
   <string name="filter_people_lilt">Rytm</string>
   <string name="filter_people_tea">Herbata</string>
 </resources>
