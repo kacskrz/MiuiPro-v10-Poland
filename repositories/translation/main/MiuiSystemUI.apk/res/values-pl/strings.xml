@@ -623,7 +623,7 @@
   <string name="fs_gesture_back_ready_title">Wstecz</string>
   <string name="fs_gesture_final_over">Gotowe</string>
   <string name="fs_gesture_final_restart">Jeszcze raz</string>
-  <string name="fs_gesture_final_summary">Możesz przywrócić korzystanie z przycisków w Ustawienia &gt; Wyświetlacz pełnoekranowy</string>
+  <string name="fs_gesture_final_summary">Możesz przywrócić korzystanie z przycisków w Ustawienia &gt; Nawigacja systemowa</string>
   <string name="fs_gesture_final_title">Gotowe!</string>
   <string name="fs_gesture_finish">Nieźle!</string>
   <string name="fs_gesture_left_back_ready_summary">Przesuń w prawo od krawędzi</string>
