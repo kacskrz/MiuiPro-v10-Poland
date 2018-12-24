@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Dodaj alarm</string>
-    <string name="alarm_alert_alert_silenced">Alarm wyciszony po %d minutach.</string>
-    <string name="alarm_alert_snooze_set">Drzemka na %d minut.</string>
+    <string name="alarm_alert_alert_silenced">Wyciszono alarm po %1$s.</string>
     <string name="alarm_in_silent_mode_title">Alarm w trybie cichym</string>
     <string name="alarm_klaxon_service_desc">Odtwórz dźwięk dla alarmów ustawionych w zegarze.</string>
     <string name="alarm_list_title">Alarm</string>
@@ -20,23 +19,17 @@
     <string name="battery_charging_level">%d%%</string>
     <string name="control_set_alarm">Ustaw alarm</string>
     <string name="control_set_alarm_with_existing">Alarm ustawiony: %s</string>
-    <string name="day">1 dzień</string>
     <string name="day_concat">", "</string>
-    <string name="days">%d dni</string>
     <string name="default_label">Alarm</string>
     <string name="delete">Usuń</string>
     <string name="delete_alarm">Usuń alarm</string>
     <string name="delete_alarm_confirm">Usunąć wybrane alarmy?</string>
     <string name="done">Gotowe</string>
     <string name="every_day">Codziennie</string>
-    <string name="hour">1 godzina</string>
-    <string name="hours">%d godzin</string>
     <string name="label">Ustaw etykietę</string>
     <string name="loading_ringtone">Ładowanie dzwonka…</string>
     <string name="menu_desk_clock">Zegar</string>
     <string name="menu_item_dock_settings">Ustawienia dokowania</string>
-    <string name="minute">1 minuta</string>
-    <string name="minutes">%d minut</string>
     <string name="never">Raz</string>
     <string name="revert">Odwróć</string>
     <string name="set_alarm">Ustaw alarm</string>
@@ -92,7 +85,6 @@
     <string name="life_post_setting_open_title">Otrzymywanie porannych raportów</string>
     <string name="life_post_setting_wake_up_list_title">Historia budzenia</string>
     <string name="life_post_wake_up_acumu_day_title">Liczba dni</string>
-    <string name="life_post_wake_up_item_acumu_day">%1$s dni</string>
     <string name="life_post_wake_up_item_acumu_day_title">Liczba dni</string>
     <string name="life_post_wake_up_item_percentage_title">Fani Mi za Tobą</string>
     <string name="life_post_wake_up_item_time_title">Czas pobudki</string>
@@ -138,7 +130,7 @@
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Dotknij ekranu, aby wyłączyć alarm</string>
     <string name="timer_alarm_dot_matrix_label">MINUTNIK</string>
-    <string name="timer_alert_alert_silenced">Licznik wyciszony po %d minutach.</string>
+    <string name="timer_alert_alert_silenced">Minutnik zatrzymany po %1$s.</string>
     <string name="timer_clock_alert_text">Ustaw minutnik</string>
     <string name="timer_continue">Kontynuuj</string>
     <string name="timer_got_it">OK</string>
@@ -207,7 +199,7 @@
      <string name="worldclock_world_time">Strefy czasowe</string>
      <string name="worldcolock_timezone_current">Obecna: %1$s</string>
      <string name="worldcolock_timezone_date">MMM dd</string>
-     <string name="worldcolock_timezone_gap">Godzina</string>
+     <string name="worldcolock_timezone_gap">%s godz.</string>
      <string name="worldcolock_timezone_local">Taki jak lokalny czas</string>
 	 <string name="open_keep_screen">Ekran pozostanie włączony</string>
 	 <string name="shut_down_keep_screen">"Ekran nie będzie włączony"</string>
@@ -230,4 +222,5 @@
   <string name="repeat_count">Razy</string>
   <string name="life_post_weather_no_network">Połącz się z siecią, aby zaktualizować informacje o pogodzie</string>
   <string name="check_theme_app_install">Upewnij się, że na urządzeniu jest zainstalowana aplikacja Motywy.</string>
+  <string name="check_voice_assist_app_version">Zaktualizuj Mi AI do najnowszej wersji.</string>
 </resources>

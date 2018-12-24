@@ -605,4 +605,10 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="ultra_widem_mode_use_hint_text">"Włącz szeroki kąt, by zrobić zdjęcie z szerszej perspektywy.
 Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="pref_privacy_title">Polityka prywatności</string>
+  <string name="live_music_change_bgm">Zmień muzykę</string>
+  <string name="live_music_downloading_tips">Pobieranie...</string>
+  <string name="live_music_hot_title">Gorące hity</string>
+  <string name="live_music_local_title">Muzyka lokalna</string>
+  <string name="live_music_network_exception">Problem z siecią</string>
+  <string name="live_music_network_exception_tips">Są problemy z siecią, kliknij ponownie</string>
 </resources>

@@ -58,4 +58,22 @@
         <item quantity="other">Alarm włączy się %2$s razy (%1$s min. każdy)</item>
         <item quantity="one">Alarm włączy się %2$s raz (%1$s min.)</item>
     </plurals>
+     <plurals name="day">
+         <item quantity="other">%d dni</item>
+         <item quantity="one">%d dzień</item>
+     </plurals>
+     <plurals name="hour">
+         <item quantity="other">%d godzin</item>
+         <item quantity="one">%d godzinę</item>
+         <item quantity="few">%d godziny</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+         <item quantity="other">%1$d dni</item>
+         <item quantity="one">%1$d dzień</item>
+     </plurals>
+     <plurals name="minute">
+         <item quantity="other">%d minut</item>
+         <item quantity="one">%d minutę</item>
+         <item quantity="few">%d minuty</item>
+     </plurals>
 </resources>

@@ -5939,4 +5939,9 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="device_description_ram">Pamięć RAM</string>
   <string name="gxzw_anim_star">Gwiazdy</string>
   <string name="turn_off_keyguard_password_with_face_confirm_msg">"Jeśli wyłączysz hasło ekranu blokady, zapisane twarze zostaną usunięte. Nie będziesz w stanie odblokować urządzenia za pomocą twarzy."</string>
+  <string name="set_jeejen_prompt_message">Jeejen zostanie ustawiony jako Twój domyślny launcher. Możesz go zmienić w Ustawieniach &gt; Ekran główny i Ostatnio otwierane &gt; Opcje standardowe &gt; Domyślny menedżer pulpitu.</string>
+  <string name="set_jeejen_prompt_title">Potwierdź zmiany</string>
+  <string name="work_sound_permission_dialog_button_text_known">Rozumiem</string>
+  <string name="work_sound_permission_dialog_message">W trybie firmowym nie możesz używać Motywów. Aby uzyskać do nich dostęp, poproś swojego przełożonego.</string>
+  <string name="work_sound_permission_dialog_title">Ograniczenia trybu firmowego</string>
 </resources>
