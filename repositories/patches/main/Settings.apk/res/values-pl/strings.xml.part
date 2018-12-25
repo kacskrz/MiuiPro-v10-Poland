@@ -192,4 +192,5 @@
   <string name="finger_on_title">Odblokuj po restarcie</string>
   <string name="aod_style_clock_title">Styl zegarka w trybie AOD</string>
   <string name="icon_app_color_title">Kolorowe ikony powiadomień</string>
+  <string name="volume_gravity_title">Położenie paska głośności</string>
 </resources>

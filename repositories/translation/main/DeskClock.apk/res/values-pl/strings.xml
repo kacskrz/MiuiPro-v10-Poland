@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">Dodaj alarm</string>
-    <string name="alarm_alert_alert_silenced">Wyciszono alarm po %1$s.</string>
+    <string name="alarm_alert_alert_silenced">Alarm został wyciszony.</string>
     <string name="alarm_in_silent_mode_title">Alarm w trybie cichym</string>
     <string name="alarm_klaxon_service_desc">Odtwórz dźwięk dla alarmów ustawionych w zegarze.</string>
     <string name="alarm_list_title">Alarm</string>
@@ -130,7 +130,7 @@
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Dotknij ekranu, aby wyłączyć alarm</string>
     <string name="timer_alarm_dot_matrix_label">MINUTNIK</string>
-    <string name="timer_alert_alert_silenced">Minutnik zatrzymany po %1$s.</string>
+    <string name="timer_alert_alert_silenced">Minutnik został zatrzymany.</string>
     <string name="timer_clock_alert_text">Ustaw minutnik</string>
     <string name="timer_continue">Kontynuuj</string>
     <string name="timer_got_it">OK</string>
