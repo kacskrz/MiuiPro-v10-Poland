@@ -611,4 +611,7 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="live_music_local_title">Muzyka lokalna</string>
   <string name="live_music_network_exception">Problem z siecią</string>
   <string name="live_music_network_exception_tips">Są problemy z siecią, kliknij ponownie</string>
+  <string name="live_music_close_cancel_message">Nie</string>
+  <string name="live_music_close_message">Na pewno wyłączyć obecną muzykę?</string>
+  <string name="live_music_close_sure_message">Tak</string>
 </resources>
