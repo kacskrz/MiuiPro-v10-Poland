@@ -19,7 +19,7 @@
         <item quantity="many">%d wiadomości nie zostało zsynchronizowanych</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Usunąć wątki (&lt;g example="15" id="number">%1$s&lt;/g>)?</item>
+        <item quantity="other">Usunąć wątki (%1$s)?</item>
         <item quantity="one">Usunąć ten wątek?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
