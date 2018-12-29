@@ -3,6 +3,7 @@
     <string-array name="ios_toggle_entries"> 
         <item>Domyślnie</item> 
         <item>Bluetooth i GPS</item>
+		<item>Obok zegara</item>
 		<item>Drugi rząd ikon</item>
     </string-array> 
 </resources>
