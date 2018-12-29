@@ -2,7 +2,6 @@
 <resources>
     <string-array name="ios_toggle_entries"> 
         <item>Domyślnie</item> 
-        <item>Bluetooth i GPS</item>
-		<item>Drugi rząd ikon</item>
+        <item>Drugi rząd ikon</item>
     </string-array> 
 </resources>
