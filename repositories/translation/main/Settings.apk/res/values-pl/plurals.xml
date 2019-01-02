@@ -414,4 +414,7 @@
         <item quantity="other">"Nie dodano %d gier"</item>
         <item quantity="one">"Nie dodano %d gry"</item>
     </plurals>
+	 <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">Dodano %d</item>
+    </plurals>
 </resources>

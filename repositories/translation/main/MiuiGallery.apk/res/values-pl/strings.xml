@@ -197,6 +197,9 @@
     <string name="change_to_face_mode">Pokaż tylko twarz</string>
     <string name="change_to_photo_mode">Pokaż pełen podgląd</string>
     <string name="change_to_visible">Przywrócić tego użytkownika?</string>
+    <string name="channel_default_name">Nowe funkcje</string>
+    <string name="channel_low_name">Nowe wiadomości</string>
+    <string name="channel_min_name">Powiadomienia</string>
     <string name="choose_baby_sexy">Płeć</string>
     <string name="choose_owner_relation">Relacja</string>
     <string name="choose_people">Wybierz album osoby</string>
@@ -452,15 +455,20 @@ Zrób więcej zdjęć znajomym!"</string>
     <string name="fast_share_auto_render">Upiększ</string>
     <string name="fast_share_auto_render_finish">Upiększono</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
+    <string name="filter_bi_bw">C/B</string>
+    <string name="filter_bi_dusk">Mrok</string>
+    <string name="filter_bi_lilt">Rytm</string>
     <string name="filter_bi_memory">Pamięć</string>
     <string name="filter_bi_mono">Mono</string>
     <string name="filter_bi_pink">Różowy</string>
     <string name="filter_bi_portrait">Portret</string>
     <string name="filter_bi_retro">Retro</string>
     <string name="filter_bi_romantic">Romantyczny</string>
+    <string name="filter_bi_sepia">Sepia</string>
     <string name="filter_bi_strong">Mocny</string>
     <string name="filter_bi_sunny">Słoneczny</string>
     <string name="filter_bi_sweet">Słodki</string>
+    <string name="filter_bi_tea">Herbata</string>
     <string name="filter_bi_warm">Ciepły</string>
     <string name="filter_bi_young">Młody</string>
     <string name="filter_category_film">Film</string>
@@ -620,6 +628,7 @@ aby spersonalizować Galerię"</string>
     <string name="more_album_hint">, itp.</string>
     <string name="more_face">Więcej osób, które wyglądają jak</string>
     <string name="more_face_album_name">Więcej osób</string>
+    <string name="motion_photo_play">Odtwórz</string>
     <string name="move_to_other_albums_tip">Przenieść ten album do Innych albumów?</string>
     <string name="must_pick_file">Wybierz zdjęcie</string>
     <string name="name_split">, </string>
@@ -1420,4 +1429,8 @@ aby spersonalizować Galerię"</string>
   <string name="filter_people_bw">Czarno-biały</string>
   <string name="filter_people_lilt">Rytm</string>
   <string name="filter_people_tea">Herbata</string>
+  <string name="movie_content_describe_add">Dodaj zdjęcia</string>
+  <string name="movie_content_describe_delete">Usuń zdjęcia</string>
+  <string name="movie_content_describe_pause">Pauza</string>
+  <string name="movie_content_describe_play">Odtwórz</string>
 </resources>

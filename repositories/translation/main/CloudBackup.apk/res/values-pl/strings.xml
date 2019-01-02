@@ -189,4 +189,8 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="other_device_second_space">Druga przestrzeń</string>
    <string name="self_device_main_space">Główny profil tego telefonu</string>
    <string name="self_device_second_space">Druga przestrzeń tego telefonu</string>
+   <string name="restore_finish_description">Przywracanie zakończone</string>
+   <string name="restore_init_description">Zacznij przywracanie</string>
+   <string name="restoring_file_title_no_progress">Przywracanie plików…</string>
+   <string name="restoring_settings">Przywracanie ustawień…</string>
 </resources>

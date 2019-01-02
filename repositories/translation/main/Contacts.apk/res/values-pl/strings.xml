@@ -1238,4 +1238,5 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="conference_call_disable_tip">"Nie można wykonać połączenia. Upewnij się, że jesteś w zasięgu sieci LTE ze wsparciem dla VoLTE."</string>
     <string name="scan_business_card">Zeskanuj wizytówkę</string>
     <string name="scan_bussiness_card_merge_tip">Sprzeczne dane zostały zastąpione</string>
+    <string name="contacts_default_notification_channel">Powiadomienia</string>
 </resources>

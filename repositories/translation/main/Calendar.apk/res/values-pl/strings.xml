@@ -461,4 +461,6 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
 	<string name="event_info_title_anniversary">Rocznica</string>
 	<string name="event_info_title_birthday">Urodziny</string>
 	<string name="event_info_title_countdown">Odliczanie</string>
+    <string name="notification_channel_name">Przypomnienia</string>
+    <string name="search_menu_title">Szukaj</string>
 </resources>

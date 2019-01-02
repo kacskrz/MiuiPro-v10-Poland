@@ -1729,4 +1729,9 @@
   <string name="recents_title_market">Znajdź aplikacje</string>
   <string name="recents_title_security_scan">Antywirus</string>
   <string name="lock_screen_magazine_global_button_text">więcej</string>
+  <string name="description_image_icon_sim_card">Karta SIM %1$d</string>
+  <string name="stream_voice_assist">Asystent gł.</string>
+  <string name="usb_port_overheated_dialog_content">Port ładowania jest przegrzany. Odłącz ładowarkę i sprawdź, czy jest on czysty. W razie pytań skontaktuj się ze wsparciem technicznym.</string>
+  <string name="usb_port_overheated_notification_content">Odłącz ładowarkę i sprawdź, czy port jest czysty.</string>
+  <string name="usb_port_overheated_title">Port ładowania jest przegrzany. Odłącz ładowarkę.</string>
 </resources>

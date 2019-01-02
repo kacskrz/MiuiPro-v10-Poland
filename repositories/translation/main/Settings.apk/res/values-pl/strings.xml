@@ -5944,4 +5944,5 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="work_sound_permission_dialog_button_text_known">Rozumiem</string>
   <string name="work_sound_permission_dialog_message">W trybie firmowym nie możesz używać Motywów. Aby uzyskać do nich dostęp, poproś swojego przełożonego.</string>
   <string name="work_sound_permission_dialog_title">Ograniczenia trybu firmowego</string>
+  <string name="switch_select_to_speak_on">Przeczytaj na głos</string>
 </resources>
