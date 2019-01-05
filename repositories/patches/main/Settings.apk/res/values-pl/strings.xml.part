@@ -194,4 +194,6 @@
   <string name="icon_app_color_title">Użyj ikon z motywu</string>
   <string name="volume_gravity_title">Położenie paska głośności</string>
   <string name="set_peeking_duration_title">Wyświetlanie ikon</string>
+  <string name="toast_appname_title">Nazwa aplikacji w oknie pop-up</string>
+  <string name="toast_appname_summary">Wyświetlaj nazwę aplikacji wywołującej okno pop-up</string>
 </resources>

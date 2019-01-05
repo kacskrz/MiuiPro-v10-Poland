@@ -1087,4 +1087,5 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="wps_title">Poczta WPS</string>
   <string name="chinese">Chińskie</string>
   <string name="mail_search_lab">pasek wyszukiwania</string>
+  <string name="notify_channel_service">Synchronizacja w tle</string>
 </resources>
