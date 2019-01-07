@@ -297,6 +297,12 @@
     <item>Włącz opcjonalne kodeki</item>
     <item>Wyłącz opcjonalne kodeki</item>
   </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item></item>
+    <item>" | Aktywne"</item>
+    <item>" | Aktywne (media)"</item>
+    <item>" | Aktywne (telefon)"</item>
+  </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 min</item>
     <item>5 min</item>

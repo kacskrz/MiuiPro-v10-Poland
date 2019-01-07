@@ -492,7 +492,7 @@ Wyczyść ją dla lepszego efektu."</string>
      <string name="back_bokeh_use_hint">"Umieść obiekt nie dalej niż 1,5 metra dla lepszego efektu"</string>
 	 <string name="pref_camera_sr_enable_title">Włącz SR</string>
    <string name="pref_google_lens">Google lens</string>
-   <string name="pref_video_quality_summary">Wideo w 4K w 120 FPS nie jest wspierane</string>
+   <string name="pref_video_quality_summary">Wideo w 4K w 120 kl./s nie jest wspierane</string>
    <string name="portrait_bokeh_text">Tryb portretowy</string>
 <string name="portrait_bokeh_first_tips">"Użyj Trybu portretowego do rozmycia
 tła na Twoich zdjęciach"</string>
@@ -543,8 +543,10 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Szeroki tryb portretu włączony</string>
   <string name="accessibility_lighting_panel_on">Pasek oświetlenia studyjnego widoczny</string>
   <string name="accessibility_lighting_panel_off">Panel oświetlenia studyjnego ukryty</string>
-  <string name="accessibility_ultra_pixel_photography_on">Tryb 48 megapikseli włączony</string>
-  <string name="accessibility_ultra_pixel_photography_off">Tryb 48 megapikseli wyłączony</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_on">Tryb 32Mpix włączony</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_off">Tryb 32Mpix wyłączony</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_on">Tryb 48Mpix włączony</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_off">Tryb 48Mpix wyłączony</string>
   <string name="accessibility_ultra_wide_off">Tryb szerokokątny wyłączony</string>
   <string name="accessibility_ultra_wide_on">Tryb szerokokątny włączony</string>
   <string name="ai_scene_top_tip">Tryb nocny</string>
@@ -625,9 +627,13 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="autozoom_disabled_hint">Zatrzymano śledzenie obiektu</string>
   <string name="autozoom_click_hint">Kliknij w obiekt, aby zacząć go śledzić. Dla lepszego efektu oddal się od niego na min. 3 metry.</string>
   <string name="camera_liveshot_on_tip">Dynamiczne ujęcia</string>
-  <string name="camera_liveshot_off_tip">Wyłączono ujęcia dynamiczne</string>
+  <string name="camera_liveshot_off_tip">Wyłączono dynamiczne ujęcia</string>
   <string name="network_access_user_notice_title">Łączenie z Internetem</string>
-  <string name="ultra_pixel_photography_open_tip">48Mpix</string>
-  <string name="ultra_pixel_photography_close_tip">Tryb 48Mpix jest wyłączony</string>
+  <string name="ultra_pixel_photography_32mp_open_tip">32Mpix</string>
+  <string name="ultra_pixel_photography_32mp_close_tip">Tryb 32Mpix jest wyłączony</string>
+  <string name="ultra_pixel_photography_48mp_open_tip">48Mpix</string>
+  <string name="ultra_pixel_photography_48mp_close_tip">Tryb 48Mpix jest wyłączony</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48Mpix</string>
+  <string name="pref_menu_ultra_pixel_photography_32mp">32Mpix</string>
+  <string name="pref_new_slow_motion_video_quality_960_720only">Możesz nagrywać w 960 kl./s tylko z rozdzielczością 720p</string>
 </resources>

@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">Planowana kopia</string>
     <string name="cloud_back_up_frequence_long">Co 7 dni</string>
     <string name="cloud_back_up_frequence_short">Codziennie</string>
-    <string name="cloud_back_up_share_activity_title">Aktualizuj konto Xiaomi</string>
-    <string name="cloud_back_up_share_activity_discription">Dodaj więcej przestrzeni dyskowej, codziennych kopii zapasowych i innych.</string>
-    <string name="cloud_back_up_share_activity_confirm">Aktualizuj</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Ulepsz</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Dodaj więcej miejsca w chmurze na swoje kopie. Uwaga: usługa dostępna tylko w Chinach i Hongkongu.</string>
+    <string name="cloud_back_up_subscribe_vip_title">Ulepsz konto Xiaomi</string>
     <string name="cloud_back_up_detail_discription">Kopia w Chmurze Xiaomi będzie wykonywana przy połączeniu Wi-Fi dla: 
 * Aplikacji, wyglądu ekranu głównego i tapet 
 * Alarmów, zegara i ustawień 

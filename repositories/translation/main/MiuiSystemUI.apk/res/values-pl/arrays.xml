@@ -36,6 +36,12 @@
     <item>Pokazuj procent, kiedy ładuje (domyślne)</item>
     <item>Nie pokazuj tej ikony</item>
   </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item></item>
+    <item>" | Aktywne"</item>
+    <item>" | Aktywne (media)"</item>
+    <item>" | Aktywne (telefon)"</item>
+  </string-array>
   <string-array name="clock_options">
     <item>Pokazuj godziny, minuty i sekundy</item>
     <item>Pokazuj godziny i minuty (domyślne)</item>

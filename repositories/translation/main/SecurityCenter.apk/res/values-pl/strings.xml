@@ -2112,6 +2112,9 @@
   <string name="traffic_setting_fragment_sms_content">Zawartość wiadomości</string>
   <string name="traffic_setting_fragment_sms_content_tips">Wpisz tutaj swoją wiadomość</string>
   <string name="traffic_setting_fragment_title">Ustawienia zapytania użycia danych</string>
+  <string name="traffic_usage_warning_body">"Użyłeś w tym miesiącu już %s danych komórkowych."</string>
+  <string name="traffic_usage_warning_limit">Limit danych ostrzeżenia</string>
+  <string name="traffic_usage_warning_title">Ostrzeżenie o użyciu danych</string>
   <string name="traffic_warning_purchase_title">Ostrzeżenie o użyciu danych</string>
   <string name="try_game">Wypróbuj</string>
   <string name="try_recommended_function">Chroń swoje urządzenie korzystając z nowych funkcji Panelu sterowania</string>

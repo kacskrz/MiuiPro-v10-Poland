@@ -1681,6 +1681,7 @@
   <string name="eq_preset_hint">Nazwa efektu</string>
   <string name="eq_preset_rename">Zmień nazwę</string>
   <string name="eq_preset_select">Wybierz ustawienie wstępne</string>
+  <string name="eq_return">Return</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="erase_application">Usuń aplikacje</string>
@@ -3047,7 +3048,11 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="page_layout_32">Sklep Play</string>
   <string name="page_layout_33">Google</string>
   <string name="page_layout_confirm_message">Urządzenie musi zostać uruchomione ponownie by zastosować zmiany. Potrwa to minutę.</string>
+  <string name="page_layout_confirm_message_enlarge">Tekst, obrazki i ikony zostaną powiększone. Część ikon może zmienić swoje położenie.</string>
+  <string name="page_layout_confirm_message_narrow">Tekst, obrazki i ikony zostaną pomniejszone. Część ikon może zmienić swoje położenie.</string>
   <string name="page_layout_confirm_title">Zmień ustawienia wyświetlacza</string>
+  <string name="page_layout_confirm_title_enlarge">Zwiększenie elementów</string>
+  <string name="page_layout_confirm_title_narrow">Zmniejszenie elementów</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -3601,6 +3606,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="screen_on_proximity_sensor_summary">Zablokuj gesty po umieszczeniu urządzenia w kieszeni</string>
   <string name="screen_on_proximity_sensor_title">Tryb kieszonkowy</string>
   <string name="screen_optimize">Kontrast</string>
+  <string name="screen_optimize_disabled">Nie można zmienić kontrastu, gdy włączony jest Tryb czytania</string>
   <string name="screen_paper_mode_adjust_level">Dostosuj</string>
   <string name="screen_paper_mode_apps_loading">Chwileczkę…</string>
   <string name="screen_paper_mode_apps_title">Użyj trybu czytania dla tych aplikacji</string>

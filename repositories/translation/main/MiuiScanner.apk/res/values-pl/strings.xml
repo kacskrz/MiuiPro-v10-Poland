@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_title">O aplikacji</string>
     <string name="accept">OK</string>
     <string name="access_sd_fail">Nie udało się uzyskać dostępu do karty SD</string>
     <string name="accessibility_shutter_button">Migawka</string>
@@ -137,6 +138,7 @@
     <string name="sdk_not_ready">Przygotowanie SDK. Spróbuj później.</string>
     <string name="secure_access_web_url">Przejdź do strony</string>
     <string name="see_app_details">Pokaż szczegóły aplikacji</string>
+    <string name="setting_title">Ustawienia</string>
     <string name="settings">Ustawienia</string>
     <string name="shopping_searching">Wyszukiwanie…</string>
     <string name="shopping_title">Zrób zdjęcie produktu</string>
@@ -185,6 +187,7 @@
     <string name="agree_btn">Zezwól</string> 
 	<string name="amazon_assistant_shopping_title">Wyszukaj na Amazonie</string> 
 	<string name="business_card">Wizytówka</string>
+    <string name="business_card_result_title">Wizytówka</string>
 	<string name="business_card_title">Umieść wizytówkę wewnątrz ramki</string>
 	<string name="business_copy">Skopiuj</string>
 	<string name="business_new_contacts">Utwórz kontakt</string>
@@ -203,6 +206,7 @@
 	<string name="miracast_switch_tip">Włącz ekran bezprzewodowy, aby użyć tej funkcji</string>
 	<string name="module_title_business_card">Wizytówka</string>
     <string name="new_schedule">Utwórz wydarzenie</string> 
+	<string name="no_support_to_translate_type">Ten język jest niewspierany</string>
     <string name="open_url">Otwórz URL</string> 
     <string name="payment_text">Otwórz z %s</string> 
     <string name="send_mail">Wyślij e-maila</string>
