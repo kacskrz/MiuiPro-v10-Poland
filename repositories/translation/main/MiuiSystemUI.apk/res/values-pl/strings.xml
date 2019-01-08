@@ -516,7 +516,7 @@
   <string name="enable_freeform_support">Włącz dowolną formę okna</string>
   <string name="enable_freeform_support_summary">Włącz obsługę dla eksperymentalnych form okna.</string>
   <string name="enable_opengl_traces_title">Włącz śledzenie OpenGL</string>
-  <string name="enable_power_save_mode">Włącz oszczędzanie baterii</string>
+  <string name="enable_power_save_mode">Oszczędzanie baterii</string>
   <string name="enable_terminal_summary">Włącz aplikację terminala pozwalająca na dostęp lokalny do powłoki</string>
   <string name="enable_terminal_title">Lokalny terminal</string>
   <string name="enabled_by_admin">Włączone przez administratora</string>
