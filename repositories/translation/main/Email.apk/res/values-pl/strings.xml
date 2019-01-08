@@ -1088,4 +1088,5 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="chinese">Chińskie</string>
   <string name="mail_search_lab">pasek wyszukiwania</string>
   <string name="notify_channel_service">Synchronizacja w tle</string>
+  <string name="notify_channel_no_disterb">Tryb Nie przeszkadzać</string>
 </resources>

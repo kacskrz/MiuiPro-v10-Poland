@@ -543,10 +543,10 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Szeroki tryb portretu włączony</string>
   <string name="accessibility_lighting_panel_on">Pasek oświetlenia studyjnego widoczny</string>
   <string name="accessibility_lighting_panel_off">Panel oświetlenia studyjnego ukryty</string>
-  <string name="accessibility_ultra_pixel_photography_32mp_on">Tryb 32Mpx włączony</string>
-  <string name="accessibility_ultra_pixel_photography_32mp_off">Tryb 32Mpx wyłączony</string>
-  <string name="accessibility_ultra_pixel_photography_48mp_on">Tryb 48Mpx włączony</string>
-  <string name="accessibility_ultra_pixel_photography_48mp_off">Tryb 48Mpx wyłączony</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_on">Tryb 32 Mpx włączony</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_off">Tryb 32 Mpx wyłączony</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_on">Tryb 48 Mpx włączony</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_off">Tryb 48 Mpx wyłączony</string>
   <string name="accessibility_ultra_wide_off">Tryb szerokokątny wyłączony</string>
   <string name="accessibility_ultra_wide_on">Tryb szerokokątny włączony</string>
   <string name="ai_scene_top_tip">Tryb nocny</string>
@@ -629,11 +629,11 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="camera_liveshot_on_tip">Dynamiczne ujęcia</string>
   <string name="camera_liveshot_off_tip">Wyłączono dynamiczne ujęcia</string>
   <string name="network_access_user_notice_title">Łączenie z Internetem</string>
-  <string name="ultra_pixel_photography_32mp_open_tip">32Mpx</string>
-  <string name="ultra_pixel_photography_32mp_close_tip">Tryb 32Mpx jest wyłączony</string>
-  <string name="ultra_pixel_photography_48mp_open_tip">48Mpx</string>
-  <string name="ultra_pixel_photography_48mp_close_tip">Tryb 48Mpx jest wyłączony</string>
-  <string name="pref_menu_ultra_pixel_photography_48mp">48Mpx</string>
-  <string name="pref_menu_ultra_pixel_photography_32mp">32Mpx</string>
+  <string name="ultra_pixel_photography_32mp_open_tip">32 Mpx</string>
+  <string name="ultra_pixel_photography_32mp_close_tip">Tryb 32 Mpx jest wyłączony</string>
+  <string name="ultra_pixel_photography_48mp_open_tip">48 Mpx</string>
+  <string name="ultra_pixel_photography_48mp_close_tip">Tryb 48 Mpx jest wyłączony</string>
+  <string name="pref_menu_ultra_pixel_photography_48mp">48 Mpx</string>
+  <string name="pref_menu_ultra_pixel_photography_32mp">32 Mpx</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Możesz nagrywać w 960 kl./s tylko z rozdzielczością 720p</string>
 </resources>
