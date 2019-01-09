@@ -23,7 +23,7 @@
     <string name="sleep_config_enhance_description_non_nfc">Gdy MIUI wykryje, że śpisz, zamknie aplikacje w tle, ograniczy łączność Bluetooth, GPS, użycie danych mobilnych i Wi-Fi, a także nie podświetli ekranu przy powiadomieniach.</string>
     <string name="nonui_mode_config_title">Tryb nieinteraktywny</string>
     <string name="nonui_mode_config_description">Nie podświetla ekranu dla powiadomień, wyłącza diodę powiadomień, czujnik odczytu odcisku palca oraz sterowanie dotykami, aby zaoszczędzić baterię, gdy MIUI wykryje, że nie korzystasz z urządzenia.</string>
-    <string name="power_center">Zasilanie</string>
+    <string name="power_center">Optymalizacja baterii</string>
     <string name="power_usage">Zużycie baterii</string>
     <string name="power_mode">Tryb zasilania</string>
     <string name="performance_category">Wydajność</string>
@@ -112,4 +112,8 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
 	<string name="atrace_start">Wykonywanie logu ATrace…</string>
     <string name="adaptive_battery_summary">Ustal limity dla niezbyt często działających aplikacji</string>
     <string name="adaptive_battery_title">Adaptacyjna bateria</string>
+    <string name="dark_mode">Tryb ciemny</string>
+    <string name="dark_mode_summary">Ustaw ciemną paletę kolorów, aby oszczędzać baterię</string>
+	<string name="open_dark_mode">Włącz tryb ciemny</string>
+	<string name="open_dark_mode_tip">Jakość wyświetlania części funkcji może się pogorszyć w trybie ciemnym. Zostanie ona przywrócona do normalnego poziomi po wyjściu z tego trybu. Przełączyć się na ten tryb?</string>
 </resources>

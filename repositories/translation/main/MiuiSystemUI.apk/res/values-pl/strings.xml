@@ -1734,4 +1734,5 @@
   <string name="usb_port_overheated_dialog_content">Port ładowania jest przegrzany. Odłącz ładowarkę i sprawdź, czy jest on czysty. W razie pytań skontaktuj się ze wsparciem technicznym.</string>
   <string name="usb_port_overheated_notification_content">Odłącz ładowarkę i sprawdź, czy port jest czysty.</string>
   <string name="usb_port_overheated_title">Port ładowania jest przegrzany. Odłącz ładowarkę.</string>
+  <string name="gxzw_long_press_tip">Klikni i przytrzymaj, aby zobaczyć nowe funkcje</string>
 </resources>
