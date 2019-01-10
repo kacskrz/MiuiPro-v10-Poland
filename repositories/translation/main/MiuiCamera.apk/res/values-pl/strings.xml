@@ -637,4 +637,5 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="pref_menu_ultra_pixel_photography_32mp">32 Mpx</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Możesz nagrywać w 960 kl./s tylko z rozdzielczością 720p</string>
   <string name="accessibility_pull_down_to_open_camera">Przesuń w dół, aby uruchomić Aparat</string>
+  <string name="zoom_no_support_tip_48M">Zoom nie działa w trybie 48 Mpx</string>  
 </resources>
