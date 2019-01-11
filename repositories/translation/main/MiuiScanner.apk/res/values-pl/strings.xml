@@ -232,4 +232,6 @@
 	<string name="plant_reg_fail_2">Nie udało się rozpoznać tego obiektu. Skaner jest w stanie rozpoznać jedynie rośliny.</string>
 	<string name="plant_support">" (Pomoc techniczna) "</string>
 	<string name="plant_title">Zrób zdjęcie roślinie, którą chcesz rozpoznać</string>
+    <string name="setting_use_last_choose">Zapamiętaj ostatni wybór</string>
+    <string name="setting_default_function">Domyślna funkcja</string>
 </resources>
