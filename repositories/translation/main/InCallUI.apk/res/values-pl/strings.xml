@@ -232,4 +232,5 @@
 	<string name="description_message_list_title">Lista szybkich odpowiedzi</string>
 	<string name="volume_boost_text">Pomyślnie zwiększono głośność</string>
 	<string name="supp_service_notification_call_waiting">Wybrany numer jest teraz zajęty. Proszę czekać…</string>
+	<string name="call_not_support_high_frequency_click">Nie klikaj tego przycisku tak często</string>
 </resources>

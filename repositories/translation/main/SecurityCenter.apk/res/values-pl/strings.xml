@@ -341,7 +341,7 @@
   <string name="background_traffic">W tle: %s</string>
   <string name="backsound_set_hint">Ustawić wiadomość zwrotną na %s?</string>
   <string name="battery_capacity_title">Pojemność baterii</string>
-  <string name="battery_charge_estimating">Obliczanie…</string>
+  <string name="battery_charge_estimating">Obliczanie</string>
   <string name="battery_charge_full">Naładowana</string>
   <string name="battery_charging_prompt">Ładowanie</string>
   <string name="battery_desc_apps">Użycie baterii przez aplikację</string>
@@ -2281,8 +2281,8 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="exo_track_surround_5_point_1">Dźwięk przestrzenny 5.1</string>
     <string name="exo_track_surround_7_point_1">Dźwięk przestrzenny 7.1</string>
     <string name="exo_track_unknown">Nieznane</string>
-    <string name="title_first_aid_kit">Pierwsza pomoc</string>
-    <string name="summary_first_aid_kit">Napraw problemy przy użyciu narzędzia Pierwszej pomocy</string>
+    <string name="title_first_aid_kit">Rozwiąż problemy</string>
+    <string name="summary_first_aid_kit">Rozwiąż problemy ze swoim urządzeniem</string>
     <string name="button_first_aid_kit">Napraw teraz</string>
     <string name="button_restrict_data_usage">Zgoda</string>
     <string name="button_background_connection">Zgoda</string>
@@ -2302,7 +2302,7 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="first_aid_scanning_item3">Sprawdzanie nieprawidłowych ustawień…</string>
     <string name="first_aid_scanning_item4">Sprawdzanie kwestii baterii…</string>
     <string name="first_aid_scanning_item5">Sprawdzanie innych kwestii…</string>
-    <string name="first_aid_activity_title">Pierwsza pomoc</string>
+    <string name="first_aid_activity_title">Rozwiąż problemy</string>
     <string name="first_aid_item1_content">Wydajność</string>
     <string name="first_aid_item2_content">Sieć</string>
     <string name="first_aid_item3_content">Ustawienia</string>
@@ -2337,7 +2337,7 @@ Ta funkcja nie wspiera aplikacji systemowych."</string>
     <string name="first_aid_card_unable_install_button">Zwolnij miejsce</string>
     <string name="first_aid_result_summary_normal">Wszystko wygląda dobrze!</string>
     <string name="first_aid_result_feedback_title">Opinia</string>
-    <string name="first_aid_result_feedback_summary">"W skanowaniu Pierwszej pomocy nie udało się znaleźć żadnych problemów, jednak zauważyłem niektóre z nich."</string>
+    <string name="first_aid_result_feedback_summary">"Nie udało się znaleźć żadnych problemów, jednak u mnie ciągle one występują."</string>
     <string name="first_aid_result_feedback_button">Wyślij</string>
     <string name="first_aid_card_kadun_title">Urządzenie zwalnia</string>
     <string name="first_aid_card_kadun_summary1">Zwolnij miejsce w pamięci, aby Twoje urządzenie działało normalnie.</string>

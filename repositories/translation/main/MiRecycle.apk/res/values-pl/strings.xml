@@ -35,7 +35,7 @@ z Ochroną Mi"</string>
   <string name="buy_claim_ps">By uzyskać więcej szczegółów, przeczytaj </string>
   <string name="buy_claim_terms">Warunki użytkowania*</string>
   <string name="buy_confirm">ZGODA &amp; KUP OCHRONĘ</string>
-  <string name="buy_insurance_desc">Tylko nowe urządzenie</string>
+  <string name="buy_insurance_desc">Dostarczane przez OneAssist</string>
   <string name="buy_privacy_agree">Kontynuuj</string>
   <string name="buy_privacy_title">Informacja</string>
   <string name="buy_recycle_desc">Dostarczane przez Cashify</string>
@@ -117,7 +117,7 @@ Damaged Device from your doorstep"</string>
   <string name="instant_bank_transfer">Natychmiastowy przelew</string>
   <string name="insurance_button">Ubezpieczenie</string>
   <string name="insurance_description">Ubezpieczenie zapewnia dodatkowe pokrycie kosztów naprawy</string>
-  <string name="insurance_entrance">Ochrona Mi - dodatkowe wsparcie</string>
+  <string name="insurance_entrance">Ochrona Mi dla nowego urządzenia</string>
   <string name="item_name_battery">Bateria</string>
   <string name="item_name_bluetooth">Bluetooth</string>
   <string name="item_name_frontcamera">Przedni aparat</string>
@@ -153,11 +153,12 @@ Damaged Device from your doorstep"</string>
   <string name="password_toggle_content_description">Widoczność haseł</string>
   <string name="postal_code">Kod pocztowy</string>
   <string name="powered_by_cashify">Dostarczane przez</string>
-  <string name="push_ht_content">Otwórz Panel Sterowania, przesuń w dół i sprawdź swój sprzęt</string>
-  <string name="push_ht_title">Sprawdź nową opcję w Panelu Sterowania</string>
+  <string name="push_ht_content">Dowiedz się więcej o stanie swojego urządzenia</string>
+  <string name="push_ht_title">Test sprzętu</string>
   <string name="push_oa_content">Safeguard your device using extended warranty</string>
   <string name="push_oa_title">Ochrona Mi</string>
-  <string name="quote_upto_price">Świetnie! Twoje urządzenie jest ciągle w dobrym stanie i ma sporą wartość. Uzyskaj do Rs. %s</string>
+  <string name="quote_upto_price">Świetnie! Twoje urządzenie jest ciągle w dobrym stanie i ma sporą wartość. Uzyskaj do Rs. %s.
+Te ceny jednak mogą się zmienić. Sprzedaj telefon teraz, aby nie przegapić najlepszej oferty.</string>
   <string name="recycle_button">Recykling</string>
   <string name="recycle_description">Uzyskaj pieniądze, oddając stary telefon do recyklingu</string>
   <string name="recycle_entrance">Recykling Cashify</string>
