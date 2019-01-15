@@ -24,7 +24,7 @@
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_pub_time">Opublikowano o %1$s</string>
-  <string name="activity_main_time_format">EEEE</string>
+  <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Aktualizacja  %1$s</string>
   <string name="activity_main_update_time_expire">Dane pogodowe są nieaktualne</string>
   <string name="activity_main_update_time_right_now">teraz</string>

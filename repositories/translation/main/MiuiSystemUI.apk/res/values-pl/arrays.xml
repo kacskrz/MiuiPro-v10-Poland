@@ -245,4 +245,14 @@
     <item>Skala animacji 5x</item>
     <item>Skala animacji 10x</item>
   </string-array>
+  <string-array name="data_type_name_default">
+    <item></item>
+    <item>G</item>
+    <item>E</item>
+    <item>3G</item>
+    <item>H</item>
+    <item>H+</item>
+    <item>LTE</item>
+    <item>LTE+</item>
+    </string-array>
 </resources>
