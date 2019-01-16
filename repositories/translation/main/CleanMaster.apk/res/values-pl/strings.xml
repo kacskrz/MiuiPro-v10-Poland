@@ -594,6 +594,4 @@
   <string name="facebook_group_video">Wideo</string>
   <string name="facebook_function_summery">Wyczyść rzeczy zachowane przez Facebooka</string>
   <string name="facebook_function_title">Czyszczenie Facebooka</string>
-  <string name="one_tap_clean_M">%dMB</string>
-  <string name="one_tap_clean_GB">%sGB</string>
 </resources>
