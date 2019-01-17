@@ -1003,7 +1003,7 @@
   <string name="notification_channel_tv_pip">Obraz w obrazie</string>
   <string name="notification_default_channel_desc">Ta aplikacja nie ma kategorii powiadomień</string>
   <string name="notification_done">Zrobione</string>
-  <string name="notification_group_collapse_button_text">Zagięcie</string>
+  <string name="notification_group_collapse_button_text">Zwiń</string>
   <string name="notification_header_default_channel">Powiadomienia</string>
   <string name="notification_header_title">Powiadomienia</string>
   <string name="notification_hidden_by_policy_text">Treść ukryta z powodu zasad</string>

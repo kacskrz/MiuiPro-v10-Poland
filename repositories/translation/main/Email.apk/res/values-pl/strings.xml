@@ -1089,4 +1089,10 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="mail_search_lab">pasek wyszukiwania</string>
   <string name="notify_channel_service">Synchronizacja w tle</string>
   <string name="notify_channel_no_disterb">Tryb Nie przeszkadzać</string>
+  <string name="appraise_des">Ciężko pracujemy nad projektowaniem naszych produktów, aby Cię zadowolić. Oceń je w komentarzu.</string>
+  <string name="appraise_good">Pozytywnie</string>
+  <string name="appraise_ignore">Tymczasowa ocena</string>
+  <string name="appraise_negative">Negatywnie</string>
+  <string name="have_auth_code">Zaloguj się kodem</string>
+  <string name="privacy_des">"Log zawiera informacje dla programistów przekazane przez aplikację Poczty oraz dane o urządzeniu w celu zlokalizowania Twojego problemu. Wybranie \"%1$s\" oznacza, że przeczytałeś i zaakceptowałeś 《%2$s》"</string>
 </resources>
