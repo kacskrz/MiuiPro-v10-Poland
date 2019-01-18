@@ -197,4 +197,8 @@
   <string name="toast_appname_title">Nazwa aplikacji w oknie pop-up</string>
   <string name="toast_appname_summary">Wyświetlaj nazwę aplikacji wywołującej okno pop-up</string>
   <string name="type_name_on_title">Typ sieci na pasku statusu</string>
+  <string name="type_name_info">Typy sieci</string>
+  <string name="2G_E_off_title">Typ 2G/E</string>
+  <string name="2G_E_title">Pokazuj 2G zamiast E</string>
+  <string name="4G_LTE_off_title">Typ 4G/LTE</string>
 </resources>
