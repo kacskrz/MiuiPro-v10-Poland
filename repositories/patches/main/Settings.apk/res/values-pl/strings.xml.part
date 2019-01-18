@@ -196,4 +196,5 @@
   <string name="set_peeking_duration_title">Wyświetlanie ikon</string>
   <string name="toast_appname_title">Nazwa aplikacji w oknie pop-up</string>
   <string name="toast_appname_summary">Wyświetlaj nazwę aplikacji wywołującej okno pop-up</string>
+  <string name="type_name_on_title">Typ sieci na pasku statusu</string>
 </resources>
