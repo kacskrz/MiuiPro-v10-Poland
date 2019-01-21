@@ -1439,6 +1439,7 @@ aby spersonalizować Galerię"</string>
   <string name="photo_font_download_failed_for_notwork">Nie można pobrać. Połącz się z siecią i spróbuj ponownie.</string>
   <string name="photo_font_download_without_wifi_msg">"Pobieranie plików podczas transmisji danych komórkowych może wykorzystać dane pakietowe i spowodować naliczenie opłat przez operatora."</string>
   <string name="photo_font_download_without_wifi_title">Ostrzeżenie o użyciu danych</string>
-  <string name="text_tab_bubble">Bąbelki</string>
+  <string name="text_tab_bubble">Dymki</string>
   <string name="text_tab_watermark">Znaki wodne</string>
+  <string name="photo_editor_font_default">Domyślna</string>
 </resources>
