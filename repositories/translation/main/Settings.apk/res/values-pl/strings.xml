@@ -220,7 +220,6 @@
   <string name="animator_duration_scale_title">Skala czasu trwania animacji</string>
   <string name="another_migration_already_in_progress">Inna migracja jest już w toku.</string>
   <string name="anti_spam">Lista blokowanych</string>
-  <string name="aod_mode_summary">Zawsze pokazuj czas, datę i wiadomości, gdy ekran jest wyłączony.</string>
   <string name="aod_mode_time_summary">Zaplanuj czas włączenia Zawsze włączony</string>
   <string name="aod_mode_time_title">Zaplanowane</string>
   <string name="aod_mode_title">Tryb Zawsze włączony</string>
@@ -5951,4 +5950,15 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="work_sound_permission_dialog_message">W trybie firmowym nie możesz używać Motywów. Aby uzyskać do nich dostęp, poproś swojego przełożonego.</string>
   <string name="work_sound_permission_dialog_title">Ograniczenia trybu firmowego</string>
   <string name="switch_select_to_speak_on">Przeczytaj na głos</string>
+  <string name="aod_mode_bg">Tło</string>
+  <string name="aod_mode_clock">Zegar</string>
+  <string name="aod_mode_style">Styl zegarka i tła</string>
+  <string name="aod_mode_summary">Pokazuj godzinę, datę i wiadomości na wyłączonym ekranie.</string>
+  <string name="aod_sample_date">Wtorek, 10 maja</string>
+  <string name="dark_color_mode">Tryb ciemny</string>
+  <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji</string>
+  <string name="open_dark_mode_dialog_summary">Niektóre ustawienia wyświetlacza nie są kompatybilne z trybem ciemnym. Zostaną one jednak przywrócone po wyłączeniu tego trybu. Włączyć tryb ciemny?</string>
+  <string name="open_dark_mode_dialog_title">Kompatybilność trybu ciemnego</string>
+  <string name="screen_cancel">Anuluj</string>
+  <string name="screen_confirm">Włącz</string>
 </resources>

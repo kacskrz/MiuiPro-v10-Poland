@@ -348,6 +348,7 @@
   <string name="menu_item_sort_name">Nazwy</string>
   <string name="menu_item_sort_type">Typu</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_set_wallpaper">Ustaw jako tapetę</string>
   <string name="message_comment_prefix">"Komentarz: "</string>
   <string name="message_my_received_notification">Nowa wiadomość</string>
   <string name="message_my_received_praise">Moje polubienia</string>

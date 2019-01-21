@@ -112,8 +112,4 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
 	<string name="atrace_start">Wykonywanie logu ATrace…</string>
     <string name="adaptive_battery_summary">Ustal limity dla niezbyt często działających aplikacji</string>
     <string name="adaptive_battery_title">Adaptacyjna bateria</string>
-    <string name="dark_mode">Tryb ciemny</string>
-    <string name="dark_mode_summary">Ustaw ciemną paletę kolorów, aby oszczędzać baterię</string>
-	<string name="open_dark_mode">Włącz tryb ciemny</string>
-	<string name="open_dark_mode_tip">Jakość wyświetlania części funkcji może się pogorszyć w trybie ciemnym. Zostanie ona przywrócona do normalnego poziomu po wyjściu z tego trybu. Przełączyć się na ten tryb?</string>
 </resources>

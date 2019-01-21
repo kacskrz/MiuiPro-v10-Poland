@@ -1417,12 +1417,10 @@ aby spersonalizować Galerię"</string>
   <string name="story_cancel_download">Anuluj</string>
   <string name="story_download">Pobierz</string>
   <string name="story_download_failed_for_notwork">Nie udało się pobrać. Połącz się z siecią i spróbuj ponownie.</string>
-  <string name="story_download_without_wifi_msg">Używanie danych komórkowych do pobierania plików zwiększy ich użycie. Jeśli przekroczysz limit swojego planu danych, operator obciąży Cię dodatkową opłatą.</string>
-  <string name="story_download_without_wifi_title">Ostrzeżenie o użyciu danych</string>
   <string name="story_option_menu_delete">Usuń wspomnienie</string>
   <string name="story_photo_downloading">Pobieranie…</string>
-  <string name="alert_selection_description">AI porównuje podobne zdjęcia, a najlepsze oznacza gwiazdką.</string>
-  <string name="alert_selection_title">Inteligentne oznaczanie</string>
+  <string name="alert_selection_description">MIUI porównuje podobne zdjęcia, a najlepsze oznacza gwiazdką.</string>
+  <string name="alert_selection_title">Wybierz najlepsze ujęcie</string>
   <string name="backup_file_over_size_desc">"Kopia zdjęć większych niż %1$s oraz filmów większych niż %2$s nie jest możliwa."</string>
   <string name="collage_ratio_text">Proporcje</string>
   <string name="collage_title_stitching">Rolka</string>
@@ -1433,4 +1431,14 @@ aby spersonalizować Galerię"</string>
   <string name="movie_content_describe_delete">Usuń zdjęcia</string>
   <string name="movie_content_describe_pause">Pauza</string>
   <string name="movie_content_describe_play">Odtwórz</string>
+  <string name="month_view_tip_button_text">Rozumiem</string>
+  <string name="month_view_tip_sub_title">Uszczypnij ekran, aby przełączyć się na widok miesiąca</string>
+  <string name="month_view_tip_title">Widok miesiąca</string>
+  <string name="photo_font_cancel_download">Anuluj</string>
+  <string name="photo_font_download">Pobierz</string>
+  <string name="photo_font_download_failed_for_notwork">Nie można pobrać. Połącz się z siecią i spróbuj ponownie.</string>
+  <string name="photo_font_download_without_wifi_msg">"Pobieranie plików podczas transmisji danych komórkowych może wykorzystać dane pakietowe i spowodować naliczenie opłat przez operatora."</string>
+  <string name="photo_font_download_without_wifi_title">Ostrzeżenie o użyciu danych</string>
+  <string name="text_tab_bubble">Bąbelki</string>
+  <string name="text_tab_watermark">Znaki wodne</string>
 </resources>
