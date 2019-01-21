@@ -30,12 +30,10 @@
   <string name="adjust_position_next_media_notice">Dalej</string>
   <string name="adjust_position_prev_media_notice">Poprzednie</string>
   <string name="airkan_control_device_des">Aby kontrolować odtwarzanie, dotknij paska u dołu.</string>
-  <string name="airkan_device_xiaomi_phone">Moje urządzenie mobilne</string>
   <string name="airkan_playing">Strumieniowanie do %s</string>
   <string name="airkan_tips">Tapnij, aby strumieniować</string>
   <string name="alert_dialog_download">Już pobrałeś tą aplikację.</string>
   <string name="alert_dialog_download_btn_hide">Ukryj</string>
-  <string name="alert_dialog_download_confirm">About to download the app</string>
   <string name="alert_dialog_download_default_title">Pobieranie aplikacji</string>
   <string name="alert_dialog_download_dup_task">Poczekaj na zakończenie pobierania</string>
   <string name="alert_dialog_download_error">Nie można pobrać</string>
@@ -43,7 +41,6 @@
   <string name="alert_dialog_download_install_task">Poczekaj, aż wtyczka zostanie zainstalowana</string>
   <string name="alert_dialog_download_plugin">"Informacje na temat pobierania i instalowania wtyczki HD: "</string>
   <string name="alert_dialog_download_prepare">Przygotowywanie do pobrania…</string>
-  <string name="alert_dialog_download_progress">"Pobieranie aplikacji: "</string>
   <string name="app_charging_wifi_mode">Zachowanie nowej wersji</string>
   <string name="app_charging_wifi_mode_summary">Aktualizuj Mi Video automatycznie po podłączeniu do Wi-Fi podczas ładowania urządzenia</string>
   <string name="app_name">Wideo</string>
@@ -789,7 +786,6 @@
     <string name="ai_music_save_ok">Zapisz</string>
     <string name="ai_music_save_success">Pomyślnie zapisano</string>
     <string name="ai_music_saved">Pomyślnie zapisano</string>
-    <string name="airkan_control_device_des">Aby kontrolować odtwarzanie, dotknij paska u dołu.</string>
     <string name="airkan_device_xiaomi_phone">Mój telefon</string>
     <string name="alert_dialog_download_confirm">Otworzyć %1s?</string>
     <string name="alert_dialog_download_install_live_plugin_task">Instalowanie</string>

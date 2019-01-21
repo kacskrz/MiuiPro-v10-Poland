@@ -564,7 +564,6 @@
   <string name="clean_long_msg">"Czyszczenie %1$d files,%2$d ukończono 
 %3$d%% elementów/pozostało czasu:%4$s"</string>
   <string name="whatsapp_delete_confirm_cancel">Wyjdź</string>
-  <string name="whatsapp_delete_confirm_message">Usunąć teraz?</string>
   <string name="whatsapp_delete_confirm_ok">OK</string>
   <string name="onekeyclean_boosting_title">Przyspieszenie działania</string>
   <string name="onekeyclean_boosted_title">Pomyślnie wyczyszczono</string>
