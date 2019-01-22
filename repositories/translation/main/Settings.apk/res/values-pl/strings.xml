@@ -220,11 +220,11 @@
   <string name="animator_duration_scale_title">Skala czasu trwania animacji</string>
   <string name="another_migration_already_in_progress">Inna migracja jest już w toku.</string>
   <string name="anti_spam">Lista blokowanych</string>
-  <string name="aod_mode_time_summary">Zaplanuj czas włączenia Zawsze włączony</string>
+  <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Zawsze włączony</string>
   <string name="aod_mode_time_title">Zaplanowane</string>
-  <string name="aod_mode_title">Tryb Zawsze włączony</string>
-  <string name="aod_mode_turn_off">Off</string>
-  <string name="aod_mode_turn_on">On</string>
+  <string name="aod_mode_title">Zawsze włączony</string>
+  <string name="aod_mode_turn_off">Wył.</string>
+  <string name="aod_mode_turn_on">Wł.</string>
   <string name="apn_auth_type">Typ uwierzytelniania</string>
   <string name="apn_auth_type_none">Brak</string>
   <string name="apn_auth_type_pap_chap">PAP lub CHAP</string>
@@ -5961,4 +5961,6 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="open_dark_mode_dialog_title">Kompatybilność trybu ciemnego</string>
   <string name="screen_cancel">Anuluj</string>
   <string name="screen_confirm">Włącz</string>
+  <string name="aod_lock_screen_date">EEEE, d MMMM</string>
+  <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
 </resources>

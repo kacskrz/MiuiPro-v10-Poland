@@ -50,9 +50,9 @@
   <string name="allow_interruption">Zezwól na przerywanie</string>
   <string name="allow_interruption_summary">Zezwól tej aplikacji na dźwięki, wibracje­i/lub wyświetlanie powiadomień na ekranie</string>
   <string name="ambient_display_category_triggers">Kiedy wyświetlać</string>
-  <string name="ambient_display_screen_summary_always_on">Zawsze włączony/ Zwiększone zużycie baterii</string>
+  <string name="ambient_display_screen_summary_always_on">Zawsze włączony/Zwiększone zużycie baterii</string>
   <string name="ambient_display_screen_summary_notifications">Nowe powiadomienia</string>
-  <string name="ambient_display_screen_title">Ekran zgodny z otoczeniem</string>
+  <string name="ambient_display_screen_title">Zawsze włączony</string>
   <string name="android_version_pending_update_summary">Dostępna aktualizacja</string>
   <string name="android_version_summary">Zaktualizowano do Androida %1$s</string>
   <string name="app_cellular_data_usage">Użycie danych przez aplikację</string>
@@ -246,7 +246,7 @@
   <string name="do_disclosure_learn_more_separator">"  "</string>
   <string name="double_tap_power_for_camera_suggestion_title">Szybkie uruchamianie aparatu</string>
   <string name="double_twist_for_camera_suggestion_title">Szybsze robienie selfie</string>
-  <string name="doze_always_on_summary">Pokazuj godzinę, ikony powiadomień i inne informacje. Zwiększone zużycie baterii.</string>
+  <string name="doze_always_on_summary">Pokazuj godzinę, ikony powiadomień i inne informacje. Możliwe jest zwiększenie zużycia baterii, gdy włączony jest ten tryb.</string>
   <string name="doze_always_on_title">Zawsze włączony</string>
   <string name="doze_summary">Włącz ekran po otrzymaniu powiadomień</string>
   <string name="doze_title">Nowe powiadomienia</string>
