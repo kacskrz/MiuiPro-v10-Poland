@@ -1076,4 +1076,7 @@ Be Happy"</string>
   <string name="toast_not_pro">Ta funkcja jest dostępna tylko dla osobów z pakietem PRO.</string>
   <string name="toast_is_pro">"Już korzystasz z pakietu PRO."</string>
   <string name="long_press_to_select_lyric">Dotknij i przytrzymaj, aby wybrać plik z tekstem utworu</string>
+  <string name="fcm_fallback_notification_channel_label">Różne</string>
+  <string name="gcm_fallback_notification_channel_label">Różne</string>
+  <string name="ready_to_play">Następnie</string>
 </resources>

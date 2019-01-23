@@ -84,12 +84,15 @@
   <string name="battery_history">Bateria</string>
   <string name="beijing">Pekin</string>
   <string name="bicycle">Na rowerze</string>
+  <string name="book_arr_city">Cel</string>
+  <string name="book_arr_station">Dodaj cel</string>
   <string name="book_assistant">Book a trip</string>
   <string name="book_assistant_empty">No bookings yet.</string>
   <string name="book_assistant_go">Departure</string>
   <string name="book_assistant_todaybook">Today\'s trips</string>
   <string name="book_assistant_train_start">Departure time</string>
   <string name="book_assistant_train_started">Left station</string>
+  <string name="book_dep_city">Skąd</string>
   <string name="book_store">View books</string>
   <string name="book_update">Update is available</string>
   <string name="btn_back">Wstecz</string>
@@ -1040,7 +1043,7 @@
   <string name="miot_device_add_device">Dodaj urządzenie</string>
   <string name="miot_device_all_device">Wszystkie urządzenia</string>
   <string name="miot_device_cancel">Anuluj</string>
-  <string name="miot_device_click_show_detail">Kliknij, aby dowiedzieć się więcej o smart-urządzeniach</string>
+  <string name="miot_device_click_show_detail">. (Kliknij, aby dowiedzieć się więcej o smart-urządzeniach)</string>
   <string name="miot_device_click_show_img">Kliknij, aby zobaczyć obraz</string>
   <string name="miot_device_cta_and"> i </string>
   <string name="miot_device_cta_message">Dodaj swoje urządzenia, aby je kontrolować. Kliknij przycisk Autoryzuj, by zgodzić się na </string>
@@ -1060,4 +1063,12 @@
   <string name="miot_device_no_recent_frame">Kliknij, by zobaczyć</string>
   <string name="miot_device_show_frame_toast">Wyświetl obraz</string>
   <string name="miot_device_shrink_list">Zwiń</string>
+  <string name="favorite_title_modify_failed">Nie udało się zmienić tytułu</string>
+  <string name="miot_device_personal_assistant_eula">Zgodę użytkownika</string>
+  <string name="miot_device_personal_assistant_eula_priv">" i "</string>
+  <string name="miot_device_personal_assistant_priv">Politykę prywatności</string>
+  <string name="notification_channel_default_description">Inne</string>
+  <string name="notification_channel_favorite_description">Powiadomienia dot. ulubionych elementów z innych aplikacji</string>
+  <string name="notification_channel_payment_description">Powiadomienia o płatnościach</string>
+  <string name="notification_channel_shopping_description">Powiadomienia o produktach dodanych do ulubionych lub liście zakupów</string>
 </resources>

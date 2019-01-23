@@ -525,7 +525,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="close_back_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
   <string name="close_front_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
   <string name="lighting_pattern_null">Nic</string>
-  <string name="ultra_wide_mode">Szeroki kąt</string>
+  <string name="ultra_wide_mode">Bardzo szeroki kąt</string>
   <string name="beauty_body">Ciało</string>
   <string name="beauty_body_body">Smukłość</string>
   <string name="beauty_body_head">Głowa</string>
@@ -533,12 +533,12 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="beauty_body_reset_tip">Usunięto efekt</string>
   <string name="beauty_body_slim_count_tip">Efekty upiększania działają tylko na zdjęciach pojedynczych osób</string>
   <string name="beauty_body_shoulder">Ramiona</string>
-  <string name="ultra_wide_close_tip">Tryb szerokokątny jest wyłączony</string>
+  <string name="ultra_wide_close_tip">Bardzo szeroki kąt jest wyłączony</string>
   <string name="ultra_wide_open_tip">Szeroki kąt</string>   
   <string name="super_night_toast">Wykonywanie zdjęcia</string>
   <string name="accessibility_camera_liveshot_off">Wyłączono tryb dynamiczny</string>
   <string name="accessibility_camera_liveshot_on">Włączono tryb dynamiczny</string>
-  <string name="ultra_wide_recommend_tip_hint">Wypróbuj tryb szerokokątny</string>
+  <string name="ultra_wide_recommend_tip_hint">Wypróbuj tryb bardzo szerokiego kąta</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Szeroki tryb portretu wyłączony</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Szeroki tryb portretu włączony</string>
   <string name="accessibility_lighting_panel_on">Pasek oświetlenia studyjnego widoczny</string>
@@ -547,8 +547,8 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">Tryb 32 Mpx wyłączony</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">Tryb 48 Mpx włączony</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">Tryb 48 Mpx wyłączony</string>
-  <string name="accessibility_ultra_wide_off">Tryb szerokokątny wyłączony</string>
-  <string name="accessibility_ultra_wide_on">Tryb szerokokątny włączony</string>
+  <string name="accessibility_ultra_wide_off">Bardzo szeroki kąt wyłączony</string>
+  <string name="accessibility_ultra_wide_on">Bardzo szeroki kąt włączony</string>
   <string name="ai_scene_top_tip">Tryb nocny</string>
   <string name="beauty_tab_name_live_beauty">Upiększanie</string>
   <string name="beauty_tab_name_live_filter">Filtry</string>
@@ -610,8 +610,8 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="portait_effect_entry_lilt">Rytm</string>
   <string name="portait_effect_entry_sepia">Sepia</string>
   <string name="portait_effect_entry_tea">Herbata</string>
-  <string name="pref_camera_ultra_wide_mode_title">Szeroki kąt</string>
-  <string name="ultra_wide_mode_use_hint_text">"Włącz szeroki kąt, by zrobić zdjęcie z szerszej perspektywy.
+  <string name="pref_camera_ultra_wide_mode_title">Bardzo szeroki kąt</string>
+  <string name="ultra_wide_mode_use_hint_text">"Włącz bardzo szeroki kąt, by zrobić zdjęcie z szerszej perspektywy.
 Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="pref_privacy_title">Polityka prywatności</string>
   <string name="live_music_change_bgm">Zmień muzykę</string>
@@ -637,5 +637,7 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="pref_menu_ultra_pixel_photography_32mp">32 Mpx</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Możesz nagrywać w 960 kl./s tylko z rozdzielczością 720p</string>
   <string name="accessibility_pull_down_to_open_camera">Przesuń w dół, aby uruchomić Aparat</string>
-  <string name="zoom_no_support_tip_48M">Zoom nie działa w trybie 48 Mpx</string>  
+  <string name="zoom_no_support_tip_48M">Zoom nie działa w trybie 48 Mpx</string>
+  <string name="hand_gesture_open_tip">Pokaż swoją dłoń w obiektywie aparatu, aby włączyć samowyzwalacz</string>
+  <string name="hand_gesture_tip">Gest dłoni</string>  
 </resources>
