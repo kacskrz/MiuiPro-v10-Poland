@@ -2814,7 +2814,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="nfc_payment_set_default">Zawsze używać aplikacji %1$s, gdy korzystasz z systemu „dotknij i zapłać”?</string>
   <string name="nfc_payment_set_default_instead_of">Zawsze używać aplikacji %1$s zamiast %2$s, gdy korzystasz z systemu „dotknij i zapłać”?</string>
   <string name="nfc_payment_set_default_label">Ustawić jako Twoją preferencję?</string>
-  <string name="nfc_payment_settings_title">Dotknij i zapłać</string>
+  <string name="nfc_payment_settings_title">Zbliż i zapłać</string>
   <string name="nfc_payment_use_default">Użyj domyślnej</string>
   <string name="nfc_quick_toggle_summary">Zezwalaj na wymianę danych, gdy telefon dotyka innego urządzenia</string>
   <string name="nfc_quick_toggle_title">Komunikacja NFC</string>

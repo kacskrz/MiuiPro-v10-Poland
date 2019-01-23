@@ -201,4 +201,5 @@
   <string name="2G_E_title">Pokazuj 2G zamiast E</string>
   <string name="4G_LTE_off_title">Typ 4G/LTE</string>
   <string name="set_in_aod_title">Zarządzaj w trybie AOD</string>
+  <string name="type_name_connected_title">Tylko z włączonymi danymi mobilnymi</string>
 </resources>

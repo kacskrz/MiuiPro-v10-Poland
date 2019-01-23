@@ -65,13 +65,13 @@
     <string name="error_media_storage_failure">Nie udało się zapisać zdjęcia</string>
     <string name="error_minute_limit">Zbyt wiele prób w ciągu 1 minuty</string>
     <string name="error_permissions">Skaner nie ma uprawnień wymaganych do poprawnej pracy. Przejdź do Ustawień i sprawdź uprawnienia, aby kontynuować.</string>
-    <string name="error_server_error">Błąd serwera</string>
+    <string name="error_server_error">Wystąpił błąd serwera.</string>
     <string name="feed_search_fail">Brak wyników, spróbuj ponownie</string>
     <string name="feedback_description_camera_access">Skaner nie może połączyć się z Aparatem</string>
     <string name="feedback_description_save_photo">Nie udało się zapisać obrazu lub wideo</string>
     <string name="flash_lable">Flash</string>
     <string name="import_contact">Wczytaj kontakt</string>
-    <string name="impunity_declaration_content">"Aplikacja wymaga uprawnień do aparatu i wykonywania zdjęć, a także połączenia z internetem, aby pracować poprawnie. Poprzez naciśnięcie przycisku \"Zgoda\" potwierdzasz zapoznanie się i zaakceptowanie naszej %1$sPolityki prywatności%2$s."</string>
+    <string name="impunity_declaration_content">"Aplikacja wymaga uprawnień do aparatu, aby przetwarzać zdjęcia nią wykonane, a także do łączenia się z Internetem. Nie używaj Skanera na zdjęciach, które zawierają poufne informacje.  Poprzez naciśnięcie przycisku \"Zezwól\" potwierdzasz zapoznanie się i zaakceptowanie &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Polityki prywatności Xiaomi&lt;/a>&lt;/font>."</string>
     <string name="impunity_declaration_negative_text">Wyjdź</string>
     <string name="impunity_declaration_positive_text">Zezwól</string>
     <string name="impunity_declaration_title">Polityka prywatności</string>
@@ -100,7 +100,7 @@
     <string name="module_title_document">Dokument</string>
     <string name="module_title_namecard">Wizytówka</string>
     <string name="module_title_shopping">Zakupy</string>
-    <string name="module_title_study">Studiuj</string>
+    <string name="module_title_study">Zadanie domowe</string>
     <string name="module_title_translation">Tłumaczenie</string>
     <string name="name">Nazwa:</string>
     <string name="namecard_recognize_failed_tip">Nie udało się odczytać wizytówki</string>
@@ -114,6 +114,8 @@
     <string name="not_recommend_access_web_url">Przejdź mimo to</string>
     <string name="not_tips">Nie pokazuj ponownie</string>
     <string name="note">Uwaga:</string>
+    <string name="pay_no_tip">Nie pokazuj ponownie</string>
+    <string name="pay_save_this_choose">Zapamiętaj mój wybór</string>
     <string name="payment_weixin">WeChat</string>
     <string name="payment_zhifubao">AliPay</string>
     <string name="phone">Telefon:</string>
@@ -145,13 +147,14 @@
     <string name="shopping_vendor_info">Dostarczony przez Taobao</string>
     <string name="spaceIsLow_content">Brak miejsca w pamięci wewnętrznej. Usuń niepotrzebne dane.</string>
     <string name="study_report_title">Raport</string>
-    <string name="study_rotate_picture">Przetwarzanie obrazu</string>
+    <string name="study_rotate_picture">Przetwarzanie…</string>
     <string name="study_scan_result">Wynik</string>
-    <string name="study_searching">Wyszukiwanie wyniku</string>
+    <string name="study_searching">Wyszukiwanie wyników…</string>
     <string name="study_title">Zrób zdjęcie problemu</string>
-    <string name="study_vendor_info">Dostarczony przez Master Learner</string>
+    <string name="study_vendor_info">Dostarczony przez Zuoyebang</string>
     <string name="tips_message">Połącz się z internetem, aby sprawdzić czy strona, którą chcesz odwiedzić, jest bezpieczna.</string>
     <string name="title">Tytuł:</string>
+    <string name="translate_parallel_2_lines">Upewnij się, że tekst jest równoległy do linii na ekranie</string>
     <string name="translation_language_chinese">Chiński</string>
     <string name="translation_language_english">Angielski</string>
     <string name="translation_language_french">Francuski</string>
