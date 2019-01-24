@@ -1043,7 +1043,7 @@
   <string name="miot_device_add_device">Dodaj urządzenie</string>
   <string name="miot_device_all_device">Wszystkie urządzenia</string>
   <string name="miot_device_cancel">Anuluj</string>
-  <string name="miot_device_click_show_detail">. (Kliknij, aby dowiedzieć się więcej o smart-urządzeniach)</string>
+  <string name="miot_device_click_show_detail">Kliknij, aby dowiedzieć się więcej o smart-urządzeniach</string>
   <string name="miot_device_click_show_img">Kliknij, aby zobaczyć obraz</string>
   <string name="miot_device_cta_and"> i </string>
   <string name="miot_device_cta_message">Dodaj swoje urządzenia, aby je kontrolować. Kliknij przycisk Autoryzuj, by zgodzić się na </string>
