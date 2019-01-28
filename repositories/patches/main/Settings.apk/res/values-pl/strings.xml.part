@@ -202,4 +202,5 @@
   <string name="4G_LTE_off_title">Typ 4G/LTE</string>
   <string name="set_in_aod_title">Zarządzaj w trybie AOD</string>
   <string name="type_name_connected_title">Tylko z włączonymi danymi mobilnymi</string>
+  <string name="double_tap_lock_keyguard_title">Dwukrotnie kliknij, aby zablokować ekran</string>
 </resources>
