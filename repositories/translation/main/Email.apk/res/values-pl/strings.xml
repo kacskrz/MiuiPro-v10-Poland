@@ -985,8 +985,8 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="toast_bar_insufficient_memory_space">Nie można odebrać wiadomości e-mail. Za mało miejsca.</string>
     <string name="toast_bar_invalid_account">Informacje o koncie wygasły. Dotknij, aby zalogować się ponownie.</string>
     <string name="toast_bar_no_connection_network">Brak połączenia z siecią</string>
-    <string name="toast_bar_open_gmail_synchronization">Nie udało się połączyć się z Gmail, włącz Gmail proxy.</string>
-    <string name="toast_bar_send_fail_remind">Nie udało się wysłać e-maila, zapisano w folderze \"Wychodzące\".</string>
+    <string name="toast_bar_open_gmail_synchronization">Nie udało się połączyć się z Gmail, włącz serwer proxy dla Gmail.</string>
+    <string name="toast_bar_send_fail_remind">Nie udało się wysłać e-maila, zapisano w folderze \"Do wysłania\".</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Aby zsynchronizować informacje z kalendarza i kontakty, daj Poczcie wymagane uprawnienia w Ustawieniach</string>
     <string name="toastbar_calendar_permission_switch_close">Aby otrzymywać przypomnienia kalendarza, daj Poczcie wymagane uprawnienia w Ustawieniach</string>
     <string name="toastbar_contacts_permission_switch_close">Aby dodać kontakty, daj Poczcie wymagane uprawnienia w Ustawieniach</string>

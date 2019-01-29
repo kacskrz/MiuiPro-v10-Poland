@@ -5957,7 +5957,7 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="aod_sample_date">Wtorek, 10 maja</string>
   <string name="dark_color_mode">Ciemny motyw</string>
   <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji</string>
-  <string name="open_dark_mode_dialog_summary">Niektóre ustawienia wyświetlacza nie są kompatybilne z trybem ciemnym. Zostaną one jednak przywrócone po wyłączeniu tego trybu. Włączyć tryb ciemny?</string>
+  <string name="open_dark_mode_dialog_summary">Niektóre ustawienia wyświetlacza nie są kompatybilne z ciemnym motywem. Zostaną one jednak przywrócone po wyłączeniu tego trybu. Włączyć tryb ciemny?</string>
   <string name="open_dark_mode_dialog_title">Kompatybilność ciemnego motywu</string>
   <string name="screen_cancel">Anuluj</string>
   <string name="screen_confirm">Włącz</string>
