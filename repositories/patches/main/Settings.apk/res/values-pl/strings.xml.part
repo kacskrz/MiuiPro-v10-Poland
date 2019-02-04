@@ -203,4 +203,6 @@
   <string name="set_in_aod_title">Zarządzaj w trybie AOD</string>
   <string name="type_name_connected_title">Tylko z włączonymi danymi mobilnymi</string>
   <string name="double_tap_lock_keyguard_title">Dwukrotnie kliknij, aby zablokować ekran</string>
+  <string name="dnd_icon_title">Ukryj ikonę \"Nie przeszkadzać\"</string>
+  <string name="other_icon_title">Ikony na włączonym panelu powiadomień</string>
 </resources>
