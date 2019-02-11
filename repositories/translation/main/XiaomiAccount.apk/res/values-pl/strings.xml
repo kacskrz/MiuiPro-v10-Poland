@@ -486,4 +486,12 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="send_diagnosis_log">Wyślij logi diagnostyczne</string>
   <string name="sending">Wysyłanie...</string>
   <string name="temporary_not_available">Ta funkcja nie jest jeszcze dostępna.</string>
+  <string name="confirm_new_pwd">Potwierdź nowe hasło</string>
+  <string name="inconsistent_pwd">"Hasła nie pasują do siebie"</string>
+  <string name="input_new_pwd">Wpisz nowe hasło</string>
+  <string name="mi_finance">Moje finanse</string>
+  <string name="mi_finance_info">Bonusy dla nowych użytkowników</string>
+  <string name="same_new_and_old_pwd">"Hasło nie może być takie same jak obecne"</string>
+  <string name="sim_card">Karta SIM</string>
+  <string name="used_cloud_storage_info">zużyto %s miejsca w chmurze</string>
 </resources>

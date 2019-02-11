@@ -223,4 +223,13 @@
   <string name="life_post_weather_no_network">Połącz się z siecią, aby zaktualizować informacje o pogodzie</string>
   <string name="check_theme_app_install">Upewnij się, że na urządzeniu jest zainstalowana aplikacja Motywy.</string>
   <string name="check_voice_assist_app_version">Zaktualizuj Mi AI do najnowszej wersji.</string>
+  <string name="korea_permission_calendar">Kalendarz</string>
+  <string name="korea_permission_calendar_desc">Uzyskiwanie informacji o wydarzeniach i przypominanie o nich</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_desc">Dostęp do stanu urządzenia i wyciszania przypomnień w trakcie połączeń</string>
+  <string name="korea_permission_storage">Pamięć</string>
+  <string name="korea_permission_storage_desc">Zapisywanie alarmów</string>
+  <string name="module_download_data_msg_replace">Dostępna jest aktualizacja dodatkowych dźwięków (≈20 MB). Wykorzystać transmisję danych do pobierania?</string>
+  <string name="module_download_msg_replace">Dostępna jest aktualizacja dodatkowych dźwięków. Pobrać ją teraz?</string>
+  <string name="search_menu_title">Szukaj</string>
 </resources>

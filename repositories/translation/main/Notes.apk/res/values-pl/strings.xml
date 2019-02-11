@@ -241,4 +241,8 @@
   <string name="cta_dialog_message">Notatki wymagają uprawnień do połączenia z internetem, nagrywania audio, a także odczytu kontaktów, aby działać normalnie. Zezwolić na to?</string>
   <string name="cta_dialog_title">Wymagane uprawnienia</string>
   <string name="unclassfied_folder_name">Bez kategorii</string>
+  <string name="permission_intro_contact">Oznaczanie notatek wykonanych podczas połączeń</string>
+  <string name="permission_intro_microphone">Nagrywanie notatek głosowych</string>
+  <string name="permission_intro_phone">Oznaczanie notatek wykonanych podczas połączeń</string>
+  <string name="permission_intro_storage">Zapisywanie notatek i załączników</string>
 </resources>

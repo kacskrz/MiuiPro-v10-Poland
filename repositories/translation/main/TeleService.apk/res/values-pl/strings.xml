@@ -1822,9 +1822,9 @@ Skontaktuj się z operatorem."</string>
   <string name="sip_account_disable">Konto jest nieaktywne. Nie można zaakceptować połączeń.</string>
   <string name="sip_receive_call_disable">Nie można zaakceptować połączeń. Najpierw zezwól na ich akceptowanie.</string>
   <string name="vowifi_emergency_notification_channel">Połączenia alarmowe w Wi-Fi Calling</string>
-  <string name="vowifi_emergency_notification_content">Połączenia alarmowe można wykonać tylko przy użyciu danych komórkowych.</string>
+  <string name="vowifi_emergency_notification_content">Połączenia alarmowe można wykonać tylko tam, gdzie jest zasięg sieci komórkowej.</string>
   <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi Calling</string>
-  <string name="vowifi_emergency_warning_check">Nie pokazuj ponownie.</string>
+  <string name="vowifi_emergency_warning_check">Nie pokazuj ponownie</string>
   <string name="vowifi_emergency_warning_message">"Nie można wykonywać połączeń alarmowych przy użyciu Wi-Fi Calling.
 
 W celu wykonania połączenia urządzenie automatycznie połączy się z siecią komórkową.

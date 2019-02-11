@@ -1071,4 +1071,5 @@
   <string name="notification_channel_favorite_description">Powiadomienia dot. ulubionych elementów z innych aplikacji</string>
   <string name="notification_channel_payment_description">Powiadomienia o płatnościach</string>
   <string name="notification_channel_shopping_description">Powiadomienia o produktach dodanych do ulubionych lub liście zakupów</string>
+  <string name="card_expand_note_add_checkbox">Dodaj pole wyboru</string>
 </resources>

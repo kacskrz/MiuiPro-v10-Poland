@@ -5843,7 +5843,7 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="ai_settings_single_click_title">Wciśnięcie</string>
   <string name="child_mode_settings">Kontrola rodzicielska</string>
   <string name="dangerous_option">Opcje programistyczne dużego ryzyka</string>
-  <string name="dangerous_option_hint">%1$s jest włączone. Dotknij, aby zmienić to ustawienie.</string>
+  <string name="dangerous_option_hint">\"%1$s\" jest włączone. Dotknij, aby zmienić to ustawienie.</string>
   <string name="dangerous_option_hint_title">Włączona jest ryzykowna funkcja</string>
   <string name="gxzw_dialog_message">"Czytnik linii papilarnych wbudowany w ekran działa najlepiej bez dodatkowej ochrony ekranu, takiej jak szkła hartowane czy folie. Jeśli nadal chcesz zabezpieczyć ekran, korzystaj tylko z najwyższej jakości akcesoriów."</string>
   <string name="gxzw_dialog_not_show_again">"Nie pokazuj ponownie"</string>
@@ -5957,10 +5957,14 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="aod_sample_date">Wtorek, 10 maja</string>
   <string name="dark_color_mode">Ciemny motyw</string>
   <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji</string>
-  <string name="open_dark_mode_dialog_summary">Niektóre ustawienia wyświetlacza nie są kompatybilne z ciemnym motywem. Zostaną one jednak przywrócone po wyłączeniu tego trybu. Włączyć tryb ciemny?</string>
+  <string name="open_dark_mode_dialog_summary">Niektóre ustawienia wyświetlacza nie są kompatybilne z ciemnym motywem. Zostaną one jednak przywrócone po jego wyłączeniu. Włączyć ciemny motyw?</string>
   <string name="open_dark_mode_dialog_title">Kompatybilność ciemnego motywu</string>
   <string name="screen_cancel">Anuluj</string>
   <string name="screen_confirm">Włącz</string>
   <string name="aod_lock_screen_date">EEEE, d MMMM</string>
   <string name="aod_lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="incall_show">Profil wideo dla połączeń wychodzących</string>
+  <string name="more_dangerous_option_hint">Bardzo ryzykowne funkcje, w tym \"%1$s\", są włączone. Kliknij, by to zmienić.</string>
+  <string name="mute_voiceassist_stream">Wycisz asystenta głosowego</string>
+
 </resources>

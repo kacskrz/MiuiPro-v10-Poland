@@ -108,4 +108,18 @@
         <item quantity="few">Wznów synchronizację po %d minutach</item>
         <item quantity="many">Wznów synchronizację po %d minutach</item>
     </plurals>
+     <plurals name="micloud_manual_pause_and_resume">
+         <item quantity="other">Synchr. wstrzymana. Wznowienie synchr. za %d minut</item>
+		 <item quantity="one">Synchr. wstrzymana. Wznowienie synchr. za %d minutę</item>
+	 </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">" minut temu"</item>
+        <item quantity="one">" minutę temu"</item>
+        <item quantity="few">" minuty temu"</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">" godzin temu"</item>
+        <item quantity="one">" godzinę temu"</item>
+        <item quantity="few">" godziny temu"</item>
+	</plurals>
 </resources>
