@@ -602,12 +602,12 @@
   <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">Couldn\'t connect to the network.</string>
-  <string name="miuishare_publish">Send</string>
+  <string name="miuishare_publish">Wyślij</string>
   <string name="miuishare_qzone_title">Qzone</string>
-  <string name="miuishare_share_done">Shared successfully</string>
-  <string name="miuishare_share_editor_title">Share</string>
-  <string name="miuishare_title_more">More</string>
-  <string name="miuishare_title_share">Share</string>
+  <string name="miuishare_share_done">Pomyślnie wysłano</string>
+  <string name="miuishare_share_editor_title">Udostępnij</string>
+  <string name="miuishare_title_more">Więcej</string>
+  <string name="miuishare_title_share">Udostępnij</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="month_day_format">dd.MM</string>

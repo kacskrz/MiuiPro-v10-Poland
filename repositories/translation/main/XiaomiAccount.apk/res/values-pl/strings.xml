@@ -493,5 +493,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="mi_finance_info">Bonusy dla nowych użytkowników</string>
   <string name="same_new_and_old_pwd">"Hasło nie może być takie same jak obecne"</string>
   <string name="sim_card">Karta SIM</string>
-  <string name="used_cloud_storage_info">zużyto %s miejsca w chmurze</string>
+  <string name="used_cloud_storage_info">Zużyto %s miejsca</string>
 </resources>

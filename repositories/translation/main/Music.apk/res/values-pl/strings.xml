@@ -1079,4 +1079,17 @@ Be Happy"</string>
   <string name="fcm_fallback_notification_channel_label">Różne</string>
   <string name="gcm_fallback_notification_channel_label">Różne</string>
   <string name="ready_to_play">Następnie</string>
+  <string name="agreement_desc">Zgoda użytkownika</string>
+  <string name="app_permission_confirm">Rozumiem</string>
+  <string name="app_permission_optional">Opcjonalne uprawnienia</string>
+  <string name="app_permission_require">Wymagane uprawnienia</string>
+  <string name="app_permission_use_desc">Uprawnienia</string>
+  <string name="app_permission_use_group_account">Konta</string>
+  <string name="app_permission_use_group_account_desc">Uzyskiwanie informacji o koncie Xiaomi</string>
+  <string name="app_permission_use_group_phone">Telefon</string>
+  <string name="app_permission_use_group_phone_desc">Usługi Google Push</string>
+  <string name="app_permission_use_group_storage">Pamięć</string>
+  <string name="app_permission_use_group_storage_desc">Odnajdywanie i odtwarzanie utworów zapisanych w telefonie</string>
+  <string name="data_use_desc">Dokumenty prawne</string>
+  <string name="privacy_desc">Polityka prywatności</string>
 </resources>

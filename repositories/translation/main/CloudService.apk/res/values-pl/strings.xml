@@ -649,7 +649,7 @@
   <string name="micloud_sync_result_secure_space_limit">Nie można synchronizować w drugiej przestrzeni</string>
   <string name="micloud_sync_result_sim_activated_error">Karta SIM nie jest aktywowana</string>
   <string name="micloud_sync_result_wifi_only">Synchronizacja tylko przez Wi-Fi</string>
-  <string name="sync_detail_summary_off">Wył.</string>
+  <string name="sync_detail_summary_off">Wyłączone</string>
   <string name="sync_detail_text">Szczegóły</string>
   <string name="warning_bar_action_add_short_cut">Dodaj</string>
   <string name="warning_bar_action_close">Zamknij</string>
