@@ -1442,4 +1442,19 @@ aby spersonalizować Galerię"</string>
   <string name="text_tab_bubble">Dymki</string>
   <string name="text_tab_watermark">Znaki wodne</string>
   <string name="photo_editor_font_default">Domyślna</string>
+  <string name="agreement_agree">Akceptuję</string>
+  <string name="agreement_optional_tip">(opcjonalne)</string>
+  <string name="agreement_quit">Wyjdź</string>
+  <string name="agreement_required_tip">(obowiązkowe)</string>
+  <string name="agreement_summary">Dokumenty prawne</string>
+  <string name="permissin_contract_desc">Nazywanie osób na zdjęciu</string>
+  <string name="permission_contract_name">Kontakty</string>
+  <string name="permission_optional_category">Opcjonalne uprawnienia</string>
+  <string name="permission_phone_desc">Żądania sieciowe oparte na ID urządzenia</string>
+  <string name="permission_phone_name">Telefon</string>
+  <string name="permission_require_category">Wymagane uprawnienia</string>
+  <string name="permission_storage_desc">Wyświetlanie, edycja i zapis zdjęć</string>
+  <string name="permission_storage_name">Pamięć</string>
+  <string name="permission_use_desc">Uprawnienia</string>
+  <string name="select_all">Zaznacz wszystko</string>
 </resources>
