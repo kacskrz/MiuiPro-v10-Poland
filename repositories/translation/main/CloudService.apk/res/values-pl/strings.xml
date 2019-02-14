@@ -534,7 +534,7 @@
   <string name="sync_item_calllog_title">Synchronizuj historię połączeń</string>
   <string name="sync_item_sms_summary">Synchronizuj SMSy z tego urządzenia</string>
   <string name="sync_item_sms_title">Synchronizuj SMSy</string>
-  <string name="sync_item_title">Synchronizpwane elementy</string>
+  <string name="sync_item_title">Synchronizowane elementy</string>
   <string name="sync_off">Wył.</string>
   <string name="sync_on">Wł.</string>
   <string name="sync_resend_sms_dspt_provision">" Jeśli zmienisz kartę SIM, twój operator pobierze dodatkową opłatę za wiadomość SMS użytą do ponownej aktywacji tej usługi, jeśli wymagana."</string>
