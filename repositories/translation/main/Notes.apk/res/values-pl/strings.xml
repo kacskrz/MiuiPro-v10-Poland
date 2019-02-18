@@ -245,4 +245,12 @@
   <string name="permission_intro_microphone">Nagrywanie notatek głosowych</string>
   <string name="permission_intro_phone">Oznaczanie notatek wykonanych podczas połączeń</string>
   <string name="permission_intro_storage">Zapisywanie notatek i załączników</string>
+  <string name="toast_refuse_to_use_contact">"Nie nadano uprawnień do kontaktów.
+Zezwól aplikacji Notatki na odczyt kontaktów i znajdowanie kont na tym urządzeniu."</string>
+  <string name="toast_refuse_to_use_external_storage">"Nie nadano uprawnień do pamięci.
+Zezwól aplikacji Notatki na dostęp do pamięci."</string>
+  <string name="toast_refuse_to_use_phone_state">"Nie nadano uprawnień do telefonu.
+Zezwól aplikacji Notatki na odczyt stanu telefonu i jego identyfikację."</string>
+  <string name="toast_refuse_to_use_record_audio">"Nie nadano uprawnień do mikrofonu.
+Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
 </resources>

@@ -12,4 +12,18 @@
         <item>Kopia zapasowa ważnych ustawień, w tym Wi-Fi oraz ekranu</item>
         <item>Blokowanie swojego urządzenia zdalnie, w przypadku utraty</item>
     </string-array>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Identyfikacja zsynchronizowanych elementów</item>
+        <item>Synchronizacja wiadomości</item>
+        <item>Synchronizacja kontaktów</item>
+        <item>Synchronizacja wydarzeń z kalendarza</item>
+        <item>Synchronizacja elementów z usług używających pamięci</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Kontakty</item>
+        <item>Kalendarz</item>
+        <item>Pamięć</item>
+    </string-array>
 </resources>

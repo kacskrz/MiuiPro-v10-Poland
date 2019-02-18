@@ -155,4 +155,10 @@
     <string name="privacy_policy_title">Polityka prywatności</string>
     <string name="alert_message_delete_local_record">Usunąć to nagranie?</string>
     <string name="download">Pobierz</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_resc">Dostęp do stanu urządzenia i nagrywania rozmów głosowych</string>
+  <string name="korea_permission_record">Mikrofon</string>
+  <string name="korea_permission_record_resc">Nagrywanie audio</string>
+  <string name="korea_permission_storage">Pamięć</string>
+  <string name="korea_permission_storage_desc">Zapisywanie nagrań</string>
 </resources>

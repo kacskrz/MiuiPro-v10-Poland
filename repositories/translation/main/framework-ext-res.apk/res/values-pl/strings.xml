@@ -188,4 +188,10 @@
   <string name="security_permission_open_wifi_settings">Otwórz ustawienia Wi-Fi</string>
   <string name="xspace_head">Sklonowana aplikacja</string> 
   <string name="start_dump_log">Zacznij generowanie logów dot. problemu</string>
+  <string name="resolver_checkbox_always">Zawsze</string>
+  <string name="resolver_checkbox_once">Tylko raz</string>
+  <string name="resolver_mi_browser">Przeglądarka</string>
+  <string name="resolver_offical_recommend">Oficjalna</string>
+  <string name="resolver_other_method">Inne aplikacje</string>
+  <string name="resolver_recommend_options_tag">Rekomendowana aplikacja</string>
 </resources>

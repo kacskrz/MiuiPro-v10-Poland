@@ -539,4 +539,9 @@
         <item quantity="one">Wpisz min. %d znak</item>
         <item quantity="few">Wpisz min. %d znaki</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">Znaleziono %d zagrożeń. Napraw je</item>
+        <item quantity="one">Znaleziono %d zagrożenie. Napraw je</item>
+        <item quantity="few">Znaleziono %d zagrożenia. Napraw je</item>
+    </plurals>
 </resources>

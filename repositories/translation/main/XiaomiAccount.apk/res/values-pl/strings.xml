@@ -494,4 +494,20 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="same_new_and_old_pwd">"Hasło nie może być takie same jak obecne"</string>
   <string name="sim_card">Karta SIM</string>
   <string name="used_cloud_storage_info">Zużyto %s miejsca</string>
+  <string name="exit">Wyjdź</string>
+  <string name="i_agree_continue">Kontynuuj</string>
+  <string name="kr_license_desc">Aby korzystać z konta oraz chmury Xiaomi, musisz przeczytać i zaakceptować Umowę użytkownika i Politykę prywatności.</string>
+  <string name="kr_permission_contacts_desc">Odczyt informacji o kontaktach</string>
+  <string name="kr_permission_desc">Przeczytaj wymagane uprawnienia poniżej</string>
+  <string name="kr_permission_phone_desc">Bezpieczeństwo konta</string>
+  <string name="kr_permission_sms_desc">Autouzupełnianie kodu weryfikacyjnego z SMS-a</string>
+  <string name="kr_permission_storage_desc">Gromadzenie danych diagnostycznych</string>
+  <string name="optional_permissions">Opcjonalne uprawnienia</string>
+  <string name="passport_privacy_policy_required">Polityka prywatności (wymagana)</string>
+  <string name="passport_user_agreement_required">Umowa użytkownika (wymagana)</string>
+  <string name="permission_group_contacts">Kontakty</string>
+  <string name="permission_group_phone">Telefon</string>
+  <string name="permission_group_sms">SMS</string>
+  <string name="permission_group_storage">Pamięć</string>
+  <string name="select_all">Zaznacz wszystko</string>
 </resources>
