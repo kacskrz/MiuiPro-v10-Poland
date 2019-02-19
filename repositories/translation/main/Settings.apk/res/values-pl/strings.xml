@@ -5967,4 +5967,6 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="more_dangerous_option_hint">Bardzo ryzykowne funkcje, w tym \"%1$s\", są włączone. Kliknij, by to zmienić.</string>
   <string name="mute_voiceassist_stream">Wycisz asystenta głosowego</string>
   <string name="settings_notify_new_version">Dostępna jest aktualizacja. Kliknij, aby sprawdzić szczegóły.</string>
+  <string name="crypt_keeper_switch_to_pattern">Użyj wzoru</string>
+  <string name="crypt_keeper_switch_to_pin">Użyj PINu</string>
 </resources>

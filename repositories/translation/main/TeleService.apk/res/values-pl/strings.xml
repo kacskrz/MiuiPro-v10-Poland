@@ -1830,5 +1830,5 @@ Skontaktuj się z operatorem."</string>
 W celu wykonania połączenia urządzenie automatycznie połączy się z siecią komórkową.
 
 Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkolwiek sieci."</string>
-  <string name="vowifi_emergency_warning_title">Połączenia ECC via Wi-Fi Calling</string>
+  <string name="vowifi_emergency_warning_title">Połączenia alarmowe w Wi-Fi Calling</string>
 </resources>

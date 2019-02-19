@@ -810,4 +810,6 @@
   <string name="subscribe">Subskrybuj</string>
   <string name="summary_pref_cm_smart_sms">Szablony wiadomości, numery usług SMS i więcej.</string>
   <string name="updating">Aktualizowanie…</string>
+  <string name="menu_traffic_destination">Cel</string>
+  <string name="train_edit_destination">Dodaj</string>  
 </resources>
