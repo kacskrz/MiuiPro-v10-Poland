@@ -2455,4 +2455,25 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="face_unlock_verity_dialog_title_succeed">Pomyślnie zweryfikowano</string>
   <string name="fingerprint_to_lock_summary">Odblokuj dostęp do aplikacji odciskiem palca</string>
   <string name="unlock_failed">Błąd wewnętrzny</string>
+  <string name="app_permission_use_group_calendar">Kalendarz</string>
+  <string name="app_permission_use_group_calendar_des">Odczyt i dodawanie informacji do kalendarza</string>
+  <string name="app_permission_use_group_camera">Aparat</string>
+  <string name="app_permission_use_group_camera_des">Używanie aparatu</string>
+  <string name="app_permission_use_group_contact">Kontakty</string>
+  <string name="app_permission_use_group_contact_des">Odczyt i dodawanie informacji o kontaktach</string>
+  <string name="app_permission_use_group_location">Lokalizacja</string>
+  <string name="app_permission_use_group_location_des">Ustalanie dokładnej i przybliżonej lokalizacji</string>
+  <string name="app_permission_use_group_mic">Mikrofon</string>
+  <string name="app_permission_use_group_mic_des">Nagrywanie audio</string>
+  <string name="app_permission_use_group_phone">Telefon</string>
+  <string name="app_permission_use_group_phone_des">Odczyt i dodawanie elementów do historii połączeń, tworzenie połączeń i odczyt stanu połączenia</string>
+  <string name="app_permission_use_group_sensor">Czujniki</string>
+  <string name="app_permission_use_group_sensor_des">Odczyt danych wygenerowanych przez czujniki</string>
+  <string name="app_permission_use_group_sms">SMS</string>
+  <string name="app_permission_use_group_sms_des">Wysyłanie, otrzymywanie i odczyt SMS-ów</string>
+  <string name="app_permission_use_group_storage">Pamięć</string>
+  <string name="app_permission_use_group_storage_des">Dostęp do pamięci i zapisywania na niej danych</string>
+  <string name="app_permission_use_neccesary">Wymagane uprawnienia</string>
+  <string name="app_permission_use_no_neccesary">Opcjonalne uprawnienia</string>
+  <string name="app_permission_use_title">Uprawnienia</string>
 </resources>
