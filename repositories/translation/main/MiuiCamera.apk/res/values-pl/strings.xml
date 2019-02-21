@@ -138,7 +138,7 @@
   <string name="portait_effect_entry_nature">Natura</string>
   <string name="portait_effect_entry_pink">Zarumieniony</string>
   <string name="portait_effect_entry_romance">Romantyczne</string>
-  <string name="portrait_mode_depth_effect_success_hint">Efekt głębokości</string>
+  <string name="portrait_mode_depth_effect_success_hint">Efekt głębi</string>
   <string name="portrait_mode_lowlight_hint">Teraz jest zbyt ciemno</string>
   <string name="portrait_mode_too_close_hint">Odsuń się dalej od obiektu</string>
   <string name="portrait_mode_too_far_hint">Umieść obiekt w odległości 2m</string>
