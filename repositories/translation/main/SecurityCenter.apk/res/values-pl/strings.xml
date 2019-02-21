@@ -526,7 +526,9 @@
   <string name="cpu_usage_process_run_time_little_time">Mniej niż minutę</string>
   <string name="cpu_usage_view_action_btn_text">Dotknij, aby wyświetlić</string>
   <string name="create_shortcut">Utwórz skrót na ekranie głównym dla Przyśpieszania gier</string>
-  <string name="cta_dialog_msg">Panel sterowanie wymaga połączenia internetowego, aby pobrać aktualizacje, a także dostępu do lokalizacji, do poprawnego działania.</string>
+  <string name="cta_dialog_msg">&lt;Data&gt;Aplikacja Panel Sterowania może wymagać połączenia z siecią do aktualizacji baz danych oraz dostępu do Twojej lokalizacji. Przed skorzystaniem z Panelu musisz zgodzić się na &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politykę prywatności Xiaomi&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="cta_dialog_negative">Wyjdź</string>
+  <string name="cta_dialog_positive">Zgoda</string>
   <string name="cta_dialog_title">Połączenie z Internetem</string>
   <string name="cta_settings">Zezwól na łączność z siecią</string>
   <string name="current_network_state_not_need_diagnose">Sieć działa poprawnie</string>
