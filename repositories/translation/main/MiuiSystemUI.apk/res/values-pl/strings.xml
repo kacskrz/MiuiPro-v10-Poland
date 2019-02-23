@@ -1735,4 +1735,25 @@
   <string name="usb_port_overheated_notification_content">Odłącz ładowarkę i sprawdź, czy port jest czysty.</string>
   <string name="usb_port_overheated_title">Port ładowania jest przegrzany. Odłącz ładowarkę.</string>
   <string name="face_unlock_not_roi">Umieść twarz wewnątrz ramki</string>
+  <string name="gxzw_quick_open_add_event">Dodaj wydarzenie</string>
+  <string name="gxzw_quick_open_add_event_sub">Klendarz</string>
+  <string name="gxzw_quick_open_alipay_pay">Kod płatności</string>
+  <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
+  <string name="gxzw_quick_open_alipay_scan">Skaner</string>
+  <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+  <string name="gxzw_quick_open_qr_code">Kod QR</string>
+  <string name="gxzw_quick_open_qr_code_sub">Skaner</string>
+  <string name="gxzw_quick_open_search">Szukaj</string>
+  <string name="gxzw_quick_open_search_sub">Internet</string>
+  <string name="gxzw_quick_open_skip_teach">Pomiń tutorial</string>
+  <string name="gxzw_quick_open_wechat_pay">Kod płatności</string>
+  <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+  <string name="gxzw_quick_open_wechat_scan">Skaner</string>
+  <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+  <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+  <string name="gxzw_quick_open_xiaoai_title1">Powiedz nazwę aplikacji, którą chcesz otworzyć</string>
+  <string name="gxzw_quick_open_xiaoai_title2">Powiedz nazwę funkcji, której chcesz użyć</string>
+  <string name="gxzw_quick_tip_press">Trzymaj…</string>
+  <string name="gxzw_quick_tip_slide">"Nie podnoś palca. Przesuń, aby wybrać."</string>
+  <string name="rapid_charge_mode_tip">Szybkie ładowanie</string>
   </resources>
