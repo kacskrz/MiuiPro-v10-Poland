@@ -205,4 +205,5 @@
   <string name="double_tap_lock_keyguard_title">Dwukrotnie kliknij, aby zablokować ekran</string>
   <string name="dnd_icon_title">Ukryj ikonę \"Nie przeszkadzać\"</string>
   <string name="other_icon_title">Ikony na włączonym panelu powiadomień</string>
+  <string name="dnd_notification_title">Dźwięk powiadomień w trybie Nie przeszkadzać</string>
 </resources>
