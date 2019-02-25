@@ -33,6 +33,8 @@
   <string name="account_unactivated">Konto nie jest aktywne.</string>
   <string name="ad_app_download_start">Rozpoczynanie pobierania…</string>
   <string name="ad_app_is_downloading">Pobieranie…</string>
+  <string name="ad_begin_to_install_tip">Instalacja…</string>
+  <string name="ad_download_download_now">Pobierz</string>
   <string name="add_resource_detail_fail">Nie można dodać zasobu</string>
   <string name="all_resources">Wszystkie</string>
   <string name="app_name">Motywy</string>
@@ -87,11 +89,14 @@
   <string name="download_failed">Pobieranie nieudane</string>
   <string name="download_preview_failed">Nie można załadować podglądu</string>
   <string name="download_success">Pobieranie zakończone</string>
+  <string name="dynamic_video_wallpaper">Tapeta zależna od pory dnia</string>
   <string name="fail_to_add_account">Nie można dodać konta</string>
   <string name="favorite_list">Ulubione</string>
   <string name="favorite_list_format">Ulubione %1$s</string>
+  <string name="find_more_font">Więcej</string>
   <string name="find_more_theme">Znajdź więcej</string>
   <string name="find_more_wallpapers">Dowiedz się więcej</string>
+  <string name="float_wallpaper_is_here">Przezroczysta tapeta</string>
   <string name="gift_anonymous">Anonimowo</string>
   <string name="gift_operation_fail_dlg_abandon">Anuluj</string>
   <string name="gift_operation_fail_dlg_retry">Spróbuj ponownie</string>
@@ -129,6 +134,16 @@
   <string name="home_apply_failured">Nie można ustawić tapety ekranu głównego</string>
   <string name="home_apply_success">Ustawiono tapetę ekranu głównego</string>
   <string name="in_the_end">Nie ma więcej elementów do wyświetlenia</string>
+  <string name="incall_show_apply">Wideo w połączeniach wychodzących</string>
+  <string name="incall_show_apply_fail">"Nie można zastosować wideo"</string>
+  <string name="incall_show_apply_success">Pomyślnie zastosowano</string>
+  <string name="incall_show_apply_success_without_ringtone">"Pomyślnie zastosowano wideo.
+Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w trakcie odtwarzania wideo."</string>
+  <string name="incall_show_find_more">Więcej</string>
+  <string name="incall_show_not_set">Brak wideo</string>
+  <string name="incall_show_remove">Usuń wideo</string>
+  <string name="incall_show_remove_dialog_message">"Już ustawiłeś wideo dla połączeń wychodzących. Usunąć je teraz?"</string>
+  <string name="incall_show_remove_success">Pomyślnie usunięto</string>
   <string name="incompatible_dialog_cancel">Nie stosuj</string>
   <string name="incompatible_dialog_message">Ten motyw nie jest w pełni kompatybilny z wersją MIUI zainstalowaną na urządzeniu. Niektóre elementy mogą być wyświetlane niepoprawnie.</string>
   <string name="incompatible_dialog_ok">Rozumiem</string>
@@ -140,6 +155,7 @@
   <string name="item_resource_audio_optional_notification_ring">Powiadomienia</string>
   <string name="item_resource_audio_optional_phone_ring">Dzwonek</string>
   <string name="live_wallpaper">Animowana tapeta</string>
+  <string name="lab">Funkcje w fazie testów</string>
   <string name="loading">Chwileczkę…</string>
   <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu</string>
   <string name="loading_resource_detail_info">Chwileczkę…</string>
@@ -178,6 +194,12 @@
   <string name="miuishare_title_share">Wyślij</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="mix_global_option">Całość</string>
+  <string name="mix_global_option_des">Pasek powiadomień, dialer, SMS i inne elementy systemu. Odznacz to pole, aby użyć domyślnych ustawień.</string>
+  <string name="mix_home_option_des">Tapeta i zegar. Odznacz to pole, aby użyć domyślnych ustawień.</string>
+  <string name="mix_icons_option_des">Ikony. Odznacz to pole, aby użyć domyślnych ustawień.</string>
+  <string name="mix_lockscreen_option_des">Tapeta i zegar. Odznacz to pole, aby użyć domyślnych ustawień.</string>
+  <string name="mix_tip">Elementy motywu</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Dzwonek jest zastosowany do obu kart SIM.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Rozumiem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Nie pokazuj ponownie</string>
@@ -198,6 +220,7 @@
   <string name="online_precust_scenery">Krajobraz</string>
   <string name="online_search_hint">Wyszukaj zasoby online</string>
   <string name="password_toggle_content_description">Przełącz widoczność hasła</string>
+  <string name="present_local_fonts">Moje czcionki</string>
   <string name="present_local_themes">Moje motywy</string>
   <string name="present_local_themes_subtitle">Dostosuj swoje urządzenie</string>
   <string name="present_official_themes">Nasz wybór</string>
@@ -453,6 +476,8 @@
   <string name="theme_changed_failed_message">Nie można ustawić motywu</string>
   <string name="theme_changed_message">Ustawiono motyw</string>
   <string name="theme_changing_dialog_title">"Ustawianie "</string>
+  <string name="theme_comment_dialog_message">Oceń naszą aplikację i powiedz nam, co o niej sądzisz.</string>
+  <string name="theme_comment_dialog_ok">Oceń</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Styl alarmu</string>
   <string name="theme_component_title_all">Motywy</string>
@@ -502,6 +527,7 @@
   <string name="theme_purchased_non_local">Zakupione</string>
   <string name="theme_select_others">Przeglądaj</string>
   <string name="theme_setting">Ustawienia</string>
+  <string name="theme_to_comment">Nieźle!</string>
   <string name="theme_user_agreement_allow">Zgadzam się</string>
   <string name="theme_user_agreement_content1">"Korzystając z tego produktu, zgadzasz się na naszą "</string>
   <string name="theme_user_agreement_content2">Umowę Użytkownika</string>
@@ -524,6 +550,15 @@
   <string name="title_system_audio_resource">Dzwonki systemowe</string>
   <string name="title_system_wallpaper_resource">Tapeta systemowa</string>
   <string name="to_activate_the_account">Aktywuj teraz konto Xiaomi.</string>
+  <string name="transparent_wallpaper">Przezroczysta tapeta</string>
+  <string name="transparent_wallpaper_apply_success">Pomyślnie zastosowano tapetę. Możesz wyłączyć tą funkcję w Motywach > Profil > Funkcje w fazie testów.</string>
+  <string name="transparent_wallpaper_enable_success">Pomyślnie włączono</string>
+  <string name="transparent_wallpaper_guide">Przejdź do Motywów</string>
+  <string name="transparent_wallpaper_guide_tip">W aplikacji Motywy możesz wybrać teraz przezroczystą tapetę.</string>
+  <string name="transparent_wallpaper_white_wallpaper">Białe tło</string>
+  <string name="transparent_wallpaper_white_wallpaper_failed">"Nie można ustawić białego tła"</string>
+  <string name="transparent_wallpaper_white_wallpaper_success">Ustawiono białe tło</string>
+  <string name="transparent_wallpaper_white_wallpaper_tip">Przezroczyste tapety wyglądają najlepiej na białym tle</string>
   <string name="uid_change_dialog_message">Usunięto aktualizacje. Uruchom ponownie urządzenie, aby móc używać motywów.</string>
   <string name="uid_change_dialog_ok">Rozumiem</string>
   <string name="uid_change_dialog_title">Uruchom ponownie</string>
@@ -538,6 +573,7 @@
   <string name="video_data_tips_message">Korzystanie z danych mobilnych może wygenerować dodatkowe koszty. Kontynuować mimo to?</string>
   <string name="video_data_tips_title">Ostrzeżenie o limicie danych</string>
   <string name="video_silence_apply_success">Pomyślnie skonfigurowano wideo bez dźwięku</string>
+  <string name="video_wallpaper_import">Kliknij, aby dodać elementy</string>
   <string name="wallpaper_apply">Zastosuj</string>
   <string name="wallpaper_crop">Przytnij</string>
   <string name="wallpaper_decoded_error">Nie udało się załadować!</string>
@@ -545,6 +581,7 @@
   <string name="wallpaper_scroll_type_tips">Przewijanie tapety</string>
   <string name="wallpaper_set_as_both">Ustaw na obu</string>
   <string name="wallpaper_set_as_desktop">Ustaw jako Ekran główny</string>
+  <string name="wallpaper_set_as_float_wallpaper">Ustaw jako przezroczystą tapetę (beta)</string>
   <string name="wallpaper_set_as_lockscreen">Ustaw jako Ekran blokady</string>
   <string name="wallpaper_settings">Ustawienia tapety</string>
   <string name="wallpaper_settings_loading_text">Chwileczkę…</string>
