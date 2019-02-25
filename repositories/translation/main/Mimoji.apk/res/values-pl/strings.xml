@@ -22,7 +22,7 @@
   <string name="app_name">MiMoji</string>
   <string name="AR_IMG_SHARE">Mimoji</string>
   <string name="BLOG_APP_NO_INSTALL">Aplikacja nie jest zainstalowana</string>
-  <string name="cta_message">Zezwolić na dostęp do sieci, mikrofonu i aparatu?</string>
+  <string name="cta_message">Musisz zaakceptować <a href="http://www.miui.com/res/doc/privacy/en.html">Politykę prywatności</a> oraz udzielić aplikacji dostępu do sieci, mikrofonu i aparatu. Czy zgadzasz się na to?</string>
   <string name="error_tip_out_range">Umieść telefon w kierunku twarzy</string>
   <string name="error_tip_sleep">Kliknij, aby kontynuować</string>
   <string name="MILIAO_APP_NO_INSTALL">Aplikacja nie jest zainstalowana</string>
@@ -44,6 +44,7 @@
   <string name="text_10">Wyślij</string>
   <string name="text_11">Więcej</string>
   <string name="text_12">Anuluj</string>
+  <string name="text_13">Zezwolić na dostęp do aparatu?</string>
   <string name="webo_version_too_low">Konieczna jest aktualizacja aplikacji</string>
   <string name="WICHART_APP_NO_INSTALL">Aplikacja nie jest zainstalowana</string>
 </resources>
