@@ -570,4 +570,22 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Wygląda na to&lt;/font>, że numer %s został skasowany przez twojego operatora. Sprawdzić kiedy numer był ostatnio dostępy?</string>
     <string name="passport_get_innetdate_agree">Sprawdź</string>
     <string name="passport_get_innetdate_disagree">Nie</string>
+	<string name="feedback_reproductivity_everytime">Za każdym razem</string>
+	<string name="feedback_reproductivity_occasionally">Rzadko</string>
+	<string name="feedback_reproductivity_often">Często</string>
+	<string name="feedback_reproductivity_once">Raz</string>
+	<string name="kr_authorization_agree">Akceptuję</string>
+	<string name="kr_authorization_contact">Konta</string>
+	<string name="kr_authorization_contact_desc">Uzyskiwanie informacji o koncie Xiaomi i jego weryfikacja</string>
+	<string name="kr_authorization_exit">Wyjdź</string>
+	<string name="kr_authorization_log_protocol">Przesyłanie statystyk (opcjonalne)</string>
+	<string name="kr_authorization_log_protocol_desc">"W celu udoskonalenia dostarczanych usług, prześlemy statystyki użytkowania i logi systemowe na nasze serwery. Te elementy mogą zawierać dane osobowe, a także informacje o urządzeniu i sieciach. Użyjemy przesłanych elementów, aby zlokalizować i przeanalizować problemy w systemie."</string>
+	<string name="kr_authorization_phone">Telefon</string>
+	<string name="kr_authorization_phone_desc">Identyfikacja urządzenia poprzez IMEI i numer modelu oraz lokalizacja i analizowanie problemów</string>
+	<string name="kr_authorization_privacy_policy">Polityka prywatności (obowiązkowa)</string>
+	<string name="kr_authorization_select_all">Zaznacz wszystko</string>
+	<string name="kr_authorization_storage">Pamięć</string>
+	<string name="kr_authorization_storage_desc">Dostęp do danych na urządzeniu oraz zapisywanie logów, obrazów i wideo</string>
+	<string name="kr_authorization_summary">Dokumenty prawne</string>
+	<string name="kr_authorization_user_protocol">Umowa użytkownika (obowiązkowa)</string>
 </resources>

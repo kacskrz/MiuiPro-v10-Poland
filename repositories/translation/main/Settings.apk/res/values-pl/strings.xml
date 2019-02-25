@@ -5973,7 +5973,7 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="gxzw_quick_open_enable_title">Skróty czytnika linii papilarnych</string>
   <string name="gxzw_quick_open_fast_summary">Przesuń, aby użyć skrótu, gdy urządzenie jest odblokowane.</string>
   <string name="gxzw_quick_open_fast_title">Szybko przesuń (zaawansowane)</string>
-  <string name="gxzw_quick_open_slow_summary">Kliknij i przytrzymaj ikonę czytnika, aby otworzyć menu skrótu. Następnie przesuń, aby użyć danej opcji.</string>
+  <string name="gxzw_quick_open_slow_summary">Kliknij i przytrzymaj ikonę czytnika, aby otworzyć menu ze skrótami. Następnie przesuń palcem w danym kierunku, aby użyć wybranej opcji.</string>
   <string name="gxzw_quick_open_slow_title">Kliknij i przytrzymaj</string>
   <string name="gxzw_quick_open_title">Skróty</string>
 </resources>

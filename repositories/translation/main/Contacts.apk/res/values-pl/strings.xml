@@ -5,6 +5,7 @@
     <string name="accessibility_contact_detail">Szczegóły kontaktu</string>
     <string name="account_container_title">Wczytany z</string>
     <string name="account_default">Telefon</string>
+	<string name="account_dual_sim">Karta SIM %d</string>
     <string name="account_phone">Lokalnie, niesynchronizowany</string>
     <string name="account_sim">Karta SIM</string>
     <string name="account_sim2">Karta SIM %d</string>

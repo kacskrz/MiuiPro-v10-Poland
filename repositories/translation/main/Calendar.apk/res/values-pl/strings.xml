@@ -465,4 +465,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="search_menu_title">Szukaj</string>
 	<string name="today_icon_voice_contentdescription">Wstecz do dzisiaj</string>
 	<string name="select_today_tip">Dzisiaj</string>
+	<string name="notification_open_setting_button_exit">Nie, dzięki</string>
+	<string name="notification_open_setting_button_ok">OK</string>
+	<string name="notification_open_setting_message">"Nie będziesz otrzymywać powiadomień o wydarzeniach, jeśli nie zezwolisz Kalendarzowi na wysyłanie powiadomień."</string>
+	<string name="notification_open_setting_title">Zezwolić na powiadomienia z Kalendarza?</string>
 </resources>

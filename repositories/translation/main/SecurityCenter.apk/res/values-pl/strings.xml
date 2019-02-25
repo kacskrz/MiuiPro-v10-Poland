@@ -881,7 +881,7 @@
   <string name="gs_game_performance">Wydajność</string>
   <string name="gs_game_shortcut">Popraw swoje doznania w grach</string>
   <string name="gs_gamebox">Skróty w grze</string>
-  <string name="gs_gamebox_detail">Pokaż panel skrótów w grze</string>
+  <string name="gs_gamebox_detail">Przesuń palcem od górnej krawędzi bocznej ekranu, aby wyświetlić</string>
   <string name="gs_only_self_start_for_list">Blokuj procesy działające w tle, aby oszczędzić baterię dla gier</string>
   <string name="gs_open_game_booster">Przyspiesz prędkość</string>
   <string name="gs_open_game_booster_summary">Zwiększ prędkość sieci dla gier</string>
@@ -1693,7 +1693,8 @@
   <string name="Settings_title_network_assistants">Monitor Danych - Ustawienia</string>
   <string name="Settings_title_power_center">Zasilanie - Ustawienia</string>
   <string name="shield_keyboard_detail">Stuknij dwa razy przycisk, aby ponownie go włączyć</string>
-  <string name="shield_keyboard_title">Wyłącz przyciski</string>
+  <string name="shield_keyboard_summary">Ogranicz działanie przycisków i gestów podczas grania</string>
+  <string name="shield_keyboard_title">Wyłącz przyciski i gesty</string>
   <string name="show_system_app">Pokaż aplikacje systemowe</string>
   <string name="show_traffic_dialog_message">Aktualne użycie danych będzie pokazywane w rozwijanym pasku powiadomień. Może włączyć lub wyłączyć to funkcję w każdej chwili w Użycie danych &gt; Ustawienia.</string>
   <string name="show_traffic_dialog_title">Pokaż użycie danych w pasku powiadomień</string>
@@ -2540,4 +2541,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="shield_keyboard_summary">Wyłącz przyciski i gesty podczas grania w gry</string>
   <string name="wlan_optimization_summary">Zmniejsz opóźnienia sieci Wi-Fi</string>
   <string name="wlan_optimization_title">Optymalizacja Wi-Fi</string>
+  <string name="forground_network_optimization_summary">Większa przepustowość dla gier działających na pierwszym planie</string>
+  <string name="forground_network_optimization_title">Priorytet sieciowy</string>
+  <string name="function_shield_summary_m">Ogranicz autom. jasność i gesty zrzutu ekranu</string>
 </resources>

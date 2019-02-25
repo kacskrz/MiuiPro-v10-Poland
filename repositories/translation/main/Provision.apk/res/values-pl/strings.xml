@@ -105,4 +105,6 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="other_settings_enhanced_lockscreen">Tapety ekranu blokady</string>
   <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Warunki użytkowania</string>
+  <string name="congratulation_label_night">Sprawdź nasz nowy, czarny motyw!</string>
+  <string name="start_up_slogan_night">Sprawdź nasz nowy, czarny motyw!</string>
 </resources>

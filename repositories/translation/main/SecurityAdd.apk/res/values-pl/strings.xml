@@ -34,4 +34,5 @@
     <string name="gb_weixinpay_can_not_complete">Nie można dokończyć płatności. Zainstaluj, aby kontynuować.</string>
     <string name="gb_alipays_can_not_complete">Nie można dokończyć płatności. Zainstaluj, aby kontynuować.</string>
     <string name="xunyou_pay_webview">Usługi Xunyou</string>
+    <string name="gamebox_no_network_btn">Załaduj ponownie</string>
 </resources>

@@ -186,6 +186,14 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="particulate_matter_exceeded">High</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Too high</string>
+  <string name="permission_device_info">Informacje o urządzeniu</string>
+  <string name="permission_device_introduce">Rozpoznawanie ID urządzenia na podstawie modelu oraz IMEI, a także dostarczanie usług opartych na preferencjach językowych użytkownika</string>
+  <string name="permission_exit">Wyjdź</string>
+  <string name="permission_privacy">Polityka prywatności (obowiązkowa)</string>
+  <string name="permission_select_all">Zaznacz wszystko</string>
+  <string name="permission_storage">Pamięć</string>
+  <string name="permission_storage_introduce">Dostęp do elementów na urządzeniu i zapisywanie plików</string>
+  <string name="permission_user_protocol">Umowa użytkownika (obowiązkowa)</string>
   <string name="policy_settings">Warunki użytkowania</string>
   <string name="precipitation_degree_five">storm</string>
   <string name="precipitation_degree_four">heavy</string>
@@ -264,6 +272,8 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="view_indexes_item_today">Dziś</string>
   <string name="view_indexes_item_tommorrow">Jutro</string>
   <string name="weather_alert_channel_name">Ostrzeżenia</string>
+  <string name="weather_introduce">Zawsze z tobą, w każdych warunkach.</string>
+  <string name="weather_permission_agree">Akceptuję</string>
   <string name="weather_service_channel_name">Usługi w tle</string>
   <string name="wind_direction_no_data">Wiatr</string>
   <string name="wind_miles_unit">%1$s mph</string>
