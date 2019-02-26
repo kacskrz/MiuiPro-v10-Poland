@@ -131,4 +131,23 @@
         <item>Codzienne zdarzenia</item>
         <item>Zwykłe oraz specjalne</item>
     </string-array>
+    <string-array name="activities_title">
+        <item>Szczególne dni</item>
+        <item>Godne zapamiętania</item>
+        <item>Ekscytujące chwile</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Moje weekendy</item>
+        <item>Chwile z życia</item>
+        <item>Pamiątki z weekendu</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Razem</item>
+        <item>Dobre czasy</item>
+        <item>Zgodnie</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Iść do przodu</item>
+        <item>Pełen energii</item>
+    </string-array>
 </resources>
