@@ -1374,4 +1374,10 @@
   <string name="small_video_ad_app_text_open">Otwórz</string>
   <string name="small_video_ad_app_text_resume">Wznów</string>
   <string name="small_video_ad_web_text">Otwórz</string>
+  <string name="ad_app_download_notification_content">Otwórz teraz~</string>
+  <string name="ad_app_download_site_new">NOWA</string>
+  <string name="ad_exit_dialog_exit_btn_name">wyjdź</string>
+  <string name="ad_exit_dialog_message">Instalacja ukończona! Czy chcesz otworzyć to teraz?</string>
+  <string name="ad_exit_dialog_open_btn_name">otwórz</string>
+  <string name="ad_exit_dialog_title_name">Potwierdzenie otwarcia aplikacji</string>
 </resources>
