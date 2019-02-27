@@ -271,7 +271,7 @@
   <string name="audio_optimization_title">Ulepszenie dźwięku</string>
   <string name="auto_atsk_condition_battery_level_text_down">Gdy poziom baterii osiągnie %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Gdy bateria jest załadowane do %s</string>
-  <string name="auto_back_booster">Zatrzymaj przyspieszanie</string>
+  <string name="auto_back_booster">Zatrzymano przyspieszanie</string>
   <string name="auto_booster_suc">Pomyślnie przyspieszono</string>
   <string name="auto_clean_close">Automatyczne czyszczenie jest wyłączone</string>
   <string name="auto_data_back_booster">Wyłączono zwiększenie wydajności. Przywrócone zostały funkcje komunikacyjne.</string>
@@ -880,8 +880,8 @@
   <string name="gs_game_net_priority_detail">Ogranicz prędkość pobierania, aby zapewnić odpowiednią przepustowość</string>
   <string name="gs_game_performance">Wydajność</string>
   <string name="gs_game_shortcut">Popraw swoje doznania w grach</string>
-  <string name="gs_gamebox">Skróty w grze</string>
-  <string name="gs_gamebox_detail">Przesuń palcem od górnej krawędzi bocznej ekranu, aby wyświetlić</string>
+  <string name="gs_gamebox">Skróty w grach</string>
+  <string name="gs_gamebox_detail">Przesuń palcem od paska w lewym górnym rogu ekranu, aby wyświetlić panel ze skrótami</string>
   <string name="gs_only_self_start_for_list">Blokuj procesy działające w tle, aby oszczędzić baterię dla gier</string>
   <string name="gs_open_game_booster">Przyspiesz prędkość</string>
   <string name="gs_open_game_booster_summary">Zwiększ prędkość sieci dla gier</string>

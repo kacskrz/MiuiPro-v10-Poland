@@ -495,10 +495,10 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="sim_card">Karta SIM</string>
   <string name="used_cloud_storage_info">Zużyto %s miejsca</string>
   <string name="exit">Wyjdź</string>
-  <string name="i_agree_continue">Kontynuuj</string>
+  <string name="i_agree_continue">Zgadzam się</string>
   <string name="kr_license_desc">Aby korzystać z konta oraz chmury Xiaomi, musisz przeczytać i zaakceptować Umowę użytkownika i Politykę prywatności.</string>
   <string name="kr_permission_contacts_desc">Odczyt informacji o kontaktach</string>
-  <string name="kr_permission_desc">Przeczytaj wymagane uprawnienia poniżej</string>
+  <string name="kr_permission_desc">Wymagane uprawnienia</string>
   <string name="kr_permission_phone_desc">Bezpieczeństwo konta</string>
   <string name="kr_permission_sms_desc">Autouzupełnianie kodu weryfikacyjnego z SMS-a</string>
   <string name="kr_permission_storage_desc">Gromadzenie danych diagnostycznych</string>
