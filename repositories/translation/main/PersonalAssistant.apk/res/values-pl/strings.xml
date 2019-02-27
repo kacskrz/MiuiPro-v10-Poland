@@ -119,8 +119,8 @@
   <string name="card_expand_note_clear">Wyczyść</string>
   <string name="card_expand_note_dialog_button">Rozumiem</string>
   <string name="card_expand_note_dialog_message">Nowa notatka tworzona jest za każdym razem wtedy, gdy dotkniesz przycisku \"Gotowe\" w Asystencie MIUI.</string>
-  <string name="card_expand_note_dialog_title">Zapisane notatki</string>
-  <string name="card_expand_note_toast_clear_null">Pomyślnie wyczyszczono</string>
+  <string name="card_expand_note_dialog_title">Zapisz</string>
+  <string name="card_expand_note_toast_clear_null">Notatka jest pusta. Napisz cokolwiek, aby móc ją zapisać w Notatkach bądź udostępnić.</string>
   <string name="card_expand_note_toast_save_done">Zapisano w Notatkach</string>
   <string name="card_expand_note_toast_save_dup">Zapisano pomyślnie</string>
   <string name="card_hint_noteboard">Dotknij tutaj, aby zrobić notatkę.</string>
