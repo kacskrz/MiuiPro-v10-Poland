@@ -154,4 +154,21 @@
         <item>Średni deszcz</item>
         <item>Przelotny</item>
     </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Dobra</item>
+        <item>Średnia</item>
+        <item>Zła dla pewnych osób</item>
+        <item>Zła</item>
+        <item>Bardzo zła</item>
+        <item>Niebezpieczna</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Świetne</item>
+        <item>Dobre</item>
+        <item>Lekko zanieczyszczone</item>
+        <item>Średnio zanieczyszczone</item>
+        <item>Znacznie zanieczyszczone</item>
+        <item>Poważnie zanieczyszczone</item>
+        <item>Poza skalą</item>
+    </string-array>
 </resources>

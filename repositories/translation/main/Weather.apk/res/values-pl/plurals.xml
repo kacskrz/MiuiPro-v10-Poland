@@ -20,8 +20,28 @@
         <item quantity="other">Pogodnie</item>
         <item quantity="one">Pogodnie</item>
     </plurals>
-     <plurals name="feedback_result_interval_time_too_short">
-          <item quantity="other">%1$s seconds after the feedback</item>
-          <item quantity="one">%1$s second after the feedback</item>
-      </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s sekund po raporcie</item>
+        <item quantity="one">%1$s sekunda po raporcie</item>
+        <item quantity="few">%1$s sekundy po raporcie</item>
+    </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Średnia z %1$s stacji</item>
+        <item quantity="one">Średnia z %1$s stacji</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s osób | </item>
+        <item quantity="one">%1$s osoba | </item>
+        <item quantity="few">%1$s osoby | </item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"Zagłosowało &lt;font color='#20a7ff'>%1$s&lt;/font> osób"</item>
+        <item quantity="one">"Zagłosowała &lt;font color='#20a7ff'>%1$s&lt;/font> osoba"</item>
+        <item quantity="few">"Zagłosowały &lt;font color='#20a7ff'>%1$s&lt;/font> osoby"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s osób</item>
+        <item quantity="one"> | %1$s osoba</item>
+        <item quantity="few"> | %1$s osoby</item>
+    </plurals>
 </resources>
