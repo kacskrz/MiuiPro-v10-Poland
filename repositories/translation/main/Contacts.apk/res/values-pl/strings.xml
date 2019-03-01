@@ -8,7 +8,7 @@
 	<string name="account_dual_sim">Karta SIM %d</string>
     <string name="account_phone">Lokalnie, niesynchronizowany</string>
     <string name="account_sim">Karta SIM</string>
-    <string name="account_sim2">Karta SIM %d</string>
+    <string name="account_sim2">Karta SIM %s</string>
     <string name="account_type_format">Kontakt %1$s</string>
     <string name="actionIncomingCall">Przychodzące</string>
     <string name="action_menu_overflow_description">Więcej opcji</string>
