@@ -173,6 +173,7 @@
         <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź wzór.</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s godz. %2$s"</item>
+        <item quantity="other">" %1$sgodz. %2$s"</item>
+        <item quantity="one">" %1$sgodz. %2$s"</item>
     </plurals>
 </resources>
