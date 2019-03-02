@@ -467,11 +467,11 @@
    <string name="portait_effect_entry_movie">Film</string>
   <string name="portait_effect_entry_riddle">Zagadka</string>
   <string name="portait_effect_entry_story">Opowieść</string>
-  <string name="ai_scene_mode_use_hint_text">"Kamera AI automatycznie wykrywa scenerię i optymalizuje Twoje zdjęcia na podstawie tych informacji"</string>  
-  <string name="pref_camera_ai_scene_title">Kamera AI</string>
+  <string name="ai_scene_mode_use_hint_text">"Aparat SI automatycznie wykrywa scenerię i optymalizuje Twoje zdjęcia na podstawie tych informacji"</string>  
+  <string name="pref_camera_ai_scene_title">Aparat SI</string>
   <string name="hint_ae_af_lock">Autofokus / autoekspozycja zostały zablokowane</string>
-  <string name="accessibility_ai_scene_off">Kamera AI jest wyłączona</string>
-  <string name="accessibility_ai_scene_on">Kamera AI jest włączona</string>
+  <string name="accessibility_ai_scene_off">Aparat SI jest wyłączony</string>
+  <string name="accessibility_ai_scene_on">Aparat SI jest włączony</string>
     <string name="edit_chin">Broda</string>
   <string name="edit_lips">Usta</string>
   <string name="edit_neck">Szyja</string>
