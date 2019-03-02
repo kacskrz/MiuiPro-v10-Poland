@@ -5171,7 +5171,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_assistant">Asystent Wi-Fi</string>
   <string name="wifi_assistant_auto_confirm_data_message">Ta sieć Wi-Fi nie ma dostępu do Internetu. Twoje urządzenie będzie używać danych mobilnych. Możesz wyłączyć asystenta Wi-Fi w Ustawieniach.</string>
   <string name="wifi_assistant_confirm_always">Nie pokazuj ponownie</string>
-  <string name="wifi_assistant_confirm_connection_title">Potwierdzenie</string>
+  <string name="wifi_assistant_confirm_connection_title">Stan sieci Wi-Fi</string>
   <string name="wifi_assistant_data_prompt">Pokaż ostrzeżenie o użyciu danych</string>
   <string name="wifi_assistant_data_prompt_summary">Pokaż ostrzeżenie o użyciu danych, kiedy asystent Wi-Fi przełączy się na dane mobilne</string>
   <string name="wifi_assistant_description">Oto, jak działa asystent Wi-Fi:\n1. Kiedy połączenie Wi-Fi jest słabe, Asystent Wi-Fi będzie próbował połączyć Twoje urządzenie z innymi dostępnymi sieciami Wi-Fi.\n2. Jeśli wszystkie dostępne połączenia Wi-Fi będą słabej jakości i dane mobilne będą włączone, asystent Wi-Fi przełączy się na nie.</string>
