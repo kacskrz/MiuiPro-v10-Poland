@@ -641,4 +641,6 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="hand_gesture_open_tip">Pokaż swoją dłoń w obiektywie aparatu, aby włączyć samowyzwalacz</string>
   <string name="hand_gesture_tip">Gest dłoni</string>
   <string name="hint_ae_lock">Auto-ekspozycja jest zablokowana</string>
+  <string name="config_name_ratio">Proporcje</string>
+  <string name="module_name_pixel_48M">48 Mpx</string>
 </resources>
