@@ -1760,4 +1760,5 @@
   <string name="face_unlock_fail_retry">"Nie udało się zweryfikować Twojej twarzy. Kliknij w ikonę, aby spróbować ponownie."</string>
   <string name="face_unlock_success_stay_screen_msg">Po odblokowaniu twarzą urządzenie pozostanie na ekranie blokady i umożliwi przejście do pulpitu gestem przesunięcia w górę</string>
   <string name="face_unlock_success_stay_screen_title">Pozostań na ekranie blokady</string>
+  <string name="gxzw_long_press_tip">"Aby zobaczyć dostępne skróty, nie podnoś palca po odblokowaniu urządzenia"</string>
   </resources>
