@@ -116,8 +116,8 @@ Damaged Device from your doorstep"</string>
   <string name="input_wallet_information">Wpisz numer telefonu</string>
   <string name="instant_bank_transfer">Natychmiastowy przelew</string>
   <string name="insurance_button">Ubezpieczenie</string>
-  <string name="insurance_description">Ubezpieczenie zapewnia dodatkowe pokrycie kosztów naprawy</string>
-  <string name="insurance_entrance">Ochrona Mi dla nowego urządzenia</string>
+  <string name="insurance_description">Ubezpieczenie OneAssist zapewnia dodatkowe pokrycie kosztów naprawy</string>
+  <string name="insurance_entrance">Ochrona dla nowego urządzenia</string>
   <string name="item_name_battery">Bateria</string>
   <string name="item_name_bluetooth">Bluetooth</string>
   <string name="item_name_frontcamera">Przedni aparat</string>
@@ -133,6 +133,7 @@ Damaged Device from your doorstep"</string>
   <string name="label_my_order">Moje zamówienie</string>
   <string name="landmark">Punkt zwrotny</string>
   <string name="loading">Ładowanie…</string>
+  <string name="main_entrance">Sprzedaj swój telefon</string>
   <string name="main_overall_test">START</string>
   <string name="msg_coupon_applied">Pomyślnie zastosowano kupon.</string>
   <string name="msg_empty_cancel_reason">Wybierz powód anulowania</string>
@@ -161,7 +162,7 @@ Damaged Device from your doorstep"</string>
 Te ceny jednak mogą się zmienić. Sprzedaj telefon teraz, aby nie przegapić najlepszej oferty.</string>
   <string name="recycle_button">Recykling</string>
   <string name="recycle_description">Uzyskaj pieniądze, oddając stary telefon do recyklingu</string>
-  <string name="recycle_entrance">Recykling Cashify</string>
+  <string name="recycle_entrance">Cashify - sprzedaj swój telefon</string>
   <string name="reschedule">Zmień harmonogram</string>
   <string name="result_no_fail">Wszystko w porządku</string>
   <string name="search_menu_title">Szukaj</string>

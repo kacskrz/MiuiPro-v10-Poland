@@ -2644,8 +2644,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="mode_disable">Wyłączony</string>
   <string name="mode_enable">Włączony</string>
   <string name="model_info">Model</string>
-  <string name="model_name">Nazwa modelu</string>
-  <string name="model_number">Oznaczenie modelu</string>
+  <string name="model_name">Model</string>
+  <string name="model_number">Model urządzenia</string>
   <string name="modify_instruction_password_settings">Ustaw hasło</string>
   <string name="modify_privacy_password">Zmień hasło</string>
   <string name="move_app">Przenieś</string>
