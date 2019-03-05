@@ -1758,6 +1758,6 @@
   <string name="rapid_charge_mode_tip">Szybkie ładowanie</string>
   <string name="face_unlock_fail">"Nie udało się zweryfikować twarzy"</string>
   <string name="face_unlock_fail_retry">"Nie udało się zweryfikować Twojej twarzy. Kliknij w ikonę, aby spróbować ponownie."</string>
-  <string name="face_unlock_success_stay_screen_msg">Pozostałeś na ekranie blokady po zweryfikowaniu twarzy. Przesuń w górę, aby otworzyć pulpit.</string>
-  <string name="face_unlock_success_stay_screen_title">Pozostanie na ekranie blokady po odblokowaniu</string>
+  <string name="face_unlock_success_stay_screen_msg">Po odblokowaniu twarzą urządzenie pozostanie na ekranie blokady i umożliwi przejście do pulpitu gestem przesunięcia w górę</string>
+  <string name="face_unlock_success_stay_screen_title">Pozostań na ekranie blokady</string>
   </resources>
