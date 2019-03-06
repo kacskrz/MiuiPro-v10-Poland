@@ -1761,4 +1761,9 @@
   <string name="face_unlock_success_stay_screen_msg">Po odblokowaniu twarzą urządzenie pozostanie na ekranie blokady i umożliwi przejście do pulpitu gestem przesunięcia w górę</string>
   <string name="face_unlock_success_stay_screen_title">Pozostań na ekranie blokady</string>
   <string name="gxzw_long_press_tip">"Aby zobaczyć dostępne skróty, nie podnoś palca po odblokowaniu urządzenia"</string>
+  <string name="usb_port_short_circuit_dialog_content">Ładowanie urządzenia zostało ograniczone. Rozłącz ładowarkę i wyczyść port z wszelkich cieczy i płynów, aby przywrócić jego pełną sprawność działania.</string>
+  <string name="usb_port_short_circuit_notification_content">Rozłącz ładowarkę i wyczyść port z wszelkich płynów.</string>
+  <string name="usb_port_short_circuit_recovered_content">Możesz używać go do ładowania bądź podłączania się do innych urządzeń.</string>
+  <string name="usb_port_short_circuit_recovered_title">Port ładowania działa już normalnie</string>
+  <string name="usb_port_short_circuit_title">"W porcie ładowania znajduje się para wodna"</string>
   </resources>
