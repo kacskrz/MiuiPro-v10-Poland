@@ -382,7 +382,9 @@
   <string name="trans_detail_category_wechat_qq">Dane WeChat oraz QQ (w tym historia czatu)</string>
   <string name="trans_detail_item_app_data_selected_tip">Wybierz także odpowiednie aplikacje.</string>
   <string name="trans_detail_item_app_data_too_large_tip">Wygląda na to, że element jest zbyt duży do przenoszenia.</string>
-  <string name="trans_detail_list_footer">Uwaga: Możesz wybrać przenoszenie aplikacji osobno. Jednakże, jeśli wybierzesz dane aplikacji, odpowiednie aplikacje także zostaną przeniesione.</string>
+  <string name="trans_detail_list_footer">"1. Możesz wybrać aplikacje, które chcesz przenieść. 
+2. Jeśli wybierzesz dane aplikacji, odpowiednie aplikacje również zostaną przeniesione.
+3. Ze względu na problemy z kompatybilnością dane aplikacji QQ i WeChat mogą nie zostać przeniesione."</string>
   <string name="trans_detail_page_tip">Im więcej elementów wybierzesz, tym dłużej będzie trwało przenoszenia.</string>
   <string name="trans_detail_qq_data">Dane QQ (w tym historia czatu)</string>
   <string name="trans_detail_sys_data_list_title">Aplikacje systemowe</string>
@@ -461,7 +463,7 @@
   <string name="trans_security_tips_title">Kompatybilność przy przenoszeniu danych</string>
   <string name="trans_select_data">Wybierz dane do wysłania</string>
   <string name="trans_select_data_no_space">Nie ma już wolnego miejsca na nowym urządzeniu (%s dostępne). \nZwolnij przestrzeń albo przenieś tylko najważniejsze rzeczy.</string>
-  <string name="trans_select_data_tips">Wybierz pliki do przeniesienia.\nDuplikaty plików na nowym urządzeniu zostaną nadpisane.</string>
+  <string name="trans_select_data_tips">Wybierz pliki do przeniesienia.\nDuplikaty plików na nowym urządzeniu zostaną nadpisane.\nRozmiar plików, który widzisz, jest przybliżony.</string>
   <string name="trans_select_data_too_large">Wybrałeś zbyt wiele elementów do przesyłania.\nWybierz tylko ważne elementy, aby przyspieszyć przesyłanie.</string>
   <string name="trans_select_device_receive">Wybierz urządzenie do odebrania danych.</string>
   <string name="trans_select_device_send">Wybierz urządzenie do przeniesienia danych.</string>
@@ -590,4 +592,24 @@ Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="trans_success_survey_hint">Wypełnij wszystkie pola.</string>
   <string name="trans_cancel_dialog_survey_title">Dlaczego przerwałeś ten transfer?</string>
   <string name="trans_dialog_survey_finish">Wyślij</string>
+  <string name="click_soft_ap_to_link">Wybierz hotspot, aby połączyć</string>
+  <string name="confirm_exit_link">Wyjdź</string>
+  <string name="confirm_exit_link_cancel">"Nie wychodź"</string>
+  <string name="confirm_exit_link_msg">"Wyjście z aplikacji przerwie obecnie trwające przenoszenie. Będziesz musiał ponownie ustanowić połączenie między obydwoma urządzeniami. Wyjść mimo to?"</string>
+  <string name="confirm_exit_link_title">Przerwanie przenoszenia</string>
+  <string name="connect_soft_ap_label">Łączenie z nowym urządzeniem…</string>
+  <string name="old_soft_name">Połącz za pomocą kodu QR</string>
+  <string name="old_way">Możesz połączyć urządzenia także za pomocą kodu QR. Kliknij, aby go wygenerować.</string>
+  <string name="recreate_soft_ap_tips">Kliknij przycisk poniżej, aby spróbować ponownie.</string>
+  <string name="scan_soft_ap">Wyszukiwanie nowego urządzenia…</string>
+  <string name="scan_soft_ap_label">Połącz się ze starym urządzeniem</string>
+  <string name="soft_ap_create_failed">"Nie udało się utworzyć hotspotu"</string>
+  <string name="soft_ap_creating">Tworzenie hotspotu…</string>
+  <string name="trans_intro_desc_10">Kliknij \"Połącz za pomocą kodu QR\" na nowym urządzeniu i zeskanuj wygenerowany kod, aby ustanowić połączenie.</string>
+  <string name="trans_intro_desc_gms">"Ze względu na duże prawdopodobieństwo nieudanego przeniesienia (problemy z kompatybilnością), Przenoszenie danych nie wspiera danych aplikacji Google."</string>
+  <string name="trans_intro_question_10">"%d. Nie możesz odnaleźć hotspotu na starym urządzeniu?"</string>
+  <string name="trans_intro_title_gms">Dane aplikacji od firmy Google:</string>
+  <string name="wait_link">"Połącz swoje stare urządzenie z tym hotspotem.
+Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</string>
+  <string name="waiting">Chwileczkę…</string>
 </resources>
