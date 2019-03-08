@@ -1092,4 +1092,13 @@ Be Happy"</string>
   <string name="app_permission_use_group_storage_desc">Odnajdywanie i odtwarzanie utworów zapisanych w telefonie</string>
   <string name="data_use_desc">Dokumenty prawne</string>
   <string name="privacy_desc">Polityka prywatności</string>
+  <string name="all_albums">Wszystkie albumy</string>
+  <string name="all_artists">Wszyscy wykonawcy</string>
+  <string name="all_playlists">Wszystkie playlisty</string>
+  <string name="all_songs">Wszystkie piosenki</string>
+  <string name="all_videos">Wszystkie teledyski</string>
+  <string name="search_hint_local">Wyszukaj piosenki na urządzeniu</string>
+  <string name="search_hint_online">Wyszukaj spośród artystów, albumów, piosenek, playlist i teledysków online</string>
+  <string name="tab_playlist">Playlisty</string>
+  <string name="tab_video">Teledyski</string>
 </resources>
