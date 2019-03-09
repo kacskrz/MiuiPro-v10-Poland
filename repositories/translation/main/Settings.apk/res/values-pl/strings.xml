@@ -3258,7 +3258,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="privacy_authorize_cloud_msg">Aby zapewnić bezpieczeństwo swojego konta, zaloguj się na stronie i.mi.com, jeśli chcesz cofnąć autoryzację usług Mi Cloud (w tym synchronizacji i kopii zapasowych).</string>
   <string name="privacy_authorize_dialog_agree">Zgadzam się</string>
   <string name="privacy_authorize_dialog_exit">Wyjdź</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"In order to use the basic features of this service, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you\'ve read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;.&amp;#8203;\"&lt;/Data&gt;</string>
+  <string name="privacy_authorize_dialog_message"><Data>W celu używania podstawowych funkcji Panelu Sterowania musisz zgodzić się na to, że firma Xiaomi będzie gromadzić, przetwarzać i używać Twoich danych osobistych. Klikając przycisk "Zgadzam się" stwierdzasz, że przeczytałeś i zgodziłeś się na warunki naszej <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Polityki prywatności</a> i <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Zgody użytkownika</a>.</Data></string>
   <string name="privacy_authorize_network_error">Połącz z siecią i spróbuj ponownie.</string>
   <string name="privacy_authorize_privacy_policy">Polityką prywatności</string>
   <string name="privacy_authorize_revoke">Unieważnij</string>
@@ -5973,7 +5973,7 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="gxzw_quick_open_enable_title">Skróty czytnika linii papilarnych</string>
   <string name="gxzw_quick_open_fast_summary">Przesuń, aby użyć skrótu, gdy urządzenie jest odblokowane.</string>
   <string name="gxzw_quick_open_fast_title">Szybko przesuń (zaawansowane)</string>
-  <string name="gxzw_quick_open_slow_summary">Kliknij i przytrzymaj ikonę czytnika, aby otworzyć menu ze skrótami. Następnie przesuń palcem w danym kierunku, aby użyć wybranej opcji.</string>
-  <string name="gxzw_quick_open_slow_title">Kliknij i przytrzymaj</string>
+  <string name="gxzw_quick_open_slow_summary">Dotknij i przytrzymaj ikonę czytnika, aby otworzyć menu ze skrótami. Następnie przesuń palcem w danym kierunku, aby użyć wybranej opcji.</string>
+  <string name="gxzw_quick_open_slow_title">Dotknij i przytrzymaj</string>
   <string name="gxzw_quick_open_title">Skróty</string>
 </resources>
