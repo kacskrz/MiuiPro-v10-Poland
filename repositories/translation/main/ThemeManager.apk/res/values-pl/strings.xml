@@ -154,7 +154,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="item_resource_audio_optional_color_ring">Dźwięk dzwonka</string>
   <string name="item_resource_audio_optional_notification_ring">Powiadomienia</string>
   <string name="item_resource_audio_optional_phone_ring">Dzwonek</string>
-  <string name="live_wallpaper">Animowana tapeta</string>
+  <string name="live_wallpaper">Animowane</string>
   <string name="lab">Funkcje w fazie testów</string>
   <string name="loading">Chwileczkę…</string>
   <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu</string>
@@ -527,7 +527,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="theme_purchased_non_local">Zakupione</string>
   <string name="theme_select_others">Przeglądaj</string>
   <string name="theme_setting">Ustawienia</string>
-  <string name="theme_to_comment">Nieźle!</string>
+  <string name="theme_to_comment">Zostaw komentarz</string>
   <string name="theme_user_agreement_allow">Zgadzam się</string>
   <string name="theme_user_agreement_content1">"Korzystając z tego produktu, zgadzasz się na naszą "</string>
   <string name="theme_user_agreement_content2">Umowę Użytkownika</string>
