@@ -135,4 +135,12 @@
         <item quantity="one">Możesz ustawić %d przypomnienie</item>
         <item quantity="few">Możesz ustawić %d przypomnienia</item>
     </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">%2$s, każdego %1$s</item>
+    </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s minut jazdy do %1$s.</item>
+        <item quantity="one">%2$s minuta jazdy do %1$s.</item>
+        <item quantity="few">%2$s minuty jazdy do %1$s.</item>
+    </plurals>
 </resources>

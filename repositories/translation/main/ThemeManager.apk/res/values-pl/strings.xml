@@ -689,4 +689,5 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="wallpaper_personal_dialog_content">Dzięki tej funkcji będziesz otrzymywać tapety dostosowane do Twoich zainteresowań. Możesz wyłączyć lub włączyć ją w ustawieniach. Spersonalizować tapety teraz?</string>
   <string name="wallpaper_personal_dialog_disagree">Nie, dzięki</string>
   <string name="wallpaper_personal_dialog_title">Tapety dla Ciebie</string>
+  <string name="desktop_effects">Efekty pulpitu</string> 
 </resources>
