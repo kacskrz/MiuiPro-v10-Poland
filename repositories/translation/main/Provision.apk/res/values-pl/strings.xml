@@ -31,6 +31,7 @@
   <string name="item_lock_screen_password">Tylko ekran blokady</string>
   <string name="language_picker_other_languages_title">Więcej języków</string>
   <string name="language_settings">Wybierz język</string>
+  <string name="locale_picker_other_locale_title">Więcej regionów</string>
   <string name="locale_picker_title">Wybierz swój region</string>
   <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę Prywatności na %s.</string>
   <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>

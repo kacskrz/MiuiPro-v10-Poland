@@ -3111,7 +3111,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="person_hotpot">Mobilne hotspoty</string>
   <string name="personal_data_section_title">Dane osobiste</string>
   <string name="personal_device_admin_title">Osobiste</string>
-  <string name="personal_section_title">Osobiste</string>
+  <string name="personal_section_title">Personalizacja</string>
   <string name="phone_call_noise_suppression">Redukcja szumów podczas rozmowy</string>
   <string name="phone_info_label">Informacje o telefonie</string>
   <string name="phone_language">Języki</string>
@@ -4495,7 +4495,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="system_alert_window_on">Tak</string>
   <string name="system_alert_window_settings">Wyświetlanie nad innymi aplikacjami</string>
   <string name="system_alert_window_summary" formatted="false">Uprawnienia do wyświetlania nad innymi aplikacjami: %d z %d aplikacji</string>
-  <string name="system_and_device_section_title">System i urządzenie</string>
+  <string name="system_and_device_section_title">System</string>
   <string name="system_app">(Systemowa)</string>
   <string name="system_app_settings">Aplikacje systemowe</string>
   <string name="system_apps_updater">Aktualizacje aplikacji systemowych</string>
@@ -5976,4 +5976,12 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="gxzw_quick_open_slow_summary">Dotknij i przytrzymaj ikonę czytnika, aby otworzyć menu ze skrótami. Następnie przesuń palcem w danym kierunku, aby użyć wybranej opcji.</string>
   <string name="gxzw_quick_open_slow_title">Dotknij i przytrzymaj</string>
   <string name="gxzw_quick_open_title">Skróty</string>
+  <string name="login_account_summary">Zarządzaj kontami, usługami Chmury, płatnościami itd.</string>
+  <string name="miui_more_special_feature">Odkrywaj nowe funkcje</string>
+  <string name="miui_special_feature">Funkcje specjalne</string>
+  <string name="other_settings_sync_settings">Synchronizacja</string>
+  <string name="search_other_settings_sync_settings">Synchronizacja;Automatyczna;Tylko przez Wi-Fi</string>
+  <string name="search_unlogin_account_title">Konto Xiaomi;ID konta Xiaomi;Konto;ID konta</string>
+  <string name="unlogin_account_summary">Jedno konto Xiaomi. Wszystkie usługi Mi</string>
+  <string name="unlogin_account_title">Zaloguj się na konto Xiaomi</string>
 </resources>
