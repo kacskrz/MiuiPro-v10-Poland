@@ -14,13 +14,10 @@
     <item>Bardzo zadowolony</item>
   </string-array>
   <string-array name="trans_cancel_survey_title">
-    <item>Przenoszenie trwało za długo</item>
-    <item>Połączenie zostało przerwane</item>
-    <item>Wybrałem złe elementy do wysłania</item>
-    <item>Za dużo kroków</item>
-    <item>"Moja bateria jest słaba"</item>
-    <item>Przesłane elementy zostały uszkodzone</item>
-    <item>Zacząłem transfer przypadkowo</item>
-    <item>Inne</item>
+    <item>Ogólnie</item>
+    <item>Czas trwania przenoszenia</item>
+    <item>Prostota operacji</item>
+    <item>Przejrzystość instrukcji</item>
+    <item>Ta funkcja jest użyteczna</item>
   </string-array>
 </resources>
