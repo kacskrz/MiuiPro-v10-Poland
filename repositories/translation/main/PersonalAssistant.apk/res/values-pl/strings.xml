@@ -1072,4 +1072,9 @@
   <string name="notification_channel_payment_description">Powiadomienia o płatnościach</string>
   <string name="notification_channel_shopping_description">Powiadomienia o produktach dodanych do ulubionych lub liście zakupów</string>
   <string name="card_expand_note_add_checkbox">Dodaj pole wyboru</string>
+  <string name="clock_parent">Zegar</string>
+  <string name="google_assistant">Asystent</string>
+  <string name="midrop_send">Wyślij</string>
+  <string name="phone_check">Optymalizacja</string>
+  <string name="whatsapp_photos">Zdjęcia</string>
 </resources>
