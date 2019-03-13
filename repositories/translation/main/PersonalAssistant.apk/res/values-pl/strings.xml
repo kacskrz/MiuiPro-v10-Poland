@@ -1077,4 +1077,6 @@
   <string name="midrop_send">Wyślij</string>
   <string name="phone_check">Optymalizacja</string>
   <string name="whatsapp_photos">Zdjęcia</string>
+  <string name="disclaimer_content">Ta funkcja dostarczana jest przez firmę %1$s. Będzie ona ponosić wszelką odpowiedzialność za działanie tej usługi. W razie pytań skontaktuj się ze wsparciem firmy %1$s.</string>
+  <string name="disclaimer_title">Informacja</string>
 </resources>

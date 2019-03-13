@@ -5988,4 +5988,13 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="cutout_mode_default">Automatycznie</string>
   <string name="cutout_mode_settings_title">Jeśli dostosujesz sposób wyświetlania wycięcia, niektóre aplikacje mogą być wyświetlane nieprawidłowo.</string>
   <string name="cutout_mode_title">Wcięcie w poszczególnych aplikacjach</string>
+  <string name="bt_aac_dialog_summary">"Urządzenie wspiera standard AAC, jednakże ze względu na problemy z kompatybilnością kodek AAC może nie odtworzyć dźwięku. Urządzenie zostało więc przełączone na kodek SBC.
+Możesz zmienić to w Ustawieniach."</string>
+  <string name="bt_aac_dialog_title">Połączenie Bluetooth</string>
+  <string name="bt_aac_open_dialog_summary">"Ze względu na problemy z kompatybilnością kodek AAC może nie odtworzyć dźwięku.
+Możesz wyłączyć tą funkcję w Ustawienia > Bluetooth > Sparowane urządzenia."</string>
+  <string name="bt_aac_open_dialog_title">Przełączanie na kodek AAC</string>
+  <string name="bt_dialog_remember_choice">Zapamiętaj wybór</string>
+  <string name="bt_dialog_settings">Ustawienia</string>
+  <string name="bt_pre_summary">Przetwornik audio dostarczający dźwięk o wysokiej jakości</string>
 </resources>

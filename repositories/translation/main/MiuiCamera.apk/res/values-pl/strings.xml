@@ -387,8 +387,8 @@
   <string name="pref_front_mirror_entry_on">Wł.</string>
   <string name="pref_front_mirror_label_auto">Automatycznie</string>
   <string name="pref_front_mirror_title">Odbicie lustrzane</string>
-  <string name="pref_google_lens_summary">Rozpoznawanie kodów QR, e-maili, tekstu i numerów</string>
-  <string name="pref_google_lens_title">Inteligentne sugestie</string>
+  <string name="pref_google_lens_summary">Rozpoznawanie kodów QR, e-maili, numerów itp.</string>
+  <string name="pref_google_lens_title">Sugestie Obiektywu</string>
   <string name="pref_groupshot_with_primitive_title">Zapisz także oryginalne zdjęcia</string>
   <string name="pref_manual_exposure_title">S</string>
   <string name="pref_priority_storage_title">Zapisz na karcie SD</string>
@@ -776,4 +776,6 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="wideselfie_rotate_to_front">Przechyl urządzenie do przodu</string>
   <string name="wideselfie_rotate_to_left_slowly">Powoli obracaj telefon w lewo</string>
   <string name="wideselfie_rotate_to_right_slowly">Powoli obracaj telefon w prawo</string>
+  <string name="macro_mode">Tryb makro</string>
+  <string name="macro_mode_tip">Umieść obiekt do 10 cm od obiektywu</string>
 </resources>
