@@ -1240,4 +1240,6 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="scan_business_card">Zeskanuj wizytówkę</string>
     <string name="scan_bussiness_card_merge_tip">Sprzeczne dane zostały zastąpione</string>
     <string name="contacts_default_notification_channel">Powiadomienia</string>
+	<string name="confirm_call_log_dial_summary">Pytaj, czy wybrać numer po dotknięciu na liście historii połączeń</string>
+	<string name="confirm_call_log_dial_title">Potwierdź wybieranie numeru</string>
 </resources>
