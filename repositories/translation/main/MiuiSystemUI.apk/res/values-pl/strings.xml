@@ -1736,7 +1736,7 @@
   <string name="usb_port_overheated_title">Port ładowania jest przegrzany. Odłącz ładowarkę.</string>
   <string name="face_unlock_not_roi">Umieść twarz wewnątrz ramki</string>
   <string name="gxzw_quick_open_add_event">Dodaj wydarzenie</string>
-  <string name="gxzw_quick_open_add_event_sub">Klendarz</string>
+  <string name="gxzw_quick_open_add_event_sub">Kalendarz</string>
   <string name="gxzw_quick_open_alipay_pay">Kod płatności</string>
   <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
   <string name="gxzw_quick_open_alipay_scan">Skaner</string>
