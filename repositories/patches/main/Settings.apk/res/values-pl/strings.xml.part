@@ -206,6 +206,5 @@
   <string name="dnd_icon_title">Ukryj ikonę \"Nie przeszkadzać\"</string>
   <string name="other_icon_title">Ikony na włączonym panelu powiadomień</string>
   <string name="dnd_notification_title">Dźwięk powiadomień w trybie Nie przeszkadzać</string>
-  <string name="icon_quick_title">Ukryj ikonę szybkiego ładowania</string>
   <string name="vpn_icon_title">Ukryj ikonę VPN</string>
 </resources>
