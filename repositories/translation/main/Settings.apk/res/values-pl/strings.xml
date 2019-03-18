@@ -5925,7 +5925,7 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="power_key_how_power_off_detail">Przytrzymaj przycisk Power przez 3 sekundy</string>
   <string name="power_key_how_start">Jak uruchomić Asystenta Google?</string>
   <string name="power_key_how_start_detail">Przytrzymaj przycisk Power na pół sekundy, a potem go puść.</string>
-  <string name="power_key_start_enjoy">Dowiedz się więcej o Asystencie Google</string>
+  <string name="power_key_start_enjoy">OK, rozumiem</string>
   <string name="power_key_start_guide">Uruchom Asystenta Google za pomocą przycisku Power na urządzeniach pełnoekranowych</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Uruchom asystenta głosowego w trybie pełnoekranowym (bez fizycznych przycisków)</string>
   <string name="default_launcher_set_jeejen_message">Kliknij przycisk Ekranu głównego, aby ustawić launcher Jeejen</string>
