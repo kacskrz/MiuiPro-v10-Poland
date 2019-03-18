@@ -29,7 +29,7 @@
   <string name="activity_main_update_time">Aktualizacja  %1$s</string>
   <string name="activity_main_update_time_expire">Dane pogodowe są nieaktualne</string>
   <string name="activity_main_update_time_right_now">teraz</string>
-  <string name="activity_minute_rain_location_fail_msg">Lokalizacja nieudana. Domyślnie ustawiono (niestety...) Beijing</string>
+  <string name="activity_minute_rain_location_fail_msg">Lokalizacja nieudana. Ustawiono obecne miasto</string>
   <string name="add_city">Dodaj lokalizację</string>
   <string name="alert_detail_title">Szczegóły ostrzeżenia</string>
   <string name="alert_warning">Ostrzeżenia o warunkach</string>
@@ -65,6 +65,8 @@
   <string name="aqi_quality_pm10_desc">Pył PM10</string>
   <string name="aqi_quality_pm25_desc">Pył PM25</string>
   <string name="aqi_quality_so2_desc">Dwutlenek siarki</string>
+  <string name="aqi_settings_summary">Alerty dot. jakości powietrza</string>
+  <string name="aqi_settings_title">Indeks jakości powietrza</string>
   <string name="aqi_station_best_quality_station">Najlepsza w pobliżu</string>
   <string name="aqi_station_min_distance_station">Najbliższa stacja</string>
   <string name="aqi_sub_desc">AQI</string>

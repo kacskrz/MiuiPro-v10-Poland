@@ -482,7 +482,7 @@
     <string name="labelCW">Połączenia oczekujące</string>
     <string name="sum_cw_enabled">Podczas połączenia powiadamiaj mnie o połączeniach przychodzących</string>
     <string name="sum_cw_disabled">Podczas połączenia powiadamiaj mnie o połączeniach przychodzących</string>
-    <string name="call_forwarding_settings">Ustawienia przekazywania połączeń</string>
+    <string name="call_forwarding_settings">Przekazywanie połączeń</string>
     <string name="call_forwarding_settings_with_label">Ustawienia przekierowywania połączeń (%s)</string>
     <string name="labelCF">Przekierowanie połączeń</string>
     <string name="labelCFU">Przekieruj wszystkie</string>
@@ -1429,7 +1429,7 @@ Funkcje związane z kodem PIN2 zostaną zablokowane po ponownej nieudanej próbi
     <string name="call_background_default">Domyślne</string>
     <string name="call_background_lock_wallpaper">Tapeta ekranu blokady</string>
     <string name="antispam_setting">Lista blokowanych</string>
-    <string name="call_advanced_setting_title">Ustawienie zaawansowane</string>
+    <string name="call_advanced_setting_title">Zaawansowane</string>
     <string name="preference_data_usage_title">Ustaw plan taryfowy danych</string>
     <string name="preference_data_usage_summary">Ustaw swój plan taryfowy danych, aby kontrolować zużycie danych mobilnych</string>
     <string name="sim_service_setting">Mi SIM oraz Mi Roaming</string>

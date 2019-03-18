@@ -2645,7 +2645,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="mode_enable">Włączony</string>
   <string name="model_info">Model</string>
   <string name="model_name">Model</string>
-  <string name="model_number">Model urządzenia</string>
+  <string name="model_number">Model</string>
   <string name="modify_instruction_password_settings">Ustaw hasło</string>
   <string name="modify_privacy_password">Zmień hasło</string>
   <string name="move_app">Przenieś</string>
@@ -5979,15 +5979,15 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="login_account_summary">Zarządzaj kontami, usługami Chmury, płatnościami itd.</string>
   <string name="miui_more_special_feature">Więcej funkcji</string>
   <string name="miui_special_feature">Funkcje specjalne</string>
-  <string name="other_settings_sync_settings">Synchronizacja</string>
+  <string name="other_settings_sync_settings">Konta i synchronizacja</string>
   <string name="search_other_settings_sync_settings">Synchronizacja;Automatyczna;Tylko przez Wi-Fi</string>
   <string name="search_unlogin_account_title">Konto Xiaomi;ID konta Xiaomi;Konto;ID konta</string>
   <string name="unlogin_account_summary">Jedno konto Xiaomi. Wszystkie usługi Mi</string>
   <string name="unlogin_account_title">Zaloguj się na konto Xiaomi</string>
   <string name="cutout_mode_always">Zawsze pokazuj</string>
   <string name="cutout_mode_default">Automatycznie</string>
-  <string name="cutout_mode_settings_title">Jeśli dostosujesz sposób wyświetlania wycięcia, niektóre aplikacje mogą być wyświetlane nieprawidłowo.</string>
-  <string name="cutout_mode_title">Wcięcie w poszczególnych aplikacjach</string>
+  <string name="cutout_mode_settings_title">Jeśli zmienisz sposób wyświetlania wcięcia, niektóre aplikacje mogą być wyświetlane nieprawidłowo.</string>
+  <string name="cutout_mode_title">Wcięcie w aplikacjach</string>
   <string name="bt_aac_dialog_summary">"Urządzenie wspiera standard AAC, jednakże ze względu na problemy z kompatybilnością kodek AAC może nie odtworzyć dźwięku. Urządzenie zostało więc przełączone na kodek SBC.
 Możesz zmienić to w Ustawieniach."</string>
   <string name="bt_aac_dialog_title">Połączenie Bluetooth</string>
@@ -5997,4 +5997,21 @@ Możesz wyłączyć tą funkcję w Ustawienia > Bluetooth > Sparowane urządzeni
   <string name="bt_dialog_remember_choice">Zapamiętaj wybór</string>
   <string name="bt_dialog_settings">Ustawienia</string>
   <string name="bt_pre_summary">Przetwornik audio dostarczający dźwięk o wysokiej jakości</string>
+  <string name="cutout_type_desc">Włącz, aby wygładzić krawędzie wcięcia</string>
+  <string name="cutout_type_title">Zmień kształt wcięcia</string>
+  <string name="otg_closed">Wył.</string>
+  <string name="otg_opened">Wł.</string>
+  <string name="otg_tip">"USB On-The-Go pozwala na podpięcie dysku bądź klawiatury USB do Twojego urządzenia.
+
+Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
+  <string name="auto_dual_clock_summary">Pokaż ten zegar, kiedy obecny czas jest inny od tego z drugiego zegara</string>
+  <string name="auto_dual_clock_title">Podwójny zegar</string>
+  <string name="dual_clock">Podwójny zegar</string>
+  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" opiera się na następujących opcjach: 1. Dla trybu Zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
+  <string name="dual_clock_hint">"\"Podwójny zegar\" opiera się na następujących opcjach: 1. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 2. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
+  <string name="dual_clock_ok">Rozumiem</string>
+  <string name="dual_clock_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Zawsze włączony (dla urządzeń z ekranami AMOLED).</string>
+  <string name="more_installed_services_title">Więcej usług</string>
+  <string name="resident_timezone_summary">Drugi zegar</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">"Nie można przesyłać ekranu, gdy urządzenie jest połączone z Wi-Fi i włączony jest hotspot."</string>
 </resources>

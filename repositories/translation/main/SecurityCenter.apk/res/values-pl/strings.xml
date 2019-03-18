@@ -2544,4 +2544,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="forground_network_optimization_summary">Większa przepustowość dla gier działających na pierwszym planie</string>
   <string name="forground_network_optimization_title">Priorytet sieciowy</string>
   <string name="function_shield_summary_m">Ogranicz autom. jasność i gesty zrzutu ekranu</string>
+  <string name="security_center_slogan">Zawsze na straży bezpieczeństwa.</string>
+  <string name="third_desktop_dialog_content">Launchery z nieznanych źródeł mogą powodować problemy takie jak wyciek danych, duże zużycie baterii, lagowanie itd. Tylko zweryfikowane przez MIUI aplikacje mogą być ustawione jako Twój domyślny launcher.</string>
+  <string name="third_desktop_dialog_ok">Rozumiem</string>
+  <string name="third_desktop_dialog_title">Błąd</string>
 </resources>
