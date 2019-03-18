@@ -2231,7 +2231,7 @@
   <string name="local_backup_password_toast_confirmation_mismatch">Hasła nie pasują</string>
   <string name="local_backup_password_toast_success">Nowe hasło kopii zapasowej ustawione</string>
   <string name="local_backup_password_toast_validation_failure">Nie udało się ustawić hasła kopii</string>
-  <string name="local_backup_section_summary">Tworzy kopie zapasowe ustawień systemowych, kont telefonu i danych aplikacji</string>
+  <string name="local_backup_section_summary">Utwórz kopie zapasowe ustawień systemowych, kont telefonu i danych aplikacji</string>
   <string name="local_backup_section_title">Lokalne kopie zapasowe</string>
   <string name="local_select_userapp">Aplikacje</string>
   <string name="locale_default">Domyślnie</string>
@@ -2738,7 +2738,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="n_cacrts">Certyfikaty CA %d</string>
   <string name="nature_color">Domyślny</string>
   <string name="navigation_guide_app_summary">Przesuń w lewo lub prawo od krawędzi ekranu w górnym obszarze</string>
-  <string name="navigation_guide_app_title">Aktywuje akcję aplikacji</string>
+  <string name="navigation_guide_app_title">Aktywuj akcję aplikacji</string>
   <string name="navigation_guide_appswitch_summary">Przesuń w lewo lub prawo od krawędzi i chwilę przytrzymaj</string>
   <string name="navigation_guide_appswitch_title">Przełącz do poprzedniej aplikacji</string>
   <string name="navigation_guide_back_anim_summary">Wyświetl animację przesuwania od krawędzi ekranu</string>
@@ -5596,7 +5596,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wrong_pin_code_pukked">Nieprawidłowy kod PIN karty SIM. Musisz teraz skontaktować się z operatorem, by odblokował Twoje urządzenie.</string>
   <string name="xiaomi_account">Konto Xiaomi</string>
   <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
-  <string name="xiaomi_cloud_service_description">Chmura Xiaomi pozwala na synchronizowanie zdjęć i innych elementów pomiędzy urządzeniami. Funkcja \"Znajdź urządzanie\" również wymaga poprawnej pracy Chmury Xiaomi.</string>
+  <string name="xiaomi_cloud_service_description">Chmura Xiaomi pozwala na synchronizowanie zdjęć i innych elementów pomiędzy urządzeniami. Funkcja \"Znajdź urządzenie\" również wymaga poprawnej pracy Chmury Xiaomi.</string>
   <string name="xiaomi_cloud_service_disabled">Wyłączona</string>
   <string name="xiaomi_cloud_service_unknown">Nieznany</string>
   <string name="xiaomi_money_service">MiKredyty</string>

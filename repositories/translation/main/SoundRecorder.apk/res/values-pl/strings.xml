@@ -4,7 +4,7 @@
     <string name="search_app">Dyktafon</string>
     <string name="search_led_indicator">Powiadomienia ekranu blokady</string>
     <string name="search_tip_rename">Nazywa nagrania ręcznie</string>
-    <string name="search_led_indicator_prompt">Podczas nagrywania, pokaż na pasku status i pulsuj diodą powiadomień przy zablokowanym ekranie</string>
+    <string name="search_led_indicator_prompt">Podczas nagrywania pokazuj powiadomienie na pasku statusu i pulsuj diodą powiadomień przy zablokowanym ekranie</string>
     <string name="search_scenes">Typ nagrania</string>
     <string name="search_silent_mode">Wyłącz dzwonek w czasie nagrywania</string>
     <string name="search_enable_earpiece_title">Odtwarzaj na słuchawkach</string>

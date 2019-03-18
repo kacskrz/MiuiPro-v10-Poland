@@ -155,10 +155,10 @@
     <item quantity="many">%d aplikacji z dostępem do root</item>
   </plurals>
   <plurals name="hints_handle_item_text_risk_number">
-    <item quantity="other">%d zagrożeń,</item>
-    <item quantity="one">%d zagrożenie,</item>
-    <item quantity="few">%d zagrożenia,</item>
-    <item quantity="many">%d zagrożeń,</item>
+    <item quantity="other">%d zagrożeń, </item>
+    <item quantity="one">%d zagrożenie, </item>
+    <item quantity="few">%d zagrożenia, </item>
+    <item quantity="many">%d zagrożeń, </item>
   </plurals>
   <plurals name="hints_handle_item_text_virus_number">
     <item quantity="other">%d trojanów</item>

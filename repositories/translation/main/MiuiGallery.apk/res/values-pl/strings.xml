@@ -1457,9 +1457,9 @@ aby spersonalizować Galerię"</string>
   <string name="permission_storage_name">Pamięć</string>
   <string name="permission_use_desc">Uprawnienia</string>
   <string name="select_all">Zaznacz wszystko</string>
-  <string name="generate_story_summary">MIUI będzie analizować Twoje zdjęcia i tworzyć na ich podstawie albumy. Aby przestać to robić, wyłącz tą funkcję.</string>
+  <string name="generate_story_summary">MIUI będzie analizować Twoje zdjęcia i tworzyć na ich podstawie albumy</string>
   <string name="generate_story_title">Albumy - wspomnienia</string>
-  <string name="image_selection_summary">MIUI będzie analizować podobne do siebie zdjęcia i oznaczać najlepsze z nich. Aby przestać to robić, wyłącz tą funkcję.</string>
+  <string name="image_selection_summary">MIUI będzie analizować podobne do siebie zdjęcia i oznaczać najlepsze z nich</string>
   <string name="image_selection_title">Wybierz najlepsze ujęcie</string>
   <string name="operation_set_video_wallpaper">Ustaw jako tapetę wideo</string>
   <string name="recommend_category_title">"Najlepsze w Galerii"</string>

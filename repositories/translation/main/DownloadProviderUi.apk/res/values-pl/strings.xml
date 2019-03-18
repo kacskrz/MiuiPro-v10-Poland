@@ -267,7 +267,7 @@
   <string name="period_of_validity">Ważność:</string>
   <string name="petabyteShort">PB</string>
   <string name="pref_download_revert_default">Zapisz w domyślnej lokalizacji</string>
-  <string name="pref_download_settings_title">Pobieranie za pomocą danych mobilnych jest ograniczone</string>
+  <string name="pref_download_settings_title">Limit pobierania przez dane komórkowe</string>
   <string name="pref_download_storage_path">Zapisz w własnej lokalizacji</string>
   <string name="pref_sniff_shortcut">Utwórz skrót na ekranie głównym do wyszukiwania w sieci</string>
   <string name="pref_summary_any_bytes_popup">Zawsze czekaj na połączenie Wi-Fi, aby pobrać pliki</string>

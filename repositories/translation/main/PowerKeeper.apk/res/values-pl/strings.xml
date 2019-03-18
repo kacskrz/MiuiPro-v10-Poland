@@ -96,7 +96,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
 	<string name="sleepmode_privacy_link">Czytaj więcej o prywatności i bezpieczeństwie</string>
 	<string name="sleepmode_privacy_title">Tryb uśpienia</string>
 	<string name="app_preload_policies_summary">"Użyj uczenia maszynowego, aby przewidzieć aplikacje, z których prawdopodobnie będziesz korzystać, i wczytuj je z wyprzedzeniem."</string>
-	<string name="app_preload_policies_title">Inteligentne preładowanie aplikacji</string>
+	<string name="app_preload_policies_title">Ładowanie aplikacji poprzez SI</string>
 	<string name="pref_config_title">Optymalizacja wydajności</string>
     <string name="active_classify">Sortuj wg stanu aktywności</string>
     <string name="appconfig_active_app_dialog_title">Zarządzanie aktywnymi aplikacjami</string>

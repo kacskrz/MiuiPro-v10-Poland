@@ -1408,11 +1408,11 @@ Funkcje związane z kodem PIN2 zostaną zablokowane po ponownej nieudanej próbi
     <string name="volte_switch_summary2">Potwierdź, że twój operator obsługuje taką funkcję, przed jej włączeniem. W innym przypadku jakość zwykłych połączeń może się pogorszyć.</string>
     <string name="volte_switch_not_support_summary">Połączenia VoLTE nie są obsługiwane przez dane mobilne karty SIM.</string>
     <string name="volte_switch_not_support_summary2">Połączenia VoLTE nie są obsługiwane przez operatora.</string>
-    <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE wymaga połączenia 4G dla obu slotów SIM. Przełączyć na Dual 4G teraz?</string>
-    <string name="dual_4g_switch_title">Dual 4G</string>
-    <string name="dual_4g_switch_summary">Zezwól na połączenie 4G dla obu slotów SIM.</string>
-    <string name="turn_on_dual_4g_failed">Nie udało się włączyć Dual 4G.</string>
-    <string name="turn_off_dual_4g_failed">Nie udało się wyłączyć Dual 4G.</string>
+    <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE wymaga połączenia 4G dla obu slotów SIM. Przełączyć na podwójne LTE teraz?</string>
+    <string name="dual_4g_switch_title">Podwójne LTE</string>
+  <string name="dual_4g_switch_summary">Zezwól na łączność LTE na obu kartach SIM</string>
+    <string name="turn_on_dual_4g_failed">Nie udało się włączyć podwójnego LTE.</string>
+    <string name="turn_off_dual_4g_failed">Nie udało się wyłączyć podwójnego LTE.</string>
     <string name="vice_slot_volte_data_switch_title">Używanie danych mobilnych podczas połączeń VoLTE dla drugiej karty SIM</string>
     <string name="vice_slot_volte_data_switch_summary">Podczas połączeń VoLTE, urządzenie wykorzysta dane mobilne korzystając z drugiej karty SIM</string>
     <string name="vice_slot_volte_data_switch_prompt">Twoje urządzenie wykorzysta dane mobilne z drugiej karty SIM podczas połączeń VoLTE. Może to wygenerować dodatkowe koszty. Skontaktuj się z lokalnym operatorem, aby poznać szczegóły.</string>

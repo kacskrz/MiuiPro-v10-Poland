@@ -136,7 +136,7 @@
   <string name="app_manager_as_dlg_msg">Zezwolenie na autostart aplikacji może wymagać zapotrzebowania na pamięć RAM i zasoby baterii. Zezwolić mimo to?</string>
   <string name="app_manager_as_dlg_title">Powiadomienie</string>
   <string name="app_manager_back">Wstecz</string>
-  <string name="app_manager_bipartition">Sklonowane aplikacje</string>
+  <string name="app_manager_bipartition">Sklonowane</string>
   <string name="app_manager_cache_size">Pamięć podręczna</string>
   <string name="app_manager_card_permission_title">Uprawnienia</string>
   <string name="app_manager_clear_all_data">Wyczyść wszystkie dane</string>
@@ -597,7 +597,7 @@
   <string name="dialog_roaming_message">Twój operator może naliczyć dodatkowe opłaty za dane mobilne w roamingu.</string>
   <string name="dialog_roaming_title">Roaming danych</string>
   <string name="dialog_roaming_warning_checkbox">Nie pokazuj ponownie</string>
-  <string name="dialog_roaming_warning_message">Po włączeniu transmisji danych w roamingu międzynarodowym operator naliczy opłatę. Włączyć mimo to?</string>
+  <string name="dialog_roaming_warning_message">Włączenie roamingu może spowodować naliczenie opłat przez operatora za transmisję danych. Włączyć mimo to?</string>
   <string name="dialog_roaming_warning_ok">Włącz</string>
   <string name="dialog_text">Utwórz skrót na ekranie głównym dla Przyśpieszania gier</string>
   <string name="dialog_title_attention">Powiadomienie</string>
