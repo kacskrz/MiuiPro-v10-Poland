@@ -1095,4 +1095,7 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="appraise_negative">Negatywnie</string>
   <string name="have_auth_code">Zaloguj się kodem</string>
   <string name="privacy_des">"Log zawiera informacje dla programistów przekazane przez aplikację Poczty oraz dane o urządzeniu w celu zlokalizowania Twojego problemu. Wybranie \"%1$s\" oznacza, że przeczytałeś i zaakceptowałeś 《%2$s》"</string>
+  <string name="folder_empty_to_fresh">"Poczta nie jest zsynchronizowana. Przesuń w dół, aby to zrobić."</string>
+  <string name="folder_no_mails">Brak maili w tym folderze</string>
+  <string name="wipe_account_fail_description_remind">Ze względu na uprawnienia do pamięci po usunięciu konta w kalendarzu i kontaktach mogą zostać jeszcze pewne dane. Należy je usunąć ręcznie.</string>
 </resources>

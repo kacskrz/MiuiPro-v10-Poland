@@ -1766,4 +1766,6 @@
   <string name="usb_port_short_circuit_recovered_content">Możesz używać go do ładowania bądź podłączania się do innych urządzeń.</string>
   <string name="usb_port_short_circuit_recovered_title">Port ładowania działa już normalnie</string>
   <string name="usb_port_short_circuit_title">"W porcie ładowania znajduje się para wodna"</string>
+  <string name="face_unlock_success">Pomyślnie zweryfikowano</string>
+  <string name="rapid_charge_mode_tip">Szybkie ładowanie</string>
   </resources>

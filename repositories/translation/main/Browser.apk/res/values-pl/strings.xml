@@ -1380,4 +1380,7 @@
   <string name="ad_exit_dialog_message">Instalacja ukończona! Czy chcesz otworzyć to teraz?</string>
   <string name="ad_exit_dialog_open_btn_name">otwórz</string>
   <string name="ad_exit_dialog_title_name">Potwierdzenie otwarcia aplikacji</string>
+  <string name="data_traffic_download_confirm">Za pomocą danych komórkowych</string>
+  <string name="data_traffic_download_ok">OK</string>
+  <string name="load_error_tip">Błąd przy ładowaniu - kliknij, aby spróbować jeszcze raz</string>
 </resources>

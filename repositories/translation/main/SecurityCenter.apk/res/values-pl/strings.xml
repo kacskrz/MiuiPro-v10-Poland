@@ -2449,7 +2449,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="title_rcs_switch">Włącz Wiadomości China Mobile</string>
   <string name="gs_gamebox_slip">Przesuń ekran w dół, by otworzyć</string>
   <string name="gamebox_app_not_find">Zainstaluj najpierw aplikację.</string>
-  <string name="gs_slip_gamebox_detail">Użyj slidera, aby stworzyć panel ze skrótami takimi jak szybkie odpowiedzi czy nagrywanie ekranu.</string> 
+  <string name="gs_slip_gamebox_detail">Użyj slidera lub przesuń palcem od paska w lewym górnym rogu ekranu, aby wyświetlić panel ze skrótami</string>
   <string name="om_locked_apps_summary">Zablokowane aplikacje będą pomijane przy przyspieszeniu działania.</string> 
   <string name="om_not_finish_speedboost">Przyspieszenie jest konieczne</string>
   <string name="om_promotion">Reklama</string>

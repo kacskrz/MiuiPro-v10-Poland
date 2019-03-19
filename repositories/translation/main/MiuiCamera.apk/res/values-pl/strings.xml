@@ -649,7 +649,7 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="live_music_close_sure_message">Tak</string>
   <string name="autozoom_hint">Śledzenie obiektu</string>
   <string name="autozoom_disabled_hint">Zatrzymano śledzenie obiektu</string>
-  <string name="autozoom_click_hint">Kliknij w obiekt, aby zacząć go śledzić. Dla lepszego efektu oddal się od niego na min. 3 metry.</string>
+  <string name="autozoom_click_hint">"Kliknij w obiekt, aby skupić uwagę aparatu na nim w trakcie ruchu. Dla lepszego efektu oddal się od niego na min. 3 metry."</string>
   <string name="camera_liveshot_on_tip">Dynamiczne ujęcia</string>
   <string name="camera_liveshot_off_tip">Wyłączono dynamiczne ujęcia</string>
   <string name="network_access_user_notice_title">Łączenie z Internetem</string>

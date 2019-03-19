@@ -6007,8 +6007,8 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="auto_dual_clock_summary">Pokaż ten zegar, kiedy obecny czas jest inny od tego z drugiego zegara</string>
   <string name="auto_dual_clock_title">Podwójny zegar</string>
   <string name="dual_clock">Podwójny zegar</string>
-  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" opiera się na następujących opcjach: 1. Dla trybu Zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
-  <string name="dual_clock_hint">"\"Podwójny zegar\" opiera się na następujących opcjach: 1. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 2. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
+  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
+  <string name="dual_clock_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 2. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_ok">Rozumiem</string>
   <string name="dual_clock_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Zawsze włączony (dla urządzeń z ekranami AMOLED).</string>
   <string name="more_installed_services_title">Więcej usług</string>
