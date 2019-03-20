@@ -95,7 +95,7 @@
   <string name="default_folder_title_services">Usługi</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Narzędzia</string>
-  <string name="default_screen_preview_title">Dotknij, aby ustawić ekran domyślny</string>
+  <string name="default_screen_preview_title">Ustaw domyślny ekran</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Usuń</string>
   <string name="delete_screen">Usuń ekran</string>
@@ -108,6 +108,7 @@
   <string name="edit_mode_group_error_full">Brak wystarczającej ilości miejsca</string>
   <string name="edit_mode_group_error_in_folder">Zamknij folder przed zgrupowaniem ikon</string>
   <string name="edit_mode_group_error_one_folder">Nie można zduplikować folderu z wybranymi ikonami</string>
+  <string name="edit_mode_top_menu_finish">Gotowe</string>
   <string name="edit_mode_uninstall">Odinstaluj</string>
   <string name="editing_add_widget_tips">Edytuj widżety</string>
   <string name="editing_mode_enter_tip_text">Uszczypnij, aby edytować ekran główny</string>
@@ -209,6 +210,7 @@
   <string name="menu_default_screen_preview">Ustaw ekran domyślny</string>
   <string name="menu_edit">Edytuj ekran główny</string>
   <string name="menu_exit_scene">Zamknij Mi Space</string>
+  <string name="menu_finish">Gotowe</string>
   <string name="menu_item_add_item">Umieść na ekranie głównym</string>
   <string name="menu_launcher_setting">Ustawienia launchera</string>
   <string name="menu_lock">Zablokuj układ ekranu głównego</string>
@@ -349,6 +351,7 @@
   <string name="widget_gadget_player">Muzyka</string>
   <string name="widget_global_search">Szukaj</string>
   <string name="widget_quick_function">Szybkie funkcje</string>
+  <string name="widgets_preview_title">Dodaj widżet</string>
   <string name="use_theme_screen_cells_title">Zezwól motywowi na zastąpienie układu ekranu</string>
   <string name="announce_for_app_move_in_folder">Przeniesiono do pozycji %1$d w folderze</string>
   <string name="announce_for_create_folder_with_app">Utworzono folder z: %1$s</string>

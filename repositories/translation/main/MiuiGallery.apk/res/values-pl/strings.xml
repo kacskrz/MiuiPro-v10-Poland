@@ -1466,4 +1466,18 @@ aby spersonalizować Galerię"</string>
   <string name="set_as_video_wallpaper_description">Pobrać ten element i użyć go jako tapety?</string>
   <string name="set_as_video_wallpaper_title">Ustaw tapetę wideo</string>
   <string name="set_video_wallpaper_failed">"Nie można użyć tego elementu jako tapety wideo"</string>
+  <string name="cleaner_similar_action">Usuń teraz</string>
+  <string name="cleaner_similar_description">Usuń duplikaty zdjęć</string>
+  <string name="cleaner_similar_title">Duplikaty</string>
+  <string name="cleaner_video_action">Usuń teraz</string>
+  <string name="cleaner_video_description">Usuń filmy, które zajmują dużo miejsca</string>
+  <string name="cleaner_video_pick_delete_selected">Usuń zaznaczone wideo</string>
+  <string name="cleaner_video_title">Usuń pliki wideo</string>
+  <string name="print_log">Wygeneruj log</string>
+  <string name="screen_doodle_talkback_size">Szerokość gryzmołu</string>
+  <string name="screen_editor_finish">Gotowe</string>
+  <string name="screen_save_dialog_btn_cancel">Anuluj</string>
+  <string name="screen_save_dialog_btn_delete">Usuń zrzut</string>
+  <string name="screen_save_dialog_btn_save">Zapisz w Galerii</string>
+  <string name="similar_keep_clear">Zachowaj najlepsze ujęcie</string>
 </resources>

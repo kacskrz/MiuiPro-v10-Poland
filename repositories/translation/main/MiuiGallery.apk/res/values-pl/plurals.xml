@@ -339,4 +339,14 @@
         <item quantity="one">%d element jest za duży do kopii</item>
         <item quantity="few">%d elementy są za duże do kopii</item>
     </plurals>
+	<plurals name="photo_count_format">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%d elementy</item>
+    </plurals>
+	<plurals name="video_count_format">
+        <item quantity="other">%1$d plików</item>
+        <item quantity="one">%1$d plik</item>
+        <item quantity="few">%1$d pliki</item>
+    </plurals>
 </resources>
