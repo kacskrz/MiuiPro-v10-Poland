@@ -207,4 +207,6 @@
   <string name="other_icon_title">Ikony na włączonym panelu powiadomień</string>
   <string name="dnd_notification_title">Dźwięk powiadomień w trybie Nie przeszkadzać</string>
   <string name="vpn_icon_title">Ukryj ikonę VPN</string>
+  <string name="speed_dual_title">Prędkość sieci na pasku statusu</string>
+  <string name="speed_dual_summary">Pokaż stan sieci na podwójnym pasku statusu</string>
 </resources>
