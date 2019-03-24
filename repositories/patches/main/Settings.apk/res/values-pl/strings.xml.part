@@ -209,4 +209,8 @@
   <string name="vpn_icon_title">Ukryj ikonę VPN</string>
   <string name="speed_dual_title">Prędkość sieci na pasku statusu</string>
   <string name="speed_dual_summary">Pokaż stan sieci na podwójnym pasku statusu</string>
+  <string name="other_weather_title">Wyświetlanie pogody</string>
+  <string name="show_weather_title">Pokaż pogodę</string>
+  <string name="show_weather_city_title">Pokaż miasto</string>
+  <string name="show_weather_description_title">Pokaż opis pogody</string>
 </resources>
