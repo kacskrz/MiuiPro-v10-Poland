@@ -69,7 +69,7 @@
     <string name="event_info_title">Szczegóły wydarzenia</string>
     <string name="event_info_title_invite">Zaproszenie na spotkanie</string>
     <string name="event_view">Zobacz wydarzenie</string>
-    <string name="every_weekday">Codziennie (Pn-Pt)</string>
+    <string name="every_weekday">Od poniedziałku do piątku</string>
     <string name="gadget_no_events">Brak nadchodzących wydarzeń w kalendarzu</string>
     <string name="gadget_title">Kalendarz</string>
     <string name="hint_attendees">Goście</string>

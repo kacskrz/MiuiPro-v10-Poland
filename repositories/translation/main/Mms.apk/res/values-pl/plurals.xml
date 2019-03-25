@@ -104,4 +104,9 @@
      <item quantity="one">Wiadomość odebrana przez %1$s i %2$d inną osobę</item>
      <item quantity="few">Wiadomość odebrana przez %1$s i %2$d inne osoby</item>
   </plurals>
+  <plurals name="rcs_group_notification_invitation_receive">
+     <item quantity="other">Otrzymałeś %d zaproszeń do czatu</item>
+     <item quantity="one">Otrzymałeś %d zaproszenie do czatu</item>
+     <item quantity="few">Otrzymałeś %d zaproszenia do czatu</item>
+  </plurals>
 </resources>

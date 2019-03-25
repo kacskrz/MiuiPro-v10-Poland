@@ -199,11 +199,11 @@
     <item>Starsze niż 60 dni</item>
     <item>Starsze niż 90 dni</item>
   </string-array>
-  <string-array name="battery_indicator_style_entries">
-    <item>Słupkowy</item>
-    <item>Procentowy</item>
-    <item>Liniowy</item>
-  </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Słupkowy</item>
+        <item>Procentowy (w ikonie)</item>
+        <item>Procentowy (obok ikony)</item>        
+		<item>Liniowy</item>
   <string-array name="battery_labels">
     <item>0%</item>
     <item>50%</item>
@@ -346,12 +346,12 @@
     <item>PIN</item>
     <item>Hasło</item>
   </string-array>
-  <string-array name="check_importance_entries">
+  <string-array name="fold_entries">
     <item>Polecane</item>
     <item>Ważne</item>
     <item>Nieistotne</item>
   </string-array>
-  <string-array name="check_importance_summary">
+  <string-array name="fold_summaries">
     <item>MIUI zdecyduje, które powiadomienia powinny wyświetlać się bezpośrednio</item>
     <item>Powiadomienia zostaną wyświetlone w pasku powiadomień</item>
     <item>Powiadomienia zostaną wyświetlone w osobnym folderze</item>
@@ -1286,7 +1286,7 @@
         <item>Graficznie</item>
         <item>Procentowo</item>
     </string-array>
-	    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+	    <string-array name="notification_shade_shortcut_entries">
         <item>Wyszukiwarka</item>
         <item>Ustawienia</item>
     </string-array>
@@ -1304,5 +1304,10 @@
         <item>Wybudź ekran</item>
         <item>Pokaż animację</item>
         <item>"Nie wybudzaj ekranu"</item>
+    </string-array>
+    <string-array name="time_format_entries">
+        <item>12-godzinny (1:00 PM)</item>
+        <item>24-godzinny (13:00)</item>
+        <item>Automatyczny (zależny od języka)</item>
     </string-array>
 </resources>

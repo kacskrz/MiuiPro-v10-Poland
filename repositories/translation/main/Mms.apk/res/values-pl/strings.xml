@@ -812,4 +812,16 @@
   <string name="updating">Aktualizowanie…</string>
   <string name="menu_traffic_destination">Cel</string>
   <string name="train_edit_destination">Dodaj</string>  
+  <string name="application_list_title">Miniaplikacje</string>
+  <string name="attach_group_chat">Czat</string>
+  <string name="attach_video_call">Rozmowa wideo</string>
+  <string name="can_not_view_group_chat_stranger">"Nie można wyświetlić szczegółów o nieznajomych."</string>
+  <string name="contact_not_exists">"Ta osoba nie istnieje w Twoich kontaktach."</string>
+  <string name="groupchat_list_title">Czaty</string>
+  <string name="menu_make_call">Połącz</string>
+  <string name="menu_view_group_info">Informacje o grupie</string>
+  <string name="no_network_description">"Nie można połączyć się z siecią. Sprawdź ustawienia i spróbuj ponownie."</string>
+  <string name="rcs_auto_resend_as_sms_remind_change">Zmień ustawienia</string>
+  <string name="rcs_auto_resend_as_sms_remind_desp">"Wiadomości większe niż 900B mogą zostać skonwertowane i wysłane jako SMS, gdy zasięg jest słaby. Kliknij przycisk \"Zmień ustawienia\", jeśli nie chcesz konwertować takich wiadomości."</string>
+  <string name="rcs_auto_resend_as_sms_remind_title">Skonwertuj do SMS</string>
 </resources>

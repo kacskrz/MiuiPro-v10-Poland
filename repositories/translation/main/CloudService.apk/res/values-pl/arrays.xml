@@ -26,4 +26,104 @@
         <item>Kalendarz</item>
         <item>Pamięć</item>
     </string-array>
+  <string-array name="settings_search_contacts">
+        <item>Synchronizuj kontakty z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Kontakty;Historia połączeń;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Synchronizuj SMS-y z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Wiadomości;SMS;MMS;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Synchronizuj Galerię z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Galeria;Zdjęcia;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Synchronizuj historię połączeń z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Historia połączeń;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Synchronizuj nagrania z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Dyktafon;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Synchronizuj muzykę z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Muzyka;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Synchronizuj notatki z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Notatki;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Synchronizuj ustawienia Wi-Fi z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Synchronizuj Kalendarz z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Kalendarz;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Synchronizuj Przeglądarkę z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Przeglądarka;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Synchronizuj Panel Sterowania z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Panel Sterowania;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Synchronizuj Asystenta MIUI z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Asystent MIUI;Karty;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Chmura Xiaomi. Wszystkie usługi w jednym miejscu.</item>
+        <item>Dostęp do zdjęć, kontaktów, SMS-ów i urządzeń z każdego miejsca na świecie</item>
+        <item>Brak miejsca;Członkostwo;Przestrzeń;Miejsce w Chmurze;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi;Kosz;Usunięte elementy;Panel Sterowania</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Znajdź urządzenie</item>
+        <item>"Wymaż dane i zablokuj zgubione urządzenie"</item>
+        <item>Znajdź urządzenie;Zguvione;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Znajdź urządzenie</item>
+        <item>"Wymaż dane i zablokuj zgubione urządzenie"</item>
+        <item>Znajdź urządzenie;Zgubione;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Usunięte elementy z Chmury</item>
+        <item>Przywróć kontakty, SMS-y i więcej</item>
+        <item>Kosz;Usunięte elementy;Kosz;Przywróć;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Plany Chmury Xiaomi</item>
+        <item>Zwiększ swój plan, uzyskaj więcej miejsca i zabezpiecz swoje dane</item>
+        <item>Insufficient storage;Członkostwo;Przestrzeń;Miejsce w Chmurze;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi;Mega;Ultra;VIP;Skopiuj;Kopia;Przywróć;Kosz;Usunięte elementy;Kosz</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Skopiuj ustawienia do Chmury</item>
+        <item>Skopiuj układ pulpitu, listę zainstalowanych aplikacji i ustawienia systemu</item>
+        <item>Chmura;Skopiuj;Kopia;Usługi Chmury;Chmura Xiaomi;Pulpit;Układ;Aplikacje;Ustawienia;Planowana kopia;Zarządzaj kopiami;Przywróć</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Kopie zapasowe</item>
+        <item>Skopiowane elementy</item>
+        <item>Chmura;Skopiuj;Kopia;Usługi Chmury;Chmura Xiaomi;Pulpit;Układ;Aplikacje;Zarządzaj kopiami;Przywróć</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Przywróć kopię z Chmury</item>
+        <item>Pobierz skopiowane elementy na swoje urządzenie</item>
+        <item>Chmura;Skopiuj;Kopia;Przywróć;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
 </resources>

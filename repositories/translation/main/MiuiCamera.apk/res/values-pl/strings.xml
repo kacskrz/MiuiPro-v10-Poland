@@ -779,4 +779,23 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="macro_mode">Tryb makro</string>
   <string name="macro_mode_tip">Umieść obiekt do 10 cm od obiektywu</string>
   <string name="pref_camera_long_press_viewfinder_default">Obiektyw Google</string>
+  <string name="accessibility_bokeh_normal">Rozmycie tła przedniego aparatu jest wył.</string>
+  <string name="accessibility_bokeh_on">Rozmycie tła przedniego aparatu jest wł.</string>
+  <string name="bokeh_use_hint">Efekt głębi</string>
+  <string name="mimoji_back">wstecz</string>
+  <string name="mimoji_cancle">anuluj</string>
+  <string name="mimoji_confirm">potwierdź</string>
+  <string name="mimoji_delete_mimoji">usuń emoji</string>
+  <string name="mimoji_delete_success">usunięto</string>
+  <string name="mimoji_detect_tips">Umieść twarz w ramce</string>
+  <string name="mimoji_edit_mimoji">edytuj emoji</string>
+  <string name="mimoji_editor">edytuj</string>
+  <string name="mimoji_recapture">ponownie</string>
+  <string name="mimoji_save">zapisz</string>
+  <string name="mimoji_save_success">zapisano</string>
+  <string name="mimoji_selected">wybierz</string>
+  <string name="mimoji_tips">Dotknięcie - zdjęcie, przytrzymanie - wideo</string>
+  <string name="module_name_fun_ar">AR</string>
+  <string name="pref_camera_front_bokeh_entry_off">Wył.</string>
+  <string name="pref_camera_front_bokeh_entry_on">Wł.</string>
 </resources>
