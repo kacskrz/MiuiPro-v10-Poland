@@ -1101,4 +1101,5 @@ Be Happy"</string>
   <string name="search_hint_online">Wyszukaj spośród artystów, albumów, piosenek, playlist i teledysków online</string>
   <string name="tab_playlist">Playlisty</string>
   <string name="tab_video">Teledyski</string>
+  <string name="voice_search_first_hint">Wyszukaj głosowo</string>
 </resources>

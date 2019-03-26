@@ -94,7 +94,7 @@
     <string-array name="settings_search_find_phone">
         <item>Znajdź urządzenie</item>
         <item>"Wymaż dane i zablokuj zgubione urządzenie"</item>
-        <item>Znajdź urządzenie;Zguvione;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+        <item>Znajdź urządzenie;Zgubione;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Znajdź urządzenie</item>

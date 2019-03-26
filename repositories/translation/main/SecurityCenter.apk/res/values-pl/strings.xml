@@ -2548,4 +2548,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="third_desktop_dialog_content">Launchery z nieznanych źródeł mogą powodować problemy takie jak wyciek danych, duże zużycie baterii, lagowanie itd. Tylko zweryfikowane przez MIUI aplikacje mogą być ustawione jako Twój domyślny launcher.</string>
   <string name="third_desktop_dialog_ok">Rozumiem</string>
   <string name="third_desktop_dialog_title">Błąd</string>
+  <string name="gamecenter_install_fail">"Nie można zainstalować"</string>
+  <string name="gamecenter_install_sucessfull">Pomyślnie zainstalowano</string>
 </resources>

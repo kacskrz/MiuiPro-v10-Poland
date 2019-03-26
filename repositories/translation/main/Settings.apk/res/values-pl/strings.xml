@@ -6053,7 +6053,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="notifi_importance_min">Bez dźwięku i powiadomień na ekranie</string>
   <string name="notifi_importance_none">Wyłączone</string>
   <string name="notifi_importance_unspecified">Aplikacja określa ważność każdego powiadomienia</string>
-  <string name="notifi_no_channels">Ta aplikacja nie wyświetliła żadnego powiadomienia</string>
+  <string name="notifi_no_channels">Ta aplikacja nie wyświetla żadnych powiadomień</string>
   <string name="notification_fold_description1">Katalog powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
   <string name="notification_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
   <string name="notification_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do katalogu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
@@ -6079,4 +6079,5 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="toggle_collapse_after_clicked_title">Zwiń po dotknięciu</string>
   <string name="vibrate_title">Wibracja</string>
   <string name="visibility_override_title">Na ekranie blokady</string>
+  <string name="notification_style_title">Styl powiadomień</string>
 </resources>
