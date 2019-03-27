@@ -368,4 +368,9 @@
         <item>Łącznie %2$s %3$s</item>
         <item>Łącznie %1$s %2$s %3$s</item>
      </string-array>
+     <string-array name="clock_bg_setting_entries">
+        <item>Białe</item>
+        <item>Czarne</item>
+        <item>Automatycznie</item>
+     </string-array>
 </resources>

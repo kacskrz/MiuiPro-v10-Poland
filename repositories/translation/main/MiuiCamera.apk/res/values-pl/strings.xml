@@ -267,12 +267,12 @@
   <string name="pref_camera_jpegquality_entry_normal">Normalna</string>
   <string name="pref_camera_jpegquality_title">Jakość zdjęć</string>
   <string name="pref_camera_long_press_shutter_feature_title">Przytrzymanie migawki</string>
-  <string name="pref_camera_long_press_viewfinder_title">Kliknij i przytrzymaj wizjer</string>
+  <string name="pref_camera_long_press_viewfinder_title">Ustawienia</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Zdjęcia seryjne</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Ostrość</string>
   <string name="pref_camera_long_pressing_shutter_title">Naciśnij i przytrzymaj migawkę by zablokować AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Obiektyw Google</string>
-  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Zablokuj AE i AF</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Blokada AE/AF</string>
   <string name="pref_camera_magic_mirror_title">Lustro</string>
   <string name="pref_camera_manual_mode_title">Ręcznie</string>
   <string name="pref_camera_movie_solid_title">Stabilizacja obrazu</string>
@@ -778,7 +778,6 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="wideselfie_rotate_to_right_slowly">Powoli obracaj telefon w prawo</string>
   <string name="macro_mode">Tryb makro</string>
   <string name="macro_mode_tip">Umieść obiekt do 10 cm od obiektywu</string>
-  <string name="pref_camera_long_press_viewfinder_default">Obiektyw Google</string>
   <string name="accessibility_bokeh_normal">Rozmycie tła przedniego aparatu jest wył.</string>
   <string name="accessibility_bokeh_on">Rozmycie tła przedniego aparatu jest wł.</string>
   <string name="bokeh_use_hint">Efekt głębi</string>
@@ -798,4 +797,7 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="module_name_fun_ar">AR</string>
   <string name="pref_camera_front_bokeh_entry_off">Wył.</string>
   <string name="pref_camera_front_bokeh_entry_on">Wł.</string>
+  <string name="dialog_google_lens_option_0">Obiektyw Google (polecane)</string>
+  <string name="pref_camera_long_press_viewfinder_google_lens">Obiektyw Google</string>
+  <string name="pref_camera_long_press_viewfinder_lock_ae_af">Blokada AE/AF</string>
 </resources>

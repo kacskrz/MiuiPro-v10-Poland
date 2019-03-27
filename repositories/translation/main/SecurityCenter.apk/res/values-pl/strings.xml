@@ -2550,4 +2550,5 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="third_desktop_dialog_title">Błąd</string>
   <string name="gamecenter_install_fail">"Nie można zainstalować"</string>
   <string name="gamecenter_install_sucessfull">Pomyślnie zainstalowano</string>
+  <string name="gb_shortcut_pref_title">Skrót na pulpicie</string>
 </resources>
