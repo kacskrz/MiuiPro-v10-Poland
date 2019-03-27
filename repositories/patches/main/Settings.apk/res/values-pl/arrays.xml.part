@@ -209,4 +209,12 @@
         <item>Asystent Google</item> 
         <item>Asystent Yandex</item> 
     </string-array>
+	<string-array name="battery_indicator_style_entries">
+        <item>Graficznie</item>
+        <item>Procentowo (w ikonie)</item>
+        <item>Procentowo (obok ikony)</item>
+        <item>Procentowo bez ikony</item>
+        <item>Liniowo</item>
+        <item>Nie pokazuj</item>
+    </string-array>
 </resources>
