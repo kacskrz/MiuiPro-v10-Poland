@@ -237,11 +237,11 @@
   <string name="clock_bg_button_setting_summary_common">Wybierz kolor tła aplikacji</string>
   <string name="clock_bg_button_setting_summary_follow_sys">Czarne tło zostanie zastosowane, gdy włączony jest Czarny motyw</string>
   <string name="clock_bg_button_setting_title">Kolor tła</string>
-  <string name="dialog_privacy_content">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług oraz synchronizacji informacji o dniach wolnych. Przed jej użyciem musisz także przeczytać i zaakceptować %1$s i %2$s. Zgadzasz się?</string>
-  <string name="dialog_privacy_content_global">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług. Przed jej użyciem musisz także przeczytać i zaakceptować %1$s i %2$s. Zgadzasz się?</string>
-  <string name="dialog_privacy_content_news">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług i porannych wiadomości. Przed jej użyciem musisz także przeczytać i zaakceptować %1$s i %2$s. Zgadzasz się?</string>
-  <string name="dialog_privacy_content_timer">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług i pobrania dodatkowego audio. Przed jej użyciem musisz także przeczytać i zaakceptować %1$s i %2$s. Zgadzasz się?</string>
-  <string name="dialog_privacy_content_timer_data">"Aplikacja wymaga połączenia z Internetem w celu dostarczania usług i pobrania dodatkowego audio (ok. 20 MB). Przed jej użyciem musisz także przeczytać i zaakceptować %1$s i %2$s. Używasz teraz transmisji danych. Zgadzasz się?"</string>
+  <string name="dialog_privacy_content">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług oraz synchronizacji informacji o dniach wolnych. Przed jej użyciem musisz także przeczytać i zaakceptować dokumenty Xiaomi (%1$s, %2$s). Zgadzasz się?</string>
+  <string name="dialog_privacy_content_global">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług. Przed jej użyciem musisz także przeczytać i zaakceptować dokumenty Xiaomi (%1$s, %2$s). Zgadzasz się?</string>
+  <string name="dialog_privacy_content_news">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług i porannych wiadomości. Przed jej użyciem musisz także przeczytać i zaakceptować dokumenty Xiaomi (%1$s, %2$s). Zgadzasz się?</string>
+  <string name="dialog_privacy_content_timer">Aplikacja wymaga połączenia z Internetem w celu dostarczania usług i pobrania dodatkowego audio. Przed jej użyciem musisz także przeczytać i zaakceptować dokumenty Xiaomi (%1$s, %2$s). Zgadzasz się?</string>
+  <string name="dialog_privacy_content_timer_data">"Aplikacja wymaga połączenia z Internetem w celu dostarczania usług i pobrania dodatkowego audio (ok. 20 MB). Przed jej użyciem musisz także przeczytać i zaakceptować dokumenty Xiaomi (%1$s, %2$s). Używasz teraz transmisji danych. Zgadzasz się?"</string>
   <string name="holiday_update">Dostępna jest aktualizacja dni wolnych</string>
   <string name="holiday_update_fail">"Nie można zaktualizować"</string>
   <string name="holiday_update_loading">Aktualizowanie…</string>
