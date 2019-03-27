@@ -199,11 +199,12 @@
     <item>Starsze niż 60 dni</item>
     <item>Starsze niż 90 dni</item>
   </string-array>
-    <string-array name="battery_indicator_style_entries">
-        <item>Słupkowy</item>
-        <item>Procentowy (w ikonie)</item>
-        <item>Procentowy (obok ikony)</item>        
-		<item>Liniowy</item>
+  <string-array name="battery_indicator_style_entries">
+    <item>Słupkowy</item>
+    <item>Procentowy (w ikonie)</item>
+    <item>Procentowy (obok ikony)</item>        
+    <item>Liniowy</item>
+  </string-array>
   <string-array name="battery_labels">
     <item>0%</item>
     <item>50%</item>
