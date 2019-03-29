@@ -213,4 +213,7 @@
   <string name="show_weather_title">Pokaż pogodę</string>
   <string name="show_weather_city_title">Pokaż miasto</string>
   <string name="show_weather_description_title">Pokaż opis pogody</string>
+  <string name="other_size_title">Ustawienia rozmiaru czcionki</string>
+  <string name="set_clock_size_title">Rozmiar zegara</string>
+  <string name="set_battery_size_title">Procent baterii</string>
 </resources>
