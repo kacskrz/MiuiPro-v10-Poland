@@ -189,6 +189,7 @@
   <string name="is_system_wallpaper_message">Nie można usuwać domyślnych tapet</string>
   <string name="launcher_auto_fill_empty_title">Wypełnij puste miejsca</string>
   <string name="launcher_not_exist">Wystąpił błąd, wróć do Ekranu głównego i spróbuj ponownie.</string>
+  <string name="launcher_sliding_up_gesture">Przesuń w górę na pulpicie, aby włączyć Wyszukiwarkę</string>
   <string name="launcher_title">Ekran główny i Ostatnio otwierane</string>
   <string name="like">Ulubione</string>
   <string name="liked">Lubię</string>

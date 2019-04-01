@@ -71,6 +71,7 @@
   <string name="enable_micloud">Zaloguj się, aby korzystać z Chmury Xiaomi</string>
   <string name="enable_sync">Włącz synchronizację</string>
   <string name="enable_sync_dspt">Nie synchronizuj</string>
+  <string name="enable_sync_setting_title">Konfiguracja usług chmury…</string>
   <string name="enableAll">Synchronizuj wszystko</string>
   <string name="error_data_in_transfer">Synchronizacja zakończy się w ciągu %s godzin.</string>
   <string name="error_data_in_transfer_title">Chmura Xiaomi niedostępna</string>
@@ -473,6 +474,7 @@
   <string name="pref_title_sync_contacts_title">Synchronizuj kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Synchronizuj zdjęcia tylko przez Wi-Fi</string>
   <string name="privacy_policy">Polityka Prywatności</string>
+  <string name="provision_sync_items_loading">Przygotowanie do synchronizacji</string>
   <string name="reading_status">Ładowanie statusu…</string>
   <string name="reading_status_failure">Nie udało się załadować statusu.</string>
   <string name="recommend_open_all_sync">Zsynchronizuj wszystko</string>

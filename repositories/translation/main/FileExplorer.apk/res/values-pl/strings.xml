@@ -249,6 +249,8 @@
   <string name="found_usb">Podłączono nośnik USB</string>
   <string name="ftp_account_req_notice">4-16 znaków, w tym cyfry i litery. Wielkość liter ma znaczenie</string>
   <string name="ftp_anonymous_login">Logowanie anonimowe</string>
+  <string name="ftp_anonymous_warning_msg">Włączenie tej opcji może zmniejszyć bezpieczeństwo działania serwera FTP. Czy chcesz włączyć mimo to tą opcję?</string>
+  <string name="ftp_anonymous_warning_title">Uwaga</string>
   <string name="ftp_invalid_username_or_password">Nazwa użytkownika lub hasło jest nieprawidłowe.</string>
   <string name="ftp_open_port_error">Nie można otworzyć portu. Sprawdź połączenie sieciowe lub zresetuj numer portu.</string>
   <string name="ftp_password_hint">Hasło</string>
@@ -271,6 +273,7 @@
   <string name="group_title_extra_new">Nowa kopia</string>
   <string name="handsome_boy">Mężczyzna</string>
   <string name="has_installed">Zainstalowane</string>
+  <string name="home_action_up">Wstecz</string>
   <string name="homepage_tab_category">Kategorie</string>
   <string name="homepage_tab_file_view_phone">Pamięć</string>
   <string name="homepage_tab_recent">Ostatnie</string>

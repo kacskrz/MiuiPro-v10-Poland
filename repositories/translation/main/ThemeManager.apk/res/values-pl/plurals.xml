@@ -20,4 +20,13 @@
         <item quantity="one">%1$s praca</item>
         <item quantity="few">%1$s prace</item>
     </plurals>
+    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Wyszukaj spośród %1$d aplikacji</item>
+        <item quantity="one">Wyszukaj spośród %1$d aplikacji</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">Znaleziono %1$d aplikacji</item>
+        <item quantity="one">Znaleziono %1$d aplikację</item>
+        <item quantity="few">Znaleziono %1$d aplikacje</item>
+    </plurals>
 </resources>

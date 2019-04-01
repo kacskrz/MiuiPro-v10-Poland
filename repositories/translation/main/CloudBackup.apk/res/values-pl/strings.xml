@@ -68,7 +68,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
     <string name="desktop_waiting">Oczekiwanie</string>
     <string name="desktop_downloading">Pobieranie</string>
     <string name="desktop_installing">Instalowanie</string>
-    <string name="desktop_wait_wifi">Oczekiwanie</string>
+    <string name="desktop_wait_network">Oczekiwanie na Wi-Fi…</string>
     <string name="desktop_failed">Nieudane</string>
     <string name="recover_from_micloud">Przywróć z kopii w Chmurze Xiaomi</string>
     <string name="click_try_to_restore_again">Dotknij, aby spróbować ponownie</string>
@@ -109,7 +109,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
     <string name="confirm_cancel_restore_positive">Kontynuuj</string>
     <string name="confirm_cancel_restore_negative">Anuluj</string>
     <string name="confirm_restore_title">Przywróć</string>
-    <string name="confirm_restore_summary">Ekran główny uruchomi się ponownie, a aplikacje zostaną pobrane przy połączeniu z Wi-Fi</string>
+    <string name="confirm_restore_summary">Ekran główny uruchomi się ponownie, a aplikacje zostaną pobrane automatycznie</string>
     <string name="confirm_restore">Przywróć</string>
     <string name="cloud_backup_have_data">Wykryto kopię zapasową w Chmurze Xiaomi</string>
     <string name="cloud_backup_select_recover">Wybierz kopię z Chmury Xiaomi</string>
@@ -193,4 +193,27 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="restore_init_description">Zacznij przywracanie</string>
    <string name="restoring_file_title_no_progress">Przywracanie plików…</string>
    <string name="restoring_settings">Przywracanie ustawień…</string>
+   <string name="btn_restore_continue">Przywróć mimo to</string>
+   <string name="btn_restore_wait">Czekaj na Wi-Fi</string>
+   <string name="doing_calc_backup_data_size">Obliczanie rozmiaru…</string>
+   <string name="msg_restore_start_with_metered_network">"Pulpit uruchomi się ponownie, a aplikacje zostaną pobrane automatycznie. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;Zostanie pobrane %s plików.&lt;/font&gt;&lt;/b&gt;"</string>
+   <string name="msg_restore_with_metered_network_hint">Jeśli przystąpisz do przywracania tych elementów, zostanie wykorzystana transmisja danych.</string>
+   <string name="msg_restore_with_metered_network_pattern">"Zostanie pobrane &lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; plików."</string>
+   <string name="restore_app_order_finish">Ukończono</string>
+   <string name="restore_app_order_loading">Chwileczkę…</string>
+   <string name="restore_app_order_retry">Spróbuj ponownie</string>
+   <string name="restore_app_order_retry_desc">"Nie można połączyć się z siecią.
+Sprawdź ustawienia sieci i spróbuj ponownie."</string>
+   <string name="restore_app_order_search_hint">Wyszukaj elementy, aby ustawić ich priorytet</string>
+   <string name="restore_app_order_search_installed">Aplikacje na urządzeniu</string>
+   <string name="restore_app_order_search_normal">Aplikacje z normalnym priorytetem</string>
+   <string name="restore_app_order_search_prior">Aplikacje z wysokim priorytetem</string>
+   <string name="restore_app_order_title">Priorytet dla przywróconych elementów</string>
+   <string name="restore_detail_category_apps">Układ pulpitu i aplikacje</string>
+   <string name="restore_detail_category_settings">Ustawienia</string>
+   <string name="restore_detail_more">Więcej</string>
+   <string name="restore_detail_title">Wybierz elementy do przywrócenia</string>
+   <string name="restore_network_pause">%s (Kliknij, aby wznowić)</string>
+   <string name="restore_network_unconnect">%s (Oczekiwanie na sieć)</string>
+   <string name="title_restore_with_current_network">Używanie obecnego połączenia do pobrania plików</string>
 </resources>

@@ -5916,7 +5916,7 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="ai_settings_long_click_title">Wciśnięcie i przytrzymanie</string>
   <string name="ai_settings_single_press_des">Kliknij przycisk AI, by włączyć Asystenta Google, a następnie puść go, by otrzymać odpowiedź.</string>
   <string name="miui_sos_call_log_time_unit">%1$dmin %2$ds</string>
-  <string name="single_press_AI_button">Wciśnięcie przycisku AI</string>
+  <string name="single_press_AI_button">Kliknięcie przycisku AI</string>
   <string name="miui_input_method_settings">Ustawienia metody wprowadzania</string>
   <string name="long_press_power_key_half_of_second">Przytrzymaj przycisk Power na pół sekundy, aby włączyć Asystenta Google</string>
   <string name="power_key_how_power_force_off">Jak siłowo zrestartować urządzenie?</string>
@@ -5953,7 +5953,7 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="aod_mode_bg">Tło</string>
   <string name="aod_mode_clock">Zegar</string>
   <string name="aod_mode_style">Styl zegarka i tła</string>
-  <string name="aod_mode_summary">Pokazuj godzinę, datę i wiadomości na wyłączonym ekranie.</string>
+  <string name="aod_mode_summary">Pokazuj godzinę, datę i wiadomości na wyłączonym ekranie. Ta funkcja zwiększa zużycie baterii. Jest ona automatycznie wyłączana, gdy urządzenie nie jest używane przez długi czas lub włączone jest Oszczędzanie baterii.</string>
   <string name="aod_sample_date">Wtorek, 10 maja</string>
   <string name="dark_color_mode">Ciemny motyw</string>
   <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji</string>
@@ -6010,13 +6010,13 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 2. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_ok">Rozumiem</string>
-  <string name="dual_clock_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Zawsze włączony (dla urządzeń z ekranami AMOLED).</string>
+  <string name="dual_clock_aod_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Zawsze włączony.</string>
   <string name="more_installed_services_title">Więcej usług</string>
   <string name="resident_timezone_summary">Drugi zegar</string>
   <string name="toast_sta_ap_works_wifi_display_disable">"Nie można przesyłać ekranu, gdy urządzenie jest połączone z Wi-Fi i włączony jest hotspot."</string>
   <string name="activity_title_power_manager">Oszczędzanie baterii;Zachowuj baterię</string>
   <string name="ai_settings_click_title">Wciśnięcie</string>
-  <string name="allow_float_summary">Powiadomienia pop-up na górze ekranu</string>
+  <string name="allow_float_summary">Zezwalaj na pływające powiadomienia</string>
   <string name="allow_float_title">Pływające powiadomienia</string>
   <string name="allow_keyguard_summary">Pokazuj powiadomienia na ekranie blokady</string>
   <string name="allow_keyguard_title">Powiadomienia na ekranie blokady</string>
@@ -6080,4 +6080,10 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="vibrate_title">Wibracja</string>
   <string name="visibility_override_title">Na ekranie blokady</string>
   <string name="notification_style_title">Styl powiadomień</string>
+  <string name="auto_dual_clock_aod_summary">Pokaż podwójny zegar, kiedy obecny czas jest inny od tego z drugiego zegara</string>
+  <string name="dual_clock_aod_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Zawsze włączony.</string>
+  <string name="gxzw_enroll_again">Podnieś palec i dotknij ponownie czytnika</string>
+  <string name="layout_exhuge_font_take_effect_tips">Tekst w rozmiarze XXL wyświetlany jest tylko w aplikacjach SMS, Telefon i Kontakty</string>
+  <string name="layout_exhuge_font_tips">Więcej opcji jest dostępne w %1$s</string>
+  <string name="layout_exhuge_font_tips_reg">Ułatwieniach dostępu &gt; Rozmiar wyświetlacza</string>
 </resources>

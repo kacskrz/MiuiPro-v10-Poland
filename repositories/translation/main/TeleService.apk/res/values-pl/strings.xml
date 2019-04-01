@@ -1831,4 +1831,5 @@ W celu wykonania połączenia urządzenie automatycznie połączy się z siecią
 
 Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkolwiek sieci."</string>
   <string name="vowifi_emergency_warning_title">Połączenia alarmowe w Wi-Fi Calling</string>
+  <string name="fiveg_switch_title">Sieć 5G</string>
 </resources>

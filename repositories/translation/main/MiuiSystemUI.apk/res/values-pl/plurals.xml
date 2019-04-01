@@ -161,16 +161,16 @@
         <item quantity="one">Pozostało %1$d godz. %2$d min</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź hasło.</item>
-        <item quantity="one">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź hasło.</item>
-        <item quantity="few">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź hasło.</item>
-        <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź hasło.</item>
+        <item quantity="other">Wpisuj hasło co najmniej raz w ciągu %d godzin, aby je zapamiętać</item>
+        <item quantity="one">Wpisuj hasło co najmniej raz w ciągu %d godziny, aby je zapamiętać</item>
+        <item quantity="few">Wpisuj hasło co najmniej raz w ciągu %d godzin, aby je zapamiętać</item>
+        <item quantity="many">Wpisuj hasło co najmniej raz w ciągu %d godzin, aby je zapamiętać</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź wzór.</item>
-        <item quantity="one">Urządzenie nie zostało odblokowane od %d godziny. Potwierdź wzór.</item>
-        <item quantity="few">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź wzór.</item>
-        <item quantity="many">Urządzenie nie zostało odblokowane od %d godzin. Potwierdź wzór.</item>
+        <item quantity="other">Narysuj wzór co najmniej raz w ciągu %d godzin, aby go zapamiętać</item>
+        <item quantity="one">Narysuj wzór co najmniej raz w ciągu %d godziny, aby go zapamiętać</item>
+        <item quantity="few">Narysuj wzór co najmniej raz w ciągu %d godzin, aby go zapamiętać</item>
+        <item quantity="many">Narysuj wzór co najmniej raz w ciągu %d godzin, aby go zapamiętać</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" (%1$s godz.) - %2$s"</item>

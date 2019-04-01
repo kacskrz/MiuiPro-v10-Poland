@@ -122,4 +122,9 @@
         <item quantity="one">godzinę temu</item>
         <item quantity="few">%s godziny temu</item>
 	</plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s usług zostanie zsynchronizowanych z Chmurą Xiaomi</item>
+        <item quantity="one">%s usługa zostanie zsynchronizowana z Chmurą Xiaomi</item>
+        <item quantity="few">%s usługi zostaną zsynchronizowane z Chmurą Xiaomi</item>
+    </plurals>
 </resources>

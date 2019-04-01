@@ -172,6 +172,7 @@
   <string name="app_manager_factory_reset">Odinstaluj aktualizacje</string>
   <string name="app_manager_factory_reset_dlg_msg">Wszystkie aktualizacje dla tej aplikacji systemu Android zostaną odinstalowane.</string>
   <string name="app_manager_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
+  <string name="app_manager_find_apps">Znajdź aplikacje</string>
   <string name="app_manager_force_stop_dlg_text">Jeżeli wymusisz zatrzymanie aplikacji, może stać się niestabilna.</string>
   <string name="app_manager_force_stop_dlg_title">Wymusić zatrzymanie?</string>
   <string name="app_manager_full_screen_summary">Pozwól wybranym aplikacjom na pracę w trybie pełnego ekranu</string>
@@ -1672,6 +1673,11 @@
   <string name="section_title_security_defend">Bezpieczeństwo</string>
   <string name="section_title_system">Bezpieczeństwo systemu</string>
   <string name="security_scan_optimizing">Optymalizacja…</string>
+  <string name="securityadd_install_fail">"Nie można zaktualizować wtyczki. Spróbuj ponownie."</string>
+  <string name="securityadd_update_tips_cancle">Nie teraz</string>
+  <string name="securityadd_update_tips_message">Zaktualizuj wtyczkę usługi Panelu sterowania, aby uzyskać dostęp do najnowszych funkcji dla gier. Zostanie pobrane %1$dMB danych.</string>
+  <string name="securityadd_update_tips_now">Aktualizuj</string>
+  <string name="securityadd_update_tips_title">Aktualizacja</string>
   <string name="see_detail">Szczegóły</string>
   <string name="set_applock_password">Ustaw hasło</string>
   <string name="set_mixed_password_name">Ustaw hasło</string>

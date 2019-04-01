@@ -493,7 +493,6 @@
   <string name="portait_effect_entry_story">Opowieść</string>
   <string name="ai_scene_mode_use_hint_text">"Aparat SI automatycznie wykrywa scenerię i optymalizuje Twoje zdjęcia na podstawie tych informacji"</string>  
   <string name="pref_camera_ai_scene_title">Aparat SI</string>
-  <string name="hint_ae_af_lock">Autofokus / autoekspozycja zostały zablokowane</string>
   <string name="accessibility_ai_scene_off">Aparat SI jest wyłączony</string>
   <string name="accessibility_ai_scene_on">Aparat SI jest włączony</string>
     <string name="edit_chin">Broda</string>
@@ -664,7 +663,9 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="zoom_no_support_tip_48M">Zoom nie działa w trybie 48 Mpx</string>
   <string name="hand_gesture_open_tip">Pokaż swoją dłoń w obiektywie aparatu, aby włączyć samowyzwalacz</string>
   <string name="hand_gesture_tip">Gest dłoni</string>
-  <string name="hint_ae_lock">Auto-ekspozycja jest zablokowana</string>
+  <string name="hint_ae_af_lock">Autofokus / autom. ekspozycja są zablokowane</string>
+  <string name="hint_ae_af_lock_extra">Autofokus / autom. ekspozycja są zablokowane. Przełącz się na Obiektyw Google w ustawieniach Aparatu</string>
+  <string name="hint_ae_lock">Autom. ekspozycja jest zablokowana</string>  
   <string name="config_name_ratio">Proporcje</string>
   <string name="module_name_pixel_48M">48 Mpx</string>
   <string name="action_calendar">Dodaj wydarzenie</string>
@@ -771,6 +772,7 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="success_image_saved_camera">Zapisano obraz w Aparacie.</string>
   <string name="text_copied_to_clipboard">Skopiowano tekst do schowka</string>
   <string name="wideselfie_press_shoot_key_to_start">Kliknij przycisk migawki</string>
+  <string name="wideselfie_result_image_lossless">"Nie można zapisać panoramy"</string>
   <string name="wideselfie_rotate_slowly">Powoli obracaj telefon</string>
   <string name="wideselfie_rotate_to_back">Przechyl urządzenie do tyłu</string>
   <string name="wideselfie_rotate_to_front">Przechyl urządzenie do przodu</string>

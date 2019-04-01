@@ -649,6 +649,7 @@
   <string name="guest_wipe_session_message">Czy chcesz kontynuować swoją sesję?</string>
   <string name="guest_wipe_session_title">Witaj ponownie, Gościu!</string>
   <string name="guest_wipe_session_wipe">Rozpocznij od nowa</string>
+  <string name="gxzw_area">Czytnik linii papilarnych</string>
   <string name="gxzw_press_harder">Naciśnij trochę bardziej</string>
   <string name="gxzw_try_again">Spróbuj ponownie</string>
   <string name="gxzw_try_more_again">Spróbuj ponownie</string>

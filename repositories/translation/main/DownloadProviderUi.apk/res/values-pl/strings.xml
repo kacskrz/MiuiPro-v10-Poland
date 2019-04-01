@@ -503,4 +503,6 @@
   <string name="xunlei_open_info">Użyć silnika Xunlei do otwierania linków tego typu?</string>
   <string name="xunlei_speed_service">Szybkie pobieranie Xunlei</string>
   <string name="xunlei_switch">Silnik pobierania Xunlei</string>
+  <string name="close">Zamknij</string>
+  <string name="close_ad">Zamknij reklamę</string>
 </resources>
