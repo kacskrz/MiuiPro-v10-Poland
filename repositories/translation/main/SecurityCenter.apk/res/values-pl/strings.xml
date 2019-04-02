@@ -1337,7 +1337,7 @@
   <string name="optimize_result_summary_system_default_settings">Korzystanie z aplikacji domyślnej MIUI zwiększa poziom stabilności i bezpieczeństwa systemu.</string>
   <string name="optimize_result_title_sucurity_risk">Znaleziono zagrożenie bezpieczeństwa</string>
   <string name="optimize_result_title_system_default_settings">Domyślne ustawienia zostały zmodyfikowane</string>
-  <string name="optimize_result_title_uninstall_apps">Aplikacje</string>
+  <string name="optimize_result_title_uninstall_apps">Odinstaluj aplikacje</string>
   <string name="optimize_result_toast_system_default_settings">Przywrócono ustawienia domyślne</string>
   <string name="optimize_result_toast_system_no_item_selected">Nic nie zaznaczono</string>
   <string name="optmizingbar_optimize_done">Zoptymalizowany</string>

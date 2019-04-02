@@ -292,9 +292,8 @@
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picturesize_entry_4_3">4:3</string>
   <string name="pref_camera_picturesize_entry_16_9">16:9</string>
-  <string name="pref_camera_picturesize_entry_18_9">18:9</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Pełny ekran 16:9</string>
-  <string name="pref_camera_picturesize_entry_standard">Standardowo 4:3</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Pełny ekran (16:9)</string>
+  <string name="pref_camera_picturesize_entry_standard">Standardowo (4:3)</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kadr</string>
   <string name="pref_camera_portrait_mode_entry_off">Tryb portretowy wyłączony</string>
   <string name="pref_camera_portrait_mode_entry_on">Tryb portretowy włączony</string>
@@ -802,4 +801,5 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="dialog_google_lens_option_0">Obiektyw Google (polecane)</string>
   <string name="pref_camera_long_press_viewfinder_google_lens">Obiektyw Google</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">Blokada AE/AF</string>
+  <string name="beauty_body_whole">Ciało</string>
 </resources>

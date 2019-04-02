@@ -6086,4 +6086,6 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="layout_exhuge_font_take_effect_tips">Tekst w rozmiarze XXL wyświetlany jest tylko w aplikacjach SMS, Telefon i Kontakty</string>
   <string name="layout_exhuge_font_tips">Więcej opcji jest dostępne w %1$s</string>
   <string name="layout_exhuge_font_tips_reg">Ułatwieniach dostępu &gt; Rozmiar wyświetlacza</string>
+  <string name="notification_fold_footer_icon_summary">Ikony nieistotnych powiadomień będą pojawiać się po prawej stronie paska powiadomień</string>
+  <string name="notification_fold_footer_icon_title">Pokazuj ikony</string>
 </resources>
