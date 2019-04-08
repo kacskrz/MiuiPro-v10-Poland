@@ -30,4 +30,25 @@
         <item quantity="few">%d znaki</item>
         <item quantity="many">%d znaków</item>
      </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Usunąć %1$s notatek?</item>
+        <item quantity="one">Usunąć %1$s notatkę?</item>
+        <item quantity="few">Usunąć %1$s notatki?</item>
+    </plurals>
+	<plurals name="format_move_notes_out_folder">
+        <item quantity="other">Przeniesiono %1$s</item>
+        <item quantity="one">Przeniesiono %1$s</item>
+    </plurals>
+	<plurals name="format_move_notes_to_folder">
+        <item quantity="other">Przeniesiono %1$s do %2$s</item>
+        <item quantity="one">Przeniesiono %1$s do %2$s</item>
+    </plurals>
+	<plurals name="toast_notes_hidden_count">
+        <item quantity="other">Pomyślnie ukryto (%1$s)</item>
+        <item quantity="one">Pomyślnie ukryto (%1$s)</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Pomyślnie odkryto (%1$s)</item>
+        <item quantity="one">Pomyślnie odkryto (%1$s)</item>
+    </plurals>
 </resources>

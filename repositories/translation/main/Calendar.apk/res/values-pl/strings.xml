@@ -296,6 +296,7 @@
 Sprawdź ustawienia sieci i spróbuj ponownie."</string>
     <string name="no_network_btn">Spróbuj ponownie</string>
     <string name="no_visiable_calendar_message">Musisz dodać konto kalendarza. Dotknij \"Dodaj konto\", aby kontynuować.</string>
+    <string name="no_visiable_calendar_message_only_for_xiaomi_account">Musisz dodać konto kalendarza. Dotknij \"Dodaj\", aby dodać konto.</string>
     <string name="no_visiable_calendar_select_account">Dodaj konto</string>
     <string name="no_visiable_calendar_title">Dodaj konto</string>
     <string name="panchang_amanta">Amanta</string>
@@ -374,6 +375,8 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
     <string name="setting_others">Dodatkowe</string>
     <string name="setting_title_about">O aplikacji</string>
     <string name="setting_title_holiday_display">Pokaż dni wolne</string>
+    <string name="share_not_install_wechat">Zainstaluj aplikację WeChat.</string>
+    <string name="share_not_install_weibo">Zainstaluj aplikację Weibo.</string>
     <string name="share_title">Udostępnij</string>
     <string name="start_date_calculate">Oblicz</string>
     <string name="subscribe_card">Subskrybuj teraz</string>

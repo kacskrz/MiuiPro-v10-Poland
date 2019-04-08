@@ -267,7 +267,7 @@
   <string name="pref_camera_jpegquality_entry_normal">Normalna</string>
   <string name="pref_camera_jpegquality_title">Jakość zdjęć</string>
   <string name="pref_camera_long_press_shutter_feature_title">Przytrzymanie migawki</string>
-  <string name="pref_camera_long_press_viewfinder_title">Ustawienia</string>
+  <string name="pref_camera_long_press_viewfinder_title">Ustawienia wizjera</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Zdjęcia seryjne</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Ostrość</string>
   <string name="pref_camera_long_pressing_shutter_title">Naciśnij i przytrzymaj migawkę by zablokować AE/AF/AWB</string>
@@ -662,8 +662,8 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="zoom_no_support_tip_48M">Zoom nie działa w trybie 48 Mpx</string>
   <string name="hand_gesture_open_tip">Pokaż swoją dłoń w obiektywie aparatu, aby włączyć samowyzwalacz</string>
   <string name="hand_gesture_tip">Gest dłoni</string>
-  <string name="hint_ae_af_lock">Autofokus / autom. ekspozycja są zablokowane</string>
-  <string name="hint_ae_af_lock_extra">Autofokus / autom. ekspozycja są zablokowane. Przełącz się na Obiektyw Google w ustawieniach Aparatu</string>
+  <string name="hint_ae_af_lock">Autofokus i autom. ekspozycja są zablokowane</string>
+  <string name="hint_ae_af_lock_extra">Autofokus i autom. ekspozycja są zablokowane. Przełącz się na Obiektyw Google w ustawieniach Aparatu</string>
   <string name="hint_ae_lock">Autom. ekspozycja jest zablokowana</string>  
   <string name="config_name_ratio">Proporcje</string>
   <string name="module_name_pixel_48M">48 Mpx</string>

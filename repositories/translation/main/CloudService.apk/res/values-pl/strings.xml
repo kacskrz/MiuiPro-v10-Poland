@@ -665,4 +665,6 @@
   <string name="warning_bar_title_network_unconnected">"Nie można połączyć się z siecią"</string>
   <string name="warning_bar_title_short_cut">Dodać skrót do Chmury na pulpicie?</string>
   <string name="warning_bar_title_sync_off">Synchronizacja jest wyłączona</string>
+  <string name="user_detail_agreement">Warunki Użytkowania</string>
+  <string name="user_detail_privacy_policy">Polityka Prywatności</string>
 </resources>

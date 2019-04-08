@@ -3003,6 +3003,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="operator_warning">Operator komórkowy może obliczać ilość przesłanych danych inaczej niż urządzenie</string>
   <string name="optimization_cancel">Anuluj</string>
   <string name="ota_disable_automatic_update">Automatyczne aktualizacje systemu</string>
+  <string name="ota_disable_automatic_update_summary">Zainstaluj aktualizacje po restarcie urządzenia</string>
   <string name="other_advanced_settings">Dodatkowe ustawienia</string>
   <string name="other_device_info">Inne</string>
   <string name="other_personal_settings">Ustawienia osobiste</string>

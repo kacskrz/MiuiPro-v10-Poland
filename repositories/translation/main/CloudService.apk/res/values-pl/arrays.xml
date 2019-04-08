@@ -126,4 +126,8 @@
         <item>Pobierz skopiowane elementy na swoje urządzenie</item>
         <item>Chmura;Skopiuj;Kopia;Przywróć;Usługi Chmury;Chmura Xiaomi</item>
     </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>Zsynchronizowane elementy</item>
+        <item>Pojemność konta</item>
+    </string-array>
 </resources>

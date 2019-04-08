@@ -722,6 +722,7 @@ aby spersonalizować Galerię"</string>
     <string name="photo_editor_beautify">Upiększanie</string>
     <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Oryginalny</string>
+    <string name="photo_editor_compare_tip">Przytrzymaj przycisk, aby zobaczyć podgląd oryginalnego zdjęcia</string>
     <string name="photo_editor_crop_and_rotate">Przytnij</string>
     <string name="photo_editor_crop_reset">Resetuj</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
@@ -755,6 +756,7 @@ aby spersonalizować Galerię"</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">Czekaj na sieć Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Pobieranie %s…</string>
     <string name="photo_editor_navigator_need_download">Połącz się z internetem, aby pobrać %s.</string>
+    <string name="photo_editor_remove_watermark">Usuń znak wodny</string>
     <string name="photo_editor_remover">Wymaż</string>
     <string name="photo_editor_rotate">Obróć</string>
     <string name="photo_editor_saving">Zapisywanie…</string>
