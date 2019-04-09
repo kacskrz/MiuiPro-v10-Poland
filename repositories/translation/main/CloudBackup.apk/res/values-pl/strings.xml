@@ -216,5 +216,6 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
    <string name="restore_network_pause">%s (Kliknij, aby wznowić)</string>
    <string name="restore_network_unconnect">%s (Oczekiwanie na sieć)</string>
    <string name="title_restore_with_current_network">Używanie obecnego połączenia do pobrania plików</string>
-   <string name="provision_background_restore_more_data">Przywracaj więcej rzeczy w tle</string>
+   <string name="provision_background_restore_more_data">Przywracaj więcej elementów w tle</string>
+   <string name="provision_restore_data">Przywracanie elementów</string>
 </resources>
