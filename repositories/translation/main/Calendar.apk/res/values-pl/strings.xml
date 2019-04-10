@@ -135,7 +135,7 @@
     <string name="add_countdown">Dodaj odliczanie</string>
     <string name="add_event">Dodaj wydarzenie</string>
     <string name="agenda_month_empty_hint">Brak wydarzeń na dziś</string>
-    <string name="alarm_label">Odrzuć</string>
+    <string name="alarm_label">OK</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Wygasło</string>
     <string name="anniversary_event_title">Rocznica: %1$s</string>
@@ -503,4 +503,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="reminder_overdue">Wygasło</string>
   <string name="train_detail_title">Relacja pociągu</string>
   <string name="train_event_delete_successfully">Pomyślnie usunięto relację pociągu</string>
+  <string name="cancel_reminder_later">Anuluj przypomnienie</string>
+  <string name="default_reminder_later_time">Domyślny okres czasu dla \"Przypomnij później\"</string>
+  <string name="next_alarm_time">Kolejne przypomnienie o %1$s</string>
+  <string name="reminder_later">Przypomnij później</string>
 </resources>

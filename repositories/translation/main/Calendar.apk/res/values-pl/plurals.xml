@@ -143,4 +143,9 @@
         <item quantity="one">%2$s minuta jazdy do %1$s.</item>
         <item quantity="few">%2$s minuty jazdy do %1$s.</item>
     </plurals>
+	<plurals name="reminder_later_toast">
+        <item quantity="other">Następne przypomnienie za %1$d minut</item>
+        <item quantity="one">Następne przypomnienie za minutę</item>
+        <item quantity="few">Następne przypomnienie za %1$d minuty</item>
+    </plurals>
 </resources>

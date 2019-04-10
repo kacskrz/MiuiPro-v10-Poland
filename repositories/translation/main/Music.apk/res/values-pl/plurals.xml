@@ -259,4 +259,14 @@ Czy chcesz ją odnowić?"</item>
         <item quantity="other">Możesz pobrać %1$d darmowych utworów. Pobrać %2$s teraz?</item>
         <item quantity="one">Możesz pobrać %1$d darmowy utwór. Pobrać %2$s teraz?</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">Pozostało %d darmowych pobrań</item>
+        <item quantity="one">Pozostało %d darmowe pobranie</item>
+        <item quantity="few">Pozostały %d darmowe pobrania</item>
+    </plurals>
+	<plurals name="vip_remain_days_hint">
+        <item quantity="other">Pozostało %d dni</item>
+        <item quantity="one">Pozostał %d dzień</item>
+        <item quantity="few">Pozostały %d dni</item>
+    </plurals>
 </resources>
