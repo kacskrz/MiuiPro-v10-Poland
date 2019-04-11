@@ -6011,7 +6011,6 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 2. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_ok">Rozumiem</string>
-  <string name="dual_clock_aod_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Zawsze włączony.</string>
   <string name="more_installed_services_title">Więcej usług</string>
   <string name="resident_timezone_summary">Drugi zegar</string>
   <string name="toast_sta_ap_works_wifi_display_disable">"Nie można przesyłać ekranu, gdy urządzenie jest połączone z Wi-Fi i włączony jest hotspot."</string>
