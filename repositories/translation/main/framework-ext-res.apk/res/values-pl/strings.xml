@@ -194,18 +194,17 @@
   <string name="resolver_offical_recommend">Oficjalna</string>
   <string name="resolver_other_method">Inne aplikacje</string>
   <string name="resolver_recommend_options_tag">Rekomendowana aplikacja</string>
-  <string name="popup_camera_calibrate_failed">"Nie udało się skalibrować. Zanieś urządzenie do serwisu Xiaomi w pobliżu, aby zdiagnozować problem."</string>
+  <string name="popup_camera_calibrate_failed">"Nie udało się skalibrować"</string>
   <string name="popup_camera_calibrate_now">Skalibruj</string>
   <string name="popup_camera_calibrate_success">Pomyślnie skalibrowano. Możesz otworzyć teraz przedni aparat.</string>
   <string name="popup_camera_front_failed">"Nie można otworzyć przedniego aparatu. Spróbuj ponownie."</string>
   <string name="popup_camera_front_falied_times">"Nie udało się otworzyć przedniego aparatu kilka razy z rzędu. Zanieś urządzenie do serwisu Xiaomi w pobliżu, aby zdiagnozować problem."</string>
-  <string name="popup_camera_front_when_use">Przedni aparat jest obecnie używany. Otworzyć mimo to?</string>
   <string name="popup_camera_popup_falied_times_calibrate">"Nie udało się otworzyć przedniego aparatu kilka razy z rzędu. Spróbuj go skalibrować."</string>
   <string name="popup_camera_sure">OK</string>
   <string name="popup_camera_sure_wait">OK (%ds)</string>
   <string name="popup_camera_takeback_falied_times_calibrate">"Nie udało się zamknąć przedniego aparatu kilka razy z rzędu. Spróbuj go skalibrować."</string>
   <string name="popup_camera_tip">Uwaga</string>
   <string name="popup_camera_using_camera_background">Aplikacja %s używa przedniego aparatu</string>
-  <string name="stop_operate_camera_frequently">"Wygląda na to, że przełączasz się pomiędzy aparatami zbyt często."</string>
+  <string name="stop_operate_camera_frequently">"Otwierasz przedni aparat zbyt często."</string>
   <string name="takeback_camera_front_failed">"Nie można zamknąć przedniego aparatu. Spróbuj ponownie."</string>
 </resources>

@@ -493,4 +493,12 @@
   <string name="preference_privacy_title">Polityka prywatności</string>
   <string name="tax_thershold_native_new">%s (nowa)</string>
   <string name="tax_thershold_native_new_description">Podatki będą obliczane zgodnie z nową ustawą podatkową, począwszy od 1 października 2018 roku</string>
+  <string name="app_notification_info">Kalkulator działa w tle</string>
+  <string name="btn_float_window_alpha">Dostosuj nieprzezroczystość</string>
+  <string name="btn_float_window_back_to_app">Zmaksymalizuj Kalkulator</string>   
+  <string name="btn_float_window_close">Zamknij Kalkulator</string>
+  <string name="btn_float_window_resize">Zmień rozmiar Kalkulatora</string>
+  <string name="float_window_guide_text">Kliknij, aby zminimalizować Kalkulator</string>
+  <string name="hint_floatwindow_alpha_guide_text">Kliknij, aby dostosować nieprzezroczystość</string>
+  <string name="view_float_window_move">Przenieś Kalkulator</string>
 </resources>

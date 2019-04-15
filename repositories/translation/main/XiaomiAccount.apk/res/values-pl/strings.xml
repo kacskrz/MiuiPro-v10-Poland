@@ -435,7 +435,7 @@ Twój numer odblokowujący: %s"</string>
     <string name="push_notify_dialog_message">Nieznane urządzenie zostało wykorzystane do zalogowania na twoje konto Xiaomi. Wpisz kod weryfikacyjny na tym urządzeniu. Jeśli to nie ty, zmień swoje hasło do konta Xiaomi. Nie ujawniaj kodu weryfikacyjnego innym osobom.</string>
     <string name="account_secure_info_pref_title">Informacje o koncie</string>
     <string name="account_user_email">E-mail</string>
-    <string name="account_user_phone">Numer telefonu</string>
+    <string name="account_user_phone">Numer awaryjny</string>
     <string name="account_user_recovery_phone">Numer awaryjny</string>
     <string name="account_security_info_pref_title">Informacje o bezpieczeństwie</string>
     <string name="account_bind_settings">Konta</string>
@@ -510,4 +510,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Pamięć</string>
   <string name="select_all">Zaznacz wszystko</string>
+  <string name="agreement_and_privacy">Umowa Użytkownika i Polityka Prywatności</string>
+  <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz się na nie zalogujesz.</string>
+  <string name="scan_barcode">Zeskanuj kod QR</string>
 </resources>

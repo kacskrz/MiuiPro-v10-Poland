@@ -432,7 +432,7 @@
   <string name="t_exit_app">Dotknij ponownie, aby wyjść</string>
   <string name="t_install_new_version">Instalacja aktualizacji…</string>
   <string name="t_network_error_to_retry">Wystąpił błąd sieci.</string>
-  <string name="t_no_miuibbs">未发现小米论坛应用，请安装后再试</string>
+  <string name="t_no_miuibbs">Zainstaluj aplikację MIUI Forum i spróbuj ponownie.</string>
   <string name="t_no_new_version">Mi Wideo jest aktualne.</string>
   <string name="t_password_limit">Hasło powinno się składać co najmniej z 4 znaków</string>
   <string name="t_password_null">Hasło nie może być puste</string>
@@ -808,4 +808,8 @@
     <string name="download_storage_invalid">Ścieżka do wskazanej lokalizacji jest nieprawidłowa.</string>
     <string name="download_url_waiting_data">Wstrzymane (dane mobilne)</string>
     <string name="download_vip_login">Zaloguj się na konto Xiaomi i spróbuj ponownie</string>
+	<string name="notification_offline_to_online_setting">Pasek powiadomień</string>
+	<string name="notification_offline_to_online_summary">Pokazuj informacje o pogodzie i skróty Mi Wideo</string>
+	<string name="notification_offline_to_online_title">Skróty w pasku powiadomień</string>
+	<string name="offline_setting_mobile_net_limit_unlimited_title">Ograniczenia zużycia danych</string>
 </resources>

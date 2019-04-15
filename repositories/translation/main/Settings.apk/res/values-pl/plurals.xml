@@ -420,4 +420,78 @@
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" (%1$s godz.) - %2$s"</item>
     </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">Odblokowano dzisiaj %d razy</item>
+        <item quantity="one">Odblokowano dzisiaj %d raz</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">Odblokowano w ciągu ost. 7 dni %d razy</item>
+        <item quantity="one">Odblokowano w ciągu ost. 7 dni %d raz</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">Otrzymano dzisiaj %d powiadomień</item>
+        <item quantity="one">Otrzymano dzisiaj %d powiadomienie</item>
+        <item quantity="few">Otrzymano dzisiaj %d powiadomienia</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">Otrzymano w ciągu ost. 7 dni %d powiadomień</item>
+        <item quantity="one">Otrzymano w ciągu ost. 7 dni %d powiadomienie</item>
+        <item quantity="few">Otrzymano w ciągu ost. 7 dni %d powiadomienia</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d godzin</item>
+        <item quantity="one">%d godzina</item>
+        <item quantity="few">%d godziny</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" godz."</item>
+        <item quantity="one">" godz."</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d powiadomień</item>
+        <item quantity="one">%d powiadomienie</item>
+        <item quantity="few">%d powiadomienia</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d razy</item>
+        <item quantity="one">%d raz</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Weekendy: %d godz.</item>
+        <item quantity="one">Weekendy: %d godz.</item>
+        <item quantity="few">Weekendy: %d godz.</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Weekendy: %d min</item>
+        <item quantity="one">Weekendy: %d min</item>
+        <item quantity="few">Weekendy: %d min</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Dni robocze: %d godz.</item>
+        <item quantity="one">Dni robocze: %d godz.</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Dni robocze: %d min</item>
+        <item quantity="one">Dni robocze: %d min</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" godz."</item>
+        <item quantity="one">" godz."</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
 </resources>

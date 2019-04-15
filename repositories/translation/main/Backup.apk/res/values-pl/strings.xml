@@ -612,4 +612,6 @@ Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="wait_link">"Połącz swoje stare urządzenie z tym hotspotem.
 Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</string>
   <string name="waiting">Chwileczkę…</string>
+  <string name="err_no_gms">Niekompatybilna wersja - zainstaluj aplikację oddzielnie</string>
+  <string name="trans_detail_item_app_data_skip_data">"Nie można przenieść danych aplikacji"</string>
 </resources>

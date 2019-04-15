@@ -25,6 +25,16 @@
         <item quantity="one">%1$s sekunda po raporcie</item>
         <item quantity="few">%1$s sekundy po raporcie</item>
     </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Możesz przekazać raport ponownie za %1$s minut</item>
+        <item quantity="one">Możesz przekazać raport ponownie za minutę</item>
+        <item quantity="few">Możesz przekazać raport ponownie za %1$s minuty</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Możesz przekazać raport ponownie za %1$s sekund</item>
+        <item quantity="one">Możesz przekazać raport ponownie za sekundę</item>
+        <item quantity="few">Możesz przekazać raport ponownie za %1$s sekundy</item>
+    </plurals>
     <plurals name="aqi_all_city_cur_num">
         <item quantity="other">Średnia z %1$s stacji</item>
         <item quantity="one">Średnia z %1$s stacji</item>

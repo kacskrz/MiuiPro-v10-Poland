@@ -654,6 +654,7 @@
   <string name="gxzw_try_again">Spróbuj ponownie</string>
   <string name="gxzw_try_more_again">Spróbuj ponownie</string>
   <string name="gxzw_use_password">Użyj swojego hasła do odblokowania</string>
+  <string name="gxzw_use_password_to_unlock">Wpisz hasło</string>
   <string name="hdcp_checking_dialog_title">Ustaw zachowania sprawdzania HDCP</string>
   <string name="hdcp_checking_title">Sprawdzanie HDCP</string>
   <string name="headset">Headset</string>
