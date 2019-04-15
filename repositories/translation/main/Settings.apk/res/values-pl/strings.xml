@@ -6143,7 +6143,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usagestats_device_notification_des_over">"Przekroczyłeś już swój dzisiejszy limit czasu"</string>
   <string name="usagestats_device_notification_des_reset" formatted="false">Dzisiejszy limit czasu: %s | Pozostało %s</string>
   <string name="usagestats_device_notification_title">Ostrzeżenie dot. czasu na ekranie</string>
-  <string name="usagestats_device_timeout_des" formatted="false">"Używasz dzisiaj urządzenia już od %d godz. i %d minut. Odpocznij trochę!"</string>
+  <string name="usagestats_device_timeout_des" formatted="false">"Używasz dzisiaj urządzenia już %d godz. i %d minut. Odpocznij trochę!"</string>
   <string name="usagestats_device_timeout_negative">Przypomnij za godzinę</string>
   <string name="usagestats_device_timeout_positive">Rozumiem</string>
   <string name="usagestats_device_timeout_title">Ostrzeżenie dot. czasu na ekranie</string>
