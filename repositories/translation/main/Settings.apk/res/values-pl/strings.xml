@@ -6088,11 +6088,11 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="layout_exhuge_font_tips_reg">Ułatwieniach dostępu &gt; Rozmiar wyświetlacza</string>
   <string name="notification_fold_footer_icon_summary">Pokazuj ikony z zgrupowanych nieistotnych powiadomień</string>
   <string name="notification_fold_footer_icon_title">Pokazuj ikony aplikacji</string>
-  <string name="usage_state_app_timer">Czas na ekranie</string>
+  <string name="usage_state_app_timer">Cyfrowa równowaga</string>
   <string name="usage_state_app_usage_detail_title">Szczegóły dot. aplikacji</string>
-  <string name="usage_state_app_usage_list_title">"Czas na ekranie dzisiaj"</string>
-  <string name="usage_state_app_usage_list_week_title">"Czas na ekranie (ost. tydzień)"</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Czas na ekranie pomiędzy %d:00 a %d:00</string>
+  <string name="usage_state_app_usage_list_title">"Dzisiaj używane aplikacje"</string>
+  <string name="usage_state_app_usage_list_week_title">"Używane aplikacje (ost. tydzień)"</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Użytkowanie pomiędzy %d:00 a %d:00</string>
   <string name="usage_state_app_use_time">Czas aplikacji na ekranie</string>
   <string name="usage_state_channel_mouth">Ostatni miesiąc</string>
   <string name="usage_state_channel_week">Ostatni tydzień</string>
@@ -6103,27 +6103,27 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usage_state_hour_minute" formatted="false">%d godz. %d min</string>
   <string name="usage_state_less_one_minute">Mniej niż minuta</string>
   <string name="usage_state_monday">Pon</string>
-  <string name="usage_state_mourth_day">"'Czas na ekranie w dniu' d MMM"</string>
+  <string name="usage_state_mourth_day">"'Użytkowanie w dniu' d MMM"</string>
   <string name="usage_state_noti_mourth_day">"'Powiadomienia w dniu' d MMM"</string>
   <string name="usage_state_notification">Zarządzaj powiadomieniami</string>
   <string name="usage_state_notification_manager">Zarządzaj powiadomieniami aplikacji</string>
-  <string name="usage_state_remind_summary">Włącz, aby otrzymywać przypomnienia dot. przekroczenia czasu na ekranie. Możesz ustawić różne limity dla dni roboczych oraz weekendów.</string>
-  <string name="usage_state_remind_title">Ostrzeżenie dot. czasu na ekranie</string>
+  <string name="usage_state_remind_summary">Włącz, aby otrzymywać przypomnienia dot. limitów czasu na ekranie. Możesz ustawić różne limity dla dni roboczych oraz weekendów.</string>
+  <string name="usage_state_remind_title">Limit korzystania z urządzenia</string>
   <string name="usage_state_rest_day">Weekendy</string>
   <string name="usage_state_saturday">Sob</string>
   <string name="usage_state_set_invalid_time_toast">"Nie można ustawić limitu krótszego niż 1 minuta"</string>
   <string name="usage_state_sunday">Ndz</string>
   <string name="usage_state_thursday">Czw</string>
   <string name="usage_state_today">Dzisiaj</string>
-  <string name="usage_state_today_total_text">Czas na ekranie dzisiaj</string>
+  <string name="usage_state_today_total_text">Dziś używano przez</string>
   <string name="usage_state_tuesday">Wt</string>
   <string name="usage_state_unlock_mourth_day">"'Odblokowania w dniu' d MMM"</string>
-  <string name="usage_state_usage_time">Czas na ekranie</string>
-  <string name="usage_state_usage_time_remind">Ostrzeżenie dot. czasu na ekranie</string>
-  <string name="usage_state_use_time_remind_title">Ostrzeżenie dot. czasu na ekranie</string>
+  <string name="usage_state_usage_time">Limit czasu</string>
+  <string name="usage_state_usage_time_remind">Ustaw limity korzystania z urządzenia</string>
+  <string name="usage_state_use_time_remind_title">Limit korzystania z urządzenia</string>
   <string name="usage_state_wednesday">Śr</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">Weekendy: %d godz. %d min</string>   
-  <string name="usage_state_week_total_text">Czas na ekranie (ost. tydzień)</string>
+  <string name="usage_state_week_total_text">Użytkowanie w ciągu tygodnia</string>
   <string name="usage_state_work_day">Dni robocze</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">Dni robocze: %d godz. %d min</string>
   <string name="usage_stats_normal_day">Dni robocze</string>
@@ -6142,11 +6142,11 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usagestats_device_notification_des">Dzisiejszy limit czasu: %s</string>
   <string name="usagestats_device_notification_des_over">"Przekroczyłeś już swój dzisiejszy limit czasu"</string>
   <string name="usagestats_device_notification_des_reset" formatted="false">Dzisiejszy limit czasu: %s | Pozostało %s</string>
-  <string name="usagestats_device_notification_title">Ostrzeżenie dot. czasu na ekranie</string>
+  <string name="usagestats_device_notification_title">Limit korzystania z urządzenia</string>
   <string name="usagestats_device_timeout_des" formatted="false">"Używasz dzisiaj urządzenia już %d godz. i %d minut. Odpocznij trochę!"</string>
   <string name="usagestats_device_timeout_negative">Przypomnij za godzinę</string>
   <string name="usagestats_device_timeout_positive">Rozumiem</string>
-  <string name="usagestats_device_timeout_title">Ostrzeżenie dot. czasu na ekranie</string>
+  <string name="usagestats_device_timeout_title">Przekroczono limit czasu</string>
   <string name="wifi_protection_on">Wł.</string>
   <string name="wifi_protection_settings_title">Ochrona Wi-Fi</string>
   <string name="wifi_protection_tip">MIUI automatycznie włącza funkcję ochrony Wi-Fi. Gdy urządzenie skanuje sieć Wi-Fi, losowo generuje adres MAC, aby zapobiec atakom na urządzenie poprzez sieć.</string>

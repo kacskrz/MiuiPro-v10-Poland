@@ -443,9 +443,9 @@
         <item quantity="one">%d godz.</item>
     </plurals>
     <plurals name="usage_state_hour24">
-        <item quantity="other">%d godzin</item>
-        <item quantity="one">%d godzina</item>
-        <item quantity="few">%d godziny</item>
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
     </plurals>
     <plurals name="usage_state_hour_text">
         <item quantity="other">" godz."</item>
