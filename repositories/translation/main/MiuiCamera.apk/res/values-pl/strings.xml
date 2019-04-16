@@ -772,11 +772,11 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="text_copied_to_clipboard">Skopiowano tekst do schowka</string>
   <string name="wideselfie_press_shoot_key_to_start">Kliknij przycisk migawki</string>
   <string name="wideselfie_result_image_lossless">"Nie można zapisać panoramy"</string>
-  <string name="wideselfie_rotate_slowly">Powoli obracaj telefon</string>
+  <string name="wideselfie_rotate_slowly">Obróć telefon</string>
   <string name="wideselfie_rotate_to_back">Przechyl urządzenie do tyłu</string>
   <string name="wideselfie_rotate_to_front">Przechyl urządzenie do przodu</string>
-  <string name="wideselfie_rotate_to_left_slowly">Powoli obracaj telefon w lewo</string>
-  <string name="wideselfie_rotate_to_right_slowly">Powoli obracaj telefon w prawo</string>
+  <string name="wideselfie_rotate_to_left_slowly">Obróć telefon w lewo</string>
+  <string name="wideselfie_rotate_to_right_slowly">Obróć telefon w prawo</string>
   <string name="macro_mode">Tryb makro</string>
   <string name="macro_mode_tip">Umieść obiekt do 10 cm od obiektywu</string>
   <string name="accessibility_bokeh_normal">Rozmycie tła przedniego aparatu jest wył.</string>

@@ -425,8 +425,8 @@
         <item quantity="one">Odblokowano dzisiaj %d raz</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Odblokowano w ciągu ost. 7 dni %d razy</item>
-        <item quantity="one">Odblokowano w ciągu ost. 7 dni %d raz</item>
+        <item quantity="other">W ciągu ost. 7 dni odblokowano %d razy</item>
+        <item quantity="one">W ciągu ost. 7 dni odblokowano %d raz</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">Otrzymano dzisiaj %d powiadomień</item>
@@ -434,9 +434,9 @@
         <item quantity="few">Otrzymano dzisiaj %d powiadomienia</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Otrzymano w ciągu ost. 7 dni %d powiadomień</item>
-        <item quantity="one">Otrzymano w ciągu ost. 7 dni %d powiadomienie</item>
-        <item quantity="few">Otrzymano w ciągu ost. 7 dni %d powiadomienia</item>
+        <item quantity="other">W ciągu ost. 7 dni otrzymano %d powiadomień</item>
+        <item quantity="one">W ciągu ost. 7 dni otrzymano %d powiadomienie</item>
+        <item quantity="few">W ciągu ost. 7 dni otrzymano %d powiadomienia</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d godz.</item>
