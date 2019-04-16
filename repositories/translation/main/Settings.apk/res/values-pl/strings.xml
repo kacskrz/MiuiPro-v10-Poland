@@ -6088,14 +6088,14 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="layout_exhuge_font_tips_reg">Ułatwieniach dostępu &gt; Rozmiar wyświetlacza</string>
   <string name="notification_fold_footer_icon_summary">Pokazuj ikony z zgrupowanych nieistotnych powiadomień</string>
   <string name="notification_fold_footer_icon_title">Pokazuj ikony aplikacji</string>
-  <string name="usage_state_app_timer">Cyfrowa równowaga</string>
+  <string name="usage_state_app_timer">Czas przed ekranem</string>
   <string name="usage_state_app_usage_detail_title">Szczegóły dot. aplikacji</string>
   <string name="usage_state_app_usage_list_title">"Dzisiaj używane aplikacje"</string>
   <string name="usage_state_app_usage_list_week_title">"Używane aplikacje (ost. tydzień)"</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Użytkowanie pomiędzy %d:00 a %d:00</string>
   <string name="usage_state_app_use_time">Czas aplikacji na ekranie</string>
-  <string name="usage_state_channel_mouth">Ostatni miesiąc</string>
-  <string name="usage_state_channel_week">Ostatni tydzień</string>
+  <string name="usage_state_channel_mouth">30 dni</string>
+  <string name="usage_state_channel_week">7 dni</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Powiadomienia pomiędzy %d:00 a %d:00</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Odblokowania pomiędzy %d:00 a %d:00</string>
   <string name="usage_state_friday">Pt</string>
