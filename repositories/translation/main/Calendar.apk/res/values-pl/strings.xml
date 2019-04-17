@@ -503,7 +503,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="reminder_overdue">Wygasło</string>
   <string name="train_detail_title">Relacja pociągu</string>
   <string name="train_event_delete_successfully">Pomyślnie usunięto relację pociągu</string>
-  <string name="cancel_reminder_later">Anuluj przypomnienie</string>
+  <string name="cancel_reminder_later">Anuluj</string>
   <string name="default_reminder_later_time">Okres czasu dla \"Później\"</string>
   <string name="next_alarm_time">Kolejne przypomnienie o %1$s</string>
   <string name="reminder_later">Później</string>
