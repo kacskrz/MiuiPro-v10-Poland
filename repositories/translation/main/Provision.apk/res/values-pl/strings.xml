@@ -108,4 +108,10 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="other_settings_enhanced_lockscreen_summary_index">Warunki użytkowania</string>
   <string name="congratulation_label_night">Sprawdź nasz nowy, czarny motyw!</string>
   <string name="start_up_slogan_night">Sprawdź nasz nowy, czarny motyw!</string>
+  <string name="font_hint_normal">Zmień rozmiar czcionki</string>
+  <string name="font_hint_large">Domyślny rozmiar czcionki</string>
+  <string name="skip_gesture_guide_dialog_title">Gesty</string>
+  <string name="skip_gesture_guide_dialog_message">Upewnij się, że wiesz, jak używać gestów przed wybraniem tej opcji.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">Anuluj</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
 </resources>
