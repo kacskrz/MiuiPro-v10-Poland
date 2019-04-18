@@ -807,4 +807,23 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
 Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić szersze ujęcie."</string>
   <string name="ultra_wide_open_tip_sat">Bardzo szeroki kąt (0.6X)</string>
   <string name="video_beauty_tip">Upiększanie wideo</string>
+  <string name="mimoji_hairstyle">Włosy</string>
+  <string name="mimoji_featured_face">Typ twarzy</string>
+  <string name="mimoji_eye">Oko</string>
+  <string name="mimoji_eyebrow">Brew</string>
+  <string name="mimoji_nose_lisps">Nos i usta</string>
+  <string name="mimoji_mustache">Broda</string>
+  <string name="mimoji_mole_freckle">Pieprzyk i piegi</string>
+  <string name="mimoji_mole">Pieprzyk</string>
+  <string name="mimoji_freckle">Piegi</string>
+  <string name="mimoji_eyeglass">Okulary</string>
+  <string name="mimoji_ornament">Akcesoria</string>
+  <string name="mimoji_headwear">Nakrycie głowy</string>
+  <string name="mimoji_ear">Ucho</string>
+  <string name="mimoji_eye_shape">Kształt oka</string>
+  <string name="mimoji_eyelash">Rzęsy</string>
+  <string name="mimoji_eyebrow_shape">Brwi</string>
+  <string name="mimoji_mouth_type">Typ ust</string>
+  <string name="mimoji_nose">Nos</string>
+  <string name="mimoji_earring">Kolczyki</string>
 </resources>

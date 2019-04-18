@@ -588,4 +588,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
 	<string name="kr_authorization_storage_desc">Dostęp do danych na urządzeniu oraz zapisywanie logów, obrazów i wideo</string>
 	<string name="kr_authorization_summary">Dokumenty prawne</string>
 	<string name="kr_authorization_user_protocol">Umowa użytkownika (obowiązkowa)</string>
+    <string name="feedback_description_hint_suggestion">"Powiedz nam, jak powinniśmy ulepszać MIUI."</string>
+    <string name="feedback_jira_key_place_holder">Tworzenie Jira…</string>
 </resources>

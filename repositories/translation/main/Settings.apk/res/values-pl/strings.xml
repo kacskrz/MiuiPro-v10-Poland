@@ -6101,7 +6101,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usage_state_friday">Pt</string>
   <string name="usage_state_go_more">Więcej aplikacji</string>
   <string name="usage_state_hour_minute" formatted="false">%d godz. %d min</string>
-  <string name="usage_state_less_one_minute">Mniej niż minuta</string>
+  <string name="usage_state_less_one_minute">Mniej niż minutę</string>
   <string name="usage_state_monday">Pon</string>
   <string name="usage_state_mourth_day">"'Użytkowanie w dniu' d MMM"</string>
   <string name="usage_state_noti_mourth_day">"'Powiadomienia w dniu' d MMM"</string>
