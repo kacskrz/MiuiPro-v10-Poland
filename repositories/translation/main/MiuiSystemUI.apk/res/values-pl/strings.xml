@@ -1769,4 +1769,14 @@
   <string name="usb_port_short_circuit_recovered_title">Port ładowania działa już normalnie</string>
   <string name="usb_port_short_circuit_title">"W porcie ładowania znajduje się para wodna"</string>
   <string name="face_unlock_success">Pomyślnie zweryfikowano</string>
+  <string name="power_save_ps_clean">Wyczyść pamięć podręczną, gdy urządzenie jest zablokowane</string>
+  <string name="power_save_ps_close_setting">Wyłącz usługi w tle (synchronizacja, GPS), aby zaoszczędzić baterię</string>
+  <string name="power_save_ps_freeze">Zamroź aplikacje w tle</string>
+  <string name="power_save_ps_limit">Ogranicz aktywność aplikacji systemowych</string>
+  <string name="battery_low_button_open_power_save">Włącz</string>
+  <string name="battery_low_percent_format_save_mode_closed">Pozostało mniej niż %d%% baterii. Naładuj urządzenie.</string>
+  <string name="battery_low_percent_format_save_mode_open">Pozostało mniej niż %d%% baterii. Włącz Oszczędzanie baterii.</string>
+  <string name="battery_low_title_power_save">Oszczędzanie baterii</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Po wybudzeniu ekranu przesuń w górę, aby odblokować urządzenie za pomocą danych twarzy.</string>
+  <string name="face_unlock_fail_retry_global">Kliknij powyżej, aby użyć Odblokowania twarzą</string>
 </resources>

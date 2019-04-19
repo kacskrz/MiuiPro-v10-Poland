@@ -2557,4 +2557,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gamecenter_install_fail">"Nie można zainstalować"</string>
   <string name="gamecenter_install_sucessfull">Pomyślnie zainstalowano</string>
   <string name="gb_shortcut_pref_title">Skrót na pulpicie</string>
+  <string name="power_save_ps_clean">Wyczyść pamięć podręczną, gdy urządzenie jest zablokowane</string>
+  <string name="power_save_ps_close_setting">Wyłącz usługi w tle (synchronizacja, GPS), aby zaoszczędzić baterię</string>
+  <string name="power_save_ps_freeze">Zamroź aplikacje w tle</string>
+  <string name="power_save_ps_limit">Ogranicz aktywność aplikacji systemowych</string>
 </resources>
