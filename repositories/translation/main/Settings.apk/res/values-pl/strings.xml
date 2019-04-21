@@ -6148,6 +6148,6 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usagestats_device_timeout_positive">Rozumiem</string>
   <string name="usagestats_device_timeout_title">Przekroczono limit czasu</string>
   <string name="wifi_protection_on">Wł.</string>
-  <string name="wifi_protection_settings_title">Ochrona Wi-Fi</string>
-  <string name="wifi_protection_tip">MIUI automatycznie włącza funkcję ochrony Wi-Fi. Gdy urządzenie skanuje sieć Wi-Fi, losowo generuje adres MAC, aby zapobiec atakom na urządzenie poprzez sieć.</string>
+  <string name="wifi_protection_settings_title">Ochrona przed żądaniami Wi-Fi</string>
+  <string name="wifi_protection_tip">MIUI będzie chronić Twoje dane przed żądaniami przychodzącymi z losowych adresów MAC i snifferów Wi-Fi podczas wyszukiwania sieci Wi-Fi przez Twoje urządzenie.</string>
 </resources>
