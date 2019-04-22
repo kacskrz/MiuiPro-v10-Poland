@@ -85,7 +85,7 @@
     <string name="month_view">Miesiąc</string>
     <string name="monthly">Co miesiąc</string>
     <string name="monthly_on_day">Co miesiąc</string>
-    <string name="monthly_on_day_count">Co miesiąc (w każdy %1$s %2$s)</string>
+    <string name="monthly_on_day_count">Co miesiąc (w każdy %1$s)</string>
     <string name="more_string">+%1$s</string>
     <string name="new_event_dialog_label">Nowe wydarzenie</string>
     <string name="new_event_dialog_option">Nowe wydarzenie</string>
@@ -507,4 +507,6 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="default_reminder_later_time">Okres czasu dla \"Później\"</string>
   <string name="next_alarm_time">Kolejne przypomnienie o %1$s</string>
   <string name="reminder_later">Później</string>
+  <string name="free_day_default_banner_title">Ciesz się - dziś wolne!</string>
+  <string name="work_day_default_banner_title">Miłego dnia w pracy!</string>
 </resources>

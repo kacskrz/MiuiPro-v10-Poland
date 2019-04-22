@@ -44,4 +44,5 @@
     <string name="avast_virus_type_trjan_description">Typ wirusa: trojan. To złośliwe oprogramowanie zaprojektowane tak, aby umożliwić nieautoryzowany, zdalny dostęp do urządzenia użytkownika. Trojany zazwyczaj nie mają zdolność do replikowania się, tak jak wirusy; jednak mogą one spowodować zainstalowanie innego złośliwego oprogramowania na urządzeniu, kradzież różnych danych lub inne szkodliwe działania.</string>
     <string name="avast_virus_type_unknown_description">Nieznany typ infekcji.</string>
     <string name="avast_virus_type_worm_description">Typ wirusa: robak. Jest to samodzielne złośliwe oprogramowanie, które powiela się w celu przeniesienia się na inne urządzenia. Korzysta z funkcji przesyłania plików lub informacji w systemie (np. sieci), może podróżować bez wiedzy człowieka. Robaki prawie zawsze powodują co najmniej zakłócenia w sieci.</string>
+    <string name="common_ids_permission_label">Ogólne uprawnienia Avast</string>
 </resources>

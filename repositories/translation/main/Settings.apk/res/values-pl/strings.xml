@@ -3492,7 +3492,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="reset_network_data">Dane mobilne</string>
   <string name="reset_network_desc">\"To działanie spowoduje zresetowanie wszystkich ustawień sieciowych, takich jak:\n\n\"&lt;li&gt;Wi‑Fi&lt;/li&gt;\"\n\"&lt;li&gt;Dane komórkowe&lt;/li&gt;\"\n\"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Zresetuj ustawienia</string>
-  <string name="reset_network_final_desc">Zresetować wszystkie ustawienia sieciowe? Tego działania nie można cofnąć.</string>
+  <string name="reset_network_final_desc">Zresetować wszystkie ustawienia sieciowe? To może potrwać kilka sekund. Tego działania nie można cofnąć.</string>
   <string name="reset_network_title">Resetowanie ustawień sieciowych</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_second_space_passwd">Resetuj hasło do Drugiej przestrzeni</string>
