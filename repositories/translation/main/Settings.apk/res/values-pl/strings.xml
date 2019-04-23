@@ -6150,4 +6150,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="wifi_protection_on">Wł.</string>
   <string name="wifi_protection_settings_title">Ochrona przed żądaniami Wi-Fi</string>
   <string name="wifi_protection_tip">MIUI będzie chronić Twoje dane przed żądaniami przychodzącymi z losowych adresów MAC i snifferów Wi-Fi podczas wyszukiwania sieci Wi-Fi przez Twoje urządzenie.</string>
+  <string name="dc_light_title">Ograniczenie migotania</string>
+  <string name="dc_light_summary">Zastosuj ściemnianie DC, aby zmniejszyć zmęczenie oczu</string>
+  <string name="dc_light_dialog_summary">Jakość obrazu może zostać obniżona, gdy włączone jest Ograniczenie migotania. Włączyć ten tryb mimo to?</string>
 </resources>

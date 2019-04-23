@@ -510,7 +510,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Pamięć</string>
   <string name="select_all">Zaznacz wszystko</string>
-  <string name="agreement_and_privacy">Umowa Użytkownika i Polityka Prywatności</string>
+  <string name="agreement_and_privacy">Polityka prywatności i Umowa użytkownika</string>
   <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz się na nie zalogujesz.</string>
-  <string name="scan_barcode">Zeskanuj kod QR</string>
+  <string name="scan_barcode">Zeskanuj kod QR, aby się zalogować</string>
 </resources>
