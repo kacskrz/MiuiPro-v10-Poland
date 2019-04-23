@@ -1780,4 +1780,6 @@
   <string name="face_data_manage_unlock_liftcamera_msg">Po wybudzeniu ekranu przesuń w górę, aby odblokować urządzenie za pomocą danych twarzy.</string>
   <string name="face_unlock_fail_retry_global">Kliknij powyżej, aby użyć Odblokowania twarzą</string>
   <string name="battery_low_button_not_open_power_save">Nie teraz</string>
+  <string name="notification_channel_dnd">Nie przeszkadzać</string>
+  <string name="dnd_notification_warnings_title">Dopóki nie wyłączysz trybu Nie przeszkadzać, połączenia i powiadomienia będą wyciszane</string>
 </resources>

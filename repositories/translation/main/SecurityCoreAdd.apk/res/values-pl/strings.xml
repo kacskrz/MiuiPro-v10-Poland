@@ -451,4 +451,6 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
   <string name="undo_grant_dialog_message">Xiaomi zaprzestanie gromadzenia informacji wymaganych do działania tej funkcji  (IMEI, ID urządzenia, wersja systemu, region itd.) po odwołaniu autoryzacji. Odwołać ją teraz?</string>
   <string name="undo_privacy_menu">Odwołaj autoryzację</string>
   <string name="undo_success">Pomyślnie odwołano</string>
+  <string name="dual_animation">Animacja uruchamiania</string>
+  <string name="dual_animation_description">Pokaż animację, gdy uruchamiane są sklonowane aplikacje</string>
 </resources>
