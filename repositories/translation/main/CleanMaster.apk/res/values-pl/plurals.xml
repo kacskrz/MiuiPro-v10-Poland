@@ -67,10 +67,10 @@
         <item quantity="many">Czyszczenie niepotrzebnych danych dla %d aplikacji</item>
     </plurals>
     <plurals name="deepclean_app_summary">
-        <item quantity="other">Możesz usunąć te aplikacje (%d zainstalowanych)</item>
-        <item quantity="one">Możesz usunąć tę aplikację (%d zainstalowana)</item>
-        <item quantity="few">Możesz usunąć te aplikacje (%d zainstalowane)</item>
-        <item quantity="many">Możesz usunąć te aplikacje (%d zainstalowanych)</item>
+        <item quantity="other">"Rzadko używanych aplikacji: %d. 
+Możesz usunąć te, których nie potrzebujesz."</item>
+        <item quantity="one">"Rzadko używanych aplikacji: %d. 
+Możesz ją usunąć."</item>
     </plurals>
     <plurals name="deepclean_large_summary">
         <item quantity="other">Możesz usunąć niepotrzebne, duże pliki (%d)</item>
