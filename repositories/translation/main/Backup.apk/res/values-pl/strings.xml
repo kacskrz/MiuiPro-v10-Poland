@@ -246,6 +246,7 @@
   <string name="password">Hasło</string>
   <string name="password_null">Hasło nie może być puste</string>
   <string name="pause">Pauza</string>
+  <string name="phone_title">Ustawienia telefonu</string>
   <string name="platform_chooser_item_android">Importuj z urządzenia z Androidem</string>
   <string name="platform_chooser_item_ios">Importuj z urządzenia z iOS</string>
   <string name="platform_chooser_title">Wybierz stare urządzenie</string>

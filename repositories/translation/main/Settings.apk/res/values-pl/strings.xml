@@ -6090,8 +6090,8 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="notification_fold_footer_icon_title">Pokazuj ikony aplikacji</string>
   <string name="usage_state_app_timer">Czas przed ekranem</string>
   <string name="usage_state_app_usage_detail_title">Szczegóły dot. aplikacji</string>
-  <string name="usage_state_app_usage_list_title">"Dzisiaj używane aplikacje"</string>
-  <string name="usage_state_app_usage_list_week_title">"Używane aplikacje (ost. tydzień)"</string>
+  <string name="usage_state_app_usage_list_title">"Korzystanie z aplikacji"</string>
+  <string name="usage_state_app_usage_list_week_title">"Korzystanie z aplikacji"</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Użytkowanie pomiędzy %d:00 a %d:00</string>
   <string name="usage_state_app_use_time">Czas aplikacji na ekranie</string>
   <string name="usage_state_channel_mouth">30 dni</string>
@@ -6153,4 +6153,13 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="dc_light_title">Ograniczenie migotania</string>
   <string name="dc_light_summary">Zastosuj ściemnianie DC, aby zmniejszyć zmęczenie oczu</string>
   <string name="dc_light_dialog_summary">Jakość obrazu może zostać obniżona, gdy włączone jest Ograniczenie migotania. Włączyć ten tryb mimo to?</string>
+  <string name="choose_keyguard_clock_style">Styl zegara na ekranie blokady</string>
+  <string name="choose_keyguard_clock_summary">"To ustawienie działa tylko z systemowymi motywami"</string>
+  <string name="choose_unlock_face_msg">Ustaw blokadę ekranu przed dodaniem danych twarzy.</string>
+  <string name="choose_unlock_fingerprint_msg">Ustaw blokadę ekranu przed dodaniem odcisku palca.</string>
+  <string name="miui_lab_gesture_title">Gesty pełnoekranowe</string>
+  <string name="miui_lab_gesture_desc">Wyłącz fizyczne przyciski i korzystaj z gestów</string>
+  <string name="search_ambient_display_screen_title">Ekran zgodny z otoczeniem</string>
+  <string name="search_doze_always_on_title">Zawsze włączony</string>
+  <string name="usage_state_date">d MMM</string>
 </resources>

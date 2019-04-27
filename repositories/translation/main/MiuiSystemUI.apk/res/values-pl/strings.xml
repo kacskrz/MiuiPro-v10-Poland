@@ -398,6 +398,9 @@
   <string name="China_Mobile">China Mobile</string>
   <string name="China_Telecom">China Telecom</string>
   <string name="China_Unicom">China Unicom</string>
+  <string name="choose_clock_title_left_top">Do lewej</string>
+  <string name="choose_clock_title_middle">Pośrodku</string>
+  <string name="choose_clock_title_vertical">Pionowo</string>
   <string name="choose_profile">Wybierz profil</string>
   <string name="chooseUsbActivity">Wybierz aplikację dla urządzenia USB</string>
   <string name="clear_adb_keys">Unieważnij autoryzacje debugowania USB</string>

@@ -21,6 +21,7 @@
   <string name="chooseFile">Wybierz inne pliki</string>
   <string name="click_to_back_first_space">Dotknij, aby przejść do pierwszej przestrzeni</string>
   <string name="click_to_switch">Dotknij, aby zobaczyć</string>
+  <string name="close_kid_space_success">Usunięto Przestrzeń dla dziecka</string>
   <string name="close_second_space">Usunięto Drugą przestrzeń</string>
   <string name="close_second_space_success">Usunięto Drugą przestrzeń</string>
   <string name="closed">Wył.</string>
@@ -453,4 +454,5 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
   <string name="undo_success">Pomyślnie odwołano</string>
   <string name="dual_animation">Animacja uruchamiania</string>
   <string name="dual_animation_description">Pokaż animację, gdy uruchamiane są sklonowane aplikacje</string>
+  <string name="kid_mode_label">Przestrzeń dla dziecka</string>
 </resources>

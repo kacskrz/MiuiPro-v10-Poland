@@ -218,4 +218,5 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
    <string name="title_restore_with_current_network">Używanie obecnego połączenia do pobrania plików</string>
    <string name="provision_background_restore_more_data">Przywracaj więcej elementów w tle</string>
    <string name="provision_restore_data">Przywracanie elementów</string>
+   <string name="hint_restore_cross_space">Układ pulpitu może być wyświetlany niepoprawnie, jeśli przenosisz elementy pomiędzy przestrzeniami.</string>
 </resources>
