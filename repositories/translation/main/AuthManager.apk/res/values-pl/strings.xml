@@ -100,4 +100,6 @@
     <string name="never_ask_again">Nie pytaj ponownie</string>
     <string name="HIPS_Perm_UDevice_ID">Udostępnij część informacji o urządzeniu twórcom gier, aby pomóc im poprawić Twoje odczucia w grach. Czy zgadzasz się na to?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">udostępnij część informacji o urządzeniu twórcom gier, aby pomóc im poprawić Twoje odczucia w grach. Czy zgadzasz się na to?</string>
+    <string name="HIPS_Perm_deamon_notification">Stałe powiadomienia</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">pokazywanie stałych powiadomień</string>
 </resources>
