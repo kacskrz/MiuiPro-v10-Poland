@@ -824,4 +824,6 @@
   <string name="rcs_auto_resend_as_sms_remind_change">Zmień ustawienia</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">"Wiadomości większe niż 900B mogą zostać skonwertowane i wysłane jako SMS, gdy zasięg jest słaby. Kliknij przycisk \"Zmień ustawienia\", jeśli nie chcesz konwertować takich wiadomości."</string>
   <string name="rcs_auto_resend_as_sms_remind_title">Skonwertuj do SMS</string>
+  <string name="dialog_sim_locked_confirm">OK</string>
+  <string name="dialog_sim_locked_message">"Twoja karta SIM nie działa w pełni z tym telefonem, ponieważ nie jest zgodna z warunkami subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji na ten temat, skontaktuj się z centrum serwisowym Xiaomi lub sklepem, który sprzedał Ci produkty."</string>
 </resources>

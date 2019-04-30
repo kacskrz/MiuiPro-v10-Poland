@@ -509,4 +509,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="reminder_later">Później</string>
   <string name="free_day_default_banner_title">Ciesz się - dziś wolne!</string>
   <string name="work_day_default_banner_title">Miłego dnia w pracy!</string>
+  <string name="edit_event_custom_reminder_time_dup">Własne przypomnienie: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Własne przypomnienie</string>
+  <string name="event_reminder_custom">Własne</string>
 </resources>

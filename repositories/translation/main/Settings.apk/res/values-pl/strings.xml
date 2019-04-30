@@ -6103,8 +6103,8 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usage_state_hour_minute" formatted="false">%d godz. %d min</string>
   <string name="usage_state_less_one_minute">Mniej niż minutę</string>
   <string name="usage_state_monday">Pon</string>
-  <string name="usage_state_mourth_day">"'Użytkowanie w dniu' d MMM"</string>
-  <string name="usage_state_noti_mourth_day">"'Powiadomienia w dniu' d MMM"</string>
+  <string name="usage_state_mourth_day">Użytkowanie w dniu %s</string>
+  <string name="usage_state_noti_mourth_day">Powiadomienia w dniu %s</string>
   <string name="usage_state_notification">Zarządzaj powiadomieniami</string>
   <string name="usage_state_notification_manager">Zarządzaj powiadomieniami aplikacji</string>
   <string name="usage_state_remind_summary">Włącz, aby otrzymywać przypomnienia dot. limitów czasu na ekranie. Możesz ustawić różne limity dla dni roboczych oraz weekendów.</string>
@@ -6117,7 +6117,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usage_state_today">Dzisiaj</string>
   <string name="usage_state_today_total_text">Dziś używano przez</string>
   <string name="usage_state_tuesday">Wt</string>
-  <string name="usage_state_unlock_mourth_day">"'Odblokowania w dniu' d MMM"</string>
+  <string name="usage_state_unlock_mourth_day">Odblokowania w dniu %s</string>
   <string name="usage_state_usage_time">Limit czasu</string>
   <string name="usage_state_usage_time_remind">Ustaw limity korzystania z urządzenia</string>
   <string name="usage_state_use_time_remind_title">Limit korzystania z urządzenia</string>

@@ -1482,4 +1482,20 @@ aby spersonalizować Galerię"</string>
   <string name="screen_save_dialog_btn_delete">Usuń zrzut</string>
   <string name="screen_save_dialog_btn_save">Zapisz w Galerii</string>
   <string name="similar_keep_clear">Zachowaj najlepsze ujęcie</string>
+  <string name="ai_album_setting_key_word">Wyszukaj zdjęcia</string>
+  <string name="base_btn_cancel">Anuluj</string>
+  <string name="base_btn_download">Pobierz</string>
+  <string name="filter_category_sky">Niebo</string>
+  <string name="filter_sky_cloudy">Pochmurnie</string>
+  <string name="filter_sky_detect_forbidden_tips">"Nie można wykryć nieba"</string>
+  <string name="filter_sky_download_failed">"Nie udało się pobrać wtyczki. Sprawdź ustawienia sieciowe i spróbuj ponownie."</string>
+  <string name="filter_sky_download_finish">Pomyślnie pobrano wtyczkę</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"Jeśli nie jesteś połączony z siecią Wi-Fi, możesz użyć transmisji danych do pobrania wtyczki (%1$d MB), która pozwoli na zmianę nieba na Twoich zdjęciach."</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Pobierz wtyczkę</string>
+  <string name="filter_sky_dusk">Mgła</string>
+  <string name="filter_sky_glow">Poświata</string>
+  <string name="filter_sky_rainbow">Tęcza</string>
+  <string name="filter_sky_sunny">Słonecznie</string>
+  <string name="filter_sky_sunset">Zachód słońca</string>
+  <string name="trash_bin_key_word">Usunięte zdjęcia</string>
 </resources>

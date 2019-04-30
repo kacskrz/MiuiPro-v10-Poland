@@ -398,7 +398,7 @@
   <string name="China_Mobile">China Mobile</string>
   <string name="China_Telecom">China Telecom</string>
   <string name="China_Unicom">China Unicom</string>
-  <string name="choose_clock_title_left_top">Do lewej</string>
+  <string name="choose_clock_title_left_top">Po lewej</string>
   <string name="choose_clock_title_middle">Pośrodku</string>
   <string name="choose_clock_title_vertical">Pionowo</string>
   <string name="choose_profile">Wybierz profil</string>
@@ -1785,4 +1785,11 @@
   <string name="battery_low_button_not_open_power_save">Nie teraz</string>
   <string name="notification_channel_dnd">Nie przeszkadzać</string>
   <string name="dnd_notification_warnings_title">Włączony jest tryb Nie przeszkadzać. Połączenia i powiadomienia będą wyciszane.</string>
+  <string name="face_unlock_success_show_message_dialog_msg">Zezwól na wyświetlanie powiadomień na ekranie blokady.</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Nie, dzięki</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">Zezwól</string>
+  <string name="face_unlock_success_show_message_dialog_title">Powiadomienia na ekranie blokady</string>
+  <string name="face_unlock_success_show_message_msg">Pokaż szczegóły powiadomień na zablokowanym ekranie po weryfikacji danych twarzy</string>
+  <string name="face_unlock_success_show_message_title">Pokaż szczegóły powiadomień po zweryfikowaniu</string>
+  <string name="face_unlock_success_show_message_toast">Powiadomienia będą pokazywane na ekranie blokady</string>
 </resources>

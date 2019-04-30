@@ -148,4 +148,17 @@
         <item quantity="one">Następne przypomnienie za minutę</item>
         <item quantity="few">Następne przypomnienie za %1$d minuty</item>
     </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dni"</item>
+        <item quantity="one">" dzień"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" godzin"</item>
+        <item quantity="one">" godzina"</item>
+        <item quantity="few">" godziny"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
 </resources>

@@ -826,4 +826,7 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="mimoji_mouth_type">Typ ust</string>
   <string name="mimoji_nose">Nos</string>
   <string name="mimoji_earring">Kolczyki</string>
+  <string name="beauty_clear">Usuń</string>
+  <string name="beauty_clear_toast">Wyczyszczono efekt upiększania</string>
+  <string name="edit_hairline">Linia włosów</string>
 </resources>

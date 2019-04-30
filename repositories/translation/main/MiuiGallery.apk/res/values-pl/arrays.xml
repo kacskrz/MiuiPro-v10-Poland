@@ -150,4 +150,8 @@
         <item>Iść do przodu</item>
         <item>Pełen energii</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Skopiuj zdjęcia</item>
+        <item>Zsynchronizuj zdjęcia z Chmurą Xiaomi</item>
+    </string-array>
 </resources>

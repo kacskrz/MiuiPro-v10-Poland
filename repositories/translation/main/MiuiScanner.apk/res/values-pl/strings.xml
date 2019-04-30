@@ -256,4 +256,5 @@
   <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
   <string name="abc_toolbar_collapse_description">Zwiń</string>
   <string name="search_menu_title">Szukaj</string>
+  <string name="business_card_with_qr_code">Umieść wizytówkę bądź kod QR code wewnątrz ramki</string>
 </resources>
