@@ -6162,4 +6162,15 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="search_ambient_display_screen_title">Ekran zgodny z otoczeniem</string>
   <string name="search_doze_always_on_title">Zawsze włączony</string>
   <string name="usage_state_date">d MMM</string>
+  <string name="popup_led_title">Efekt wizualny</string>
+  <string name="popup_led_summary">Pokaż animację podczas wysuwania i zamykania przedniego aparatu</string>
+  <string name="popup_title">Efekty przedniego aparatu</string>
+  <string name="popup_title_chilun">Koło zębate</string>
+  <string name="popup_title_yingyan">Kondor</string>
+  <string name="popup_title_muqin">Ksylofon</string>
+  <string name="popup_title_cangmen">Drzwi szafy</string>
+  <string name="popup_title_mofa">Magia</string>
+  <string name="popup_title_jijia">Mecha</string>
+  <string name="popup_voice_title">Efekt dźwiękowy</string>
+  <string name="popup_voice_summary">Odtwórz dźwięk podczas wysuwania i zamykania przedniego aparatu</string>
 </resources>
