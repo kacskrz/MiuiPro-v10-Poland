@@ -6173,4 +6173,17 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="popup_title_jijia">Mecha</string>
   <string name="popup_voice_title">Efekt dźwiękowy</string>
   <string name="popup_voice_summary">Odtwórz dźwięk podczas wysuwania i zamykania przedniego aparatu</string>
+  <string name="backup_set_clear_success">Pomyślnie wyłączono hasło kopii</string>
+  <string name="backup_set_clear_title">Wyłącz hasło kopii</string>
+  <string name="backup_set_confirm">OK</string>
+  <string name="backup_set_confirm_clear">Wyłącz</string>
+  <string name="backup_set_enter_new_pw">Wpisz nowe hasło kopii</string>
+  <string name="backup_set_enter_new_pw_again">Potwierdź nowe hasło kopii</string>
+  <string name="backup_set_enter_old_pw">Wpisz stare hasło kopii</string>
+  <string name="backup_set_enter_pw_title">Wpisz hasło kopii</string>
+  <string name="backup_set_error_pw">Wprowadzone hasło jest nieprawidłowe</string>
+  <string name="backup_set_modify_title">Zmień hasło kopii</string>
+  <string name="backup_set_new_pw_title">Wpisz nowe hasło kopii</string>
+  <string name="backup_set_null_pw">Najpierw wpisz hasło</string>
+  <string name="backup_set_pw_confirm_title">Potwierdź nowe hasło kopii</string>
 </resources>
