@@ -6034,7 +6034,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="fold_title">Ważność powiadomień</string>
   <string name="function_description">O tej funkcji</string>
   <string name="game_booster">Gra;Gry;Turbo;Granie;Tryb grania</string>
-  <string name="gxzw_aod_show_summary">Ikona będzie wyświetlana na wyłączonym ekranie. Włączenie tej funkcji zwiększy zużycie baterii.</string>
+  <string name="gxzw_aod_show_summary">Podnieś urządzenie bądź dotknij ekranu, aby pojawiła się ikona odcisku palca. Włączenie tej funkcji zwiększy zużycie baterii.</string>
   <string name="gxzw_aod_show_tittle">Pokaż ikonę odcisku palca</string>
   <string name="importance_default">Wysoka</string>
   <string name="importance_high">Pilna</string>

@@ -19,8 +19,8 @@
   <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
   <string name="abc_toolbar_collapse_description">Zwiń</string>
   <string name="access_sd_fail">Nie udało się uzyskać dostępu do nośnika USB.</string>
-  <string name="accessibility_camera_lighting_close_panel">Zamknięto menu oświetlania</string>
-  <string name="accessibility_camera_lighting_open_panel">Otwarto menu oświetlania</string>
+  <string name="accessibility_camera_lighting_close_panel">Zamknięto menu efektów oświetlania</string>
+  <string name="accessibility_camera_lighting_open_panel">Otwarto menu efektów oświetlania</string>
   <string name="accessibility_camera_picker">Przednia/Tylna kamera</string>
   <string name="accessibility_portrait_button">Tryb portretowy</string>
   <string name="accessibility_review_thumbnail">Ostatnie zdjęcia</string>
@@ -546,7 +546,7 @@ w Trybie portretowym"</string>
 Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="close_back_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
   <string name="close_front_flash_toast">"Twoje urządzenie jest przegrzane. Nie można użyć lampy błyskowej."</string>
-  <string name="lighting_pattern_null">Nic</string>
+  <string name="lighting_pattern_null">Brak</string>
   <string name="ultra_wide_mode">Bardzo szeroki kąt</string>
   <string name="beauty_body">Ciało</string>
   <string name="beauty_body_body">Smukłość</string>
@@ -592,11 +592,11 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="live_sticker_fragment_tab_name">Naklejki TikTok</string>
   <string name="pref_camera_volumekey_function_entry_timer">Odliczanie migawki</string>
   <string name="accessibility_record_button">Przycisk nagrywania</string>
-  <string name="accessibility_camera_record_start">start nagrania</string>
-  <string name="accessibility_camera_record_stop">stop nagrania</string>
-  <string name="accessibility_video_capture_button">Przycisk do nagrywania wideo</string>
-  <string name="accessibility_video_pause_button">pauza</string>
-  <string name="accessibility_video_resume_button">kontynuuj nagranie</string>
+  <string name="accessibility_camera_record_start">Rozpoczęto nagrywanie wideo</string>
+  <string name="accessibility_camera_record_stop">Zatrzymano nagrywanie wideo</string>
+  <string name="accessibility_video_capture_button">Przycisk do robienia zdjęć w trakcie nagrywania wideo</string>
+  <string name="accessibility_video_pause_button">Wstrzymano nagrywanie wideo</string>
+  <string name="accessibility_video_resume_button">Wznowiono nagrywanie wideo</string>
   <string name="ai_scene_top_moon_off">Słabsze światło</string>
   <string name="live_speed_extreme_fast">Bardzo szybko</string>
   <string name="live_speed_extreme_slow">Bardzo wolno</string>
@@ -829,4 +829,16 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="beauty_clear">Usuń</string>
   <string name="beauty_clear_toast">Wyczyszczono efekt upiększania</string>
   <string name="edit_hairline">Linia włosów</string>
+  <string name="beauty_mode_reset_toast">Usunięto efekty modelowania</string>
+  <string name="eye_light">Oświetlenie oczu</string>
+  <string name="eye_light_angel">Anioł</string>
+  <string name="eye_light_comic">Komiczne</string>
+  <string name="eye_light_crescent">Półksiężyc</string>
+  <string name="eye_light_nature">Naturalne</string>
+  <string name="eye_light_off"/>
+  <string name="eye_light_rainbow">Tęcza</string>
+  <string name="eye_light_star">Gwiazdy</string>
+  <string name="eye_light_window">Okno</string>
+  <string name="hint_eye_light">Oświetlenie oczu działa najlepiej z włączoną lampą błyskową</string>
+  <string name="makeup_reset_toast">Usunięto efekty makijażu</string>
 </resources>
