@@ -829,7 +829,7 @@
   <string name="setting_btn_setting">Ustawienia</string>
   <string name="setting_cards_all_added">Dodano wszystkie karty</string>
   <string name="setting_cards_more">Więcej kart</string>
-  <string name="setting_common_private">Bezpieczeństwo i prywatność</string>
+  <string name="setting_common_private">Polityka prywatności</string>
   <string name="setting_dialog_cancel">Anuluj</string>
   <string name="setting_dialog_quit">Wyjdź</string>
   <string name="setting_dialog_title">Wszystkie zmiany zostaną utracone. Wyjść teraz?</string>
@@ -1064,13 +1064,14 @@
   <string name="miot_device_add_device">Dodaj urządzenie</string>
   <string name="miot_device_all_device">Wszystkie urządzenia</string>
   <string name="miot_device_cancel">Anuluj</string>
+  <string name="miot_device_card_title">Mi Home</string>
   <string name="miot_device_click_show_detail">Kliknij, aby dowiedzieć się więcej o smart-urządzeniach</string>
   <string name="miot_device_click_show_img">Kliknij, aby zobaczyć obraz</string>
-  <string name="miot_device_cta_and"> i </string>
+  <string name="miot_device_cta_and">" i "</string>
   <string name="miot_device_cta_message">Dodaj swoje urządzenia, aby je kontrolować. Kliknij przycisk Autoryzuj, by zgodzić się na </string>
   <string name="miot_device_edit">Edytuj</string>
   <string name="miot_device_empty_device_hint">Dodaj urządzenia takie jak oczyszczacze powietrza, kamery czy odkurzacze, aby je łatwiej kontrolować</string>
-  <string name="miot_device_empty_text">Dodaj oczyszczacze powietrza, kamery czy odkurzacze, aby nimi zarządzać.</string>
+  <string name="miot_device_empty_text">"Dodaj oczyszczacze powietrza, kamery czy odkurzacze, aby nimi zarządzać. "</string>
   <string name="miot_device_hide_frame_toast">Ukryj obraz</string>
   <string name="miot_device_install_mijia">Pobierz</string>
   <string name="miot_device_introduction">Szybsza kontrola smart-urządzeń (odśwież Asystenta, aby zobaczyć)</string>
@@ -1104,7 +1105,7 @@
   <string name="app_suggest_detail_setting_summary">Sugestie aplikacji będą oparte na danych o Twoim użytkowaniu</string>
   <string name="app_suggest_detail_setting_title">Zezwól na dostęp do stanu aplikacji</string>
   <string name="app_suggest_setting_brief">Pokaż ostatnio używane aplikacje</string>
-  <string name="app_suggest_setting_brief_detail">Sugestie aplikacji będą oparte na danych o Twoim użytkowaniu</string>
+  <string name="app_suggest_setting_brief_detail">"Sugestie aplikacji będą oparte na danych o Twoim użytkowaniu. "</string>
   <string name="app_suggest_setting_title">Sugestie aplikacji</string>
   <string name="miot_cta_dialog_title">Udziel autoryzacji</string>
   <string name="miot_del_dialog_cancel">Anuluj</string>
@@ -1112,6 +1113,6 @@
   <string name="miot_delete_dialog_content">"W razie potrzeby możesz przywrócić kartę Mi Home w ustawieniach Asystenta."</string>
   <string name="miot_delete_dialog_title">Usuwanie karty Mi Home</string>
   <string name="miot_device_edit_device">Zmień układ urządzeń</string>
-  <string name="miot_device_cta_priv">Politykę prywatności.</string>
-  <string name="miot_device_cta_use_info">Umowę użytkownika Mi Home</string>
+  <string name="miot_device_cta_priv">Polityka prywatności.</string>
+  <string name="miot_device_cta_use_info">Umowa użytkownika Mi Home</string>
 </resources>
