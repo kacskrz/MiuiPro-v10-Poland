@@ -35,13 +35,6 @@
         <item>Na 30 minut</item> 
         <item>Na godzinę</item> 
     </string-array> 
-	<string-array name="battery_indicator_style_entries"> 
-        <item>Graficznie</item> 
-        <item>Procentowo i graficznie</item> 
-        <item>Liniowo</item> 
-        <item>Tylko procentowo</item> 
-        <item>Wyłącz</item> 
-    </string-array> 
 	<string-array name="ios_toggle_entries"> 
         <item>Domyślnie</item> 
         <item>Styl iOS</item> 
@@ -216,5 +209,9 @@
         <item>Procentowo bez ikony</item>
         <item>Liniowo</item>
         <item>Nie pokazuj</item>
+    </string-array>
+	<string-array name="battery_percent_style_entries">
+		<item>Za ikoną (po prawej stronie)</item>
+        <item>Przed ikoną (po lewej stronie)</item>
     </string-array>
 </resources>

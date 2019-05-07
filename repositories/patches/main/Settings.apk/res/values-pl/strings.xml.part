@@ -216,4 +216,5 @@
   <string name="other_size_title">Ustawienia rozmiaru czcionki</string>
   <string name="set_clock_size_title">Rozmiar zegara</string>
   <string name="set_battery_size_title">Procent baterii</string>
+  <string name="battery_percent_title">Pozycja procenta</string>
 </resources>
