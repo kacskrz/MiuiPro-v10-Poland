@@ -29,4 +29,23 @@
         <item quantity="one">Znaleziono %1$d aplikację</item>
         <item quantity="few">Znaleziono %1$d aplikacje</item>
     </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f punktów</item>
+        <item quantity="one">%1$.1f punkt</item>
+        <item quantity="few">%1$.1f punkty</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s dzwonków</item>
+        <item quantity="one">%1$s dzwonek</item>
+        <item quantity="few">%1$s dzwonki</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">"Będzie można wypróbować \"%2$s\" za darmo za %1$d godz."</item>
+        <item quantity="one">"Będzie można wypróbować \"%2$s\" za darmo za %1$d godz."</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3-dniowa wersja próbna (pozostało dzisiaj %1$d elementów)</item>
+        <item quantity="one">3-dniowa wersja próbna (pozostał dzisiaj %1$d element)</item>
+        <item quantity="few">3-dniowa wersja próbna (pozostały dzisiaj %1$d elementy)</item>
+    </plurals>
 </resources>

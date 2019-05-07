@@ -79,6 +79,7 @@
   <string name="confirm_restore_message">Przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć domyślne</string>
   <string name="dialog_ok">OK</string>
+  <string name="dialog_ok_time">OK (%ds)</string>
   <string name="do_not_remind_me">Nie pokazuj ponownie</string>
   <string name="dual_camera_lens_covered_toast">Obiektyw jest zakryty.</string>
   <string name="dual_camera_lowlight_toast">Wygląda na to, że jest zbyt ciemno.</string>

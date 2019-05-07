@@ -1018,7 +1018,7 @@
   <string name="notification_low_battery_action_btn">Włącz</string>
   <string name="notification_low_battery_need_charge">Niski poziom baterii. Doładuj swoje urządzenie.</string>
   <string name="notification_low_battery_open_save_mode">Włącz oszczędzanie baterii</string>
-  <string name="notification_low_battery_title">Niski poziom baterii: %d%%</string>
+  <string name="notification_low_battery_title">Pozostało mniej niż %d%% baterii</string>
   <string name="notification_manager">Zarządzaj powiadomieniami</string>
   <string name="notification_manager_des">Filtruj i zarządzaj powiadomieniami</string>
   <string name="notification_menu_filter_description">Nieważne powiadomienia</string>

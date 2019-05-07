@@ -1311,4 +1311,9 @@
         <item>24-godzinny (13:00)</item>
         <item>Automatyczny (zależny od języka)</item>
     </string-array>
+    <string-array name="drip_battery_indicator_style_entries">
+        <item>Słupkowy</item>
+        <item>Procentowy (w ikonie)</item>
+        <item>Procentowy (obok ikony)</item>
+    </string-array>
 </resources>

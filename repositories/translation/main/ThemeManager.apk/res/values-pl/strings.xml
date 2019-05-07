@@ -47,6 +47,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="apply_font_btn_reboot">Zrestartuj</string>
   <string name="apply_font_tip">Zrestartuj urządzenie aby użyć czcionki z tego motywu.</string>
   <string name="apply_theme_with_ringtones">Zastosuj motywy z dzwonkami</string>
+  <string name="audition_ringtone">Odtwórz</string>
   <string name="audio_duration_minutes_format">%1$d min</string>
   <string name="audio_duration_seconds_format">%1$d s</string>
   <string name="automatically_update_using_theme_tips">Aktualizuj automatycznie następnym razem</string>
@@ -74,6 +75,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="component_title_ringtone">Dzwonki</string>
   <string name="component_title_video_wallpaper">Tapety z efektami specjalnymi</string>
   <string name="component_title_wallpaper">Tapety</string>
+  <string name="count_down_tip">Pozostało %ds</string>
   <string name="current_using_desktop_wallpaper_text">Ekran główny</string>
   <string name="current_using_lockscreen_wallpaper_text">Ekran blokady</string>
   <string name="current_version_incompatible">Motyw nie jest kompatybilny</string>
@@ -163,6 +165,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="item_resource_audio_optional_phone_ring">Dzwonek</string>
   <string name="live_wallpaper">Animowane</string>
   <string name="lab">Funkcje w fazie testów</string>
+  <string name="like_list">Polubione elementy</string>
   <string name="loading">Chwileczkę…</string>
   <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu</string>
   <string name="loading_resource_detail_info">Chwileczkę…</string>
@@ -579,6 +582,13 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="transparent_wallpaper_white_wallpaper_failed">"Nie można ustawić białego tła"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Ustawiono białe tło</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Przezroczyste tapety wyglądają najlepiej na białym tle</string>
+  <string name="trial_count_empty">Nie masz już darmowych elementów na dzisiaj. Do zobaczenia jutro!</string>
+  <string name="trial_count_tip">Okres próbny kończy się za %1$s:%2$s:%3$s</string>
+  <string name="trial_for_free">Wersja próbna</string>
+  <string name="trial_get_failed_tip">Obejrz te wideo, aby uzyskać motyw.</string>
+  <string name="trial_get_success_tip">"Gratulacje! Otrzymałeś 3-dniowy okres próbny."</string>
+  <string name="trial_now">Wypróbuj teraz</string>
+  <string name="try_5_min">Wypróbuj przez 5 minut</string>
   <string name="uid_change_dialog_message">Usunięto aktualizacje. Uruchom ponownie urządzenie, aby móc używać motywów.</string>
   <string name="uid_change_dialog_ok">Rozumiem</string>
   <string name="uid_change_dialog_title">Uruchom ponownie</string>
@@ -587,6 +597,11 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="using_theme_has_update_tips">Dostępna jest aktualizacja dla tego motywu.</string>
   <string name="using_theme_next_automatic_update">Automatyczne aktualizacje</string>
   <string name="using_theme_next_automatic_update_summary">Aktualizuj automatycznie pobrane motywy przez Wi-Fi, gdy ekran jest zablokowany</string>
+  <string name="video_ad_click">Wypróbuj teraz</string>
+  <string name="video_ad_try_for_free">Wersja próbna</string>
+  <string name="video_ad_uncomplete_tip">Obejrz te wideo, aby uzyskać motyw.</string>
+  <string name="video_ad_uncomplete_tip_cancel">Anuluj</string>
+  <string name="video_ad_uncomplete_tip_continue">Oglądaj</string>
   <string name="video_apply_home">Ekran główny</string>
   <string name="video_apply_home_lock">Ekran główny i ekran blokady</string>
   <string name="video_audio_apply_success">Pomyślnie skonfigurowano wideo z dźwiękiem</string>
