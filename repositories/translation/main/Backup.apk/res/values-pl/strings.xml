@@ -615,4 +615,7 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="waiting">Chwileczkę…</string>
   <string name="err_no_gms">Niekompatybilna wersja - zainstaluj aplikację oddzielnie</string>
   <string name="trans_detail_item_app_data_skip_data">"Nie można przenieść danych aplikacji"</string>
+  <string name="dialog_app_upgrade_message">Dostępna jest nowa wersja Przenoszenia danych. Zaktualizować aplikację teraz?</string>
+  <string name="dialog_app_upgrade_exit">Nie</string>
+  <string name="dialog_app_upgrade_download">Tak</string>
 </resources>

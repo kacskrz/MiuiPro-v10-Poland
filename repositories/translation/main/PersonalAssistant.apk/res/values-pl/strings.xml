@@ -50,7 +50,7 @@
   <string name="assistant_day_deadline">Last day</string>
   <string name="assistant_place">Rozpoznawaj najczęstsze miejsca</string>
   <string name="assistant_summary">Get useful suggestions right when you need them</string>
-  <string name="authorize_button">Allow</string>
+  <string name="authorize_button">Zezwól</string>
   <string name="authorize_fav_tip">Add favorites from other apps here.</string>
   <string name="ball_add_fav_team">Dodaj drużyny</string>
   <string name="ball_basket_rank_win_or_lose">Won/Lost</string>

@@ -478,7 +478,7 @@
   <string name="user_agree">Zgadzam się</string>
   <string name="user_agreement2">Warunki użytkowania</string>
   <string name="user_agreement4">Politykę Prywatności</string>
-  <string name="user_notice_identify_summary_format">Korzystając z tej usługi, zgadzasz się na %1$s i %2$s od Xiaomi. Czy zgadzasz się na połączenie z siecią?</string>
+  <string name="user_notice_identify_summary_format">Przed użyciem Aparatu musisz zaakceptować warunki <a href="http://www.miui.com/res/doc/eula.html?lang=pl_PL">Umowy użytkownika</a> i <a href="http://www.miui.com/res/doc/privacy.html?lang=pl_PL">Polityki prywatności</a> Xiaomi. Aplikacja wymaga także dostępu do Internetu. Wyrażasz zgodę?</string>
   <string name="user_notice_title">Zgoda na łączenie się z siecia</string>
   <string name="video_camera_label">Kamera</string>
   <string name="video_effect_entry_blackwhite">Czarno-Biały</string>
@@ -590,7 +590,7 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="change_bgm">Zmień ścieżkę dźwiękową</string>
   <string name="hot_music">Gorące utwory</string>
   <string name="local_music">Muzyka z telefonu</string>
-  <string name="live_sticker_fragment_tab_name">Naklejki TikTok</string>
+  <string name="live_sticker_fragment_tab_name">Efekty TikTok</string>
   <string name="pref_camera_volumekey_function_entry_timer">Odliczanie migawki</string>
   <string name="accessibility_record_button">Przycisk nagrywania</string>
   <string name="accessibility_camera_record_start">Rozpoczęto nagrywanie wideo</string>

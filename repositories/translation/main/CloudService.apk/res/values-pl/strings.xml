@@ -604,8 +604,8 @@
   <string name="member_entrance_title_ultra_high_case_b">Odnowienie</string>
   <string name="member_entrance_title_ultra_low_case_a">Odnowienie</string>
   <string name="member_entrance_title_ultra_low_case_b">Odnowienie</string>
-  <string name="micloud_main_sync_mode_summary">Większość elementów zostanie zsynchronizowana, gdy ekran będzie wyłączony, a telefon podłączony do ładowarki.</string>
-  <string name="micloud_main_sync_mode_title">Oszczędzaj baterię</string>
+  <string name="micloud_main_sync_mode_summary">Gdy ta opcja jest włączona, elementy powyżej będą synchronizowane w czasie rzeczywistym (zwiększy to zużycie baterii).</string>
+  <string name="micloud_main_sync_mode_title">Synchronizuj w czasie rzeczywistym</string>
   <string name="micloud_manaul_sync_success_button_text">Szczegóły</string>
   <string name="micloud_manaul_sync_success_title">Zsynchronizowano</string>
   <string name="micloud_manual_activating">Aktywacja…</string>

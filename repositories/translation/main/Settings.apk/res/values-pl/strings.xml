@@ -6158,7 +6158,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="choose_unlock_face_msg">Ustaw blokadę ekranu przed dodaniem danych twarzy.</string>
   <string name="choose_unlock_fingerprint_msg">Ustaw blokadę ekranu przed dodaniem odcisku palca.</string>
   <string name="miui_lab_gesture_title">Gesty pełnoekranowe</string>
-  <string name="miui_lab_gesture_desc">Wyłącz fizyczne przyciski i korzystaj z gestów</string>
+  <string name="miui_lab_gesture_desc">Używaj gestów zamiast przycisków do nawigacji</string>
   <string name="search_ambient_display_screen_title">Ekran zgodny z otoczeniem</string>
   <string name="search_doze_always_on_title">Zawsze włączony</string>
   <string name="usage_state_date">d MMM</string>
@@ -6186,4 +6186,6 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="backup_set_new_pw_title">Wpisz nowe hasło kopii</string>
   <string name="backup_set_null_pw">Najpierw wpisz hasło</string>
   <string name="backup_set_pw_confirm_title">Potwierdź nowe hasło kopii</string>
+  <string name="search_add_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
+  <string name="search_manage_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
 </resources>
