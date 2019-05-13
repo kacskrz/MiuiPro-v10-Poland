@@ -1492,7 +1492,7 @@ aby spersonalizować Galerię"</string>
   <string name="filter_sky_download_finish">Pomyślnie pobrano wtyczkę</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">"Jeśli nie jesteś połączony z siecią Wi-Fi, możesz użyć transmisji danych do pobrania wtyczki (%1$d MB), która pozwoli na zmianę nieba na Twoich zdjęciach."</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Pobierz wtyczkę</string>
-  <string name="filter_sky_dusk">Mgła</string>
+  <string name="filter_sky_dusk">Wschód słońca</string>
   <string name="filter_sky_glow">Poświata</string>
   <string name="filter_sky_rainbow">Tęcza</string>
   <string name="filter_sky_sunny">Słonecznie</string>

@@ -6188,4 +6188,5 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="backup_set_pw_confirm_title">Potwierdź nowe hasło kopii</string>
   <string name="search_add_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
   <string name="search_manage_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
+  <string name="dc_light_summary_new">Ściemnianie DC ogranicza męczenie się oczu w słabych warunkach oświetleniowych. Gdy ta funkcja jest włączona, jakość obrazu może się pogorszyć.</string>
 </resources>
