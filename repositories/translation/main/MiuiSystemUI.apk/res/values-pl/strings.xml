@@ -1792,4 +1792,9 @@
   <string name="face_unlock_success_show_message_msg">Pokaż szczegóły powiadomień na zablokowanym ekranie po weryfikacji danych twarzy</string>
   <string name="face_unlock_success_show_message_title">Pokaż szczegóły powiadomień po zweryfikowaniu</string>
   <string name="face_unlock_success_show_message_toast">Powiadomienia będą pokazywane na ekranie blokady</string>
+  <string name="keyguard_charging_normal_and_level_tip">Ładowanie %d%%</string>
+  <string name="keyguard_charging_quick_and_level_tip">Szybkie ładowanie %d%%</string>
+  <string name="keyguard_charging_super_quick_and_level_tip">Superszybkie ładowanie %d%%</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Więcej</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Enter</string>
 </resources>

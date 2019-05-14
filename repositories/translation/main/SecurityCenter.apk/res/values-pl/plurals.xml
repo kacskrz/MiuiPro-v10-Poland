@@ -544,4 +544,9 @@
         <item quantity="one">Znaleziono %d zagrożenie. Napraw je</item>
         <item quantity="few">Znaleziono %d zagrożenia. Napraw je</item>
     </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d funkcji</item>
+        <item quantity="one">%d funkcja</item>
+        <item quantity="few">%d funkcje</item>
+    </plurals>
 </resources>

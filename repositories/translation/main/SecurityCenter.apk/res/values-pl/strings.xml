@@ -752,7 +752,7 @@
   <string name="free_time_traffic_title">Wpisz użycie danych</string>
   <string name="free_traffic_settings">Włącz użycie danych w nocy</string>
   <string name="function_close">Wyłączony</string>
-  <string name="function_shield_summary">Ogranicz autom. jasność, gesty zrzutu ekranu i Tryb czytania</string>
+  <string name="function_shield_summary">Ogranicz wybrane funkcje systemu w trakcie grania</string>
   <string name="function_shield_title">Ulepszenie doświadczeń</string>
   <string name="fw_blocked">Lista blokowanych</string>
   <string name="fw_blocked_count">"Zablokowano "</string>
@@ -2561,4 +2561,13 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="power_save_ps_close_setting">Wyłącz usługi w tle (synchronizacja, GPS), aby zaoszczędzić baterię</string>
   <string name="power_save_ps_freeze">Zamroź aplikacje w tle</string>
   <string name="power_save_ps_limit">Ogranicz aktywność aplikacji systemowych</string>
+  <string name="choose_gs_show_way">Wybierz orientację strony głównej</string>
+  <string name="function_shield_auto_bright">Wyłącz autom. jasność</string>
+  <string name="function_shield_eye_shield">Wyłącz tryb czytania</string>
+  <string name="function_shield_pull_notification_bar">"Nie otwieraj panelu powiadomień"</string>
+  <string name="function_shield_settings_title">Ogranicz następujące funkcje w trakcie grania</string>
+  <string name="function_shield_three_finger">Ogranicz gesty zrzutu ekranu</string>
+  <string name="gs_show_way">Orientacja strony głównej</string>
+  <string name="gs_show_way_horizontal">Pozioma</string>
+  <string name="gs_show_way_vertical">Pionowa</string>
 </resources>
