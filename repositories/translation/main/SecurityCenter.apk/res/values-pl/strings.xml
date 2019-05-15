@@ -2309,8 +2309,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="privacy_apps_enable_summary">Przenieś aplikacje do ukrytego folderu i usuń ich skróty na Ekranie głównym</string>
     <string name="privacy_apps_manage">Zarządzaj ukrytymi aplikacjami</string>
     <string name="privacy_apps_tutorial">Tutorial</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Po ukryciu aplikacji jest ona przenoszona do ukrytego folderu, a jej skrót na Ekranie głównym zostaje ukryty.
-Ta funkcja nie wspiera aplikacji systemowych."</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">Ta funkcja pozwala Ci na ukrywanie ikon aplikacji - nie będą one widoczne na pulpicie.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Rozłóż dwa palce na ekranie. Zobaczysz komunikat z prośbą o podanie hasła do blokady aplikacji."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Po wprowadzeniu hasła pojawi się folder z ukrytymi aplikacjami.</string>
     <string name="privacy_apps_manage_dialog_title">O Ukrytych aplikacjach</string>

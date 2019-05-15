@@ -489,7 +489,7 @@
   <string name="video_reach_size_limit">Osiągnięto limit rozmiaru</string>
   <string name="wait">Chwileczkę…</string>
    <string name="portait_effect_entry_movie">Film</string>
-  <string name="portait_effect_entry_riddle">Zagadka</string>
+  <string name="portait_effect_entry_riddle">Słodycze</string>
   <string name="portait_effect_entry_story">Opowieść</string>
   <string name="ai_scene_mode_use_hint_text">"Aparat SI automatycznie wykrywa scenerię i optymalizuje Twoje zdjęcia na podstawie tych informacji"</string>  
   <string name="pref_camera_ai_scene_title">Aparat SI</string>

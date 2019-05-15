@@ -207,4 +207,6 @@
   <string name="popup_camera_using_camera_background">Aplikacja %s używa przedniego aparatu</string>
   <string name="stop_operate_camera_frequently">"Otwierasz przedni aparat zbyt często."</string>
   <string name="takeback_camera_front_failed">"Nie można zamknąć przedniego aparatu. Spróbuj ponownie."</string>
+  <string name="sim_lock_non_ais_msg">"Karta SIM nie działa w pełni z tym urządzeniem, ponieważ nie jest zgodna z warunkami użytkowania Twojej subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji w tej sprawie, skontaktuj się z biurem obsługi klienta Xiaomi lub sklepem, w którym zakupiłeś produkt."</string>
+  <string name="sim_lock_now_ais_title">SIM %1$d</string>
 </resources>
