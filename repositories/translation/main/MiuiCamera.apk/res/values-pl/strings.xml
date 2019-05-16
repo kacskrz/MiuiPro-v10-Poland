@@ -870,4 +870,5 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="eye_light_window">Okno</string>
   <string name="hint_eye_light">Oświetlenie oczu działa najlepiej z włączoną lampą błyskową</string>
   <string name="makeup_reset_toast">Usunięto efekty makijażu</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Wypróbuj tryb bardzo szerokiego kąta (0.6X)</string>
 </resources>

@@ -2569,4 +2569,13 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gs_show_way">Orientacja strony głównej</string>
   <string name="gs_show_way_horizontal">Pozioma</string>
   <string name="gs_show_way_vertical">Pionowa</string>
+  <string name="notification_battery_scan_consume_abnormal_title_set">%s drenuje baterię</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Kliknij, aby rozwiązać ten problem</string>
+  <string name="pc_abnormal_scan_reason_prevent_standby">Zapobiega przejściu systemu w tryb uśpienia</string>
+  <string name="pc_abnormal_scan_reason_scan_wifi">Zbyt często szuka Wi-Fi</string>
+  <string name="pc_abnormal_scan_reason_use_GPS">Zbyt często używa usług lokalizacji</string>
+  <string name="pc_abnormal_scan_reason_runtime_exception">Nietypowo się uruchamia</string>
+  <string name="pc_abnormal_scan_reason_wake_system">Zbyt często wybudza system</string>
+  <string name="pc_abnormal_scan_reason_reconnect">Zbyt często próbuje się połączyć z siecią</string>
+  <string name="pc_abnormal_scan_button_text">Zamknij aplikacje</string>
 </resources>

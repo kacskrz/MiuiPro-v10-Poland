@@ -549,4 +549,14 @@
         <item quantity="one">%d funkcja</item>
         <item quantity="few">%d funkcje</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d aplikacji, np. %1$s, drenuje baterię</item>
+        <item quantity="one">%2$d aplikacja (%1$s) drenuje baterię</item>
+        <item quantity="few">%2$d aplikacje, np. %1$s, drenują baterię</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d aplikacji drenuje baterię</item>
+        <item quantity="one">%d aplikacja drenuje baterię</item>
+        <item quantity="few">%d aplikacje drenują baterię</item>
+    </plurals>
 </resources>
