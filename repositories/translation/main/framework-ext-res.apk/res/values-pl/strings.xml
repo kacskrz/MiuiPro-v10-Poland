@@ -209,4 +209,6 @@
   <string name="takeback_camera_front_failed">"Nie można zamknąć przedniego aparatu. Spróbuj ponownie."</string>
   <string name="sim_lock_non_ais_msg">"Karta SIM nie działa w pełni z tym urządzeniem, ponieważ nie jest zgodna z warunkami użytkowania Twojej subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji w tej sprawie, skontaktuj się z biurem obsługi klienta Xiaomi lub sklepem, w którym zakupiłeś produkt."</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
+  <string name="voice_assistant_tips">Zaktualizowano system o możliwość przytrzymania przycisku Zasilania w celu uruchomienia Asystenta</string>
+  <string name="popup_camera_front_when_use">Aplikacja Aparatu musi otworzyć przedni aparat jeszcze raz. Zrobić to teraz?</string>
 </resources>

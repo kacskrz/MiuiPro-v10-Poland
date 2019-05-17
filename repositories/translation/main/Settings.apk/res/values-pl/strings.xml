@@ -6189,4 +6189,24 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="search_add_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
   <string name="search_manage_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
   <string name="dc_light_summary_new">Ściemnianie DC ogranicza męczenie się oczu w słabych warunkach oświetleniowych. Gdy ta funkcja jest włączona, jakość obrazu może się pogorszyć.</string>
+  <string name="color_led_applications_title">Wybierz aplikacje</string>
+  <string name="color_led_applications_title_summary">Możesz ograniczyć używanie diody dla poszczególnych aplikacji</string>
+  <string name="color_led_battery_title">Świeć w trakcie ładowania</string>
+  <string name="color_led_end_time">Czas zakończenia</string>
+  <string name="color_led_game_mode_title">Tryb Game Turbo</string>
+  <string name="color_led_hint">Wybierz scenariusze, w których powinna być używana dioda powiadomień. Będzie ona świecić, gdy ekran jest skierowany w dół, a tryb Nie przeszkadzać jest wyłączony.</string>
+  <string name="color_led_incall_pulse_title">Mrugaj przy przychodzących połączeniach</string>
+  <string name="color_led_lucky_dialog_title">Włącz asystenta Czerwonej koperty</string>
+  <string name="color_led_lucky_dialog_message">Ta funkcja wymaga użycia asystenta Czerwonej koperty. Włączyć go teraz?</string>
+  <string name="color_led_music_mode_title">Muzyka</string>
+  <string name="color_led_music_mode_summary">Generuj efekty świetlne w rytm odtwarzanej muzyki</string>
+  <string name="color_led_notification_pulse_title">Mrugaj dla powiadomień</string>
+  <string name="color_led_red_more_feature">Efekty specjalne</string>
+  <string name="color_led_red_package_title">Czerwona koperta</string>
+  <string name="color_led_start_time">Czas rozpoczęcia</string>
+  <string name="color_led_title">Dioda powiadomień</string>
+  <string name="long_press_power_key">Przytrzymanie przycisku Zasilania</string>
+  <string name="long_press_power_key_tips"><Data>Przytrzymanie przycisku Zasilania &lt;font color=#999999>Szybciej i wygodniej&lt;/font></Data></string>
+  <string name="toggle_auto_speaker_preference_summary">Urządzenie będzie przełączało się na głośnik, gdy w trakcie połączenia oddalisz telefon od ucha. Funkcja działa tylko wtedy, gdy włączony jest TalkBack.</string>
+  <string name="toggle_auto_speaker_preference_title">Przełącz na głośnik</string>
 </resources>

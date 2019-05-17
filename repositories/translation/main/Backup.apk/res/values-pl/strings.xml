@@ -618,4 +618,8 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="dialog_app_upgrade_message">Dostępna jest nowa wersja Przenoszenia danych. Zaktualizować aplikację teraz?</string>
   <string name="dialog_app_upgrade_exit">Nie</string>
   <string name="dialog_app_upgrade_download">Tak</string>
+  <string name="dialog_backup_password_backup_tips">"Nie można wykonać kopii zapasowej elementów, gdy włączone jest hasło kopii zapasowej. Wyłącz je."</string>
+  <string name="dialog_backup_password_cancel">Anuluj</string>
+  <string name="dialog_backup_password_change_machine_tips">"Nie będziesz w stanie przesłać kopii zabezpieczonych hasłem. Wyłącz hasło kopii zapasowej przed użyciem Przenoszenia danych."</string>
+  <string name="dialog_backup_password_to_settings">Ustawienia</string>
 </resources>

@@ -114,4 +114,5 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="skip_gesture_guide_dialog_message">Upewnij się, że wiesz, jak używać gestów przed wybraniem tej opcji.</string>
   <string name="skip_gesture_guide_dialog_negative_btn">Anuluj</string>
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+  <string name="terms_of_use_label_updater">, Aktualizacje</string>
 </resources>

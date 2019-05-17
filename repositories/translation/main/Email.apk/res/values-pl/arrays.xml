@@ -51,6 +51,10 @@
         <item>Starsza wiadomość</item>
         <item>Odebranych</item>
     </string-array>
+	<string-array name="prefEntries_contact_add">
+		<item>Wszystkie</item>
+		<item>Tylko nadawcy</item>
+	</string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adres:</item>
         <item>Tel.:</item>

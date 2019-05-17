@@ -232,8 +232,8 @@
   <string name="switchDesc">Przełącz</string>
   <string name="tab_title_calculator">Kalkulator</string>
   <string name="tab_title_convert">Konwerter</string>
-  <string name="tab_title_tax_mortgage">Zadłużenie</string>
-  <string name="tab_title_tax_mortgage_global">Zadłużenie</string>
+  <string name="tab_title_tax_mortgage">Raty</string>
+  <string name="tab_title_tax_mortgage_global">Raty</string>
   <string name="tan">tan</string>
   <string name="tan_mathematical_value">tan</string>
   <string name="tanDesc">tangens</string>
