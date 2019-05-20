@@ -78,7 +78,7 @@
     <string name="account_setup_check_settings_check_incoming_msg">Weryfikacja ustawień serwera…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Weryfikacja ustawień SMTP…</string>
     <string name="account_setup_check_settings_retr_info_msg">Pobieranie informacji o koncie…</string>
-    <string name="account_setup_correct_address_tips">Wpisz adres e-mail</string>
+    <string name="account_setup_correct_address_tips">Wpisany adres e-mail jest nieprawidłowy.</string>
     <string name="account_setup_creating_account_msg">"    Tworzenie konta…"</string>
     <string name="account_setup_deleting_account_msg">"    Usuwanie konta…"</string>
     <string name="account_setup_exchange_certificate_title">Certyfikat klienta</string>
@@ -162,7 +162,7 @@
     <string name="add_account_keywords">Dodaj konto;dodaj konto pocztowe</string>
     <string name="add_attachment">Dodaj załącznik</string>
     <string name="add_calendar">Przypomnij</string>
-    <string name="add_file_exception">Dodaj wyjątek. Spróbuj go dodać z innych ścieżek.</string>
+    <string name="add_file_exception">Nie udało się dodać załącznika. Spróbuj go dodać z innej ścieżki.</string>
     <string name="add_label">Dodaj folder</string>
     <string name="add_pre_message_attachments">Dodać załączniki do szkicu?</string>
     <string name="add_pre_message_attachments_no">Nie dodawaj</string>
@@ -499,7 +499,7 @@ dla:
     <string name="invalid_recipient_title">Błąd odbiorcy</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
-    <string name="list_empty_to_fresh">Brak maili, spróbuj odświeżyć menu.</string>
+    <string name="list_empty_to_fresh">Nie ma jeszcze żadnych maili.</string>
     <string name="load_from_remote">Szukaj na serwerze</string>
     <string name="load_more">Wczytaj więcej</string>
     <string name="loading_conversation">Wczytywanie…</string>
@@ -669,7 +669,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="notification_action_undo_remove_label">Usunięto etykietę</string>
     <string name="notification_exchange_calendar_added">Dodano kalendarz Exchange</string>
     <string name="notify_channel_new_mail">Nowe wiadomości</string>
-    <string name="notify_channel_permission_notice">Uprawnienie do przypominania o powiadomieniach</string>
+    <string name="notify_channel_permission_notice">Wymagane uprawnienia</string>
     <string name="notify_channel_send_fail">Niedostarczenie wiadomości</string>
     <string name="oauth_error_description">Nie udało się autoryzować</string>
     <string name="oauth_gmail_login_notify">Wprowadź swoją nazwę użytkownika konta Google i hasło na następnej stronie logowania.</string>
@@ -981,7 +981,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="tap_to_enable_sync">Dotknij, aby włączyć.</string>
     <string name="to">Do</string>
     <string name="to_heading">"Do: "</string>
-    <string name="toast_bar_fail_synchronization">Nie można połączyć z siecią</string>
+    <string name="toast_bar_fail_synchronization">"Nie można uzyskać dostępu do serwera. Odczekaj minutę lub dwie i spróbuj ponownie."</string>
     <string name="toast_bar_insufficient_memory_space">Nie można odebrać wiadomości e-mail. Za mało miejsca.</string>
     <string name="toast_bar_invalid_account">Informacje o koncie wygasły. Dotknij, aby zalogować się ponownie.</string>
     <string name="toast_bar_no_connection_network">Brak połączenia z siecią</string>
@@ -1089,20 +1089,20 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="mail_search_lab">pasek wyszukiwania</string>
   <string name="notify_channel_service">Synchronizacja w tle</string>
   <string name="notify_channel_no_disterb">Tryb Nie przeszkadzać</string>
-  <string name="appraise_des">Ciężko pracujemy nad projektowaniem naszych produktów, aby Cię zadowolić. Oceń je w komentarzu.</string>
-  <string name="appraise_good">Pozytywnie</string>
-  <string name="appraise_ignore">Tymczasowa ocena</string>
-  <string name="appraise_negative">Negatywnie</string>
-  <string name="have_auth_code">Zaloguj się kodem</string>
-  <string name="privacy_des">"Log zawiera informacje dla programistów przekazane przez aplikację Poczty oraz dane o urządzeniu w celu zlokalizowania Twojego problemu. Wybranie \"%1$s\" oznacza, że przeczytałeś i zaakceptowałeś 《%2$s》"</string>
+  <string name="appraise_des">Czy lubisz naszą aplikację?</string>
+  <string name="appraise_good">Tak</string>
+  <string name="appraise_ignore">Nie teraz</string>
+  <string name="appraise_negative">Nie</string>
+  <string name="have_auth_code">Mam kod</string>
+  <string name="privacy_des">"Log zawiera informacje dla programistów przekazane przez aplikację Poczty oraz dane o urządzeniu w celu zlokalizowania Twojego problemu. Wybranie \"%1$s\" oznacza, że przeczytałeś i zaakceptowałeś \"%2$s\"."</string>
   <string name="folder_empty_to_fresh">"Poczta nie jest zsynchronizowana. Przesuń w dół, aby to zrobić."</string>
   <string name="folder_no_mails">Brak maili w tym folderze</string>
-  <string name="wipe_account_fail_description_remind">Ze względu na uprawnienia do pamięci po usunięciu konta w kalendarzu i kontaktach mogą zostać jeszcze pewne dane. Należy je usunąć ręcznie.</string>
+  <string name="wipe_account_fail_description_remind">Ze względu na ograniczenia dot. użycia danych po usunięciu konta w Kalendarzu i Kontaktach mogą zostać jeszcze pewne dane. Usuń je ręcznie.</string>
   <string name="attachment_opening_mode">Aplikacje dla załączników</string>
   <string name="default_opening_attchemnt_mode">Otwieraj załączniki za pomocą domyślnych aplikacji</string>
   <string name="update_domain_summary">Zaktualizuj listę dostępnych domen i konfiguracji</string>
   <string name="update_domain_title">Zaktualizuj ustawienia domeny</string>
-  <string name="toast_bar_sync_failed_mi_authority">"Nie udało się zsynchronizować. Odczekaj minutę lub dwie i spróbuj ponownie.\n(Jeśli używasz niezautoryzowanego urządzenia, połącz się z Intranetem bądź użyj kodu weryfikacyjnego.)"</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Nie udało się zsynchronizować. Odczekaj minutę lub dwie i spróbuj ponownie. Jeśli używasz niezautoryzowanego urządzenia, połącz się z Intranetem bądź użyj kodu weryfikacyjnego."</string>
   <string name="sync_failed_mi_authority_view_detail">Zobacz szczegóły</string>
   <string name="login_qq_psw">Zaloguj się za pomocą hasła QQ/aplikacji do identyfikacji/kodu weryfikacyjnego</string>
   <string name="get_oauth_code">Uzyskaj kod</string>
@@ -1116,4 +1116,10 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="no_search_results">Nie znaleziono wyników</string>
   <string name="no_more_mail">Nie ma więcej wiadomości</string>
   <string name="remote_search_body_too_large_prompt">"Ten e-mail jest za długi.\nPoczekaj, aż skrzynka zostanie w pełni zsynchronizowana lub zobacz tą wiadomość na swoim komputerze."</string>
+  <string name="add_account_search">Dodaj konto</string>
+  <string name="delete_contact_content">Usunąć ten kontakt?</string>
+  <string name="recommend_protocal">Rekomendowany protokół</string>
+  <string name="remote_no_mail">"Nie ma więcej maili na serwerze."</string>
+  <string name="login_err_message">Wpisane hasło jest nieprawidłowe. Być może do zalogowania się będzie potrzebny kod weryfikacyjny. Jeśli chcesz zresetować swoje hasło, odwiedź stronę https://email.163.com/, aby sprawdzić, jak możesz tego dokonać.</string>
+  <string name="wait_while_update_db">Trwa aktualizacja bazy danych. Poczekaj chwilę!</string>
 </resources>

@@ -349,4 +349,8 @@
         <item quantity="one">%1$d plik</item>
         <item quantity="few">%1$d pliki</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Kolaże mogą zawierać od 1 do %d zdjęć</item>
+        <item quantity="one">Kolaże mogą zawierać tylko %d zdjęcie</item>
+    </plurals>
 </resources>

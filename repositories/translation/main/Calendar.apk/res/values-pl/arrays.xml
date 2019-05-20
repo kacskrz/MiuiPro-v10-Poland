@@ -332,6 +332,7 @@
         <item>10 minut</item>
         <item>15 minut</item>
         <item>30 minut</item>
+		<item>1 godzina</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
         <item>pierwszy poniedziałek</item>
@@ -369,5 +370,13 @@
         <item>ostatni piątek</item>
         <item>ostatnia sobota</item>
         <item>ostatnia niedziela</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Tylko tym razem</item>
+        <item>Wyłącz powtarzanie</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Tylko tym razem</item>
+        <item>Włącz powtarzanie</item>
     </string-array>
 </resources>

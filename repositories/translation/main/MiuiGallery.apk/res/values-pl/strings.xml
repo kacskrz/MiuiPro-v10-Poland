@@ -1498,4 +1498,7 @@ aby spersonalizować Galerię"</string>
   <string name="filter_sky_sunny">Słonecznie</string>
   <string name="filter_sky_sunset">Zachód słońca</string>
   <string name="trash_bin_key_word">Usunięte zdjęcia</string>
+  <string name="clear_dup_medias">Usuń duplikaty</string>
+  <string name="clear_dup_success">Pomyślnie usunięto</string>
+  <string name="clear_dup_tip">Usuwanie duplikatów</string>
 </resources>

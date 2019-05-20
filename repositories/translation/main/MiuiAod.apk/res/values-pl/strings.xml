@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+	<string name="abc_action_bar_up_description">Przejdź wyżej</string>
+	<string name="abc_action_menu_overflow_description">Więcej opcji</string>
+	<string name="abc_action_mode_done">Gotowe</string>
+	<string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+	<string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+	<string name="abc_capital_off">WYŁ.</string>
+	<string name="abc_capital_on">WŁ.</string>
+	<string name="abc_search_hint">Szukaj…</string>
+	<string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+	<string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+	<string name="abc_searchview_description_search">Szukaj</string>
+	<string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+	<string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+	<string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+	<string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_battery_level">Bateria %d procent.</string>
+    <string name="accessibility_battery_level_charging">Ładowanie baterii, %d procent.</string>
+    <string name="aod_close_color_inversion">"Ta funkcja nie działa razem z inwersją kolorów. Wyłącz inwersję kolorów, aby móc używać tej funkcji."</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_style">Styl i tło zegara</string>
+    <string name="aod_mode_summary">Ta funkcja zwiększa zużycie baterii. Będzie ona wyłączona, gdy urządzenie nie jest używane przez dłuższy czas lub kiedy włączone jest Oszczędzanie baterii.</string>
+    <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Zawsze włączony</string>
+    <string name="aod_mode_time_title">Zaplanowane</string>
+    <string name="aod_mode_title">Zawsze włączony</string>
+    <string name="aod_to_close">Wyłącz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="paper_mode_end_time_title">Wyłącz</string>
+    <string name="paper_mode_start_time_title">Włącz</string>
+    <string name="search_menu_title">Szukaj</string>
+</resources>
