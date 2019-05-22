@@ -249,4 +249,5 @@
   <string name="life_post_setting_open_desc">Pokaż prognozę pogody na ekranie blokady (w godz. 4:00-10:00) po wyłączeniu budzika</string>
   <string name="personal_recommend">Spersonalizowane rekomendacje</string>
   <string name="user_agreement">Umowa użytkownika</string>
+  <string name="update_notification_info">Aktualizacja danych w tle…</string>
 </resources>

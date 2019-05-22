@@ -800,7 +800,7 @@
   <string name="gamebox_immersion_tips_title">Uwaga</string>
   <string name="gamebox_immerson_open">"Włączanie trybu Poza siecią. Nie przełączaj sieci…"</string>
   <string name="gamebox_qq_not_find">Install QQ and try again.</string>
-  <string name="gamebox_recent_task_expand_fail">"Aplikacje, które działają ze skrótami, nie są zainstalowane"</string>
+  <string name="gamebox_recent_task_expand_fail">"Aplikacje, które działają ze skrótami, nie są zainstalowane bądź uruchomione"</string>
   <string name="gamebox_simcard">Przełącz karty SIM</string>
   <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
   <string name="gamebox_wifi">Wi-Fi</string>
