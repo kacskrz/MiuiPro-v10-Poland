@@ -622,4 +622,6 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="dialog_backup_password_cancel">Anuluj</string>
   <string name="dialog_backup_password_change_machine_tips">"Nie będziesz w stanie przesłać kopii zabezpieczonych hasłem. Wyłącz hasło kopii zapasowej przed użyciem Przenoszenia danych."</string>
   <string name="dialog_backup_password_to_settings">Ustawienia</string>
+  <string name="gallery_summary">Ustawienia Galerii (bez zdjęć)</string>
+  <string name="user_feedback">Opinia</string>
 </resources>

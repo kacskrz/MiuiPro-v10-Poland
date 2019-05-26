@@ -513,4 +513,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="agreement_and_privacy">Dokumenty prawne</string>
   <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz się na nie zalogujesz.</string>
   <string name="scan_barcode">Zeskanuj kod QR</string>
+  <string name="passport_wx_bind_account_limit">"Nie można teraz utworzyć konta. Spróbuj się zalogować za pomocą innej metody."</string>
 </resources>

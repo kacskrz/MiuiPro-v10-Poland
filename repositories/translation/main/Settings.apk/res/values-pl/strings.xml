@@ -817,7 +817,8 @@
   <string name="bluetooth_unlock_change_device_confirm_msg">Poprzednio powiązane urządzenie zostanie zastąpione nowym</string>
   <string name="bluetooth_unlock_change_matched_device">Wybierz inne urządzenie</string>
   <string name="bluetooth_unlock_confirm_device_text">Dotknij urządzenia Bluetooth, aby potwierdzić.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Dotknij przycisku na zegarku, aby odblokować.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Potwierdź na opasce.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Potwierdź na zegarku.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Dotknij przycisku na urządzeniu, aby odblokować.</string>
   <string name="bluetooth_unlock_delete_device">Usuń urządzenie</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Usunąć to urządzenie?</string>
@@ -6209,4 +6210,5 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="long_press_power_key_tips"><Data>Przytrzymanie przycisku Zasilania &lt;font color=#999999>Szybciej i wygodniej&lt;/font></Data></string>
   <string name="toggle_auto_speaker_preference_summary">Urządzenie będzie przełączało się na głośnik, gdy w trakcie połączenia oddalisz telefon od ucha. Funkcja działa tylko wtedy, gdy włączony jest TalkBack.</string>
   <string name="toggle_auto_speaker_preference_title">Przełącz na głośnik</string>
+  <string name="miui_touch_filtered_touchassistant_warning">Monit dot. uprawnień jest zasłaniany przez Asystenta dotyku. Przenieś go poza obszar tego monitu lub wyłącz tą funkcję.</string>
 </resources>
