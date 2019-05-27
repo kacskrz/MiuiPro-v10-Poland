@@ -539,4 +539,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="setting_daysoff_update_schedule">Aktualizowanie…</string>
   <string name="setting_daysoff_update_success">Pomyślnie zaktualizowano</string>
   <string name="talk_back_tab_switch">Przełącz pomiędzy widokami</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI będzie identyfikować automatycznie, które wydarzenia są najistotniejsze</string>
+  <string name="preferences_popup_alert_smart_tips">"Zastąp tradycyjne powiadomienia alertami pop-up, aby uniknąć przegapienia istotnych wydarzeń. Alerty te nie będą wyskakiwać podczas grania czy oglądania wideo na pełnym ekranie."</string>
+  <string name="preferences_popup_alert_title">Wyskakujące alerty</string>
 </resources>

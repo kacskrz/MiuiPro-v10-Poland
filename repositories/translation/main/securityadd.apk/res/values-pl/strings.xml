@@ -38,4 +38,14 @@
     <string name="ad_downloading">Pobieranie…</string>
 	<string name="dual_app_title">Klonowanie aplikacji</string>
 	<string name="dual_app_words">Twórz szybko i łatwo dwie wersje danej aplikacji</string>
+    <string name="dialog_market_score_cancel">Anuluj</string>
+    <string name="dialog_market_score_dislike">Skomentuj</string>
+    <string name="dialog_market_score_like">5 gwiazdek!</string>
+    <string name="dialog_market_score_positive_button">Skomentuj</string>
+    <string name="dialog_market_score_submit">Wyślij</string>
+    <string name="dialog_market_score_subtitle_step1">Dotknij gwiazdek, aby ocenić tą aplikację</string>
+    <string name="dialog_market_score_subtitle_step2">Możesz także zostawić komentarz.</string>
+    <string name="dialog_market_score_subtitle_step3">Oceń tą aplikację</string>
+    <string name="dialog_market_score_title_step1_format">Czy lubisz \"%s\"?</string>
+    <string name="dialog_market_score_title_step2">Dziękujemy za twoją opinię!</string>
 </resources>

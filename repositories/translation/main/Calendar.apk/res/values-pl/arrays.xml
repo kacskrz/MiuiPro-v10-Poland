@@ -379,4 +379,9 @@
         <item>Tylko tym razem</item>
         <item>Włącz powtarzanie</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Wyłączone</item>
+        <item>Dla wszystkich wydarzeń</item>
+        <item>Dla najistotniejszych wydarzeń</item>
+    </string-array>
 </resources>

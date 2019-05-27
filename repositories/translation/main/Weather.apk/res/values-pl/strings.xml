@@ -250,6 +250,8 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="share_weather_desc">Moja pogoda w: %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Nie można wykonać zrzutu"</string>
+  <string name="shortcut_short_label_24_hour_forecast">24-godzinna prognoza</string>
+  <string name="shortcut_short_label_recent_forecast">Sprawdź pogodę</string>
   <string name="some_where_on_earth">Gdzieś na Ziemi</string>
   <string name="sunrise">Wschód</string>
   <string name="sunset">Zachód</string>
