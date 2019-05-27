@@ -3614,6 +3614,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="screen_paper_mode_global_summary">Użyj trybu czytania w każdej aplikacji</string>
   <string name="screen_paper_mode_global_title">Wszystkie aplikacje</string>
   <string name="screen_paper_mode_hdr_toast">Tryb czytania będzie wyłączony, gdy oglądasz filmy HDR. Zostanie on automatycznie włączony, gdy zakończysz odtwarzanie.</string>
+  <string name="screen_paper_mode_hdr_toast_new">Wspomaganie czytania będzie wyłączane w trakcie oglądania filmów z obsługą HDR oraz weryfikacji odciskiem palca. Po wykonaniu jednej z tych akcji zostanie on ponownie włączony.</string>
   <string name="screen_paper_mode_local_summary">Użyj trybu czytania w wybranych aplikacjach</string>
   <string name="screen_paper_mode_local_title">Wybrane aplikacje</string>
   <string name="screen_paper_mode_off_apps_title">Nie używaj trybu czytania dla wybranych aplikacji</string>
