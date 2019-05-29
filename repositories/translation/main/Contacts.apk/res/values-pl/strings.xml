@@ -1242,4 +1242,9 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="contacts_default_notification_channel">Powiadomienia</string>
 	<string name="confirm_call_log_dial_summary">Pytaj, czy wybrać numer po dotknięciu na liście historii połączeń</string>
 	<string name="confirm_call_log_dial_title">Potwierdź wybieranie numeru</string>
+	<string name="menu_share_qrcode">Kod QR</string>
+	<string name="menu_share_text">Tekst</string>
+	<string name="menu_share_vcard_file">Plik</string>
+	<string name="share_contact_as">Wyślij kontakt jako</string>
+	<string name="share_qrcode">Wyślij kod QR</string>
 </resources>

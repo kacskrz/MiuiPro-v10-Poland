@@ -131,7 +131,7 @@
   <string name="app_manager_app_storage">"Przestrzeń: "</string>
   <string name="app_manager_app_traffic">"Użycie danych: "</string>
   <string name="app_manager_app_update">Aktualizacje</string>
-  <string name="app_manager_app_version_name">Wersja:</string>
+  <string name="app_manager_app_version_name">"Wersja: "</string>
   <string name="app_manager_appupdate_remind">Powiadom o aktualizacjach</string>
   <string name="app_manager_as_dlg_msg">Zezwolenie na autostart aplikacji może wymagać zapotrzebowania na pamięć RAM i zasoby baterii. Zezwolić mimo to?</string>
   <string name="app_manager_as_dlg_title">Powiadomienie</string>
@@ -1069,7 +1069,7 @@
   <string name="managed_user_title">Pracujące aplikacje</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Użycie danych</string>
-  <string name="manual_item_white_list_summary">Aplikacje z wyjątków nie będą sprawdzane</string>
+  <string name="manual_item_white_list_summary">Elementy z wyjątków nie będą sprawdzane</string>
   <string name="manual_item_white_list_title">Wyjątki</string>
   <string name="mark_agent">Zablokuj zgłoszone jako agencje</string>
   <string name="mark_agent_block">Zgłoszone jako agencje</string>

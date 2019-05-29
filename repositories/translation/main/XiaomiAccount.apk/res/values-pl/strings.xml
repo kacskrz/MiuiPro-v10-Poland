@@ -2,7 +2,7 @@
 <resources>
     <string name="passport_account_label">Konto Xiaomi</string>
     <string name="passport_notification_title">Błąd logowania dla %1$s</string>
-    <string name="passport_login_prompt">Jedno konto Xiaomi, Wszystkie usługi.</string>
+    <string name="passport_login_prompt">Wszystkie usługi. Jedno konto Xiaomi.</string>
     <string name="passport_login_using_other_ways">Inne sposoby logowania</string>
     <string name="passport_login_title">Zaloguj się na konto Xiaomi</string>
     <string name="passport_login">Zaloguj</string>

@@ -5890,13 +5890,13 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="slider_global_summary_selfie">Przesuń ekran w dół, aby zrobić selfie</string>
   <string name="slider_tool_none_summary">Nie przypisano skrótu slidera</string>
   <string name="status_bar_settings_notification_style">Styl powiadomień</string>
-  <string name="allow_device_id_access">Aplikacje z dostępem do ID urządzenia</string>
-  <string name="device_id">ID urządzenia</string>
+  <string name="allow_device_id_access">Wybierz aplikacje, które mogą uzyskiwać ID urządzenia</string>
+  <string name="device_id">ID urządzenia (spersonalizowane propozycje)</string>
   <string name="pref_show_lunar_calendar_title">Pokaż chiński kalendarz na ekranie blokady</string>
-  <string name="restore_device_id_content">Zresetuj rekomendacje</string>
-  <string name="restore_device_id_title">Przywróć ID urządzenia</string>
-  <string name="restore_dialog_content">Przywrócenie ID urządzenia spowoduje zresetowanie spersonalizowanych propozycji.</string>
-  <string name="restore_dialog_positive">Przywróć</string>
+  <string name="restore_device_id_content">Rekomendacje zostaną zresetowane</string>
+  <string name="restore_device_id_title">Zresetuj ID urządzenia</string>
+  <string name="restore_dialog_content">Zresetowanie ID urządzenia spowoduje zresetowanie spersonalizowanych propozycji. Dokonać resetu teraz?</string>
+  <string name="restore_dialog_positive">Zresetuj</string>
   <string name="restore_dialog_title">Uwaga</string>
   <string name="status_bar_settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
   <string name="call_records_summary_1">9:35 | 26 sekund | China Unicom</string>
@@ -6212,4 +6212,9 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="toggle_auto_speaker_preference_summary">Urządzenie będzie przełączało się na głośnik, gdy w trakcie połączenia oddalisz telefon od ucha. Funkcja działa tylko wtedy, gdy włączony jest TalkBack.</string>
   <string name="toggle_auto_speaker_preference_title">Przełącz na głośnik</string>
   <string name="miui_touch_filtered_touchassistant_warning">Monit dot. uprawnień jest zasłaniany przez Asystenta dotyku. Przenieś go poza obszar tego monitu lub wyłącz tą funkcję.</string>
+  <string name="allow_oaid_used">Zezwól na używanie ID urządzenia</string>
+  <string name="device_oaid">ID urządzenia</string>
+  <string name="restore_oaid_content">Zresetowanie ID urządzenia wygeneruje nowy identyfikator.</string>
+  <string name="restore_oaid_positive">Zresetuj</string>
+  <string name="restore_oaid_title">Zresetuj ID urządzenia</string>
 </resources>
