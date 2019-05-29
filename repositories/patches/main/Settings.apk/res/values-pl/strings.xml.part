@@ -217,4 +217,5 @@
   <string name="set_clock_size_title">Rozmiar zegara</string>
   <string name="set_battery_size_title">Procent baterii</string>
   <string name="battery_percent_title">Pozycja procenta</string>
+  <string name="no_sim_title">Ukryj ikonę \"Brak karty SIM\"</string>
 </resources>
