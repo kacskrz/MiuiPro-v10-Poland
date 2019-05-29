@@ -600,7 +600,7 @@ Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="confirm_exit_link_title">Przerwanie przenoszenia</string>
   <string name="connect_soft_ap_label">Łączenie z nowym urządzeniem…</string>
   <string name="old_soft_name">Połącz za pomocą kodu QR</string>
-  <string name="old_way">Możesz połączyć urządzenia także za pomocą kodu QR. Kliknij, aby go wygenerować.</string>
+  <string name="old_way">Możesz także wygenerować kod QR na nowym urządzeniu i zeskanować go, używając starego urządzenia.</string>
   <string name="recreate_soft_ap_tips">Kliknij przycisk poniżej, aby spróbować ponownie.</string>
   <string name="scan_soft_ap">Wyszukiwanie nowego urządzenia…</string>
   <string name="scan_soft_ap_label">Połącz się ze starym urządzeniem</string>
@@ -610,7 +610,8 @@ Zwolnij miejsce albo przenieś tylko najważniejsze rzeczy."</string>
   <string name="trans_intro_desc_gms">"Ze względu na duże prawdopodobieństwo nieudanego przeniesienia (problemy z kompatybilnością), Przenoszenie danych nie wspiera danych aplikacji Google."</string>
   <string name="trans_intro_question_10">"%d. Nie możesz odnaleźć hotspotu na starym urządzeniu?"</string>
   <string name="trans_intro_title_gms">Dane aplikacji od firmy Google:</string>
-  <string name="wait_link">"Połącz swoje stare urządzenie z tym hotspotem.
+  <string name="wait_link">"Włącz Przenoszenie danych na starym urządzeniu,
+kliknij \"Jestem nadawcą\" i wybierz hotspot, aby się połączyć.
 Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</string>
   <string name="waiting">Chwileczkę…</string>
   <string name="err_no_gms">Niekompatybilna wersja - zainstaluj aplikację oddzielnie</string>
