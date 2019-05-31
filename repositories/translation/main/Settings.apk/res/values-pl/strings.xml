@@ -6217,4 +6217,9 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="restore_oaid_content">Zresetowanie ID urządzenia wygeneruje nowy identyfikator.</string>
   <string name="restore_oaid_positive">Zresetuj</string>
   <string name="restore_oaid_title">Zresetuj ID urządzenia</string>
+  <string name="backup_set_new_continue">Kontynuuj</string>
+  <string name="backup_set_new_exit">Wyjdź</string>
+  <string name="backup_set_new_pw_confirm_hint">Informacja</string>
+  <string name="backup_set_new_pw_confirm_summary">Twoje elementy są teraz kopiowane w ramach kopii zapasowej. Utworzenie hasła kopii zapasowej zatrzyma tworzenie automatycznych kopii zapasowych. Kontynuować mimo to?</string>
+  <string name="device_miui_version_parameters">Wersja MIUI</string>
 </resources>

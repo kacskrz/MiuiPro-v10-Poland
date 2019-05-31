@@ -625,4 +625,5 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="dialog_backup_password_to_settings">Ustawienia</string>
   <string name="gallery_summary">Ustawienia Galerii (bez zdjęć)</string>
   <string name="user_feedback">Opinia</string>
+  <string name="feature_title_mms_setting">Ustawienia MMS</string>
 </resources>

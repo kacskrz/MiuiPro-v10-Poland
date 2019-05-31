@@ -2578,4 +2578,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="pc_abnormal_scan_reason_wake_system">Zbyt często wybudza system</string>
   <string name="pc_abnormal_scan_reason_reconnect">Zbyt często próbuje się połączyć z siecią</string>
   <string name="pc_abnormal_scan_button_text">Zamknij aplikacje</string>
+  <string name="gb_add_game_hint">Dodaj elementy z listy aplikacji</string>
+  <string name="gb_global_settings">Ustawienia ogólne</string>
 </resources>
