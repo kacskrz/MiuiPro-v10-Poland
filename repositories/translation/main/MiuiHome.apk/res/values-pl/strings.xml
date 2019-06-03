@@ -28,8 +28,10 @@
   <string name="announce_for_open_default_preview">Otwarto domyślne ustawienia Ekranu głównego</string>
   <string name="announce_for_open_folder">Otwarto folder %1$s</string>
   <string name="announce_for_open_launcher_menu">Otwarto menu</string>
+  <string name="announce_for_search_bar">Pasek wyszukiwania</string>
   <string name="announce_for_show_uninstall_dialog">Wyświetlono okno odinstalowywania. Anuluj lub potwierdź.</string>
   <string name="announce_for_unchecked">%1$s, niesprawdzone</string>
+  <string name="announce_for_xiaoai">Mi SI</string>
   <string name="app_already_exist">Aplikacja już istnieje</string>
   <string name="app_being_backup_message">W trakcie tworzenia kopii zapasowej aplikacji</string>
   <string name="app_being_restored_message">Przywracanie aplikacji</string>
@@ -371,4 +373,6 @@
   <string name="edit_mode_group_error_nothing_be_selected">Wybierz najpierw aplikację</string>
   <string name="minus_one_screen">Asystent MIUI</string>
   <string name="menu_auto_fill_of_uninstall">Wypełnij miejsca po odinstalowanych aplikacjach</string>
+  <string name="privacy_thumbnail_blur_summary">Zamaż podglądy w menu ostatnich aplikacji</string>
+  <string name="privacy_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
 </resources>

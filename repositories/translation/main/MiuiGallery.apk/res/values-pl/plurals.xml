@@ -353,4 +353,39 @@
         <item quantity="other">Kolaże mogą zawierać od 1 do %d zdjęć</item>
         <item quantity="one">Kolaże mogą zawierać tylko %d zdjęcie</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d zdjęć</item>
+        <item quantity="one">%d zdjęcie</item>
+        <item quantity="few">%d zdjęcia</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Zapisać %d wybranych zdjęć i usunąć resztę?</item>
+        <item quantity="one">Zapisać %d wybrane zdjęcie i usunąć resztę?</item>
+        <item quantity="few">Zapisać %d wybrane zdjęcia i usunąć resztę?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Zapisz %d wybranych zdjęć</item>
+        <item quantity="one">Zapisz %d wybrane zdjęcie</item>
+        <item quantity="few">Zapisz %d wybrane zdjęcia</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Usunąć %d zdjęć seryjnych z Chmury Xiaomi i wszystkich zsynchronizowanych urządzeń?</item>
+        <item quantity="one">Usunąć %d zdjęcie seryjne z Chmury Xiaomi i wszystkich zsynchronizowanych urządzeń?</item>
+        <item quantity="few">Usunąć %d zdjęcia seryjne z Chmury Xiaomi i wszystkich zsynchronizowanych urządzeń?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Usunąć %d zdjęć seryjnych?</item>
+        <item quantity="one">Usunąć %d zdjęcie seryjne?</item>
+        <item quantity="few">Usunąć %d zdjęcia seryjne?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Usunąć %d zdjęć seryjnych z Chmury Xiaomi i tego urządzenia?</item>
+        <item quantity="one">Usunąć %d zdjęcie seryjne z Chmury Xiaomi i tego urządzenia?</item>
+        <item quantity="few">Usunąć %d zdjęcia seryjne z Chmury Xiaomi i tego urządzenia?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Usunąć %d zdjęć seryjnych?</item>
+        <item quantity="one">Usunąć %d zdjęcie seryjne?</item>
+        <item quantity="few">Usunąć %d zdjęcia seryjne?</item>
+    </plurals>
 </resources>

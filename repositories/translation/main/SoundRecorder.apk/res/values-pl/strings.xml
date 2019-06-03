@@ -57,7 +57,7 @@
     <string name="sound_recorder_settings">Ustawienia</string>
     <string name="preference_led_indicator">Powiadomienie o nagrywaniu</string>
     <string name="preference_tip_rename">Pokazuj pytanie o zmianę nazwy nagrania</string>
-    <string name="preference_led_indicator_prompt">Podczas nagrywania, pokaż na pasku status i pulsuj diodą powiadomień przy zablokowanym ekranie</string>
+    <string name="preference_led_indicator_prompt">Podczas nagrywania, pokaż na pasku status i pulsuj diodą powiadomień</string>
     <string name="preference_scenes">Typ nagrania</string>
     <string name="preference_record_scenes_dialog_title">Wybierz kategorię typu nagrania</string>
     <string name="preference_silent_mode">Ciche nagrywanie</string>
@@ -161,4 +161,11 @@
   <string name="korea_permission_record_resc">Nagrywanie audio</string>
   <string name="korea_permission_storage">Pamięć</string>
   <string name="korea_permission_storage_desc">Zapisywanie nagrań</string>
+  <string name="call_record_list_group_all">Wszystkie</string>
+  <string name="call_record_list_group_connected">Połączono</string>
+  <string name="call_record_list_group_unconnected">Nie połączono</string>
+  <string name="preference_status_bar_indicator_prompt">Pokaż skrót na pasku statusu w trakcie nagrywania</string>
+  <string name="shortcut_records">Nagrania</string>
+  <string name="shortcut_start_record">Zacznij nagranie</string>
+  <string name="shortcut_stop_record">Zatrzymaj nagranie</string>
 </resources>
