@@ -95,7 +95,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
     <string name="restore_task_cancelling">Anulowanie…</string>
     <string name="remove_task_in_process">Usuwanie…</string>
     <string name="remove_task_unfinished">Nie ukończono usuwania</string>
-    <string name="back_up_task_unfinished">Nie ukończono tworzenia kopii zapasowej</string>
+    <string name="back_up_task_unfinished">Nie udało się wykonać kopii zapasowej</string>
     <string name="about_to_recover">Chwileczkę…</string>
     <string name="success_open_cloudbackup">Włączona kopia zapasowa dla aplikacji ekranu głównego</string>
     <string name="as_new_device">Przywróć ekran główny i ustawienia systemu</string>
@@ -221,4 +221,10 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
    <string name="hint_restore_cross_space">Układ pulpitu może być wyświetlany niepoprawnie, jeśli przenosisz elementy pomiędzy przestrzeniami.</string>
    <string name="selected">Wybrano</string>
    <string name="unselected">Nie wybrano</string>
+   <string name="backup_failed_reason_cloud_space_not_enough">Brak miejsca w Chmurze Xiaomi. Ulepsz swój plan lub zwolnij miejsce.</string>
+   <string name="backup_failed_reason_disk_space_not_enough">Brak miejsca w pamięci telefonu. Zwolnij je.</string>
+   <string name="backup_failed_reason_network_error">Błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+   <string name="restore_failed_reason_disk_space_not_enough">Brak wystarczającej ilości miejsca. Zwolnij je.</string>
+   <string name="restore_failed_reason_network_error">Błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+   <string name="restore_task_unfinished">"Nie udało się przywrócić"</string>
 </resources>

@@ -110,6 +110,9 @@
   <string name="delete_backup_title">Usuń kopię</string>
   <string name="delete_failed_backup_confirm">Wystąpił błąd, nie można przywrócić tej kopii</string>
   <string name="deselect_all">Odznacz wszystko</string>
+  <string name="dialog_backup_password_auto_backup_tips">"Nie można utworzyć automatycznej kopii zapasowej, gdy włączona jest ochrona hasłem. Wyłącz najpierw hasło kopii zapasowej."</string>
+  <string name="dialog_backup_password_change_device_restore_tips">"Nie można użyć Przenoszenia danych, gdy włączona jest ochrona hasłem. Wyłącz najpierw hasło kopii zapasowej."</string>
+  <string name="dialog_backup_password_restore_tips">"Nie można przywrócić elementów, gdy włączona jest ochrona hasłem. Wyłącz najpierw hasło kopii zapasowej."</string>
   <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Nie szyfrowane</string>
@@ -170,6 +173,7 @@
   <string name="icloud_how_to_backup_tip_steps">1. Otwórz Ustawienia na swoim urządzeniu iOS i wybierz iCloud.\n2. Przełącz opcje dla kontaktów i innych elementów.\n3.Wybierz Zdjęcia i przełącz opcję dla Biblioteki zdjęć iCloud.</string>
   <string name="icloud_how_to_backup_tip_summary">Aby zaimportować dane z iOS, musisz utworzyć kopię zapasową iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Wskazówki:</string>
+  <string name="iCloud_ID_verification_tip">"Wpisz kod weryfikacyjny z SMS-a wysłanego na numer telefonu powiązany z Twoim Apple ID. Zignoruj kod pop-up wyświetlany na ekranie Twojego iPhone'a."</string>
   <string name="icloud_login_title">Zaloguj się do iCloud</string>
   <string name="icloud_need_sync">Aby zaimportować dane z iOS\nmusisz najpierw utworzyć kopię zapasową iCloud.</string>
   <string name="icloud_need_wifi_message">Nie jesteś teraz podłączony do Wi-Fi. Aby zaimportować dane z iCloud, podłącz się do Wi-Fi.</string>
@@ -626,4 +630,5 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="gallery_summary">Ustawienia Galerii (bez zdjęć)</string>
   <string name="user_feedback">Opinia</string>
   <string name="feature_title_mms_setting">Ustawienia MMS</string>
+  <string name="trans_complete_restoring">Pomyślnie przeniesiono. Przywracanie danych aplikacji…</string>
 </resources>

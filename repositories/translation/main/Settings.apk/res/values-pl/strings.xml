@@ -6222,4 +6222,5 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="backup_set_new_pw_confirm_hint">Informacja</string>
   <string name="backup_set_new_pw_confirm_summary">Twoje elementy są obecnie kopiowane co pewien czas w ramach automatycznej kopii zapasowej. Utworzenie hasła kopii zapasowej wyłączy tworzenie automatycznych kopii zapasowych. Kontynuować mimo to?</string>
   <string name="device_miui_version_parameters">Wersja MIUI</string>
+  <string name="quick_reply_title">Szybkie odpowiedzi</string>
 </resources>

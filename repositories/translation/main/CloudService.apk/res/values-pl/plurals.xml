@@ -127,4 +127,9 @@
         <item quantity="one">%s usługa zostanie zsynchronizowana z Chmurą Xiaomi</item>
         <item quantity="few">%s usługi zostaną zsynchronizowane z Chmurą Xiaomi</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d częstych zwrotów</item>
+        <item quantity="one">%d częsty zwrot</item>
+        <item quantity="few">%d częste zwroty</item>
+    </plurals>
 </resources>
