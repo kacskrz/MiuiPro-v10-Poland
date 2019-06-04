@@ -582,7 +582,7 @@
   <string name="battery_sugg_display">Zmniejsz jasność ekranu i/lub czas jego wygaszania</string>
   <string name="battery_sugg_radio">Przełącz w tryb samolotowy na obszarach bez zasięgu sieci komórkowych, aby oszczędzać energię</string>
   <string name="battery_sugg_wifi">Wyłącz Wi-Fi, gdy sieć nie jest używana lub jest niedostępna</string>
-  <string name="battery_summary">Użycie od ostatniego pełnego naładowania: %1$d%%</string>
+  <string name="battery_summary">Użycie od ostatniego pełnego naładowania: %1$s%%</string>
   <string name="battery_used_by">%1$s zużyte przez: %2$s</string>
   <string name="battery_used_for">Korzystanie przez ^1</string>
   <string name="bearer">Nośnik</string>
@@ -6223,4 +6223,21 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="backup_set_new_pw_confirm_summary">Twoje elementy są obecnie kopiowane co pewien czas w ramach automatycznej kopii zapasowej. Utworzenie hasła kopii zapasowej wyłączy tworzenie automatycznych kopii zapasowych. Kontynuować mimo to?</string>
   <string name="device_miui_version_parameters">Wersja MIUI</string>
   <string name="quick_reply_title">Szybkie odpowiedzi</string>
+  <string name="a11y_settings_label">Ułatwienia dostępu</string>
+  <string name="accessibility_menu_description">"Menu ułatwień dostępu włącza skróty pozwalające Ci na kontrolowanie urządzenia.
+
+Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby otworzyć menu."</string>
+  <string name="accessibility_menu_service_name">Menu ułatwień dostępu</string>
+  <string name="accessibility_menu_summary">Kontroluj urządzenie za pomocą skrótów</string>
+  <string name="confirm_fingerprint">Zweryfikuj odcisk palca</string>
+  <string name="confirm_password_with_fingerprint">Użyj odcisku palca</string>
+  <string name="confirm_password_with_password">Wpisz hasło</string>
+  <string name="google_assistant_label">Asystent Google</string>
+  <string name="lockscreen_label">Ekran blokady</string>
+  <string name="power_label">Zasilanie</string>
+  <string name="notification_label">Powiadomienia</string>
+  <string name="quick_settings_label">Przełączniki</string>
+  <string name="recent_apps_label">Ostatnie aplikacje</string>
+  <string name="screenshot_label">Zrzut ekranu</string>
+  <string name="volume_label">Głośność</string>
 </resources>

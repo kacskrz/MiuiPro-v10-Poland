@@ -1797,4 +1797,5 @@
   <string name="keyguard_charging_super_quick_and_level_tip">Superszybkie ładowanie %d%%</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Więcej</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Więcej</string>
+  <string name="lock_screen_magazine_label">Otwórz Tapety Blokady</string>
 </resources>
