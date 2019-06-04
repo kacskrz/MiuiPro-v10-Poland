@@ -19,17 +19,26 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="accessibility_battery_level">Bateria %d procent.</string>
     <string name="accessibility_battery_level_charging">Ładowanie baterii, %d procent.</string>
+	<string name="always_style">Zawsze</string>
     <string name="aod_close_color_inversion">"Ta funkcja nie działa razem z inwersją kolorów. Wyłącz inwersję kolorów, aby móc używać tej funkcji."</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_mode_preview">Podgląd</string>
     <string name="aod_mode_style">Styl i tło zegara</string>
+    <string name="aod_mode_style_title">Więcej opcji</string>
     <string name="aod_mode_summary">Ta funkcja zwiększa zużycie baterii. Będzie ona wyłączona, gdy urządzenie nie jest używane przez dłuższy czas lub kiedy włączone jest Oszczędzanie baterii.</string>
     <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Zawsze włączony</string>
     <string name="aod_mode_time_title">Zaplanowane</string>
     <string name="aod_mode_title">Zawsze włączony</string>
+    <string name="aod_show_style_title">Wyświetlanie</string>
     <string name="aod_to_close">Wyłącz</string>
     <string name="cancel">Anuluj</string>
     <string name="paper_mode_end_time_title">Wyłącz</string>
     <string name="paper_mode_start_time_title">Włącz</string>
+    <string name="scheduled_style">Gdy zaplanowane</string>
     <string name="search_menu_title">Szukaj</string>
+    <string name="summary">"Aby ograniczyć zużycie baterii, elementy nie będą wyświetlane:
+1. gdy urządzenie jest nieużytkowane przez dłuższy czas,
+2. gdy włączony jest tryb Nie przeszkadzać."</string>
+    <string name="temporary_style">Przez 10 sekund po dotknięciu</string>
 </resources>
