@@ -2588,4 +2588,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gamebox_display_3">Jasność</string>
   <string name="gamebox_display_4">Jasność i nasycenie</string>
   <string name="gamebox_display_set">"Polepszenie obrazu: "</string>
+  <string name="app_manager_thumbnail_blur_summary">Zamaż podglądy w menu ostatnich aplikacji</string>
+  <string name="app_manager_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
 </resources>

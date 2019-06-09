@@ -1798,4 +1798,6 @@
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Więcej</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Więcej</string>
   <string name="lock_screen_magazine_label">Otwórz Tapety Blokady</string>
+  <string name="long_screenshot_guide_text">"Kliknij, aby utworzyć
+długi zrzut ekranu"</string>
 </resources>

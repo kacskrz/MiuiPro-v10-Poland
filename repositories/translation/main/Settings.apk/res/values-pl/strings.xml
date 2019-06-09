@@ -6240,4 +6240,8 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="recent_apps_label">Ostatnie aplikacje</string>
   <string name="screenshot_label">Zrzut ekranu</string>
   <string name="volume_label">Głośność</string>
+  <string name="close_privacy_thumbnail_blur_title">"Podglądy nie są zamazane"</string>
+  <string name="open_privacy_thumbnail_blur_title">Podglądy są zamazane</string>
+  <string name="privacy_thumbnail_blur_progress_message">Chwileczkę…</string>
+  <string name="privacy_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
 </resources>
