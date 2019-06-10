@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ios_toggle_entries"> 
-        <item>Domyślnie</item> 
+    <string-array name="statusbar_style_entries">
 		<item>Obok zegara</item>
         <item>Drugi rząd ikon</item>
-    </string-array> 
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Graficznie</item>
+        <item>Procentowo (w ikonie)</item>
+        <item>Procentowy (obok ikony)</item>
+        <item>Procentowo bez ikony</item>
+        <item>Nie pokazuj</item>
+    </string-array>
+	<string-array name="notch_battery_indicator_style_entries">
+        <item>Graficznie</item>
+        <item>Procentowo (w ikonie)</item>
+        <item>Procentowy (obok ikony)</item>
+        <item>Procentowo bez ikony</item>
+        <item>Nie pokazuj</item>
+    </string-array>
 </resources>

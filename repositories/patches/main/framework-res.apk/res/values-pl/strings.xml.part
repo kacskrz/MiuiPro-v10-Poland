@@ -16,4 +16,13 @@
 	<string name="cat_6">Wi-Fi wyłączone</string>
 	<string name="cat_7">Wi-Fi włączone</string>
     <string name="not_setup_app">Aplikacja asystenta głosowego jest nieskonfigurowana</string>
+	<string name="mcat_1">Wyślij</string> 
+    <string name="mcat_2">Wyślij:</string>
+    <string name="mcat_3">Zapisano</string>
+    <string name="mcat_4">Zapisz</string>
+    <string name="mcat_5">Przetwarzanie wideo...</string>
+    <string name="mcat_6">Przetwarzanie audio...</string>
+    <string name="mcat_7">Kliknij ponownie, aby wyjść</string>
+    <string name="mcat_8">Polityka prywatności</string>
+    <string name="mcat_9">Wymagane uprawnienia</string>
 </resources>

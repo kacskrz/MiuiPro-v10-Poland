@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="low_battery_warning_entries">
+        <item>Informacja i dźwięk</item>
+        <item>Tylko informacja</item>
+        <item>Tylko dźwięk</item>
+        <item>Wyłączone</item>
+    </string-array>
+</resources>

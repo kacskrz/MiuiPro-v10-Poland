@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="icon_quick_title">Ukryj ikonę szybkiego ładowania</string>
-  <string name="ios_toggle_title">Ikony powiadomień</string>
-  <string name="ios_toggle_on">Zawsze</string>
-  <string name="ios_toggle_off">Przez pewien czas</string>
+    <string name="icon_quick_title">Ukryj ikonę szybkiego ładowania</string>
 </resources>

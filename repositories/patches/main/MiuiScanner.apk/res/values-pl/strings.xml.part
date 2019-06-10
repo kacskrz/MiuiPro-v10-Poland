@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="impunity_declaration_content">Aplikacja wymaga uprawnień do aparatu, aby przetwarzać zdjęcia nią wykonane, a także do łączenia się z Internetem. Nie używaj Skanera na zdjęciach, które zawierają poufne informacje. Poprzez naciśnięcie przycisku \"Zezwól\" potwierdzasz zapoznanie się i zaakceptowanie Polityki prywatności Xiaomi.</string>
+</resources>

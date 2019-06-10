@@ -1,217 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="launcher_gesture_entries"> 
-        <item>Wyłącz ekran</item> 
-        <item>Menu wyłączania telefonu</item> 
-        <item>Ostatnie aplikacje</item> 
-        <item>Telefon</item> 
-        <item>Dźwięk / Wibracje</item> 
-        <item>Panel powiadomień</item> 
-        <item>Przełącz Wi-Fi</item> 
-        <item>Przełącz Bluetooth</item> 
-        <item>Przełącz dane komórkowe</item> 
-        <item>Wyczyść pamięć</item> 
-        <item>Uruchomienie aplikacji</item> 
-        <item>Wyłączone</item> 
-    </string-array> 
-    <string-array name="smart_mobiledata_entries"> 
-        <item>Nie zmieniaj</item> 
-        <item>Tylko 2G</item> 
-        <item>Tylko 3G</item> 
-        <item>Tylko 4G</item> 
-        <item>Preferuj 3G</item> 
-        <item>Preferuj 4G</item> 
-        <item>2G/3G (GSM/WCDMA)</item> 
-        <item>4G/3G (LTE/WCDMA)</item> 
-        <item>2G/3G/4G (GSM/WCDMA/LTE)</item> 
-    </string-array> 
-  	<string-array name="timer_entries"> 
-        <item>Nie rozłączaj</item> 
-        <item>Na sekundę</item> 
-        <item>Na minutę</item> 
-        <item>Na 5 minut</item> 
-        <item>Na 10 minut</item> 
-        <item>Na 20 minut</item> 
-        <item>Na 30 minut</item> 
-        <item>Na godzinę</item> 
-    </string-array> 
-	<string-array name="ios_toggle_entries"> 
-        <item>Domyślnie</item> 
-        <item>Styl iOS</item> 
-		<item>Nowy styl</item>
-        <item>Styl AOSP</item>
-    </string-array> 
-    <string-array name="text_bat_color_entries">
-        <item>Domyślnie</item>
-        <item>Gradient</item>
-        <item>Własny kolor</item>
-    </string-array>
-	<string-array name="sim_select_entries"> 
-        <item>Karta SIM 1</item> 
-        <item>Karta SIM 2</item> 
-		<item>Karta SIM 1 / SIM 2</item> 
-    </string-array> 
-	<string-array name="toggles_line_entries"> 
-        <item>W jednej linii</item> 
-        <item>Wiele linii</item> 
-    </string-array> 
-	<string-array name="smart_timer_entries">
-        <item>Nie zmieniaj</item>
-        <item>10 minut</item>
-        <item>20 minut</item>
-        <item>30 minut</item>
-        <item>1 godzina</item>
-        <item>2 godziny</item>
-        <item>3 godziny</item>
-    </string-array>
-	<string-array name="toast_animation_entries"> 
-        <item>Wcale</item> 
-        <item>Domyślnie</item> 
-        <item>Płynne przejście</item> 
-        <item>Do prawej i powrót</item> 
-        <item>Do lewej i powrót</item> 
-        <item>Od lewej do prawej</item> 
-        <item>Od prawej do lewej</item> 
-        <item>Animacja Xylon</item> 
-        <item>Animacja Toko</item> 
-        <item>Rotacja</item> 
-        <item>Animacja Honami</item> 
-        <item>Szybkie przejście</item> 
-        <item>Wolne przejście</item> 
-        <item>Pojawienie się od środka</item> 
-        <item>Pojawienie się od dołu</item> 
-        <item>Przezroczystość po prawej</item> 
-        <item>Odwrót lewego i białego</item> 
-        <item>Włącz z zamachem od dołu</item> 
-        <item>Zamach z centrum</item> 
-        <item>Włączenie od dołu</item> 
-        <item>Z centrum do środka</item> 
-        <item>Losowo</item> 
-    </string-array> 
-	<string-array name="listview_animation_entries"> 
-        <item>Domyślnie</item> 
-        <item>Fala (lewo)</item> 
-        <item>Fala (prawo)</item> 
-        <item>Alfa</item> 
-        <item>Przenikanie przez tło</item> 
-        <item>Stos (góra)</item> 
-        <item>Stos (dół)</item> 
-        <item>Odgięcie</item> 
-        <item>Zagięcie</item> 
-        <item>Wysuwanie od lewej</item> 
-        <item>Wysuwanie od prawej</item> 
-    </string-array> 
-    <string-array name="listview_interpolator_entries"> 
-        <item>Domyślnie</item> 
-        <item>Przyśpieszenie</item> 
-        <item>Zmniejszenie prędkości</item> 
-        <item>Przyśpieszenie zmniejszenia prędkości</item> 
-        <item>Przewidywanie</item> 
-        <item>Przeregulowanie</item> 
-        <item>Przewidywanie regulowania</item> 
-        <item>Odbicie</item> 
-        <item>Cykl</item> 
-        <item>Linearnie</item> 
-    </string-array> 
-	<string-array name="crt_animation_entries"> 
-        <item>Wyłączone</item> 
-        <item>Powoli</item> 
-        <item>Bardzo powoli</item> 
-        <item>Wolno</item> 
-        <item>Typowo</item> 
-        <item>Szybko</item> 
-        <item>Badzo szybko</item> 
-        <item>Superszybko</item> 
-    </string-array> 
-	<string-array name="crt_animation_framing_entries"> 
-        <item>Zawsze</item> 
-        <item>50 fps</item> 
-        <item>25 fps</item> 
-        <item>10 fps</item> 
-        <item>5 fps</item> 
-    </string-array> 
-	<string-array name="crt_fade_entries"> 
-        <item>Domyślne</item> 
-        <item>Rozjaśnij</item> 
-    </string-array> 
-	<string-array name="smart_timer_sleepon_entries">
-        <item>Nie aktywuj</item>
-        <item>10 minut</item>
-        <item>20 minut</item>
-        <item>30 minut</item>
-    </string-array>
-	<string-array name="low_battery_warning_entries"> 
-        <item>Informacja i dźwięk</item> 
-        <item>Tylko informacja</item> 
-        <item>Tylko dźwięk</item> 
-        <item>Wyłączone</item> 
-    </string-array> 
-	<string-array name="battery_off_entries"> 
-        <item>Wyłącz LED</item> 
-        <item>LED włączone</item> 
-    </string-array> 
-	<string-array name="set_haptic_entries"> 
-        <item>Wyłączone</item> 
-        <item>Słabe</item> 
-        <item>Mocne</item> 
-    </string-array>
-	<string-array name="mtp_default_entries">
-        <item>Zawsze ładowanie</item>
-        <item>Zawsze MTP</item>
-        <item>MTP, jeśli ekran nie jest zablokowany hasłem</item> 
-    </string-array> 
-	<string-array name="volbtn_action_entries"> 
-        <item>Dalej</item> 
-        <item>Pauza</item> 
-        <item>Graj</item> 
-        <item>Graj / Pauza</item> 
-        <item>Poprzedni</item> 
-    </string-array> 
-	<string-array name="policy_control_entries"> 
-        <item>Wyłącz immersję (domyślnie)</item> 
-        <item>Włącz immersję (pełny ekran)</item> 
-        <item>Ukryj pasek statusu</item> 
-        <item>Ukryj nawigację</item> 
-    </string-array> 
-	<string-array name="ts_keycode_entries"> 
-        <item>Menu</item> 
-        <item>Wstecz</item> 
-    </string-array> 
-    <string-array name="ts_limit_entries"> 
-        <item>Dwa</item> 
-        <item>Trzy</item> 
-        <item>Pięć</item> 
-        <item>Siedem</item> 
-        <item>Dziesięć</item> 
-        <item>Bez limitu</item> 
-    </string-array> 
-    <string-array name="ts_direct_entries"> 
-        <item>Wróć</item> 
-        <item>Dalej</item> 
-    </string-array> 
-	<string-array name="def_audio_entries"> 
-        <item>Dzwonki</item> 
-        <item>Multimedia</item> 
-        <item>Powiadomienia</item> 
-    </string-array> 
-    <string-array name="folder_toggle_entries"> 
-        <item>3 kolumny</item> 
-        <item>4 kolumny</item> 
-    </string-array> 
-    <string-array name="app_assistant_entries"> 
-        <item>Asystent Google</item> 
-        <item>Asystent Yandex</item> 
-    </string-array>
-	<string-array name="battery_indicator_style_entries">
+  <string-array name="battery_off_entries">
+    <item>Wyłącz LED</item>
+    <item>LED włączone</item>
+  </string-array>
+  <string-array name="crt_animation_entries">
+    <item>Wyłączone</item>
+    <item>Powoli</item>
+    <item>Bardzo powoli</item>
+    <item>Wolno</item>
+    <item>Typowo</item>
+    <item>Szybko</item>
+    <item>Badzo szybko</item>
+    <item>Superszybko</item>
+  </string-array>
+  <string-array name="crt_animation_framing_entries">
+    <item>Zawsze</item>
+    <item>50 fps</item>
+    <item>25 fps</item>
+    <item>10 fps</item>
+    <item>5 fps</item>
+  </string-array>
+  <string-array name="crt_fade_entries">
+    <item>Domyślne</item>
+    <item>Stary telewizor</item>
+    <item>Zmniejszenie</item>
+  </string-array>
+  <string-array name="def_audio_entries">
+    <item>Dzwonki</item>
+    <item>Multimedia</item>
+    <item>Powiadomienia</item>
+  </string-array>
+  <string-array name="folder_toggle_entries">
+    <item>3 kolumny</item>
+    <item>4 kolumny</item>
+  </string-array>
+  <string-array name="gesture_anywhere_position_entries">
+    <item>Lewy</item>
+    <item>Prawy</item>
+  </string-array>
+  <string-array name="statusbar_style_entries">
+    <item>Domyślnie</item>
+    <item>Styl iOS</item>
+    <item>Nowy styl</item>
+    <item>Styl AOSP</item>
+  </string-array>
+  <string-array name="launcher_gesture_entries">
+    <item>Wyłącz ekran</item>
+    <item>Menu wyłączania telefonu</item>
+    <item>Ostatnie aplikacje</item>
+    <item>Telefon</item>
+    <item>Dźwięk / Wibracje</item>
+    <item>Panel powiadomień</item>
+    <item>Przełącz Wi-Fi</item>
+    <item>Przełącz Bluetooth</item>
+    <item>Przełącz dane komórkowe</item>
+    <item>Wyczyść pamięć</item>
+	<item>Tryb jednoręczny</item>
+    <item>Uruchomienie aplikacji</item>
+    <item>Wyłączone</item>
+  </string-array>
+  <string-array name="listview_animation_entries">
+    <item>Domyślnie</item>
+    <item>Fala (lewo)</item>
+    <item>Fala (prawo)</item>
+    <item>Alfa</item>
+    <item>Przenikanie przez tło</item>
+    <item>Stos (góra)</item>
+    <item>Stos (dół)</item>
+    <item>Odgięcie</item>
+    <item>Zagięcie</item>
+    <item>Wysuwanie od lewej</item>
+    <item>Wysuwanie od prawej</item>
+  </string-array>
+  <string-array name="listview_interpolator_entries">
+    <item>Domyślnie</item>
+    <item>Przyśpieszenie</item>
+    <item>Zmniejszenie prędkości</item>
+    <item>Przyśpieszenie zmniejszenia prędkości</item>
+    <item>Przewidywanie</item>
+    <item>Przeregulowanie</item>
+    <item>Przewidywanie regulowania</item>
+    <item>Odbicie</item>
+    <item>Cykl</item>
+    <item>Linearnie</item>
+  </string-array>
+  <string-array name="mtp_default_entries">
+    <item>Zawsze ładowanie</item>
+    <item>Zawsze MTP</item>
+    <item>MTP, jeśli ekran nie jest zablokowany hasłem</item>
+  </string-array>
+  <string-array name="policy_control_entries">
+    <item>Wyłącz immersję (domyślnie)</item>
+    <item>Włącz immersję (pełny ekran)</item>
+    <item>Ukryj pasek statusu</item>
+    <item>Ukryj nawigację</item>
+  </string-array>
+  <string-array name="set_haptic_entries">
+    <item>Wyłączone</item>
+    <item>Słabe</item>
+    <item>Mocne</item>
+  </string-array>
+  <string-array name="smart_mobiledata_entries">
+    <item>Nie zmieniaj</item>
+    <item>Tylko 2G</item>
+    <item>Tylko 3G</item>
+    <item>Tylko 4G</item>
+    <item>Preferuj 3G</item>
+    <item>Preferuj 4G</item>
+    <item>2G/3G (GSM/WCDMA)</item>
+    <item>4G/3G (LTE/WCDMA)</item>
+    <item>2G/3G/4G (GSM/WCDMA/LTE)</item>
+  </string-array>
+  <string-array name="smart_timer_entries">
+    <item>Nie zmieniaj</item>
+    <item>10 minut</item>
+    <item>20 minut</item>
+    <item>30 minut</item>
+    <item>1 godzina</item>
+    <item>2 godziny</item>
+    <item>3 godziny</item>
+  </string-array>
+  <string-array name="smart_timer_sleepon_entries">
+    <item>Nie aktywuj</item>
+    <item>10 minut</item>
+    <item>20 minut</item>
+    <item>30 minut</item>
+  </string-array>
+  <string-array name="timer_entries">
+    <item>Nie rozłączaj</item>
+    <item>Na sekundę</item>
+    <item>Na minutę</item>
+    <item>Na 5 minut</item>
+    <item>Na 10 minut</item>
+    <item>Na 20 minut</item>
+    <item>Na 30 minut</item>
+    <item>Na godzinę</item>
+  </string-array>
+  <string-array name="toast_animation_entries">
+    <item>Wcale</item>
+    <item>Domyślnie</item>
+    <item>Płynne przejście</item>
+    <item>Do prawej i powrót</item>
+    <item>Do lewej i powrót</item>
+    <item>Od lewej do prawej</item>
+    <item>Od prawej do lewej</item>
+    <item>Animacja Xylon</item>
+    <item>Animacja Toko</item>
+    <item>Rotacja</item>
+    <item>Animacja Honami</item>
+    <item>Szybkie przejście</item>
+    <item>Wolne przejście</item>
+    <item>Pojawienie się od środka</item>
+    <item>Pojawienie się od dołu</item>
+    <item>Przezroczystość po prawej</item>
+    <item>Odwrót lewego i białego</item>
+    <item>Włącz z zamachem od dołu</item>
+    <item>Zamach z centrum</item>
+    <item>Włączenie od dołu</item>
+    <item>Z centrum do środka</item>
+    <item>Losowo</item>
+  </string-array>
+  <string-array name="volbtn_action_entries">
+    <item>Dalej</item>
+    <item>Pauza</item>
+    <item>Graj</item>
+    <item>Graj / Pauza</item>
+    <item>Poprzedni</item>
+  </string-array>
+  <string-array name="battery_indicator_style_entries">
         <item>Graficznie</item>
         <item>Procentowo (w ikonie)</item>
-        <item>Procentowo (obok ikony)</item>
+        <item>Procentowy (obok ikony)</item>
         <item>Procentowo bez ikony</item>
         <item>Liniowo</item>
         <item>Nie pokazuj</item>
     </string-array>
-	<string-array name="battery_percent_style_entries">
-		<item>Za ikoną (po prawej stronie)</item>
-        <item>Przed ikoną (po lewej stronie)</item>
+    <string-array name="battery_percent_style_entries">
+        <item>Procentowy (za ikoną)</item>
+        <item>Procentowy (przed ikoną)</item>
     </string-array>
 </resources>

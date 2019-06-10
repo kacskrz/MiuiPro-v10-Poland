@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="currency_update_connect_to_get_data">Kursy wymiany walut dostarcza Apilayer. Połącz się z siecią, aby uzyskać najnowsze informacje.</string>
+  <string name="currency_update_support">Kurs wymiany walut dostarcza Apilayer.</string>
+  <string name="currency_update_time_format">Stawki wymiany walut dostarcza Apilayer (%s)</string>
+</resources>

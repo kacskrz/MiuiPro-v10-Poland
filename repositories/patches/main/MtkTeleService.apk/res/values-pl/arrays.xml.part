@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="call_backlight_entries"> 
+        <item>Tylko przychodzące połączenia</item> 
+        <item>Po sygnale</item> 
+        <item>Zawsze z przychodzącymi</item> 
+        <item>Zawsze z wychodzącymi</item> 
+    </string-array> 
+    <string-array name="call_entries"> 
+        <item>Żadna</item> 
+        <item>Otwórz dialer</item> 
+        <item>Wyjdź do pulpitu</item> 
+        <item>Wyjdź i zablokuj telefon</item> 
+    </string-array> 
+ 	<string-array name="incall_small_background_entries"> 
+	    <item>Domyślnie</item>
+        <item>Agent</item> 
+        <item>Królik</item> 
+		<item>Maska</item> 
+		<item>Logo MI</item> 
+		<item>Nieznane</item>
+    </string-array>
+	<string-array name="incall_background_entries"> 
+	    <item>Domyślne</item>
+        <item>MiuiPro</item> 
+        <item>Krzyk</item> 
+        <item>Ręce za szkłem</item> 
+        <item>Sakura</item> 
+        <item>Duch</item> 
+    </string-array> 
+  	<string-array name="set_samplingrate_entries">
+        <item>Domyślnie (8000 Hz)</item>
+        <item>16000 Hz</item>
+        <item>22050 Hz</item>
+        <item>44100 Hz</item>
+    </string-array>
+    <string-array name="set_bitrate_entries">
+        <item>Domyślnie (8 kbps)</item>
+        <item>24 kbps</item>
+        <item>32 kbps</item>
+        <item>48 kbps</item>
+        <item>64 kbps</item>
+        <item>96 kbps</item>
+        <item>128 kbps</item>
+    </string-array>
+   	<string-array name="show_search_entries"> 
+        <item>Pokaż</item> 
+        <item>Pokaż w kontaktach</item> 
+        <item>Pokaż w dialerze</item> 
+        <item>Ukryj</item> 
+    </string-array> 
+   	<string-array name="key_call_entries"> 
+        <item>Ukryj</item> 
+        <item>Pokaż</item> 
+    </string-array> 
+   	<string-array name="call_home_entries"> 
+        <item>Akceptuj</item> 
+        <item>Odrzuć</item> 
+        <item>Wyłącz dźwięk</item> 
+        <item>Wyłączone</item> 
+    </string-array> 
+    <string-array name="call_windows_entries">  
+        <item>Na pełnym ekranie</item>  
+        <item>Okno pop-up</item>  
+    </string-array>
+ </resources>

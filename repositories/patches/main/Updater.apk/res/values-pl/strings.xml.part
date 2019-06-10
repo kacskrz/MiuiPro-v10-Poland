@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="miuipro_authorization_update_setting">Autoryzacja na stronie MiuiPro</string>
-    <string name="miuipro_ota_login">Dostęp do OTA</string>
-    <string name="miuipro_ota_login_sum">Zautoryzowany jako: %s</string>
-</resources>

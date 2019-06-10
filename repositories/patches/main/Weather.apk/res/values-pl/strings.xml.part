@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="indices_desc_pressure">%1$s mmHg</string>
+  <string name="pressure_connect">%1$s mmHg</string> 
+</resources>
