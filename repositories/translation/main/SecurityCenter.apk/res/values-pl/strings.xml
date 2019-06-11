@@ -2590,4 +2590,23 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gamebox_display_set">"Polepszenie obrazu: "</string>
   <string name="app_manager_thumbnail_blur_summary">Zamaż podglądy w menu ostatnich aplikacji</string>
   <string name="app_manager_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
+  <string name="user_guide">Przesuń w górę, aby odkryć więcej nowych gier</string>
+  <string name="power_center_dialog_msg_top">Gdy Oszczędzanie baterii jest włączone, MIUI wykona następujące optymalizacje:</string>
+  <string name="power_center_dialog_msg_bottom">Możesz wydłużyć pracę na baterii do  %1$d godz. i %2$d min. Włączyć Oszczędzanie baterii?</string>
+  <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu i zmniejsza wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
+  <string name="power_dialog_super_save_title">Ultraoszczędzanie baterii</string>
+  <string name="power_center_power_save_title_text">Oszczędzanie baterii</string>
+  <string name="power_center_super_save_title_text">Ultraoszczędzanie baterii</string>
+  <string name="power_center_super_save_summary_text">Wydłuż pozostały czas do %1$d godz. i %2$d min</string>
+  <string name="power_center_power_save_summary_text">Wydłuż pozostały czas do %1$d godz. i %2$d min</string>
+  <string name="power_center_battery_last">Pozostało %s</string>
+  <string name="power_center_one_key_save">Zoptymalizuj</string>
+  <string name="power_setting_power_save_summary_text">Zoptymalizuj ustawienia systemu, aby oszczędzać energię</string>
+  <string name="power_setting_super_save_summary_text">Ogranicz większość funkcji systemu, aby oszczędzać energię</string>
+  <string name="power_setting_category_other">Dodatkowe ustawienia</string>
+  <string name="power_setting_background_app_save_title">Oszczędzanie baterii w tle</string>
+  <string name="power_setting_background_app_save_summary">Ogranicz aktywność aplikacji w tle bez wpływu na funkcjonalność</string>
+  <string name="power_settings_lock_screen_saver_title">Ustawienia ekranu blokady</string>
+  <string name="quick_optimize_sub_summary_with_battery_text">Dodano %1$s, pozostało ok. %2$s</string>
+  <string name="quick_optimize_sub_battery_text">Pozostało ok. %s</string>
 </resources>

@@ -1311,11 +1311,11 @@ aby spersonalizować Galerię"</string>
   <string name="operation_favorites">Ulubione</string>
   <string name="removed_from_favorites_desc">Usunięto z ulubionych</string>
   <string name="rename_dialog_hint">Wpisz tytuł</string>
-  <string name="rename_dialog_title">Zmień nazwę wspomnienia</string>
-  <string name="story_action_remove">Usuń ze wspomnień</string>
+  <string name="rename_dialog_title">Zmień nazwę</string>
+  <string name="story_action_remove">Usuń</string>
   <string name="story_action_share">Wyślij</string>
   <string name="story_option_menu_rename">Zmień nazwę</string>
-  <string name="story_remove_confirm_message">"Usunięte zdjęcia nie pojawią się ponownie w wspomnieniach. Wciąż jednak będzie można je znaleźć w Galerii."</string>
+  <string name="story_remove_confirm_message">"Usunięte zdjęcia nie pojawią się ponownie w wspomnieniach. Będzie można je znaleźć w Galerii."</string>
   <string name="story_remove_confirm_positive">Usuń</string>
   <string name="story_remove_confirm_title">Usuwanie zdjęć</string>
   <string name="story_rename_invalid_char">"Nie można użyć \"%s\" w nazwie wspomnienia. Użyj liter i cyfr."</string>
@@ -1368,8 +1368,8 @@ aby spersonalizować Galerię"</string>
   <string name="card_title_pastyear_sports">Treningi w minionym roku</string>
   <string name="card_title_recent_memory">Ostatnie wspomnienia</string>
   <string name="card_title_sports">Treningi</string>
-  <string name="empty_description_conditions">Zapamiętaj historie, które mają dla Ciebie znaczenie</string>
-  <string name="empty_description_no_cards">Zapamiętaj historie, które mają dla Ciebie znaczenie</string>
+  <string name="empty_description_conditions">Zapamiętaj rzeczy, które mają dla Ciebie znaczenie</string>
+  <string name="empty_description_no_cards">Zapamiętaj rzeczy, które mają dla Ciebie znaczenie</string>
   <string name="movie_add_disable">Możesz wybrać max. 20 zdjęć</string>
   <string name="movie_audio_custom">Lokalne</string>
   <string name="movie_audio_default">Pamięć</string>
@@ -1461,7 +1461,7 @@ aby spersonalizować Galerię"</string>
   <string name="permission_use_desc">Uprawnienia</string>
   <string name="select_all">Zaznacz wszystko</string>
   <string name="generate_story_summary">MIUI będzie analizować Twoje zdjęcia i tworzyć na ich podstawie albumy</string>
-  <string name="generate_story_title">Albumy - wspomnienia</string>
+  <string name="generate_story_title">Wspomnienia</string>
   <string name="image_selection_summary">MIUI będzie analizować podobne do siebie zdjęcia i oznaczać najlepsze z nich</string>
   <string name="image_selection_title">Wybierz najlepsze ujęcie</string>
   <string name="operation_set_video_wallpaper">Ustaw jako tapetę wideo</string>

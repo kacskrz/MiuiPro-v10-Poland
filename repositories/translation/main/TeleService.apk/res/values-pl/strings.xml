@@ -1834,4 +1834,6 @@ Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkol
   <string name="fiveg_switch_title">Sieć 5G</string>
   <string name="jump_to_mobile_network_setting">Ustawienia sieci komórkowej</string>
   <string name="select_dds_dialog_title">Wybierz domyślną kartę SIM (dane)</string>
+  <string name="network_mode_updating_title">Typ sieci</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">Preferowane 5G</string>
 </resources>
