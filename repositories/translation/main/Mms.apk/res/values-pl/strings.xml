@@ -353,7 +353,7 @@
   <string name="networking_allow_desc_without_mx">Wiadomość Mi muszą mieć połączenie z Internetem, aby pracować poprawnie. Aby zapewnić rozpoznawanie nieznanych numerów, filtrowanie spamu i włączanie innych funkcji, Wiadomość Mi muszą korzystać z książki telefonicznej. Zezwolić Książce telefonicznej na łączenie się z Internetem, uzyskiwanie informacje o lokalizacji i czytanie kontaktów?</string>
   <string name="networking_allow_title">Powiadomienie</string>
   <string name="new_message">Nowa wiadomość</string>
-  <string name="new_message_arrived">Otrzymałeś nową wiadomość</string>
+  <string name="new_message_arrived">Kliknij, aby zobaczyć</string>
   <string name="new_phrase">Dodaj odpowiedź</string>
   <string name="new_phrase_hint">Dodaj nową odpowiedź</string>
   <string name="no">Anuluj</string>
@@ -664,7 +664,7 @@
   <string name="undelivered_msg_dialog_title">Wiadomość niedostarczona</string>
   <string name="undelivered_sms_dialog_body">Nie można wysłać tej wiadomości.</string>
   <string name="unknown_num">Nieznany numer</string>
-  <string name="unknown_sender">Nieznany nadawca</string>
+  <string name="unknown_sender">Nowa wiadomość</string>
   <string name="unstick">Odepnij</string>
   <string name="unstick_conversation">Odepnij aktualną konwersację</string>
   <string name="unsticked_conversation">Konwersacja jest już odpięta</string>
@@ -828,4 +828,5 @@
   <string name="dialog_sim_locked_message">"Twoja karta SIM nie działa w pełni z tym telefonem, ponieważ nie jest zgodna z warunkami subskrypcji. Jeśli masz jakiekolwiek pytania lub potrzebujesz więcej informacji na ten temat, skontaktuj się z centrum serwisowym Xiaomi lub sklepem, który sprzedał Ci produkty."</string>
   <string name="recipients_contain_sub_sim_number">"Wygląda na to, że wśród odbiorców jest numer przypisany do drugiej karty SIM. Wyślij wiadomość za pomocą drugiej karty SIM."</string>
   <string name="sub_sim_not_support_mms">"Nie można wysłać MMSa za pomocą drugiej karty SIM"</string>
+  <string name="dialog_complain_tips">Aby móc zgłaszać elementy, zezwól aplikacji SMS na łączenie się z siecią.</string>
 </resources>
