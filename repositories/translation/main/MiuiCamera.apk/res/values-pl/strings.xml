@@ -668,7 +668,7 @@ Dzięki temu uchwycisz więcej rzeczy."</string>
   <string name="hint_ae_af_lock_extra">Autofokus i autom. ekspozycja są zablokowane. Przełącz się na Obiektyw Google w ustawieniach Aparatu</string>
   <string name="hint_ae_lock">Autom. ekspozycja jest zablokowana</string>  
   <string name="config_name_ratio">Proporcje</string>
-  <string name="module_name_pixel_48M">48 Mpx</string>
+  <string name="module_name_pixel">48 Mpx</string>
   <string name="action_calendar">Dodaj wydarzenie</string>
   <string name="action_call">Zadzwoń</string>
   <string name="action_contact">Dodaj kontakt</string>

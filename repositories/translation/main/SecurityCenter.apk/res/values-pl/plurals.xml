@@ -560,13 +560,13 @@
         <item quantity="few">%d aplikacje drenują baterię</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
-        <item quantity="other">%s dni</item>
-        <item quantity="one">%s dzień</item>
+        <item quantity="other">"%s dni, "</item>
+        <item quantity="one">"%s dzień, "</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_hour">
-        <item quantity="other">%s godzin</item>
-        <item quantity="one">%s godzina</item>
-        <item quantity="few">%s godziny</item>
+        <item quantity="other">"%s godz. "</item>
+        <item quantity="one">"%s godz. "</item>
+        <item quantity="few">"%s godz. "</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_minute">
         <item quantity="other">%s min</item>
