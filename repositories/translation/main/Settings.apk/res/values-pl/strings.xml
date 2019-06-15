@@ -6109,7 +6109,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="usage_state_noti_mourth_day">Powiadomienia w dniu %s</string>
   <string name="usage_state_notification">Zarządzaj powiadomieniami</string>
   <string name="usage_state_notification_manager">Zarządzaj powiadomieniami aplikacji</string>
-  <string name="usage_state_remind_summary">Włącz, aby otrzymywać przypomnienia dot. limitów czasu na ekranie. Możesz ustawić różne limity dla dni roboczych oraz weekendów.</string>
+  <string name="usage_state_remind_summary">Włącz, aby otrzymywać przypomnienia dot. limitów czasu na ekranie.</string>
   <string name="usage_state_remind_title">Limit korzystania z urządzenia</string>
   <string name="usage_state_rest_day">Weekendy</string>
   <string name="usage_state_saturday">Sob</string>
@@ -6244,4 +6244,6 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="open_privacy_thumbnail_blur_title">Podglądy są zamazane</string>
   <string name="privacy_thumbnail_blur_progress_message">Chwileczkę…</string>
   <string name="privacy_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
+  <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
+  <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza zużycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
 </resources>
