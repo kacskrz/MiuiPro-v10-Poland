@@ -6246,4 +6246,6 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="privacy_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
   <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
   <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza zużycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
+  <string name="enable_tcp_rtt_support">Wyświetlaj TCP RTT</string>
+  <string name="enable_tcp_rtt_support_summary">Szacuj wydajność jakości połączenia sieciowego</string>
 </resources>
