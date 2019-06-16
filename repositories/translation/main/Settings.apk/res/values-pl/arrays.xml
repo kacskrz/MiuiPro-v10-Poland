@@ -1288,8 +1288,8 @@
         <item>Procentowo</item>
     </string-array>
 	    <string-array name="notification_shade_shortcut_entries">
-        <item>Wyszukiwarka</item>
-        <item>Ustawienia</item>
+        <item>Otwarcie Wyszukiwania</item>
+        <item>Przejście do Ustawień</item>
     </string-array>
       <string-array name="ai_key_item_name">
         <item>Uruchom Asystenta Google</item>
@@ -1315,5 +1315,9 @@
         <item>Słupkowy</item>
         <item>Procentowy (w ikonie)</item>
         <item>Procentowy (obok ikony)</item>
+    </string-array>
+    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Otwarcie Wyszukiwania</item>
+        <item>Przejście do Ustawień</item>
     </string-array>
 </resources>
