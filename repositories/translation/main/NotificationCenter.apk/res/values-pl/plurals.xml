@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d powiadomień na dzień</item>
+        <item quantity="one">Jedno powiadomienie na dzień</item>
+        <item quantity="few">%d powiadomienia na dzień</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d powiadomień tygodniowo</item>
+        <item quantity="one">Jedno powiadomienie tygodniowo</item>
+        <item quantity="few">%d powiadomienia tygodniowo</item>
+    </plurals>
+</resources>

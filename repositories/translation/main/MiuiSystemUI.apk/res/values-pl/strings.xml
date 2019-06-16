@@ -1800,4 +1800,23 @@
   <string name="lock_screen_magazine_label">Otwórz Tapety Blokady</string>
   <string name="long_screenshot_guide_text">"Kliknij, aby utworzyć
 długi zrzut ekranu"</string>
+  <string name="face_data_apply_for_applock_summary">Odblokuj dostęp do aplikacji twarzą, gdy włączone jest Blokowanie aplikacji</string>
+  <string name="face_data_apply_for_applock_title">Blokowanie aplikacji</string>
+  <string name="face_data_apply_for_category_title">Odblokuj za pomocą twarzy</string>
+  <string name="face_data_apply_for_keyguard_lift_camera_summary">Po wybudzeniu ekranu przesuń w górę, aby odblokować urządzenie za pomocą danych twarzy.</string>
+  <string name="face_data_apply_for_keyguard_slide_camera_summary">Zastąp skróty slidera odblokowaniem twarzą</string>
+  <string name="face_data_apply_for_keyguard_summary">Odblokuj telefon, gdy patrzysz się na ekran blokady</string>
+  <string name="face_data_apply_for_keyguard_title">Ekran blokady</string>
+  <string name="face_data_category_title">Dane twarzy</string>
+  <string name="face_data_delete_dialog_message">Nie będziesz w stanie odblokować telefonu za pomocą danych twarzy po ich usunięciu.</string>
+  <string name="face_data_delete_dialog_title">Usunąć zapisane dane twarzy?</string>
+  <string name="face_data_delete_title">Usuń dane twarzy</string>
+  <string name="face_unlock_category_title">Ustawienia ekranu blokady</string>
+  <string name="face_unlock_retry_detect">Kliknij powyżej, aby użyć Odblokowania twarzą</string>
+  <string name="qs_close_night_mode_toast">Ciemny motyw jest wyłączony</string>
+  <string name="qs_open_night_mode_alert_summary">"Niektóre ustawienia wyświetlania nie są kompatybilne z Ciemnym motywem. Zostaną one przywrócone po jego wyłączeniu."</string>
+  <string name="qs_open_night_mode_toast">Ciemny motyw jest włączony</string>
+  <string name="quick_settings_nightmode_label">Ciemny motyw</string>
+  <string name="rgb_face_data_delete_title">Usuń dane twarzy 2D</string>
+  <string name="structure_face_data_delete_title">Usuń dane twarzy 3D</string>
 </resources>

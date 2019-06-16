@@ -604,6 +604,7 @@
   <string name="member_entrance_title_ultra_high_case_b">Odnowienie</string>
   <string name="member_entrance_title_ultra_low_case_a">Odnowienie</string>
   <string name="member_entrance_title_ultra_low_case_b">Odnowienie</string>
+  <string name="micloud_last_sync_canceled">Synchronizacja została anulowana. Spróbuj ponownie.</string>
   <string name="micloud_main_sync_mode_summary">Synchronizuj dane aplikacji w czasie rzeczywistym (zwiększy to zużycie baterii).</string>
   <string name="micloud_main_sync_mode_title">Szybka synchronizacja</string>
   <string name="micloud_manaul_sync_success_button_text">Szczegóły</string>

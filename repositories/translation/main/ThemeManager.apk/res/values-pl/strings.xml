@@ -746,5 +746,26 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="wallpaper_personal_dialog_content">Dzięki tej funkcji będziesz otrzymywać tapety dostosowane do Twoich zainteresowań. Możesz wyłączyć lub włączyć ją w ustawieniach. Spersonalizować tapety teraz?</string>
   <string name="wallpaper_personal_dialog_disagree">Nie, dzięki</string>
   <string name="wallpaper_personal_dialog_title">Tapety dla Ciebie</string>
-  <string name="desktop_effects">Efekty pulpitu</string> 
+  <string name="desktop_effects">Efekty pulpitu</string>
+  <string name="about_app_name">O Motywach</string>
+  <string name="about_version_update">"Co nowego?"</string>
+  <string name="already_latest_version">Aktualna</string>
+  <string name="character_counter_content_description">Limit znaków przekroczył %1$d z %2$d</string>
+  <string name="check_has_new_version">Dostępna jest aktualizacja</string>
+  <string name="common_applying">Stosowanie…</string>
+  <string name="common_format_date_no_year">dd MM</string>
+  <string name="common_downloading">Pobieranie…</string>
+  <string name="common_skip">Pomiń</string>
+  <string name="current_using_float_wallpaper_text">Przezroczysta</string>
+  <string name="current_version">Obecna wersja: %1$s</string>
+  <string name="goto_purchased_list">Zobacz historię zakupów</string>
+  <string name="goto_wechat">Skopiowano konto WeChat \"%1$s\" do schowka. Otworzyć WeChat teraz?</string>
+  <string name="lock_screen_apply">Ustaw jako ekran blokady</string>
+  <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
+  <string name="network_exception">"Nie można połączyć się z siecią. Sprawdź ustawienia i spróbuj ponownie."</string>
+  <string name="playing_ringtone">Odtwarzanie</string>
+  <string name="resource_is_off_shelf_can_not_share">"Nie można wysłać tego elementu, ponieważ nie jest już on dostępny."</string>
+  <string name="transparent_wallpaper_is_running_in_background">Przezroczysta tapeta jest uruchomiona w tle</string>
+  <string name="version_update">Sprawdź aktualizacje</string>
+  <string name="wechat_not_found">Zainstaluj najpierw WeChata</string>
 </resources>

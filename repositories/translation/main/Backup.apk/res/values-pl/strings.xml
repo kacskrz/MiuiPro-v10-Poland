@@ -145,6 +145,7 @@
   <string name="feature_title_antispam">Lista blokowanych</string>
   <string name="feature_title_call_log">Historia połączeń</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_xspace">Klonowane aplikacje</string>
   <string name="file_uploading">Przesyłanie...</string>
   <string name="files_backup_info">Wszystkie pliki na karcie SD (zdjęcia, utwory, wideo, dane aplikacji itp.)</string>
   <string name="findlost_contact">Przywróć kontakty</string>

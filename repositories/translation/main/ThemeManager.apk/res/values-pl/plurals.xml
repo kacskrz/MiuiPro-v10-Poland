@@ -48,4 +48,8 @@
         <item quantity="one">3-dniowa wersja próbna (pozostał dzisiaj %1$d element)</item>
         <item quantity="few">3-dniowa wersja próbna (pozostały dzisiaj %1$d elementy)</item>
     </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">Zastosowano na %1$d urządzeniach</item>
+        <item quantity="one">Zastosowano %1$d urządzeniu</item>
+    </plurals>
 </resources>

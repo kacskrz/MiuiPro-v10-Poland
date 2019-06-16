@@ -573,4 +573,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
   <string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
   <string name="abc_toolbar_collapse_description">Zwiń</string>
+  <string name="bind_google">Dodaj konto Google</string>
+  <string name="bind_weixin">Dodaj konto WeChat</string>
+  <string name="need_install_wechat">Zainstaluj WeChat</string>
 </resources>

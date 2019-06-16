@@ -1280,7 +1280,7 @@
   <string name="suggestion_hotwords_title_change_button_text">POKAŻ INNE</string>
   <string name="suggestion_hotwords_title_text">Ostatnio popularne wyszukiwania</string>
   <string name="suggestion_input_history_title_text">Ostatnio wyszukiwane przez Ciebie</string>
-  <string name="suggestion_input_hitory_clear_text">WYCZYŚĆ</string>
+  <string name="suggestion_input_hitory_clear_text">USUŃ</string>
   <string name="url_hint_head">Wszyscy szukają：</string>
   <string name="pref_privacy_policy">Polityka prywatności</string>
   <string name="data_traffic_download_cancel">Anuluj</string>
@@ -1383,4 +1383,8 @@
   <string name="data_traffic_download_confirm">Za pomocą danych komórkowych</string>
   <string name="data_traffic_download_ok">OK</string>
   <string name="load_error_tip">Błąd przy ładowaniu - kliknij, aby spróbować jeszcze raz</string>
+  <string name="document_open_txt_message">Aby poprawić wrażenia z czytania i zwiększyć bezpieczeństwo, użyj Zakładek</string>
+  <string name="document_open_txt_start_read">Zacznij czytać</string>
+  <string name="mw_add_to_dictionary">Dodaj do słownika</string>
+  <string name="mw_delete_suggestion_text">Usuń</string>
 </resources>

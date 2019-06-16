@@ -572,4 +572,14 @@
         <item quantity="other">%s min</item>
         <item quantity="one">%s min</item>
     </plurals>
+    <plurals name="antivirus_history_risk_number">
+        <item quantity="other">"%1$d zagrożeń / "</item>
+        <item quantity="one">"%1$d zagrożenie / "</item>
+        <item quantity="few">"%1$d zagrożenia / "</item>
+    </plurals>
+    <plurals name="antivirus_history_virus_number">
+        <item quantity="other">%1$d wirusów</item>
+        <item quantity="one">%1$d wirus</item>
+        <item quantity="few">%1$d wirusy</item>
+    </plurals>
 </resources>

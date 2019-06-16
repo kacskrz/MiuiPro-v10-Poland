@@ -21,6 +21,10 @@
   <string name="auto_start_warning_deny">Odmów</string>
   <string name="auto_start_warning_title">Zezwolić aplikacji %s na autostart?</string>
   <string name="autofill">Automatyczne wypełnianie</string>
+  <string name="autofill_save_ok">Gromadź</string>
+  <string name="autofill_save_title">Autouzupełnianie</string>
+  <string name="autofill_save_message">Czy chcesz gromadzić konta i hasła w usłudze autouzupełniania MIUI?</string>
+  <string name="autofill_save_sub_message">Możesz zobaczyć i usunąć hasła w \"Ustawieniach - Dodatkowe ustawienia - Prywatność - Zarządzanie hasłami\".</string>
   <string name="button_text_cancel">Zakończ</string>
   <string name="button_text_delete">Odinstaluj</string>
   <string name="button_text_delete_timer">Odinstaluj (%d)</string>

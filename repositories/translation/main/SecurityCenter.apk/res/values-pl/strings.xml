@@ -2610,4 +2610,12 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="quick_optimize_sub_summary_with_battery_text">Dodano %1$s, pozostało ok. %2$s</string>
   <string name="quick_optimize_sub_battery_text">Pozostało ok. %s</string>
   <string name="user_guide_title">Growe nowości</string>
+  <string name="antivirus_history">Historia</string>
+  <string name="antivirus_history_fixed">Naprawione</string>
+  <string name="antivirus_history_unfixed">Nienaprawione</string>
+  <string name="antivirus_history_ignore">Zignorowane</string>
+  <string name="antivirus_history_risk_found">Znaleziono zagrożenie lub wirusa</string>
+  <string name="antivirus_history_risk_unfound">Nie znaleziono zagrożeń</string>
+  <string name="delete_all_sms">Usuń wszystkie</string>
+  <string name="sms_delete_all_hint">Usunąć wszystkie zablokowane wiadomości?</string>
 </resources>

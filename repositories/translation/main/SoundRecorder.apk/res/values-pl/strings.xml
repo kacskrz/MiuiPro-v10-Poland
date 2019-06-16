@@ -168,4 +168,10 @@
   <string name="shortcut_records">Nagrania</string>
   <string name="shortcut_start_record">Zacznij nagranie</string>
   <string name="shortcut_stop_record">Zatrzymaj nagranie</string>
+  <string name="text_btn_backward_3_seconds">3 sekundy wstecz</string>
+  <string name="text_btn_forward_3_seconds">3 sekundy wprzód</string>
+  <string name="text_play_speed_0_5">Odtwarzanie 0,5x</string>
+  <string name="text_play_speed_1_0">Normalne</string>
+  <string name="text_play_speed_1_5">Odtwarzanie 1,5x</string>
+  <string name="text_play_speed_2_0">Odtwarzanie 2x</string>
 </resources>

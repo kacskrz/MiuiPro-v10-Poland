@@ -253,4 +253,5 @@ Zezwól aplikacji Notatki na dostęp do pamięci."</string>
 Zezwól aplikacji Notatki na odczyt stanu telefonu i jego identyfikację."</string>
   <string name="toast_refuse_to_use_record_audio">"Nie nadano uprawnień do mikrofonu.
 Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
+  <string name="toast_pic_is_not_really">Zapisywanie obrazu…</string>
 </resources>

@@ -829,4 +829,11 @@
   <string name="recipients_contain_sub_sim_number">"Wygląda na to, że wśród odbiorców jest numer przypisany do drugiej karty SIM. Wyślij wiadomość za pomocą drugiej karty SIM."</string>
   <string name="sub_sim_not_support_mms">"Nie można wysłać MMSa za pomocą drugiej karty SIM"</string>
   <string name="dialog_complain_tips">Aby móc zgłaszać elementy, zezwól aplikacji SMS na łączenie się z siecią.</string>
+  <string name="block_number_message">Ten numer telefonu zostanie dodany do listy blokowanych. Wszystkie wiadomości z tego numeru zostaną zablokowane.</string>
+  <string name="block_tag_message">Wszystkie wiadomości wysłane z usługi %s zostaną zablokowane. Możesz nie być w stanie otrzymywać kodów weryfikacyjnych bądź rachunków wysłanych przez tą usługę.</string>
+  <string name="confirm_upload_sms">Wyślij wiadomości, aby poprawić funkcjonalność listy blokowanych</string>
+  <string name="menu_sms_block">Lista blokowanych</string>
+  <string name="no_longer_recommend">"Nie pokazuj ponownie"</string>
+  <string name="shortcut_new_msg">Nowa wiadomość</string>
+  <string name="shortcut_setting">Ustawienia</string>
 </resources>

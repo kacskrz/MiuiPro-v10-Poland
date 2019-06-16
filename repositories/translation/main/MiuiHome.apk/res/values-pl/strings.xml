@@ -375,4 +375,10 @@
   <string name="menu_auto_fill_of_uninstall">Wypełnij miejsca po odinstalowanych aplikacjach</string>
   <string name="privacy_thumbnail_blur_summary">Zamaż podglądy w menu ostatnich aplikacji</string>
   <string name="privacy_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
+  <string name="activity_not_unlocked">Poczekaj, dopóki urządzenie nie jest w pełni uruchomione, przed otwarciem aplikacji</string>
+  <string name="default_folder_title_meitu">Aplikacje Meitu</string>
+  <string name="shake_to_align_icons">Potrząśnij urządzeniem, aby wypełnić puste miejsca ikonami</string>
+  <string name="shake_to_align_icons_summary">Potrząśnij urządzeniem w trybie edycji, aby wypełnić puste miejsca ikonami</string>
+  <string name="shake_to_align_icons_title">Potrząśnij, aby wypełnić puste miejsca</string>
+  <string name="system_shortcuts_more_operation">Informacje dot. aplikacji</string>
 </resources>
