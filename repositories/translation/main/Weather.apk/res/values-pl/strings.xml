@@ -127,6 +127,8 @@
   <string name="feedback_overcast">Zachmurzenie</string>
   <string name="feedback_report_privacy_msg">Raport będzie zawierać informację o Twojej lokalizacji</string>
   <string name="feedback_result_fail_no_choice">Wybierz pogodę jaką widzisz</string>
+  <string name="feedback_result_fail_no_reason">Dziękujemy za Twoją opinię!</string>
+  <string name="feedback_result_fail_same_type">"Wygląda na to, że twój raport nie różni się od obecnej pogody. Spróbuj ponownie."</string>
   <string name="feedback_result_success">Submitted successfully, thank you for your feedback.</string>
   <string name="feedback_sandy">Piasek</string>
   <string name="feedback_sunny">Słonecznie</string>

@@ -387,7 +387,7 @@
   <string name="stop_xspace_alert_content">"Wszystkie sklonowane aplikacje i ich dane zostaną usunięte na zawsze. Potrzebny będzie także restart urządzenia. Usunąć konta teraz?"</string>
   <string name="stop_xspace_alert_title">Usuwanie kont sklonowanych aplikacji</string>
   <string name="msg_switch_file_second">Czy usunąć te pliki w Drugiej przestrzeni po ich przeniesieniu?</string>
-  <string name="use_xiaoai_open">Wybudź za pomocą asystenta głosowego</string>
+  <string name="use_xiaoai_open">Wybudź za pomocą Mi SI</string>
   <string name="agree">Zgadzam się</string>
   <string name="disagree">"Nie zgadzam się"</string>
   <string name="net_work_notice">Kontrola rodzicielska musi łączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Te uprawnienia są wymagane, aby wysyłać informacje o poziomach naładowania baterii, liczbie kroków oraz lokalizacji do kontrolowanych urządzeń. Czy zgadzasz się na to?</string>
@@ -455,4 +455,12 @@ Upewnij się, że nazwa Twojej firmy jest prawidłowa. Przed aktywacją przeczyt
   <string name="dual_animation">Animacja uruchamiania</string>
   <string name="dual_animation_description">Pokaż animację, gdy uruchamiane są sklonowane aplikacje</string>
   <string name="kid_mode_label">Przestrzeń dla dziecka</string>
+  <string name="use_google_open">Wybudź za pomocą Asystenta Google</string>
+  <string name="xspace_whatsapp_title">WhatsApp</string>
+  <string name="xspace_facebook_title">Facebook</string>
+  <string name="xspace_instagram_title">Instagram</string>
+  <string name="facebook_login">Zaloguj się do Facebooka</string>
+  <string name="facebook_send">Wyślij na Facebooku</string>
+  <string name="instagram_send">Wyślij na Instagramie</string>
+  <string name="whatsapp_send">Wyślij na WhatsAppie</string>
 </resources>

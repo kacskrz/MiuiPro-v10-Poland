@@ -582,4 +582,48 @@
         <item quantity="one">%1$d wirus</item>
         <item quantity="few">%1$d wirusy</item>
     </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">Pozostało %s dni</item>
+        <item quantity="one">Pozostał %s dzień</item>
+        <item quantity="few">Pozostały %s dni</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">Pozostało %s godzin</item>
+        <item quantity="one">Pozostała %s godzina</item>
+        <item quantity="few">Pozostały %s godziny</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">Pozostało %s minut</item>
+        <item quantity="one">Pozostała %s minuta</item>
+        <item quantity="few">Pozostały %s minuty</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">Pozostało %s godzin</item>
+        <item quantity="one">Pozostała %s godzina</item>
+        <item quantity="few">Pozostały %s godziny</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">Pozostało %s dni</item>
+        <item quantity="one">Pozostał %s dzień</item>
+        <item quantity="few">Pozostały %s dni</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">Pozostało %s minut</item>
+        <item quantity="one">Pozostała %s minuta</item>
+        <item quantity="few">Pozostały %s minuty</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s dni do pełnego naładowania</item>
+        <item quantity="one">%s dzień do pełnego naładowania</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s godzin do pełnego naładowania</item>
+        <item quantity="one">%s godzina do pełnego naładowania</item>
+        <item quantity="few">%s godziny do pełnego naładowania</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minut do pełnego naładowania</item>
+        <item quantity="one">%s minuta do pełnego naładowania</item>
+        <item quantity="few">%s minuty do pełnego naładowania</item>
+    </plurals>
 </resources>

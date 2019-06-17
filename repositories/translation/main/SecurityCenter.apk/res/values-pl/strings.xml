@@ -2622,4 +2622,15 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="summary_dark_mode">Część stron renderuje się na czarno z powodu usług firm trzecich</string>
   <string name="title_dark_mode">Część elementów wyświetla się nieprawidłowo</string>
   <string name="toast_dark_mode_fixed">Pomyślnie naprawiono. Aby zastosować zmiany, opuść tą stronę.</string>
+  <string name="power_main_battery_last_day_hour">Pozostało %1$s dni %2$s godz.</string>
+  <string name="power_main_battery_last_hour_minute">Pozostało %1$s godz. %2$s min</string>
+  <string name="pc_main_battery_text_day">Dodano %1$s min, pozostało ok. %2$s dni</string>
+  <string name="pc_main_battery_text_day_hour">Dodano %1$s min, pozostało ok. %2$s dni %3$s godz.</string>
+  <string name="pc_main_battery_text_hour">Dodano %1$s min, pozostało ok. %2$s godz.</string>
+  <string name="pc_main_battery_text_hour_minute">Dodano %1$s min, pozostało ok. %2$s godz. %3$s min</string>
+  <string name="pc_main_battery_text_minute">Dodano %1$s min, pozostało ok. %2$s min</string>
+  <string name="pc_main_sub_battery_text_day_hour">Pozostało %1$s dni %2$s godz.</string>
+  <string name="pc_main_sub_battery_text_hour_minute">Pozostało %1$s godz. %2$s min</string>
+  <string name="pc_main_power_manager_day_hour">%1$s dni %2$s godz. do pełnego naładowania</string>
+  <string name="pc_main_power_manager_hour_minute">%1$s godz. %2$s min do pełnego naładowania</string>
 </resources>

@@ -6293,4 +6293,11 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="usage_app_weekend_limit">Weekendy</string>
   <string name="volume_launch_camera_summary">Kliknij dwukrotnie przycisk głośności, aby włączyć Aparat na zablokowanym ekranie</string>
   <string name="wakeup_and_sleep_settings_category_name">Ustawienia ekranu blokady</string>
+  <string name="notch_style_mod_title">Ukryj wcięcie</string>
+  <string name="notch_style_mod_description">Ustawienia wyświetlania wcięcia i paska statusu</string>
+  <string name="notch_style_show">Nie ukrywaj</string>
+  <string name="notch_style_status_bar_inside">Ukryj bez przenoszenia paska statusu</string>
+  <string name="notch_style_status_bar_outside">Ukryj i przenieś pasek statusu</string>
+  <string name="miui_lab_home_feed_title">Centrum multimediów</string>
+  <string name="miui_lab_home_feed_desc">Ciekawe pomysły, fascynujące historie</string>
 </resources>

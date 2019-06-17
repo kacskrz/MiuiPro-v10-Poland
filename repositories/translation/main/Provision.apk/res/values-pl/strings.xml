@@ -115,4 +115,5 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="skip_gesture_guide_dialog_negative_btn">Anuluj</string>
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
   <string name="terms_of_use_label_updater">, Aktualizacje</string>
+  <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
 </resources>

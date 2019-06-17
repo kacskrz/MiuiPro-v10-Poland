@@ -57,8 +57,8 @@
     <string name="error_send_empty_note_to_weibo">Nie można wysłać pustej notatki do Weibo</string>
     <string name="recover_notes_hint">Wystąpił błąd, przejdź do i.m.com, aby przywrócić notatki.</string>
     <string name="force_touch_menu_add">Dodaj notatkę</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Szybkie usuwanie</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Nie pytaj o potwierdzenie przy usuwaniu notatki gestem</string>
+	<string name="pref_title_skip_confirm_for_quick_delete">Usuwanie gestem</string>
+	<string name="pref_desc_skip_confirm_for_quick_delete">"Przesuń w górę dwoma palcami, aby usunąć notatkę bez potwierdzania"</string>
     <string name="pref_title_show_root_folder_in_homepage">Pokaż tylko szybkie notatki na stronie startowej</string>
     <string name="alert_title_hidden_note">Otrzymano przypomnienie ukrytej notatki</string>
     <string name="hint_cannot_view_hidden_note_content">Nie można wyświetlić zawartości ukrytych notatek</string>
