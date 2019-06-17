@@ -2618,4 +2618,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="antivirus_history_risk_unfound">Nie znaleziono zagrożeń</string>
   <string name="delete_all_sms">Usuń wszystkie</string>
   <string name="sms_delete_all_hint">Usunąć wszystkie zablokowane wiadomości?</string>
+  <string name="button_dark_mode">Napraw</string>
+  <string name="summary_dark_mode">Część stron renderuje się na czarno z powodu usług firm trzecich</string>
+  <string name="title_dark_mode">Część elementów wyświetla się nieprawidłowo</string>
+  <string name="toast_dark_mode_fixed">Pomyślnie naprawiono. Aby zastosować zmiany, opuść tą stronę.</string>
 </resources>
