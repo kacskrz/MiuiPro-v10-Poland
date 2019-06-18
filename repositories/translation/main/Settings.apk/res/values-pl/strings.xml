@@ -6277,16 +6277,16 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="status_bar_title">Pasek statusu</string>
   <string name="unlock_mode_title">Blokada ekranu</string>
   <string name="usage_app_get_it">Rozumiem</string>
-  <string name="usage_app_limit_alter_summary">"Ten limit czasu jest krótszy niż czas, przez który korzystano dzisiaj z tej aplikacji. Ustawić go mimo to?"</string>
+  <string name="usage_app_limit_alter_summary">"Ten limit czasu jest krótszy niż okres czasu, przez który korzystano dzisiaj z tej aplikacji. Ustawić go mimo to?"</string>
   <string name="usage_app_limit_alter_title">Sprawdź limit czasu</string>
   <string name="usage_app_limit_prelong">Przedłuż czas</string>
   <string name="usage_app_limit_reach_summay">Pozostało %s</string>
   <string name="usage_app_limit_reach_title">Aplikacja %s osiąga limit czasu na ekranie</string>
-  <string name="usage_app_limit_summary">"Gdy limit zostanie przekroczony, wybrane aplikacje nie będą dostępne"</string>
+  <string name="usage_app_limit_summary">"Gdy limit zostanie przekroczony, aplikacja stanie się niedostępna"</string>
   <string name="usage_app_limit_title">Ogranicz czas na ekranie</string>
   <string name="usage_app_other_settings">Dodatkowe ustawienia</string>
   <string name="usage_app_over_content">"Dzisiaj używano tej aplikacji już przez %s."</string>
-  <string name="usage_app_over_summary">"Osiągnięto limit. Czas minął!"</string>
+  <string name="usage_app_over_summary">"Osiągnięto limit czasu korzystania z tej aplikacji. Odpocznij!"</string>
   <string name="usage_app_set_limit_time">Ustaw limit</string>
   <string name="usage_app_system_app_summary">"Nie można ustawić limitu dla aplikacji systemowych"</string>
   <string name="usage_app_weekday_limit">Dni robocze</string>
@@ -6300,4 +6300,6 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="notch_style_status_bar_outside">Ukryj i przenieś pasek statusu</string>
   <string name="miui_lab_home_feed_title">Centrum multimediów</string>
   <string name="miui_lab_home_feed_desc">Ciekawe pomysły, fascynujące historie</string>
+  <string name="popup_gesture_title">Podnieś, aby otworzyć aparat</string>
+  <string name="popup_gesture_summary">Podnieś telefon i spójrz na ekran, aby automatycznie otworzyć przedni aparat</string>
 </resources>
