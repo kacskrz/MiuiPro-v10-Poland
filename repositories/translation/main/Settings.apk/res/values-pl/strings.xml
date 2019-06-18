@@ -6285,7 +6285,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="usage_app_limit_summary">"Gdy limit zostanie przekroczony, aplikacja stanie się niedostępna"</string>
   <string name="usage_app_limit_title">Ogranicz czas na ekranie</string>
   <string name="usage_app_other_settings">Dodatkowe ustawienia</string>
-  <string name="usage_app_over_content">"Dzisiaj używano tej aplikacji już przez %s."</string>
+  <string name="usage_app_over_content">"Przekroczyłeś limit (%s)."</string>
   <string name="usage_app_over_summary">"Osiągnięto limit czasu korzystania z tej aplikacji. Odpocznij!"</string>
   <string name="usage_app_set_limit_time">Ustaw limit</string>
   <string name="usage_app_system_app_summary">"Nie można ustawić limitu dla aplikacji systemowych"</string>
