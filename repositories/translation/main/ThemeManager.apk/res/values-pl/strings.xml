@@ -543,11 +543,11 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="theme_setting">Ustawienia</string>
   <string name="theme_to_comment">Zostaw komentarz</string>
   <string name="theme_user_agreement_allow">Zgadzam się</string>
-  <string name="theme_user_agreement_content1">"Korzystając z tego produktu, zgadzasz się na naszą "</string>
-  <string name="theme_user_agreement_content2">Umowę Użytkownika</string>
+  <string name="theme_user_agreement_content1">"Zapoznaj się z: "</string>
+  <string name="theme_user_agreement_content2">"Umową Użytkownika"</string>
   <string name="theme_user_agreement_content3">" i "</string>
-  <string name="theme_user_agreement_content4">Politykę Prywatności</string>
-  <string name="theme_user_agreement_content5">. Aplikacja wymaga połączenia z siecią.</string>
+  <string name="theme_user_agreement_content4">"Polityką Prywatności."</string>
+  <string name="theme_user_agreement_content5">" Aplikacja wymaga połączenia z siecią."</string>
   <string name="theme_user_agreement_exit">Nie zgadzam się</string>
   <string name="theme_user_agreement_remind_again">Pokaż Warunki Użytkowania</string>
   <string name="theme_user_agreement_remind_never">Nie pokazuj ponownie</string>
