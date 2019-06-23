@@ -6302,4 +6302,19 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="miui_lab_home_feed_desc">Ciekawe pomysły, fascynujące historie</string>
   <string name="popup_gesture_title">Podnieś, aby otworzyć aparat</string>
   <string name="popup_gesture_summary">Podnieś telefon i spójrz na ekran, aby automatycznie otworzyć przedni aparat</string>
+  <string name="miui_lab_3d_gesture_title">Wzory 3D</string>
+  <string name="miui_lab_3d_gesture_slogan">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
+  <string name="miui_lab_3d_gesture_summary">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
+  <string name="miui_lab_3d_gesture_desc">Otwórz pulpit i narysuj jeden ze wzorów w powietrzu za pomocą telefonu, aby otworzyć wybrane aplikacje</string>
+  <string name="support_gesture_title">Wzory 3D</string>
+  <string name="customize_function">Dostępne wzory</string>
+  <string name="gesture_m">Wzór M</string>
+  <string name="gesture_w">Wzór W</string>
+  <string name="gesture_c">Wzór C</string>
+  <string name="gesture_z">Wzór Z</string>
+  <string name="gesture_open_music">Otwórz Muzykę</string>
+  <string name="gesture_open_camera">Uruchom Aparat</string>
+  <string name="gesture_open_wechat">Otwórz WeChat</string>
+  <string name="gesture_open_alipay">Otwórz Alipay</string>
+  <string name="lock_screen_settings_title">Ekran blokady</string>
 </resources>

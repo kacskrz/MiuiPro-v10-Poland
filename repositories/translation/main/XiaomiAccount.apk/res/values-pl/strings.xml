@@ -242,7 +242,8 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="button_unbind">Rozłącz</string>
     <string name="unbind_sns_description">Po rozłączeniu tego konta, nie będziesz mógł użyć Twojego %s konta do zalogowania się do konta Xiaomi.</string>
     <string name="confirm_unbind">Rozłączyć to konto?</string>
-    <string name="binded_description" formatted="false">%s został podłączony do twojego konta Xiaomi. Twój profil został zaktualizowany informacja z twojego konta %s.</string>
+	<string name="binded_description" formatted="false">"Połączono z kontem: %s. 
+Możesz teraz zalogować się na konto Xiaomi, korzystając z %s."</string>
     <string name="update_contacts">Aktualizacja kontaktów</string>
     <string name="updated_nothing">Zaktualizowano</string>
     <string name="access_token_expired_warning">Konto Weibo wygasło</string>

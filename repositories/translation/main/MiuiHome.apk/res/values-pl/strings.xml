@@ -380,7 +380,7 @@
   <string name="shake_to_align_icons">Potrząśnij urządzeniem, aby wypełnić puste miejsca ikonami</string>
   <string name="shake_to_align_icons_summary">Potrząśnij urządzeniem w trybie edycji, aby wypełnić puste miejsca ikonami</string>
   <string name="shake_to_align_icons_title">Potrząśnij, aby wypełnić puste miejsca</string>
-  <string name="system_shortcuts_more_operation">Informacje dot. aplikacji</string>
+  <string name="system_shortcuts_more_operation">O aplikacji</string>
   <string name="all_apps_setting_desktop_desc">Wszystkie zainstalowane aplikacje są wyświetlane na pulpitach. Dotknij i przytrzymaj ikonę danej aplikacji, aby wyświetlić możliwe akcje do wykonania (skróty aplikacji).</string>
   <string name="all_apps_setting_desktop_title">Standardowy</string>
   <string name="all_apps_setting_drawer_desc">Kliknij w przycisk menu, aby wyświetlić listę zainstalowanych aplikacji (szufladę aplikacji).</string>
