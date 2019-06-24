@@ -553,4 +553,19 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="solar_lunar_convert_tab">Konwersja</string>
   <string name="solar_to_lunar_chinese_calendar">Gregoriański na chiński</string>
   <string name="title_confirm_close_chinese_calendar">Wyłączenie chińskiego kalendarza</string>
+  <string name="fb_birthday_failure">"Nie udało się zaimportować urodzin z Facebooka. Spróbuj ponownie."</string>
+  <string name="fb_birthday_import_pref_desc">"Zaimportuj urodziny znajomych z Facebooka"</string>
+  <string name="fb_birthday_import_pref_title">Importuj teraz</string>
+  <string name="fb_birthday_logout_failure">"Nie dodałeś jeszcze swojego konta na Facebooku"</string>
+  <string name="fb_birthday_logout_pref_desc">"Usuń konto Facebooka wraz z urodzinami znajomych"</string>
+  <string name="fb_birthday_logout_pref_title">Usuń konto Facebooka</string>
+  <string name="fb_birthday_logout_success">Pomyślnie usunięto konto Facebooka</string>
+  <string name="fb_birthday_region_warning">"Ta funkcja nie jest dostępna w Twoim regionie"</string>
+  <string name="fb_birthday_success">Pomyślnie zaimportowano urodziny z Facebooka</string>
+  <string name="fb_calendar_account_name">Kalendarz lokalny Mi</string>
+  <string name="fb_calendar_display_name">"Urodziny znajomych z Facebooka"</string>
+  <string name="fb_calendar_owner_account">Kalendarz Mi</string>
+  <string name="guide_card_primary_fb_text">Wczytaj urodziny znajomych z Facebooka</string>
+  <string name="guide_card_second_fb_text">Nie przegap ważnych dat</string>
+  <string name="setting_fb_birthdays_title">Importuj urodziny znajomych z Facebooka</string>
 </resources>

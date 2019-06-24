@@ -215,4 +215,5 @@
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
   <string name="voice_assistant_tips">Zaktualizowano system o możliwość przytrzymania przycisku Zasilania w celu uruchomienia Asystenta</string>
   <string name="popup_camera_front_when_use">Aplikacja Aparatu musi otworzyć przedni aparat jeszcze raz. Zrobić to teraz?</string>
+  <string name="frequent_email">Częste e-maile</string>
 </resources>

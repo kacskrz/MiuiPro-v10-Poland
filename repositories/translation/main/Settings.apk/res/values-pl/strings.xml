@@ -6319,4 +6319,5 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="lock_screen_settings_title">Ekran blokady</string>
   <string name="bluetooth_disable_inband_ringing">Wyłącz dzwonki w słuchawkach</string>
   <string name="bluetooth_disable_inband_ringing_summary">Nie odtwarzaj własnych dzwonków telefonu w słuchawkach Bluetooth</string>
+  <string name="miui_sos_emergency_delete">Usuń</string>
 </resources>

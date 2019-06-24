@@ -109,4 +109,8 @@
      <item quantity="one">Otrzymałeś %d zaproszenie do czatu</item>
      <item quantity="few">Otrzymałeś %d zaproszenia do czatu</item>
   </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s wiadomości | "</item>
+        <item quantity="one">"%s wiadomość | "</item>
+    </plurals>
 </resources>

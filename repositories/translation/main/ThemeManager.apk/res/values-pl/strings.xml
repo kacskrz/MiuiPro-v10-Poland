@@ -768,4 +768,9 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="transparent_wallpaper_is_running_in_background">Przezroczysta tapeta jest uruchomiona w tle</string>
   <string name="version_update">Sprawdź aktualizacje</string>
   <string name="wechat_not_found">Zainstaluj najpierw WeChata</string>
+  <string name="more_sub_comment">Zobacz wszystkie odpowiedzi (%1$d)</string>
+  <string name="theme_comment_detail_no_more">"Na razie to wszystko."</string>
+  <string name="theme_comment_detail_sub_comment_title">Wszystkie odpowiedzi</string>
+  <string name="theme_comment_detail_title">Szczegóły</string>
+  <string name="theme_comment_sub_comment_bar_hint">Podziel się swoimi pomysłami z naszą społecznością</string>
 </resources>

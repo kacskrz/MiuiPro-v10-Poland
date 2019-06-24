@@ -812,4 +812,7 @@
 	<string name="notification_offline_to_online_summary">Pokazuj informacje o pogodzie i skróty Mi Wideo</string>
 	<string name="notification_offline_to_online_title">Skróty w pasku powiadomień</string>
 	<string name="offline_setting_mobile_net_limit_unlimited_title">Ograniczenia zużycia danych</string>
+	<string name="offline_setting">Ustawienia odtwarzania</string>
+	<string name="skip_play_time_summary">Pomiń napisy początkowe i końcowe w trakcie oglądania filmów</string>
+    <string name="skip_play_time_title">Pomiń napisy</string>
 </resources>

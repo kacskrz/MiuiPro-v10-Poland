@@ -1839,4 +1839,7 @@ Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkol
   <string name="call_record_active">Tylko połączone</string>
   <string name="call_record_all">Wszystkie połączenia</string>
   <string name="call_record_range">Nagrywanie połączeń</string>
+  <string name="location">Lokalizacja</string>
+  <string name="operator">Operator</string>
+  <string name="smsc_dialog_message">"Upewnij się, że wpisany numer jest prawidłowy. W przeciwnym wypadku nie będziesz w stanie wysyłać i otrzymywać SMS-ów. Skontaktuj się z operatorem, aby potwierdzić swój numer SMSC."</string>
 </resources>
