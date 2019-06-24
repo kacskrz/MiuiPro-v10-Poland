@@ -269,4 +269,13 @@ Czy chcesz ją odnowić?"</item>
         <item quantity="one">Pozostał %d dzień</item>
         <item quantity="few">Pozostały %d dni</item>
     </plurals>
+    <plurals name="check_in_day_label">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dzień</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning_custom">
+        <item quantity="other">Własne: pozostało %d minut</item>
+        <item quantity="one">Własne: pozostała %d minuta</item>
+        <item quantity="few">Własne: pozostały %d minuty</item>
+    </plurals>
 </resources>
