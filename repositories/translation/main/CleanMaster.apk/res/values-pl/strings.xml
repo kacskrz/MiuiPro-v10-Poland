@@ -594,7 +594,7 @@
   <string name="facebook_function_summery">Wyczyść rzeczy zachowane przez Facebooka</string>
   <string name="facebook_function_title">Czyszczenie Facebooka</string>
   <string name="security_center_slogan">Panel Sterowania</string>
-  <string name="notification_garbage_cleanup_summary">Wyczyść śmieci (%s), aby przyspieszyć urządzenie</string>
+  <string name="notification_garbage_cleanup_summary">Wyczyść %s śmieci, aby przyspieszyć urządzenie</string>
   <string name="notification_garbage_cleanup_title">Usuń śmieci</string>
   <string name="notification_low_memory_cache_summary">Pozostało mniej niż 1,5GB wolnego miejsca</string>
   <string name="notification_low_memory_cache_title">Wyczyść pamięć podręczną</string>
