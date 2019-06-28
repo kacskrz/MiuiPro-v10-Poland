@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<plurals name="fast_connect_headset_reset">
+        <item quantity="other">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekund</item>
+        <item quantity="one">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundę</item>
+        <item quantity="few">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundy</item>
+	</plurals>
+</resources>

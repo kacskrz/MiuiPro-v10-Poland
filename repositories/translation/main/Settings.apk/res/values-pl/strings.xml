@@ -111,7 +111,7 @@
   <string name="account_settings_menu_auto_sync">Autosynchronizacja danych</string>
   <string name="account_settings_menu_auto_sync_personal">Autosynchronizacja: osobiste</string>
   <string name="account_settings_menu_auto_sync_work">Autosynchronizacja: do pracy</string>
-  <string name="account_settings_title">Konta</string>
+  <string name="account_settings_title">Google i konta</string>
   <string name="account_sync_settings_title">Synchronizacja</string>
   <string name="account_sync_title">Synchronizacja konta</string>
   <string name="Accounts_settings_title">Konta</string>
@@ -6273,7 +6273,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="privacy_protection_title">Prywatność</string>
   <string name="recommend_tip">Potrzebujesz innych ustawień?</string>
   <string name="screen_settings">Ekran blokady</string>
-  <string name="settings_new_version_btn">Aktualizacja</string>
+  <string name="settings_new_version_btn">Aktualizuj</string>
   <string name="status_bar_title">Pasek statusu</string>
   <string name="unlock_mode_title">Blokada ekranu</string>
   <string name="usage_app_get_it">Rozumiem</string>
@@ -6320,4 +6320,9 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="bluetooth_disable_inband_ringing">Wyłącz dzwonki w słuchawkach</string>
   <string name="bluetooth_disable_inband_ringing_summary">Nie odtwarzaj własnych dzwonków telefonu w słuchawkach Bluetooth</string>
   <string name="miui_sos_emergency_delete">Usuń</string>
+  <string name="ambient_display_screen_summary_always_on">Zawsze włączony / Zwiększone użycie baterii</string>
+  <string name="ambient_display_screen_summary_notifications">Nowe powiadomienia</string>
+  <string name="ambient_display_screen_title">Zawsze włączony</string>
+  <string name="gmscore_settings_title">Podstawowe usługi Google</string>
+  <string name="password_security_settings_title">Hasła i bezpieczeństwo</string>
 </resources>
