@@ -1387,4 +1387,11 @@
   <string name="document_open_txt_start_read">Zacznij czytać</string>
   <string name="mw_add_to_dictionary">Dodaj do słownika</string>
   <string name="mw_delete_suggestion_text">Usuń</string>
+  <string name="channel_complete">Gotowe</string>
+  <string name="channel_edit">Edytuj</string>
+  <string name="channel_header_description">Aby wejść, przytrzymaj przycisk Edytuj</string>
+  <string name="channel_header_title">Mój kanał</string>
+  <string name="channel_more_description">Kliknij, aby dodać kanał</string>
+  <string name="channel_more_title">Więcej kanałów</string>
+  <string name="multi_window_max_tips">Ilość okienek przekroczyła limit</string>
 </resources>

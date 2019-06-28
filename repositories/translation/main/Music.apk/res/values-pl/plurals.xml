@@ -278,4 +278,38 @@ Czy chcesz ją odnowić?"</item>
         <item quantity="one">Własne: pozostała %d minuta</item>
         <item quantity="few">Własne: pozostały %d minuty</item>
     </plurals>
+    <plurals name="Ndownload_song_button">
+        <item quantity="other">Pobierz %1$d utworów (%2$.1f MB)</item>
+        <item quantity="one">Pobierz %1$d utwór (%2$.1f MB)</item>
+        <item quantity="few">Pobierz %1$d utwory (%2$.1f MB)</item>
+    </plurals>
+    <plurals name="Ndownload_songs">
+        <item quantity="other">Pobieranie %1$d utworów (%2$.1f MB)</item>
+        <item quantity="one">Pobieranie %1$d utworu (%2$.1f MB)</item>
+    </plurals>
+    <plurals name="cloud_hint_upload_with_count">
+        <item quantity="other">Masz %d utworów do wysłania.</item>
+        <item quantity="one">Masz %d utwór do wysłania.</item>
+        <item quantity="few">Masz %d utwory do wysłania.</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_download_title">
+        <item quantity="other">%d utworów do pobrania</item>
+        <item quantity="one">%d utwór do pobrania</item>
+        <item quantity="few">%d utwory do pobrania</item>
+    </plurals>
+    <plurals name="cloud_new_user_guide_upload_title">
+        <item quantity="other">%d utworów do wysłania</item>
+        <item quantity="one">%d utwór do wysłania</item>
+        <item quantity="few">%d utwory do wysłania</item>
+    </plurals>
+    <plurals name="cloud_state_view_hint_download_pause">
+        <item quantity="other">Wstrzymano pobieranie - pozostało %d utworów.</item>
+        <item quantity="one">Wstrzymano pobieranie - pozostał %d utwór.</item>
+        <item quantity="few">Wstrzymano pobieranie - pozostały %d utwory.</item>
+    </plurals>
+    <plurals name="local_song_empty_hint_button_sub_text">
+        <item quantity="other">%1$d utworów do pobrania (%2$.1f MB).</item>
+        <item quantity="one">%1$d utwór do pobrania (%2$.1f MB).</item>
+        <item quantity="few">%1$d utwory do pobrania (%2$.1f MB).</item>
+    </plurals>
 </resources>

@@ -175,4 +175,9 @@
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" (%1$s godz.) - %2$s"</item>
     </plurals>
+    <plurals name="count_down_time_to_shutdown">
+        <item quantity="other">Podłącz ładowarkę tak szybko, jak to możliwe. Twoje urządzenie wyłączy się za %d sekund.</item>
+        <item quantity="one">Podłącz ładowarkę tak szybko, jak to możliwe. Twoje urządzenie wyłączy się za %d sekundę.</item>
+        <item quantity="few">Podłącz ładowarkę tak szybko, jak to możliwe. Twoje urządzenie wyłączy się za %d sekundy.</item>
+    </plurals>
 </resources>

@@ -1247,4 +1247,26 @@ Be Happy"</string>
   <string name="video_play_count">%1$s wyświetleń</string>
   <string name="video_play_finish_recommend">Polecane wideo</string>
   <string name="video_play_finish_share">Udostępnij</string>
+  <string name="cloud_hint_no_song_to_download">Pobrano wszystko</string>
+  <string name="cloud_hint_no_song_to_upload">Wysłano wszystko</string>
+  <string name="cloud_hint_upload">Wyślij piosenki do chmury.</string>
+  <string name="cloud_hint_upload_button_text">Spróbuj teraz</string>
+  <string name="cloud_hint_upload_with_count_button_text">Rozpocznij wysyłanie</string>
+  <string name="cloud_new_user_guide_download_button_text">Pobierz utwory teraz</string>
+  <string name="cloud_new_user_guide_download_sub_button">Własne pobieranie</string>
+  <string name="cloud_new_user_guide_download_subtitle">Pobierz piosenki i ciesz się nimi!</string>
+  <string name="cloud_new_user_guide_upload_button_text">Wyślij utwory teraz</string>
+  <string name="cloud_new_user_guide_upload_sub_button">Własne wysyłanie</string>
+  <string name="cloud_new_user_guide_upload_subtitle">Wyślij piosenki i ciesz się nimi!</string>
+  <string name="cloud_space_fetch_error">Błąd uzyskiwania informacji o Chmurze</string>
+  <string name="cloud_space_fetching">Uzyskiwanie informacji o miejscu w Chmurze</string>
+  <string name="cloud_space_hint" formatted="false">Miejsce w Chmurze: %.1f GB/%.1f GB</string>
+  <string name="cloud_state_view_hint_scanning">Skanowanie utworów</string>
+  <string name="continue_download">Kontynuuj pobieranie</string>
+  <string name="delete_action_includ_cloud_song">Usuń utwory z Chmury</string>
+  <string name="dialog_show_more_upload">Kopia zapasowa utworów</string>
+  <string name="download_song_title">Wybierz utwory do pobrania</string>
+  <string name="impunity_declaration_content_live">Przed użyciem tej funkcji musisz przeczytać i zaakceptować warunki %1$s i %2$s.</string>
+  <string name="local_song_empty_hint_button_text">Pobierz utwory</string>
+  <string name="stop_download">Stop</string>
 </resources>

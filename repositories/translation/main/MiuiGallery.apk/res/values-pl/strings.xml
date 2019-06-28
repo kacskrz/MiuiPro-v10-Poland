@@ -1532,4 +1532,11 @@ aby spersonalizować Galerię"</string>
   <string name="video_editor_audio_quiet">Spokój</string>
   <string name="video_editor_audio_summertime">Lato</string>
   <string name="video_editor_audio_vitality">Wigor</string>
+  <string name="movie_audio_antiquity">Retro</string>
+  <string name="movie_audio_dream">Marzenia</string>
+  <string name="movie_audio_electronics">Elektroniczne</string>
+  <string name="movie_audio_quiet">Spokój</string>
+  <string name="movie_audio_summertime">Lato</string>
+  <string name="movie_audio_vitality">Wigor</string>
+  <string name="movie_customer_unsupport_audio_file">Niewspierany plik audio</string>
 </resources>

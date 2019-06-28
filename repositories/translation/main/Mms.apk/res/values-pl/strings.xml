@@ -850,4 +850,5 @@
   <string name="pref_title_smart_msg_privacy_policy">Polityka prywatności Inteligentnych wiadomości</string>
   <string name="toast_failed_to_close_priv_auth">"Nie można odwołać autoryzacji. Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="you_have_new_message">Masz nowe wiadomości</string>
+  <string name="delete_block_conversation">Usuń tą konwersację</string>
 </resources>

@@ -1320,4 +1320,9 @@
         <item>Otwarcie Wyszukiwania</item>
         <item>Przejście do Ustawień</item>
     </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Słupkowy</item>
+        <item>Procentowy (w ikonie)</item>
+        <item>Procentowy (obok ikony na pasku powiadomień)</item>
+    </string-array>
 </resources>
