@@ -218,4 +218,7 @@
   <string name="frequent_email">Częste e-maile</string>
   <string name="user_switching_dialog_switch_into_kid_space">Włączanie Przestrzeni dla dziecka…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Opuszczanie Przestrzeni dla dziecka…</string>
+  <string name="popup_camera_cancel_popup">Anuluj</string>
+  <string name="popup_camera_continue_popup">Otwórz Aparat</string>
+  <string name="popup_camera_remove_hid_device">Wygląda na to, że Twoje urządzenie jest połączone z kontrolerem do gier. Możesz nie być w stanie otworzyć przedniego aparatu, gdy kontroler jest połączony.</string>
 </resources>

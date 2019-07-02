@@ -14,14 +14,14 @@
     <item>Własne</item>
   </string-array>
     <string-array name="date_of_app_all">
-        <item>Wczoraj (dane)</item>
-        <item>Dzisiaj (dane)</item>
-        <item>W poprzednim miesiącu (dane)</item>
-        <item>W tym miesiącu (dane)</item>
-        <item>Wczoraj (Wi-Fi)</item>
-        <item>Dzisiaj (Wi-Fi)</item>
-        <item>W poprzednim miesiącu (Wi-Fi)</item>
-        <item>W tym miesiącu (Wi-Fi)</item>
+        <item>"Wczoraj (dane) "</item>
+        <item>"Dzisiaj (dane) "</item>
+        <item>"W poprzednim miesiącu (dane) "</item>
+        <item>"W tym miesiącu (dane) "</item>
+        <item>"Wczoraj (Wi-Fi) "</item>
+        <item>"Dzisiaj (Wi-Fi) "</item>
+        <item>"W poprzednim miesiącu (Wi-Fi) "</item>
+        <item>"W tym miesiącu (Wi-Fi) "</item>
     </string-array>
   <string-array name="date_of_traffic">
     <item>"Wczoraj "</item>

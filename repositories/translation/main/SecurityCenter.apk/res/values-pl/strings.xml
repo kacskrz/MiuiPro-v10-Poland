@@ -2640,5 +2640,5 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gb_first_guide_gamebox_des">Używaj skrótów w trakcie grania</string>
   <string name="gb_first_guide_handsfree_des">Odbieraj telefony w tle</string>
   <string name="gb_first_guide_shortcut_des">Utworzono skrót dla Game Turbo na pulpicie</string>
-  <string name="gb_first_guide_title">Przyspiesz prędkość i ulepsz doświadczenie systemowo</string>
+  <string name="gb_first_guide_title">Przyspiesz prędkość i wydajność systemowo</string>
 </resources>

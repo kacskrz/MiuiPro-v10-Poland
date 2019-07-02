@@ -5908,8 +5908,9 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="page_layout_34">Telefon</string>
   <string name="page_layout_35">Notatki</string>
   <string name="words_title">Tekst</string>
-  <string name="bootloader_tips">"Po dodaniu konta Xiaomi nie wylogowuj się z niego, nie wykonuj czyszczenia do ustawień fabrycznych albo czyszczenia danych aplikacji systemowych. Jeśli wykonasz te działania, dodaj swoje konto ponownie w tym trybie. W przeciwnym wypadku możesz nie być w stanie odblokować swojego urządzenia."</string>
-  <string name="bootloader_tips_ok">Rozumiem</string>
+  <string name="bootloader_tips">"%s
+
+Jeśli już wykonałeś którąś z tych akcji, dodaj swoje konto ponownie w tym trybie. W przeciwnym wypadku możesz nie być w stanie odblokować swojego urządzenia."</string>  <string name="bootloader_tips_ok">Rozumiem</string>
   <string name="keyguard_notification_status_title">Gdy ekran jest wyłączony i przyjdzie powiadomienie</string>
   <string name="others">Inne</string>
   <string name="slider_vocie_online_theme">Dźwięki online</string>  
@@ -6325,4 +6326,6 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="ambient_display_screen_title">Zawsze włączony</string>
   <string name="gmscore_settings_title">Podstawowe usługi Google</string>
   <string name="password_security_settings_title">Hasła i bezpieczeństwo</string>
+  <string name="bootloader_tips_warning">"Nie rozłączaj się z siecią, nie wylogowuj się z swojego konta Xiaomi, nie wykonuj resetu do ustawień fabrycznych czy wymazywania danych systemowych."</string>
+  <string name="disallow_lock_screen_summary">Najpierw zezwól na powiadomienia w \"Powiadomieniach aplikacji\"</string>
 </resources>
