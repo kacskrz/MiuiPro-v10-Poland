@@ -3392,7 +3392,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="quiet_no_interruptions_mode">Wycisz wszystkie zakłócenia</string>
   <string name="quiet_off_mode">Zawsze zezwalaj na zakłócenia</string>
   <string name="radio_controls_summary">Zarządzaj połączeniami Wi-Fi i Bluetooth, trybem samolotowym, sieciami komórkowymi i VPN</string>
-  <string name="radio_controls_title">Więcej</string>
+  <string name="radio_controls_title">Pozostałe ustawienia sieci</string>
   <string name="radio_info_asdiv_switch_label">Status ASDiv:</string>
   <string name="radio_info_band_mode_label">Wybierz pasmo radiowe</string>
   <string name="radio_info_call_redirect_label">Przekierowanie połączeń:</string>
