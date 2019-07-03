@@ -111,7 +111,7 @@
   <string name="account_settings_menu_auto_sync">Autosynchronizacja danych</string>
   <string name="account_settings_menu_auto_sync_personal">Autosynchronizacja: osobiste</string>
   <string name="account_settings_menu_auto_sync_work">Autosynchronizacja: do pracy</string>
-  <string name="account_settings_title">Google i konta</string>
+  <string name="account_settings_title">Konta</string>
   <string name="account_sync_settings_title">Synchronizacja</string>
   <string name="account_sync_title">Synchronizacja konta</string>
   <string name="Accounts_settings_title">Konta</string>
@@ -6249,7 +6249,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza zużycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
   <string name="enable_tcp_rtt_support">Wyświetlaj TCP RTT</string>
   <string name="enable_tcp_rtt_support_summary">Szacuj wydajność jakości połączenia sieciowego</string>
-  <string name="aod_and_lock_screen_settings_title">Zawsze włączony i ekran blokady</string>
+  <string name="aod_and_lock_screen_settings_title">Ekran blokady i tryb Zawsze włączony</string>
   <string name="aod_settings_category_name">Zawsze włączony</string>
   <string name="aod_settings_title">Zawsze włączony</string>
   <string name="applications_settings_title">Aplikacje</string>
@@ -6257,7 +6257,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="full_screen_display">Tryb pełnoekranowy</string>
   <string name="game_booster_title">Game Turbo</string> 
   <string name="google_service_title">Usługi Google</string>
-  <string name="headset_settings_title">Słuchawki</string>
+  <string name="headset_settings_title">Słuchawki i efekty dźwiękowe</string>
   <string name="home_title">Pulpit</string>
   <string name="jeejen_mode_title">Tryb Lite</string>
   <string name="key_shortcut_settings_title">Skróty przycisków</string>
@@ -6270,9 +6270,9 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="notch_settings">Wcięcie</string>
   <string name="notification_center">Powiadomienia</string>
   <string name="other_sound_settings_title">Dodatkowe ustawienia</string>
-  <string name="password_unlock_title">Hasło</string>
+  <string name="password_unlock_title">Hasło ekranu blokady</string>
   <string name="privacy_protection_title">Prywatność</string>
-  <string name="recommend_tip">Potrzebujesz innych ustawień?</string>
+  <string name="recommend_tip">Szukasz innych ustawień?</string>
   <string name="screen_settings">Ekran blokady</string>
   <string name="settings_new_version_btn">Aktualizuj</string>
   <string name="status_bar_title">Pasek statusu</string>
