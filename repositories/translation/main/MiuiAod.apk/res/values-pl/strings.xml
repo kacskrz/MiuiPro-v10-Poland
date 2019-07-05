@@ -27,9 +27,9 @@
     <string name="aod_mode_style">Styl i tło zegara</string>
     <string name="aod_mode_style_title">Więcej opcji</string>
     <string name="aod_mode_summary">Ta funkcja zwiększa zużycie baterii. Będzie ona wyłączona, gdy urządzenie nie jest używane przez dłuższy czas lub kiedy włączone jest Oszczędzanie baterii.</string>
-    <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Zawsze włączony</string>
+    <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Always on Display</string>
     <string name="aod_mode_time_title">Zaplanowane</string>
-    <string name="aod_mode_title">Zawsze włączony</string>
+    <string name="aod_mode_title">Always on Display</string>
     <string name="aod_show_style_title">Wyświetlanie</string>
     <string name="aod_to_close">Wyłącz</string>
     <string name="cancel">Anuluj</string>

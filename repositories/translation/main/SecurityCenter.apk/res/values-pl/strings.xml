@@ -2580,7 +2580,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="pc_abnormal_scan_button_text">Zamknij aplikacje</string>
   <string name="gb_add_game_hint">Dodaj elementy z listy aplikacji</string>
   <string name="gb_global_settings">Ustawienia ogólne</string>
-  <string name="qucick_replay_instrument">Użyj przygotowanych odpowiedzi w powiadomieniach z wybranych aplikacji</string>
+  <string name="qucick_replay_instrument">Zezwól na korzystanie z szybkich odpowiedzi w wybranych aplikacjach</string>
   <string name="quick_replay_list_title">Dostępne aplikacje</string>
   <string name="quick_reply_title">Szybkie odpowiedzi</string>
   <string name="gamebox_display_1">Brak</string>
