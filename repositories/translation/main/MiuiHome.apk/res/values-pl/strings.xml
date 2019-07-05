@@ -111,7 +111,7 @@
   <string name="edit_mode_group_error_in_folder">Zamknij folder przed zgrupowaniem ikon</string>
   <string name="edit_mode_group_error_one_folder">Nie można zduplikować folderu z wybranymi ikonami</string>
   <string name="edit_mode_top_menu_finish">Gotowe</string>
-  <string name="edit_mode_uninstall">Odinstaluj</string>
+  <string name="edit_mode_uninstall">Usuń</string>
   <string name="editing_add_widget_tips">Edytuj widżety</string>
   <string name="editing_mode_enter_tip_text">Uszczypnij, aby edytować ekran główny</string>
   <string name="editing_mode_title_empty">Wybrano 0</string>
