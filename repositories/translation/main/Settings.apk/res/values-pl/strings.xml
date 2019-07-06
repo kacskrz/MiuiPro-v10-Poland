@@ -1931,7 +1931,7 @@
   <string name="gesture_preference_title">Gesty</string>
   <string name="gesture_setting_off">Wyłączone</string>
   <string name="gesture_setting_on">Włączone</string>
-  <string name="gesture_wakeup_title">Podwójne stuknięcie ekranu wybudza urządzenie</string>
+  <string name="gesture_wakeup_title">Kliknij dwukrotnie, aby wybudzić lub zablokować telefon</string>
   <string name="getConfiguredNetworks">Konfiguracja sieci</string>
   <string name="getConnectionInfo">Informacje o połączeniu</string>
   <string name="giga_hertz">GHz</string>
@@ -6055,7 +6055,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="notifi_importance_low">Bez dźwięku</string>
   <string name="notifi_importance_min">Bez dźwięku i powiadomień na ekranie</string>
   <string name="notifi_importance_none">Wyłączone</string>
-  <string name="notifi_importance_unspecified">Aplikacja określa ważność każdego powiadomienia</string>
+  <string name="notifi_importance_unspecified">Zezwól na dźwięk</string>
   <string name="notifi_no_channels">Ta aplikacja nie wyświetla żadnych powiadomień</string>
   <string name="notification_fold_description1">Katalog powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
   <string name="notification_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
@@ -6328,4 +6328,5 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="password_security_settings_title">Hasła i bezpieczeństwo</string>
   <string name="bootloader_tips_warning">"Nie rozłączaj się z siecią, nie wylogowuj się z swojego konta Xiaomi, nie wykonuj resetu do ustawień fabrycznych czy wymazywania danych systemowych."</string>
   <string name="disallow_lock_screen_summary">Najpierw zezwól na powiadomienia w \"Powiadomieniach aplikacji\"</string>
+  <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawiony jest motyw Domyślny lub Klasyczny</string>
 </resources>

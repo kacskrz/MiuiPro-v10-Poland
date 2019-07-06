@@ -161,7 +161,8 @@
   <string name="hsa_send_again_countdown">Wyślij ponownie (%ds)</string>
   <string name="hsa_send_failed">Nie udało się wysłać kodu weryfikacyjnego. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="hsa_sending">Wysyłanie…</string>
-  <string name="hsa_tip_message">1. Wiadomość z kodem weryfikacyjnym została wysłana na urządzenie powiązane z twoim Apple ID.\n2. Wyłącz dwu-składnikową autoryzację, jeśli kod weryfikacyjny nie działa.</string>
+  <string name="hsa_tip_message">"1. Jeśli nie udało Ci się otrzymać kodu weryfikacyjnego, upewnij się, że jesteś zalogowany do chmury iCloud na swoim urządzeniu Apple.
+2. Jeśli wprowadzenie kodu weryfikacyjnego nie pomaga, wyłącz autoryzację dwu-składnikową."</string>
   <string name="hsa_tip_message_shutdown_hsa">Jak wyłączyć dwu-składnikową autoryzację</string>
   <string name="hsa_tip_message_with_device">1. Wiadomość z kodem weryfikacyjnym została wysłana na \"%s\" powiązane z twoim Apple ID.\n2. Wyłącz dwu-składnikową autoryzację, jeśli kod weryfikacyjny nie działa.</string>
   <string name="hsa_tip_title">Wskazówki:</string>
@@ -174,7 +175,7 @@
   <string name="icloud_how_to_backup_tip_steps">1. Otwórz Ustawienia na swoim urządzeniu iOS i wybierz iCloud.\n2. Przełącz opcje dla kontaktów i innych elementów.\n3.Wybierz Zdjęcia i przełącz opcję dla Biblioteki zdjęć iCloud.</string>
   <string name="icloud_how_to_backup_tip_summary">Aby zaimportować dane z iOS, musisz utworzyć kopię zapasową iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Wskazówki:</string>
-  <string name="iCloud_ID_verification_tip">"Wpisz kod weryfikacyjny z SMS-a wysłanego na numer telefonu powiązany z Twoim Apple ID. Zignoruj kod pop-up wyświetlany na ekranie Twojego iPhone'a."</string>
+  <string name="iCloud_ID_verification_tip">Dotknij \"Zezwól\" na swoim urządzeniu Apple, aby wyświetlić kod weryfikacyjny. Wprowadź ten kod tutaj.</string>
   <string name="icloud_login_title">Zaloguj się do iCloud</string>
   <string name="icloud_need_sync">Aby zaimportować dane z iOS\nmusisz najpierw utworzyć kopię zapasową iCloud.</string>
   <string name="icloud_need_wifi_message">Nie jesteś teraz podłączony do Wi-Fi. Aby zaimportować dane z iCloud, podłącz się do Wi-Fi.</string>
