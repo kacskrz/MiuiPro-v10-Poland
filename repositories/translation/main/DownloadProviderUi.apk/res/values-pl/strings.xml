@@ -505,4 +505,5 @@
   <string name="xunlei_switch">Silnik pobierania Xunlei</string>
   <string name="close">Zamknij</string>
   <string name="close_ad">Zamknij reklamę</string>
+  <string name="path_not_available">Ścieżka jest niedostępna</string>
 </resources>

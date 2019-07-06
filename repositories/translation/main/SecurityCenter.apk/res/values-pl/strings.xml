@@ -2642,4 +2642,20 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gb_first_guide_shortcut_des">Utworzono skrót dla Game Turbo na pulpicie</string>
   <string name="gb_first_guide_title">Przyspiesz prędkość i wydajność systemowo</string>
   <string name="st_antispam_title_mms">MMS</string>
+  <string name="gamebox_milink">Prześlij ekran</string>
+  <string name="alert_back_milink_hangup_tips_content">"Przesyłanie ekranu nie zostanie przerwane, gdy zakończysz połączenie. Możesz kliknąć przycisk Zasilania, aby wybudzić ekran."</string>
+  <string name="other_milink_connect">"Nie można przesłać. Inna funkcja używa teraz przesyłania ekranu."</string>
+  <string name="stop_milink_connect">Zatrzymano przesyłanie</string>
+  <string name="battery_statistics_activity_title">Statystyki użycia baterii</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Ranking</string>
+  <string name="pc_battery_history_battery_detail_menu_item">Szczegóły</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Procent</string>
+  <string name="pc_battery_history_rank_mha_menu_item">Miliamperogodzina</string>
+  <string name="pc_battery_detail_curve_reference_now">Teraz</string>
+  <string name="pc_battery_detail_device_item_title">Statystyki użycia baterii</string>
+  <string name="pc_statistics_battery_use_title">Zużycie baterii</string>
+  <string name="pc_statistics_battery_use_summary">%s od ostatniego naładowania</string>
+  <string name="pc_statistics_battery_use_hour_minute">%1$d godz. %2$d min od ostatniego naładowania</string>
+  <string name="pc_statistics_battery_last_hour_minute">Pozostało %1$d godz. %2$d min</string>
+  <string name="call_delete_all_hint">Usunąć wszystkie zablokowane połączenia?</string>
 </resources>

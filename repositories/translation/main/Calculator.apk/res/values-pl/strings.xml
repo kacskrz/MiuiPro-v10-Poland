@@ -505,4 +505,12 @@
   <string name="mortgage_provider_east_money">Dane są dostarczane przez East Money</string>
   <string name="preference_use_voice">Używanie głosu</string>
   <string name="warn_locale_unsupport_for_voice">"Używanie głosu nie jest jeszcze wspierane dla tego języka."</string>
+  <string name="choose_radix">Wybierz system liczb</string>
+  <string name="convertion_unit_radix">Przelicznik liczb</string>
+  <string name="item_title_radix">Systemy liczb</string>
+  <string name="unit_data_display_currency_bdt">Taka bangladeska</string>
+  <string name="unit_data_display_radix_10">Dziesiętny</string>
+  <string name="unit_data_display_radix_16">Szesnastkowy</string>
+  <string name="unit_data_display_radix_2">Binarny</string>
+  <string name="unit_data_display_radix_8">Oktalny</string>
 </resources>

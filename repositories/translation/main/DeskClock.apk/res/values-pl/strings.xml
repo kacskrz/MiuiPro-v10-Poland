@@ -255,4 +255,8 @@
   <string name="shortcut_stop_watch">Włącz stoper</string>
   <string name="edit_systemtime_setting_summary">Data, czas i Podwójny zegar</string>
   <string name="worldcolock_date_display_prefix">Aktualna: </string>
+  <string name="module_update_success">Pomyślnie pobrano zaktualizowane inteligentne alarmy MIUI. Możesz je ustawić w ustawieniach Zegara.</string>
+  <string name="module_update_success_control">Rozumiem</string>
+  <string name="no_alarm_setting">Brak alarmów</string>
+  <string name="no_worldclock">Brak zegarów</string>
 </resources>

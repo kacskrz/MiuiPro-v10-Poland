@@ -6327,6 +6327,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="gmscore_settings_title">Podstawowe usługi Google</string>
   <string name="password_security_settings_title">Hasła i bezpieczeństwo</string>
   <string name="bootloader_tips_warning">"Nie rozłączaj się z siecią, nie wylogowuj się z swojego konta Xiaomi, nie wykonuj resetu do ustawień fabrycznych czy wymazywania danych systemowych."</string>
-  <string name="disallow_lock_screen_summary">Najpierw zezwól na powiadomienia w \"Powiadomieniach aplikacji\"</string>
+  <string name="disallow_lock_screen_summary">Najpierw zezwól na powiadomienia w \"Jak wyświetlać?\"</string>
   <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawiony jest motyw Domyślny lub Klasyczny</string>
+  <string name="privacy_password_settings_summary">Hasło Ochrony prywatności jest używane dla aplikacji, które mogą zawierać wrażliwe informacje</string>
 </resources>

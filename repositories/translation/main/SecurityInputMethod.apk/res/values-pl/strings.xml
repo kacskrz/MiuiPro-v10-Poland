@@ -7,12 +7,14 @@
     <string name="dialog_message">Bezpieczna klawiatura Xiaomi potrzebuje łączyć się z Internetem, aby działać normalnie. Zezwolić na to?</string>
     <string name="cancel">Anuluj</string>
     <string name="ok">Zgoda</string>
+    <string name="label_back_key">Wstecz</string>
     <string name="label_go_key">Idź</string>
     <string name="label_next_key">Dalej</string>
     <string name="label_previous_key">Poprzednie</string>
     <string name="label_done_key">Ukończone</string>
     <string name="label_send_key">Wyślij</string>
     <string name="label_search_key">Szukaj</string>
+    <string name="label_space_key">Spacja</string>
     <string name="label_pause_key">Pauza</string>
     <string name="label_wait_key">Czekaj</string>
     <string name="spoken_description_unknown">Nieznany znak</string>

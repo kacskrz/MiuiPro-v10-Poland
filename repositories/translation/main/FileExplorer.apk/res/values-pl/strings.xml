@@ -878,4 +878,15 @@
   <string name="you_liao_xunlei_str">Xunlei host</string>
   <string name="youliao_master_rank">Youliao top</string>
   <string name="operation_show_privacy_policy">Pokaż politykę prywatności</string>
+  <string name="category_source">Źródło</string>
+  <string name="category_time">Czas</string>
+  <string name="create_folder">Utwórz</string>
+  <string name="doc_all">Wszystko</string>
+  <string name="home_title">Pliki</string>
+  <string name="privacy_policy">Polityka prywatności</string>
+  <string name="start_doc">Pliki</string>
+  <string name="start_phone">Pamięć</string>
+  <string name="tab_app">Więcej</string>
+  <string name="text_select_all">Zaznacz wszystko</string>
+  <string name="text_select_nothing">Odznacz wszystko</string>
 </resources>

@@ -208,4 +208,10 @@
         <item quantity="other">%1$s people</item>
         <item quantity="one">%1$s person</item>
     </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%d elementów</item>
+        <item quantity="zero"> %1$d elementów</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elementy</item>
+    </plurals>
 </resources>

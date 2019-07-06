@@ -384,4 +384,9 @@
         <item>Dla wszystkich wydarzeń</item>
         <item>Dla najistotniejszych wydarzeń</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Wyłączone</item>
+        <item>Dla wszystkich wydarzeń</item>
+        <item>Dla wydarzeń uwarunkowanych czasowo</item>
+    </string-array>
 </resources>

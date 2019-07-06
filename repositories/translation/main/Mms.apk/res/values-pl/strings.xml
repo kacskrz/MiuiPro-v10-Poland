@@ -851,4 +851,10 @@
   <string name="toast_failed_to_close_priv_auth">"Nie można odwołać autoryzacji. Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="you_have_new_message">Masz nowe wiadomości</string>
   <string name="delete_block_conversation">Usuń tą konwersację</string>
+  <string name="mms_block_alert_message">Wszystkie MMS-y z wyjątkiem tych otrzymanych od autoryzowanych nadawców (takich jak operatorzy komórkowi, kolej itd.) zostaną zablokowane.</string>
+  <string name="mms_block_alert_ok">Zablokuj</string>
+  <string name="mms_block_alert_title">Blokowanie MMS</string>
+  <string name="mms_block_hint">"Ten nadawca nie znajduje się w Twoich kontaktach.
+Ta wiadomość może być niechciana."</string>
+  <string name="mms_block_hint_highlight">Blokowanie MMS</string>
 </resources>

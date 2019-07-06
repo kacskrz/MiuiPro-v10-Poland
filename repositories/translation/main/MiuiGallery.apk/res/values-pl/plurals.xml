@@ -388,4 +388,9 @@
         <item quantity="one">Usunąć %d zdjęcie seryjne?</item>
         <item quantity="few">Usunąć %d zdjęcia seryjne?</item>
     </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+    </plurals>
 </resources>
