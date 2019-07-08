@@ -109,8 +109,8 @@
         <item quantity="many">Wznów synchronizację po %d minutach</item>
     </plurals>
      <plurals name="micloud_manual_pause_and_resume">
-         <item quantity="other">Synchr. wstrzymana. Wznowienie za %d minut…</item>
-		 <item quantity="one">Synchr. wstrzymana. Wznowienie za %d minutę…</item>
+         <item quantity="other">Wznowienie synchronizacji za %d minut</item>
+		 <item quantity="one">Wznowienie synchronizacji za %d minutę</item>
 	 </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">%s minut temu</item>

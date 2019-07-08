@@ -102,4 +102,27 @@
     <string name="HIPS_Perm_UDevice_ID_DESC">udostępnij część informacji o urządzeniu twórcom gier, aby pomóc im poprawić Twoje odczucia w grach. Czy zgadzasz się na to?</string>
     <string name="HIPS_Perm_deamon_notification">Stałe powiadomienia</string>
     <string name="HIPS_Perm_deamon_notification_Desc">pokazywanie stałych powiadomień</string>
+    <string name="background_location_access_reminder_notification_content">Ta aplikacja może zawsze uzyskiwać dostęp do Twojej lokalizacji. Kliknij, aby to zmienić.</string>
+    <string name="background_location_access_reminder_notification_title">%s używa Twojej lokalizacji</string>
+    <string name="permgrouprequest_storage_isolated">Zezwolić
+&lt;b&gt;%1$s&lt;/b&gt; na dostęp do zdjęć i multimediów na tym urządzeniu?</string>
+    <string name="permission_description_summary_activity_recognition">Aplikacje z tym uprawnieniem mogą uzyskiwać dostęp do Twojej aktywności fizycznej, np. spacerów, jazdy na rowerze, jazdy samochodem, licznika kroków itd.</string>
+    <string name="permission_description_summary_calendar">Aplikacje z tym uprawnieniem mogą uzyskiwać dostęp do Twojego kalendarza</string>
+    <string name="permission_description_summary_call_log">Aplikacje z tym uprawnieniem mogą odczytać i zapisać historię połączeń telefonu</string>
+    <string name="permission_description_summary_camera">Aplikacje z tym uprawnieniem mogą wykonywać zdjęcia i rejestrować wideo</string>
+    <string name="permission_description_summary_contacts">Aplikacje z tym uprawnieniem mogą uzyskiwać dostęp do Twoich kontaktów</string>
+    <string name="permission_description_summary_generic">Aplikacje z tym uprawnieniem mogą %1$s</string>
+    <string name="permission_description_summary_location">Aplikacje z tym uprawnieniem mogą uzyskiwać dostęp do lokalizacji tego urządzenia</string>
+    <string name="permission_description_summary_microphone">Aplikacje z tym uprawnieniem mogą rejestrować dźwięk</string>
+    <string name="permission_description_summary_phone">Aplikacje z tym uprawnieniem mogą wykonywać i zarządzać połączeniami telefonicznymi</string>
+    <string name="permission_description_summary_sensors">Aplikacje z tym uprawnieniem mogą uzyskiwać dostęp do danych z sensorów dotyczących Twojego zdrowia</string>
+    <string name="permission_description_summary_sms">Aplikacje z tym uprawnieniem mogą wysyłać i zobaczyć wiadomości SMS</string>
+    <string name="permission_description_summary_storage">Aplikacje z tym uprawnieniem mogą uzyskiwać dostęp do zdjęć, multimediów i plików na Twoim urządzeniu</string>
+    <string name="permission_reminders">Monity dot. uprawnień</string>
+    <string name="grant_dialog_button_allow_always">Zezwól za każdym razem</string>
+    <string name="grant_dialog_button_allow_background">Zezwól za każdym razem</string>
+    <string name="grant_dialog_button_allow_foreground">Zezwól tylko, gdy korzystam z aplikacji</string>
+    <string name="grant_dialog_button_deny_and_dont_ask_again">Odmów i nie pytaj ponownie</string>
+    <string name="grant_dialog_button_deny_background">Zachowaj dostęp w trakcie korzystania</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Zachowaj i nie pytaj ponownie</string>
 </resources>
