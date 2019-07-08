@@ -180,4 +180,10 @@
         <item>Procentowy (za ikoną)</item>
         <item>Procentowy (przed ikoną)</item>
     </string-array>
+  <string-array name="text_lines_entries">
+        <item>Domyślnie</item>
+        <item>W jednej linii</item>
+        <item>W dwóch liniach</item>
+        <item>Przewijana linia</item>
+    </string-array>
 </resources>

@@ -202,4 +202,5 @@
   <string name="smart_mobile_two_title">Inteligentna sieć dla karty SIM 2</string>
   <string name="search_bar_title">Pasek wyszukiwania</string>
   <string name="percent_mi9_title">Mały symbol procenta</string>
+  <string name="set_text_lines_title">Nazwy aplikacji pod ikonami</string>
 </resources>

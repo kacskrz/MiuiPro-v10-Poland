@@ -8,6 +8,7 @@
     <string name="enable_float_notification">Pływające powiadomienia są włączone</string>
     <string name="enable_lockscreen_notification">Powiadomienia na ekranie blokady są włączone</string>
     <string name="enable_show_badge_notification">Licznik na ikonie jest włączony</string>
+    <string name="expand_top_notification">Rozwiń pierwsze powiadomienie</string>
     <string name="expandable_under_keyguard">Otwórz panel powiadomień na ekranie blokady</string>
     <string name="float_notifications">Pływające powiadomienia</string>
     <string name="hint_search_all">Wyszukaj aplikacje</string>
