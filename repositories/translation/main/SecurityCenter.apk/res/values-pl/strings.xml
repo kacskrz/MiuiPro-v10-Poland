@@ -2633,8 +2633,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="pc_main_sub_battery_text_hour_minute">Pozostało %1$s godz. %2$s min</string>
   <string name="pc_main_power_manager_day_hour">%1$s dni %2$s godz. do pełnego naładowania</string>
   <string name="pc_main_power_manager_hour_minute">%1$s godz. %2$s min do pełnego naładowania</string>
-  <string name="battery_desc_ambient_display">Użycie baterii przez tryb Always on Display</string>
-  <string name="power_ambient_display">Always on Display</string>
+  <string name="battery_desc_ambient_display">Użycie baterii przez tryb Zawsze włączony</string>
+  <string name="power_ambient_display">Zawsze włączony</string>
   <string name="function_shield_voice_trigger">"Nie wybudzaj Mi SI głosem"</string>
   <string name="gb_first_guide_function_shiled_title">Wyłącz funkcje systemu, gdy włączone jest Game Turbo</string>
   <string name="gb_first_guide_gamebox_des">Używaj skrótów w trakcie grania</string>

@@ -220,9 +220,9 @@
   <string name="animator_duration_scale_title">Skala czasu trwania animacji</string>
   <string name="another_migration_already_in_progress">Inna migracja jest już w toku.</string>
   <string name="anti_spam">Lista blokowanych</string>
-  <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu AoD</string>
+  <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Zawsze włączony</string>
   <string name="aod_mode_time_title">Zaplanowane</string>
-  <string name="aod_mode_title">Always on Display</string>
+  <string name="aod_mode_title">Zawsze włączony</string>
   <string name="aod_mode_turn_off">Wył.</string>
   <string name="aod_mode_turn_on">Wł.</string>
   <string name="apn_auth_type">Typ uwierzytelniania</string>
@@ -5764,9 +5764,9 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="navigation_guide_appswitch_click">Włącz najpierw gest \"Przełącz do aplikacji\"</string>
   <string name="check_importance_dialog_cancel">Anuluj</string>
   <string name="handy_mode_tips_full_screen">"Kiedy używasz pełnoekranowych gestów, możesz włączyć tryb Jednej Dłoni, używając Asystenta dotyku. Możesz również przełączyć się na używanie przycisków zamiast gestów."</string>
-  <string name="close_aod">"Ta funkcja nie może być połączona z trybem \"Always on Display\". Wyłącz ten tryb najpierw."</string>
+  <string name="close_aod">"Ta funkcja nie może być połączona z trybem \"Zawsze włączony\". Wyłącz ten tryb najpierw."</string>
   <string name="close_fod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
-  <string name="close_fod_aod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Tryb \"Always on Display\" również nie będzie dostępny. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
+  <string name="close_fod_aod">"Nie można odblokować urządzenia za pomocą odcisku palca, gdy ekran jest wyłączony. Tryb \"Zawsze włączony\" również nie będzie dostępny. Odblokowanie czytnikiem linii papilarnych działa tylko wtedy, gdy ekran jest włączony."</string>
   <string name="to_close">Wyłącz</string>
   <string name="title_jeejen">Pulpit Jeejen</string>
   <string name="status_bar_settings_customer_feedback">opinię</string>
@@ -6011,7 +6011,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="auto_dual_clock_summary">Pokaż ten zegar, kiedy obecny czas jest inny od tego z drugiego zegara</string>
   <string name="auto_dual_clock_title">Podwójny zegar</string>
   <string name="dual_clock">Podwójny zegar</string>
-  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Always on Display - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
+  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_hint">Podwójny zegar wymaga używania systemowego widżetu zegara oraz domyślnego motywu</string>
   <string name="dual_clock_ok">Rozumiem</string>
   <string name="more_installed_services_title">Więcej usług</string>
@@ -6084,7 +6084,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="visibility_override_title">Na ekranie blokady</string>
   <string name="notification_style_title">Styl powiadomień</string>
   <string name="auto_dual_clock_aod_summary">Pokaż podwójny zegar, kiedy obecny czas jest inny od tego z drugiego zegara</string>
-  <string name="dual_clock_aod_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Always on Display.</string>
+  <string name="dual_clock_aod_open_message">Podwójny zegar będzie wyświetlany na ekranie blokady, pulpicie i w trybie Zawsze włączony.</string>
   <string name="gxzw_enroll_again">Podnieś palec i dotknij ponownie czytnika</string>
   <string name="layout_exhuge_font_take_effect_tips">Tekst w rozmiarze XXL wyświetlany jest tylko w aplikacjach SMS, Telefon i Kontakty</string>
   <string name="layout_exhuge_font_tips">Więcej opcji jest dostępne w %1$s</string>
@@ -6163,7 +6163,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="miui_lab_gesture_title">Gesty pełnoekranowe</string>
   <string name="miui_lab_gesture_desc">Używaj gestów zamiast przycisków do nawigacji</string>
   <string name="search_ambient_display_screen_title">Ekran zgodny z otoczeniem</string>
-  <string name="search_doze_always_on_title">Always on Display</string>
+  <string name="search_doze_always_on_title">Zawsze włączony</string>
   <string name="usage_state_date">d MMM</string>
   <string name="popup_led_title">Efekt wizualny</string>
   <string name="popup_led_summary">Pokaż animację podczas wysuwania i zamykania przedniego aparatu</string>
@@ -6249,9 +6249,9 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza zużycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
   <string name="enable_tcp_rtt_support">Wyświetlaj TCP RTT</string>
   <string name="enable_tcp_rtt_support_summary">Szacuj wydajność jakości połączenia sieciowego</string>
-  <string name="aod_and_lock_screen_settings_title">Ekran blokady i tryb AoD</string>
-  <string name="aod_settings_category_name">Always on Display</string>
-  <string name="aod_settings_title">Always on Display</string>
+  <string name="aod_and_lock_screen_settings_title">Ekran blokady</string>
+  <string name="aod_settings_category_name">Zawsze włączony</string>
+  <string name="aod_settings_title">Zawsze włączony</string>
   <string name="applications_settings_title">Aplikacje</string>
   <string name="feedback_settings">Opinie</string>
   <string name="full_screen_display">Tryb pełnoekranowy</string>
@@ -6323,7 +6323,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="miui_sos_emergency_delete">Usuń</string>
   <string name="ambient_display_screen_summary_always_on">Zawsze włączony / Zwiększone użycie baterii</string>
   <string name="ambient_display_screen_summary_notifications">Nowe powiadomienia</string>
-  <string name="ambient_display_screen_title">Always on Display</string>
+  <string name="ambient_display_screen_title">Zawsze włączony</string>
   <string name="gmscore_settings_title">Podstawowe usługi Google</string>
   <string name="password_security_settings_title">Hasła i bezpieczeństwo</string>
   <string name="bootloader_tips_warning">"Nie rozłączaj się z siecią, nie wylogowuj się z swojego konta Xiaomi, nie wykonuj resetu do ustawień fabrycznych czy wymazywania danych systemowych."</string>
