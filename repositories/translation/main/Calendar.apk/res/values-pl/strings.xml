@@ -569,4 +569,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="guide_card_second_fb_text">Nie przegap ważnych dat</string>
   <string name="setting_fb_birthdays_title">Importuj urodziny znajomych z Facebooka</string>
   <string name="preferences_popup_alert_smart_summary_new">Wydarzenia uwarunkowane czasowo to wydarzenia z dokładnym czasem</string>
+  <string name="setting_desc_import_todo">Importuj zaplanowane zadania z Notatek</string>
+  <string name="setting_title_import_todo">Zaimportuj zadania</string>
+  <string name="todo_audio_event">"[Zadanie głosowe] "</string>
+  <string name="todo_event">Nadchodzące zadania</string>
 </resources>

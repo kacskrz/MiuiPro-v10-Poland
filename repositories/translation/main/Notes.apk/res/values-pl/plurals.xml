@@ -51,4 +51,33 @@
         <item quantity="other">Pomyślnie odkryto (%1$s)</item>
         <item quantity="one">Pomyślnie odkryto (%1$s)</item>
     </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d dni po</item>
+        <item quantity="one">%1$d dzień po</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d dni przed</item>
+        <item quantity="one">%1$d dzień przed</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Za %1$d dni</item>
+        <item quantity="one">Za %1$d dzień</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Usunąć %1$s zadań?</item>
+        <item quantity="one">Usunąć %1$s zadanie?</item>
+        <item quantity="few">Usunąć %1$s zadania?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Za %1$d dni</item>
+        <item quantity="one">Za %1$d dzień</item>
+    </plurals>
 </resources>

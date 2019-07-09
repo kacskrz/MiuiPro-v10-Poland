@@ -76,4 +76,9 @@
          <item quantity="one">%d minutę</item>
          <item quantity="few">%d minuty</item>
      </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Zmieniono czas trwania drzemki na %d minut</item>
+        <item quantity="one">Zmieniono czas trwania drzemki na %d minutę</item>
+        <item quantity="few">Zmieniono czas trwania drzemki na %d minuty</item>
+    </plurals>
 </resources>
