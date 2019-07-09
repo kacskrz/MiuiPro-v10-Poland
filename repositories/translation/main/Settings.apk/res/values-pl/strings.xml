@@ -4488,7 +4488,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="sync_now">Synchronizuj</string>
   <string name="sync_one_time_sync">Dotknij, by zsynchronizować teraz \n%1$s</string>
   <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Google Sync – witamy!&lt;/font&gt;\" \nSynchronizacja danych daje Ci dostęp do kontaktów, wydarzeń i innych ważnych informacji z dowolnego miejsca.\"</string>
-  <string name="sync_settings">Synchronizacja</string>
+  <string name="sync_settings">Konta i synchronizacja</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Synchronizuj tylko przez Wi-Fi</string>
   <string name="system">System</string>
@@ -6302,7 +6302,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="miui_lab_home_feed_title">Centrum multimediów</string>
   <string name="miui_lab_home_feed_desc">Ciekawe pomysły, fascynujące historie</string>
   <string name="popup_gesture_title">Podnieś, aby otworzyć aparat</string>
-  <string name="popup_gesture_summary">Podnieś telefon i spójrz na ekran, aby automatycznie otworzyć przedni aparat</string>
+  <string name="popup_gesture_summary">Wróć do pulpitu, podnieś telefon i spójrz na ekran, aby automatycznie otworzyć przedni aparat</string>
   <string name="miui_lab_3d_gesture_title">Wzory 3D</string>
   <string name="miui_lab_3d_gesture_slogan">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
   <string name="miui_lab_3d_gesture_summary">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
@@ -6330,4 +6330,6 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="disallow_lock_screen_summary">Najpierw zezwól na powiadomienia w \"Jak wyświetlać?\"</string>
   <string name="gesture_wakeup_summary">Funkcja działa tylko, gdy ustawiony jest motyw Domyślny lub Klasyczny</string>
   <string name="privacy_password_settings_summary">Hasło Ochrony prywatności jest używane dla aplikacji, które mogą zawierać wrażliwe informacje</string>
+  <string name="xiaomi_cloud_service_description_contact">kontakty i</string>
+  <string name="xiaomi_cloud_service_description_format">Chmura Xiaomi synchronizuje twoje %s zdjęcia, tworzy kopię aplikacji i ustawień, a także pomaga znaleźć twój telefon za pomocą funkcji Znajdź urządzenie.</string>
 </resources>

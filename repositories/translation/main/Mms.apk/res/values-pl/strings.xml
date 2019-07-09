@@ -353,7 +353,7 @@
   <string name="networking_allow_desc_without_mx">Wiadomość Mi muszą mieć połączenie z Internetem, aby pracować poprawnie. Aby zapewnić rozpoznawanie nieznanych numerów, filtrowanie spamu i włączanie innych funkcji, Wiadomość Mi muszą korzystać z książki telefonicznej. Zezwolić Książce telefonicznej na łączenie się z Internetem, uzyskiwanie informacje o lokalizacji i czytanie kontaktów?</string>
   <string name="networking_allow_title">Powiadomienie</string>
   <string name="new_message">Nowa wiadomość</string>
-  <string name="new_message_arrived">Kliknij, aby zobaczyć</string>
+  <string name="new_message_arrived">Nieprzeczytane</string>
   <string name="new_phrase">Dodaj odpowiedź</string>
   <string name="new_phrase_hint">Dodaj nową odpowiedź</string>
   <string name="no">Anuluj</string>
@@ -664,7 +664,7 @@
   <string name="undelivered_msg_dialog_title">Wiadomość niedostarczona</string>
   <string name="undelivered_sms_dialog_body">Nie można wysłać tej wiadomości.</string>
   <string name="unknown_num">Nieznany numer</string>
-  <string name="unknown_sender">Nowa wiadomość</string>
+  <string name="unknown_sender">Nieznany nadawca</string>
   <string name="unstick">Odepnij</string>
   <string name="unstick_conversation">Odepnij aktualną konwersację</string>
   <string name="unsticked_conversation">Konwersacja jest już odpięta</string>
