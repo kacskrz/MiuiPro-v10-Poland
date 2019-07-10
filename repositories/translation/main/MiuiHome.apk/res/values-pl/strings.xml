@@ -386,4 +386,5 @@
   <string name="all_apps_setting_drawer_desc">Kliknij w przycisk menu, aby wyświetlić listę zainstalowanych aplikacji (szufladę aplikacji).</string>
   <string name="all_apps_setting_drawer_title">Klasyczny</string>
   <string name="all_apps_setting_title">Układ pulpitu</string>
+  <string name="unstable_dialog_content">Jest to wersja podglądowa obrazu systemu Android i może ulec zmianie. Korzystanie z tego obrazu systemu podlega Umowie licencyjnej Android SDK. Wersja podglądowa obrazu systemu Android nie podlega tym samym testom, co fabryczny system operacyjny i może spowodować, że urządzenie, zainstalowane na nim usługi lub aplikacje przestaną działać.</string>
 </resources>

@@ -257,4 +257,6 @@
   <string name="abc_toolbar_collapse_description">Zwiń</string>
   <string name="search_menu_title">Szukaj</string>
   <string name="business_card_with_qr_code">Umieść wizytówkę bądź kod QR code wewnątrz ramki</string>
+  <string name="wifi_psd_toolong">Ilość znaków jest za długa - wprowadź hasło ręcznie</string>
+  <string name="wx_not_installed_toast">Ta funkcja wymaga zainstalowanej aplikacji WeChat - zainstaluj ją</string>
 </resources>

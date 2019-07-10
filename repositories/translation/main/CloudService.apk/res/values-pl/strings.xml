@@ -675,4 +675,10 @@
   <string name="micloud_manaul_sync_success_time_prefix">Ostatnio synchronizowano: %s</string>
   <string name="micloud_sync_result_get_sim_info_error">Nie udało się uzyskać informacji o karcie SIM. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="sync_detail_summary_master_sync_off">Synchronizacja jest wyłączona</string>
+  <string name="cloud_lab_title">Laboratorium Chmury</string>
+  <string name="cloud_storage_already_used">Zużyte: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_others">Inni</string>
+  <string name="cloud_storage_manage_title">Zarządzaj miejscem w Chmurze</string>
+  <string name="data_protection_title">Ochrona danych</string>
+  <string name="sync_setting_title">Ustawienia synchronizacji</string>
 </resources>

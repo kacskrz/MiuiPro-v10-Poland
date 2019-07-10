@@ -496,4 +496,14 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Możesz wpisać maks. %d znaków</item>
+        <item quantity="one">Możesz wpisać maks. %d znak</item>
+        <item quantity="few">Możesz wpisać maks. %d znaki</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Wprowadź co najmniej %d znaków</item>
+        <item quantity="one">Wprowadź co najmniej %d znak</item>
+        <item quantity="few">Wprowadź co najmniej %d znaki</item>
+    </plurals>
 </resources>

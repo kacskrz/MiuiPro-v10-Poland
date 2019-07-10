@@ -1821,4 +1821,5 @@ długi zrzut ekranu"</string>
   <string name="structure_face_data_delete_title">Usuń dane twarzy 3D</string>
   <string name="recents_task_screening">Przesyłanie…</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Nie można przełączać profili, gdy włączone jest Ultraoszczędzanie baterii"</string>
+  <string name="recents_dimiss_task">Wyczyść</string>
 </resources>

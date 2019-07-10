@@ -797,4 +797,13 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="show_mamual_hide_wallpaper">Pokaż ukryte tapety</string>
   <string name="kuyin_user_agreement_content">Subskrypcje własnych utworów są dostarczane przez iFlytek. Przed użyciem tej funkcji musisz zaakceptować warunki %s. Czy zgadzasz się na to?</string>
   <string name="kuyin_user_agreement_content_href">Polityki prywatności iFlytek</string>
+  <string name="unable_connect_network">"Nie można połączyć się z siecią"</string>
+  <string name="wallpaper_delete_all">Usunąć wybrane elementy?</string>
+  <string name="wallpaper_dynamic">Dynamiczne</string>
+  <string name="wallpaper_online">Tapety online</string>
+  <string name="wallpaper_online_no_more">"Na razie to wszystko"</string>
+  <string name="wallpaper_online_tip">Aby zobaczyć więcej elementów, połącz się z siecią</string>
+  <string name="wallpaper_static">Zwykłe</string>
+  <string name="enable_all_free_mode">Włącz</string>
+  <string name="enabling_all_free_mode">Włączanie…</string>
 </resources>

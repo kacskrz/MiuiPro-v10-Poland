@@ -465,4 +465,5 @@ kontroluj zainstalowane aplikacje i ogranicz użytkowanie"</string>
   <string name="facebook_send">Wyślij na Facebooku</string>
   <string name="instagram_send">Wyślij na Instagramie</string>
   <string name="whatsapp_send">Wyślij na WhatsAppie</string>
+  <string name="can_not_switch_when_super_power_active">"Nie można zmienić profilów, gdy Ultraoszczędzanie baterii jest włączone"</string>
 </resources>

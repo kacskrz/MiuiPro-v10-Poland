@@ -1269,4 +1269,16 @@ Be Happy"</string>
   <string name="impunity_declaration_content_live">Przed użyciem tej funkcji musisz przeczytać i zaakceptować warunki %1$s i %2$s.</string>
   <string name="local_song_empty_hint_button_text">Pobierz utwory</string>
   <string name="stop_download">Stop</string>
+  <string name="add_to_favorite">Dodaj do ulubionych</string>
+  <string name="detail">Szczegóły</string>
+  <string name="dialog_song_sort_type_add_time">Sortuj od nowych do starych wg czasu dodania</string>
+  <string name="dialog_song_sort_type_add_time_desc">Sortuj od nowych do starych wg czasu dodania</string>
+  <string name="dialog_song_sort_type_artist_name">Wg nazwy artysty</string>
+  <string name="network_no_available_and_check">"Nie można połączyć się z siecią"</string>
+  <string name="spammy_contents">Spam</string>
+  <string name="talkback_change_skin">Zmień skin</string>
+  <string name="thanks_for_feedback">Dziękujemy za Twoją opinię!</string>
+  <string name="unable_to_play">"Nie można odtworzyć"</string>
+  <string name="view_all_news">Zobacz wszystkie wiadomości</string>
+  <string name="widget_title">Mi Muzyka</string>
 </resources>
