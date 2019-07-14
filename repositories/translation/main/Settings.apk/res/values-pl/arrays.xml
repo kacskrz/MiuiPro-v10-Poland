@@ -1285,7 +1285,8 @@
   </string-array>
       <string-array name="notch_battery_indicator_style_entries">
         <item>Graficznie</item>
-        <item>Procentowo</item>
+        <item>Procentowo (w ikonie)</item>
+        <item>Procentowo (obok ikony)</item>
     </string-array>
 	    <string-array name="notification_shade_shortcut_entries">
         <item>Otwarcie Wyszukiwania</item>
