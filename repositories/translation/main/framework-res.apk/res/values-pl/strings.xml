@@ -1315,6 +1315,8 @@
   <string name="volume_alarm">Głośność alarmu</string>
   <string name="volume_bluetooth_call">Głośność Bluetooth w czasie połączenia</string>
   <string name="volume_call">Głośność podczas połączenia</string>
+  <string name="volume_dialog_music_stream_not_silent">" nie wycisza muzyki"</string>
+  <string name="volume_dialog_music_stream_silent">" wycisza muzykę"</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Głos</string>
   <string name="volume_icon_description_media">Multimedia</string>

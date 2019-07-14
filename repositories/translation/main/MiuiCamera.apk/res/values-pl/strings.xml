@@ -888,4 +888,6 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="ultra_pixel_photography_64mp_close_tip">Tryb 64 Mpx jest wyłączony</string>
   <string name="ultra_pixel_photography_64mp_open_tip">64 Mpx</string>
   <string name="zoom_no_support_tip_64M">Zoom nie działa w trybie 64 Mpx</string>
+  <string name="text_ai_scene_selector_text_off">OŚWIETLENIE TŁA</string>
+  <string name="text_ai_scene_selector_text_on">SYLWETKA</string>
 </resources>
