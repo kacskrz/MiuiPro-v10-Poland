@@ -882,4 +882,10 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="pref_watermark_title">Znak wodny</string>
   <string name="user_define_watermark_cancel">Anuluj</string>
   <string name="user_define_watermark_save">Zapisz</string>
+  <string name="accessibility_ultra_pixel_photography_64mp_on">Tryb 64 Mpx włączony</string>
+  <string name="accessibility_ultra_pixel_photography_64mp_off">Tryb 64 Mpx wyłączony</string>
+  <string name="pref_menu_ultra_pixel_photography_64mp">64 Mpx</string>
+  <string name="ultra_pixel_photography_64mp_close_tip">Tryb 64 Mpx jest wyłączony</string>
+  <string name="ultra_pixel_photography_64mp_open_tip">64 Mpx</string>
+  <string name="zoom_no_support_tip_64M">Zoom nie działa w trybie 64 Mpx</string>
 </resources>

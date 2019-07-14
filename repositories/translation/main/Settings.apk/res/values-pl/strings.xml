@@ -6341,4 +6341,5 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
 
 Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie się w ciągu 90 sekund."</string>
   <string name="kid_space_settings">Przestrzeń dla dziecka</string>
+  <string name="gxzw_add_fingerprint_area">Czytnik linii papilarnych</string>
 </resources>

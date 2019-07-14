@@ -2697,4 +2697,10 @@ Aplikacja %1s wymaga do poprawnego działania gromadzenia twoich danych oraz nas
   <string name="system_permission_perm_read_mms">Odczyt MMS-ów</string>
   <string name="system_permission_perm_read_numbers">Odczyt numerów telefonów</string>
   <string name="system_permission_perm_send_mms">Wysyłanie MMS-ów</string>
+  <string name="privacy_apps_begin_use">Start</string>
+  <string name="privacy_apps_button_know">Rozumiem</string>
+  <string name="privacy_apps_next_stup">Dalej</string>
+  <string name="privacy_apps_shield_message_summary">"Nie pokazuj powiadomień dla chronionych aplikacji"</string>
+  <string name="privacy_apps_shield_message_title">"Nie pokazuj powiadomień"</string>
+  <string name="privacy_apps_tutorial_dlg_title">Jak znaleźć ukryte aplikacje</string>
 </resources>
