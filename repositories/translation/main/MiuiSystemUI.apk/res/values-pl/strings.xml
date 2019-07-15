@@ -1052,8 +1052,8 @@
   <string name="ok">OK</string>
   <string name="oldman_airplane_mode_text">Tryb samolotowy</string>
   <string name="oldman_incall_text">Wróć do połączenia</string>
-  <string name="open_camera_hint_text">Przesuń w lewo, aby uruchomić Aparat</string>
-  <string name="open_remote_center_hint_text">Przesuń w prawo, aby uruchomić Pilota Mi</string>
+  <string name="open_camera_hint_text">Przeciągnij ikonę, aby włączyć Aparat</string>
+  <string name="open_remote_center_hint_text">Przeciągnij ikonę, aby zobaczyć skróty</string>
   <string name="other">Inne</string>
   <string name="overlay_display_devices_title">Symuluj drugi ekran</string>
   <string name="overview">Przegląd</string>
@@ -1726,7 +1726,7 @@
   <string name="lock_screen_magazine_default_content">Codzienna porcja nowych obrazów</string>
   <string name="lock_screen_magazine_default_entry_title">Szczegóły tapety</string>
   <string name="lock_screen_magazine_default_title">Tapety ekranu blokady</string>
-  <string name="open_lock_screen_magazine_hint_text">Przesuń w prawo, by zobaczyć więcej opcji</string>
+  <string name="open_lock_screen_magazine_hint_text">Przeciągnij ikonę, aby zobaczyć więcej opcji</string>
   <string name="recents_title_app_manager">Aplikacje</string>
   <string name="recents_title_game">Gry</string>
   <string name="recents_title_garbage_cleanup">Wyczyść</string>
