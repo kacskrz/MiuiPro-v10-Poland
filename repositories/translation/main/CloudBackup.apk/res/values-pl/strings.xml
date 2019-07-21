@@ -227,4 +227,5 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
    <string name="restore_failed_reason_disk_space_not_enough">Brak wystarczającej ilości miejsca. Zwolnij je.</string>
    <string name="restore_failed_reason_network_error">Błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
    <string name="restore_task_unfinished">"Nie udało się przywrócić"</string>
+   <string name="restoring_data">Przywracanie danych…</string>
 </resources>

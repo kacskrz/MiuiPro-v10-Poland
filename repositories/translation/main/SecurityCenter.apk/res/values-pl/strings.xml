@@ -100,7 +100,7 @@
   <string name="antivirus_privacy_dialog_cloudscan_description">Prześlij i zeskanuj nazwy aplikacji i szczegóły za pomocą internetowych definicji wirusów.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">Funkcja kopiuje szyfrowane dane urządzenia na serwery Avast, AVL i Tencent (%s).</string>
-  <string name="antivirus_privacy_dialog_summary_link">pokaż Politykę Prywatności</string>
+  <string name="antivirus_privacy_dialog_summary_link">Polityka prywatności</string>
   <string name="antivirus_privacy_dialog_title">Polityka Prywatności</string>
   <string name="antivirus_sec_network_unavailable">Aplikacja panelu sterowania nie może się zaktualizować ponieważ ograniczyłeś połączenie internetowe. Zezwolić Panelowi sterowania na łączenie się z internetem?</string>
   <string name="antivirus_toast_already_update">Aktualny</string>
@@ -2643,7 +2643,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gb_first_guide_title">Przyspiesz prędkość i wydajność systemowo</string>
   <string name="st_antispam_title_mms">MMS</string>
   <string name="gamebox_milink">Prześlij ekran</string>
-  <string name="alert_back_milink_hangup_tips_content">"Przesyłanie ekranu nie zostanie przerwane, gdy zakończysz połączenie. Możesz kliknąć przycisk Zasilania, aby wybudzić ekran."</string>
+  <string name="alert_back_milink_hangup_tips_content">"Przesyłanie ekranu nie zostanie przerwane, gdy zakończysz połączenie. Możesz nacisnąć przycisk Zasilania, aby wybudzić ekran."</string>
   <string name="other_milink_connect">"Nie można przesłać. Inna funkcja używa teraz przesyłania ekranu."</string>
   <string name="stop_milink_connect">Zatrzymano przesyłanie</string>
   <string name="battery_statistics_activity_title">Statystyki użycia baterii</string>
@@ -2703,4 +2703,12 @@ Aplikacja %1s wymaga do poprawnego działania gromadzenia twoich danych oraz nas
   <string name="privacy_apps_shield_message_summary">"Nie pokazuj powiadomień dla chronionych aplikacji"</string>
   <string name="privacy_apps_shield_message_title">"Nie pokazuj powiadomień"</string>
   <string name="privacy_apps_tutorial_dlg_title">Jak znaleźć ukryte aplikacje</string>
+  <string name="system_permission_declare_privacy_no_permission">"Aplikacja %1s wymaga gromadzenia Twoich danych do poprawnego działania.
+Respektujemy i chronimy Twoją prywatność."</string>
+  <string name="system_permission_declare_use_network_no_permission">Połącz się z siecią</string>
+  <string name="system_permission_declare_revoke_uninstallable">Możesz odinstalować tą aplikację lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
+  <string name="system_permission_declare_revoke_system">Możesz wyjść z tej aplikacji.</string>
+  <string name="system_permission_declare_privacy_policy"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_user_agreement"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
+  <string name="system_permission_declare_disagree">Nie zgadzam się</string>
 </resources>

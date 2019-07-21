@@ -6342,4 +6342,11 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
 Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie się w ciągu 90 sekund."</string>
   <string name="kid_space_settings">Przestrzeń dla dziecka</string>
   <string name="gxzw_add_fingerprint_area">Czytnik linii papilarnych</string>
+ 	<string name="bluetooth_disable_mi_fast_connect">Wyłącz Mi Fast Connect</string>
+ 	<string name="bluetooth_disable_mi_fast_connect_summary">Wyłącz funkcję Mi Fast Connect</string>
+	 <string name="screen_dark_mode_advanced_title">Zaawansowane</string>
+	 <string name="screen_dark_mode_select_time_error_summary">"Czas rozpoczęcia i zakończenia nie może być taki sam"</string>
+	 <string name="screen_dark_mode_smart_dark_summary">Zastosuj ciemny motyw także do aplikacji firm trzecich. Część z nich może wyświetlać się nieprawidłowo.</string>
+ 	<string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
+	 <string name="screen_dark_mode_time_title">Zaplanuj</string>
 </resources>

@@ -1404,7 +1404,7 @@ Funkcje związane z kodem PIN2 zostaną zablokowane po ponownej nieudanej próbi
     <string name="enhanced_4g_lte_mode_off_failed">Nie udało się wyłączyć VoLTE.</string>
     <string name="cmcc_ut_data_enable_prompt">Nie można połączyć się z siecią z wykorzystaniem VoLTE. Włącz dane mobilne.</string>
     <string name="volte_switch_title">VoLTE</string>
-    <string name="volte_switch_summary">Użyj VoLTE (Voice over LTE) do polepszenia jakości głosu i wideo podczas rozmowy</string>
+    <string name="volte_switch_summary">Użyj VoLTE (Voice over LTE) do polepszenia jakości rozmów</string>
     <string name="volte_switch_summary2">Potwierdź, że twój operator obsługuje taką funkcję, przed jej włączeniem. W innym przypadku jakość zwykłych połączeń może się pogorszyć.</string>
     <string name="volte_switch_not_support_summary">Połączenia VoLTE nie są obsługiwane przez dane mobilne karty SIM.</string>
     <string name="volte_switch_not_support_summary2">Połączenia VoLTE nie są obsługiwane przez operatora.</string>
