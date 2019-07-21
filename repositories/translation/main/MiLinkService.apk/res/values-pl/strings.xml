@@ -104,4 +104,5 @@ Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na 
     <string name="toast_guide_show_more">Dowiedz się więcej</string>
     <string name="toast_guide_title">Odkrywaj nowe funkcje</string>
     <string name="toast_msg">Aby wyświetlać ekran w aplikacji, użyj małego okienka.</string>
+    <string name="toast_msg_for_multi_window">Ta funkcja jest niedostępna w trybie Podzielonego ekranu</string>
 </resources>

@@ -48,4 +48,24 @@
     <string name="dialog_market_score_subtitle_step3">Oceń tą aplikację</string>
     <string name="dialog_market_score_title_step1_format">Czy lubisz \"%s\"?</string>
     <string name="dialog_market_score_title_step2">Dziękujemy za twoją opinię!</string>
+    <string name="app_select_title">Dodaj często używane aplikacje</string>
+  <string name="superpower_app_add">Dodaj</string>
+  <string name="superpower_app_finish">Gotowe</string>
+  <string name="superpower_battery_dangerous">Podłącz ładowarkę tak szybko, jak to możliwe</string>
+  <string name="superpower_date">EEEE, dd MMMM</string>
+  <string name="superpower_dialog_app_select_content">Aplikacje firm trzecich w normalnych warunkach zużywają więcej energii niż aplikacje systemowe. Dodać je mimo to?</string>
+  <string name="superpower_dialog_app_select_title">Uwaga</string>
+  <string name="superpower_incharging">Ładowanie</string>
+  <string name="superpower_notification_hint_enter">Włącz</string>
+  <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
+  <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
+  <string name="superpower_progress_battery_last">Pozostało %s</string>
+  <string name="superpower_progress_left_time">%1$d godz. %2$d min</string>
+  <string name="superpower_search_hint">Wyszukaj aplikacje</string>
+  <string name="superpower_select_app_title">Układ pulpitu</string>
+  <string name="superpower_settings">Ultraoszczędzanie baterii</string>
+  <string name="superpower_system">Rekomendowane</string>
+  <string name="superpower_third">Aplikacje firm trzecich</string>
+  <string name="superpower_time">hh:mm</string>
+  <string name="superpower_time_24">HH:mm</string>
 </resources>

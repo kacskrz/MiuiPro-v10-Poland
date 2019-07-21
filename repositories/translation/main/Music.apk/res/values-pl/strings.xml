@@ -1271,14 +1271,20 @@ Be Happy"</string>
   <string name="stop_download">Stop</string>
   <string name="add_to_favorite">Dodaj do ulubionych</string>
   <string name="detail">Szczegóły</string>
-  <string name="dialog_song_sort_type_add_time">Sortuj od nowych do starych wg czasu dodania</string>
-  <string name="dialog_song_sort_type_add_time_desc">Sortuj od nowych do starych wg czasu dodania</string>
+  <string name="dialog_song_sort_type_add_time">Od starych do nowych</string>
+  <string name="dialog_song_sort_type_add_time_desc">Od nowych do starych</string>
   <string name="dialog_song_sort_type_artist_name">Wg nazwy artysty</string>
   <string name="network_no_available_and_check">"Nie można połączyć się z siecią"</string>
   <string name="spammy_contents">Spam</string>
-  <string name="talkback_change_skin">Zmień skin</string>
+  <string name="talkback_change_skin">Zmień motyw</string>
   <string name="thanks_for_feedback">Dziękujemy za Twoją opinię!</string>
   <string name="unable_to_play">"Nie można odtworzyć"</string>
   <string name="view_all_news">Zobacz wszystkie wiadomości</string>
-  <string name="widget_title">Mi Muzyka</string>
+  <string name="widget_title">Znajdź swoje ulubione utwory w Mi Muzyce</string>
+  <string name="delete_migu_music_apk">Usuń Migu Music</string>
+  <string name="dialog_song_sort_type_name_from_a2z">Od A do Z</string>
+  <string name="dialog_song_sort_type_name_from_z2a">Od Z do A</string>
+  <string name="download_apk_fail">"Nie można połączyć się z siecią"</string>
+  <string name="open_migu_music">Ładowanie…</string>
+  <string name="talkback_new_person_must_listen">Dla nowych</string>
 </resources>

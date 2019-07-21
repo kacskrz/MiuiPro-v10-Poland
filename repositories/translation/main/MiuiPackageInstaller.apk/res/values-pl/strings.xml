@@ -383,4 +383,38 @@
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="pref_key_about_privacy_title">Polityka prywatności</string>
+    <string name="adb_install_no_network">Połącz się z siecią i spróbuj ponownie</string>
+    <string name="adb_install_open">Zezwalanie…</string>
+    <string name="adb_install_open_error">"Nie udało się zezwolić - sprawdź swoje ustawienia sieci"</string>
+    <string name="app_install_failed_button_text">Wyszukaj aplikacje</string>
+    <string name="app_ops_clean_master_tip">Zwolnij %s</string>
+    <string name="app_ops_install_exit">Wyjdź</string>
+    <string name="external_sources_settings_negative">Odrzuć</string>
+    <string name="external_sources_settings_positive">Zezwól</string>
+    <string name="intercept_install">Zainstaluj</string>
+    <string name="mimarket_install_more">Aby zainstalować więcej aplikacji, przejdź do Mi App Store</string>
+    <string name="miui_app_permission_detail">Wymagane uprawnienia</string>
+    <string name="miui_clear_apk_desc">Do usunięcia jest %s paczek i pozostałości</string>
+    <string name="miui_clear_apks">Automatycznie usuń paczki instalacyjne i pozostałości</string>
+    <string name="miui_failed_solution_1">Odinstaluj obecną wersję aplikacji i zainstaluj tą aplikację ponownie.</string>
+    <string name="miui_failed_solution_2">Paczka instalacyjna mogła zostać uszkodzona. Pobierz aplikację ponownie.</string>
+    <string name="miui_failed_solution_3">Spróbuj zapisać paczkę instalacyjną w innej lokalizacji.</string>
+    <string name="miui_failed_solution_4">Zwolnij miejsce w Panelu sterowania > Czyszczenie i spróbuj ponownie.</string>
+    <string name="miui_failed_solution_5">Spróbuj użyć kompatybilnej paczki instalacyjnej.</string>
+    <string name="miui_failed_solution_6">Odinstaluj tą aplikację w Drugiej przestrzeni i spróbuj ponownie.</string>
+    <string name="miui_failed_solution_7">Pobierz najnowszą wersję aplikacji z GetApps.</string>
+    <string name="miui_solution_msg_2">Rozwiązanie</string>
+    <string name="pref_key_app_store_summary">Informuj o możliwości pobrania aplikacji z bezpiecznego źródła przed instalacją</string>
+    <string name="pref_key_app_store_title">Rekomenduj bezpieczną wersję</string>
+    <string name="settings_warning_dialog_detail">"Zostaniesz powiadomiony o takiej możliwości w następujących przypadkach:
+"<li>gdy aplikacja zawiera wirusy,</li>"
+"<li>gdy nowsza wersja aplikacji jest dostępna w Mi App Store,</li>"
+"<li>gdy paczka instalacji pochodzi z nieznanego źródła.</li></string>
+    <string name="settings_warning_dialog_msg">"Twoje urządzenie jest narażone na zagrożenia bezpieczeństwa. Nie będziesz powiadamiany o możliwości pobrania bezpiecznej wersji aplikacji. Wyłączyć tą funkcję mimo to?"</string>
+    <string name="settings_warning_dialog_title">Uwaga</string>
+    <string name="untrusted_external_source_title">Zezwolić \"%1$s\" na instalację aplikacji?</string>
+    <string name="untrusted_external_source_warning_2">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.
+
+"<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Dodatkowe ustawienia > Prywatność > Specjalny dostęp > Instalacja nieznanych aplikacji.</font></string>
+    <string name="virus_title_subtext">"Ta aplikacja może zawierać wirusy: "</string>
 </resources>

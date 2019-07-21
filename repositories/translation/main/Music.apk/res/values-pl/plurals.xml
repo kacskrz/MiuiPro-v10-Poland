@@ -312,4 +312,9 @@ Czy chcesz ją odnowić?"</item>
         <item quantity="one">%1$d utwór do pobrania (%2$.1f MB).</item>
         <item quantity="few">%1$d utwory do pobrania (%2$.1f MB).</item>
     </plurals>
+    <plurals name="dialog_remove_favorite_song_descript">
+        <item quantity="other">Usunąć %d utworów z ulubionych?</item>
+        <item quantity="one">Usunąć %d utwór z ulubionych?</item>
+        <item quantity="few">Usunąć %d utwory z ulubionych?</item>
+    </plurals>
 </resources>

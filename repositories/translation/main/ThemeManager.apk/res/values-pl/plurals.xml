@@ -52,4 +52,14 @@
         <item quantity="other">Zastosowano na %1$d urządzeniach</item>
         <item quantity="one">Zastosowano %1$d urządzeniu</item>
     </plurals>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d godzin temu</item>
+        <item quantity="one">%d godzinę temu</item>
+        <item quantity="few">%d godziny temu</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">%d minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+    </plurals>
 </resources>

@@ -1115,4 +1115,13 @@
   <string name="miot_device_edit_device">Zmień układ urządzeń</string>
   <string name="miot_device_cta_priv">Polityka prywatności.</string>
   <string name="miot_device_cta_use_info">Umowa użytkownika Mi Home</string>
+  <string name="card_menu_remove">Usuń</string>
+  <string name="setting_cancel_sticky">Odepnij</string>
+  <string name="setting_sticky">Przypnij</string>
+  <string name="setting_sticky_canceled">Odpięto</string>
+  <string name="setting_sticky_done">Przypięto</string>
+  <string name="sport_headline">"Dzisiejsza aktywność"</string>
+  <string name="timeline_headline">Nadchodzące</string>
+  <string name="preference_privacy_settings">Ustawienia dot. prywatności</string>
+  <string name="announce_for_drag">Przeciąganie elementu</string>
 </resources>

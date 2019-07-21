@@ -806,4 +806,14 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="wallpaper_static">Zwykłe</string>
   <string name="enable_all_free_mode">Włącz</string>
   <string name="enabling_all_free_mode">Włączanie…</string>
+  <string name="wallpaper_no_favorite">Nie ma tu jeszcze żadnych elementów.</string>
+  <string name="wallpaper_no_record">Nie ma tu jeszcze żadnych elementów.</string>
+  <string name="author_attention">Obserwuj</string>
+  <string name="author_attention_success">Obserwujesz</string>
+  <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować te konto?</string>
+  <string name="author_dynamic">Status</string>
+  <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
+  <string name="detail_author_attention_head">Obserwuj niektórych z naszych najwybitniejszych projektantów</string>
+  <string name="detail_author_fans">"Obserwujący: "</string>
+  <string name="detail_author_works">"Elementów: "</string>
 </resources>

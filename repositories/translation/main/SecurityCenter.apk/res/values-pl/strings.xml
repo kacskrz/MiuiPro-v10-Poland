@@ -2711,4 +2711,11 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="system_permission_declare_privacy_policy"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_user_agreement"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_disagree">Nie zgadzam się</string>
+  <string name="privacy_notification_title_camera_mic">Aplikacja %1s używa aparatu i mikrofonu w tle</string>
+  <string name="privacy_notification_title_camera">Aplikacja %1s używa aparatu w tle</string>
+  <string name="privacy_notification_title_mic">Aplikacja %1s używa mikrofonu w tle</string>
+  <string name="privacy_notification_subtitle">Kliknij, aby zarządzać uprawnieniami</string>
+  <string name="privacy_description_camera_mic">Aplikacja %1s używa aparatu i mikrofonu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
+  <string name="privacy_description_camera">Aplikacja %1s używa aparatu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
+  <string name="privacy_description_mic">Aplikacja %1s używa mikrofonu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
 </resources>
