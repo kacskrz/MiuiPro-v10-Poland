@@ -15,7 +15,6 @@
   <string name="all_topic">Wszystkie tematy</string>
   <string name="already_liked">Już oznaczyłeś gwiazdką tą rzecz</string>
   <string name="apk_installing">Instalacja...</string>
-  <string name="app_name">Menadżer Plików</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Aparat</string>
   <string name="app_name_downloadedrom">Paczki</string>
@@ -370,7 +369,7 @@
   <string name="mobile_network_dialog_title">Ostrzeżenie o danych mobilnych</string>
   <string name="month_day_format">dd MMM</string>
   <string name="more_hot_text">Gorętszy</string>
-  <string name="move_failed">Nie można wyciąć</string>
+  <string name="move_failed">Nie można przenieść elementów</string>
   <string name="move_icon_to_desktop_hint">Utwórz skrót Menadżera Plików na ekranie głównym, aby zarządzać plikami wydajniej.</string>
   <string name="move_icon_to_desktop_success">Skrót dodany do ekranu głównego.</string>
   <string name="move_to">Przenieś do…</string>
@@ -444,7 +443,7 @@
   <string name="operation_hide_sys">Nie pokazuj ukrytych plików</string>
   <string name="operation_info">Szczegóły</string>
   <string name="operation_like">Ulubione</string>
-  <string name="operation_move">Wytnij</string>
+  <string name="operation_move">Przenieś</string>
   <string name="operation_moving">Przenoszenie…</string>
   <string name="operation_other_apps">Otwórz w innej aplikacji</string>
   <string name="operation_paste">Wklej</string>
@@ -889,4 +888,7 @@
   <string name="tab_app">Więcej</string>
   <string name="text_select_all">Zaznacz wszystko</string>
   <string name="text_select_nothing">Odznacz wszystko</string>
+  <string name="otg_file_security_confirm">kopiuj do telefonu</string>
+  <string name="otg_file_security_details">Należy skopiować do telefonu</string>
+  <string name="otg_file_security_note">Zabezpieczenia OTG</string>
 </resources>

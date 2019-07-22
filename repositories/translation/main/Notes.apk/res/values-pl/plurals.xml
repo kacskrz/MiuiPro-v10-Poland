@@ -80,4 +80,8 @@
         <item quantity="other">Za %1$d dni</item>
         <item quantity="one">Za %1$d dzień</item>
     </plurals>
+   	<plurals name="todo_terms">
+        <item quantity="other">%1$s notki</item>
+        <item quantity="one">%1$s notka</item>
+    </plurals>
 </resources>
