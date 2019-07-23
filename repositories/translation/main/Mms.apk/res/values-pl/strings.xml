@@ -836,11 +836,11 @@
   <string name="no_longer_recommend">"Nie pokazuj ponownie"</string>
   <string name="shortcut_new_msg">Nowa wiadomość</string>
   <string name="shortcut_setting">Ustawienia</string>
-  <string name="action_get_otp">Kopiuj OTP</string>
+  <string name="action_get_otp">Kopiuj kod</string>
   <string name="action_sign_in">Zaloguj się</string>
   <string name="action_sign_in_short">Zaloguj się</string>
-  <string name="area_code_hot">CZĘSTO UŻYWANE</string>
-  <string name="area_code_title">Kod kraju</string>
+  <string name="area_code_hot">Popularne</string>
+  <string name="area_code_title">Wybierz kod kraju</string>
   <string name="click_to_view">Kliknij, aby zobaczyć</string>
   <string name="dialog_smart_message_privacy_tips">Usługi inteligentnych wiadomości są dostarczane częściowo przez Dianhuabang. Przed użyciem tej funkcji musisz zgodzić się na warunki \"%1$s\". Usługa wymaga połączenia z Internetem oraz dostępu do lokalizacji w celu poprawnego działania. Czy akceptujesz te warunki?</string>
   <string name="dialog_smart_message_privacy_tips_title">Polityki prywatności Dianhuabang</string>
