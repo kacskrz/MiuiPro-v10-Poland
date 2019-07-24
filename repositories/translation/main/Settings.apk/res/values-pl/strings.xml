@@ -6350,7 +6350,7 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
  	<string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
 	 <string name="screen_dark_mode_time_title">Zaplanuj</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency">Kodek dźwięku Bluetooth LHDC: opóźnienie</string>
-  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Wybierz kodek dźwięku Bluetooth LDAC:
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Wybierz kodek dźwięku Bluetooth LHDC:
 opóźnienie"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Kodek dźwięku Bluetooth LHDC: jakość odtwarzania</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Wybierz kodek dźwięku Bluetooth LHDC:
