@@ -1231,7 +1231,7 @@
   <string name="notification_battery_consume_abnormal_title">Bateria jest drenowana zbyt szybko</string>
   <string name="notification_exit_power_save_mode">Oszczędzanie baterii wyłączone</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria naładowana %s.</string>
-  <string name="notification_mask_summary">Ukryj zawartość powiadomień na ekranie blokady i pasku powiadomień</string>
+  <string name="notification_mask_summary">Ukryj zawartość powiadomień dla chronionych aplikacji</string>
   <string name="notification_mask_title">Ukryj zawartość</string>
   <string name="notification_masked_item">Ukryj powiadomienia</string>
   <string name="notification_masked_subtitle">Ukryj powiadomienia od aplikacji chronionych za pomocą Blokowania aplikacji</string>

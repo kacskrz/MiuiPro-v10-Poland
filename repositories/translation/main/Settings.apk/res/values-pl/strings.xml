@@ -6349,4 +6349,18 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
 	 <string name="screen_dark_mode_smart_dark_summary">Zastosuj ciemny motyw także do aplikacji firm trzecich. Część z nich może wyświetlać się nieprawidłowo.</string>
  	<string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
 	 <string name="screen_dark_mode_time_title">Zaplanuj</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Kodek dźwięku Bluetooth LHDC: opóźnienie</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Wybierz kodek dźwięku Bluetooth LDAC:
+opóźnienie"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Kodek dźwięku Bluetooth LHDC: jakość odtwarzania</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Wybierz kodek dźwięku Bluetooth LHDC:
+jakość odtwarzania"</string>
+  <string name="bt_lhdc_declaration">Jeśli Bluetooth wspiera standard LHDC, to zostanie on domyślnie włączony. Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
+  <string name="bt_lhdc_dialog_summary">"Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii.
+  Ta funkcja może być wyłączona w [Ustawieniach]"</string>
+  <string name="bt_lhdc_dialog_title">Tu urządzenie wspiera Bluetooth LHDC i zostało domyślnie włączone:</string>
+  <string name="bt_lhdc_open_dialog_summary">Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
+  <string name="bt_lhdc_open_dialog_title">Włączyć LHDC?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Parametry</string>
 </resources>

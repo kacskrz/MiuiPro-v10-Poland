@@ -284,6 +284,7 @@
     <item>Audio Qualcomm® aptX™ HD</item>
     <item>LDAC</item>
 	<item>Adaptacyjne audio Qualcomm® aptX™</item>
+	   <item>LHDC</item>
     <item>Włączenie opcjonalnych kodeków</item>
     <item>Wyłączenie opcjonalnych kodeków</item>
   </string-array>
@@ -295,6 +296,7 @@
     <item>Audio Qualcomm® aptX™ HD</item>
     <item>LDAC</item>
 	<item>Adaptacyjne audio Qualcomm® aptX™</item>
+	   <item>LHDC</item>
     <item>Włącz opcjonalne kodeki</item>
     <item>Wyłącz opcjonalne kodeki</item>
   </string-array>
@@ -1325,5 +1327,27 @@
         <item>Słupkowy</item>
         <item>Procentowy (w ikonie)</item>
         <item>Procentowy (obok ikony na pasku powiadomień)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Małe opóźnienie</item>
+        <item>Średnie opóźnienie</item>
+        <item>Duże opóźnienie</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Małe opóźnienie (50~100ms)</item>
+        <item>Średnie opóźnienie (150~200ms)</item>
+        <item>Duże opóźnienie (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optymalizacja pod kątem jakości połączenia</item>
+        <item>Zrównoważona jakość dźwięku i połączenia</item>
+        <item>Optymalizacja pod kątem jakości dźwięku</item>
+        <item>Optymalna (autom. szybkość transmisji bitów)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optymalizacja pod kątem jakości połączenia (400 kb/s)</item>
+        <item>Zrównoważona jakość dźwięku i połączenia (500 lub 560 kb/s)</item>
+        <item>Optymalizacja pod kątem jakości dźwięku (900 kb/s)</item>
+        <item>Optymalna (autom. szybkość transmisji bitów)</item>
     </string-array>
 </resources>
