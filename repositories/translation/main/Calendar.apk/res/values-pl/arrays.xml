@@ -389,4 +389,22 @@
         <item>Dla wszystkich wydarzeń</item>
         <item>Dla wydarzeń uwarunkowanych czasowo</item>
     </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>P</item>
+        <item>W</item>
+        <item>Ś</item>
+        <item>C</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
 </resources>
