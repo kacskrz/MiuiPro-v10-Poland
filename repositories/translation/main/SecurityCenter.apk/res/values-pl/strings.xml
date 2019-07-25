@@ -2718,4 +2718,9 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="privacy_description_camera_mic">Aplikacja %1s używa aparatu i mikrofonu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
   <string name="privacy_description_camera">Aplikacja %1s używa aparatu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
   <string name="privacy_description_mic">Aplikacja %1s używa mikrofonu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
+  <string name="pc_search_keywords_battery">Bateria</string>
+  <string name="pc_search_keywords_battery_save">Oszczędzanie baterii</string>
+  <string name="pc_search_keywords_battery_use">Zużycie baterii</string>
+  <string name="pc_search_keywords_capacity">Pojemność baterii</string>
+  <string name="pc_search_keywords_property">Wydajność</string>
 </resources>

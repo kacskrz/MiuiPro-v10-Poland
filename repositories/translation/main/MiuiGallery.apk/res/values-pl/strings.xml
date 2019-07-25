@@ -1679,4 +1679,8 @@ aby spersonalizować Galerię"</string>
   <string name="wednesday">Środa</string>
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Ś</string>
+  <string name="screen_editor_btn_delete">Usuń</string>
+  <string name="screen_editor_btn_save">Zapisz</string>
+  <string name="screen_editor_delete_dialog_msg">Usunąć ten zrzut ekranu?</string>
+  <string name="filter_single_sky">Niebo</string>
 </resources>

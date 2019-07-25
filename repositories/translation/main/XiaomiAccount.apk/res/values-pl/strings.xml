@@ -577,4 +577,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="bind_google">Dodaj konto Google</string>
   <string name="bind_weixin">Dodaj konto WeChat</string>
   <string name="need_install_wechat">Zainstaluj WeChat</string>
+  <string name="agreement_and_privacy_title_short">Dokumenty prawne</string>
 </resources>

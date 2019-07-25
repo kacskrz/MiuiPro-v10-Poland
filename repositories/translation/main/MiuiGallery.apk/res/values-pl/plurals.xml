@@ -363,6 +363,11 @@
         <item quantity="one">Zapisać %d wybrane zdjęcie i usunąć resztę?</item>
         <item quantity="few">Zapisać %d wybrane zdjęcia i usunąć resztę?</item>
     </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Usuń %d zdjęć</item>
+        <item quantity="one">Usuń %d zdjęcie</item>
+        <item quantity="few">Usuń %d zdjęcia</item>
+    </plurals>
     <plurals name="burst_save_selected">
         <item quantity="other">Zapisz %d wybranych zdjęć</item>
         <item quantity="one">Zapisz %d wybrane zdjęcie</item>
