@@ -218,17 +218,17 @@
   <string name="miui_failed_system_incompatible">Niezgodny pakiet instalacyjny</string>
   <string name="miui_failed_update_incompatible">Konflikt sygnatur aplikacji</string>
   <string name="miui_failed_version_downgrade">Nie można zmienić uprawnień aplikacji</string>
-  <string name="miui_failed_version_downgrade_space">W Drugiej przestrzeni jest nowsza wersja tej aplikacji. Odinstaluj ją w Drugiej przestrzeni, a następnie zainstaluj tutaj.</string>
+  <string name="miui_failed_version_downgrade_space">W Drugiej przestrzeni znajduje się nowsza wersja tej aplikacji.</string>
   <string name="miui_help_feedback_label">Pomoc &amp; informacja zwrotna</string>
   <string name="miui_install_confirm_question">Zainstalować tą aplikację?</string>
   <string name="miui_install_confirm_question_update">Nadpisać już istniejącą aplikację?</string>
   <string name="miui_install_fail">Nie można zainstalować(%d)</string>
   <string name="miui_install_fail_notify">Nie można zainstalować</string>
   <string name="miui_install_fail_reason">Powód</string>
-  <string name="miui_install_source">Źródło: %s</string>
+  <string name="miui_install_source">Z \"%s\"</string>
   <string name="miui_install_source_unkown">Nieznane</string>
   <string name="miui_install_success">Zainstalowano pomyślnie</string>
-  <string name="miui_install_version">Wersja: %s</string>
+  <string name="miui_install_version">Wersja: %1$s | Rozmiar: %2$s</string>
   <string name="miui_installing">Instalacja…</string>
   <string name="miui_installing2">Instalacja…</string>
   <string name="miui_message_staging_0">Etapowanie aplikacji   </string>
@@ -251,11 +251,11 @@
   <string name="miui_uninstalling">Deinstalacja…</string>
   <string name="miui_virus_deleted">Usunięto wirusy pomyślnie</string>
   <string name="miui_virus_install">&lt;u&gt;Zainstaluj mimo to&lt;/u&gt;</string>
-  <string name="miui_virus_scanning">Skanowanie…</string>
-  <string name="miui_virus_scanning_0">Skanowanie   </string>
-  <string name="miui_virus_scanning_1">Skanowanie.  </string>
-  <string name="miui_virus_scanning_2">Skanowanie.. </string>
-  <string name="miui_virus_scanning_3">Skanowanie...</string>
+  <string name="miui_virus_scanning">Skanowanie antywirusowe…</string>
+  <string name="miui_virus_scanning_0">Skanowanie antywirusowe   </string>
+  <string name="miui_virus_scanning_1">Skanowanie antywirusowe.  </string>
+  <string name="miui_virus_scanning_2">Skanowanie antywirusowe.. </string>
+  <string name="miui_virus_scanning_3">Skanowanie antywirusowe...</string>
   <string name="miui_virus_title">Wysokie ryzyko</string>
   <string name="never_ask_again">Nie pytaj ponownie</string>
   <string name="new_permissions_category">Nowe uprawnienia</string>
@@ -417,4 +417,5 @@
 
 "<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Dodatkowe ustawienia > Prywatność > Specjalny dostęp > Instalacja nieznanych aplikacji.</font></string>
     <string name="virus_title_subtext">"Ta aplikacja może zawierać wirusy: "</string>
+    <string name="pref_key_antivirus_summary">Sprawdź aplikacje pod kątem wirusów przed ich instalacją</string>
 </resources>

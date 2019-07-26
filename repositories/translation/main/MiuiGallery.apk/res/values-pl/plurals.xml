@@ -452,4 +452,9 @@
         <item quantity="one">minutę temu</item>
         <item quantity="few">%d minuty temu</item>
     </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">Usunięto %d elementów</item>
+        <item quantity="one">Usunięto %d element</item>
+        <item quantity="few">Usunięto %d elementy</item>
+    </plurals>
 </resources>
