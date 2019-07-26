@@ -891,4 +891,13 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="text_ai_scene_selector_text_off">OŚWIETLENIE TŁA</string>
   <string name="text_ai_scene_selector_text_on">SYLWETKA</string>
   <string name="mimoji_app_name">Mimoji</string>
+  <string name="accessibility_ultra_pixel_photography_off">Tryb %s Ultra HD wył.</string>
+  <string name="accessibility_ultra_pixel_photography_on">Tryb %s Ultra HD wł.</string>
+  <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+  <string name="ultra_pixel_32mp">32 Mpx</string>
+  <string name="ultra_pixel_48mp">48 Mpx</string>
+  <string name="ultra_pixel_64mp">64 Mpx</string>
+  <string name="ultra_pixel_photography_close_tip">Tryb %s Ultra HD wył.</string>
+  <string name="ultra_pixel_photography_open_tip">Tryb %s Ultra HD wł.</string>
+  <string name="ultra_pixel_zoom_no_support_tip">"Zoom nie działa w trybie %s Ultra HD"</string>
 </resources>

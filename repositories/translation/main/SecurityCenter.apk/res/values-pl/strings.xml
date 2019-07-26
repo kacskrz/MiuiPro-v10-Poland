@@ -2723,4 +2723,5 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="pc_search_keywords_battery_use">Zużycie baterii</string>
   <string name="pc_search_keywords_capacity">Pojemność baterii</string>
   <string name="pc_search_keywords_property">Wydajność</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja będzie mogła działać tylko częściowo."</string>
 </resources>

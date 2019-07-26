@@ -482,12 +482,12 @@
         <item quantity="many">%d aplikacji</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Ukryto ikony na pulpicie dla %d aplikacji</item>
-        <item quantity="one">Ukryto ikonę na pulpicie dla %d aplikacji</item>
+        <item quantity="other">Nie ukryto ikon %d aplikacji</item>
+        <item quantity="one">Nie ukryto ikony %d aplikacji</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">Nie ukryto ikon dla %d aplikacji</item>
-        <item quantity="one">Nie ukryto ikony dla %d aplikacji</item>
+        <item quantity="other">Ukryto ikony %d aplikacji</item>
+        <item quantity="one">Ukryto ikonę %d aplikacji</item>
     </plurals>      
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Reset do ustawień fabrycznych (%d s)</item>
