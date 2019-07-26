@@ -1121,7 +1121,7 @@
   <string name="setting_sticky_canceled">Odpięto</string>
   <string name="setting_sticky_done">Przypięto</string>
   <string name="sport_headline">"Dzisiejsza aktywność"</string>
-  <string name="timeline_headline">Nadchodzące</string>
+  <string name="timeline_headline">W skrócie</string>
   <string name="preference_privacy_settings">Ustawienia dot. prywatności</string>
   <string name="announce_for_drag">Przeciąganie elementu</string>
 </resources>
