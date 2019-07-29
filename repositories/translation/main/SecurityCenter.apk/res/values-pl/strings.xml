@@ -2649,8 +2649,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="battery_statistics_activity_title">Statystyki użycia baterii</string>
   <string name="pc_battery_history_consume_rank_menu_item">Ranking</string>
   <string name="pc_battery_history_battery_detail_menu_item">Szczegóły</string>
-  <string name="pc_battery_history_rank_percent_menu_item">Procent</string>
-  <string name="pc_battery_history_rank_mha_menu_item">Miliamperogodzina</string>
+  <string name="pc_battery_history_rank_percent_menu_item">W procentach</string>
+  <string name="pc_battery_history_rank_mha_menu_item">W mAh</string>
   <string name="pc_battery_detail_curve_reference_now">Teraz</string>
   <string name="pc_battery_detail_device_item_title">Statystyki użycia baterii</string>
   <string name="pc_statistics_battery_use_title">Zużycie baterii</string>
