@@ -204,7 +204,7 @@
   <string name="error_create_file">Nie udało się utworzyć pliku</string>
   <string name="error_delete_failed">Nie udało się usunąć pliku</string>
   <string name="error_filename_too_long">Wprowadzona nazwa pliku jest zbyt długa.</string>
-  <string name="error_folder_already_exists">Ten plik już istnieje</string>
+  <string name="error_folder_already_exists">Folder już istnieje</string>
   <string name="error_info_cant_send_folder">Nie można wysłać katalogów.</string>
   <string name="error_invalid_path">Nieprawidłowa ścieżka</string>
   <string name="error_not_support">Nie obsługiwane</string>
@@ -891,4 +891,9 @@
   <string name="otg_file_security_confirm">kopiuj do telefonu</string>
   <string name="otg_file_security_details">Należy skopiować do telefonu</string>
   <string name="otg_file_security_note">Zabezpieczenia OTG</string>
+  <string name="app_function">Zarządzaj plikami na urządzeniu</string>
+  <string name="error_file_already_exists">Plik już istnieje</string>
+  <string name="function_file_operation">"Dostęp i otwieranie plików; "</string>
+  <string name="function_set_private">"Podgląd i szyfrowanie plików; "</string>
+  <string name="function_use_imei">"Dostęp do IMEI i szyfrowanie plików; "</string>
 </resources>
