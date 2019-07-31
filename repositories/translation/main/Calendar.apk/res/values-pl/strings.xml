@@ -573,4 +573,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="setting_title_import_todo">Zaimportuj zadania</string>
   <string name="todo_audio_event">"[Zadanie głosowe] "</string>
   <string name="todo_event">Nadchodzące zadania</string>
+  <string name="text_day">" "</string>
+  <string name="text_year">" "</string>
+  <string name="ticket_activity_card_date_day">" "</string>
+  <string name="ticket_activity_card_date_month">" "</string>
 </resources>
