@@ -6196,16 +6196,16 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="color_led_applications_title_summary">Możesz ograniczyć używanie diody dla poszczególnych aplikacji</string>
   <string name="color_led_battery_title">Świeć w trakcie ładowania</string>
   <string name="color_led_end_time">Czas zakończenia</string>
-  <string name="color_led_game_mode_title">Tryb Game Turbo</string>
+  <string name="color_led_game_mode_title">Użyj w Game Turbo</string>
   <string name="color_led_hint">Wybierz scenariusze, w których powinna być używana dioda powiadomień. Będzie ona świecić, gdy ekran jest skierowany w dół, a tryb Nie przeszkadzać jest wyłączony.</string>
-  <string name="color_led_incall_pulse_title">Mrugaj przy przychodzących połączeniach</string>
+  <string name="color_led_incall_pulse_title">Użyj przy połączeniach przychodzących</string>
   <string name="color_led_lucky_dialog_title">Włącz asystenta Czerwonej koperty</string>
   <string name="color_led_lucky_dialog_message">Ta funkcja wymaga użycia asystenta Czerwonej koperty. Włączyć go teraz?</string>
-  <string name="color_led_music_mode_title">Muzyka</string>
-  <string name="color_led_music_mode_summary">Generuj efekty świetlne w rytm odtwarzanej muzyki</string>
-  <string name="color_led_notification_pulse_title">Mrugaj dla powiadomień</string>
+  <string name="color_led_music_mode_title">Użyj w trakcie odtwarzania muzyki</string>
+  <string name="color_led_music_mode_summary">Generuj efekty świetlne w rytm odtwarzanej muzyki. Nie działa w trybie Cichym.</string>
+  <string name="color_led_notification_pulse_title">Mrugaj dla powiadomień, gdy ekran jest wyłączony</string>
   <string name="color_led_red_more_feature">Efekty specjalne</string>
-  <string name="color_led_red_package_title">Czerwona koperta</string>
+  <string name="color_led_red_package_title">Użyj dla Czerwonej koperty</string>
   <string name="color_led_start_time">Czas rozpoczęcia</string>
   <string name="color_led_title">Dioda powiadomień</string>
   <string name="long_press_power_key">Przytrzymanie przycisku Zasilania</string>
@@ -6365,4 +6365,9 @@ jakość odtwarzania"</string>
   <string name="bt_lhdc_property">Parametry</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Chmura Xiaomi synchronizuje twoje zdjęcia, tworzy kopię aplikacji i ustawień, a także pomaga znaleźć twój telefon za pomocą funkcji Znajdź urządzenie.</string>
   <string name="mi_transfer">Przenoszenie danych</string>
+  <string name="color_led_charging_summary">Gdy bateria zostanie naladowana, dioda wyłączy się</string>
+  <string name="color_led_game_mode_summary">Gdy Game Turbo jest włączone, dioda będzie pokazywać efekty w grach</string>
+  <string name="color_led_red_packets_summary">Pokaż efekty dla Czerwonej koperty z aplikacji WeChat i QQ, gdy asystent Czerwonej koperty jest włączony</string>
+  <string name="color_led_special_scene_title">Efekty specjalne</string>
+  <string name="color_led_summary">Nie działa w trybie Nie przeszkadzać</string>
 </resources>

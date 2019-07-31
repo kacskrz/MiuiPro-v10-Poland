@@ -1507,7 +1507,7 @@ aby spersonalizować Galerię"</string>
   <string name="clear_dup_tip">Usuwanie duplikatów</string>
   <string name="burst_image_download_item_title" formatted="false">Pobierz oryginalny (%s|%s)</string>
   <string name="burst_preview_title">Zdjęcia seryjne</string>
-  <string name="burst_save_all">Zapisz wszystko</string>
+  <string name="burst_save_all">Zachowaj wszystkie</string>
   <string name="burst_save_choice_title" formatted="false">Wybrano %d z %d</string>
   <string name="burst_save_confirm_dialog_title">Zapisywanie zdjęć</string>
   <string name="burst_save_error_msg">"Nie udało się zapisać"</string>

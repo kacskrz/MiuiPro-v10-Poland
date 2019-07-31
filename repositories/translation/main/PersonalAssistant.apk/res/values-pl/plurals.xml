@@ -40,4 +40,9 @@
     <item quantity="one">%d minutę temu</item>
     <item quantity="few">%d minuty temu</item>
   </plurals>
+ <plurals name="agenda_count_down">
+    <item quantity="other">Za %d minut</item>
+    <item quantity="one">Za %d minutę</item>
+    <item quantity="few">Za %d minuty</item>
+  </plurals>
 </resources>

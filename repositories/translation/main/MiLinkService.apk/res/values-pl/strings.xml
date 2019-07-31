@@ -105,4 +105,6 @@ Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na 
     <string name="toast_guide_title">Odkrywaj nowe funkcje</string>
     <string name="toast_msg">Aby wyświetlać ekran w aplikacji, użyj małego okienka.</string>
     <string name="toast_msg_for_multi_window">Ta funkcja jest niedostępna w trybie Podzielonego ekranu</string>
+    <string name="toast_msg_for_small_window">Po otwarciu aplikacji, którą chcesz wyświetlać, użyj funkcji wyświetlania jej w małym okienku. Działanie aplikacji nie zostanie przerwane i będziesz mógł wykonywać inne działania na telefonie.</string>
+    <string name="toast_title_for_small_window">Użyj małego okienka, aby wyświetlać ekran w aplikacji.</string>
 </resources>

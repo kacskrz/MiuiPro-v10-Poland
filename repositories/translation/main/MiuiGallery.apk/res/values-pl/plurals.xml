@@ -358,20 +358,20 @@
         <item quantity="one">%d zdjęcie</item>
         <item quantity="few">%d zdjęcia</item>
     </plurals>
-    <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Zapisać %d wybranych zdjęć i usunąć resztę?</item>
-        <item quantity="one">Zapisać %d wybrane zdjęcie i usunąć resztę?</item>
-        <item quantity="few">Zapisać %d wybrane zdjęcia i usunąć resztę?</item>
-    </plurals>
     <plurals name="burst_save_confirm_dialog_title">
         <item quantity="other">Usuń %d zdjęć</item>
         <item quantity="one">Usuń %d zdjęcie</item>
         <item quantity="few">Usuń %d zdjęcia</item>
     </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Usunąć %d zdjęć, których nie wybrałeś?</item>
+        <item quantity="one">Usunąć %d zdjęcie, którego nie wybrałeś?</item>
+        <item quantity="few">Usunąć %d zdjęcia, których nie wybrałeś?</item>
+    </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Zapisz %d wybranych zdjęć</item>
-        <item quantity="one">Zapisz %d wybrane zdjęcie</item>
-        <item quantity="few">Zapisz %d wybrane zdjęcia</item>
+        <item quantity="other">Zachowaj %d wybranych zdjęć</item>
+        <item quantity="one">Zachowaj %d wybrane zdjęcie</item>
+        <item quantity="few">Zachowaj %d wybrane zdjęcia</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Usunąć %d zdjęć seryjnych z Chmury Xiaomi i wszystkich zsynchronizowanych urządzeń?</item>
