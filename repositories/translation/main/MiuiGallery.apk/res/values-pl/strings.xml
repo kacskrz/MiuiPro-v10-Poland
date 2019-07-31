@@ -1682,5 +1682,5 @@ aby spersonalizować Galerię"</string>
   <string name="screen_editor_btn_delete">Usuń</string>
   <string name="screen_editor_btn_save">Zapisz</string>
   <string name="screen_editor_delete_dialog_msg">Usunąć ten zrzut ekranu?</string>
-  <string name="filter_single_sky">Wieżowce</string>
+  <string name="filter_single_sky">Niebo</string>
 </resources>
