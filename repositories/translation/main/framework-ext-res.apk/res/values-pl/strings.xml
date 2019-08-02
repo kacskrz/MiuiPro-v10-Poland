@@ -227,4 +227,9 @@
   <string name="content_description_share">Udostępnij</string>
   <string name="content_description_translate">Tłumacz</string>
   <string name="content_description_web_url">Odwiedź</string>
+  <string name="input_method_edit_phrase_text">Edytuj częste zwroty</string>
+  <string name="input_method_no_content_text">Brak elementów</string>
+  <string name="input_method_switch_settings_text">Ustawienia klawiatury</string>
+  <string name="input_method_tab_clipboard_text">Schowek</string>
+  <string name="input_method_tab_phrase_text">Częste zwroty</string>
 </resources>

@@ -6370,4 +6370,22 @@ jakość odtwarzania"</string>
   <string name="color_led_red_packets_summary">Pokaż efekty dla Czerwonej koperty z aplikacji WeChat i QQ, gdy asystent Czerwonej koperty jest włączony</string>
   <string name="color_led_special_scene_title">Efekty specjalne</string>
   <string name="color_led_summary">Nie działa w trybie Nie przeszkadzać</string>
+  <string name="power_usage_summary_title_new">Bateria i wydajność</string>
+  <string name="full_screen_keyboard_optimization">Rozszerz klawiaturę</string>
+  <string name="input_method_function_clipboard">Schowek i częste zwroty</string>
+  <string name="input_method_function_clipboard_des">Dotknij, aby zobaczyć zawartość schowka i częste zwroty</string>
+  <string name="input_method_function_no_function">Brak</string>
+  <string name="input_method_function_no_function_des">"Nie pokazuj żadnych skrótów"</string>
+  <string name="input_method_function_switch">Przełącz pomiędzy klawiaturami</string>
+  <string name="input_method_function_switch_des">Dotknij, aby przełączyć się na inną klawiaturę</string>
+  <string name="input_method_function_voice">Wprowadzanie głosowe</string>
+  <string name="input_method_function_voice_des">Dotknij, aby użyć wprowadzania głosowego</string>
+  <string name="input_method_function_xiaoai">Wprowadzanie głosowe za pomocą Mi SI</string>
+  <string name="input_method_function_xiaoai_des">Dotknij, aby użyć wprowadzania głosowego Mi SI</string>
+  <string name="left_function_key">Lewy skrót</string>
+  <string name="normal_bottom_height_of_keyboard">Normalny</string>
+  <string name="raise_bottom_height_of_keyboard">Rozszerzony</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Jeśli włączysz Tryb rozszerzony, pod klawiaturą pojawi się pasek ze konfigurowalnymi skrótami</string>
+  <string name="raise_bottom_height_of_keyboard_title">Dostosuj klawiaturę do wyświetlania pełnoekranowego</string>
+  <string name="right_function_key">Prawy skrót</string>
 </resources>
