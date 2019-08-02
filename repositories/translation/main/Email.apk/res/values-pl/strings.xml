@@ -32,7 +32,7 @@
     <string name="account_settings_enforced_summary">Brak</string>
     <string name="account_settings_incoming_summary">Użytkownik, hasło i inne ustawienia serwera</string>
     <string name="account_settings_login_dialog_content_fmt">Nazwa użytkownika lub hasło dla konta %s są nieprawidłowe. Zaktualizować teraz?</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Nie udało się zalogować na %s. Odpowiedź serwera: %s</string>
+    <string name="account_settings_login_dialog_reason_fmt">Nie udało się zalogować na %1$s. Odpowiedź serwera: %2$s</string>
     <string name="account_settings_login_dialog_title">Nie udało się zalogować</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Musisz ręcznie odświeżyć Pocztę, aby zsynchronizować e-maile</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Będziesz musiał synchronizować Pocztę ręcznie, aby móc synchronizować wiadomości i wydarzenia z kalendarza.</string>
@@ -401,6 +401,7 @@
     <string name="email_setting">Poczta</string>
     <string name="email_setting_keywords">Konta; Dodaj konto, konta pocztowe; dodaj konto pocztowe; Potwierdź przed usunięciem; potwierdzenie usunięcia; potwierdź przed wysłaniem; Wyślij potwierdzenie; usuń przepływ komunikatów; usuń przekierowanie, Widok rozmowy; rozmowa poczty;Oszczędzanie baterii; poczta baterii; Wyślij opinię; prześlij logi</string>
     <string name="email_sina">Poczta Sina</string>
+    <string name="email_sync_failed">Synchronizacja nieudana</string>
     <string name="eml_parse_message">Otwieranie pliku EML…</string>
     <string name="empty_account_tip">Nie udało się znaleźć konta</string>
     <string name="empty_email_tip">Nie można wysłać pustej wiadomości</string>
@@ -736,7 +737,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="permission_read_attachment_label">Odczyt załączników</string>
     <string name="phone">telefon</string>
     <string name="photo_load_failed">Nie udało się załadować obrazu</string>
-    <string name="photo_view_count" formatted="false">%d z %d</string>
+    <string name="photo_view_count">%1$d z %2$d</string>
     <string name="please_fill_in_your_mailbox_information2">Wprowadź swoje dane skrzynki pocztowej</string>
     <string name="pls_parse_bill_discribe">"Analizuje rachunki i informacje o podróżach w Twoich mailach
 , aby wysyłać przypomnienia o rachunkach i wycieczkach"</string>
@@ -874,7 +875,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="reply">Odpowiedz</string>
     <string name="reply_add_bodycontent">Dodać odpowiedź do treści wiadomości?</string>
     <string name="reply_all">Odpowiedz wszystkim</string>
-    <string name="reply_attribution" formatted="false">%s %s napisał(a):</string>
+    <string name="reply_attribution">%1$s %2$s napisał(a):</string>
     <string name="report_phishing">Zgłoś próbę wyłudzenia informacji</string>
     <string name="report_spam">Zgłoś spam</string>
     <string name="request_entity_large">Plik jest za duży</string>
@@ -1076,7 +1077,7 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="open_notification_kingagent">Open the notice of the burial point</string>
   <string name="optimization_suggestion">Sugestie dot. optymalizacji</string>
   <string name="others_mail">Inne</string>
-  <string name="others_mail_des">(Kompatybilne z 600K usługami poczty)</string>
+  <string name="others_mail_des">Inne serwisy pocztowe i konta firmowe</string>
   <string name="qq_authorization_help_get">Uzyskaj kod</string>
   <string name="qq_authorization_know">O kodzie</string>
   <string name="qq_authorization_tips">Nie pokazuj ponownie</string>
@@ -1120,6 +1121,8 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="delete_contact_content">Usunąć ten kontakt?</string>
   <string name="recommend_protocal">Rekomendowany protokół</string>
   <string name="remote_no_mail">"Nie ma więcej maili na serwerze."</string>
-  <string name="login_err_message">Wpisane hasło jest nieprawidłowe. Być może do zalogowania się będzie potrzebny kod weryfikacyjny. Jeśli chcesz zresetować swoje hasło, odwiedź stronę https://email.163.com/, aby sprawdzić, jak możesz tego dokonać.</string>
+  <string name="login_err_message">%1$sByć może do zalogowania się będzie potrzebny kod weryfikacyjny. Jeśli chcesz zresetować swoje hasło, odwiedź stronę https://email.163.com/, aby sprawdzić, jak możesz tego dokonać.</string>
   <string name="wait_while_update_db">Trwa aktualizacja bazy danych. Poczekaj chwilę!</string>
+  <string name="account_add_title">Wybierz usługę poczty</string>
+  <string name="toast_bar_sync_failed_client_cert">Synchronizacja nieudana z powodu błędu autoryzacji. Kliknij, aby dodać certyfikat ponownie.</string>
 </resources>

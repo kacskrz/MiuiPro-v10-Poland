@@ -71,7 +71,7 @@
     <string name="feedback_description_save_photo">Nie udało się zapisać obrazu lub wideo</string>
     <string name="flash_lable">Flash</string>
     <string name="import_contact">Wczytaj kontakt</string>
-    <string name="impunity_declaration_content">"Aplikacja wymaga uprawnień do aparatu, aby przetwarzać zdjęcia nią wykonane, a także do łączenia się z Internetem. Nie używaj Skanera na zdjęciach, które zawierają poufne informacje. Poprzez naciśnięcie przycisku \"Zezwól\" potwierdzasz zapoznanie się i zaakceptowanie &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Polityki prywatności Xiaomi&lt;/a>&lt;/font>."</string>
+    <string name="impunity_declaration_content">"Aplikacja wymaga uprawnień do aparatu, aby przetwarzać zdjęcia nią wykonane, a także do łączenia się z Internetem. Nie używaj Skanera na zdjęciach, które zawierają poufne informacje. Poprzez naciśnięcie przycisku \"Zezwól\" potwierdzasz zapoznanie się i zaakceptowanie &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Polityki prywatności Xiaomi&lt;/a>&lt;/font>."</string>
     <string name="impunity_declaration_negative_text">Wyjdź</string>
     <string name="impunity_declaration_positive_text">Zezwól</string>
     <string name="impunity_declaration_title">Polityka prywatności</string>
