@@ -683,4 +683,7 @@
   <string name="sync_setting_title">Ustawienia synchronizacji</string>
   <string name="sync_normal_summary">Część elementów z listy poniżej nie mogło zostać zsynchronizowanych</string>
   <string name="sync_normal_title">Nie udało się ukończyć synchronizacji</string>
+  <string name="privacy_and_agreement">Polityka prywatności i Warunki użytkowania</string>
+  <string name="pre_privacy_policy">Polityka prywatności</string>
+  <string name="pre_user_agreement">Warunki użytkowania</string>
 </resources>

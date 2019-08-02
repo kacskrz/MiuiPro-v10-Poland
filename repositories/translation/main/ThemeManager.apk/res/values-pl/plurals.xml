@@ -62,4 +62,9 @@
         <item quantity="one">%d minutę temu</item>
         <item quantity="few">%d minuty temu</item>
     </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d tapet</item>
+        <item quantity="one">%1$d tapeta</item>
+        <item quantity="few">%1$d tapety</item>
+    </plurals>
 </resources>

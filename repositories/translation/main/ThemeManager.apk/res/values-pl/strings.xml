@@ -816,4 +816,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="detail_author_attention_head">Obserwuj niektórych z naszych najwybitniejszych projektantów</string>
   <string name="detail_author_fans">"Obserwujący: "</string>
   <string name="detail_author_works">"Elementów: "</string>
+  <string name="system_cta_main_purpose">Zarządzaj i używaj motywów offline oraz online, tapet, dzwonków, czcionek i tapet wideo</string>
+  <string name="system_cta_runtime_perm_desc_get_accounts">Dostęp do IMEI i dostarczanie usług pobierania</string>
+  <string name="system_cta_runtime_perm_desc_read_phone_state">Logowanie się i zarządzanie kontami w systemie</string>
+  <string name="system_cta_runtime_perm_desc_storage">Przechowywanie zapisanych motywów, dzwonków, czcionek i tapet</string>
 </resources>

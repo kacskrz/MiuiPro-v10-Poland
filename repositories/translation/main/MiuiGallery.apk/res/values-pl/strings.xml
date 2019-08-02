@@ -1683,4 +1683,6 @@ aby spersonalizować Galerię"</string>
   <string name="screen_editor_btn_save">Zapisz</string>
   <string name="screen_editor_delete_dialog_msg">Usunąć ten zrzut ekranu?</string>
   <string name="filter_single_sky">Niebo</string>
+  <string name="chooser_fragment_mishare_title">Wyślij do</string>
+  <string name="projection_screen_project_in_screening">Używasz teraz swojego urządzenia do przesyłania</string>
 </resources>

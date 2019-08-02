@@ -1288,4 +1288,5 @@ Be Happy"</string>
   <string name="open_migu_music">Ładowanie…</string>
   <string name="talkback_new_person_must_listen">Dla nowych</string>
   <string name="optimize_all_optimize_finish">Pomyślnie pobrano tekst i okładkę albumu</string>
+  <string name="dialog_song_sort_type_publish_time">Wg daty wydania</string>
 </resources>

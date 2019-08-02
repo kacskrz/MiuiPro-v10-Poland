@@ -30,7 +30,7 @@
   <string name="clear_and_bright">清明</string>
   <string name="cloud_state_disabled">Synchronizacja z Chmurą wył.</string>
   <string name="cloud_state_finished">Zsynchronizowano z Chmurą</string>
-  <string name="cloud_state_syncing">Zsynchronizowano z Chmurą</string>
+  <string name="cloud_state_syncing">Synchronizacja z Chmurą</string>
   <string name="cold_dews">寒露</string>
   <string name="country">Country</string>
   <string name="crystal">Kryształ</string>
@@ -172,4 +172,6 @@
   <string name="makewishes">Życzenie urodzinowe</string>
   <string name="robot">Robot</string>
   <string name="surprise">Niespodzianka</string>
+  <string name="birdcicada_preview">Dźwięk natury 2</string>
+  <string name="waterdrop_preview">Dźwięk natury 1</string>
 </resources>

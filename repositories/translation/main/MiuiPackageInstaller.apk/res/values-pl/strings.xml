@@ -346,7 +346,9 @@
   <string name="unknown_apps_dlg_text">Ze względów bezpieczeństwa Twój telefon ma ustawione blokowanie instalacji aplikacji uzyskanych z nieznanych źródeł.</string>
   <string name="unknown_installer">Niezidentyfikowane narzędzia z komputera</string>
   <string name="unlike">Nie, dziękuję</string>
-  <string name="untrusted_external_source_warning">Ze względów bezpieczeństwa Twój telefon nie może instalować nieznanych aplikacji z tego źródła.</string>
+  <string name="untrusted_external_source_warning">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.
+
+"<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Specjalny dostęp > Instalacja nieznanych aplikacji.</font></string>
   <string name="user_is_not_allowed_dlg_text">Bieżący użytkownik nie może wykonać tej dezinstalacji.</string>
   <string name="user_is_not_allowed_dlg_title">Brak pozwolenia</string>
   <string name="v7_preference_off">OFF</string>
@@ -415,7 +417,7 @@
     <string name="untrusted_external_source_title">Zezwolić \"%1$s\" na instalację aplikacji?</string>
     <string name="untrusted_external_source_warning_2">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.
 
-"<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Dodatkowe ustawienia > Prywatność > Specjalny dostęp > Instalacja nieznanych aplikacji.</font></string>
+"<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Dodatkowe ustawienia > Prywatność > Instalacja nieznanych aplikacji.</font></string>
     <string name="virus_title_subtext">"Ta aplikacja może zawierać wirusy: "</string>
     <string name="pref_key_antivirus_summary">Sprawdź aplikacje pod kątem wirusów przed ich instalacją</string>
 </resources>
