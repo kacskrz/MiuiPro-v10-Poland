@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="accessibility_usage_summary">
+    <item quantity="other">%1$d aplikacji ma pełny dostęp do urządzenia</item>
+    <item quantity="one">1 aplikacja ma pełny dostęp do urządzenia</item>
+    <item quantity="few">%1$d aplikacje mają pełny dostęp do urządzenia</item>
+    <item quantity="many">%1$d aplikacji ma pełny dostęp do urządzenia</item>
+  </plurals>
+  <plurals name="location_app_permission_summary_location_on">
+    <item quantity="other">%1$d z %2$d aplikacji ma dostęp do lokalizacji</item>
+    <item quantity="one">%1$d z %2$d aplikacji ma dostęp do lokalizacji</item>
+    <item quantity="few">%1$d z %2$d aplikacji mają dostęp do lokalizacji</item>
+    <item quantity="many">%1$d z %2$d aplikacji ma dostęp do lokalizacji</item>
+  </plurals>
+  <plurals name="location_settings_summary_location_on">
+    <item quantity="other">Włączono – %1$d aplikacji ma dostęp do lokalizacji</item>
+    <item quantity="one">Włączono – %1$d aplikacja ma dostęp do lokalizacji</item>
+    <item quantity="few">Włączono – %1$d aplikacje mają dostęp do lokalizacji</item>
+    <item quantity="many">Włączono – %1$d aplikacji ma dostęp do lokalizacji</item>
+  </plurals>
+  <plurals name="mobile_network_summary_count">
+    <item quantity="other">%1$d karty SIM</item>
+    <item quantity="one">%1$d karta SIM</item>
+    <item quantity="few">%1$d karty SIM</item>
+    <item quantity="many">%1$d kart SIM</item>
+  </plurals>
+  <plurals name="notification_few_channel_count_summary">
+    <item quantity="other">%1$d kanału powiadomień.</item>
+    <item quantity="one">%1$d kanał powiadomień.</item>
+    <item quantity="few">%1$d kanały powiadomień.</item>
+    <item quantity="many">%1$d kanałów powiadomień.</item>
+  </plurals>
+  <plurals name="permission_bar_chart_label">
+    <item quantity="other">%s aplikacji</item>
+    <item quantity="one">1 aplikacja</item>
+    <item quantity="few">%s aplikacje</item>
+    <item quantity="many">%s aplikacji</item>
+  </plurals>
+  <plurals name="show_bluetooth_devices">
+    <item quantity="other">Podłączono %1$d urządzenia</item>
+    <item quantity="one">Podłączono %1$d urządzenie</item>
+    <item quantity="few">Podłączono %1$d urządzenia</item>
+    <item quantity="many">Podłączono %1$d urządzeń</item>
+  </plurals>
+  <plurals name="zen_mode_bypassing_apps_subtext">
+    <item quantity="other">Powiadomienia z %1$d aplikacji mogą pomijać tryb Nie przeszkadzać</item>
+    <item quantity="one">Powiadomienia z 1 aplikacji mogą pomijać tryb Nie przeszkadzać</item>
+    <item quantity="few">Powiadomienia z %1$d aplikacji mogą pomijać tryb Nie przeszkadzać</item>
+    <item quantity="many">Powiadomienia z %1$d aplikacji mogą pomijać tryb Nie przeszkadzać</item>
+  </plurals>
+</resources>
