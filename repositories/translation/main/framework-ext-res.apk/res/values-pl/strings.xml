@@ -232,4 +232,8 @@
   <string name="input_method_switch_settings_text">Ustawienia klawiatury</string>
   <string name="input_method_tab_clipboard_text">Schowek</string>
   <string name="input_method_tab_phrase_text">Częste zwroty</string>
+  <string name="slavewifi">Podwójne Wi-Fi</string>
+  <string name="slavewifi_disconnect">Rozłącz</string>
+  <string name="slavewifi_notification_title">Akceleracja podwójnego Wi-Fi</string>
+  <string name="slavewifi_settings">Dotknij, aby zmodyfikować konfigurację</string>
 </resources>

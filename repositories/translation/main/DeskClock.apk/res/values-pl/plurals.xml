@@ -81,4 +81,8 @@
         <item quantity="one">Zmieniono czas trwania drzemki na %d minutę</item>
         <item quantity="few">Zmieniono czas trwania drzemki na %d minuty</item>
     </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Alarm włączy się %2$s razy (%1$s min.)</item>
+        <item quantity="one">Alarm włączy się %2$s raz (%1$s min.)</item>
+    </plurals>
 </resources>

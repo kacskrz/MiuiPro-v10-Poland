@@ -168,7 +168,7 @@
   <string name="micloud_battery_low_notification_message">Podłącz do ładowania, aby dalej synchronizować</string>
   <string name="micloud_battery_low_notification_title">Niski poziom baterii!</string>
   <string name="micloud_buy_member">Kup członkostwo w Chmurze Xiaomi</string>
-  <string name="micloud_buy_member_safe">Uzyskaj więcej miejsca w Chmurze Xiaomi</string>
+  <string name="micloud_buy_member_safe">Uzyskaj więcej miejsca w Chmurze</string>
   <string name="micloud_check_sim_notify_text">Wygląda na to, że zmieniono kartę SIM. Zaloguj się ponownie na konto Xiaomi,\naby aktywować usługę Chmura Xiaomi.</string>
   <string name="micloud_check_sim_notify_title">Aktywuj ponownie Chmurę Xiaomi</string>
   <string name="micloud_check_sim_title">Wygląda na to, że zmieniono kartę SIM. Zaloguj się ponownie na konto Xiaomi,\naby aktywować usługę Chmura Xiaomi.</string>
@@ -599,7 +599,7 @@
   <string name="member_entrance_title_premium_high_case_a">Zmień plan Chmury Xiaomi</string>
   <string name="member_entrance_title_premium_high_case_b">Odnowienie</string>
   <string name="member_entrance_title_premium_low_case_a">Uzyskaj więcej pamięci</string>
-  <string name="member_entrance_title_premium_low_case_b">Zmień plan Chmury Xiaomi</string>
+  <string name="member_entrance_title_premium_low_case_b">Ulepsz plan Chmury Xiaomi</string>
   <string name="member_entrance_title_ultra_high_case_a">Odnowienie</string>
   <string name="member_entrance_title_ultra_high_case_b">Odnowienie</string>
   <string name="member_entrance_title_ultra_low_case_a">Odnowienie</string>
@@ -675,11 +675,11 @@
   <string name="micloud_manaul_sync_success_time_prefix">Ostatnio synchronizowano: %s</string>
   <string name="micloud_sync_result_get_sim_info_error">Nie udało się uzyskać informacji o karcie SIM. Poczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="sync_detail_summary_master_sync_off">Synchronizacja jest wyłączona</string>
-  <string name="cloud_lab_title">Laboratorium Chmury</string>
+  <string name="cloud_lab_title">Laboratorium</string>
   <string name="cloud_storage_already_used">Zużyte: %1$s/%2$s</string>
-  <string name="cloud_storage_info_type_others">Inni</string>
-  <string name="cloud_storage_manage_title">Zarządzaj miejscem w Chmurze</string>
-  <string name="data_protection_title">Ochrona danych</string>
+  <string name="cloud_storage_info_type_others">Inne</string>
+  <string name="cloud_storage_manage_title">Zarządzaj przestrzenią</string>
+  <string name="data_protection_title">Chroń dane</string>
   <string name="sync_setting_title">Ustawienia synchronizacji</string>
   <string name="sync_normal_summary">Część elementów z listy poniżej nie mogło zostać zsynchronizowanych</string>
   <string name="sync_normal_title">Nie udało się ukończyć synchronizacji</string>

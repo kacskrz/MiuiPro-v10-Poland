@@ -269,7 +269,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_edit_btn_done">Gotowe</string>
   <string name="todo_edit_btn_today">Dziś</string>
   <string name="todo_edit_btn_tomorrow">Jutro</string>
-  <string name="todo_edit_text_hint">Wpisz opis zadanie</string>
+  <string name="todo_edit_text_hint">Wpisz opis zadania</string>
   <string name="todo_event_description_a_week_ago">Tydzień temu</string>
   <string name="todo_event_description_a_week_later">Za tydzień</string>
   <string name="todo_event_description_day_after_tomorrow">Za 2 dni</string>
@@ -295,9 +295,15 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_schedule_time_yesterday">Wczoraj</string>
   <string name="todo_search_hint">Wyszukaj zadania</string>
   <string name="todo_time_picker_title">Ustaw przypomnienie</string>
-  <string name="todo_user_guide_tip1">Witaj w \"Zadaniach\"!</string>
-  <string name="todo_user_guide_tip2">To jest zadanie. Możesz zaznaczyć pole, aby je ukończyć.</string>
-  <string name="todo_user_guide_tip3">Dotknij ikonę plusa poniżej, aby dodać zadanie. Możesz także dodać zadanie głosowe.</string>
-  <string name="todo_user_guide_tip4">Ustaw przypomnienie dla swoich zadań, aby o nich nie zapomnieć.</string>
+  <string name="todo_user_guide_tip1">Witaj w Zadaniach!</string>
+  <string name="todo_user_guide_tip2">Tu możesz dodać zadania w formie tekstu oraz jako dźwięk.</string>
+  <string name="todo_user_guide_tip3">Aby edytować zadanie tekstowe, po prostu go dotknij.</string>
+  <string name="todo_user_guide_tip4">Nie zapomnij utworzyć skrótu dla Zadań na pulpicie.</string>
+  <string name="todo_user_guide_tip5">Dzięki tej funkcji nigdy nie zapomnisz o ważnych rzeczach!</string>
   <string name="todoalert_done">OK</string>
+  <string name="app_notification_info">Aplikacja Notatki działa w tle</string>
+  <string name="check_in_todo_app">Wyświetl notatki</string>
+  <string name="todo_float_permission_open_reminder">Zezwól aplikacji Notatki na wyświetlanie pływających okienek w innych aplikacjach, aby móc użyć tej funkcji.</string>
+  <string name="todo_user_guide_fw_pop">Dodaj skrót na pulpicie</string>
+  <string name="todo_menu_cancel">Anuluj</string>
 </resources>
