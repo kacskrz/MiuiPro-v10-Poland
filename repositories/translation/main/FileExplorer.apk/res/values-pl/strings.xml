@@ -896,4 +896,6 @@
   <string name="function_file_operation">"Dostęp i otwieranie plików; "</string>
   <string name="function_set_private">"Podgląd i szyfrowanie plików; "</string>
   <string name="function_use_imei">"Dostęp do IMEI i szyfrowanie plików; "</string>
+  <string name="hint_switch_to_grid_mode">Przełączono na widok siatki</string>
+  <string name="hint_switch_to_list_mode">Przełączono na widok listy</string>
 </resources>
