@@ -306,4 +306,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_float_permission_open_reminder">Zezwól aplikacji Notatki na wyświetlanie pływających okienek w innych aplikacjach, aby móc użyć tej funkcji.</string>
   <string name="todo_user_guide_fw_pop">Dodaj skrót na pulpicie</string>
   <string name="todo_menu_cancel">Anuluj</string>
+  <string name="todo_schedule_time_for_picker_hm">H:mm</string>
 </resources>
