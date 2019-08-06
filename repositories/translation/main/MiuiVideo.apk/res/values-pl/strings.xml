@@ -40,7 +40,6 @@
   <string name="alert_dialog_download_fail">Nie można pobrać aplikacji</string>
   <string name="alert_dialog_download_install_task">Poczekaj, aż wtyczka zostanie zainstalowana</string>
   <string name="alert_dialog_download_plugin">"Informacje na temat pobierania i instalowania wtyczki HD: "</string>
-  <string name="alert_dialog_download_prepare">Przygotowywanie do pobrania…</string>
   <string name="app_charging_wifi_mode">Zachowanie nowej wersji</string>
   <string name="app_charging_wifi_mode_summary">Aktualizuj Mi Video automatycznie po podłączeniu do Wi-Fi podczas ładowania urządzenia</string>
   <string name="app_name">Wideo</string>
@@ -671,11 +670,9 @@
   <string name="vp_milink_function">Cast to display</string>
   <string name="vp_mobile_network_using_negative">Zakończ</string>
   <string name="vp_mobile_network_using_positive">Kontynuuj</string>
-  <string name="vp_mobile_network_using_positive_new">Odtwórz mimo to</string>
   <string name="vp_mobile_network_using_warning">Korzystanie z mobilnego połączenia transmisji danych do oglądania filmów zwiększy wykorzystanie danych. Jeśli przekroczysz limit wykorzystania danych swojego planu, operator może naliczyć dodatkowe opłaty.</string>
   <string name="vp_mobile_network_using_warning_line_1">Korzystanie z mobilnego połączenia transmisji danych do oglądania filmów zwiększy wykorzystanie danych.</string>
   <string name="vp_mobile_network_using_warning_line_2">Jeśli przekroczysz limit wykorzystania danych swojego planu, operator może naliczyć dodatkowe opłaty.</string>
-  <string name="vp_mobile_network_using_warning_new">Korzystasz teraz z danych komórkowych. Odtwarzanie filmów może Cię kosztować.</string>
   <string name="vp_more_show_video">Pokaż reklamę</string>
   <string name="vp_mplayer_error_io">Nie można odczytać albo zapisać plików</string>
   <string name="vp_mplayer_error_malformed">Format plików multimedialnych jest nieprawidłowy</string>

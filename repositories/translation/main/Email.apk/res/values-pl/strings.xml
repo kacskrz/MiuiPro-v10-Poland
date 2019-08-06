@@ -782,7 +782,6 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="preview_attachment">Podgląd</string>
     <string name="previous_action">Wstecz</string>
     <string name="print">Drukuj</string>
-    <string name="privacy_des">Log zawiera informacje dla programistów wygenerowane przez aplikację Poczty oraz dane o Twoim urządzeniu, by pomóc zlokalizować Twój problem i go naprawić. Kliknięciem przycisku %1$s poniżej potwierdzasz, że przeczytałeś i zgodziłeś się na %2$s firmy Xiaomi.</string>
 	<string name="privacy_policy">Polityka prywatności</string>
     <string name="prompt_title">Zapytaj</string>
     <string name="protocol_setting_toast">Po wyrażeniu zgody, dotknij prawego górnego rogu, aby przejść do ustawień</string>

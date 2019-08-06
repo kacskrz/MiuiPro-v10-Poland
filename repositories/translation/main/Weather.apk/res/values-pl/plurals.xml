@@ -59,7 +59,7 @@
         <item quantity="one">Najwyższa temperatura: %1$s°C</item>
     </plurals>
     <plurals name="tts_report_temperature_high_fahrenheit">
-        <item quantity="one">Najwyższa temperatura: %1$s°F</item>
+        <item quantity="other">Najwyższa temperatura: %1$s°F</item>
         <item quantity="one">Najwyższa temperatura: %1$s°F</item>
     </plurals>
     <plurals name="tts_report_temperature_low_centigrade">
@@ -67,7 +67,7 @@
         <item quantity="one">Najniższa temperatura: %1$s°C</item>
     </plurals>
     <plurals name="tts_report_temperature_low_fahrenheit">
-        <item quantity="one">Najniższa temperatura: %1$s°F</item>
+        <item quantity="other">Najniższa temperatura: %1$s°F</item>
         <item quantity="one">Najniższa temperatura: %1$s°F</item>
     </plurals>
 </resources>

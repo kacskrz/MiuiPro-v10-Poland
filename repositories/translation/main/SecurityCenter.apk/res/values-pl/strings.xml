@@ -1699,7 +1699,6 @@
   <string name="Settings_title_network_assistants">Monitor Danych - Ustawienia</string>
   <string name="Settings_title_power_center">Zasilanie - Ustawienia</string>
   <string name="shield_keyboard_detail">Stuknij dwa razy przycisk, aby ponownie go włączyć</string>
-  <string name="shield_keyboard_summary">Ogranicz działanie przycisków i gestów podczas grania</string>
   <string name="shield_keyboard_title">Wyłącz przyciski i gesty</string>
   <string name="show_system_app">Pokaż aplikacje systemowe</string>
   <string name="show_traffic_dialog_message">Aktualne użycie danych będzie pokazywane w rozwijanym pasku powiadomień. Może włączyć lub wyłączyć to funkcję w każdej chwili w Użycie danych &gt; Ustawienia.</string>
@@ -2543,7 +2542,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="app_permission_use_title">Uprawnienia</string>
   <string name="alert_back_diving_mode_summary">Czy na pewno chcesz wyłączyć ten tryb?</string>
   <string name="alert_back_diving_mode_title">Tryb Poza siecią</string>
-  <string name="shield_keyboard_summary">Wyłącz przyciski i gesty podczas grania w gry</string>
+  <string name="shield_keyboard_summary">Wyłącz przyciski i gesty podczas grania</string>
   <string name="wlan_optimization_summary">Zmniejsz opóźnienia sieci Wi-Fi</string>
   <string name="wlan_optimization_title">Optymalizacja Wi-Fi</string>
   <string name="forground_network_optimization_summary">Większa przepustowość dla gier działających na pierwszym planie</string>
