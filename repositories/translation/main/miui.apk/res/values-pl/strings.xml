@@ -573,8 +573,8 @@
   <string name="thursday_short">Czw</string>
   <string name="thursday_shortest">Cz</string>
   <string name="time_picker_dialog_title">Ustaw czas</string>
-  <string name="time_picker_label_hour">godz.</string>
-  <string name="time_picker_label_minute">min</string>
+  <string name="time_picker_label_hour" />
+  <string name="time_picker_label_minute" />
   <string name="today">Dzisiaj</string>
   <string name="tomorrow">Jutro</string>
   <string name="tuesday">Wtorek</string>

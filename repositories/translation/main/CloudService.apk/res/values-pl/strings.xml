@@ -679,7 +679,7 @@
   <string name="cloud_storage_already_used">Zużyte: %1$s/%2$s</string>
   <string name="cloud_storage_info_type_others">Inne</string>
   <string name="cloud_storage_manage_title">Zarządzaj przestrzenią</string>
-  <string name="data_protection_title">Chroń dane</string>
+  <string name="data_protection_title">Ochrona danych</string>
   <string name="sync_setting_title">Ustawienia synchronizacji</string>
   <string name="sync_normal_summary">Część elementów z listy poniżej nie mogło zostać zsynchronizowanych</string>
   <string name="sync_normal_title">Nie udało się ukończyć synchronizacji</string>
