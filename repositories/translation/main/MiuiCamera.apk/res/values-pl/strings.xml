@@ -903,4 +903,5 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="ultra_pixel_zoom_no_support_tip">"Zoom nie działa w trybie %s Ultra HD"</string>
   <string name="pref_camera_touch_focus_delay_title">Wydłuż czas przytrzymania</string>
   <string name="live_sticker_tab_name">Naklejki TikTok</string>
+  <string name="pref_camera_snap_entry_summary">Naciśnij i przytrzymaj przycisk Głośność- na wyłączonym ekranie, aby wykonać zdjęcie</string>
 </resources>

@@ -6357,7 +6357,7 @@ opóźnienie"</string>
 jakość odtwarzania"</string>
   <string name="bt_lhdc_declaration">Jeśli Bluetooth wspiera standard LHDC, to zostanie on domyślnie włączony. Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
   <string name="bt_lhdc_dialog_summary">"Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii.
-  Ta funkcja może być wyłączona w [Ustawieniach]"</string>
+Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="bt_lhdc_dialog_title">Tu urządzenie wspiera Bluetooth LHDC i zostało domyślnie włączone:</string>
   <string name="bt_lhdc_open_dialog_summary">Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
   <string name="bt_lhdc_open_dialog_title">Włączyć LHDC?</string>
