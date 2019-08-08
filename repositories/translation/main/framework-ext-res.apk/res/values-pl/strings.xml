@@ -236,4 +236,26 @@
   <string name="slavewifi_disconnect">Rozłącz</string>
   <string name="slavewifi_notification_title">Używanie dwupasmowego Wi-Fi</string>
   <string name="slavewifi_settings">Dotknij, aby zmienić ustawienia</string>
+  <string name="btn_cancel">Anuluj</string>
+  <string name="confirm_cancel_task_files">Anulować wysyłanie plików do  %1$s?</string>
+  <string name="confirm_cancel_task_images">Anulować wysyłanie obrazów do %1$s?</string>
+  <string name="default_device_name">Nieznane urządzenie</string>
+  <string name="device_type_pc">Komputer</string>
+  <string name="enable_midrop">Włącz</string>
+  <string name="file_cannot_print">"Nie można wydrukować tego elementu."</string>
+  <string name="file_cannot_screen_throw">"Nie można wykonać projekcji tego elementu."</string>
+  <string name="file_sending">Wysyłanie plików…</string>
+  <string name="functions_are_being_developed">Ta funkcja będzie dostępna wkrótce. Bądź czujny!</string>
+  <string name="pc_device_model_name">Komputer</string>
+  <string name="scanning_device_tips">Szukanie urządzeń w pobliżu… Upewnij się, że inme urządzenie ma włączoną widoczność dla innych urządzeń.</string>
+  <string name="send_files_to">Wyślij elementy do...</string>
+  <string name="throwing_print">Drukuj</string>
+  <string name="throwing_screen">Projekcja</string>
+  <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
+  <string name="unrecognized_manufacture">Nieznane urządzenie</string>
+  <string name="unrecognized_model">Nieznane urządzenie</string>
+  <string name="wireless_charging_notification_message1">"Nie znaleziono bezprzewodowych urządzeń do naładowania. Bezprzewodowe ładowanie zwrotne zostało wyłączone."</string>
+  <string name="wireless_charging_notification_message2">Bateria jest naładowana w mniej niż 30%. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
+  <string name="wireless_charging_notification_message3">W trakcie ładowania wystąpił błąd. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
+  <string name="wireless_charging_notification_titile">Wyłączono ładowanie zwrotne</string>
 </resources>

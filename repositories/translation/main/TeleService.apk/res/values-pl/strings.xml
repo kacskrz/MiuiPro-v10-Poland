@@ -1841,7 +1841,7 @@ Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkol
   <string name="call_record_range">Nagrywanie połączeń</string>
   <string name="location">Lokalizacja</string>
   <string name="operator">Operator</string>
-  <string name="smsc_dialog_message">"Upewnij się, że wpisany numer jest prawidłowy. W przeciwnym wypadku nie będziesz w stanie wysyłać i otrzymywać SMS-ów. Skontaktuj się z operatorem, aby potwierdzić swój numer SMSC."</string>
+  <string name="smsc_dialog_message">"Upewnij się, że wpisany numer jest prawidłowy. W przeciwnym wypadku nie będziesz w stanie wysyłać i otrzymywać SMS-ów. Skontaktuj się z operatorem, aby potwierdzić swój numer centrum SMS."</string>
   <string name="fiveg_bearer_status1">"Status bearera 5G [Slot1]: "</string>
   <string name="fiveg_bearer_status2">"Status bearera 5G [Slot2]: "</string>
   <string name="fiveg_endc_available1">"Dostępny nr ENDC [Slot1]: "</string>
