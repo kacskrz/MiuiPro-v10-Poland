@@ -346,7 +346,8 @@
   <string name="unknown_apps_dlg_text">Ze względów bezpieczeństwa Twój telefon ma ustawione blokowanie instalacji aplikacji uzyskanych z nieznanych źródeł.</string>
   <string name="unknown_installer">Niezidentyfikowane narzędzia z komputera</string>
   <string name="unlike">Nie, dziękuję</string>
-  <string name="untrusted_external_source_warning">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.
+  <string name="untrusted_external_source_warning">Ze względów bezpieczeństwa nie możesz instalować aplikacji z tego źródła.</string>
+  <string name="untrusted_external_source_warning_summary">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.
 
 "<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Specjalny dostęp > Instalacja nieznanych aplikacji.</font></string>
   <string name="user_is_not_allowed_dlg_text">Bieżący użytkownik nie może wykonać tej dezinstalacji.</string>
@@ -385,19 +386,19 @@
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="pref_key_about_privacy_title">Polityka prywatności</string>
-    <string name="adb_install_no_network">Połącz się z siecią i spróbuj ponownie</string>
-    <string name="adb_install_open">Zezwalanie…</string>
-    <string name="adb_install_open_error">"Nie udało się zezwolić - sprawdź swoje ustawienia sieci"</string>
+    <string name="adb_install_no_network">Nie można połączyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="adb_install_open">Otwieranie…</string>
+    <string name="adb_install_open_error">"Nie udało się otworzyć. Srawdź swoje ustawienia sieci i spróbuj ponownie."</string>
     <string name="app_install_failed_button_text">Wyszukaj aplikacje</string>
     <string name="app_ops_clean_master_tip">Zwolnij %s</string>
     <string name="app_ops_install_exit">Wyjdź</string>
     <string name="external_sources_settings_negative">Odrzuć</string>
     <string name="external_sources_settings_positive">Zezwól</string>
     <string name="intercept_install">Zainstaluj</string>
-    <string name="mimarket_install_more">Aby zainstalować więcej aplikacji, przejdź do Mi App Store</string>
+    <string name="mimarket_install_more">Znajdź więcej aplikacji w GetApps</string>
     <string name="miui_app_permission_detail">Wymagane uprawnienia</string>
-    <string name="miui_clear_apk_desc">Do usunięcia jest %s paczek i pozostałości</string>
-    <string name="miui_clear_apks">Automatycznie usuń paczki instalacyjne i pozostałości</string>
+    <string name="miui_clear_apk_desc">Usunięto paczkę instalacyjną i pozostałości (%s)</string>
+    <string name="miui_clear_apks">Usuń paczkę instalacyjną i pozostałości (%s)</string>
     <string name="miui_failed_solution_1">Odinstaluj obecną wersję aplikacji i zainstaluj tą aplikację ponownie.</string>
     <string name="miui_failed_solution_2">Paczka instalacyjna mogła zostać uszkodzona. Pobierz aplikację ponownie.</string>
     <string name="miui_failed_solution_3">Spróbuj zapisać paczkę instalacyjną w innej lokalizacji.</string>
@@ -415,7 +416,7 @@
     <string name="settings_warning_dialog_msg">"Twoje urządzenie jest narażone na zagrożenia bezpieczeństwa. Nie będziesz powiadamiany o możliwości pobrania bezpiecznej wersji aplikacji. Wyłączyć tą funkcję mimo to?"</string>
     <string name="settings_warning_dialog_title">Uwaga</string>
     <string name="untrusted_external_source_title">Zezwolić \"%1$s\" na instalację aplikacji?</string>
-    <string name="untrusted_external_source_warning_2">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.
+    <string name="untrusted_external_source_warning_summary_2">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.
 
 "<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Dodatkowe ustawienia > Prywatność > Instalacja nieznanych aplikacji.</font></string>
     <string name="virus_title_subtext">"Ta aplikacja może zawierać wirusy: "</string>

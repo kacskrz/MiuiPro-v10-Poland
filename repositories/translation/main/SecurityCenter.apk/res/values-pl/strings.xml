@@ -1428,7 +1428,7 @@
   <string name="power_center_state_on">Włączony</string>
   <string name="power_center_time_to_boot">Uruchom o czasie</string>
   <string name="power_center_time_to_shutdown">Wyłącz o czasie</string>
-  <string name="power_center_title">Zużycie baterii</string>
+  <string name="power_center_title">Bateria i wydajność</string>
   <string name="power_consume_hardware_total_format">Sprzęt: %s</string>
   <string name="power_consume_other">Inne</string>
   <string name="power_consume_rank_hardware">Sprzęt</string>
@@ -2421,7 +2421,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="handle_title_system">Zużycie baterii przez system</string>
   <string name="hide_mode_result_summary_text">Utwórz własne ustawienia Oszczędzania baterii dla każdej aplikacji</string>
   <string name="pc_main_activity_back">Wstecz</string>
-  <string name="pc_settings_title">Ustawienia zużycia baterii</string>
+  <string name="pc_settings_title">Ustawienia baterii i wydajności</string>
   <string name="power_center_hints_scan_danger_result">Możesz naprawić kwestie baterii teraz</string>
   <string name="power_center_list_item_auto_brightness">Ustawiaj jasność ekranu automatycznie</string>
   <string name="power_center_list_item_battery_status_time">godz.</string>
@@ -2723,4 +2723,13 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="pc_search_keywords_capacity">Pojemność baterii</string>
   <string name="pc_search_keywords_property">Wydajność</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja będzie mogła działać tylko częściowo."</string>
+  <string name="battery_and_property">Bateria i wydajność</string>
+  <string name="power_setting_config_scenario_policies_title">Plany</string>
+  <string name="power_setting_features">Funkcje specjalne</string>
+  <string name="power_setting_important_warning">Uwaga</string>
+  <string name="power_setting_scenario_policies_summary">Rozpoznawaj plany, aby automatycznie przełączać się pomiędzy trybami oszczędzania baterii</string>
+  <string name="power_setting_warm_configure">Kontrola temperatury</string>
+  <string name="power_setting_warm_performance_tip">Plany wymagające wysokiego zużycia energii zwiększą temperaturę urządzenia powyżej poziomów domyślnego trybu kontroli temperatury.</string>
+  <string name="power_setting_wireless_reverse_charging_summary">Ładuj kompatybilne urządzenia bezprzewodowo</string>
+  <string name="power_setting_wireless_reverse_charging_title">Bezprzewodowe ładowanie zwrotne</string>
 </resources>

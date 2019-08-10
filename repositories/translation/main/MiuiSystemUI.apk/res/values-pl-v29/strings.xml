@@ -49,6 +49,9 @@
   <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
   <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
   <string name="tap_to_sign_up">Kliknij, by się zarejestrować</string>
+  <string name="wifi_disconnected">Rozłączono</string>
   <string name="wifi_limited_connection">Ograniczone połączenie</string>
+  <string name="wifi_scan_throttling">Ograniczenie skanowania Wi-Fi</string>
+  <string name="wifi_scan_throttling_summary">Ogranicza drenaż baterii i polepsza wydajność sieci</string>
   <string name="zen_mode_forever">Dopóki nie wyłączysz</string>
 </resources>

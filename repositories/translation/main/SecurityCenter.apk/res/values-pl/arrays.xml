@@ -100,4 +100,12 @@
         <item>Plan dzienny</item>
         <item>Plan bez limitów</item>
     </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Domyślnie</item>
+        <item>Wydajność priorytetem</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Używa domyślnego trybu kontroli temperatury</item>
+        <item>Preferuje wydajność</item>
+    </string-array>
 </resources>
