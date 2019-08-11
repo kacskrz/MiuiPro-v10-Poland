@@ -381,12 +381,21 @@
   <string name="shake_to_align_icons_summary">Potrząśnij urządzeniem w trybie edycji, aby wypełnić puste miejsca ikonami</string>
   <string name="shake_to_align_icons_title">Potrząśnij, aby wypełnić puste miejsca</string>
   <string name="system_shortcuts_more_operation">O aplikacji</string>
-  <string name="all_apps_setting_desktop_desc">Wszystkie zainstalowane aplikacje są wyświetlane na pulpitach. Dotknij i przytrzymaj ikonę danej aplikacji, aby wyświetlić możliwe akcje do wykonania (skróty aplikacji).</string>
+  <string name="all_apps">Wszystkie aplikacje</string>
+  <string name="all_apps_no_search_results">"Nie znaleziono rezultatów"</string>
+  <string name="all_apps_search_app">Wyszukaj aplikacje</string>
+  <string name="all_apps_search_market_message">Wyszukaj online</string>
+  <string name="all_apps_setting_desktop_desc">Wszystkie zainstalowane aplikacje są wyświetlane na pulpitach. Dotknij i przytrzymaj ikonę danej aplikacji, aby wyświetlić możliwe akcje do wykonania (skróty aplikacji, odinstalowanie, zarządzanie aplikacją).</string>
   <string name="all_apps_setting_desktop_title">Standardowy</string>
-  <string name="all_apps_setting_drawer_desc">Kliknij w przycisk menu, aby wyświetlić listę zainstalowanych aplikacji (szufladę aplikacji).</string>
-  <string name="all_apps_setting_drawer_title">Klasyczny</string>
+  <string name="all_apps_setting_drawer_desc">Wszystkie aplikacje znajdują się w szufladzie aplikacji wywoływanej poprzez przesunięcie w górę na pulpicie. Nadal możesz tworzyć skróty aplikacji na pulpicie.</string>
+  <string name="all_apps_setting_drawer_tips_desc">Przełączenie na układ z szufladą aplikacji spowoduje, że nie będzie można użyć skrótu do otwarcia Wyszukiwarki. Przełączyć mimo to?</string>
+  <string name="all_apps_setting_drawer_tips_title">Uwaga</string>
+  <string name="all_apps_setting_drawer_title">Szuflada aplikacji</string>
   <string name="all_apps_setting_title">Układ pulpitu</string>
   <string name="unstable_dialog_content">Jest to wersja podglądowa obrazu systemu Android i może ulec zmianie. Korzystanie z tego obrazu systemu podlega Umowie licencyjnej Android SDK. Wersja podglądowa obrazu systemu Android nie podlega tym samym testom, co fabryczny system operacyjny i może spowodować, że urządzenie, zainstalowane na nim usługi lub aplikacje przestaną działać.</string>
   <string name="no_space_toast_when_click_widget">Brak miejsca na tej stronie. Spróbuj przeciągnąć ten element gdzie indziej.</string>
   <string name="remove_invalidate_gadget_tips">Jeden z widżetów, z którego korzystałeś, nie jest już dostępny. Możesz dodać tu jakiś inny widżet.</string>
+  <string name="all_apps_slide_up_tips">Przesunięcie w górę jest zarezerwowane dla wywołania szuflady aplikacji. Przełącz układ pulpitu na Standardowy i spróbuj ponownie.</string>
+  <string name="all_apps_suggestions">Sugestie aplikacji</string>
+  <string name="recent_apps">Ostatnie aplikacje</string>
 </resources>
