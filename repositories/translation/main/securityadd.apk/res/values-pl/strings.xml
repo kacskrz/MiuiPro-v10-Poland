@@ -72,4 +72,5 @@
   <string name="gamebooster_network_dialog_title">Część funkcji jest niedostępna</string>
   <string name="gdpr_message"><Data>"Aby móc korzystać z podstawowych funkcji Panelu sterowania musisz zgodzić się na to, że Xiaomi będzie gromadzić, przetwarzać i używać Twoje osobiste dane, włącznie z tym, jak korzystasz z funkcji Panelu (np. statystyki zużycia danych komórkowych, informacje o wirusach czy o twoim urządzeniu), oraz inne typy informacji określone w &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Polityce prywatności&lt;/a> Xiaomi."</Data></string>
   <string name="superpower_exit_hint">Wyłączanie Ultraoszczędzania baterii…</string>
+  <string name="cta_main_purpose">Witaj w Game Turbo!</string>
 </resources>

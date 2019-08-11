@@ -457,4 +457,9 @@
         <item quantity="one">Usunięto %d element</item>
         <item quantity="few">Usunięto %d elementy</item>
     </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+    </plurals>
 </resources>

@@ -84,4 +84,9 @@
     <item>Przywróć</item>
     <item>Nie przywracaj</item>
   </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Domyślna strona startowa</item>
+        <item>Czysta strona startowa</item>
+        <item>Własne</item>
+    </string-array>
 </resources>

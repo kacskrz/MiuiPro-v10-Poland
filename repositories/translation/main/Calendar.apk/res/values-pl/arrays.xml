@@ -390,13 +390,13 @@
         <item>Dla wydarzeń uwarunkowanych czasowo</item>
     </string-array>
     <string-array name="year_view_week_header_name">
+        <item>N</item>
         <item>P</item>
         <item>W</item>
         <item>Ś</item>
         <item>C</item>
         <item>P</item>
         <item>S</item>
-        <item>N</item>
     </string-array>
     <string-array name="year_view_week_header_name_other">
         <item>1</item>

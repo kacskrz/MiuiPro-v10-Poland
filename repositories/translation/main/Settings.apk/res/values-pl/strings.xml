@@ -6388,4 +6388,5 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="raise_bottom_height_of_keyboard_sub_title">Jeśli włączysz Tryb rozszerzony, pod klawiaturą pojawi się pasek ze konfigurowalnymi skrótami</string>
   <string name="raise_bottom_height_of_keyboard_title">Dostosuj klawiaturę do wyświetlania pełnoekranowego</string>
   <string name="right_function_key">Prawy skrót</string>
+  <string name="instant_apps_settings">Ustawienia aplikacji błyskawicznych</string>
 </resources>

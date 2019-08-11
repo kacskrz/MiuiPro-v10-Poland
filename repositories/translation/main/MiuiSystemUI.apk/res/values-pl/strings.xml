@@ -1824,4 +1824,5 @@ długi zrzut ekranu"</string>
   <string name="recents_dimiss_task">Wyczyść</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Nie można użyć Podzielonego ekranu w trakcie przesyłania"</string>
   <string name="gxzw_add_fingerprint_area">Czytnik linii papilarnych</string>
+  <string name="description_image_button_bubble_answer">Głośnik</string>
 </resources>

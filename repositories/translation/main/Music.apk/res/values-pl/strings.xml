@@ -1289,4 +1289,21 @@ Be Happy"</string>
   <string name="talkback_new_person_must_listen">Dla nowych</string>
   <string name="optimize_all_optimize_finish">Pomyślnie pobrano tekst i okładkę albumu</string>
   <string name="dialog_song_sort_type_publish_time">Wg daty wydania</string>
+  <string name="alert_song_not_paid">"Nie kupiłeś jeszcze tego utworu."</string>
+  <string name="dialog_remove_album_from_favorites">Usunąć ten album z ulubionych?</string>
+  <string name="dialog_remove_artist_from_favorites">Usunąć tego artystę z ulubionych?</string>
+  <string name="dialog_remove_billboard_from_favorites">Usunąć ten element z ulubionych?</string>
+  <string name="dialog_remove_fm_from_favorites">Usunąć ten program z ulubionych?</string>
+  <string name="dialog_remove_multi_album_from_favorites">Usunąć wybrane albumy z ulubionych?</string>
+  <string name="dialog_remove_multi_artist_from_favorites">Usunąć wybranych artystów z ulubionych?</string>
+  <string name="dialog_remove_multi_billboard_from_favorites">Usunąć wybrane elementy z ulubionych?</string>
+  <string name="dialog_remove_multi_song_from_favorites">Usunąć wybrane utwory z ulubionych?</string>
+  <string name="dialog_remove_multi_songgroup_from_favorites">Usunąć wybrane playlisty z ulubionych?</string>
+  <string name="dialog_remove_multi_video_from_favorites">Usunąć wybrane wideo z ulubionych?</string>
+  <string name="dialog_remove_song_from_favorites">Usunąć ten utwór z ulubionych?</string>
+  <string name="dialog_remove_songgroup_from_favorites">Usunąć tą playlistę z ulubionych?</string>
+  <string name="dialog_remove_video_from_favorites">Usunąć te wideo z ulubionych?</string>
+  <string name="music_quality_standard">Standardowa</string>
+  <string name="music_quality_ultra_high">Wysoka</string>
+  <string name="select_uhd_quality">Włączono wysoką jakość VIP</string>
 </resources>

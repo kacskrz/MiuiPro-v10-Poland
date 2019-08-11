@@ -1685,4 +1685,16 @@ aby spersonalizować Galerię"</string>
   <string name="filter_single_sky">Niebo</string>
   <string name="chooser_fragment_mishare_title">Wyślij do</string>
   <string name="projection_screen_project_in_screening">Używasz teraz swojego urządzenia do przesyłania</string>
+  <string name="album_cloud_list_page_title">Zarządzaj zsynchronizowanymi albumami</string>
+  <string name="album_hidden_item_button_title">Odkryj</string>
+  <string name="album_hidden_page_title">Ukryj</string>
+  <string name="empty_album_cloud_list_title">Brak albumów do synchronizacji</string>
+  <string name="empty_album_hidden_list_title">Brak ukrytych albumów</string>
+  <string name="filter_sky_hint">Niebo</string>
+  <string name="is_remove_hidden_status_from_hidden_page">Usunąć z ukrytych albumów?</string>
+  <string name="operation_remove">Usuń</string>
+  <string name="remove_hidden_status_tip">Odkryć ten album?</string>
+  <string name="remove_hidden_status_title">Odkryj</string>
+  <string name="show_cloud_albumlist_summary">Zarządzaj albumami zsynchronizowanymi z chmurą</string>
+  <string name="show_hidden_album_summary">Pokaż i zarządzaj ukrytymi albumami</string>
 </resources>

@@ -2732,4 +2732,21 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="power_setting_warm_performance_tip">Plany wymagające wysokiego zużycia energii zwiększą temperaturę urządzenia powyżej poziomów domyślnego trybu kontroli temperatury.</string>
   <string name="power_setting_wireless_reverse_charging_summary">Ładuj kompatybilne urządzenia bezprzewodowo</string>
   <string name="power_setting_wireless_reverse_charging_title">Bezprzewodowe ładowanie zwrotne</string>
+  <string name="phone_manage">Narzędzia</string>
+  <string name="securitycenter_tab_title">Panel sterowania</string>
+  <string name="phone_manage_system_tool_title">Narzędzia</string>
+  <string name="phone_manage_system_tool_summary">Użyteczne narzędzia systemowe</string>
+  <string name="phone_manage_clean_title">Czyszczenie</string>
+  <string name="phone_manage_clean_summary">Zwolnij miejsce na urządzeniu</string>
+  <string name="phone_manage_app_manager_summary">Zarządzaj aplikacjami na urządzeniu</string>
+  <string name="phone_manage_electric_title">Bateria</string>
+  <string name="phone_manage_electric_summary">Zoptymalizuj urządzenie, aby zaoszczędzić baterię</string>
+  <string name="phone_manage_special_title">Specjalne funkcje</string>
+  <string name="phone_manage_special_summary">Odkryj dodatkowe funkcjonalności</string>
+  <string name="system_tool_green_guard">Kontrola rodzicielska</string>
+  <string name="system_tool_sos">Alarmowy sygnał SOS</string>
+  <string name="power_save_mode">Oszczędzanie baterii</string>
+  <string name="power_save_settings">Ustawienia baterii</string>
+  <string name="banner_optimizemanage_summary">Zwolnij pamięć</string>
+  <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji do usuwania plików śmieci z urządzenia, odnajdywania i usuwania wirusów, optymalizowania wydajności pod gry, oszczędzania baterii, zarządzania aplikacjami itd.</string>
 </resources>

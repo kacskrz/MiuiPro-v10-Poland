@@ -686,4 +686,8 @@
   <string name="privacy_and_agreement">Polityka prywatności i Warunki użytkowania</string>
   <string name="pre_privacy_policy">Polityka prywatności</string>
   <string name="pre_user_agreement">Warunki użytkowania</string>
+  <string name="cloud_storage_no_data">Brak elementów w Chmurze</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Użyj pozostałych Mi Kredytów: %s</string>
+  <string name="pay_info_dialog_confirm_to_pay">Zapłać %s</string>
+  <string name="pay_info_dialog_title">Wybierz metodę płatności</string>
 </resources>
