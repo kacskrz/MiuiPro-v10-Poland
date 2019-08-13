@@ -51,4 +51,5 @@
     <string name="background_color_title">Kolor tła przy połączeniu</string>
     <string name="background_color_on">Domyślny</string>
     <string name="background_color_off">Tapeta ekranu blokady</string>
+    <string name="set_call_end_title">Akcje w trakcie połączenia</string>
 </resources>
