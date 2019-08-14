@@ -152,7 +152,7 @@
   <string name="license_host_unreachable">Nie można połączyć się z siecią. Więcej informacji pod %s.</string>
   <string name="loading">Chwileczkę…</string>
   <string name="loading_hint">Ładowanie</string>
-  <string name="master_alert_notif_content">Nie można synchronizować</string>
+  <string name="master_alert_notif_content">Regularnie wykonuj kopię zapasową, aby nie stracić niczego ważnego.</string>
   <string name="master_alert_notif_dspt_add">Elementy oczekujące na synchronizację: %s</string>
   <string name="master_alert_notif_dspt_no">Zsynchronizowano</string>
   <string name="master_alert_notif_title">Włącz synchronizację z Chmurą Xiaomi</string>
@@ -683,7 +683,7 @@
   <string name="sync_setting_title">Ustawienia synchronizacji</string>
   <string name="sync_normal_summary">Część elementów z listy poniżej nie mogło zostać zsynchronizowanych</string>
   <string name="sync_normal_title">Nie udało się ukończyć synchronizacji</string>
-  <string name="privacy_and_agreement">Polityka prywatności i Warunki użytkowania</string>
+  <string name="privacy_and_agreement">Warunki użytkowania</string>
   <string name="pre_privacy_policy">Polityka prywatności</string>
   <string name="pre_user_agreement">Warunki użytkowania</string>
   <string name="cloud_storage_no_data">Brak elementów w Chmurze</string>

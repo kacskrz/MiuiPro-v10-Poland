@@ -820,4 +820,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="system_cta_runtime_perm_desc_get_accounts">Dostęp do IMEI i dostarczanie usług pobierania</string>
   <string name="system_cta_runtime_perm_desc_read_phone_state">Logowanie się i zarządzanie kontami w systemie</string>
   <string name="system_cta_runtime_perm_desc_storage">Przechowywanie zapisanych motywów, dzwonków, czcionek i tapet</string>
+  <string name="concentration_old_period">Więcej</string>
+  <string name="first_page_recommend">Polecane</string>
+  <string name="transparent_wallpaper_auto_start_pref_summary">Ustaw przezroczystą tapetę po restarcie urządzenia</string>
+  <string name="transparent_wallpaper_auto_start_pref_title">Autostart</string>
 </resources>

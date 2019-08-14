@@ -2749,4 +2749,7 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="power_save_settings">Ustawienia baterii</string>
   <string name="banner_optimizemanage_summary">Zwolnij pamięć</string>
   <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji do usuwania plików śmieci z urządzenia, odnajdywania i usuwania wirusów, optymalizowania wydajności pod gry, oszczędzania baterii, zarządzania aplikacjami itd.</string>
+  <string name="system_permission_declare_analytics_declare">"Dziękujemy za dołączenie do Programu zadowolenia użytkownika Xiaomi. Aby ta funkcja działała normalnie, Twoje urządzenie musi być połączone z Internetem. Musisz także nadać uprawnienia, aby pozwolić Xiaomi na gromadzenie danych, które pomogą firmie ulepszać ich aplikacje i produkty. Są one przetwarzane tylko w celach statystycznych i nie posłużą do Twojej identyfikacji."</string>
+  <string name="system_permission_declare_no_say_no_analytics">"Jeśli nie chcesz nadać uprawnień, możesz cofnąć dołączenie do programu w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Program zadowolenia użytkownika."</string>
+  <string name="menu_summary_garbage_cleanup_ex">Wyczyść %s śmieci</string>
 </resources>

@@ -642,4 +642,21 @@
         <item quantity="one">Pozostała %d godzina</item>
         <item quantity="few">Pozostały %d godziny</item>
     </plurals>
+    <plurals name="menu_text_antivirus_virus_ex">
+        <item quantity="other">%d aplikacji zawiera wirusa</item>
+        <item quantity="one">%d aplikacja zawiera wirusa</item>
+        <item quantity="few">%d aplikacje zawierają wirusa</item>
+     </plurals>
+    <plurals name="menu_text_antivirus_day_ex">
+        <item quantity="other">"Nie skanowano urządzenia przez %d dni"</item>
+        <item quantity="one">"Nie skanowano urządzenia przez %d dzień"</item>
+     </plurals>
+    <plurals name="menu_text_antispam_ex">
+        <item quantity="other">Zablokowano %d wiadomości/rozmowy</item>
+        <item quantity="one">Zablokowano %d wiadomość/rozmowę</item>
+     </plurals>
+    <plurals name="menu_text_app_manager_ex">
+        <item quantity="other">Dostępnych aktualizacji: %d</item>
+        <item quantity="one">Dostępnych aktualizacji: %d</item>
+     </plurals>
 </resources>

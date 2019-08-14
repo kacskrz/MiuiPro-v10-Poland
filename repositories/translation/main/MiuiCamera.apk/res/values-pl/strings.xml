@@ -907,4 +907,6 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="macro_mode_use_hint_text_body">"Użyj trybu Makro, aby małe obiekty
 były bardziej widoczne na zdjęciach"</string>
   <string name="macro_mode_use_hint_text_title">Makro</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Miękkie światło</string>
+  <string name="recommend_soft_light_tip">Użyj flesza w trybie miękkiego światła</string>
 </resources>

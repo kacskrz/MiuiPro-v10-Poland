@@ -578,4 +578,16 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="bind_weixin">Dodaj konto WeChat</string>
   <string name="need_install_wechat">Zainstaluj WeChat</string>
   <string name="agreement_and_privacy_title_short">Dokumenty prawne</string>
+  <string name="system_ad">Reklamy w aplikacjach systemu</string>
+  <string name="system_ad_list">Lista aplikacji</string>
+  <string name="system_ad_summary">Xiaomi pokazuje reklamy w swoich aplikacjach (ponoć w celu dalszego rozwijania swoich produktów...). Na MiuiPro reklamy te są wyłączone, opcja ta nie ma więc żadnego zastosowania.</string>
+  <string name="system_ad_switch">Reklamy w aplikacjach systemu (włączone domyślnie)</string>
+  <string name="system_ad_switch_failed">Nieudane</string>
+  <string name="two_factor_auth">Uwierzytelnianie dwuskładnikowe</string>
+  <string name="two_factor_auth_click_confirm">Potwierdź, aby się zalogować</string>
+  <string name="two_factor_auth_click_confirm_summary">"Zobaczysz powiadomienie na innych połączonych urządzeniach Xiaomi. Kliknij w powiadomienie, aby zezwolić na zalogowanie się na nowym urządzeniu."</string>
+  <string name="two_factor_auth_method">Metoda uwierzytelniania</string>
+  <string name="two_factor_auth_need_code">Wprowadź kod</string>
+  <string name="two_factor_auth_need_code_summary">"Zobaczysz kod na innych połączonych urządzeniach Xiaomi. Wprowadź ten kod na nowym urządzeniu, aby się na nim zalogować."</string>
+  <string name="two_factor_auth_summary">"Gdy spróbujesz zalogować się na nowym urządzeniu bądź w nowej lokalizacji, zostaniesz o tym powiadomiony na innych połączonych urządzeniach. Będziesz musiał potwierdzić, że to ty logujesz się na swoje konto."</string>
 </resources>

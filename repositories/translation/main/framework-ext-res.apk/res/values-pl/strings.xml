@@ -252,10 +252,11 @@
   <string name="throwing_print">Drukuj</string>
   <string name="throwing_screen">Projekcja</string>
   <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
-  <string name="unrecognized_manufacture">Nieznane urządzenie</string>
+  <string name="unrecognized_manufacture">Nieznany</string>
   <string name="unrecognized_model">Nieznane urządzenie</string>
   <string name="wireless_charging_notification_message1">"Nie znaleziono bezprzewodowych urządzeń do naładowania. Bezprzewodowe ładowanie zwrotne zostało wyłączone."</string>
   <string name="wireless_charging_notification_message2">Bateria jest naładowana w mniej niż 30%. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
   <string name="wireless_charging_notification_message3">W trakcie ładowania wystąpił błąd. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
   <string name="wireless_charging_notification_titile">Wyłączono ładowanie zwrotne</string>
+  <string name="customer_location_judgment">Chiny</string>
 </resources>

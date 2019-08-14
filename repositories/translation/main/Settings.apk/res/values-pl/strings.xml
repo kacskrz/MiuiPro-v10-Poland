@@ -3260,7 +3260,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="privacy_authorize_cloud_msg">Aby zapewnić bezpieczeństwo swojego konta, zaloguj się na stronie i.mi.com, jeśli chcesz cofnąć autoryzację usług Mi Cloud (w tym synchronizacji i kopii zapasowych).</string>
   <string name="privacy_authorize_dialog_agree">Zgadzam się</string>
   <string name="privacy_authorize_dialog_exit">Wyjdź</string>
-  <string name="privacy_authorize_dialog_message"><Data>W celu używania podstawowych funkcji Panelu Sterowania musisz zgodzić się na to, że firma Xiaomi będzie gromadzić, przetwarzać i używać Twoich danych osobistych. Klikając przycisk "Zgadzam się" stwierdzasz, że przeczytałeś i zgodziłeś się na warunki naszej <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Polityki prywatności</a> i <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Zgody użytkownika</a>.</Data></string>
+  <string name="privacy_authorize_dialog_message"><Data>W celu używania podstawowych funkcji Panelu Sterowania musisz zgodzić się na to, że firma Xiaomi będzie gromadzić, przetwarzać i używać Twoich danych osobistych. Klikając przycisk "Zgadzam się" stwierdzasz, że przeczytałeś i zgodziłeś się na warunki naszej <a href="https://privacy.mi.com/all/%1$s_%2$s">Polityki prywatności</a> i <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Zgody użytkownika</a>.</Data></string>
   <string name="privacy_authorize_network_error">Połącz z siecią i spróbuj ponownie.</string>
   <string name="privacy_authorize_privacy_policy">Polityką prywatności</string>
   <string name="privacy_authorize_revoke">Unieważnij</string>
