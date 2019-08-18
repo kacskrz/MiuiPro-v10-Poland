@@ -824,4 +824,5 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="first_page_recommend">Polecane</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Ustaw przezroczystą tapetę po restarcie urządzenia</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Autostart</string>
+  <string name="title_system_audio_alarm_resource">Alarmy systemowe</string>
 </resources>

@@ -690,4 +690,12 @@
   <string name="pay_info_dialog_mibi_balance_prefix">Użyj pozostałych Mi Kredytów: %s</string>
   <string name="pay_info_dialog_confirm_to_pay">Zapłać %s</string>
   <string name="pay_info_dialog_title">Wybierz metodę płatności</string>
+  <string name="micloud_setting_calllog_summary">Historia połączeń</string>
+  <string name="micloud_setting_recorder_summary">Nagrania rozmów i audio</string>
+  <string name="micloud_setting_notes_summary">Notatki</string>
+  <string name="micloud_setting_calendar_summary">Wydarzenia z kalendarza</string>
+  <string name="micloud_setting_personal_assistant_summary">Karty Asystenta MIUI</string>
+  <string name="micloud_setting_phrase_summary">Częste zwroty</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Układ pulpitu, aplikacje i ustawienia systemu</string>
+  <string name="micloud_main_head_menu_finddevice_summary">"Zlokalizuj i zablokuj urządzenie, gdy je zgubisz"</string>
 </resources>

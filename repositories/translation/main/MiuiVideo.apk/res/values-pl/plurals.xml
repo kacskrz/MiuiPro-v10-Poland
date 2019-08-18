@@ -73,4 +73,9 @@
     <item quantity="other">%1$d-minute podgląd jest dostępny. Aby obejrzeć cały film,&lt;Data&gt;&lt;font color=#ffa201&gt;kup teraz&lt;/font&gt;&lt;/Data&gt;.</item>
     <item quantity="one">%1$d-minute podgląd jest dostępny. Aby obejrzeć cały film,&lt;Data&gt;&lt;font color=#ffa201&gt;kup teraz&lt;/font&gt;&lt;/Data&gt;.</item>
   </plurals>
+    <plurals name="feedback_select_items">
+        <item quantity="other">Wyślij %d elementów</item>
+        <item quantity="one">Wyślij %d element</item>
+        <item quantity="few">Wyślij %d elementy</item>
+    </plurals>
 </resources>

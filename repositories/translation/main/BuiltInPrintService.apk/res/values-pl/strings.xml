@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Domyślna usługa drukowania</string>
+    <string name="app_name">Systemowa usługa drukowania</string>
     <string name="printer_busy">Zajęta</string>
     <string name="printer_out_of_paper">Brak papieru</string>
     <string name="printer_out_of_ink">Brak tuszu</string>

@@ -105,7 +105,7 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="zone_picker_title">Wybierz strefę czasową</string>
   <string name="other_settings_enhanced_lockscreen">Tapety ekranu blokady</string>
   <string name="other_settings_enhanced_lockscreen_summary">Codziennie na ekranie blokady będą się pojawiać nowe tapety online</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">Warunki użytkowania</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Zgoda użytkownika końcowego Glance</string>
   <string name="congratulation_label_night">Sprawdź nasz nowy, ciemny motyw!</string>
   <string name="start_up_slogan_night">Sprawdź nasz nowy, ciemny motyw!</string>
   <string name="font_hint_normal">Zmień rozmiar czcionki</string>
@@ -116,4 +116,5 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
   <string name="terms_of_use_label_updater">, Aktualizacje</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
+  <string name="terms_of_use_ble_htmlViewer">, Usługi dostawcy lokalizacji, Przeglądarki HTML</string>
 </resources>

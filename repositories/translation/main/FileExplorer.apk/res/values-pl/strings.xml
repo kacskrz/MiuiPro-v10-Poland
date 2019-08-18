@@ -898,4 +898,7 @@
   <string name="function_use_imei">"Dostęp do IMEI i szyfrowanie plików; "</string>
   <string name="hint_switch_to_grid_mode">Przełączono na widok siatki</string>
   <string name="hint_switch_to_list_mode">Przełączono na widok listy</string>
+  <string name="grid_mode">Widok siatki</string>
+  <string name="list_mode">Widok listy</string>
+  <string name="switch_doc_type">Wybierz format</string>
 </resources>

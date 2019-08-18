@@ -109,4 +109,5 @@
   <string name="search_brand">Wyszukaj</string>
   <string name="start_print">Drukuj</string>
   <string name="wifi_direct">Wi-Fi Direct</string>
+  <string name="system_print_service_help">O drukowaniu</string>
 </resources>

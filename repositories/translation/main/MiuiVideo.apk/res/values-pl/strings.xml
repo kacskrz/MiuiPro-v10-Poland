@@ -864,4 +864,36 @@ Możesz poszukać czegoś innego."</string>
     <string name="resolution_low">niska</string>
     <string name="resolution_normal">normalna</string>
     <string name="password_toggle_content_description">Przełącznik widoczności haseł</string>
+    <string name="channel_guide_hot_long_video">Zobacz więcej popularnych wideo</string>
+    <string name="channel_guide_hot_short_video">Przenieśliśmy tu popularne wideo!</string>
+    <string name="declare_get_accounts">Dostęp do kont</string>
+    <string name="declare_info">Streamowanie wideo online i odtwarzanie wideo na urządzeniu</string>
+    <string name="declare_read_phone_state">Dostęp do informacji o urządzeniu</string>
+    <string name="declare_storage">Dostęp i modyfikacja plików w pamięci wewnętrznej</string>
+    <string name="feedback_check_network">Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+    <string name="feedback_dialog_button_dislike">Nie interesuje mnie to</string>
+    <string name="feedback_dialog_label">"Dlaczego te wideo Cię nie interesuje?"</string>
+    <string name="feedback_post_failed">"Nie udało się wysłać"</string>
+    <string name="feedback_post_success">"Pomyślnie zgłoszono. Będziesz widzieć mniej elementów tego typu."</string>
+    <string name="feedback_short_video_more_dislike">Nie interesuje mnie to</string>
+    <string name="gallery_folder_alias_camera">Aparat</string>
+    <string name="gallery_folder_alias_download">Pobrane</string>
+    <string name="gallery_folder_alias_mivideo">Mi Wideo</string>
+    <string name="gallery_folder_alias_mobileqq">Aparat QQ</string>
+    <string name="gallery_folder_alias_mobileqq_file">Pliki QQ</string>
+    <string name="gallery_folder_alias_qqeditpic">Edytor QQ</string>
+    <string name="gallery_folder_alias_screen_recorder">Nagrywanie ekranu</string>
+    <string name="remove_card_tips">"Będziesz widzieć mniej elementów tego typu"</string>
+    <string name="remove_card_withdraw">Cofnij</string>
+    <string name="resume_download">Wznów pobieranie</string>
+    <string name="small_video_mobile_network_toast">Używanie danych mobilnych do streamowania wideo…</string>
+    <string name="toast_can_not_withdraw">"Nie można cofnąć, gdy minęła więcej niż 1 minuta"</string>
+    <string name="toast_close_engine_mode">Opcje programistyczne są wyłączone</string>
+    <string name="toast_open_engine_mode">Opcje programistyczne są włączone</string>
+    <string name="toast_vid_copied">Pomyślnie skopiowano ID wideo</string>
+    <string name="vp_app_plugin_load_error">"Nie udało się załadować pluginu. Poczekaj minutę lub dwie i spróbuj ponownie."</string>
+    <string name="vp_app_plugin_load_retry">"Nie udało się załadować pluginu. Spróbuj ponownie."</string>
+    <string name="vp_auto_change_resolution_suggestion">Zasięg sieci jest słaby. Przełącz się na &lt;font color=#0F99FF>%1$s&lt;/font></string>
+    <string name="vp_auto_change_resolution_switch">Zasięg sieci jest słaby. Przełączanie na &lt;font color=#0F99FF>%1$s&lt;/font></string>
+    <string name="vp_video_player_play_text">Dotknij, aby odtworzyć \"%1$s\"</string>
 </resources>
