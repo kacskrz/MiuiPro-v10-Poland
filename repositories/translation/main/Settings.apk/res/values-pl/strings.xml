@@ -6413,4 +6413,5 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="screen_projection_title">Przesyłaj ekran</string>
   <string name="search_connection_and_sharing">Więcej;Bezprzewodowo</string>
   <string name="system_print_service_help">O drukowaniu</string>
+  <string name="speaker">Głośnik</string>
 </resources>

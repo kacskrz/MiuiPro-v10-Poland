@@ -585,4 +585,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="two_factor_auth_need_code">Wprowadź kod</string>
   <string name="two_factor_auth_need_code_summary">"Zobaczysz kod na innych połączonych urządzeniach Xiaomi. Wprowadź ten kod na nowym urządzeniu, aby się na nim zalogować."</string>
   <string name="two_factor_auth_summary">"Gdy spróbujesz zalogować się na nowym urządzeniu bądź w nowej lokalizacji, zostaniesz o tym powiadomiony na innych połączonych urządzeniach. Będziesz musiał potwierdzić, że to ty logujesz się na swoje konto."</string>
+  <string name="ep_unsupported">Urządzenie nie wspiera logowania się na konto Xiaomi</string>
 </resources>
