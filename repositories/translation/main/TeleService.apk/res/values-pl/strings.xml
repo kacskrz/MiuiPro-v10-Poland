@@ -1864,4 +1864,5 @@ Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkol
   <string name="fiveg_upperlayer_indication1">"Status wskaźnika wyższej warstwy [Slot1]: "</string>
   <string name="fiveg_upperlayer_indication2">"Status wskaźnika wyższej warstwy [Slot2]: "</string>
   <string name="preferred_wificall_roaming_title">Ustawienia roamingu</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">Automatyczny LTE</string>
 </resources>
