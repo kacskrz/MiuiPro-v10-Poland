@@ -1697,4 +1697,23 @@ aby spersonalizować Galerię"</string>
   <string name="remove_hidden_status_title">Odkryj</string>
   <string name="show_cloud_albumlist_summary">Zarządzaj albumami zsynchronizowanymi z chmurą</string>
   <string name="show_hidden_album_summary">Pokaż i zarządzaj ukrytymi albumami</string>
+  <string name="btn_cancel">Anuluj</string>
+  <string name="confirm_cancel_task_files">Anulować wysyłanie plików do %1$s?</string>
+  <string name="confirm_cancel_task_images">Anulować wysyłanie obrazów do %1$s?</string>
+  <string name="default_device_name">Nieznane urządzenie</string>
+  <string name="device_offline">Inne urządzenie jest offline. Zacznij od nowa.</string>
+  <string name="device_type_pc">Komputer</string>
+  <string name="enable_midrop">Włącz</string>
+  <string name="file_cannot_print">"Nie można wydrukować tego elementu."</string>
+  <string name="file_cannot_screen_throw">"Nie można wykonać projekcji tego elementu."</string>
+  <string name="file_sending">Wysyłanie plików…</string>
+  <string name="functions_are_being_developed">Ta funkcja będzie dostępna wkrótce. Bądź czujny!</string>
+  <string name="pc_device_model_name">Komputer</string>
+  <string name="scanning_device_tips">Szukanie urządzeń w pobliżu… Upewnij się, że inme urządzenie ma włączoną widoczność dla innych urządzeń.</string>
+  <string name="send_files_to">Wyślij elementy do...</string>
+  <string name="throwing_print">Drukuj</string>
+  <string name="throwing_screen">Projekcja</string>
+  <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
+  <string name="unrecognized_manufacture">Nieznany</string>
+  <string name="unrecognized_model">Nieznane urządzenie</string>
 </resources>

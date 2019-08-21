@@ -696,9 +696,10 @@
   <string name="input_puk_code">Wpisz PUK</string>
   <string name="install_other_apps">Instalacja nieznanych aplikacji</string>
   <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
-  <string name="instant_apps">Instant apps</string>
-  <string name="instant_apps_message">Instant apps don\'t require installation.</string>
-  <string name="interruption_level_alarms">Tylko alarmy</string>
+  <string name="instant_apps">Aplikacje błyskawiczne</string>
+  <string name="instant_apps_message">Otwarto aplikację bez jej instalacji.</string>
+  <string name="instant_apps_message_with_help">Otwarto aplikację bez jej instalacji. Kliknij, aby dowiedzieć się więcej.</string>
+  <string name="instant_apps_title">Uruchomiono %1$s</string>  <string name="interruption_level_alarms">Tylko alarmy</string>
   <string name="interruption_level_alarms_twoline">Tylko\nalarmy</string>
   <string name="interruption_level_none">Totalna cisza</string>
   <string name="interruption_level_none_twoline">Totalna\ncisza</string>

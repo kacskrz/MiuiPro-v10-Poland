@@ -576,12 +576,12 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
 	<string name="feedback_reproductivity_once">Raz</string>
 	<string name="kr_authorization_agree">Akceptuję</string>
 	<string name="kr_authorization_contact">Konta</string>
-	<string name="kr_authorization_contact_desc">Uzyskiwanie informacji o koncie Xiaomi i jego weryfikacja</string>
+	<string name="kr_authorization_contact_desc">Dostęp do informacji o koncie Xiaomi w celu rozpoznania urządzenia</string>
 	<string name="kr_authorization_exit">Wyjdź</string>
 	<string name="kr_authorization_log_protocol">Przesyłanie statystyk (opcjonalne)</string>
 	<string name="kr_authorization_log_protocol_desc">"W celu udoskonalenia dostarczanych usług, prześlemy statystyki użytkowania i logi systemowe na nasze serwery. Te elementy mogą zawierać dane osobowe, a także informacje o urządzeniu i sieciach. Użyjemy przesłanych elementów, aby zlokalizować i przeanalizować problemy w systemie."</string>
 	<string name="kr_authorization_phone">Telefon</string>
-	<string name="kr_authorization_phone_desc">Identyfikacja urządzenia poprzez IMEI i numer modelu oraz lokalizacja i analizowanie problemów</string>
+    <string name="kr_authorization_phone_desc">Dostęp do informacji o modelu urządzenia, IMEI i ID urządzenia w celu lokalizacji i rozwiązywania problemów</string>
 	<string name="kr_authorization_privacy_policy">Polityka prywatności (obowiązkowa)</string>
 	<string name="kr_authorization_select_all">Zaznacz wszystko</string>
 	<string name="kr_authorization_storage">Pamięć</string>
@@ -596,4 +596,19 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="catch_full_log_privacy_content_sensor">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać informacje gromadzone przez czujniki na urządzeniu (np. zbliżeniowy, barometr, krokomierz, magnetometr itd.). Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
     <string name="catch_full_log_privacy_content_signal">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje wiadomości, historię rozmów, informacje o sieci i dane komunikacyjne. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
     <string name="catch_full_log_privacy_content_wifi">"Generujesz teraz logi i zapisujesz je na swoim urządzeniu. Mogą one zawierać Twoje osobiste dane, informacje o lokalizacji, a także adresy IP i MAC urządzenia. Jeśli jesteś połączony z niezaszyfrowaną siecią Wi-Fi, możemy mieć także możliwość dostępu do części danych komunikacyjnych. Bądź ostrożny i nie udostępniaj tych logów innym osobom. Poprzez kliknięcie przycisku \"Zgoda\" zgadzasz się na to, że będziemy gromadzić te dane w trakcie generowania logów, a następnie wysyłać je na serwery MIUI w celu zlokalizowania i rozwiązania zgłaszanych przez Ciebie problemów."</string>
+    <string name="feedback_detail_copy_toast">Skopiowano do schowka</string>
+    <string name="feedback_detail_feedback_attach">Załączniki</string>
+    <string name="feedback_detail_feedback_attach_upload_failed">"Nie udało się wysłać"</string>
+    <string name="feedback_detail_feedback_attach_uploading">Wysyłanie…</string>
+    <string name="feedback_detail_feedback_category">Kategoria</string>
+    <string name="feedback_detail_feedback_id">ID zgłoszenia: %d</string>
+    <string name="feedback_detail_feedback_reply_hint">Odpowiedź</string>
+    <string name="feedback_detail_feedback_summary">Opinia</string>
+    <string name="feedback_detail_need_content">Wprowadź najpierw treść</string>
+    <string name="feedback_detail_upload_generate_log">Wygeneruj logi</string>
+    <string name="feedback_detail_upload_image">Wyślij zdjęcia/filmy</string>
+    <string name="feedback_detail_upload_local_log">Wyślij plik</string>
+    <string name="feedback_detail_upload_log">Wyślij logi</string>
+    <string name="feedback_detail_waiting">Generowanie…</string>
+    <string name="kr_authorization_function">Wysyłanie opinii, generowanie logów, wyświetlanie często zadawanych pytań</string>
 </resources>
