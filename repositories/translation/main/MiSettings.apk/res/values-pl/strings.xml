@@ -5,7 +5,7 @@
     <string name="calendar_tip">Dzwonki przypomnień o wydarzeniach działają dla przypomnień z kalendarza, notatek oraz zadań</string>
     <string name="follow_sim1">Zastosuj ustawienia karty SIM 1</string>
     <string name="intelligent_recognition_item_summary">Rozpoznawaj połączenia przychodzące od dostawców usług (np. dostawców jedzenia) i użyj dla nich oddzielnych dzwonków</string>
-    <string name="intelligent_recognition_item_title">Usługi rozpoznawania</string>
+    <string name="intelligent_recognition_item_title">Rozpoznawanie usług</string>
     <string name="mms">SMS</string>
     <string name="more_ringtone">Wszystkie dzwonki</string>
     <string name="notification_sound">Dzwonki powiadomień</string>
