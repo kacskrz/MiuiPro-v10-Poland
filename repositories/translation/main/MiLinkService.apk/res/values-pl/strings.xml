@@ -53,7 +53,7 @@ Jeśli masz więcej pytań, sprawdź zakładkę Pomoc."</string>
     <string name="help_page_text_15">Funkcja Miracast na różnych urządzeniach</string>
     <string name="help_page_text_16">Mi TV/Projektor Xiaomi</string>
     <string name="help_page_text_17">"Telefon Xiaomi może połączyć się bezpośrednio z większością telewizorów Xiaomi poprzez Bluetooth zamiast włączania funkcji Miracast ręcznie.
-Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na pilocie, aby wybrać tą funkcję na ekranie TV (Aplikacje > Wyświetlacz bezprzewodowy > Mi / Android Miracast)."</string>
+Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na pilocie, aby wybrać tę funkcję na ekranie TV (Aplikacje > Wyświetlacz bezprzewodowy > Mi / Android Miracast)."</string>
     <string name="help_page_text_17_1">Wsparcie techniczne Xiaomi (tylko Chiny): 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>
     <string name="help_page_text_19">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na części modeli możesz nacisnąć przycisk [SOURCE] na pilocie i wybrać opcję \"Screen Mirroring\". Na części modeli ta funkcja jest włączona domyślnie.</string>
@@ -86,7 +86,7 @@ Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na 
     <string name="help_page_text_46">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz wybrać Apps > Wireless Display.</string>
     <string name="help_page_text_47">Wsparcie techniczne TCL (tylko Chiny): 400-812-3456</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Aby włączyć tą funkcję, przejdź do My Apps > WLAN Display.</string>
+    <string name="help_page_text_49">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Aby włączyć tę funkcję, przejdź do My Apps > WLAN Display.</string>
     <string name="help_page_text_50">Wsparcie techniczne AODIN (tylko Chiny): 400-810-5858</string>
     <string name="help_page_text_51">LeTV</string>
     <string name="help_page_text_52">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na niektórych urządzeniach wejdź w Settings > Network > Multi-screen Interactive > Wireless Display.</string>

@@ -27,7 +27,7 @@
     <string name="aod_mode_preview">Podgląd</string>
     <string name="aod_mode_style">Styl i tło zegara</string>
     <string name="aod_mode_style_title">Więcej opcji</string>
-    <string name="aod_mode_summary">Ta funkcja zwiększa zużycie baterii. Będzie ona wyłączona, gdy urządzenie nie jest używane przez dłuższy czas lub kiedy włączone jest Oszczędzanie baterii.</string>
+    <string name="aod_mode_summary">Ta funkcja zwiększa użycie baterii. Będzie ona wyłączona, gdy urządzenie nie jest używane przez dłuższy czas lub kiedy włączone jest Oszczędzanie baterii.</string>
     <string name="aod_mode_time_summary">Zaplanuj czas włączenia trybu Zawsze włączony</string>
     <string name="aod_mode_time_title">Zaplanowane</string>
     <string name="aod_mode_title">Zawsze włączony</string>
@@ -57,7 +57,7 @@
     <string name="show_battery_status">Pokazuj stan baterii</string>
     <string name="show_notification">Pokazuj powiadomienia</string>
     <string name="standard_style">Standardowy</string>
-    <string name="summary">"Aby ograniczyć zużycie baterii, elementy nie będą wyświetlane:
+    <string name="summary">"Aby ograniczyć użycie baterii, elementy nie będą wyświetlane:
 1. gdy urządzenie jest nieużytkowane przez dłuższy czas,
 2. gdy włączony jest tryb Nie przeszkadzać."</string>
     <string name="temporary_style">Przez 10 sekund po dotknięciu</string>

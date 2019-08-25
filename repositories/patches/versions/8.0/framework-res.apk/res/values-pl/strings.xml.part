@@ -5,7 +5,7 @@
   <string name="accessibility_magnification_chooser_text">Powiększenie</string>
   <string name="accessibility_shortcut_disabling_service">Skrót ułatwień dostępu wyłączył usługę %1$s</string>
   <string name="accessibility_shortcut_enabling_service">Skrót ułatwień dostępu włączył usługę %1$s</string>
-  <string name="accessibility_shortcut_toogle_warning">Gdy skrót jest włączony, jednoczesne naciśnięcie przez trzy sekundy obu klawiszy sterowania głośnością uruchomi funkcję ułatwień dostępu.\n\n Obecna funkcja ułatwień dostępu:\n %1$s\n\n Możesz zmienić tą funkcję w Ustawieniach &gt; Ułatwienia dostępu.</string>
+  <string name="accessibility_shortcut_toogle_warning">Gdy skrót jest włączony, jednoczesne naciśnięcie przez trzy sekundy obu klawiszy sterowania głośnością uruchomi funkcję ułatwień dostępu.\n\n Obecna funkcja ułatwień dostępu:\n %1$s\n\n Możesz zmienić tę funkcję w Ustawieniach &gt; Ułatwienia dostępu.</string>
   <string name="accessibility_shortcut_warning_dialog_title">Użyć skrótu do ułatwień dostępu?</string>
   <string name="adb_debugging_notification_channel_tv">Debugowanie USB</string>
   <string name="alert_windows_notification_channel_group_name">Wyświetlanie nad innymi aplikacjami</string>

@@ -621,7 +621,7 @@
   <string name="mw_mr_chooser_searching">Znajdowanie urządzeń</string>
   <string name="mw_mr_chooser_title">Przesyłaj do</string>
   <string name="mw_mr_controller_album_art">Sztuka albumu</string>
-  <string name="mw_mr_controller_casting_screen">Przesyłaj ekran</string>
+  <string name="mw_mr_controller_casting_screen">Prześlij ekran</string>
   <string name="mw_mr_controller_close_description">Zamknij</string>
   <string name="mw_mr_controller_collapse_group">Zwiń</string>
   <string name="mw_mr_controller_disconnect">Rozłącz</string>
@@ -1343,7 +1343,7 @@
   <string name="pull_refresh_begin">Pociągnij, aby odświeżyć</string>
   <string name="pull_refresh_end">Puść, aby odświeżyć</string>
   <string name="pull_refresh_refreshing">Odświeżanie</string>
-  <string name="recommending_close_toast_text">Wyłącz tą funkcję w zaawansowanych ustawieniach</string>
+  <string name="recommending_close_toast_text">Wyłącz tę funkcję w zaawansowanych ustawieniach</string>
   <string name="refresh_text">Odśwież</string>
   <string name="pref_accessibility_recommending_search_title">Podpowiedzi wyszukiwania</string>
   <string name="app_continue_downloading_text">Wznów</string>

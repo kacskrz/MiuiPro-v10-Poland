@@ -698,7 +698,7 @@ Istnieje możliwość, że ktoś bardzo podobny do Ciebie (np. Twoje dziecko lub
 
 Zezwolić na to wszystkim aplikacjom, które chcą wykonywać skanowanie?"</string>
   <string name="wifi_scan_throttling">Ograniczanie skanowania Wi-Fi</string>
-  <string name="wifi_scan_throttling_summary">Zmniejsza zużycie baterii i zwiększa wydajność sieci</string>
+  <string name="wifi_scan_throttling_summary">Zmniejsza użycie baterii i zwiększa wydajność sieci</string>
   <string name="wifi_subscribed_access_points_tab">Subskrypcje</string>
   <string name="wifi_turned_on_message">Wi-Fi włączone</string>
   <string name="zen_access_detail_switch">Zezwól na dostęp do trybu Nie przeszkadzać</string>

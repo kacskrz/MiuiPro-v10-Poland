@@ -572,7 +572,7 @@
   <string name="face_data_suggesstion_second">Upewnij się, że wszystkie części twarzy nie są zakryte przedmiotami i są wyraźnie widoczne. Twoja twarz powinna być dobrze oświetlona.</string>
   <string name="face_unlock_adjust_distance">Upewnij się, że odległość między twoją twarzą, a ekranem jest optymalna.</string>
   <string name="face_unlock_be_on_the_screen">Utrzymuj urządzenie przed twarzą</string>
-  <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować urządzenie, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to przyspieszyć zużycie baterii.</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować urządzenie, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to przyspieszyć użycie baterii.</string>
   <string name="face_unlock_by_notification_screen_on_title">Zezwól na odblokowanie za pomocą twarzy, gdy ekran się podświetli</string>
   <string name="face_unlock_check_failed">Nie udało się rozpoznać</string>
   <string name="face_unlock_close_screen">Przybliż się do ekranu</string>
@@ -1425,7 +1425,7 @@
   <string name="structure_face_data_input_success">Skanowanie zostało zakończone!</string>
   <string name="structure_face_data_input_up">Spójrz w górę</string>
   <string name="structure_face_data_introduction_back">Wróć</string>
-  <string name="structure_face_data_introduction_msg">Rozpoznawanie twarzy 3D pozwala odblokować telefon lub zweryfikować Twoją tożsamość. Musisz ustawić hasło ekranu blokady, aby włączyć tą funkcję.</string>
+  <string name="structure_face_data_introduction_msg">Rozpoznawanie twarzy 3D pozwala odblokować telefon lub zweryfikować Twoją tożsamość. Musisz ustawić hasło ekranu blokady, aby włączyć tę funkcję.</string>
   <string name="structure_face_data_introduction_next">Kontynuuj</string>
   <string name="structure_face_data_introduction_settingpassword">Ustaw hasło</string>
   <string name="structure_face_data_introduction_title">Dodaj dane twarzy w 3D</string>

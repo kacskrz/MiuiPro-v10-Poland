@@ -4,7 +4,7 @@
     <string name="error_filename_too_long">Nazwa pliku jest za długa</string>
     <string name="power_config_select_apps_title">Aplikacje</string>
     <string name="power_config_event_delete">Usuń</string>
-    <string name="hide_mode_desc">Gdy aplikacja działa w tle, jej aktywność jest monitorowana, aby zmniejszyć zużycie baterii.</string>
+    <string name="hide_mode_desc">Gdy aplikacja działa w tle, jej aktywność jest monitorowana, aby zmniejszyć użycie baterii.</string>
     <string name="power_hide_mode_title">Bateria i wydajność</string>
     <string name="power_config_apps">Oszczędzanie baterii</string>
     <string name="app_list_title">Wybierz aplikacje</string>
@@ -24,7 +24,7 @@
     <string name="nonui_mode_config_title">Tryb nieinteraktywny</string>
     <string name="nonui_mode_config_description">Gdy MIUI wykryje, że nie korzystasz z urządzenia, nie będzie podświetlać ekranu przy nowych powiadomieniach, wyłączy diodę powiadomień, czytnik linii papilarnych oraz sterowanie dotykiem.</string>
     <string name="power_center">Optymalizacja baterii</string>
-    <string name="power_usage">Zużycie baterii</string>
+    <string name="power_usage">Użycie baterii</string>
     <string name="power_mode">Tryb zasilania</string>
     <string name="performance_category">Wydajność</string>
     <string name="scenario_policies_warmcontrol">Kontrola temperatury</string>
@@ -88,7 +88,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="base_info">Podstawowe informacje</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Nie udało się znaleźć żadnych aplikacji</string>
-	<string name="enable_sleep_mode">Włącz tryb uśpienia, aby zoptymalizować zużycie baterii w nocy</string>
+	<string name="enable_sleep_mode">Włącz tryb uśpienia, aby zoptymalizować użycie baterii w nocy</string>
 	<string name="power_consume_abnormal_night">Bateria w nocy jest drenowana</string>
 	<string name="sleepmode_disclaimer_agree">Zgoda</string>
 	<string name="sleepmode_disclaimer_cancel">Wyjdź</string>

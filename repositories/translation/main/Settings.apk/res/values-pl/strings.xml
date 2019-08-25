@@ -172,7 +172,7 @@
   <string name="admin_profile_owner_user_message">Administrator może monitorować aplikacje i dane powiązane z tym użytkownikiem (w tym ustawienia, uprawnienia, firmowe uprawnienia dostępu, aktywność w sieci i informacje o lokalizacji urządzenia) oraz nimi zarządzać.</string>
   <string name="admin_support_more_info">Więcej szczegółów</string>
   <string name="advanced_apps">Zaawansowane</string>
-  <string name="advanced_battery_title">Zużycie baterii – szczegóły</string>
+  <string name="advanced_battery_title">Użycie baterii – szczegóły</string>
   <string name="advanced_section_header">Zaawansowane</string>
   <string name="advanced_security_title">Zaawansowane</string>
   <string name="advanced_settings">Dodatkowe ustawienia</string>
@@ -386,7 +386,7 @@
   <string name="auto_brightness_summary_very_high">Wolę bardzo wysoką jasność</string>
   <string name="auto_brightness_summary_very_low">Wolę bardzo niską jasność</string>
   <string name="auto_brightness_title">Automatyczna jasność</string>
-  <string name="auto_brightness_very_high_summary">Zwiększone zużycie baterii</string>
+  <string name="auto_brightness_very_high_summary">Zwiększone użycie baterii</string>
   <string name="auto_brightness_very_high_title">Bardzo wysoka</string>
   <string name="auto_brightness_very_low_title">Bardzo niska</string>
   <string name="auto_caps">Wstawiaj wielkie litery</string>
@@ -477,7 +477,7 @@
   <string name="battery_action_wifi">Ustawienia Wi-Fi</string>
   <string name="battery_desc_apps">Użycie baterii przez aplikację</string>
   <string name="battery_desc_bluetooth">Użycie baterii przez Bluetooth</string>
-  <string name="battery_desc_camera">Zużycie baterii przez aparat</string>
+  <string name="battery_desc_camera">Użycie baterii przez aparat</string>
   <string name="battery_desc_display">Użycie baterii przez wyświetlacz i podświetlenie</string>
   <string name="battery_desc_flashlight">Użycie baterii przez latarkę</string>
   <string name="battery_desc_overcounted">Zużycie energii obliczone z nadmiarem</string>
@@ -3818,7 +3818,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="search_permission_settings_title">Uprawnienia aplikacji</string>
   <string name="search_pointer_speed">Prędkość wskaźnika</string>
   <string name="search_power_checker">Sprawdzanie zasilania</string>
-  <string name="search_power_hide_mode_title">Zarządzaj zużyciem baterii przez aplikacje;Zużycie baterii przez aplikacje;Zużycie baterii;Statystyki baterii</string>
+  <string name="search_power_hide_mode_title">Zarządzaj zużyciem baterii przez aplikacje;Użycie baterii przez aplikacje;Użycie baterii;Statystyki baterii</string>
   <string name="search_power_mode">Ustawienia zasilania;Tryb zasilania;Zasilanie</string>
   <string name="search_power_optimize">Oszczędzanie baterii; Oszczędzaj baterię</string>
   <string name="search_power_usage_summary_title">Bateria i wydajność;Bateria i wydajność; Bateria: wydajność;Oszczędzanie baterii;Oszczędzanie baterii</string>
@@ -5486,7 +5486,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_subnet_mask">Maska podsieci</string>
   <string name="wifi_suspend_efficiency_title">Popraw wydajność</string>
   <string name="wifi_suspend_optimizations">Optymalizacja Wi-Fi</string>
-  <string name="wifi_suspend_optimizations_summary">Minimalizuj zużycie baterii po włączeniu Wi-Fi</string>
+  <string name="wifi_suspend_optimizations_summary">Minimalizuj użycie baterii po włączeniu Wi-Fi</string>
   <string name="wifi_switch_away_when_unvalidated">Przełącz na dane komórkowe, jeśli Wi-Fi utraci dostęp do internetu.</string>
   <string name="wifi_switch_to_gsm_message">Rozłączono z Wi-Fi. Połączyć się z wykorzystaniem transmisji mobilnej?</string>
   <string name="wifi_switch_to_gsm_title">Użyć sieci GSM?</string>
@@ -5717,7 +5717,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="flash_drive_backup_restore_summary">Podłącz dysk USB</string>
   <string name="bt_ldac_declaration">Gdy urządzenie Bluetooth obsługuje LDAC, będzie ono domyślnie połączone. LDAC zapewnia wysoką jakość dźwięku, ale też zwiększa zużycie energii. Z powodu ograniczeń sprzętowych Bluetooth może wystąpić powtórne odtwarzanie (playback).</string>
   <string name="bt_ldac_dialog_summary">"LDAC zapewnia wysoką jakość dźwięku, a także zwiększa zużycie energii
-Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
+Możesz wyłączyć tę funkcję w [Ustawieniach]"</string>
   <string name="bt_ldac_dialog_title">Obecne urządzenie wspiera LDAC, który jest domyślnie połączony:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC zapewnia wysoką jakość dźwięku, ale też zwiększa zużycie energii. Z powodu ograniczeń sprzętowych Bluetooth może wystąpić powtórne odtwarzanie (playback).</string>
   <string name="bt_ldac_open_dialog_title">Włączyć LDAC?</string>
@@ -5776,7 +5776,7 @@ Możesz wyłączyć tą funkcję w [Ustawieniach]"</string>
   <string name="status_bar_settings_user_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do folderu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
   <string name="status_bar_settings_user_fold_disable">Wył.</string>
   <string name="status_bar_settings_user_fold_enable">Wł.</string>
-  <string name="aod_close_color_inversion">"Ta funkcja nie może być używana razem z inwersją kolorów. Wyłącz najpierw tą funkcję."</string>
+  <string name="aod_close_color_inversion">"Ta funkcja nie może być używana razem z inwersją kolorów. Wyłącz najpierw tę funkcję."</string>
   <string name="aod_got_it">Rozumiem</string>
   <string name="aod_to_close">Wyłącz</string>
   <string name="following_us_title">Obserwuj nas</string>
@@ -5957,7 +5957,7 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="aod_mode_bg">Tło</string>
   <string name="aod_mode_clock">Zegar</string>
   <string name="aod_mode_style">Styl zegarka i tła</string>
-  <string name="aod_mode_summary">Pokazuj godzinę, datę i wiadomości na wyłączonym ekranie. Ta funkcja zwiększa zużycie baterii. Jest ona automatycznie wyłączana, gdy urządzenie nie jest używane przez długi czas lub włączone jest Oszczędzanie baterii.</string>
+  <string name="aod_mode_summary">Pokazuj godzinę, datę i wiadomości na wyłączonym ekranie. Ta funkcja zwiększa użycie baterii. Jest ona automatycznie wyłączana, gdy urządzenie nie jest używane przez długi czas lub włączone jest Oszczędzanie baterii.</string>
   <string name="aod_sample_date">Wtorek, 10 maja</string>
   <string name="dark_color_mode">Ciemny motyw</string>
   <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji</string>
@@ -5996,7 +5996,7 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
 Możesz zmienić to w Ustawieniach."</string>
   <string name="bt_aac_dialog_title">Połączenie Bluetooth</string>
   <string name="bt_aac_open_dialog_summary">"Ze względu na problemy z kompatybilnością kodek AAC może nie odtworzyć dźwięku.
-Możesz wyłączyć tą funkcję w Ustawienia > Bluetooth > Sparowane urządzenia."</string>
+Możesz wyłączyć tę funkcję w Ustawienia > Bluetooth > Sparowane urządzenia."</string>
   <string name="bt_aac_open_dialog_title">Przełączanie na kodek AAC</string>
   <string name="bt_dialog_remember_choice">Zapamiętaj wybór</string>
   <string name="bt_dialog_settings">Ustawienia</string>
@@ -6037,7 +6037,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="fold_title">Ważność powiadomień</string>
   <string name="function_description">O tej funkcji</string>
   <string name="game_booster">Gra;Gry;Turbo;Granie;Tryb grania</string>
-  <string name="gxzw_aod_show_summary">Podnieś urządzenie bądź dotknij ekranu, aby pojawiła się ikona odcisku palca. Włączenie tej funkcji zwiększy zużycie baterii.</string>
+  <string name="gxzw_aod_show_summary">Podnieś urządzenie bądź dotknij ekranu, aby pojawiła się ikona odcisku palca. Włączenie tej funkcji zwiększy użycie baterii.</string>
   <string name="gxzw_aod_show_tittle">Pokaż ikonę odcisku palca</string>
   <string name="importance_default">Wysoka</string>
   <string name="importance_high">Pilna</string>
@@ -6212,7 +6212,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="long_press_power_key_tips"><Data>Przytrzymanie przycisku Zasilania &lt;font color=#999999>Szybciej i wygodniej&lt;/font></Data></string>
   <string name="toggle_auto_speaker_preference_summary">Urządzenie będzie przełączało się na głośnik, gdy w trakcie połączenia oddalisz telefon od ucha. Funkcja działa tylko wtedy, gdy włączony jest TalkBack.</string>
   <string name="toggle_auto_speaker_preference_title">Przełącz na głośnik</string>
-  <string name="miui_touch_filtered_touchassistant_warning">Monit dot. uprawnień jest zasłaniany przez Asystenta dotyku. Przenieś go poza obszar tego monitu lub wyłącz tą funkcję.</string>
+  <string name="miui_touch_filtered_touchassistant_warning">Monit dot. uprawnień jest zasłaniany przez Asystenta dotyku. Przenieś go poza obszar tego monitu lub wyłącz tę funkcję.</string>
   <string name="allow_oaid_used">Zezwól na używanie ID urządzenia</string>
   <string name="device_oaid">ID urządzenia</string>
   <string name="restore_oaid_content">Zresetowanie ID urządzenia wygeneruje nowy identyfikator.</string>
@@ -6227,7 +6227,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="a11y_settings_label">Ułatwienia dostępu</string>
   <string name="accessibility_menu_description">"Menu ułatwień dostępu włącza skróty pozwalające Ci na kontrolowanie urządzenia.
 
-Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby otworzyć menu."</string>
+Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby otworzyć menu."</string>
   <string name="accessibility_menu_service_name">Menu ułatwień dostępu</string>
   <string name="accessibility_menu_summary">Kontroluj urządzenie za pomocą skrótów</string>
   <string name="confirm_fingerprint">Zweryfikuj odcisk palca</string>
@@ -6246,7 +6246,7 @@ Włącz tą funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="privacy_thumbnail_blur_progress_message">Chwileczkę…</string>
   <string name="privacy_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
   <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
-  <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza zużycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
+  <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza użycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
   <string name="enable_tcp_rtt_support">Wyświetlaj TCP RTT</string>
   <string name="enable_tcp_rtt_support_summary">Szacuj wydajność jakości połączenia sieciowego</string>
   <string name="aod_and_lock_screen_settings_title">Ekran blokady</string>
@@ -6393,24 +6393,24 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="enable_screen_projection_summary">Przesyłaj obraz z swojego ekranu na zewnętrzny monitor</string>
   <string name="open_game_accelerate">Włącz Game Turbo</string>
   <string name="other">Inne</string>
-  <string name="screen_projection">Przesyłaj ekran</string>
+  <string name="screen_projection">Prześlij ekran</string>
   <string name="screen_projection_characteristics">Specjalne funkcje</string>
-  <string name="screen_projection_characteristics_off_screen_summary">Możesz przesyłać ekran także wtedy, gdy jest on wyłączony. Ta funkcja zmniejsza zużycie baterii.</string>
-  <string name="screen_projection_characteristics_off_screen_title">Przesyłaj ekran, gdy jest on wyłączony</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Możesz przesyłać ekran także wtedy, gdy jest on wyłączony. Ta funkcja zmniejsza użycie baterii.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Prześlij ekran, gdy jest on wyłączony</string>
   <string name="screen_projection_characteristics_privacy_protect_summary">Nie wyświetlaj pływających powiadomień, przychodzących połączeń i innych prywatnych rzeczy na zewnętrznych monitorach.</string>
   <string name="screen_projection_characteristics_privacy_protect_title">Ukryj prywatne rzeczy</string>
   <string name="screen_projection_characteristics_small_window_summary">Zminimalizuj okno, które jest wyświetlane na monitorze, aby móc używać innych funkcji telefonu.</string>
   <string name="screen_projection_characteristics_small_window_title">Zminimalizuj okno</string>
-  <string name="screen_projection_example_document_summary">Wyświetlaj prezentacje na zewnętrznym monitorze - możesz przełączać się pomiędzy slajdami i wyświetlać notatki za pomocą telefonu. Aby wypróbować tą funkcję, przejdź do aplikacji Pliki > Dokumenty.</string>
+  <string name="screen_projection_example_document_summary">Wyświetlaj prezentacje na zewnętrznym monitorze - możesz przełączać się pomiędzy slajdami i wyświetlać notatki za pomocą telefonu. Aby wypróbować tę funkcję, przejdź do aplikacji Pliki > Dokumenty.</string>
   <string name="screen_projection_example_document_title">Dokumenty</string>
   <string name="screen_projection_example_gallery_summary">Kliknij przycisk Wyślij podczas przeglądania zdjęć bądź filmów w Galerii, aby wyświetlić przeglądany element na zewnętrznym monitorze.</string>
   <string name="screen_projection_example_gallery_title">Zdjęcia i filmy</string>
-  <string name="screen_projection_example_game_summary">Game Turbo pozwala ci na przesyłanie obrazu z gier do zewnętrznego monitora za pomocą skrótu. Po prostu użyj tego skrótu w trakcie grania, aby włączyć tą funkcję.</string>
+  <string name="screen_projection_example_game_summary">Game Turbo pozwala ci na przesyłanie obrazu z gier do zewnętrznego monitora za pomocą skrótu. Po prostu użyj tego skrótu w trakcie grania, aby włączyć tę funkcję.</string>
   <string name="screen_projection_example_game_title">Gry</string>
   <string name="screen_projection_help">Pomoc</string>
-  <string name="screen_projection_sample_summary">Sprawdź, jak możesz wykorzystać tą funkcję</string>
+  <string name="screen_projection_sample_summary">Sprawdź, jak możesz wykorzystać tę funkcję</string>
   <string name="screen_projection_sample_title">Przykłady</string>
-  <string name="screen_projection_title">Przesyłaj ekran</string>
+  <string name="screen_projection_title">Prześlij ekran</string>
   <string name="search_connection_and_sharing">Więcej;Bezprzewodowo</string>
   <string name="system_print_service_help">O drukowaniu</string>
   <string name="speaker">Głośnik</string>

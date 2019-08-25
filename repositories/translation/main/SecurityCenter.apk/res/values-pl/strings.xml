@@ -37,7 +37,7 @@
   <string name="activity_title_other_permission_manager">Inne uprawnienia</string>
   <string name="activity_title_permission_manager">Uprawnienia</string>
   <string name="activity_title_permissions_manager">Uprawnienia</string>
-  <string name="activity_title_power_manager">Zużycie baterii</string>
+  <string name="activity_title_power_manager">Użycie baterii</string>
   <string name="activity_title_root_acquired">Udziel dostępu do ROOT</string>
   <string name="activity_title_root_manager">Dostęp do ROOT</string>
   <string name="activity_title_root_note">O uprawnieniach ROOT</string>
@@ -1159,7 +1159,7 @@
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Przyspiesz prędkość</string>
-  <string name="menu_text_power_manager">Zużycie baterii</string>
+  <string name="menu_text_power_manager">Użycie baterii</string>
   <string name="menu_text_power_percent">Bateria: %s</string>
   <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Usuń z wyjątków</string>
@@ -1378,7 +1378,7 @@
   <string name="path_networkassistant_1">Aplikacje systemowe/Panel Sterowania/Monitor danych</string>
   <string name="path_networkassistant_2">Aplikacje systemowe/Panel Sterowania/Monitor danych</string>
   <string name="path_networkassistant_4">Aplikacje systemowe/Panel Sterowania/Monitor danych/Diagnozuj sieć</string>
-  <string name="path_powercenter">Aplikacje systemowe/Panel Sterowania/Zużycie baterii</string>
+  <string name="path_powercenter">Aplikacje systemowe/Panel Sterowania/Użycie baterii</string>
   <string name="path_powercenter_powerrank">Bateria i wydajność/Użycie baterii</string>
   <string name="path_securitycenter">Aplikacje systemowe/Panel Sterowania</string>
   <string name="path_securitycenter_settings">Aplikacje systemowe/Panel Sterowania</string>
@@ -1413,10 +1413,10 @@
   <string name="pm_root_success_notification_infomation">Upewnij się z ryzyka związanego z dostępem do roota</string>
   <string name="pm_root_success_notification_title">Udziel dostępu do root</string>
   <string name="power_20s_shutdown">Urządzenie wyłączy się za %d sekund</string>
-  <string name="power_analysis_consume_title">Zużycie baterii</string>
+  <string name="power_analysis_consume_title">Użycie baterii</string>
   <string name="power_analysis_suggestion_need_optimize">Wykryto problemy ze zużyciem baterii.</string>
   <string name="power_autorun_apps_empty">Brak aplikacji startowych</string>
-  <string name="power_btn_analyze">Analizuj zużycie baterii</string>
+  <string name="power_btn_analyze">Analizuj użycie baterii</string>
   <string name="power_cell">Sygnał sieci</string>
   <string name="power_center_auto_shutdown">Zaplanowane włączenie/wyłączenie</string>
   <string name="power_center_back">Wróć</string>
@@ -1611,7 +1611,7 @@
   <string name="resource_networkassistant_1">Użycie danych</string>
   <string name="resource_networkassistant_2">Kalibracja planu danych</string>
   <string name="resource_networkassistant_4">Diagnostyka sieci</string>
-  <string name="resource_powercenter">Zużycie baterii</string>
+  <string name="resource_powercenter">Użycie baterii</string>
   <string name="resource_powercenter_powerrank">Bateria i wydajność</string>
   <string name="resource_securitycenter">Panel sterowania</string>
   <string name="resource_securitycenter_settings">Panel sterowania</string>
@@ -1654,7 +1654,7 @@
   <string name="safe_result_item_info_system_version">MIUI jest aktualne</string>
   <string name="safepay_alert_dialog_button_continue">Kontynuuj</string>
   <string name="safepay_alert_dialog_button_fix">Napraw</string>
-  <string name="save_energy_text">Ogranicz autostart oraz synchronizację dla aplikacji w tle, aby ograniczyć zużycie baterii</string>
+  <string name="save_energy_text">Ogranicz autostart oraz synchronizację dla aplikacji w tle, aby ograniczyć użycie baterii</string>
   <string name="save_energy_title">Optymalizacja baterii</string>
   <string name="sc_allow_network_dialog_message">Ograniczyłeś połączenie sieciowe i dostęp do swojej lokalizacji dla Panelu Sterowania. Nadaj Panelowi Sterowania wymagane uprawnienia, aby korzystać z tej funkcji.</string>
   <string name="sc_allow_network_dialog_tiltle">Nie można użyć oszczędzania transferu</string>
@@ -2065,7 +2065,7 @@
   <string name="title_cloud_space_almost_full">Przestrzeń w Chmurze jest prawie pełna, elementy mogą się nie synchronizować</string>
   <string name="title_cloud_space_full">Chmura jest pełna</string>
   <string name="title_cmcc_app_check">Weryfikacja nie została zakończona</string>
-  <string name="title_consume_power_rank">Zużycie baterii</string>
+  <string name="title_consume_power_rank">Użycie baterii</string>
   <string name="title_data_flow">Kontrola danych mobilnych</string>
   <string name="title_data_flow_monitor">Monitor użycia danych jest włączony</string>
   <string name="title_dev_model_off">Opcje programistyczne są wyłączone</string>
@@ -2418,7 +2418,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
   <string name="handle_title_abnormal">Nadmierny pobór energii</string>
   <string name="handle_title_app">Aplikacje</string>
   <string name="handle_title_details">Szczegóły zużycia baterii</string>
-  <string name="handle_title_system">Zużycie baterii przez system</string>
+  <string name="handle_title_system">Użycie baterii przez system</string>
   <string name="hide_mode_result_summary_text">Utwórz własne ustawienia Oszczędzania baterii dla każdej aplikacji</string>
   <string name="pc_main_activity_back">Wstecz</string>
   <string name="pc_settings_title">Ustawienia baterii i wydajności</string>
@@ -2549,7 +2549,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="forground_network_optimization_title">Priorytet sieciowy</string>
   <string name="function_shield_summary_m">Ogranicz autom. jasność i gesty zrzutu ekranu</string>
   <string name="security_center_slogan">Panel Sterowania</string>
-  <string name="third_desktop_dialog_content">Launchery z nieznanych źródeł mogą powodować problemy takie jak wyciek danych, duże zużycie baterii, lagowanie itd. Tylko zweryfikowane przez MIUI aplikacje mogą być ustawione jako Twój domyślny launcher.</string>
+  <string name="third_desktop_dialog_content">Launchery z nieznanych źródeł mogą powodować problemy takie jak wyciek danych, duże użycie baterii, lagowanie itd. Tylko zweryfikowane przez MIUI aplikacje mogą być ustawione jako Twój domyślny launcher.</string>
   <string name="third_desktop_dialog_ok">Rozumiem</string>
   <string name="third_desktop_dialog_title">Błąd</string>
   <string name="gamecenter_install_fail">"Nie można zainstalować"</string>
@@ -2652,7 +2652,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="pc_battery_history_rank_mha_menu_item">W mAh</string>
   <string name="pc_battery_detail_curve_reference_now">Teraz</string>
   <string name="pc_battery_detail_device_item_title">Statystyki użycia baterii</string>
-  <string name="pc_statistics_battery_use_title">Zużycie baterii</string>
+  <string name="pc_statistics_battery_use_title">Użycie baterii</string>
   <string name="pc_statistics_battery_use_summary">%s od ostatniego naładowania</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$d godz. %2$d min od ostatniego naładowania</string>
   <string name="pc_statistics_battery_last_hour_minute">Pozostało %1$d godz. %2$d min</string>
@@ -2719,7 +2719,7 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="privacy_description_mic">Aplikacja %1s używa mikrofonu w tle. Możesz użyć przełącznika poniżej, aby ograniczyć tą aktywność.</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Oszczędzanie baterii</string>
-  <string name="pc_search_keywords_battery_use">Zużycie baterii</string>
+  <string name="pc_search_keywords_battery_use">Użycie baterii</string>
   <string name="pc_search_keywords_capacity">Pojemność baterii</string>
   <string name="pc_search_keywords_property">Wydajność</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja będzie mogła działać tylko częściowo."</string>

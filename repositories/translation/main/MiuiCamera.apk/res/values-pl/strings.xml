@@ -754,7 +754,7 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
   <string name="lens_insufficient_storage">Zwolnij miejsce w pamięci telefonu.</string>
   <string name="lens_title">Obiektyw Google</string>
   <string name="no_item_selected_label">Nic nie wybrano</string>
-  <string name="oobe_body">Skieruj aparat i stuknij, aby wykonać połączenie telefoniczne, wysłać wiadomość e-mail, zeskanuj kod QR i wykonać inne czynności. Możesz wyłączyć tą funkcję w dowolnym momencie w Ustawieniach.</string>
+  <string name="oobe_body">Skieruj aparat i stuknij, aby wykonać połączenie telefoniczne, wysłać wiadomość e-mail, zeskanuj kod QR i wykonać inne czynności. Możesz wyłączyć tę funkcję w dowolnym momencie w Ustawieniach.</string>
   <string name="oobe_continue">Kontynuuj</string>
   <string name="oobe_expandable">Obiektyw Google nie jest wszechwiedzący i nie zawsze ma rację, gdy rozpoznaje określone obiekty, zaznaczone teksty lub inne rzeczy. Obiektyw przestanie analizować to, co widzisz, po zamknięciu aplikacji Aparatu. Możesz wyłączyć lub ponownie włączyć Obiektyw w ustawieniach aplikacji.</string>
   <string name="oobe_headline">Sugestie Obiektywu Google</string>

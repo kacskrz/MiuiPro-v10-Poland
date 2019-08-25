@@ -413,7 +413,7 @@
 "<li>gdy aplikacja zawiera wirusy,</li>"
 "<li>gdy nowsza wersja aplikacji jest dostępna w Mi App Store,</li>"
 "<li>gdy paczka instalacji pochodzi z nieznanego źródła.</li></string>
-    <string name="settings_warning_dialog_msg">"Twoje urządzenie jest narażone na zagrożenia bezpieczeństwa. Nie będziesz powiadamiany o możliwości pobrania bezpiecznej wersji aplikacji. Wyłączyć tą funkcję mimo to?"</string>
+    <string name="settings_warning_dialog_msg">"Twoje urządzenie jest narażone na zagrożenia bezpieczeństwa. Nie będziesz powiadamiany o możliwości pobrania bezpiecznej wersji aplikacji. Wyłączyć tę funkcję mimo to?"</string>
     <string name="settings_warning_dialog_title">Uwaga</string>
     <string name="untrusted_external_source_title">Zezwolić \"%1$s\" na instalację aplikacji?</string>
     <string name="untrusted_external_source_warning_summary_2">"Aplikacje z nieznanych źródeł mogą być szkodliwe dla Twojego urządzenia. Instalując je, ponosisz pełną odpowiedzialność za potencjalne uszkodzenie urządzenia lub utratę danych.

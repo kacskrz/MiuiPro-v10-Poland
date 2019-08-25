@@ -1202,7 +1202,7 @@ Zostanie wybrana sieć preferowana."</string>
     <string name="cdma_display_precise_call_state_message">Jeśli Twój operator sieci nie wspiera tej funkcji, status połączeń może być niedokładny.</string>
     <string name="other_settings_category">Inne</string>
     <string name="caller_id_title">ID rozmówcy</string>
-    <string name="caller_id_summary">Ukryj mój numer dla połączeń wychodzących (potwierdź, że operator obsługuję tą funkcję)</string>
+    <string name="caller_id_summary">Ukryj mój numer dla połączeń wychodzących (potwierdź, że operator obsługuje tę funkcję)</string>
     <string name="clir_choices_network_default">Domyślnie dla sieci</string>
     <string name="clir_choices_hide_number">Ukryj numer</string>
     <string name="clir_choices_show_number">Pokaż numer</string>
