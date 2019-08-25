@@ -203,4 +203,5 @@
   <string name="search_bar_title">Pasek wyszukiwania</string>
   <string name="percent_mi9_title">Mały symbol procenta</string>
   <string name="set_text_lines_title">Nazwy aplikacji pod ikonami</string>
+  <string name="set_font_type_title">Zdezaktywuj czcionkę MiLanPro</string>
 </resources>
