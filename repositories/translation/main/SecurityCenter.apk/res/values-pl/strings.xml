@@ -2632,8 +2632,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="pc_main_sub_battery_text_hour_minute">Pozostało %1$s godz. %2$s min</string>
   <string name="pc_main_power_manager_day_hour">%1$s dni %2$s godz. do pełnego naładowania</string>
   <string name="pc_main_power_manager_hour_minute">%1$s godz. %2$s min do pełnego naładowania</string>
-  <string name="battery_desc_ambient_display">Użycie baterii przez tryb Zawsze włączony</string>
-  <string name="power_ambient_display">Zawsze włączony</string>
+  <string name="battery_desc_ambient_display">Użycie baterii przez tryb Ekran zawsze włączony</string>
+  <string name="power_ambient_display">Ekran zawsze włączony</string>
   <string name="function_shield_voice_trigger">"Nie wybudzaj Mi SI głosem"</string>
   <string name="gb_first_guide_function_shiled_title">Wyłącz funkcje systemu, gdy włączone jest Game Turbo</string>
   <string name="gb_first_guide_gamebox_des">Używaj skrótów w trakcie grania</string>
@@ -2675,7 +2675,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="superpower_progress_turnoff_process">Ograniczenie aktywności w tle</string>
   <string name="superpower_savemode_limit1">Ciemny motyw</string>
   <string name="superpower_savemode_limit2">Ogranicz aktywność w tle</string>
-  <string name="superpower_savemode_limit3">Ogranicz energochłonną aktywność (synchronizacja, GPS, tryb Zawsze włączony itd.)</string>
+  <string name="superpower_savemode_limit3">Ogranicz energochłonną aktywność (synchronizacja, GPS, tryb Ekran zawsze włączony itd.)</string>
   <string name="superpower_savemode_limit4">Zezwól wybranym aplikacjom na normalne działanie</string>
   <string name="superpower_settings">Ultraoszczędzanie baterii</string>
   <string name="superpower_settins_autoenter_title">Włącz automatycznie</string>

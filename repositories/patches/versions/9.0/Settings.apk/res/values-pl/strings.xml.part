@@ -52,7 +52,7 @@
   <string name="ambient_display_category_triggers">Kiedy wyświetlać</string>
   <string name="ambient_display_screen_summary_always_on">Zawsze włączony/Zwiększone użycie baterii</string>
   <string name="ambient_display_screen_summary_notifications">Nowe powiadomienia</string>
-  <string name="ambient_display_screen_title">Zawsze włączony</string>
+  <string name="ambient_display_screen_title">Ekran zawsze włączony</string>
   <string name="android_version_pending_update_summary">Dostępna aktualizacja</string>
   <string name="android_version_summary">Zaktualizowano do Androida %1$s</string>
   <string name="app_cellular_data_usage">Użycie danych przez aplikację</string>
