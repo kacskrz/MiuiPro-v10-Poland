@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_weather_setting">O aplikacji</string>
+  <string name="about_weather_setting_feedback">Opinia</string>
+  <string name="abrupt_weather_settings_summary_type">Otrzymuj ostrzeżenia o spodziewanych opadach deszczu, zmianach jakości powietrza i innych poważnych zmianach pogody</string>
   <string name="abrupt_weather_settings_summary_type_a">Ostrzeżenie o niespodziewanych zmianach pogody</string>
   <string name="abrupt_weather_settings_summary_type_b">Ostrzeżenie o niespodziewanych zmianach pogody</string>
   <string name="abrupt_weather_settings_title">Ostrzeżenie o zmianach</string>
@@ -33,6 +36,8 @@
   <string name="add_city">Dodaj lokalizację</string>
   <string name="alert_detail_title">Szczegóły ostrzeżenia</string>
   <string name="alert_warning">Ostrzeżenia o warunkach</string>
+  <string name="alert_weather_enable_settings_summary">Otrzymuj oficjalne ostrzeżenia pogodowe</string>
+  <string name="alert_weather_enable_settings_title">Ostrzeżenia pogodowe</string>
   <string name="already_voted_toast">"Już zagłosowano dzisiaj"</string>
   <string name="app_name">Pogoda</string>
   <string name="aqi_data_source">Dostarczane przez Colorful Clouds</string>
@@ -101,7 +106,7 @@
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">Bezwietrznie</string>
   <string name="daily_forcast_temperature_connect"/>
-  <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+  <string name="daily_forcast_temperature_transfer">"%1$s° / %2$s°"</string>
   <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
   <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
   <string name="daily_forcast_weather_transfer">%1$s. Później %2$s</string>
@@ -119,6 +124,7 @@
   <string name="empty_view_net_unavailable">Nie udało połączyć się z siecią</string>
   <string name="empty_view_refresh">Spróbuj ponownie</string>
   <string name="eu_region_version_first_start_network_msg">"Aplikacja wymaga dostępu do sieci, aby pobierać prognozę pogody i ustalać lokalizację. Wybierając \"Zgadzam się\", wyrażasz zgodę na %1$s i %2$s."</string>
+  <string name="feedback">Zgłoś nieprawidłowe informacje o pogodzie</string>
   <string name="feedback_cloudy">Pochmurnie</string>
   <string name="feedback_foggy">Mgła</string>
   <string name="feedback_haze">Mgła</string>
@@ -185,7 +191,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="more_details">Więcej</string>
   <string name="network_not_available">Brak połączenia z siecią</string>
   <string name="network_unavailable">Brak połączenia z siecią</string>
-  <string name="night_not_disturb_settings_summary">Aplikacja nie będzie powiadamiać o pogodzie w godzinach 23:00 do 07:00</string>
+  <string name="night_not_disturb_settings_summary">Aplikacja nie będzie powiadamiać o pogodzie w godzinach 23:00 do 7:00</string>
   <string name="night_not_disturb_settings_title">Godziny ciszy</string>
   <string name="no_data">Brak danych</string>
   <string name="no_network_btn">Spróbuj ponownie</string>
@@ -291,6 +297,8 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="view_forecast_item_yesterday">Wczoraj</string>
   <string name="view_indexes_item_today">Dziś</string>
   <string name="view_indexes_item_tommorrow">Jutro</string>
+  <string name="warning_weather_day_and_night_settings_summary">Otrzymuj codzienne podsumowania wraz z informacją o pogodzie (od 7:00 do 19:00)</string>
+  <string name="warning_weather_day_and_night_settings_title">Codzienne podsumowania</string>
   <string name="weather_alert_channel_name">Ostrzeżenia</string>
   <string name="weather_introduce">Zawsze z tobą, w każdych warunkach.</string>
   <string name="weather_permission_agree">Akceptuję</string>

@@ -259,4 +259,5 @@
   <string name="wireless_charging_notification_message3">W trakcie ładowania wystąpił błąd. Bezprzewodowe ładowanie zwrotne zostało wyłączone.</string>
   <string name="wireless_charging_notification_titile">Wyłączono ładowanie zwrotne</string>
   <string name="customer_location_judgment">Chiny</string>
+  <string name="can_not_transfer_when_screening">"Nie można przesyłać ekranu w trakcie przenoszenia"</string>
 </resources>

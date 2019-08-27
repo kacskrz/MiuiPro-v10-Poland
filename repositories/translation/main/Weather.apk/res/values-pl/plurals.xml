@@ -70,4 +70,8 @@
         <item quantity="other">Najniższa temperatura: %1$s°F</item>
         <item quantity="one">Najniższa temperatura: %1$s°F</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s-dniowa prognoza</item>
+        <item quantity="one">%1$s-dniowa prognoza</item>
+    </plurals>
 </resources>

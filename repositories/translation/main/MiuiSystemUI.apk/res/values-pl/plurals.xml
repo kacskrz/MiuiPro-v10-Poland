@@ -180,4 +180,9 @@
         <item quantity="one">Podłącz ładowarkę tak szybko, jak to możliwe. Twoje urządzenie wyłączy się za %d sekundę.</item>
         <item quantity="few">Podłącz ładowarkę tak szybko, jak to możliwe. Twoje urządzenie wyłączy się za %d sekundy.</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Rozłączenie za %1$d sekund</item>
+        <item quantity="one">Rozłączenie za %1$d sekundę</item>
+        <item quantity="few">Rozłączenie za %1$d sekundy</item>
+    </plurals>
 </resources>
