@@ -6414,4 +6414,11 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="search_connection_and_sharing">Więcej;Bezprzewodowo</string>
   <string name="system_print_service_help">O drukowaniu</string>
   <string name="speaker">Głośnik</string>
+  <string name="full_screen_keyboard_settings">Ustawienia klawiatury (wyświetlacz pełnoekranowy)</string>
+  <string name="input_method_bottom_close">Wył.</string>
+  <string name="input_method_bottom_open">Wł.</string>
+  <string name="input_method_manage">Zarządzaj klawiaturami</string>
+  <string name="input_method_settings_text">Ustawienia</string>
+  <string name="keyboard_mouse_touch">Klawiatura, mysz i touchpad</string>
+  <string name="other_input_settings">Dodatkowe ustawienia klawiatury</string>
 </resources>

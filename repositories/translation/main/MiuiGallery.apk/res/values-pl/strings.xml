@@ -1716,4 +1716,6 @@ aby spersonalizować Galerię"</string>
   <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
   <string name="unrecognized_manufacture">Nieznany</string>
   <string name="unrecognized_model">Nieznane urządzenie</string>
+  <string name="cloud_privacy_with_ai_album">Polityka prywatności automatycznych kopii zapasowych i przetwarzania zdjęć</string>
+  <string name="cloud_privacy_with_face">Polityka prywatności automatycznych kopii zapasowych i rozpoznawania twarzy</string>
 </resources>
