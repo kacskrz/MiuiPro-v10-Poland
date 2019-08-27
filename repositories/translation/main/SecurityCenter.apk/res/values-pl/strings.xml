@@ -2754,4 +2754,5 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="menu_summary_garbage_cleanup_ex">Wyczyść %s śmieci</string>
   <string name="permission_action_always">Zawsze zezwalaj</string>
   <string name="permission_action_foreground">Gdy używam aplikacji</string>
+  <string name="cta_HIPS_Perm_Location_Desc">dokładna lokalizacja (przez GPS/sieć)</string>
 </resources>
