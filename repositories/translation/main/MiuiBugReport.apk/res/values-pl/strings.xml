@@ -611,4 +611,8 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="feedback_detail_upload_log">Wyślij logi</string>
     <string name="feedback_detail_waiting">Generowanie…</string>
     <string name="kr_authorization_function">Wysyłanie opinii, generowanie logów, wyświetlanie często zadawanych pytań</string>
+    <string name="mi_service_dialog_cancel">Wyjdź</string>
+    <string name="mi_service_dialog_confirm">Otwórz</string>
+    <string name="mi_service_dialog_content">Wszystkie funkcje Opinii zostały przeniesione do nowej aplikacji \"Usługi i opinie\". Aplikacja Opinie zostanie usunięta z pulpitu. Kliknij przycisk \"Otwórz\", aby sprawdzić nową aplikację.</string>
+    <string name="mi_service_dialog_title">Aplikacja \"Usługi i opinie\"</string>
 </resources>

@@ -704,4 +704,5 @@
   <string name="storage_manage_list_title">Dane w Chmurze</string>
   <string name="storage_manage_list_title_action">Zobacz więcej</string>
   <string name="cloud_storage_info_type_pdc">Ustawienia systemu</string>
+  <string name="storage_manage_title">Zmień plan Chmury</string>
 </resources>

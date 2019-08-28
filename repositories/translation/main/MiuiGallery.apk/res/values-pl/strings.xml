@@ -1718,4 +1718,9 @@ aby spersonalizować Galerię"</string>
   <string name="unrecognized_model">Nieznane urządzenie</string>
   <string name="cloud_privacy_with_ai_album">Polityka prywatności automatycznych kopii zapasowych i przetwarzania zdjęć</string>
   <string name="cloud_privacy_with_face">Polityka prywatności automatycznych kopii zapasowych i rozpoznawania twarzy</string>
+  <string name="backup_pause_dialog_title">Zatrzymaj synchronizację</string>
+  <string name="double_tap_for_hr_preview_108m">Dotknij dwa razy, aby pokazać podgląd w 108 Mpx</string>
+  <string name="hr_preview_108m">Włączono podgląd 108 Mpx</string>
+  <string name="thumbnail_build_error">"Nie udało się pobrać miniatury"</string>
+  <string name="thumbnail_error_log_cleared">Pomyślnie wyczyszczono</string>
 </resources>

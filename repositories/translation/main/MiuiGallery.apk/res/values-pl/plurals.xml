@@ -462,4 +462,9 @@
         <item quantity="one">%1$d element</item>
         <item quantity="few">%1$d elementy</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Zatrzymaj synchronizację zdjęć, filmów i innych rzeczy z Chmurą na %d minut.</item>
+        <item quantity="one">Zatrzymaj synchronizację zdjęć, filmów i innych rzeczy z Chmurą na %d minutę.</item>
+        <item quantity="few">Zatrzymaj synchronizację zdjęć, filmów i innych rzeczy z Chmurą na %d minuty.</item>
+    </plurals>
 </resources>
