@@ -586,4 +586,10 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="two_factor_auth_need_code_summary">"Zobaczysz kod na innych połączonych urządzeniach Xiaomi. Wprowadź ten kod na nowym urządzeniu, aby się na nim zalogować."</string>
   <string name="two_factor_auth_summary">"Gdy spróbujesz zalogować się na nowym urządzeniu bądź w nowej lokalizacji, zostaniesz o tym powiadomiony na innych połączonych urządzeniach. Będziesz musiał potwierdzić, że to ty logujesz się na swoje konto."</string>
   <string name="ep_unsupported">Nie możesz zalogować się na konto Xiaomi na tym urządzeniu</string>
+  <string name="passport_user_agreement_link"><Data>"Przeczytałem i akceptuję &lt;a href=%1$s>Umowę użytkownika&lt;/a> i &lt;a href=%2$s>Politykę prywatności&lt;/a> Xiaomi."</Data></string>
+  <string name="system_ad">Reklamy w aplikacjach systemu</string>
+  <string name="system_ad_list">Lista aplikacji</string>
+  <string name="system_ad_summary">Xiaomi pokazuje reklamy w swoich aplikacjach (ponoć w celu dalszego rozwijania swoich produktów...). Na xiaomi.eu reklamy te są wyłączone, opcja ta nie ma więc żadnego zastosowania.</string>
+  <string name="system_ad_switch">Reklamy w aplikacjach systemu (włączone domyślnie)</string>
+  <string name="system_ad_switch_failed">Nieudane</string>
 </resources>

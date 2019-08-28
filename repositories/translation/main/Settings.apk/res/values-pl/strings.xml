@@ -6421,4 +6421,18 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="input_method_settings_text">Ustawienia</string>
   <string name="keyboard_mouse_touch">Klawiatura, mysz i touchpad</string>
   <string name="other_input_settings">Dodatkowe ustawienia klawiatury</string>
+  <string name="link_turbo_prompt">"Statystyki na tej stronie pokazują tylko ilość danych użytych do przyspieszenia prędkości połączenia poprzez Wi-Fi. Nie odzwierciedlają one aktualnego użycia danych mobilnych."</string>
+  <string name="link_turbo_settings_all_app_display_loading">Chwileczkę…</string>
+  <string name="link_turbo_settings_all_app_reach_max">Możesz wybrać maks. 15 aplikacji</string>
+  <string name="link_turbo_usage_state_month">W tym miesiącu</string>
+  <string name="link_turbo_usage_state_month_total">W tym miesiącu</string>
+  <string name="link_turbo_usage_state_today">Dziś</string>
+  <string name="link_turbo_usage_state_today_total">Dziś</string>
+  <string name="wifi_link_turbo">Użyj danych mobilnych, aby przyspieszyć prędkość</string>
+  <string name="wifi_link_turbo_app_settings_summary">Wybierz aplikacje korzystające z tej funkcji</string>
+  <string name="wifi_link_turbo_app_settings_title">Wybierz aplikacje</string>
+  <string name="wifi_link_turbo_no_app">Nie ma tu jeszcze żadnej aplikacji.</string>
+  <string name="wifi_link_turbo_off">Wył.</string>
+  <string name="wifi_link_turbo_on">Wł.</string>
+  <string name="wifi_link_turbo_summary">Przyspiesz prędkość połączenia dla wybranych aplikacji przy użyciu danych mobilnych, gdy jakość połączenia z siecią Wi-Fi jest słaba</string>
 </resources>
