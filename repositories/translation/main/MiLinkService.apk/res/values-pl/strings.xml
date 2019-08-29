@@ -48,8 +48,7 @@ Jeśli masz więcej pytań, sprawdź zakładkę Pomoc."</string>
     <string name="help_page_text_13">"Nie możesz się połączyć?"</string>
     <string name="help_page_text_14">"1. W przypadku Mi TV zaktualizuj aplikację Wyświetlania bezprzewodowego w telewizorze do najnowszej wersji.
 2. Możesz spróbować połączyć swój telefon i telewizor do tej samej sieci, aby zwiększyć stabilność połączenia. Część routerów może nie być w stanie dostarczyć stabilnego połączenia dla ekranu, co może skutkować jego brakiem bądź częstymi przerwaniami. 
-3. Jeśli używasz Mi TV, włączenie Bluetooth może poprawić jakość połączenia. 
-4. Jeśli w pobliżu nie ma dostępnych żadnych sieci Wi-Fi, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia. Przejdź poniżej, aby dowiedzieć się więcej o funkcji Miracast na różnych urządzeniach."</string>
+3. Jeśli używasz Mi TV, włączenie Bluetooth może poprawić jakość połączenia."</string>
     <string name="help_page_text_15">Funkcja Miracast na różnych urządzeniach</string>
     <string name="help_page_text_16">Mi TV/Projektor Xiaomi</string>
     <string name="help_page_text_17">"Telefon Xiaomi może połączyć się bezpośrednio z większością telewizorów Xiaomi poprzez Bluetooth zamiast włączania funkcji Miracast ręcznie.
@@ -91,6 +90,8 @@ Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na 
     <string name="help_page_text_51">LeTV</string>
     <string name="help_page_text_52">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na niektórych urządzeniach wejdź w Settings > Network > Multi-screen Interactive > Wireless Display.</string>
     <string name="help_page_text_53">Wsparcie techniczne LeTV (tylko Chiny): 10109000</string>
+    <string name="help_page_text_55">"Jeśli w pobliżu nie ma dostępnych żadnych sieci Wi-Fi, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia. Przejdź poniżej, aby dowiedzieć się więcej o funkcji Miracast na różnych urządzeniach.
+4. W razie innych problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację Opinie."</string>
     <string name="help_page_text_end">"Jeśli Twoja marka nie jest tu wymieniona, skontaktuj się z producentem, aby dowiedzieć się więcej."</string>
     <string name="notification_rc_desc">Najlepszy asystent do wyświetlania zdjęć, filmów i aplikacji na Mi Boxie (lub TV) - spróbuj teraz!</string>
     <string name="notification_rc_title">Asystent TV od Xiaomi</string>
