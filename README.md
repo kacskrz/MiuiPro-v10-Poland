@@ -1,3 +1,5 @@
+# Tłumaczenie MIUI 10 - deprecated
+
 # MiuiPro-Poland / Polskie tłumaczenie MiuiPro
 Public repository with translated applications and MiuiPro ROM functions. MiuiPro is a modified MIUI overlay based on China ROM. Some strings are translated from Global ROM, some is my work.
 
