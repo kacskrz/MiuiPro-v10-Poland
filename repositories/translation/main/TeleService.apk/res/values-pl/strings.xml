@@ -1865,4 +1865,11 @@ Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkol
   <string name="fiveg_upperlayer_indication2">"Status wskaźnika wyższej warstwy [Slot2]: "</string>
   <string name="preferred_wificall_roaming_title">Ustawienia roamingu</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_custom">Automatyczny LTE</string>
+  <string name="wifi_call_available_title">Włączanie Wi-Fi Calling</string>
+  <string name="wifi_call_available_message">Możesz teraz wykonywać połączenia za pomocą sieci Wi-Fi. Jeśli jesteś połączony z siecią Wi-Fi, będziesz w stanie rozmawiać przez telefon nawet tam, gdzie nie ma zasięgu sieci komórkowej.</string>
+  <string name="wifi_call_cancel">Anuluj</string>
+  <string name="wifi_call_help">Pomoc</string>
+  <string name="wifi_call_help_message">Domyślnie, jeśli zostało ustawione preferowanie sieci komórkowych, będą one wykorzystywane do połączeń głosowych. W miejscach, gdzie nie ma zasięgu sieci komórkowej bądź jest on słaby, zostanie użyta sieć Wi-Fi.</string>
+  <string name="wifi_call_help_title">Pomoc dot. Wi-Fi Calling</string>
+  <string name="wifi_call_notification_message">Usługa jest dostarczana przez Orange. Zanim zostanie ona aktywowana, może potrwać nawet kilka godzin. Otrzymasz SMS-a potwierdzającego, gdy usługa stanie się dostępna.</string>
 </resources>

@@ -12,7 +12,7 @@
   <string name="congratulation_swipe">Przesuń w górę, aby wejść do systemu</string>
   <string name="congratulation_title">Konfiguracja zakończona</string>
   <string name="content_description_complete">Zakończono</string>
-  <string name="content_description_miui_version">MIUI 10</string>
+  <string name="content_description_miui_version">MIUI 11</string>
   <string name="content_description_start">Start</string>
   <string name="continue_to_enable_accessibility">Przytrzymaj dwa palce, aby włączyć ułatwienie.</string>
   <string name="desc_fingerprint">Użyj odcisku palca do odblokowania swojego urządzenia, weryfikacji transakcji Mi Pay lub logowania do aplikacji i usług.</string>
@@ -78,7 +78,7 @@
   <string name="terms_of_use_lable_smart_cards">, Proste karty</string>
   <string name="terms_of_use_lable_apps">Usługi Xiaomi, usługi aktywacji karty MI SIM, chmura Xiaomi, funkcja Znajdź urządzenie, ekran główny, Gry, komponenty systemu MAB, MSA, MIUI Daemon, aplikacje internetowe, Asystent MIUI, statystyki, inteligentna karta Mi, Mi Link</string>
   <string name="title_fingerprint">Ustaw hasło</string>
-  <string name="user_agreement">Regulamin Usługi</string>
+  <string name="user_agreement">Warunki użytkowania</string>
   <string name="voice_assist_advice">Mi AI pozwala używać Tobie kontroli za pomocą głosu, ale zużywa więcej energii (+1% na godzinę).</string>
   <string name="voice_assist_condition">"Możesz używać Mi AI, gdy:
 1. ekran jest włączony,
@@ -89,7 +89,7 @@
   <string name="sim_card_detecting_confirm_turn_on_network">Pozwalać na łączenie się z sieciami mobilnymi? Jeśli to zrobisz, karta SIM, którą włożysz, będzie używana do łączenia się z mobilnymi sieciami.</string>
   <string name="sim_card_detection_mobile_not_available">"Karta SIM nie może połączyć się z siecią"</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Twoja karta SIM nie może połączyć się z siecią operatora. Upewnij się, że masz wystarczające środki na koncie i spróbuj ponownie nawiązać połączenie."</string>
-  <string name="start_up_slogan">Dedykowane dla doświadczenia pełnoekranowego</string>
+  <string name="start_up_slogan">Zwiększ produktywność</string>
   <string name="agree_terms_input_method_facemoji">"Przeczytałem i zgadzam się na politykę prywatności Facemoji."</string>
   <string name="agree_terms_input_method_kika">"Przeczytałem i zgadzam się na politykę prywatności Kika."</string>
   <string name="terms_of_use_label_systemhelper">, Usługa własna</string>

@@ -391,6 +391,9 @@
   <string name="auto_brightness_very_low_title">Bardzo niska</string>
   <string name="auto_caps">Wstawiaj wielkie litery</string>
   <string name="auto_caps_summary">Zaczynaj zdania wielką literą</string>
+  <string name="auto_clean_description">O tej funkcji:\n1. Uruchom to narzędzie raz lub dwa razy, jeśli Twój głośnik jest zablokowany przez kurz bądź pył.\n2. Jeśli głośnik jest zablokowany mocniej, uruchom to narzędzie od 2 do 5 razy, potrząsając urządzeniem z głośnikiem skierowanym w dół.</string>
+  <string name="auto_clean_summary">Odtwórz 30-sekundowy dźwięk, aby wyczyścić głośnik</string>
+  <string name="auto_clean_title">Wyczyść głośnik</string>
   <string name="auto_disable_screenbuttons_ask">Pytaj przed wyłączeniem</string>
   <string name="auto_disable_screenbuttons_auto">Zawsze wyłączaj</string>
   <string name="auto_disable_screenbuttons_cancel">Anuluj</string>
@@ -1421,6 +1424,9 @@
   <string name="dialog_restrict_all_wlan_title">Ograniczenie łączności przez Wi-Fi</string>
   <string name="dialog_restrict_negative">Ogranicz</string>
   <string name="dialog_restrict_positive">Zakończ</string>
+  <string name="dialog_speaker_auto_clean_button">Rozumiem</string>
+  <string name="dialog_speaker_auto_clean_content">"Czyszczenie potrwa 30 sekund. Nie opuszczaj ten strony. Dla lepszego efektu zwiększ maksymalnie głośność."</string>
+  <string name="dialog_speaker_auto_clean_title">Uwaga</string>
   <string name="dialog_title_color_calibration">Ustaw korekcję kolorów ekranu</string>
   <string name="dialog_title_hdmi_color_calibration">Korekcja kolorów HDMI</string>
   <string name="dialog_title_login">Zaloguj się na konto Xiaomi</string>
@@ -2521,7 +2527,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="media_button">Przycisk multimedialny</string>
   <string name="media_category">Media</string>
   <string name="media_feedback_enable_title">Wibracje w rytmie</string>
-  <string name="media_volume_option_title">Głośność multimediów</string>
+  <string name="media_volume_option_title">Muzyka, gry, multimedia</string>
   <string name="media_volume_summary">Ustaw głośność muzyki oraz filmów wideo</string>
   <string name="media_volume_title">Multimedia</string>
   <string name="megabyte_per_second">MB/s</string>
@@ -3526,7 +3532,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="retail_demo_reset_next">Dalej</string>
   <string name="retail_demo_reset_title">Wymagane hasło</string>
   <string name="retry">Spróbuj ponownie</string>
-  <string name="ring_volume_option_title">Głośność dzwonka</string>
+  <string name="ring_volume_option_title">Dzwonki, przypomnienia, powiadomienia</string>
   <string name="ring_volume_title">Głośność dzwonka</string>
   <string name="ringtone_slot_setting_title">Ustawienia SIM</string>
   <string name="ringtone_title">Dzwonek telefonu</string>
@@ -6302,7 +6308,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="miui_lab_home_feed_title">Centrum multimediów</string>
   <string name="miui_lab_home_feed_desc">Ciekawe pomysły, fascynujące historie</string>
   <string name="popup_gesture_title">Podnieś, aby otworzyć aparat</string>
-  <string name="popup_gesture_summary">Wróć do pulpitu, podnieś telefon i spójrz na ekran, aby automatycznie otworzyć przedni aparat</string>
+  <string name="popup_gesture_summary">Trzymaj telefon przed sobą i szybko unieś go o 20 cm, aby otworzyć przedni aparat</string>
   <string name="miui_lab_3d_gesture_title">Wzory 3D</string>
   <string name="miui_lab_3d_gesture_slogan">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
   <string name="miui_lab_3d_gesture_summary">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
@@ -6435,4 +6441,21 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="wifi_link_turbo_off">Wył.</string>
   <string name="wifi_link_turbo_on">Wł.</string>
   <string name="wifi_link_turbo_summary">Przyspiesz prędkość połączenia dla wybranych aplikacji przy użyciu danych mobilnych, gdy jakość połączenia z siecią Wi-Fi jest słaba</string>
+  <string name="system_haptic_feedback">Reakcje haptyczne</string>
+  <string name="calendar_remind">Wydarzenia</string>
+  <string name="notification_remind">Powiadomienia</string>
+  <string name="title_layout_current2_weight">Rozmiar tekstu i grubość czcionki</string>
+  <string name="weight_heavy">Gruba</string>
+  <string name="weight_light">Cienka</string>
+  <string name="weight_setting_toast">Możesz zmienić grubość tylko czcionki systemowej</string>
+  <string name="notification_animation_style">Efekty specjalne</string>
+  <string name="aod_show_mode_title">Wyświetlaj elementy</string>
+  <string name="aod_style_description">Wyświetlaj zegar, datę, powiadomienia i inne elementy, gdy ekran jest wyłączony</string>
+  <string name="aod_style_title">Styl</string>
+  <string name="aod_notification_style_animation">Pokaż animację</string>
+  <string name="aod_notification_style_none">Nie wybudzaj ekranu</string>
+  <string name="aod_notification_style_screen_on">Wybudź ekran</string>
+  <string name="always_style">Zawsze</string>
+  <string name="scheduled_style">Gdy zaplanowane</string>
+  <string name="temporary_style">Przez 10 sekund po dotknięciu</string>
 </resources>

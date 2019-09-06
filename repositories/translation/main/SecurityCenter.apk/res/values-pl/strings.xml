@@ -2755,4 +2755,15 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="permission_action_always">Zawsze zezwalaj</string>
   <string name="permission_action_foreground">Gdy używam aplikacji</string>
   <string name="cta_HIPS_Perm_Location_Desc">dokładna lokalizacja (przez GPS/sieć)</string>
+  <string name="permgroupdesc_calendar">Dostęp do wydarzeń z kalendarza</string>
+  <string name="permgroupdesc_calllog">Dostęp i zapisywanie elementów w historii połączeń</string>
+  <string name="permgroupdesc_camera">Robienie zdjęć i nagrywanie filmów</string>
+  <string name="permgroupdesc_contacts">Dostęp do kontaktów</string>
+  <string name="permgroupdesc_location">Dostęp do lokalizacji</string>
+  <string name="permgroupdesc_microphone">Nagrywanie dźwięku</string>
+  <string name="permgroupdesc_phone">Wykonywanie połączeń i zarządzanie konwersacjami</string>
+  <string name="permgroupdesc_recognition">Dostęp do danych o zdrowiu i aktywności</string>
+  <string name="permgroupdesc_sensors">Dostęp do danych z czujników ciała</string>
+  <string name="permgroupdesc_sms">Odczyt lub wysłanie SMS-a</string>
+  <string name="permgroupdesc_storage">Dostęp do zdjęć lub plików na urządzeniu</string>
 </resources>

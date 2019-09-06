@@ -174,4 +174,7 @@
   <string name="surprise">Niespodzianka</string>
   <string name="birdcicada_preview">Dźwięk natury 2</string>
   <string name="waterdrop_preview">Dźwięk natury 1</string>
+  <string name="windchime">Wietrzne dzwonki</string>
+  <string name="mihouse">Mi (Elektroniczny)</string>
+  <string name="mijazz">Mi (Jazz)</string>
 </resources>

@@ -999,8 +999,8 @@
     <item>Kontrast pozostaje na stałym poziomie</item>
   </string-array>
   <string-array name="screen_optimize_title">
-    <item>Automatyczny</item>
-    <item>Zwiększony kontrast</item>
+    <item>Automatyczny (zalecany)</item>
+    <item>Saturacja</item>
     <item>Standardowy</item>
   </string-array>
   <string-array name="screen_saturation_title">
@@ -1305,9 +1305,9 @@
         <item>Brak</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
+        <item>"Nie wybudzaj ekranu"</item>
         <item>Wybudź ekran</item>
         <item>Pokaż animację</item>
-        <item>"Nie wybudzaj ekranu"</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12-godzinny (1:00 PM)</item>

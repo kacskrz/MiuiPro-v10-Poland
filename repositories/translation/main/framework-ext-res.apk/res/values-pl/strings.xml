@@ -260,4 +260,5 @@
   <string name="wireless_charging_notification_titile">Wyłączono ładowanie zwrotne</string>
   <string name="customer_location_judgment">Chiny</string>
   <string name="can_not_transfer_when_screening">"Nie można przesyłać ekranu w trakcie przenoszenia"</string>
+  <string name="flip_screen_camera_tip">Odwróć urządzenie, aby użyć aparatu</string>
 </resources>
