@@ -70,4 +70,24 @@
   <string name="using_recorder_dialog_message">"Radio FM potrzebuje dostępu do usług nagrywania, aby działać poprawnie."</string>
   <string name="using_recorder_dialog_title">Wymagane uprawnienia</string>
   <string name="view_stations_list">Pokaż listę stacji</string>
+  <string name="broadcast_list">Kanały</string>
+  <string name="cancel_delay_stop">Wyłącz minutnik</string>
+  <string name="favor_list">Ulubione</string>
+  <string name="list">Kanały</string>
+  <string name="local_channel">Lokalny kanał</string>
+  <string name="no_broadcast">Brak transmisji</string>
+  <string name="scanned_list">Dostępne kanały</string>
+  <string name="talkback_create_channel">Dodaj kanał</string>
+  <string name="talkback_freq_more_function">Więcej opcji dla kanału %1$s</string>
+  <string name="talkback_freq_picker">Przesuń, aby przełączyć się pomiędzy kanałami</string>
+  <string name="talkback_listen_more">Więcej kanałów online</string>
+  <string name="talkback_local_radio">"Słuchaj radia, gdy jesteś offline"</string>
+  <string name="talkback_more_function">Więcej kanałów</string>
+  <string name="talkback_next_broadcast">Poprzedni kanał</string>
+  <string name="talkback_pre_broadcast">Następny kanał</string>
+  <string name="talkback_record_stop">Zatrzymaj nagrywanie</string>
+  <string name="talkback_recording">Nagrywanie</string>
+  <string name="talkback_scan_channel">Wyszukaj kanały</string>
+  <string name="talkback_switch_headset">Podłącz słuchawki</string>
+  <string name="talkback_switch_speaker">Użyj głośnika</string>
 </resources>

@@ -1124,4 +1124,13 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="wait_while_update_db">Trwa aktualizacja bazy danych. Poczekaj chwilę!</string>
   <string name="account_add_title">Wybierz usługę poczty</string>
   <string name="toast_bar_sync_failed_client_cert">Synchronizacja nieudana z powodu błędu autoryzacji. Kliknij, aby dodać certyfikat ponownie.</string>
+  <string name="account_options_actionbar_title">Ustawienia ogólne</string>
+  <string name="mail_outlook_login_tips">Zgodnie z wymaganiami firmy Microsoft musisz wprowadzić hasło na stronie autoryzacji tej firmy.</string>
+  <string name="mail_outlook_oauth_login">Zaloguj się za pomocą OAuth</string>
+  <string name="mail_outlook_psw_login">Zaloguj się hasłem</string>
+  <string name="outlook_login_failed_non_proxy_title">"Nie udało się uzyskać dostępu do serwera Outlook"</string>
+  <string name="quick_reply_expend">Rozwiń</string>
+  <string name="sync_calendra_fail_per_content">Dotknij, aby udzielić dostępu do kalendarza</string>
+  <string name="sync_calendra_fail_per_title">"Nie udało się zsynchronizować kalendarza"</string>
+  <string name="sync_calendra_fail_permission">"Nie udało się zsynchronizować kalendarza. Zezwól Poczcie na dostęp do kalendarza w Ustawieniach."</string>
 </resources>

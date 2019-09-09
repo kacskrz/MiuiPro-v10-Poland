@@ -1251,4 +1251,5 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
 	<string name="shortcut_new_contact_label">Nowy kontakt</string>
 	<string name="shortcut_scan_label">Zeskanuj wizytówkę</string>
     <string name="scan_not_installed">Zainstaluj aplikację Skaner</string>
+    <string name="contact_detail_more_calllog">Więcej</string>
 </resources>

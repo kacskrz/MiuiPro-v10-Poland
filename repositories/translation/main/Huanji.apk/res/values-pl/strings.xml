@@ -213,7 +213,7 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="need_location_permission_summary">Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji, aby odnaleźć urządzenia w pobliżu.</string>
     <string name="need_more_memory_cacel">Anuluj</string>
     <string name="need_more_memory_confirm">Czyszczenie</string>
-    <string name="need_more_memory_summary">"Dane aplikacji firm trzecich muszą być skompresowane przed ich przeniesieniem. Nie ma wystarczająco dużo miejsca do utworzenia skompresowanych paczek.
+    <string name="need_more_memory_summary">"Dane aplikacji firm trzecich muszą być skompresowane przed ich przeniesieniem. Przenoszenie danych potrzebuje %1$s dodatkowego miejsca do utworzenia skompresowanych paczek.
 1. Spróbuj przenieść tylko najważniejsze rzeczy.
 2. Odinstaluj aplikacje, których nie potrzebujesz.
 3. Użyj Czyszczenia, aby zwolnić miejsce."</string>
@@ -446,4 +446,9 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
+  <string name="dialog_rating_desc_ask">Co sądzisz o Przenoszeniu danych?</string>
+  <string name="dialog_rating_desc_less">Jak możemy poprawić naszą aplikację?</string>
+  <string name="dialog_rating_desc_perfect">Dzięki! Ocenisz naszą aplikację w GetApps?</string>
+  <string name="dialog_rating_title">Oceń Przenoszenie danych</string>
+  <string name="trans_detail_item_app_skip_data">"Nie można przenieść tej aplikacji"</string>
 </resources>

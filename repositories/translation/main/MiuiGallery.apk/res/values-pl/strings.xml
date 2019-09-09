@@ -1453,13 +1453,13 @@ aby spersonalizować Galerię"</string>
   <string name="agreement_quit">Wyjdź</string>
   <string name="agreement_required_tip">(obowiązkowe)</string>
   <string name="agreement_summary">Dokumenty prawne</string>
-  <string name="permissin_contract_desc">Nazywanie osób na zdjęciu</string>
-  <string name="permission_contract_name">Kontakty</string>
+  <string name="permission_contacts_desc">Nazywanie osób na zdjęciu</string>
+  <string name="permission_contacts_name">Kontakty</string>
   <string name="permission_optional_category">Opcjonalne uprawnienia</string>
-  <string name="permission_phone_desc">Żądania sieciowe oparte na ID urządzenia</string>
+  <string name="permission_phone_desc">Przypisywanie odpowiednich urządzeń do ostatnio usuniętych elementów w Chmurze Xiaomi</string>
   <string name="permission_phone_name">Telefon</string>
   <string name="permission_require_category">Wymagane uprawnienia</string>
-  <string name="permission_storage_desc">Wyświetlanie, edycja i zapis zdjęć</string>
+  <string name="permission_storage_desc">Wyświetlanie, edycja, pobieranie, synchronizacja i zapis zdjęć</string>
   <string name="permission_storage_name">Pamięć</string>
   <string name="permission_use_desc">Uprawnienia</string>
   <string name="select_all">Zaznacz wszystko</string>
@@ -1723,4 +1723,5 @@ aby spersonalizować Galerię"</string>
   <string name="hr_preview_108m">Włączono podgląd 108 Mpx</string>
   <string name="thumbnail_build_error">"Nie udało się pobrać miniatury"</string>
   <string name="thumbnail_error_log_cleared">Pomyślnie wyczyszczono</string>
+  <string name="app_summary">Zarządzanie i edytowanie zdjęć i wideo na urządzeniu oraz w Chmurze Xiaomi</string>
 </resources>

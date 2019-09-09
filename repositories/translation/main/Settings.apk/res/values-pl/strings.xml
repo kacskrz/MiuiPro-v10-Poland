@@ -6458,4 +6458,5 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="always_style">Zawsze</string>
   <string name="scheduled_style">Gdy zaplanowane</string>
   <string name="temporary_style">Przez 10 sekund po dotknięciu</string>
+  <string name="modify_default_browser_message">Jeśli ustawisz aplikację firmy trzeciej jako swoją domyślną przeglądarkę, może ona zacząć gromadzić Twoją historię wyszukiwania oraz inne dane. Ustawić mimo to?</string>
 </resources>

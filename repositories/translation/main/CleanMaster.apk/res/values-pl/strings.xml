@@ -421,7 +421,7 @@
   <string name="summary_delete_cache">Usunąć pamięć podręczną wybranych aplikacji?</string>
   <string name="summary_delete_large_file">Trwale usunąć zaznaczone pliki?</string>
   <string name="summary_delete_video">Usunąć trwale zaznaczone pliki wideo?</string>
-  <string name="summary_optimizer">Ta funkcja przesyła nazwy folderów w celu aktualizacji bazy online firmy Cheetah Mobile i wymaga ID twojego urządzenia.</string>
+  <string name="summary_optimizer">"Ta funkcja, aby móc aktualizować definicje chmury, musi przesłać nazwy plików z danymi na serwery Clean Master. Czy zgadzasz się na to?"</string>
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Prześlij nazwy folderów</string>
   <string name="there_is_no">Wszystko OK!</string>
@@ -600,4 +600,6 @@
   <string name="notification_low_memory_cache_title">Wyczyść pamięć podręczną</string>
   <string name="notification_low_memory_deepclean_summary">Czyszczenie może zwolnić miejsce na urządzeniu</string>
   <string name="notification_low_memory_deepclean_title">Mało wolnego miejsca</string>
+  <string name="button_agree">Zgadzam się</string>
+  <string name="button_deny">"Nie zgadzam się"</string>
 </resources>

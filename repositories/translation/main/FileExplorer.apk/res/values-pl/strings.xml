@@ -476,6 +476,7 @@
   <string name="path_hot_sticker">Popularne naklejki</string>
   <string name="path_hot_video">Zobacz popularne, krótkie wideo za darmo!</string>
   <string name="path_kuai_chuan">Transfer plików peer-to-peer</string>
+  <string name="path_name_email">E-mail</string>
   <string name="path_recent_file">Zarządzaj plikami ze swojego urządzenia</string>
   <string name="permission_denial">Nie udało się uzyskać dostępu do plików. Zezwól Menadżerowi Plików na dostęp do plików w Ustawieniach.</string>
   <string name="permission_required">Nie udało się uzyskać dostępu do plików. Zezwól Menadżerowi Plików na dostęp do plików w Ustawieniach.​</string>

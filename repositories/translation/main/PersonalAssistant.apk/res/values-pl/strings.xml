@@ -177,7 +177,7 @@
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgadzam się</string>
   <string name="cta_dialog_text_all">Aby użyć Asystenta MIUI, musisz przeczytać i zgodzić się na %1$s\"Zgodę użytkownika\" %2$s oraz %3$s \"Politykę prywatności\" %4$s. Usługa wymaga również połączenia z Internetem i dostępu do usług lokalizacyjnych. Moduł pobierania treści używany przez niektóre usługi wymaga również połączenia z Internetem. Zgodzić się?</string>
-  <string name="cta_dialog_text_new_user">"Przed użyciem Asystenta MIUI musisz zgodzić się na warunki %1$s\"Umowy użytkownika\"%2$s oraz %3$s\"Polityki prywatności\"%4$s Xiaomi, a także %5$s\"Politykę prywatności Asystenta MIUI\"%6$s. Aplikacja wymaga połączenia z Internetem oraz dostępu do Twojej lokalizacji w celu poprawnego działania. Kliknij \"Start\", aby zaakceptować."</string>
+  <string name="cta_dialog_text_new_user">Przeczytaj i zgódź się na warunki %1$sUmowy użytkownika%2$s oraz %3$sPolityki prywatności%4$s Xiaomi.</string>
   <string name="cta_dialog_text_old_user">Przed użyciem Asystenta MIUI musisz zgodzić się na warunki %1$s\"Polityki prywatności\"%2$s. Kliknij \"Start\", aby to zrobić.</string>
   <string name="cta_dialog_title">Warunki Użytkowania</string>
   <string name="cta_dialog_miot_text_all">W celu poprawnego działania Mi Home może potrzebować informacji o Twojej sieci, lokalizacji, uprawnień do włączania Bluetooth, używania Twoich danych komórkowych, mikrofonu i kontaktów. Potwierdzić?</string> 
