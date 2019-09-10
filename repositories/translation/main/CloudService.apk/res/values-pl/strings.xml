@@ -518,7 +518,7 @@
   <string name="sub_sync_item_sms_title_wifi_only">Synchronizuj MMSy tylko przez Wi-Fi</string>
   <string name="success_upgraded_space">Dodano: %s</string>
   <string name="sync_dspt">Synchronizacja</string>
-  <string name="sync_dspt_entrance_provision">"Synchronizuj swoje zdjęcia, kontakty, rejestr połączeń i wiadomości pomiędzy wszystkimi urządzeniami. Dostęp do zsynchronizowanych danych możesz uzyskać na %s. "</string>
+  <string name="sync_dspt_entrance_provision">"Synchronizuj swoje zdjęcia, notatki i inne elementy pomiędzy wszystkimi urządzeniami. Dostęp do zsynchronizowanych danych możesz uzyskać na %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Dowiedz się więcej</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Nie skorzystam</string>
   <string name="sync_dspt_entrance_provision_confirm_content">System MIUI może zapisywać kopie osobistych danych telefonu w chmurze. Korzystanie z Chmury Xiaomi jest całkowicie darmowe.</string>

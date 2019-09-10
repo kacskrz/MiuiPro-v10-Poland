@@ -3589,7 +3589,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="screen_color_temperature_and_saturation">Kolory i nasycenie</string>
   <string name="screen_compatibility_label">Zgodność z ekranem</string>
   <string name="screen_compatibility_text">Aplikacja może nie być przystosowana do ekranu Twojego urządzenia. Tutaj możesz ją skonfigurować do obsługi ekranu.</string>
-  <string name="screen_effect">Kontrast i kolory</string>
+  <string name="screen_effect">Schemat kolorów</string>
   <string name="screen_key_long_press">Przytrzymanie przycisków nawigacyjnych</string>
   <string name="screen_key_long_press_action">Akcja dla przytrzymania</string>
   <string name="screen_key_long_press_timeout">Ustaw czas długiego naciśnięcia</string>
@@ -3612,7 +3612,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="screen_never_timeout_title">Nigdy nie usypiaj</string>
   <string name="screen_on_proximity_sensor_summary">Zablokuj gesty po umieszczeniu urządzenia w kieszeni</string>
   <string name="screen_on_proximity_sensor_title">Tryb kieszonkowy</string>
-  <string name="screen_optimize">Kontrast</string>
+  <string name="screen_optimize">Kolory</string>
   <string name="screen_optimize_disabled">Nie można zmienić kontrastu, gdy włączony jest Tryb czytania</string>
   <string name="screen_paper_mode_adjust_level">Dostosuj</string>
   <string name="screen_paper_mode_apps_loading">Chwileczkę…</string>
@@ -6259,7 +6259,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="aod_settings_category_name">Ekran zawsze włączony</string>
   <string name="aod_settings_title">Ekran zawsze włączony</string>
   <string name="applications_settings_title">Aplikacje</string>
-  <string name="feedback_settings">Opinie</string>
+  <string name="feedback_settings">Usługi i opinie</string>
   <string name="full_screen_display">Tryb pełnoekranowy</string>
   <string name="game_booster_title">Game Turbo</string> 
   <string name="google_service_title">Usługi Google</string>
