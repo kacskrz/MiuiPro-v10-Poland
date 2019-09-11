@@ -6459,4 +6459,8 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="scheduled_style">Gdy zaplanowane</string>
   <string name="temporary_style">Przez 10 sekund po dotknięciu</string>
   <string name="modify_default_browser_message">Jeśli ustawisz aplikację firmy trzeciej jako swoją domyślną przeglądarkę, może ona zacząć gromadzić Twoją historię wyszukiwania oraz inne dane. Ustawić mimo to?</string>
+  <string name="wifi_generation_title">Technologia</string>
+  <string name="wifi_generation_icon_display">Ikony</string>
+  <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
+  <string name="wifi_generation_summary">Dodaj numer generacji sieci do ikony Wi-Fi</string>
 </resources>

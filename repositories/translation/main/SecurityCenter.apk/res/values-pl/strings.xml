@@ -2766,4 +2766,5 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="permgroupdesc_sensors">Dostęp do danych z czujników ciała</string>
   <string name="permgroupdesc_sms">Odczyt lub wysłanie SMS-a</string>
   <string name="permgroupdesc_storage">Dostęp do zdjęć lub plików na urządzeniu</string>
+  <string name="superpower_notification_new_title">Pozostało mniej niż %d%% baterii</string>
 </resources>
