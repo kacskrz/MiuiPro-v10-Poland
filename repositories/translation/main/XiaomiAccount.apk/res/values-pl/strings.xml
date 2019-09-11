@@ -594,4 +594,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="system_ad_switch_failed">Nie udało się zmienić ustawienia</string>
   <string name="passport_ticket_login_select_sim_card">Wybierz kartę SIM</string>
   <string name="passport_ticket_login_select_sim_card_cancel">Anuluj</string>
+  <string name="passport_extra_gdpr_license">Zakładając konto Xiaomi zgadzasz się na to, że Xiaomi będzie gromadzić, przetwarzać i używać Twoich danych, np. służących do weryfikacji (jak kody weryfikacyjne), z Drugiej przestrzeni (np. informacje o tym, jak używasz Drugiej przestrzeni) i innych określonych w Polityce prywatności Xiaomi. Aby dowiedzieć się, jak Xiaomi przetwarza Twoje dane, zapoznaj się z Polityką prywatności.</string>
 </resources>
