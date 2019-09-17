@@ -5747,11 +5747,11 @@ Możesz wyłączyć tę funkcję w [Ustawieniach]"</string>
     <string name="security_input">Bezpieczna klawiatura</string>
     <string name="security_input_hint">Używaj bezpiecznej klawiatury do wpisywania haseł</string>
     <string name="forget_password_dialog_button_text">Wstecz</string>
-    <string name="forget_password_dialog_content_four"><Data>2. Wybierz &lt;font color=#e6e6e6>[Wipe data]&lt;/font> i poczekaj, aż urządzenie uruchomi się ponownie.</Data></string>
+    <string name="forget_password_dialog_content_four">2. Wybierz [Wipe data] i poczekaj, aż urządzenie uruchomi się ponownie.</string>
     <string name="forget_password_dialog_content_one"><Data>"Jeśli zapomnisz swojego hasła, nie będziesz w stanie go przywrócić. Możesz jednak zresetować hasło po &lt;font color=#ec2700>wymazaniu wszystkich danych na urządzeniu&lt;/font> (włącznie z zdjęciami, kontaktami itd.). Wykonaj kopię zapasową ważnych danych przed wykonaniem tej czynności."</Data></string>
-    <string name="forget_password_dialog_content_three"><Data>"1. Wyłącz urządzenie. Przytrzymaj przyciski &lt;font color=#e6e6e6>[Power]&lt;/font> i &lt;font color=#e6e6e6>[Volume+]&lt;/font> jednocześnie, i przytrzymaj je, dopóki nie zobaczysz &lt;img src=''> ikony."</Data></string>
+    <string name="forget_password_dialog_content_three">1. Wyłącz urządzenie. Przytrzymaj przyciski [Power] i [Volume+] jednocześnie, i przytrzymaj je, dopóki nie zobaczysz ikony *.</string>
     <string name="forget_password_dialog_content_two">Postępuj zgodnie z wskazówkami, aby wymazać dane:</string>
-    <string name="forget_password_dialog_title">Zresetuj Twoje haslo</string>
+    <string name="forget_password_dialog_title">Wyczyść dane</string>
   <string name="enterprise_mode">Tryb firmowy</string>
     <string name="delete_sound_effect">Dźwięk \"Usuń\" </string>
     <string name="keyguard_security_setting_others">Inne</string>
@@ -6298,7 +6298,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="usage_app_system_app_summary">"Nie można ustawić limitu dla aplikacji systemowych"</string>
   <string name="usage_app_weekday_limit">Dni robocze</string>
   <string name="usage_app_weekend_limit">Weekendy</string>
-  <string name="volume_launch_camera_summary">Kliknij dwukrotnie przycisk głośności, aby włączyć Aparat na zablokowanym ekranie</string>
+  <string name="volume_launch_camera_summary">Kliknij dwukrotnie przycisk Głośność-, aby włączyć Aparat na zablokowanym ekranie</string>
   <string name="wakeup_and_sleep_settings_category_name">Ustawienia ekranu blokady</string>
   <string name="notch_style_mod_title">Ukryj wcięcie</string>
   <string name="notch_style_mod_description">Ustawienia wyświetlania wcięcia i paska statusu</string>
@@ -6463,4 +6463,6 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="wifi_generation_icon_display">Ikony</string>
   <string name="wifi_generation">Użyj ikon generacji Wi-Fi</string>
   <string name="wifi_generation_summary">Dodaj numer generacji sieci do ikony Wi-Fi</string>
+  <string name="choose_lock_pattern_header_text">Ustaw wzór</string>
+  <string name="confirm_lock_pattern_header_text">Narysuj swój wzór</string>
 </resources>

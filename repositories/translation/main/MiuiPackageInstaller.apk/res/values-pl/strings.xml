@@ -421,4 +421,8 @@
 "<font size="15">Możesz nadać bądź cofnąć uprawnienia w Ustawieniach > Dodatkowe ustawienia > Prywatność > Instalacja nieznanych aplikacji.</font></string>
     <string name="virus_title_subtext">"Ta aplikacja może zawierać wirusy: "</string>
     <string name="pref_key_antivirus_summary">Sprawdź aplikacje pod kątem wirusów przed ich instalacją</string>
+    <string name="risk_warning_title">Wykryto zagrożenie</string>
+    <string name="risk_warning_msg">"Sygnatura paczki instalacyjnej może nie być autentyczna. Aby uniknąć potencjalnych zagrożeń, zainstaluj tą aplikację za pomocą GetApps."</string>
+    <string name="risk_warning_top_button">"Nie instaluj"</string>
+    <string name="risk_warning_bottom_button">Zainstaluj z GetApps</string>
 </resources>
