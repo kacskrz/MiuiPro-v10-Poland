@@ -473,6 +473,78 @@
   <string name="pref_summary_sync_display_photo_on_wifi_only">Synchronizuje zdjęcia profilowe kontaktów tylko gdy jesteś podłączony do sieci Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Synchronizuj kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Synchronizuj zdjęcia tylko przez Wi-Fi</string>
+  <string name="priv_dialog_finddevice_all_purpose_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia."</string>
+  <string name="priv_dialog_finddevice_all_purpose_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia."</string>
+  <string name="priv_dialog_sync_all_purpose">Witaj w usługach Chmury Xiaomi! Możesz użyć jej do synchronizacji swoich wiadomości, historii połączeń, kontaktów, notatek, danych Przeglądarki, piosenek, zdjęć, filmów, ustawień Wi-Fi, nagrań, układu pulpitu, aplikacji, wydarzeń z kalendarza, elementów z Listy blokowanych oraz Asystenta MIUI pomiędzy wszystkimi podłączonymi urządzeniami.</string>
+  <string name="priv_doc_cloudservice">Witaj w usługach Chmury Xiaomi! Możesz użyć jej do synchronizacji swoich wiadomości, historii połączeń, kontaktów, notatek, danych Przeglądarki, piosenek, zdjęć, filmów, ustawień Wi-Fi, nagrań, układu pulpitu, aplikacji, wydarzeń z kalendarza, elementów z Listy blokowanych oraz Asystenta MIUI pomiędzy wszystkimi podłączonymi urządzeniami. Możesz uzyskać dostęp do zsynchronizowanych danych z poziomu przeglądarki na stronie &lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+
+Do aktywacji tej usługi może być potrzebne wysłanie SMS-a, za którego Twój operator może pobrać opłatę. Kiedy przełączysz karty SIM, w celu reaktywacji usługi może zostać automatycznie wysłana wiadomość.
+
+Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności.
+Aby móc działać normalnie, Chmura Xiaomi wymaga połączenia z Internetem oraz następujących uprawnień:
+&amp;#8226; Kalendarz:
+W celu synchronizacji wydarzeń
+&amp;#8226; Dostęp do SMS-ów:
+W celu synchronizacji wiadomości
+&amp;#8226; Dostęp do MMS-ów:
+W celu synchronizacji wiadomości
+&amp;#8226; Dostęp do kontaktów:
+W celu synchronizacji kontaktów
+&amp;#8226; Edycja kontaktów:
+W celu synchronizacji kontaktów
+&amp;#8226; Pamięć:
+W celu zapisywania elementów na urządzeniu (np. zdjęć, filmów czy piosenek)
+Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z Chmury. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
+Przed użyciem Chmury Xiaomi przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
+"</string>
+  <string name="priv_doc_finddevice_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+
+Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności.
+Aby móc działać normalnie, funkcja Znajdź urządzenie wymaga połączenia z Internetem oraz następujących uprawnień:
+&amp;#8226; Dostęp do informacji o urządzeniu:
+W celu identyfikacji urządzenia
+&amp;#8226; Lokalizacja:
+W celu lokalizacji urządzenia i włączenia trybu zagubionego
+Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
+Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
+"</string>
+  <string name="priv_doc_finddevice_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+
+Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności.
+Aby móc działać normalnie, funkcja Znajdź urządzenie wymaga połączenia z Internetem oraz następujących uprawnień:
+&amp;#8226; Dostęp do informacji o urządzeniu:
+W celu identyfikacji urządzenia
+&amp;#8226; Lokalizacja:
+W celu lokalizacji urządzenia i włączenia trybu zagubionego
+Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
+Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
+"</string>
+  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+
+Do aktywacji tej usługi może być potrzebne wysłanie SMS-a, za którego Twój operator może pobrać opłatę. Kiedy przełączysz karty SIM, w celu reaktywacji usługi może zostać automatycznie wysłana wiadomość.
+
+Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności.
+Aby móc działać normalnie, funkcja Znajdź urządzenie wymaga połączenia z Internetem oraz następujących uprawnień:
+&amp;#8226; Dostęp do informacji o urządzeniu:
+W celu identyfikacji urządzenia
+&amp;#8226; Lokalizacja:
+W celu lokalizacji urządzenia i włączenia trybu zagubionego
+Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
+Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
+"</string>
+  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+
+Do aktywacji tej usługi może być potrzebne wysłanie SMS-a, za którego Twój operator może pobrać opłatę. Kiedy przełączysz karty SIM, w celu reaktywacji usługi może zostać automatycznie wysłana wiadomość.
+
+Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności.
+Aby móc działać normalnie, funkcja Znajdź urządzenie wymaga połączenia z Internetem oraz następujących uprawnień:
+&amp;#8226; Dostęp do informacji o urządzeniu:
+W celu identyfikacji urządzenia
+&amp;#8226; Lokalizacja:
+W celu lokalizacji urządzenia i włączenia trybu zagubionego
+Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
+Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
+"</string>
   <string name="privacy_policy">Polityka Prywatności</string>
   <string name="provision_sync_items_loading">Przygotowanie do synchronizacji</string>
   <string name="reading_status">Ładowanie statusu…</string>

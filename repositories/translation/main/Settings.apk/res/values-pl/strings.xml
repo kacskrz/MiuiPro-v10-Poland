@@ -6450,7 +6450,7 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="weight_setting_toast">Możesz zmienić grubość tylko czcionki systemowej</string>
   <string name="notification_animation_style">Efekty specjalne</string>
   <string name="aod_show_mode_title">Wyświetlaj elementy</string>
-  <string name="aod_style_description">Wyświetlaj zegar, datę, powiadomienia i inne elementy, gdy ekran jest wyłączony</string>
+  <string name="aod_style_description">Dostosuj styl trybu Ekran zawsze włączony</string>
   <string name="aod_style_title">Styl</string>
   <string name="aod_notification_style_animation">Pokaż animację</string>
   <string name="aod_notification_style_none">Nie wybudzaj ekranu</string>
@@ -6465,4 +6465,6 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="wifi_generation_summary">Dodaj numer generacji sieci do ikony Wi-Fi</string>
   <string name="choose_lock_pattern_header_text">Ustaw wzór</string>
   <string name="confirm_lock_pattern_header_text">Narysuj swój wzór</string>
+  <string name="aod_name_wanxiang">Ekran zawsze włączony</string>
+  <string name="speaker_clean">Wyczyść głośnik</string>
 </resources>

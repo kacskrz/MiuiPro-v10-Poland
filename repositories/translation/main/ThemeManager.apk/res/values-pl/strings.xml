@@ -154,7 +154,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="incall_show_remove_dialog_message">"Już ustawiłeś wideo dla połączeń wychodzących. Usunąć je teraz?"</string>
   <string name="incall_show_remove_success">Pomyślnie usunięto</string>
   <string name="incompatible_dialog_cancel">Nie stosuj</string>
-  <string name="incompatible_dialog_message">Ten motyw nie jest w pełni kompatybilny z wersją MIUI zainstalowaną na urządzeniu. Niektóre elementy mogą być wyświetlane niepoprawnie.</string>
+  <string name="incompatible_dialog_message">Ten motyw nie jest jeszcze w pełni kompatybilny z MIUI 11. Niektóre elementy mogą być wyświetlane niepoprawnie.</string>
   <string name="incompatible_dialog_ok">Rozumiem</string>
   <string name="incompatible_dialog_title">Problemy z kompatybilnością</string>
   <string name="is_setting_wallpaper_message">Ustawianie tapety…</string>
@@ -567,7 +567,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="transparency_pref_summary">Wybierz, jak bardzo tapeta ma być przezroczysta</string>
   <string name="transparency_pref_title">Poziom przezroczystości</string>
   <string name="transparent_wallpaper">Przezroczysta tapeta</string>
-  <string name="transparent_wallpaper_apply_success">Pomyślnie zastosowano tapetę. Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie testów.</string>
+  <string name="transparent_wallpaper_apply_success">"Pomyślnie zastosowano tapetę. 
+Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie testów."</string>
   <string name="transparent_wallpaper_disable">Wył.</string>
   <string name="transparent_wallpaper_enable">Wł.</string>
   <string name="transparent_wallpaper_enable_success">Pomyślnie włączono</string>
@@ -825,4 +826,8 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="transparent_wallpaper_auto_start_pref_summary">Ustaw przezroczystą tapetę po restarcie urządzenia</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Autostart</string>
   <string name="title_system_audio_alarm_resource">Alarmy systemowe</string>
+  <string name="current_using">Obecny</string>
+  <string name="recommend_trigger">Spersonalizowane propozycje</string>
+  <string name="recommend_trigger_summary">Włącz, aby otrzymywać propozycje oparte na Twoich preferencjach</string>
+  <string name="update_flag">Aktualizacja</string>
 </resources>

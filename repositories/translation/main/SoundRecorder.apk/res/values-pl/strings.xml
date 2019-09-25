@@ -174,4 +174,5 @@
   <string name="text_play_speed_1_0">Normalne</string>
   <string name="text_play_speed_1_5">Odtwarzanie 1,5x</string>
   <string name="text_play_speed_2_0">Odtwarzanie 2x</string>
+  <string name="usage_description">Transkrypcja audio i synchronizacja elementów z chmurą</string>
 </resources>

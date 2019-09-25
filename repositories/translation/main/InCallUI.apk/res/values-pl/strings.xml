@@ -63,7 +63,7 @@
     <string name="card_title_threeway_call">Trójstronne</string>
     <string name="card_title_answering">Odbieranie połączenia</string>
     <string name="card_title_answering_time_out">Nie udało się odebrać połączenia, spróbuj ponownie.</string>
-    <string name="card_title_call_ended">"Połączenie zakończone "</string>
+    <string name="card_title_call_ended">"Zakończone "</string>
     <string name="card_title_on_hold">"Oczekujące "</string>
     <string name="card_title_hanging_up">"Trwa rozłączanie "</string>
     <string name="card_title_hanging_up_fail">Nie udało się zakończyć połączenia, spróbuj ponownie.</string>

@@ -130,4 +130,16 @@
         <item>Zsynchronizowane elementy</item>
         <item>Pojemność konta</item>
     </string-array>
+    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+        <item>W celu identyfikacji urządzenia</item>
+        <item>W celu lokalizacji urządzenia i włączenia trybu zagubionego</item>
+    </string-array>
+    <string-array name="priv_dialog_sync_runtime_perm_desc">
+        <item>W celu synchronizacji wydarzeń</item>
+        <item>W celu synchronizacji wiadomości</item>
+        <item>W celu synchronizacji wiadomości</item>
+        <item>W celu synchronizacji kontaktów</item>
+        <item>W celu synchronizacji kontaktów</item>
+        <item>W celu zapisywania elementów na urządzeniu (np. zdjęć, filmów czy piosenek)</item>
+    </string-array>
 </resources>
