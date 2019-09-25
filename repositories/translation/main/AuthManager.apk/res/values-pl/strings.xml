@@ -64,7 +64,7 @@
     <string name="HIPS_Perm_use_sip">Usługi wideo</string>
     <string name="HIPS_Perm_use_sip_Desc">używanie SIP do przesyłania wideo</string>
     <string name="HIPS_Perm_process_outgoing_calls">Dostęp do aplikacji Telefonu</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">odbiera, monitoruje i zakańcza połączenie</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">monitoruje połączenie</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">dostęp do NFC</string>
     <string name="HIPS_Perm_install_shortcut">Skróty ekranu głównego</string>
@@ -131,9 +131,21 @@
     <string name="permgroupdesc_contacts">Dostęp do kontaktów</string>
     <string name="permgroupdesc_location">Dostęp do lokalizacji</string>
     <string name="permgroupdesc_microphone">Nagrywanie dźwięku</string>
-    <string name="permgroupdesc_phone">Wykonywanie połączeń i zarządzanie konwersacjami</string>
+    <string name="permgroupdesc_phone">Wykonywanie połączeń i dostęp do informacji o urządzeniu</string>
     <string name="permgroupdesc_recognition">Dostęp do danych o zdrowiu i aktywności</string>
     <string name="permgroupdesc_sensors">Dostęp do czujników ciała</string>
     <string name="permgroupdesc_sms">Odczyt/wysyłanie SMS-ów</string>
-    <string name="permgroupdesc_storage">Dostęp do zdjęć lub plików na urządzeniu</string>
+    <string name="permgroupdesc_storage">Dostęp do zdjęć i plików na urządzeniu</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Dostęp do numeru telefonu oraz IMSI</string>
+    <string name="permdesc_camera">Wykonywanie zdjęć i nagrywanie wideo</string>
+    <string name="permdesc_in_calls">Monitorowanie połączeń przychodzących</string>
+    <string name="permdesc_location">Dostęp do lokalizacji</string>
+    <string name="permdesc_microphone">Nagrywanie rozmów i dźwięku</string>
+    <string name="permdesc_out_calls">Monitorowanie połączeń wychodzących</string>
+    <string name="permdesc_read_calendar">Dostęp do wydarzeń z kalendarza</string>
+    <string name="permdesc_read_storage">Dostęp do zdjęć i plików na urządzeniu</string>
+    <string name="permdesc_recognition">Dostęp do danych o zdrowiu i aktywności</string>
+    <string name="permdesc_sensors">Dostęp do czujników ciała</string>
+    <string name="permdesc_write_calendar">Dostęp i dodawanie wydarzeń do kalendarza</string>
+    <string name="permdesc_write_storage">Odczyt i zapis plików na urządzeniu</string>
 </resources>

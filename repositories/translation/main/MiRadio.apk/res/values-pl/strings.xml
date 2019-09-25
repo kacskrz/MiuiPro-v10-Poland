@@ -90,4 +90,41 @@
   <string name="talkback_scan_channel">Wyszukaj kanały</string>
   <string name="talkback_switch_headset">Podłącz słuchawki</string>
   <string name="talkback_switch_speaker">Użyj głośnika</string>
+  <string name="cross_talk">Stand-up</string>
+  <string name="cta_runtime_perm_desc_account">Dostęp do kont na urządzeniu w celu zalogowania się za pomocą konta Xiaomi</string>
+  <string name="cta_runtime_perm_desc_location">Dostęp do lokalizacji w celu udostępnienia Ci lokalnych stacji radiowych</string>
+  <string name="cta_runtime_perm_desc_phone">Dostęp do informacji o urządzeniu w celu jego identyfikacji</string>
+  <string name="cta_runtime_perm_desc_storage">Dostęp do pamięci w celu odczytu i zapisu okładek albumów i pobranych plików</string>
+  <string name="cta_runtime_perm_desc_storage_single">Access storage in order to access and save cover art and downloaded files</string>
+  <string name="declaration_main_content">"Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami i politykami prywatności.
+Aby móc działać normalnie, ta aplikacja wymaga połączenia z Internetem oraz następujących uprawnień w celu gromadzenia Twoich informacji osobistych:"</string>
+  <string name="declaration_main_content2"><Data>"Jeśli nie zgadzasz się na nadanie tych uprawnień bądź udostępnianie i wysyłanie Twoich informacji, nie będziesz mógł używać tej aplikacji. Możesz wylogować się z tej aplikacji bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie. Przeczytaj i zaakceptuj warunki &lt;font color=#0097ff>&lt;a href=%1$s>Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=#0097ff>&lt;a href=%2$s>Polityki prywatności&lt;/a>&lt;/font> Xiaomi przed użyciem Radia FM."</Data></string>
+  <string name="declaration_main_content2_unloadable"><Data>"Jeśli nie zgadzasz się na nadanie tych uprawnień bądź udostępnianie i wysyłanie Twoich informacji, nie będziesz mógł używać tej aplikacji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie. Przeczytaj i zaakceptuj warunki &lt;font color=#0097ff>&lt;a href=%1$s>Umowy użytkownika&lt;/a>&lt;/font> oraz &lt;font color=#0097ff>&lt;a href=%2$s>Polityki prywatności&lt;/a>&lt;/font> Xiaomi przed użyciem Radia FM."</Data></string>
+  <string name="declaration_main_purpose">Witaj w Radiu FM! Dzięki niemu możesz słuchać audycji lokalnych stacji radiowych oraz stacji nadających online.</string>
+  <string name="declaration_runtime_perm_desc">"Dostęp do informacji o urządzeniu w celu jego identyfikacji
+Dostęp do kont na urządzeniu w celu zalogowania się za pomocą konta Xiaomi
+Dostęp do pamięci w celu odczytu i zapisu okładek albumów i pobranych plików"</string>
+  <string name="emotion">Rozmowy</string>
+  <string name="fm_record_smaple_prefix_miui">Nagrywanie FM</string>
+  <string name="guide_radio">"Posłuchaj lokalnego radia, gdy jesteś offline"</string>
+  <string name="guide_radio_tip">Podłącz słuchawki, aby złapać sygnał</string>
+  <string name="hot_list">Gorące hity</string>
+  <string name="impunity_declaration_negative_text_unloadable">Wyjdź</string>
+  <string name="listen_to_broadcast">Posłuchaj radia</string>
+  <string name="listen_to_cross_talk">Posłuchaj stand-upu</string>
+  <string name="listen_to_emotion">Posłuchaj rozmów</string>
+  <string name="listen_to_history">Posłuchaj programów historycznych</string>
+  <string name="listen_to_hotlist">Posłuchaj gorących hitów</string>
+  <string name="listen_to_music">Posłuchaj muzyki</string>
+  <string name="listen_to_news">Posłuchaj wiadomości</string>
+  <string name="listen_to_novel">Posłuchaj audiobooków</string>
+  <string name="listen_to_storytelling">Posłuchaj opowieści</string>
+  <string name="listen_without_headset">Możesz posłuchać następujących programów bez słuchawek:</string>
+  <string name="music">Muzyka</string>
+  <string name="news">Wiadomości</string>
+  <string name="novel">Audiobooki</string>
+  <string name="please_plug_headset">Podłącz słuchawki</string>
+  <string name="poor_signal_due_to_no_headset">Podłącz słuchawki, aby poprawić sygnał</string>
+  <string name="recommend_list">Polecane</string>
+  <string name="storytelling">Opowieści</string>
 </resources>

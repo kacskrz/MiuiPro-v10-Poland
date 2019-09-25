@@ -31,6 +31,7 @@
     <string name="app_name">Mi Share</string>
     <string name="btn_cancel">Anuluj</string>
     <string name="btn_sure">OK</string>
+    <string name="can_not_transfer_when_screening">"Nie można przesyłać ekranu w trakcie wysyłania"</string>
     <string name="cancel_current">ANULUJ OBECNE</string>
     <string name="cancel_receive">Anuluj</string>
     <string name="cancel_send">Anulowano transfer</string>
@@ -68,6 +69,8 @@
     <string name="functions_are_being_developed">Funkcja będzie dostępna wkrótce. Bądź czujny!</string>
     <string name="hide">Ukryj</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mishare_state_protection">Włącz Mi Share automatycznie</string>
+    <string name="mishare_state_protection_summary">Włącz funkcję Mi Share automatycznie, gdy zostanie włączone Bluetooth bądź Wi-Fi</string>
     <string name="no_longer_prompt">Zablokuj</string>
     <string name="no_longer_receive">"Zablokować to urządzenie? Nie będziesz w stanie otrzymywać z niego plików."</string>
     <string name="operate_too_fast">Za szybko! Poczekaj, aż zakończą się trwające operacje.</string>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Ekran bezprzewodowy</string>
-    <string name="casting_tips">Wyświetlanie...</string>
+    <string name="casting_tips">Wyświetlanie…</string>
     <string name="console_guide_btn_got_it">Rozumiem</string>
-    <string name="console_guide_subtitle_hang_up">"Nie przerywaj wyświetlania, gdy ekran telefonu się wyłączy. Ta funkcja może zwiększyć zużycie energii."</string>
-    <string name="console_guide_subtitle_private">"Nie wyświetlaj pływających powiadomień, powiadomień dot. przychodzących połączeń i innych rzeczy, które mogą zawierać wrażliwe dane"</string>
-    <string name="console_guide_subtitle_small_window">Zminimalizuj wyświetlane okienko, aby móc używać innych funkcji telefonu w trakcie wyświetlania</string>
+    <string name="console_guide_subtitle_hang_up">"Możesz ciągle wyświetlać zawartość ekranu, gdy się on wyłączy. Ta funkcja obniża zużycie energii."</string>
+    <string name="console_guide_subtitle_private">"Nie wyświetlaj pływających powiadomień, powiadomień dot. przychodzących połączeń i innych prywatnych rzeczy na zewnętrznych monitorach"</string>
+    <string name="console_guide_subtitle_small_window">Zminimalizuj wyświetlane okienko, aby móc używać innych funkcji telefonu</string>
     <string name="dialog_can_not_find_device">"Nie udało się znaleźć urządzenia w pobliżu"</string>
     <string name="dialog_cancle">Anuluj</string>
     <string name="dialog_connect_fail">"Nie udało się połączyć"</string>
@@ -28,31 +28,33 @@ Jeśli masz więcej pytań, sprawdź zakładkę Pomoc."</string>
     <string name="dialog_show_help">Pomoc</string>
     <string name="disconnect">Zatrzymaj przesyłanie</string>
     <string name="hang_up">Wyświetlaj na wyłączonym ekranie</string>
-    <string name="hang_up_alert_dialog_content">"Wyświetlanie nie zostanie przerwane, gdy ekran telefonu się wyłaczy. Naciśnij przycisk Zasilania na telefonie, aby go włączyć."</string>
+    <string name="hang_up_alert_dialog_content">"Wyświetlanie nie zostanie przerwane, gdy ekran telefonu się wyłączy. Naciśnij przycisk Zasilania na telefonie, aby włączyć ekran z powrotem."</string>
     <string name="hang_up_alert_dialog_neg">Anuluj</string>
     <string name="hang_up_alert_dialog_pos">Ok</string>
     <string name="hang_up_alert_dialog_title">O przesyłaniu z wyłączonym ekranem</string>
     <string name="help_page_text_01">Pomoc</string>
     <string name="help_page_text_02">Co to jest casting?</string>
-    <string name="help_page_text_03">"Casting to wyświetlanie elementów z ekranu Twojego telefonu na większym, zewnętrznym monitorze. Pozwala to na przykład na pokazywanie zdjęć, wyświetlanie filmów czy granie w gry razem z rodziną, przyjaciółmi czy znajomymi. Zużycie energii przez telefon w normalnych warunkach nie zmieni się."</string>
+    <string name="help_page_text_03">"Casting to wyświetlanie elementów z ekranu Twojego telefonu na większym, zewnętrznym monitorze. Pozwala to na przykład na pokazywanie zdjęć, wyświetlanie filmów bez korzystania z danych mobilnych."</string>
     <string name="help_page_text_04">Jak mogę wyświetlać elementy na większym ekranie?</string>
-    <string name="help_page_text_05">Krok 1</string>
-    <string name="help_page_text_06">"1. Użyj telefonu Xiaomi, aby połączyć się z telewizorem Xiaomi. Możesz ustanowić połączenie tych urządzeń bez konieczności łączenia ich z siecią.
-2. Niektóre telewizory Xiaomi lub innych marek, które nie wspierają takiego wyświetlania, będą wymagały połączenia telefonu i telewizora (monitora) z tą samą siecią Wi-Fi."</string>
+    <string name="help_page_text_05">Krok 1: Sprawdź urządzenia i sieć</string>
+    <string name="help_page_text_06">"1. Nie musisz łączyć się z Internetem, aby połączyć telefon Xiaomi z telewizorem Mi TV.
+2. Jeśli nie możesz nawiązać połączenia pomiędzy urządzeniami, spróbuj podłączyć je do tej samej sieci Wi-Fi."</string>
     <string name="help_page_text_07">3. Jeśli koło Ciebie nie ma żadnej sieci Wi-Fi bądź telewizor lub telefon nie mogą się połączyć z tą samą siecią, musisz włączyć w telewizorze funkcję [Miracast]. Może ona się różnie nazywać w zależności od marki - możesz przejść na dół tej strony, aby dowiedzieć się więcej.</string>
-    <string name="help_page_text_08">Krok 2</string>
+    <string name="help_page_text_08">Krok 2: Włącz przesyłanie ekranu</string>
     <string name="help_page_text_09">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień. Włącz Wi-Fi i Bluetooth, aby zapewnić stabilniejsze połączenie."</string>
     <string name="help_page_text_10">Jeśli chcesz wyświetlać elementy z Galerii bądź Mi Wideo, możesz użyć wbudowanych funkcji przesyłania z tych aplikacji.</string>
-    <string name="help_page_text_11">Krok 3</string>
+    <string name="help_page_text_11">Krok 3: Wybierz urządzenie</string>
     <string name="help_page_text_12">Wybierz urządzenie z listy dostępnych urządzeń, aby zacząć przesyłanie obrazu.</string>
     <string name="help_page_text_13">"Nie możesz się połączyć?"</string>
-    <string name="help_page_text_14">"1. W przypadku Mi TV zaktualizuj aplikację Wyświetlania bezprzewodowego w telewizorze do najnowszej wersji.
-2. Możesz spróbować połączyć swój telefon i telewizor do tej samej sieci, aby zwiększyć stabilność połączenia. Część routerów może nie być w stanie dostarczyć stabilnego połączenia dla ekranu, co może skutkować jego brakiem bądź częstymi przerwaniami. 
-3. Jeśli używasz Mi TV, włączenie Bluetooth może poprawić jakość połączenia."</string>
+    <string name="help_page_text_14">"1. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
+2. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
+3. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli to nie pomoże, Zainstaluj aplikację przesyłania ekranu od LeEco na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
     <string name="help_page_text_15">Funkcja Miracast na różnych urządzeniach</string>
     <string name="help_page_text_16">Mi TV/Projektor Xiaomi</string>
-    <string name="help_page_text_17">"Telefon Xiaomi może połączyć się bezpośrednio z większością telewizorów Xiaomi poprzez Bluetooth zamiast włączania funkcji Miracast ręcznie.
-Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na pilocie, aby wybrać tę funkcję na ekranie TV (Aplikacje > Wyświetlacz bezprzewodowy > Mi / Android Miracast)."</string>
+    <string name="help_page_text_17">"Możesz wyświetlać elementy z telefonu Xiaomi na większości telewizorów Xiaomi poprzez Bluetooth bez włączania ręcznie funkcji Miracast.
+Jeśli musisz włączyć Miracast ręcznie, wciśnij przycisk [MENU] na pilocie i wybierz My apps > Casting > Miracast."</string>
     <string name="help_page_text_17_1">Wsparcie techniczne Xiaomi (tylko Chiny): 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>
     <string name="help_page_text_19">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na części modeli możesz nacisnąć przycisk [SOURCE] na pilocie i wybrać opcję \"Screen Mirroring\". Na części modeli ta funkcja jest włączona domyślnie.</string>
@@ -67,7 +69,7 @@ Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na 
     <string name="help_page_text_28">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz nacisnąć przycisk [MENU] na pilocie i wybrać Settings > Connection > Network > Multiple screens.</string>
     <string name="help_page_text_29">Wsparcie techniczne TPV (tylko Chiny): 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz nacisnąć przycisk [SMART] na pilocie i wybrać Casting > Wireless Display; inne modele - Hi Screen > Game Screening > Android.</string>
+    <string name="help_page_text_31">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz nacisnąć przycisk [SMART] na pilocie i wybrać Casting > Wireless Display; inne modele wspierające przesyłanie ekranu z gier - Hi Screen > Cast games > Android.</string>
     <string name="help_page_text_32">Wsparcie techniczne Hisense (tylko Chiny): 400-611-1111</string>
     <string name="help_page_text_33">Skyworth</string>
     <string name="help_page_text_34">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz wybrać Apps > Casting > Android device > Miracast.</string>
@@ -87,25 +89,36 @@ Jeśli musisz włączyć Miracast ręcznie, możesz kliknać przycisk [Menu] na 
     <string name="help_page_text_48">AODIN</string>
     <string name="help_page_text_49">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Aby włączyć tę funkcję, przejdź do My Apps > WLAN Display.</string>
     <string name="help_page_text_50">Wsparcie techniczne AODIN (tylko Chiny): 400-810-5858</string>
-    <string name="help_page_text_51">LeTV</string>
-    <string name="help_page_text_52">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na niektórych urządzeniach wejdź w Settings > Network > Multi-screen Interactive > Wireless Display.</string>
-    <string name="help_page_text_53">Wsparcie techniczne LeTV (tylko Chiny): 10109000</string>
+    <string name="help_page_text_51">LeEco</string>
+    <string name="help_page_text_52">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na niektórych urządzeniach wejdź w Settings > Network > Multiple screens > Wireless Display.</string>
+    <string name="help_page_text_53">Wsparcie techniczne LeEco (tylko Chiny): 10109000</string>
     <string name="help_page_text_55">"Jeśli w pobliżu nie ma dostępnych żadnych sieci Wi-Fi, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia. Przejdź poniżej, aby dowiedzieć się więcej o funkcji Miracast na różnych urządzeniach.
-4. W razie innych problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację Opinie."</string>
+4. W razie innych problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
     <string name="help_page_text_end">"Jeśli Twoja marka nie jest tu wymieniona, skontaktuj się z producentem, aby dowiedzieć się więcej."</string>
     <string name="notification_rc_desc">Najlepszy asystent do wyświetlania zdjęć, filmów i aplikacji na Mi Boxie (lub TV) - spróbuj teraz!</string>
     <string name="notification_rc_title">Asystent TV od Xiaomi</string>
-    <string name="notification_show_more">Więcej funkcji</string>
-    <string name="private_protect">Ochrona prywatności</string>
+    <string name="notification_show_more">Dotknij, aby zobaczyć więcej funkcji</string>
+    <string name="privacy_agree">Zgoda</string>
+    <string name="privacy_text_1">"　　Witaj w Przesyłaniu ekranu! Pozwala ono na wyświetlanie elementów z ekranu Twojego telefonu na większym, zewnętrznym monitorze. Xiaomi będzie chronić Twoje informacje osobiste w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności. Część funkcji dostarczanych jest przez LeEco. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki "<a href="http://cdn.hpplay.com.cn/xm/lawer.html">Umowy użytkownika LeEco Casting</a> oraz <a href="http://cdn.hpplay.com.cn/xm/privacy.html">Polityki prywatności LeEco Casting</a>.</string>
+    <string name="privacy_text_2">"　　Jeśli nie zgadzasz się na nadanie tych uprawnień bądź udostępnianie i wysyłanie Twoich informacji, nie będziesz mógł używać tej aplikacji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie. Przeczytaj i zaakceptuj "<a href="http://www.miui.com/res/doc/eula/pl.html">Umowy użytkownika</a> i <a href="https://privacy.mi.com/all/pl_PL/">Polityki prywatności</a> Xiaomi przed użyciem tej funkcji.</string>
+    <string name="privacy_text_pemission">"　　• Odczyt i zapis obrazów na urządzeniu w celu wyświetlania ich na zewnętrznym monitorze
+　　• Nagrywanie rozmów i dźwięku w celu odtwarzania dźwięku na zewnętrznym monitorze
+　　• Dostęp do numeru telefonu, IMEI i IMSI w celu identyfikacji urządzenia
+　　• Dostęp do lokalizacji w celu odnajdywania urządzeń w pobliżu"</string>
+    <string name="private_protect">Ukryj prywatne rzeczy</string>
+    <string name="san_wait_msg_1">Urządzenie docelowe musi mieć włączoną funkcję Miracast/Ekran bezprzewodowy</string>
+    <string name="san_wait_msg_2">Wyszukiwanie urządzeń może trochę potrwać…</string>
+    <string name="san_wait_msg_3">"Inne urządzenia są łatwiejsze do odnalezienia, gdy znajdują się w tej samej sieci co Twój smartfon"</string>
+    <string name="san_wait_msg_4">"Jeśli nie możesz odnaleźć urządzeń, zobacz \"Pomoc\""</string>
     <string name="service_name">Ekran bezprzewodowy</string>
     <string name="small_window">Zminimalizuj okno</string>
-    <string name="status_bar_in_casting">Wyświetlanie</string>
-    <string name="status_bar_in_casting_long">Kliknij, aby rozwinąć więcej opcji</string>
+    <string name="status_bar_in_casting">Wyświetlanie…</string>
+    <string name="status_bar_in_casting_long">Kliknij, aby zobaczyć więcej opcji</string>
     <string name="tile_label">Wyświetl bezprzewodowo</string>
     <string name="toast_guide_show_more">Dowiedz się więcej</string>
-    <string name="toast_guide_title">Odkrywaj nowe funkcje</string>
+    <string name="toast_guide_title">Odkrywaj nasze nowe funkcje tutaj</string>
     <string name="toast_msg">Aby wyświetlać ekran w aplikacji, użyj małego okienka.</string>
     <string name="toast_msg_for_multi_window">Ta funkcja jest niedostępna w trybie Podzielonego ekranu</string>
-    <string name="toast_msg_for_small_window">Po otwarciu aplikacji, którą chcesz wyświetlać, użyj funkcji wyświetlania jej w małym okienku. Działanie aplikacji nie zostanie przerwane i będziesz mógł wykonywać inne działania na telefonie.</string>
-    <string name="toast_title_for_small_window">Użyj małego okienka, aby wyświetlać ekran w aplikacji.</string>
+    <string name="toast_msg_for_small_window">Możesz zminimalizować wyświetlane na zewnętrznym monitorze okienko, aby móc używać innych funkcji telefonu bez przerywania przesyłania tego elementu.</string>
+    <string name="toast_title_for_small_window">Wybierz \"Zminimalizuj okno\" w aplikacji</string>
 </resources>

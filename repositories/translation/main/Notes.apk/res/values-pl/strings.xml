@@ -307,4 +307,13 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_user_guide_fw_pop">Dodaj skrót na pulpicie</string>
   <string name="todo_menu_cancel">Anuluj</string>
   <string name="todo_schedule_time_for_picker_hm">H:mm</string>
+  <string name="confirm_cancel">"Nie zgadzam się"</string>
+  <string name="confirm_ok">Zgadzam się</string>
+  <string name="permission_get_account_desc">Synchronizacja notatek z Chmurą</string>
+  <string name="permission_microphone_desc">Tworzenie notatek głosowych</string>
+  <string name="permission_network_for_cloud_desc">Aby synchronizować notatki z Chmurą, musisz mieć połączenie z Internetem. Do tej synchronizacji mogą zostać użyte dane mobilne. Połączyć teraz?</string>
+  <string name="permission_read_contact_desc">Powiązywanie notatek tworzonych w trakcie rozmów z kontaktami</string>
+  <string name="pref_remind_type_summary">Odtwórz dźwięk przypomnienia w trybie Godziny ciszy</string>
+  <string name="pref_remind_type_title">Ignoruj Godziny ciszy</string>
+  <string name="remind_title">Przypomnienia</string>
 </resources>

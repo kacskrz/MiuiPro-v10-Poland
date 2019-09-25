@@ -1397,4 +1397,6 @@
   <string name="search_description">Pasek wyszukiwania</string>
   <string name="pref_personalized_customization">Własne preferencje</string>
   <string name="action_menu_text_add_shortcut">Dodaj skrót</string>
+  <string name="no_memory_space">brak miejsca</string>
+  <string name="wechat_not_installed">Nie zainstalowano aplikacji WeChat</string>
 </resources>

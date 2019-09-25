@@ -90,4 +90,7 @@
   <string name="warning_recording_when_a2dp_connect">To urządzenie nie wspiera nagrywania dźwięków systemu, gdy podłączone są słuchawki Bluetooth.</string>
   <string name="permission_intro_microphone">Nagrywanie dźwięku, gdy źródło dźwięku to mikrofon</string>
   <string name="permission_intro_storage">Zapisywanie nagrań ekranu</string>
+  <string name="permission_microphone_desc">Używanie mikrofonu jako źródło dźwięku w nagraniach ekranu</string>
+  <string name="settings_other">Inne</string>
+  <string name="settings_privacy">Polityka prywatności</string>
 </resources>

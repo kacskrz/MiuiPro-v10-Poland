@@ -78,4 +78,19 @@
         <item quantity="one">Wyślij %d element</item>
         <item quantity="few">Wyślij %d elementy</item>
     </plurals>
+    <plurals name="hours_before">
+        <item quantity="other">%d godzin temu</item>
+        <item quantity="one">%d godzinę temu</item>
+        <item quantity="few">%d godziny temu</item>
+    </plurals>
+    <plurals name="minites_before">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">%d minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+    </plurals>
+    <plurals name="open_comments">
+        <item quantity="other">Zobacz %d komentarzy</item>
+        <item quantity="one">Zobacz %d komentarz</item>
+        <item quantity="few">Zobacz %d komentarze</item>
+    </plurals>
 </resources>

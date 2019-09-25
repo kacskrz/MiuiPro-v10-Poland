@@ -228,7 +228,7 @@
 	<string name="translate_text_compare_save">Zapisz</string>
 	<string name="translate_try_again">Dotknij, aby spróbować ponownie</string>
 	<string name="translate_type_take_pic">Zdjęcie</string>
-    <string name="wifi_exist_fail">Hotspot Wi-Fi \"%1$s\" już istnieje. Usuń go i spróbuj ponownie.</string> 
+    <string name="wifi_exist_fail">Hotspot \"%1$s\" już istnieje. Usuń go i zeskanuj kod ponownie, aby się połączyć.</string> 
     <string name="module_title_plant">Roślina</string>
 	<string name="plant_fail">Nie rozpoznano</string>
 	<string name="plant_loading">Rozpoznawanie…</string>
@@ -263,4 +263,6 @@
   <string name="character_counter_content_description">Limit znaków przekroczył %1$d z %2$d</string>
   <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
   <string name="password_toggle_content_description">Pokaż hasło</string>
+  <string name="close_hotspot_when_connecting_to_wifi">Włączony jest hotspot. Włącz Wi-Fi.</string>
+  <string name="setting_function_sort">Zmień kolejność funkcji</string>
 </resources>

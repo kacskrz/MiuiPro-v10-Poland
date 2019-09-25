@@ -863,4 +863,35 @@ Ta wiadomość może być niechciana."</string>
   <string name="zero_sms_feedback_title">Zgłoś</string>
   <string name="notification_delete">Usuń</string>
   <string name="notification_seen">Oznacz jako przeczytane</string>
+  <string name="mi_message_title">Wiadomości w Chmurze</string>
+  <string name="mms_main_purpose">"Aby uzyskać dostęp do pełnej funkcjonalności aplikacji, zezwól jej na połączenie z Internetem i włącz Wiadomości w Chmurze oraz Inteligentne wiadomości."</string>
+  <string name="mms_title">SMS</string>
+  <string name="mx_main_purpose">"Wiadomości w Chmurze pozwalają Ci wysyłać wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.
+Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą operator może Cię obciążyć dodatkową opłatą."</string>
+  <string name="mx_privacy_policy">Polityka prywatności Wiadomości w Chmurze</string>
+  <string name="perm_purpose_mms_account">Dostęp do informacji o koncie</string>
+  <string name="perm_purpose_mms_storage">Zapisywanie załączników MMS</string>
+  <string name="perm_purpose_rcs_account">"Wyświetlanie samouczka dla początkujących"</string>
+  <string name="perm_purpose_rcs_phone_state">Dostęp do IMEI w celu identyfikacji urządzenia</string>
+  <string name="perm_purpose_rcs_storage">Zapisywanie zdjęć, wideo, plików i innych załączników RCS</string>
+  <string name="rcs_main_purpose">Dzięki tej funkcji możesz wysyłać i otrzymywać wiadomości RCS. Usługa dostarczana jest przez China Mobile.</string>
+  <string name="rcs_message_title">Wiadomości RCS</string>
+  <string name="smart_message_title">Inteligentne wiadomości</string>
+  <string name="smart_msg_main_purpose">Inteligentne wiadomości dostarczają usługi rozpoznawania ID nadawcy oraz inteligentne menu.</string>
+  <string name="smart_msg_privacy_policy">Polityka prywatności Inteligetnych wiadomości</string>
+  <string name="system_permission_declare_agree">Zgadzam się</string>
+  <string name="system_permission_declare_disagree">"Nie zgadzam się"</string>
+  <string name="system_permission_declare_double_link" formatted="false">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s oraz %2s.</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Witaj w %1s! %2s</string>
+  <string name="system_permission_declare_no_say_no">"Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie Twoich danych, ta aplikacja nie będzie działać."</string>
+  <string name="system_permission_declare_privacy_declare">"Respektujemy i chronimy Twoją prywatność.
+Pamiętaj, że %1s musi gromadzić Twoje dane i wymaga do poprawnego działania następujących uprawnień:"</string>
+  <string name="system_permission_declare_revoke_path">Możesz odwołać swoją autoryzację i wyłączyć usługi w ustawieniach aplikacji SMS.</string>
+  <string name="system_permission_declare_single_link">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s.</string>
+  <string name="system_permission_declare_triple_link" formatted="false">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s, %2s oraz %3s.</string>
+  <string name="system_permission_declare_use_network">Łączenie się z siecią</string>
+  <string name="system_permission_perm_answer_call">Wykonywanie połączeń</string>
+  <string name="system_permission_perm_read_mms">Odczyt MMS-ów</string>
+  <string name="system_permission_perm_read_numbers">Odczyt numerów telefonów</string>
+  <string name="system_permission_perm_send_mms">Wysyłanie MMS-ów</string>
 </resources>

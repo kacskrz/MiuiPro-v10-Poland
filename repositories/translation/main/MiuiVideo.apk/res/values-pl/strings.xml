@@ -896,4 +896,32 @@ Możesz poszukać czegoś innego."</string>
     <string name="vp_auto_change_resolution_suggestion">Zasięg sieci jest słaby. Przełącz się na &lt;font color=#0F99FF>%1$s&lt;/font></string>
     <string name="vp_auto_change_resolution_switch">Zasięg sieci jest słaby. Przełączanie na &lt;font color=#0F99FF>%1$s&lt;/font></string>
     <string name="vp_video_player_play_text">Dotknij, aby odtworzyć \"%1$s\"</string>
+    <string name="all_comments">Wszystkie komentarze</string>
+    <string name="close_sub_comments">Ukryj</string>
+    <string name="copy">Kopiuj</string>
+    <string name="delete">Usuń</string>
+    <string name="have_no_more_comments">"Na razie to wszystko"</string>
+    <string name="just_now">Teraz</string>
+    <string name="menu_item_enable_auto_change_resolution">Popraw rozdzielczość automatycznie</string>
+    <string name="new_app_update_button_text">Zaktualizuj teraz</string>
+    <string name="new_app_update_title">Dostępna jest aktualizacja</string>
+    <string name="no_comments">Nie ma tu jeszcze żadnych komentarzy. Możesz napisać swój!</string>
+    <string name="open_more_comments">Więcej komentarzy</string>
+    <string name="plus_gallery_folders_showall">Zobacz wszystko</string>
+    <string name="plus_gallery_folders_showsection">Ukryj</string>
+    <string name="reply">"Odpowiedź na %s: "</string>
+    <string name="send_comment_default_txt">Wprowadź komentarz</string>
+    <string name="small_video_app_continue_download">Wznów</string>
+    <string name="small_video_app_installing">Instalacja…</string>
+    <string name="small_video_app_open">Otwórz</string>
+    <string name="small_video_app_play">Spróbuj</string>
+    <string name="small_video_not_support_comment">"Nie można dodać komentarzy do tej reklamy"</string>
+    <string name="small_video_not_support_share">"Nie można udostępnić tej reklamy"</string>
+    <string name="small_video_view_ad">Więcej</string>
+    <string name="t_check_send_file_only_one">Możesz wysłać tylko jeden element na raz. Spróbuj ponownie</string>
+    <string name="v_livetv_program_disable_msg">"Nie udało się odnaleźć tego programu. Zobacz nasze rekomendacje."</string>
+    <string name="vp_speed">Odtwarzanie z prędkością 2x…</string>
+    <string name="vp_speed_guidance">Przytrzymaj ekran, aby zmienić prędkość odtwarzania</string>
+    <string name="vp_speed_toast">Odtwarzanie z prędkością 2x</string>
+    <string name="vp_video_wonderful_content">Dotknij, aby odtworzyć</string>
 </resources>

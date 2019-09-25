@@ -93,7 +93,7 @@
   <string name="auto_restart_under_wifi">Plik zostanie pobrany, gdy twoje urządzenia połączy się przez Wi-Fi</string>
   <string name="auto_upgrade">Aktualizuj automatycznie</string>
   <string name="avail_services">Available services</string>
-  <string name="available_playlist_name_format">Nowa playlista %d</string>
+  <string name="available_playlist_name_format">Playlista %d</string>
   <string name="avoid_to_use_traffic_summary">Słuchaj pobieraną muzykę tylko z Wi-Fi</string>
   <string name="avoid_to_use_traffic_title">Powiadom o korzystaniu z danych mobilnych do odtwarzania utworów</string>
   <string name="back_confirm">Naciśnij ponownie by grać w tle</string>
@@ -456,7 +456,7 @@
   <string name="karaoke_title">Wprowadzenie do Karaoke</string>
   <string name="keep_queued_download">Zachowaj</string>
   <string name="ktv_playlist">KTV playlist</string>
-  <string name="latest_song">Historia odtwarzania (%d)</string>
+  <string name="latest_song"><Data>Historia odtwarzania &lt;font color=#7e7e7e>(%1$d)&lt;/font></Data></string>
   <string name="like">Like</string>
   <string name="like_comment_failed">Nie udało się polubić komentarza</string>
   <string name="like_comment_success">Lubisz to</string>
@@ -1306,4 +1306,20 @@ Be Happy"</string>
   <string name="music_quality_standard">Standardowa</string>
   <string name="music_quality_ultra_high">Wysoka</string>
   <string name="select_uhd_quality">Włączono wysoką jakość VIP</string>
+  <string name="cloud_empty_summary">Synchronizuj piosenki z Chmurą, aby mieć do nich dostęp z innych urządzeń</string>
+  <string name="cloud_welcome_summary">Synchronizuj piosenki z Chmurą i słuchaj ich na innych urządzeniach</string>
+  <string name="cta_runtime_perm_desc_account">Dostęp do kont na urządzeniu w celu zalogowania się na konto Xiaomi</string>
+  <string name="cta_runtime_perm_desc_audio">Rozpoznawanie piosenek za pomocą mikrofonu</string>
+  <string name="cta_runtime_perm_desc_location">Dostęp do lokalnych stacji radiowych</string>
+  <string name="cta_runtime_perm_desc_phone">Dostęp do informacji o urządzeniu w celu jego identyfikacji</string>
+  <string name="cta_runtime_perm_desc_storage">Dostęp do pamięci w celu zapisu i odczytu piosenek, okładek albumu i tekstów piosenek</string>
+  <string name="cta_runtime_perm_desc_storage_single">Dostęp do pamięci w celu zapisu i odczytu piosenek, okładek albumu i tekstów piosenek</string>
+  <string name="declaration_main_content">"Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami i politykami prywatności.
+Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</string>
+  <string name="declaration_main_content2"><Data>"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na gromadzenie swoich danych, aplikacja nie będzie działać. Możesz odinstalować tą aplikację, wylogować się z niej bądź odwołać autoryzację dla niej w Ustawieniach w każdym momencie. Przed użyciem tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href=\"http://www.miui.com/res/doc/eula.html\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\">Polityki prywatności&lt;/a> Xiaomi."</Data></string>
+  <string name="declaration_main_purpose">Witaj w Mi Muzyce! Możesz odtwarzać tu muzykę z swojego urządzenia.</string>
+  <string name="sync_only_in_wifi_summary">Synchronizuj swoją muzykę pomiędzy wszystkimi urządzeniami z Chmurą Xiaomi. Używanie danych mobilnych do synchronizacji zwiększy ich użycie - operator może pobrać opłatę.</string>
+  <string name="headline_content_issue_feedback">Opinia na temat treści</string>
+  <string name="sleep_mode_seek_bar_end">120 minut</string>
+  <string name="sleep_mode_seek_bar_start">Minuta</string>
 </resources>

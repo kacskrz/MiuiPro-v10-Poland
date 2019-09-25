@@ -1252,4 +1252,8 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
 	<string name="shortcut_scan_label">Zeskanuj wizytówkę</string>
     <string name="scan_not_installed">Zainstaluj aplikację Skaner</string>
     <string name="contact_detail_more_calllog">Więcej</string>
+  <string name="callrecordview_menu_identify_numbers">Rozpoznaj numery telefonów</string>
+  <string name="contact_detail_calllog_correct_yellow_page">Popraw lub zgłoś</string>
+  <string name="yellowpage_address_tag">Adres</string>
+  <string name="yellowpage_provider_label">Dane dostarczane przez</string>
 </resources>
