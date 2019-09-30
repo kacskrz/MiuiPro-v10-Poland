@@ -316,4 +316,6 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="pref_remind_type_summary">Odtwórz dźwięk przypomnienia w trybie Godziny ciszy</string>
   <string name="pref_remind_type_title">Ignoruj Godziny ciszy</string>
   <string name="remind_title">Przypomnienia</string>
+  <string name="todo_menu_add_audio_description">Dodaj zadanie głosowe</string>
+  <string name="todo_menu_add_description">Dodaj zadanie</string>
 </resources>
