@@ -205,4 +205,6 @@
   <string name="set_text_lines_title">Nazwy aplikacji pod ikonami</string>
   <string name="set_font_type_title">Zdezaktywuj czcionkę MiLanPro</string>
   <string name="vibrate_skip_title">Wibracja przy zmianie utworu</string>
+  <string name="miuipro_anim_title">Wyłącz animację ikon</string>
+  <string name="miuipro_anim_summary">Wyłącza animację ikon pulpitu po odblokowaniu ekranu</string>
 </resources>
