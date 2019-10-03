@@ -318,4 +318,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="remind_title">Przypomnienia</string>
   <string name="todo_menu_add_audio_description">Dodaj zadanie głosowe</string>
   <string name="todo_menu_add_description">Dodaj zadanie</string>
+  <string name="todo_schedule_time_md">dd.MM.</string>
+  <string name="todo_schedule_time_mdhm">dd.MM. HH:mm</string>
+  <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
 </resources>
