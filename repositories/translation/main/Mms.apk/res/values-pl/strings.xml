@@ -594,9 +594,9 @@
   <string name="sms_report_dialog_title">Spróbuj ponownie</string>
   <string name="sms_report_failed">Nie można wysłać raportu</string>
   <string name="sms_report_success">Pomyślnie wysłano raport</string>
-  <string name="snippet_audio">[Audio]</string>
-  <string name="snippet_picture">[Image]</string>
-  <string name="snippet_timed">[Timed]</string>
+  <string name="snippet_audio">[Dźwięk]</string>
+  <string name="snippet_picture">[Obraz]</string>
+  <string name="snippet_timed">[Zaplanowano]</string>
   <string name="sp_category_all">Wszystkie wiadomości serwisowe</string>
   <string name="sp_category_bank">Bank powiadomień wiadomości</string>
   <string name="sp_category_title_prefix">%s</string>

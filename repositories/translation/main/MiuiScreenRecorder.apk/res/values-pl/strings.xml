@@ -11,7 +11,7 @@
     <string name="button_back">Wstecz</string>
     <string name="button_clear_storage">Zwolnij miejsce</string>
     <string name="button_confirm">OK</string>
-    <string name="button_goon_recorder">Wznów</string>
+    <string name="button_goon_recorder">Ignoruj</string>
     <string name="cancel_edit">Anuluj</string>
     <string name="cannot_change_parames">Nie udało się zmienić parametrów w czasie nagrywania</string>
     <string name="cannot_record">Nie udało się nagrać, spróbuj ponownie później.</string>

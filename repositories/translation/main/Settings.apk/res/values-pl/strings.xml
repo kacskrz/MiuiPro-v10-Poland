@@ -6444,7 +6444,7 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="system_haptic_feedback">Reakcje haptyczne</string>
   <string name="calendar_remind">Wydarzenia</string>
   <string name="notification_remind">Powiadomienia</string>
-  <string name="title_layout_current2_weight">Rozmiar tekstu i grubość czcionki</string>
+  <string name="title_layout_current2_weight">Rozmiar i grubość czcionki</string>
   <string name="weight_heavy">Gruba</string>
   <string name="weight_light">Cienka</string>
   <string name="weight_setting_toast">Możesz zmienić grubość tylko czcionki systemowej</string>
