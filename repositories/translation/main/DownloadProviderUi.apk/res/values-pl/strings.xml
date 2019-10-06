@@ -65,7 +65,7 @@
   <string name="dialog_content_limit0">Ogranicz pobieranie</string>
   <string name="dialog_failed_body">Czy chcesz ponowić pobieranie pliku później czy usunąć z kolejki?</string>
   <string name="dialog_file_already_exists">Ten plik już istnieje.</string>
-  <string name="dialog_file_missing_body">Nie udało się znaleźć pliku, wygląda na to, że został usunięty.</string>
+  <string name="dialog_file_missing_body">Nie udało się znaleźć pliku - wygląda na to, że został on usunięty.</string>
   <string name="dialog_file_missing_title">Nie można otworzyć pliku</string>
   <string name="dialog_insufficient_space_on_cache">Nie można ukończyć pobierania. Brak miejsca w pamięci telefonu.</string>
   <string name="dialog_insufficient_space_on_external">Nie można ukończyć pobierania. Brak miejsca na nośniku zewnętrznym.</string>

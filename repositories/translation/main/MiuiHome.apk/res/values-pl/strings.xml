@@ -401,4 +401,16 @@
   <string name="all_apps_slide_up_tips">Przesunięcie w górę jest zarezerwowane dla wywołania szuflady aplikacji. Przełącz układ pulpitu na Standardowy i spróbuj ponownie.</string>
   <string name="all_apps_suggestions">Sugestie aplikacji</string>
   <string name="recent_apps">Ostatnie aplikacje</string>
+  <string name="additional_settings">Dodatkowe ustawienia</string>
+  <string name="drawer_background">Tło</string>
+  <string name="drawer_background_dark">Ciemne</string>
+  <string name="drawer_background_light">Jasne</string>
+  <string name="drawer_background_transparency">Przezroczystość tła szuflady aplikacji</string>
+  <string name="drawer_settings">Szuflada aplikacji</string>
+  <string name="home_screen_settings">Pulpit</string>
+  <string name="local_apps">Lokalne aplikacje</string>
+  <string name="recommend_app">Sugestie aplikacji</string>
+  <string name="search_in_apps_store">Wyszukaj \"%1$s\" w %2$s</string>
+  <string name="search_no_result">"Nie znaleziono rezultatów"</string>
+  <string name="show_most_popular_apps_you_used">Wyświetl najczęściej używane aplikacje w szufladzie</string>
 </resources>
