@@ -218,4 +218,5 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
     <string name="service_privacy_index">Polityka prywatności</string>
     <string name="servicestate_title">Podstawowe usługi</string>
     <string name="user_agreement_declare">Przed użyciem MIUI musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Systemowy Launcher, Częste zwroty, Usługa tłumaczenia oraz MIUI Daemon połączą się z siecią.</string>
+  <string name="ai_button_desc">Przycisk SI pozwala Ci wywołać Asystenta Google.</string>
 </resources>

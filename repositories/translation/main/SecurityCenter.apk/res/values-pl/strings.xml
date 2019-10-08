@@ -2767,4 +2767,9 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="permgroupdesc_sms">Odczyt lub wysłanie SMS-a</string>
   <string name="permgroupdesc_storage">Dostęp do zdjęć lub plików na urządzeniu</string>
   <string name="superpower_notification_new_title">Pozostało mniej niż %d%% baterii</string>
+  <string name="power_center_5g_save_close_detail">Oszczędzanie baterii 5G wydłuża czas pracy na baterii bez wpływu na łączność 5G. Wyłączyć mimo to?</string>
+  <string name="power_center_5g_save_close_later">"Nie wyłączaj"</string>
+  <string name="power_center_5g_save_close_title">Wyłączanie oszczędzania baterii 5G</string>
+  <string name="power_center_5g_save_summary_text">Łączność 5G będzie używała mniej energii w różnych sytuacjach</string>
+  <string name="power_center_5g_save_title_text">Oszczędzanie baterii 5G</string>
 </resources>

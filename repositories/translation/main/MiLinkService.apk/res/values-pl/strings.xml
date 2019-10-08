@@ -50,7 +50,12 @@ Jeśli masz więcej pytań, sprawdź zakładkę Pomoc."</string>
 Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
 2. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
 3. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
-Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli to nie pomoże, Zainstaluj aplikację przesyłania ekranu od LeEco na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
+Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli to nie pomoże, zainstaluj aplikację przesyłania ekranu od LeEco na swoim telewizorze i postępuj zgodnie z instrukcjami."</string>
+    <string name="help_page_text_14_global">"1. Jeśli chcesz użyć urządzenia Xiaomi, ale nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu. Jeśli nie ma dostępnych żadnych sieci Wi-Fi w pobliżu bądź nie możesz połączyć obydwu urządzeń z tą samą siecią, sprawdź, czy funkcje wyświetlania bezprzewodowego na zewnętrznym monitorze są aktualne, włącz Bluetooth na obydwóch urządzeniach i włącz funkcję Miracast na swoim telewizorze.
+2. Jeśli przesyłasz ekran z urządzenia Xiaomi pierwszy raz, musisz przejść weryfikację.
+3. Jeśli używasz innego urządzenia niż Xiaomi i nie możesz go odnaleźć na liście dostępnych urządzeń, sprawdź następujące rozwiązania:
+Połącz swój smartfon i zewnętrzny monitor (np. telewizor) z tą samą siecią Wi-Fi bądź połącz zewnętrzny monitor z hotspotem z Twojego telefonu."</string>
     <string name="help_page_text_15">Funkcja Miracast na różnych urządzeniach</string>
     <string name="help_page_text_16">Mi TV/Projektor Xiaomi</string>
     <string name="help_page_text_17">"Możesz wyświetlać elementy z telefonu Xiaomi na większości telewizorów Xiaomi poprzez Bluetooth bez włączania ręcznie funkcji Miracast.
@@ -93,7 +98,9 @@ Jeśli musisz włączyć Miracast ręcznie, wciśnij przycisk [MENU] na pilocie 
     <string name="help_page_text_52">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. Na niektórych urządzeniach wejdź w Settings > Network > Multiple screens > Wireless Display.</string>
     <string name="help_page_text_53">Wsparcie techniczne LeEco (tylko Chiny): 10109000</string>
     <string name="help_page_text_55">"Jeśli w pobliżu nie ma dostępnych żadnych sieci Wi-Fi, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia. Przejdź poniżej, aby dowiedzieć się więcej o funkcji Miracast na różnych urządzeniach.
-4. W razie innych problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
+4. W razie jakichkolwiek problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
+    <string name="help_page_text_55_global">"Jeśli nie możesz połączyć się z siecią, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia.
+4. W razie jakichkolwiek problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
     <string name="help_page_text_end">"Jeśli Twoja marka nie jest tu wymieniona, skontaktuj się z producentem, aby dowiedzieć się więcej."</string>
     <string name="notification_rc_desc">Najlepszy asystent do wyświetlania zdjęć, filmów i aplikacji na Mi Boxie (lub TV) - spróbuj teraz!</string>
     <string name="notification_rc_title">Asystent TV od Xiaomi</string>

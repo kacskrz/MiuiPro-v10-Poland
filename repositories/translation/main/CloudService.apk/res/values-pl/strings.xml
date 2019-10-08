@@ -777,4 +777,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="storage_manage_list_title_action">Zobacz więcej</string>
   <string name="cloud_storage_info_type_pdc">Ustawienia systemu</string>
   <string name="storage_manage_title">Zmień plan Chmury</string>
+  <string name="cloud_storage_already_full">Przestrzeń Chmury jest pełna: %1$s/%2$s</string>
+  <string name="cloud_storage_default_title">Przestrzeń Chmury</string>
+  <string name="cloud_storage_loading_data">Chwileczkę…</string>
 </resources>

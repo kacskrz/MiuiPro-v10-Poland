@@ -1872,4 +1872,5 @@ Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkol
   <string name="wifi_call_help_message">Domyślnie, jeśli zostało ustawione preferowanie sieci komórkowych, będą one wykorzystywane do połączeń głosowych. W miejscach, gdzie nie ma zasięgu sieci komórkowej bądź jest on słaby, zostanie użyta sieć Wi-Fi.</string>
   <string name="wifi_call_help_title">Pomoc dot. Wi-Fi Calling</string>
   <string name="wifi_call_notification_message">Usługa jest dostarczana przez Orange. Zanim zostanie ona aktywowana, może potrwać nawet kilka godzin. Otrzymasz SMS-a potwierdzającego, gdy usługa stanie się dostępna.</string>
+  <string name="fiveg_power_secret_code_tip">Wykonaj to działanie poprzez Panel sterowania > Bateria > Oszczędzanie baterii 5G</string>
 </resources>

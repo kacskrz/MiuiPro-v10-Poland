@@ -69,4 +69,5 @@
     <string name="notify_fast_connect_device_text">Odblokuj ekran, a następnie spróbuj się połączyć</string>
     <string name="notify_fast_connect_device_title">Znaleziono zestaw: %1$s</string>
 	<string name="fast_connect_headset_reset">Kliknij i przytrzymaj przycisk zestawu przez %1$d s</string>
+    <string name="fast_connect_device_headset">Bateria</string>
 </resources>
