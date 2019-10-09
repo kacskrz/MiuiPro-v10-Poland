@@ -207,4 +207,6 @@
   <string name="vibrate_skip_title">Wibracja przy zmianie utworu</string>
   <string name="miuipro_anim_title">Wyłącz animację ikon</string>
   <string name="miuipro_anim_summary">Wyłącza animację ikon pulpitu po odblokowaniu ekranu</string>
+  <string name="show_powermenu_title">Wyłącz menu restartu</string>
+  <string name="show_powermenu_summary">Wyłącza możliwość wywołania menu restartu na zablokowanym ekranie</string>
 </resources>

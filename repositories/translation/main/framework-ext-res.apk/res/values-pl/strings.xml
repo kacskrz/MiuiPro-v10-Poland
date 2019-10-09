@@ -216,7 +216,7 @@
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
   <string name="voice_assistant_tips">Zaktualizowano system o możliwość przytrzymania przycisku Zasilania w celu uruchomienia Asystenta</string>
   <string name="popup_camera_front_when_use">Aplikacja Aparatu musi otworzyć przedni aparat jeszcze raz. Zrobić to teraz?</string>
-  <string name="frequent_email">Częste e-maile</string>
+  <string name="frequent_email">Często używane e-maile</string>
   <string name="user_switching_dialog_switch_into_kid_space">Włączanie Przestrzeni dla dziecka…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Opuszczanie Przestrzeni dla dziecka…</string>
   <string name="popup_camera_cancel_popup">Anuluj</string>
