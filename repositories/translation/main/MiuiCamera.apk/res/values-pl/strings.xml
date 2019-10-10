@@ -872,7 +872,6 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
   <string name="eye_light_window">Okno</string>
   <string name="hint_eye_light">Oświetlenie oczu działa najlepiej z włączoną lampą błyskową</string>
   <string name="makeup_reset_toast">Usunięto efekty makijażu</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">Wypróbuj tryb bardzo szerokiego kąta (0.6X)</string>
   <string name="lying_direct_hint">Obecna orientacja</string>
   <string name="calibration_guide_tittle">Nieskalibrowany aparat</string>
   <string name="calibration_hint_usage">Nieskalibrowany aparat wpłynie negatywnie na jakość zdjęć. Skontaktuj się z obsługą posprzedażową.</string>
@@ -908,7 +907,6 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
 były bardziej widoczne na zdjęciach"</string>
   <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Miękkie światło</string>
-  <string name="recommend_soft_light_tip">Użyj flesza w trybie miękkiego światła</string>
   <string name="accessibility_mimovie_off">Tryb filmowy jest wyłączony</string>
   <string name="accessibility_mimovie_on">Tryb filmowy jest włączony</string>
   <string name="color_effect_entry_classic">Klasycznie</string>
@@ -943,7 +941,7 @@ były bardziej widoczne na zdjęciach"</string>
   <string name="ultra_tele_use_hint_text_body">"Użyj 50-krotnego zoomu, aby uchwycić dalekie obiekty
 bardziej szczegółowo"</string>
   <string name="ultra_tele_use_hint_text_title">50-krotny zoom</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">Przełącz na tryb ultraszeroki 0.6X</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Przełącz na tryb ultraszeroki (0.6X)</string>
   <string name="vv_hint">Możesz nagrywać vlogi tylko poziomo</string>
   <string name="vv_stability_hint">Trzymaj urządzenie stabilnie</string>
   <string name="vv_start">Zrób vlog</string>
