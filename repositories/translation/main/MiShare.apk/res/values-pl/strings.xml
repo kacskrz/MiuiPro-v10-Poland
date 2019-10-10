@@ -68,6 +68,7 @@
     <string name="file_transfer_progress">Postęp: %1$d%%</string>
     <string name="functions_are_being_developed">Funkcja będzie dostępna wkrótce. Bądź czujny!</string>
     <string name="hide">Ukryj</string>
+    <string name="location_enabled">Włączono usługi lokalizacji w celu odnalezienia urządzeń w pobliżu</string>
     <string name="mi_drop">Mi Share</string>
     <string name="mishare_state_protection">Włącz Mi Share automatycznie</string>
     <string name="mishare_state_protection_summary">Włącz funkcję Mi Share automatycznie, gdy zostanie włączone Bluetooth bądź Wi-Fi</string>

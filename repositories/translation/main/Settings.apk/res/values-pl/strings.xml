@@ -6308,7 +6308,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="miui_lab_home_feed_title">Centrum multimediów</string>
   <string name="miui_lab_home_feed_desc">Ciekawe pomysły, fascynujące historie</string>
   <string name="popup_gesture_title">Podnieś, aby otworzyć aparat</string>
-  <string name="popup_gesture_summary">Trzymaj telefon przed sobą i szybko unieś go o 20 cm, aby otworzyć przedni aparat</string>
+  <string name="popup_gesture_summary">Wróć do pulpitu, podnieś telefon i spójrz na ekran, aby otworzyć przedni aparat</string>
   <string name="miui_lab_3d_gesture_title">Wzory 3D</string>
   <string name="miui_lab_3d_gesture_slogan">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
   <string name="miui_lab_3d_gesture_summary">Narysuj wzór w powietrzu za pomocą telefonu, aby otworzyć aplikację</string>
@@ -6467,4 +6467,7 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="confirm_lock_pattern_header_text">Narysuj swój wzór</string>
   <string name="aod_name_wanxiang">Ekran zawsze włączony</string>
   <string name="speaker_clean">Wyczyść głośnik</string>
+  <string name="screen_fps_summary">Wyższa częstotliwość odświeżania spowoduje płynniejsze działanie interfejsu, ale skróci czas pracy na baterii</string>
+  <string name="screen_fps_title">Częstotliwość odświeżania</string>
+  <string name="screen_fps_unit">%d Hz</string>
 </resources>

@@ -1124,4 +1124,6 @@
   <string name="timeline_headline">W skrócie</string>
   <string name="preference_privacy_settings">Ustawienia dot. prywatności</string>
   <string name="announce_for_drag">Przeciąganie elementu</string>
+  <string name="migu_game">Minigry</string>
+  <string name="migu_video">Wideo</string>
 </resources>
