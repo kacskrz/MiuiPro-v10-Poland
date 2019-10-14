@@ -136,7 +136,7 @@
     <string name="permgroupdesc_sensors">Dostęp do czujników ciała</string>
     <string name="permgroupdesc_sms">Odczyt/wysyłanie SMS-ów</string>
     <string name="permgroupdesc_storage">Dostęp do zdjęć i plików na urządzeniu</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Dostęp do numeru telefonu oraz IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Dostęp do numeru telefonu oraz stanu urządzenia</string>
     <string name="permdesc_camera">Wykonywanie zdjęć i nagrywanie wideo</string>
     <string name="permdesc_in_calls">Monitorowanie połączeń przychodzących</string>
     <string name="permdesc_location">Dostęp do lokalizacji</string>

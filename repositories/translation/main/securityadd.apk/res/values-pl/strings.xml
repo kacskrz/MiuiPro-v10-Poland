@@ -62,7 +62,7 @@
   <string name="superpower_progress_battery_last">Pozostało %s</string>
   <string name="superpower_progress_left_time">%1$d godz. %2$d min</string>
   <string name="superpower_search_hint">Wyszukaj aplikacje</string>
-  <string name="superpower_select_app_title">Układ pulpitu</string>
+  <string name="superpower_select_app_title">Często używane aplikacje</string>
   <string name="superpower_settings">Ultraoszczędzanie baterii</string>
   <string name="superpower_system">Rekomendowane</string>
   <string name="superpower_third">Aplikacje firm trzecich</string>
@@ -73,4 +73,13 @@
   <string name="gdpr_message"><Data>"Aby móc korzystać z podstawowych funkcji Panelu sterowania musisz zgodzić się na to, że Xiaomi będzie gromadzić, przetwarzać i używać Twoje osobiste dane, włącznie z tym, jak korzystasz z funkcji Panelu (np. statystyki zużycia danych komórkowych, informacje o wirusach czy o twoim urządzeniu), oraz inne typy informacji określone w &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Polityce prywatności&lt;/a> Xiaomi."</Data></string>
   <string name="superpower_exit_hint">Wyłączanie Ultraoszczędzania baterii…</string>
   <string name="cta_main_purpose">Witaj w Game Turbo!</string>
+  <string name="superpower_app_contact">Kontakty</string>
+  <string name="superpower_app_delete">Usuń</string>
+  <string name="superpower_app_edit">Edytuj</string>
+  <string name="superpower_app_exit">Wyjdź</string>
+  <string name="superpower_app_isadded">Dodano</string>
+  <string name="superpower_app_mms">SMS</string>
+  <string name="superpower_app_phone">Telefon</string>
+  <string name="superpower_settings_launcher">Ultraoszczędzanie baterii</string>
+  <string name="superpower_toast_app_select_full">Możesz dodać do często używanych aplikacji maks. 6 elementów</string>
 </resources>

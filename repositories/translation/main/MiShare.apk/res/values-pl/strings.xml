@@ -70,6 +70,9 @@
     <string name="hide">Ukryj</string>
     <string name="location_enabled">Włączono usługi lokalizacji w celu odnalezienia urządzeń w pobliżu</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mishare_settings_summary_international">"Możesz używać Mi Share do przesyłania elementów do urządzeń w pobliżu.
+W tym momencie aplikacja jest kompatybilna jedynie z telefonami Xiaomi oraz Redmi.
+Wkrótce z Mi Share będą kompatybilne urządzenia marek: OPPO, vivo, realme i innych. Możesz sprawdzić listę kompatybilnych urządzeń na stronie narzędzia."</string>
     <string name="mishare_state_protection">Włącz Mi Share automatycznie</string>
     <string name="mishare_state_protection_summary">Włącz funkcję Mi Share automatycznie, gdy zostanie włączone Bluetooth bądź Wi-Fi</string>
     <string name="no_longer_prompt">Zablokuj</string>
@@ -106,9 +109,10 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="throwing_screen">Prześlij ekran</string>
     <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
     <string name="transfer_intercept_to_remote">"Nie udało się wysłać: %1$s"</string>
-    <string name="transfer_to_pc_summary">Możesz użyć Mi Share do bezpośredniego wysyłania plików do laptopów Xiaomi. Na innych laptopach musisz najpierw zainstalować aplikację Mi Share.</string>
+    <string name="transfer_to_pc_summary">"Możesz użyć Mi Share do bezpośredniego wysyłania plików z swojego telefonu do laptopów Xiaomi bądź z jednego laptopa na drugi.
+Możesz sprawdzić listę kompatybilnych urządzeń na stronie narzędzia. Jeśli Twój laptop jest na liście, ale nie jest na nim zainstalowana aplikacja Mi Share, zaktualizuj BIOS laptopa oraz sterownik karty sieciowej i pobierz Mi Share."</string>
     <string name="transfer_to_pc_title">Wysyłaj pliki do komputerów</string>
-    <string name="transfer_to_phone_summary">Mi Share pozwala ci na wysyłanie obrazów i plików do innych telefonów Xiaomi w pobliżu oraz innych kompatybilnych urządzeń z Androidem.</string>
+    <string name="transfer_to_phone_summary">Mi Share pozwala ci na wysyłanie obrazów i plików do innych telefonów Xiaomi w pobliżu oraz innych kompatybilnych urządzeń.</string>
     <string name="transfer_to_phone_title">Wysyłaj pliki do innych telefonów</string>
     <string name="unkonw_device">Nieznane urządzenie</string>
     <string name="unrecognized_manufacture">Nieznany</string>

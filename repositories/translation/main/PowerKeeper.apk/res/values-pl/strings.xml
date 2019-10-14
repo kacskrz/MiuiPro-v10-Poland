@@ -112,6 +112,6 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
 	<string name="atrace_start">Wykonywanie logu ATrace…</string>
     <string name="adaptive_battery_summary">Ustal limity korzystania z baterii dla rzadko uruchamianych aplikacji</string>
     <string name="adaptive_battery_title">Adaptacyjna bateria</string>
-    <string name="permstep_description">"Zezwól aplikacji na odczyt informacji o przebytych krokach z telefonu"</string>
-    <string name="permstep_label">Odczyt kroków</string>
+    <string name="permstep_description">"Zezwól tej aplikacji na dostęp do licznika kroków"</string>
+    <string name="permstep_label">Dostęp do licznika kroków</string>
 </resources>

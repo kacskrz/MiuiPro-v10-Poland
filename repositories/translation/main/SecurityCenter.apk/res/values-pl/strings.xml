@@ -537,7 +537,7 @@
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgoda</string>
   <string name="cta_dialog_title">Połączenie z Internetem</string>
-  <string name="cta_settings">Zezwól na łączność z siecią</string>
+  <string name="cta_settings">Zezwól na łączność z siecią i dostęp do informacji o lokalizacji</string>
   <string name="current_network_state_not_need_diagnose">Sieć działa poprawnie</string>
   <string name="customize_limit_pkg">%s (własne)</string>
   <string name="customizer_mode_user_define_name">Własne</string>
@@ -1174,7 +1174,7 @@
   <string name="mixed_password_confirmed_header_continue">Pomyślnie ustawiono. Dotknij \"Dalej\".</string>
   <string name="mixed_pattern_entered_header">Pomyślnie ustawiono hasło</string>
   <string name="mixed_recording_incorrect_too_short">Wprowadź co najmniej %d znak.</string>
-  <string name="mixed_recording_intro_header">Wprowadź co najmniej 4 znaki</string>
+  <string name="mixed_recording_intro_header">Wprowadź od %1$s do %2$s znaków</string>
   <string name="mixed_retry_button_text">Anuluj</string>
   <string name="mixed_settings_help_how_to_record">Jak ustawić hasło</string>
   <string name="modify_password_mode">&lt;u&gt;Zmień typ hasła&lt;/u&gt;</string>
@@ -2772,4 +2772,8 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="power_center_5g_save_close_title">Wyłączanie oszczędzania baterii 5G</string>
   <string name="power_center_5g_save_summary_text">Łączność 5G będzie używała mniej energii w różnych sytuacjach</string>
   <string name="power_center_5g_save_title_text">Oszczędzanie baterii 5G</string>
+  <string name="cta_close_dialog_cancel">Anuluj</string>
+  <string name="cta_close_dialog_content">"Jeśli ograniczysz dostęp do Internetu oraz informacji o Twojej lokalizacji Panelowi sterowania, nie będziesz mógł otrzymywać aktualizacji definicji wirusów oraz informacji dot. listy blokowanych. Urządzenie może być wtedy mniej bezpieczne. Ograniczyć mimo to?"</string>
+  <string name="cta_close_dialog_ok">Ogranicz</string>
+  <string name="cta_close_dialog_title">Ograniczenie dostępu</string>
 </resources>

@@ -937,7 +937,7 @@ były bardziej widoczne na zdjęciach"</string>
   <string name="super_eis_disabled_hint">Superstabilizacja jest wyłączona</string>
   <string name="super_night_hint">Trwa optymalizacja zdjęcia… Trzymaj urządzenie stabilnie.</string>
   <string name="ultra_pixel_108mp">108 Mpx</string>
-  <string name="ultra_pixel_portrait_hint">Potret HD</string>
+  <string name="ultra_pixel_portrait_hint">Potret w słabym świetle</string>
   <string name="ultra_tele_use_hint_text_body">"Użyj 50-krotnego zoomu, aby uchwycić dalekie obiekty
 bardziej szczegółowo"</string>
   <string name="ultra_tele_use_hint_text_title">50-krotny zoom</string>
@@ -948,4 +948,10 @@ bardziej szczegółowo"</string>
   <string name="vv_use_hint_text_body">"Tryb vlogowy pozwala Ci
 na nagrywanie i edycję filmów w drodze"</string>
   <string name="vv_use_hint_text_title">Vlogowanie</string>
+  <string name="ccc_temperature_warning_msg">Twoje urządzenie jest przegrzane. Aparat zostanie zamknięty za %d sekund. Twoje zdjęcia/wideo zostaną automatycznie zapisane.</string>
+  <string name="ccc_temperature_warning_title">Urządzenie jest przegrzane</string>
+  <string name="hint_subtitle">"Dyktuj napisy w trakcie nagrywania wideo"</string>
+  <string name="hint_subtitle_prompt">Teraz możesz dyktować napisy</string>
+  <string name="pref_video_subtitle">Napisy</string>
+  <string name="subtitle_network_exception_tips">"Nie udało połączyć się z siecią. Nie można dokonać transkrypcji."</string>
 </resources>

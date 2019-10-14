@@ -451,4 +451,10 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
   <string name="dialog_rating_desc_perfect">Dzięki! Ocenisz naszą aplikację w GetApps?</string>
   <string name="dialog_rating_title">Oceń Przenoszenie danych</string>
   <string name="trans_detail_item_app_skip_data">"Nie można przenieść tej aplikacji"</string>
+    <string name="host_connect_timeout_tip">"Nie można połączyć się przez długi czas"</string>
+    <string name="host_dialog_install_button">Zainstaluj na innym urządzeniu</string>
+    <string name="host_dialog_known_button">Rozumiem</string>
+    <string name="host_dialog_message">Upewnij się, że na innym urządzeniu zainstalowana jest najnowsza wersja Przenoszenia danych - w innym przypadku urządzenia mogą nie być w stanie połączyć się ze sobą.</string>
+    <string name="host_dialog_title">"Nie można połączyć się przez długi czas"</string>
+    <string name="search_action_mode_cancel">Anuluj</string>
 </resources>
