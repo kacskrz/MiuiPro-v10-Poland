@@ -46,7 +46,7 @@
     <string name="creating_event_with_guest">Wysyłanie zaproszeń…</string>
     <string name="daily">Codziennie</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
-    <string name="day_view_new_event_hint">+ Nowe wydarzenie</string>
+    <string name="day_view_new_event_hint">Nowe wydarzenie</string>
     <string name="delete_recurring_event_title">Usunąć %s?</string>
     <string name="delete_this_event_title">Usunąć to wydarzenie?</string>
     <string name="directory_searching_fmt">Wyszukiwanie %s…</string>
@@ -85,7 +85,7 @@
     <string name="month_view">Miesiąc</string>
     <string name="monthly">Co miesiąc</string>
     <string name="monthly_on_day">Co miesiąc</string>
-    <string name="monthly_on_day_count">Co miesiąc (w każdy %1$s)</string>
+    <string name="monthly_on_day_count">Co miesiąc (co %1$s)</string>
     <string name="more_string">+%1$s</string>
     <string name="new_event_dialog_label">Nowe wydarzenie</string>
     <string name="new_event_dialog_option">Nowe wydarzenie</string>
@@ -581,4 +581,5 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="permission_contacts">Synchronizacja urodzin Twoich kontaktów i wysyłanie przypomnień</string>
   <string name="permission_main_purpose">Wyświetlanie i zarządzanie wydarzeniami z kalendarza, otrzymywanie przypomnień, subskrypcja usług, planowanie podróży (niektóre funkcje są tu niedostępne)</string>
   <string name="permission_storage">Zapisywanie przypomnień i dzwonków</string>
+  <string name="setting_show_reject_agenda">Pokaż odrzucone wydarzenia</string>
 </resources>

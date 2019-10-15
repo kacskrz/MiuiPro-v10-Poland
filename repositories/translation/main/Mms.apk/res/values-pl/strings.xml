@@ -894,4 +894,5 @@ Pamiętaj, że %1s musi gromadzić Twoje dane i wymaga do poprawnego działania 
   <string name="system_permission_perm_read_mms">Odczyt MMS-ów</string>
   <string name="system_permission_perm_read_numbers">Odczyt numerów telefonów</string>
   <string name="system_permission_perm_send_mms">Wysyłanie MMS-ów</string>
+  <string name="cloud_recommend_view_tip">Włącz synchronizację z chmurą, aby przywrócić ważne wiadomości w dowolnym momencie</string>
 </resources>
