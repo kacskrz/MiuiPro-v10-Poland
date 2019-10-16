@@ -165,6 +165,7 @@
   <string name="international_details_uv_index_title">Indeks UV</string>
   <string name="international_details_wind_title">Wiatr</string>
   <string name="it_is_going_to_rain">Będzie padać</string>
+  <string name="life_index_title">Indeks pogody</string>
   <string name="locate_fail_detail_err">"Nie można zlokalizować urządzenia. 
 Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="location_management">Lokalizacje</string>
@@ -229,6 +230,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="privacy_settings">Polityka Prywatności</string>
   <string name="pull_fresh_updated">Pomyślnie zaktualizowano</string>
   <string name="pull_fresh_updating">Aktualizacja...</string>
+  <string name="q_version_location_provider_btn_text">Włącz dostęp do lokalizacji i popraw jej dokładność</string>
   <string name="radar_cloud_image_title">Mapy radarowe</string>
   <string name="radar_cloud_update_time">Przed %1$s</string>
   <string name="rainfall_settings_summary">Opcje ostrzeżeń o intensywnych deszczach</string>
@@ -240,6 +242,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="realtime_humidity_title">Wilgotność</string>
   <string name="realtime_temperature_no_data">b.d.</string>
   <string name="realtime_wind_default_title">Wiatr</string>
+  <string name="refresh_empty_data">"Nie udało się załadować danych. Odczekaj minutę bądź dwie i spróbuj ponownie."</string>
   <string name="refresh_fail">"Nie można połączyć się z siecią"</string>
   <string name="reminder_from_xiaomi_weather_app">Powiadomienie z Pogody</string>
   <string name="request_permission_location_dialog_content">Wyświetlanie informacji o pogodzie panującej w Twojej lokalizacji</string>
@@ -299,6 +302,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="updating">Aktualizacja...</string>
   <string name="user_agreement">Umowa użytkownika</string>
   <string name="view_forecast_item_yesterday">Wczoraj</string>
+  <string name="view_indexes_item_day_after_tommorrow">Za 2 dni</string>
   <string name="view_indexes_item_today">Dziś</string>
   <string name="view_indexes_item_tommorrow">Jutro</string>
   <string name="warning_weather_day_and_night_settings_summary">Otrzymuj codzienne podsumowania wraz z informacją o pogodzie (od 7:00 do 19:00)</string>

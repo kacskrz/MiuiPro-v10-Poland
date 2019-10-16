@@ -2776,4 +2776,6 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="cta_close_dialog_content">"Jeśli ograniczysz dostęp do Internetu oraz informacji o Twojej lokalizacji Panelowi sterowania, nie będziesz mógł otrzymywać aktualizacji definicji wirusów oraz informacji dot. listy blokowanych. Urządzenie może być wtedy mniej bezpieczne. Ograniczyć mimo to?"</string>
   <string name="cta_close_dialog_ok">Ogranicz</string>
   <string name="cta_close_dialog_title">Ograniczenie dostępu</string>
+  <string name="shortcut_title_scan">Skanowanie</string>
+  <string name="shortcut_title_whatsapp_clean">Czyszczenie WhatsApp</string>
 </resources>
