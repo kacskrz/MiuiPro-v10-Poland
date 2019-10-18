@@ -273,4 +273,5 @@
   <string name="once">Tylko raz</string>
   <string name="to_install_title">Ten kod QR przekierowuje do odinstalowanej aplikacji. Pobrać tą aplikację teraz?</string>
   <string name="toinstall">Pobierz</string>
+  <string name="flight_mode_connecting_to_wifi">Gdy włączony jest tryb samolotowy, włącz Wi-Fi ręcznie</string>
 </resources>
