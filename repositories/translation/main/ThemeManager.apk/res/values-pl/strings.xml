@@ -830,4 +830,5 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="recommend_trigger">Spersonalizowane propozycje</string>
   <string name="recommend_trigger_summary">Włącz, aby otrzymywać propozycje oparte na Twoich preferencjach</string>
   <string name="update_flag">Aktualizacja</string>
+  <string name="theme_comment_dialog_cancel">Nie teraz</string>
 </resources>

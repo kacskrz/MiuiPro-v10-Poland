@@ -6470,4 +6470,8 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="screen_fps_summary">Wyższa częstotliwość odświeżania spowoduje płynniejsze działanie interfejsu, ale skróci czas pracy na baterii</string>
   <string name="screen_fps_title">Częstotliwość odświeżania</string>
   <string name="screen_fps_unit">%d Hz</string>
+  <string name="network_alarm">"Nie wyciszaj połączeń internetowych"</string>
+  <string name="network_alarm_summary">"Uwaga: niektóre aplikacje nie wspierają tej funkcji. %1$s."</string>
+  <string name="network_alarm_summary_reg">Wyświetl wspierane aplikacje</string>
+  <string name="network_alarm_support_apps">Wspierane aplikacje</string>
 </resources>

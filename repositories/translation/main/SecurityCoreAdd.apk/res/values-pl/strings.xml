@@ -466,4 +466,9 @@ kontroluj zainstalowane aplikacje i ogranicz użytkowanie"</string>
   <string name="instagram_send">Wyślij na Instagramie</string>
   <string name="whatsapp_send">Wyślij na WhatsAppie</string>
   <string name="can_not_switch_when_super_power_active">"Nie można zmienić profilów, gdy Ultraoszczędzanie baterii jest włączone"</string>
+  <string name="xspace_disable">Nie utworzono</string>
+  <string name="xspace_enable">Utworzono</string>
+  <string name="xspace_notification">Powiadomienia z sklonowanych aplikacji</string>
+  <string name="xspace_notification_error">Zaloguj się do sklonowanego WeChata i spróbuj ponownie</string>
+  <string name="xspace_settins">Ustawienia</string>
 </resources>

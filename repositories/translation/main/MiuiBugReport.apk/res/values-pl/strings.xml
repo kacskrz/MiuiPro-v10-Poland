@@ -615,4 +615,7 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="mi_service_dialog_confirm">Otwórz</string>
     <string name="mi_service_dialog_content">Wszystkie funkcje Opinii zostały przeniesione do nowej aplikacji \"Usługi i opinie\". Aplikacja Opinie zostanie usunięta z pulpitu. Kliknij przycisk \"Otwórz\", aby sprawdzić nową aplikację.</string>
     <string name="mi_service_dialog_title">Aplikacja \"Usługi i opinie\"</string>
+    <string name="feedback_choose_occurrence_time">Czas</string>
+    <string name="feedback_hint_optional">Wybierz</string>
+    <string name="feedback_title_occurrence_time">Wybierz czas</string>
 </resources>

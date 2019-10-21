@@ -110,4 +110,6 @@
   <string name="start_print">Drukuj</string>
   <string name="wifi_direct">Wi-Fi Direct</string>
   <string name="system_print_service_help">O drukowaniu</string>
+  <string name="copies_decrease">Minus jedna kopia</string>
+  <string name="copies_increase">Plus jedna kopia</string>
 </resources>
