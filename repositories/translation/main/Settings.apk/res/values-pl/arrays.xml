@@ -1350,4 +1350,14 @@
         <item>Optymalizacja pod kątem jakości dźwięku (900 kb/s)</item>
         <item>Optymalna (autom. szybkość transmisji bitów)</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Automatyczny</item>
+        <item>Zwiększony</item>
+        <item>Standardowy</item>
+    </string-array>
 </resources>
