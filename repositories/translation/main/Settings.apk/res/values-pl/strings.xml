@@ -6474,4 +6474,11 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="network_alarm_summary">"Uwaga: niektóre aplikacje nie wspierają tej funkcji. %1$s."</string>
   <string name="network_alarm_summary_reg">Wyświetl wspierane aplikacje</string>
   <string name="network_alarm_support_apps">Wspierane aplikacje</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Czytnik znajduje się na prawej krawędzi urządzenia</string>
+  <string name="bluetooth_inform_messgae">"Nie udało się połączyć z %1$s.
+Oto, co mogło pójść nie tak:
+1. Bluetooth nie jest włączony na tym urządzeniu bądź znajdujesz się poza jego zasięgiem.
+2. Urządzenie ma wyłączoną widoczność Bluetooth.
+3. Urządzenie jest połączone z innymi urządzeniami. Rozłącz je i spóbuj ponownie."</string>
+  <string name="bluetooth_inform_messgae_title">"Nie udało się połączyć"</string>
 </resources>

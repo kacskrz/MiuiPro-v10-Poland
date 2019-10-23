@@ -1867,10 +1867,23 @@ Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkol
   <string name="preferred_network_type_pref_entries_4g_preferred_custom">Automatyczny LTE</string>
   <string name="wifi_call_available_title">Włączanie Wi-Fi Calling</string>
   <string name="wifi_call_available_message">Możesz teraz wykonywać połączenia za pomocą sieci Wi-Fi. Jeśli jesteś połączony z siecią Wi-Fi, będziesz w stanie rozmawiać przez telefon nawet tam, gdzie nie ma zasięgu sieci komórkowej.</string>
-  <string name="wifi_call_cancel">Anuluj</string>
+  <string name="wifi_call_cancel">Więcej informacji</string>
   <string name="wifi_call_help">Pomoc</string>
   <string name="wifi_call_help_message">Domyślnie, jeśli zostało ustawione preferowanie sieci komórkowych, będą one wykorzystywane do połączeń głosowych. W miejscach, gdzie nie ma zasięgu sieci komórkowej bądź jest on słaby, zostanie użyta sieć Wi-Fi.</string>
   <string name="wifi_call_help_title">Pomoc dot. Wi-Fi Calling</string>
   <string name="wifi_call_notification_message">Usługa jest dostarczana przez Orange. Zanim zostanie ona aktywowana, może potrwać nawet kilka godzin. Otrzymasz SMS-a potwierdzającego, gdy usługa stanie się dostępna.</string>
   <string name="fiveg_power_secret_code_tip">Wykonaj to działanie poprzez Panel sterowania > Bateria > Oszczędzanie baterii 5G</string>
+  <string name="wifi_call_accept">Pomiń</string>
+  <string name="wifi_call_help_message_1">"Wi-Fi Calling to usługa dostarczona przez Orange, która pozwala na wykonywanie i odbieranie połączeń poprzez sieć Wi-Fi. Może ona być używana na przykład tam, gdzie jest słaby zasięg sieci.
+
+Aby użyć tej funkcji, włącz ją w Ustawieniach > Wi-Fi Calling.
+
+W celu aktywacji usługi Orange wyśle Ci wiadomość z potwierdzeniem wtedy, gdy stanie się ona dostępna. Po otrzymaniu tego SMS-a będziesz w stanie wykonywać połączenia poprzez Wi-Fi.
+
+Połączenia poprzez Wi-Fi podlegają opłatom zgodnie z warunkami Twojej taryfy.
+
+Wsparcie funkcji Wi-Fi Calling potwierdza ikona, która będzie się wyświetlać na pasku statusu."</string>
+  <string name="wifi_call_help_message_2">"Jeśli będziesz preferować sieci Wi-Fi, będą one używane domyślnie do wykonywania połączeń. Jeśli nie będziesz połączony z Wi-Fi bądź jego sygnał będzie słaby, do wykonywania połączeń zostaną wykorzystane sieci komórkowe.
+
+W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg w danej chwili będzie słaby - do wykonywania połączeń zostanie wykorzystane Wi-Fi."</string>
 </resources>

@@ -36,4 +36,9 @@
         <item quantity="few">%d elementy</item>
         <item quantity="many">%d elementów</item>
     </plurals>
+    <plurals name="search_result">
+        <item quantity="other">Znaleziono %d nagrań</item>
+        <item quantity="one">Znaleziono %d nagranie</item>
+        <item quantity="few">Znaleziono %d nagrania</item>
+    </plurals>
 </resources>

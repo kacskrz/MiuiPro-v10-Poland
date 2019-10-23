@@ -79,7 +79,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
     <string name="download_settings">Pobieranie ustawień ekranu głównego: %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">Przywróć ustawienia ekranu głównego</string>
-    <string name="cancel_recover_settings"><u>Anuluj</u></string>
+    <string name="cancel_recover_settings">Anuluj</string>
     <string name="recover_settings_description">Nie wyłączaj urządzenia</string>
     <string name="recover_miui_settings">Przywróć ustawienia systemowe</string>
     <string name="wait_icon_download">Pobieranie ikon aplikacji</string>
@@ -228,4 +228,6 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
    <string name="restore_failed_reason_network_error">Błąd sieci. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
    <string name="restore_task_unfinished">"Nie udało się przywrócić"</string>
    <string name="restoring_data">Przywracanie danych…</string>
+  <string name="restoring_home_screen_apps">Przywracanie z Chmury Xiaomi…</string>
+  <string name="loading_progress_num">Załadowano %s%%</string>
 </resources>
