@@ -1724,4 +1724,13 @@ aby spersonalizować Galerię"</string>
   <string name="thumbnail_build_error">"Nie udało się pobrać miniatury"</string>
   <string name="thumbnail_error_log_cleared">Pomyślnie wyczyszczono</string>
   <string name="app_summary">Zarządzanie i edytowanie zdjęć i wideo na urządzeniu oraz w Chmurze Xiaomi</string>
+  <string name="cleaner_raw_action">Wyczyść</string>
+  <string name="cleaner_raw_description">Zwolnij miejsce, usuwając duże zdjęcia w formacie RAW</string>
+  <string name="cleaner_raw_title">Usuń pliki RAW</string>
+  <string name="filter_film_classic">Klasyczny</string>
+  <string name="main_save_cancel">Anuluj</string>
+  <string name="main_save_compress">Skompresuj i zapisz</string>
+  <string name="main_save_origin">Zapisz oryginalny plik</string>
+  <string name="unsupport_raw">"%s nie działa z plikami RAW"</string>
+  <string name="unsupport_raw_and_video">"%s nie działa z plikami wideo oraz RAW"</string>
 </resources>

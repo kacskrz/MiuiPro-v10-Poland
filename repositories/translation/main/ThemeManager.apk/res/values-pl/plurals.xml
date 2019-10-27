@@ -67,4 +67,18 @@
         <item quantity="one">%1$d tapeta</item>
         <item quantity="few">%1$d tapety</item>
     </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="one">%1$d fan</item>
+        <item quantity="other">%1$d fanów</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="one">%1$d element</item>
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="few">%1$d elementy</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="one">%1$d komentarz więcej</item>
+        <item quantity="other">%1$d komentarzy więcej</item>
+        <item quantity="few">%1$d komentarze więcej</item>
+    </plurals>
 </resources>

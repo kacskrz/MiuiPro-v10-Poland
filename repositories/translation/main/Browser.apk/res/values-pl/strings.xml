@@ -1399,4 +1399,11 @@
   <string name="action_menu_text_add_shortcut">Dodaj skrót</string>
   <string name="no_memory_space">brak miejsca</string>
   <string name="wechat_not_installed">Nie zainstalowano aplikacji WeChat</string>
+  <string name="ad_download_continue">Kontynuuj</string>
+  <string name="ad_download_downloading">Pobieranie</string>
+  <string name="ad_download_error">Błąd</string>
+  <string name="ad_download_immediately">Pobierz</string>
+  <string name="ad_download_open">Otwórz</string>
+  <string name="pref_content_simple_homepage">Uproszczona strona startowa</string>
+  <string name="toast_feedback">Zmniejszymy ilość tego typu treści</string>
 </resources>
