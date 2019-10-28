@@ -84,7 +84,7 @@
   <string name="open_print_service">Włącz drukowanie</string>
   <string name="open_print_service_tips">Aby móc użyć tej funkcji, włącz drukowanie w Ustawieniach.</string>
   <string name="open_wlan">Włącz Wi-Fi</string>
-  <string name="open_wlan_tips">Włącz Wi-Fi, aby móc odnaleźć drukarki szybciej.</string>
+  <string name="open_wlan_tips">Włącz Wi-Fi, aby móc odnaleźć drukarki</string>
   <string name="other_printer">Inne drukarki</string>
   <string name="please_choose_printer">Wybierz drukarkę.</string>
   <string name="print_error">"Nie można wydrukować - błąd drukarki"</string>

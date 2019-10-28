@@ -2688,8 +2688,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="system_permission_declare_double_link"><Data>Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Witaj w aplikacji %1s! Pozwala ci ona na używanie następujących funkcji: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Jeśli nie nadasz wymaganych uprawnień lub nie pozwolisz nam na gromadzenie i używanie Twoich danych, ta aplikacja nie będzie mogła działać normalnie."</string>
-  <string name="system_permission_declare_privacy_declare">"Respektujemy i chronimy twoją prywatność.
-Aplikacja %1s wymaga do poprawnego działania gromadzenia twoich danych oraz następujących uprawnień:"</string>
+  <string name="system_permission_declare_privacy_declare">Xiaomi będzie chronić Twoje osobiste dane w zgodzie z odpowiednimi przepisami i politykami prywatności. Panel sterowania, do gromadzenia Twoich danych, wymaga połączenia z Internetem oraz następujących uprawnień:</string>
+  <string name="system_permission_declare_privacy_no_permission">Panel sterowania wymaga połączenia z Internetem i gromadzenia niezbędnych danych w celu dostarczania do Ciebie odpowiednich usług. Xiaomi będzie chronić Twoje osobiste dane w zgodzie z odpowiednimi przepisami i politykami prywatności.</string>
   <string name="system_permission_declare_revoke_path">Możesz odinstalować tą aplikację, wylogować się z swojego konta lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
   <string name="system_permission_declare_use_network">Łączenie się z siecią</string>
   <string name="system_permission_perm_answer_call">Wykonywanie połączeń</string>
@@ -2702,8 +2702,6 @@ Aplikacja %1s wymaga do poprawnego działania gromadzenia twoich danych oraz nas
   <string name="privacy_apps_shield_message_summary">"Nie pokazuj powiadomień dla chronionych aplikacji"</string>
   <string name="privacy_apps_shield_message_title">"Nie pokazuj powiadomień"</string>
   <string name="privacy_apps_tutorial_dlg_title">Jak znaleźć ukryte aplikacje</string>
-  <string name="system_permission_declare_privacy_no_permission">"Aplikacja %1s wymaga gromadzenia Twoich danych do poprawnego działania.
-Respektujemy i chronimy Twoją prywatność."</string>
   <string name="system_permission_declare_use_network_no_permission">Połącz się z siecią</string>
   <string name="system_permission_declare_revoke_uninstallable">Możesz odinstalować tą aplikację lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
   <string name="system_permission_declare_revoke_system">Możesz wyjść z tej aplikacji.</string>
@@ -2778,4 +2776,9 @@ Respektujemy i chronimy Twoją prywatność."</string>
   <string name="cta_close_dialog_title">Ograniczenie dostępu</string>
   <string name="shortcut_title_scan">Skanowanie</string>
   <string name="shortcut_title_whatsapp_clean">Czyszczenie WhatsApp</string>
+  <string name="applock_go_to">Ustawienia</string>
+  <string name="applock_settings_unlock_all_toast">Odblokowano wszystkie aplikacje</string>
+  <string name="lock_all_title">Zablokuj wszystkie aplikacje</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">Zablokuj urządzenie po %d sekundach nieaktywności</string>
+
 </resources>

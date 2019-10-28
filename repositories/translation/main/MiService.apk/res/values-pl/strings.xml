@@ -37,6 +37,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">"Jeśli problem, który zgłaszasz, dotyczy jakości zdjęć, dodaj przykładowe, oryginalne (nieprzycięte) zdjęcie, aby pomóc nam zlokalizować problem. Dodać je teraz?"</string>
     <string name="miui_feedback_edit_choose_module">Wybierz element</string>
     <string name="miui_feedback_edit_choose_module_hint">Wymagane</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Czas</string>
     <string name="miui_feedback_edit_choose_reproductivity">Powtarzalność</string>
     <string name="miui_feedback_edit_choose_third_app_name">Wybierz nazwę aplikacji</string>
     <string name="miui_feedback_edit_contact_info_hint">Numer telefonu/e-mail</string>
@@ -49,6 +50,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">Odrzucić szkic?</string>
     <string name="miui_feedback_edit_hint">Zgłoś problem za każdym razem, gdy go zauważysz - pomoże to developerom rozwiązać go szybciej</string>
     <string name="miui_feedback_edit_hint_gone">Zamknięta wiadomość</string>
+    <string name="miui_feedback_edit_hint_optional">Wybierz</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Czekaj na Wi-Fi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Wyślij</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Jesteś połączony z Internetem za pomocą danych komórkowych. Wysłanie logów przez nie może generować dodatkowe koszty."</string>
@@ -83,6 +85,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Nie pokazuj ponownie"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Wyślij raport</string>
     <string name="miui_feedback_edit_submit_directly">Wyślij</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Wybierz czas</string>
     <string name="miui_feedback_edit_title_reproductivity">Wybierz powtarzalność</string>
     <string name="miui_feedback_edit_toast_description_required">Musisz napisać opis</string>
     <string name="miui_feedback_edit_toast_module_required">Wybierz element</string>

@@ -82,4 +82,6 @@
   <string name="superpower_app_phone">Telefon</string>
   <string name="superpower_settings_launcher">Ultraoszczędzanie baterii</string>
   <string name="superpower_toast_app_select_full">Możesz dodać do często używanych aplikacji maks. 6 elementów</string>
+  <string name="cancel">Anuluj</string>
+  <string name="fingerprint_not_remind">Nie pytaj ponownie</string>
 </resources>

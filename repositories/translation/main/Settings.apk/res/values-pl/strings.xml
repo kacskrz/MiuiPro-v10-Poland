@@ -6481,4 +6481,14 @@ Oto, co mogło pójść nie tak:
 2. Urządzenie ma wyłączoną widoczność Bluetooth.
 3. Urządzenie jest połączone z innymi urządzeniami. Rozłącz je i spóbuj ponownie."</string>
   <string name="bluetooth_inform_messgae_title">"Nie udało się połączyć"</string>
+  <string name="fingerprint_unlock_press_type">Poprzez przytrzymanie</string>
+  <string name="fingerprint_unlock_touch_type">Poprzez dotknięcie</string>
+  <string name="fingerprint_unlock_type">Sposób rozpoznawania odcisku palca</string>
+  <string name="gxzw_anim_aurora">Aurora</string>
+  <string name="screen_fps_summary_power_save">Korzystając z niższej częstotliwości odświeżania, oszczędzasz baterię</string>
+  <string name="screen_fps_summary_smooth">Część aplikacji zwiększy częstotliwość odświeżania automatycznie, aby poprawić jakość obrazu</string>
+  <string name="screen_fps_unit_power_save">%d Hz (oszczędza baterię)</string>
+  <string name="screen_fps_unit_smooth">%d Hz (lepsza jakość)</string>
+  <string name="unlock_type_category_title">Metoda rozpoznawania</string>
+  <string name="wellbing_title">Cyfrowa równowaga i kontrola rodzicielska</string>
 </resources>

@@ -71,9 +71,9 @@
         <item quantity="few">Wznów kopię zapasową w ciągu %d godzin</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d zdjęć lub wideo | Wstrzymano</item>
-        <item quantity="one">%d zdjęcie lub wideo | Wstrzymano</item>
-        <item quantity="few">%d zdjęcia lub wideo | Wstrzymano</item>
+        <item quantity="other">Wznowienie za %d minut</item>
+        <item quantity="one">Wznowienie za %d minutę</item>
+        <item quantity="few">Wznowienie za %d minuty</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d zdjęć i wideo | %2$s</item>
@@ -316,9 +316,9 @@
         <item quantity="few">%d zdjęcie pozostały</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">Nie utworzono kopii %d zdjęć lub wideo</item>
-        <item quantity="one">Nie utworzono kopii %d zdjęcia lub wideo</item>
-        <item quantity="few">Nie utworzono kopii %d zdjęć lub wideo</item>
+        <item quantity="other">Nie zsynchronizowano %d zdjęć lub wideo</item>
+        <item quantity="one">Nie zsynchronizowano %d zdjęcia lub wideo</item>
+        <item quantity="few">Nie zsynchronizowano %d zdjęć lub wideo</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d elementów</item>
@@ -414,11 +414,11 @@
         <item quantity="other">Za pół godziny</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Natychmiast</item>
+        <item quantity="other">Wkrótce</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">za %d min</item>
-        <item quantity="one">za 1 minutę</item>
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za minutę</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
