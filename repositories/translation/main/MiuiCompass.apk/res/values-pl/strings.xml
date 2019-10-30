@@ -66,5 +66,5 @@
     <string name="compass_settings">Ustawienia</string>
   <string name="permission_camera_desc">Używanie poziomicy</string>
   <string name="permission_location_desc">Wyświetlanie pozycji oraz ciśnienia atmosferycznego</string>
-  <string name="cta_v2_app_purpose">Określanie położenia, szerokości i długości geograficznej, poziomica</string>
+  <string name="cta_v2_app_purpose">określanie kierunku, położenia, ciśnienia atmosferycznego oraz wysokości n.p.m.</string>
 </resources>

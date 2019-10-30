@@ -864,7 +864,7 @@ Ta wiadomość może być niechciana."</string>
   <string name="notification_delete">Usuń</string>
   <string name="notification_seen">Oznacz jako przeczytane</string>
   <string name="mi_message_title">Wiadomości w Chmurze</string>
-  <string name="mms_main_purpose">"Aby uzyskać dostęp do pełnej funkcjonalności aplikacji, zezwól jej na połączenie z Internetem i włącz Wiadomości w Chmurze oraz Inteligentne wiadomości."</string>
+  <string name="mms_main_purpose">"Aby uzyskać dostęp do pełnej funkcjonalności aplikacji, włącz Wiadomości w Chmurze oraz Inteligentne wiadomości."</string>
   <string name="mms_title">SMS</string>
   <string name="mx_main_purpose">"Wiadomości w Chmurze pozwalają Ci wysyłać wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.
 Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą operator może Cię obciążyć dodatkową opłatą."</string>
@@ -880,12 +880,12 @@ Do aktywacji tej usługi wymagane jest wysłanie wiadomości SMS, za którą ope
   <string name="smart_msg_main_purpose">Inteligentne wiadomości dostarczają usługi rozpoznawania ID nadawcy oraz inteligentne menu.</string>
   <string name="smart_msg_privacy_policy">Polityka prywatności Inteligetnych wiadomości</string>
   <string name="system_permission_declare_agree">Zgadzam się</string>
-  <string name="system_permission_declare_disagree">"Nie zgadzam się"</string>
+  <string name="system_permission_declare_disagree">Anuluj</string>
   <string name="system_permission_declare_double_link" formatted="false">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s oraz %2s.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Witaj w %1s! %2s</string>
-  <string name="system_permission_declare_no_say_no">"Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie Twoich danych, ta aplikacja nie będzie działać."</string>
-  <string name="system_permission_declare_privacy_declare">"Respektujemy i chronimy Twoją prywatność.
-Pamiętaj, że %1s musi gromadzić Twoje dane i wymaga do poprawnego działania następujących uprawnień:"</string>
+  <string name="system_permission_declare_no_say_no">"Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi regulacjami i politykami prywatności.
+Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bądź wysyłanie Twoich danych, nie będziesz mógł korzystać z tej aplikacji."</string>
+  <string name="system_permission_declare_privacy_declare">%1s musi gromadzić Twoje dane i wymaga do poprawnego działania następujących uprawnień:</string>
   <string name="system_permission_declare_revoke_path">Możesz odwołać swoją autoryzację i wyłączyć usługi w ustawieniach aplikacji SMS.</string>
   <string name="system_permission_declare_single_link">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Przed użyciem tej funkcji przeczytaj i zaakceptuj %1s, %2s oraz %3s.</string>
@@ -895,4 +895,5 @@ Pamiętaj, że %1s musi gromadzić Twoje dane i wymaga do poprawnego działania 
   <string name="system_permission_perm_read_numbers">Odczyt numerów telefonów</string>
   <string name="system_permission_perm_send_mms">Wysyłanie MMS-ów</string>
   <string name="cloud_recommend_view_tip">Włącz synchronizację z chmurą, aby przywrócić ważne wiadomości w dowolnym momencie</string>
+  <string name="mx_main_purpose_short">Wiadomości w Chmurze pozwalają użytkownikom MIUI wysyłać i otrzymywać wiadomości od innych użytkowników MIUI bez żadnych opłat.</string>
 </resources>

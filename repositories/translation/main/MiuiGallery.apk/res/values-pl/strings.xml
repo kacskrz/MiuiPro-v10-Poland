@@ -1733,4 +1733,16 @@ aby spersonalizować Galerię"</string>
   <string name="main_save_origin">Zapisz oryginalny plik</string>
   <string name="unsupport_raw">"%s nie działa z plikami RAW"</string>
   <string name="unsupport_raw_and_video">"%s nie działa z plikami wideo oraz RAW"</string>
+  <string name="movie_audio_point1">Neon</string>
+  <string name="movie_audio_point2">Zachód słońca</string>
+  <string name="movie_audio_point3">Wspomnienia</string>
+  <string name="movie_audio_point4">Środek lata</string>
+  <string name="movie_audio_point5">Fale</string>
+  <string name="movie_audio_point6">Karnawał</string>
+  <string name="movie_template_cool">Światła</string>
+  <string name="movie_template_cool2">Rytm</string>
+  <string name="movie_template_cool3">Fale</string>
+  <string name="movie_template_dull">Opowieść</string>
+  <string name="movie_template_dull2">Czas</string>
+  <string name="movie_template_dull3">Piękno</string>
 </resources>

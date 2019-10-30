@@ -356,7 +356,7 @@
   <string name="micloud_more">Dowiedz się więcej</string>
   <string name="micloud_notif_content_battery_low">Niski poziom baterii</string>
   <string name="micloud_notif_content_clipboard_push">Możesz wkleić treść w dowolnym miejscu</string>
-  <string name="micloud_notif_content_depend_wifi">Połącz z Wi-Fi aby zsynchronizować</string>
+  <string name="micloud_notif_content_depend_wifi">Połącz z Wi-Fi, aby zsynchronizować albo zmień ustawienia, klikając tutaj</string>
   <string name="micloud_notif_content_dirty_data">Szczegóły</string>
   <string name="micloud_notif_content_master_depend_wifi">Najpierw połącz z Wi-Fi.</string>
   <string name="micloud_notif_content_memory_low">Brak miejsca w Chmurze</string>
@@ -368,7 +368,7 @@
   <string name="micloud_notif_title_battery_low">Nie można zsynchronizować z Chmurą</string>
   <string name="micloud_notif_title_clipboard_push">Skopiowano do schowka</string>
   <string name="micloud_notif_title_dirty_data">Masz niezsynchronizowane elementy</string>
-  <string name="micloud_notif_title_master_depend_wifi">Nie można zsynchronizować z Chmurą</string>
+  <string name="micloud_notif_title_master_depend_wifi">Używasz danych mobilnych - synchronizacja wstrzymana</string>
   <string name="micloud_notif_title_memory_low">Nie można zsynchronizować z Chmurą</string>
   <string name="micloud_notif_title_multi_user_error">Nie można zsynchronizować z Chmurą</string>
   <string name="micloud_notif_title_privacy_reopen_failed">Nie udało się uruchomić usługi chmury</string>
