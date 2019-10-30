@@ -1251,7 +1251,7 @@ aby spersonalizować Galerię"</string>
   <string name="video_editor_filter_xiaosenlin">Gaj</string>
   <string name="video_editor_intelligent_special_effect">Efekty</string>
   <string name="video_editor_regulator">Regulacja</string>
-  <string name="video_editor_smart_effect_beat">Beats</string>
+  <string name="video_editor_smart_effect_beat">Beatsy</string>
   <string name="video_editor_smart_effect_big_film">Epickie</string>
   <string name="video_editor_smart_effect_cadence">Rytm</string>
   <string name="video_editor_smart_effect_dynamic">Dynamika</string>
@@ -1261,7 +1261,7 @@ aby spersonalizować Galerię"</string>
   <string name="video_editor_smart_effect_high_iframes_text">Ten efekt działa najlepiej z filmami 120 fps.</string>
   <string name="video_editor_smart_effect_movie">Film</string>
   <string name="video_editor_smart_effect_none">Nic</string>
-  <string name="video_editor_smart_effect_radical">Upbeat</string>
+  <string name="video_editor_smart_effect_radical">Szybkość</string>
   <string name="video_editor_smart_effect_rhythm">Rytm</string>
   <string name="video_editor_smart_effect_street">Metropolia</string>
   <string name="video_editor_smart_effect_time_limit_txt_40">Ten efekt może zostać zastosowany do wideo nie dłuższego niż 40 sekund. Automatycznie skorygowano czas trwania.</string>
@@ -1269,7 +1269,7 @@ aby spersonalizować Galerię"</string>
   <string name="video_editor_smart_effect_time_limit_txt_60">Ten efekt może zostać zastosowany do wideo nie dłuższego niż 60 sekund. Automatycznie skorygowano czas trwania.</string>
   <string name="video_editor_text_edit_all">Wszystko</string>
   <string name="video_editor_text_edit_input_all_hint">Wprowadź tekst</string>
-  <string name="video_editor_unzip_file_fail">"Nie udało się wypakowac wideo."</string>
+  <string name="video_editor_unzip_file_fail">"Nie udało się wypakować wideo."</string>
   <string name="video_editor_video_is_short">"Nie można edytować tego wideo."</string>
   <string name="video_editor_watermark">Znak wodny</string>
   <string name="voice_assistant">Wprowadzanie głosowe</string>
