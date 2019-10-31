@@ -322,4 +322,10 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_schedule_time_mdhm">dd.MM. HH:mm</string>
   <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="privacy_note_content_empty">Nie ma tu jeszcze żadnych elementów.</string>
+  <string name="audio_create_normal_state">Puść, aby utworzyć. Przesuń w górę, aby anulować.</string>
+  <string name="audio_create_will_cancel_state">Puść, aby anulować</string>
+  <string name="new_audio_create_cancel_talkback_des">Anulowano</string>
+  <string name="new_audio_create_done_talkback_des">Utworzono</string>
+  <string name="new_audio_create_guide_tip">Przytrzymaj, aby utworzyć notatkę głosową</string>
+  <string name="new_audio_create_talkback_des">Dotknij, aby utworzyć zwykłą notatkę. Przytrzymaj, aby utworzyć notatkę głosową. Puść przycisk, aby zatrzymać nagrywanie i utworzyć notatkę lub przesuń w górę, aby anulować.</string>
 </resources>

@@ -582,4 +582,12 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="permission_main_purpose">Wyświetlanie i zarządzanie wydarzeniami z kalendarza, otrzymywanie przypomnień, subskrypcja usług, planowanie podróży (niektóre funkcje są tu niedostępne)</string>
   <string name="permission_storage">Zapisywanie przypomnień i dzwonków</string>
   <string name="setting_show_reject_agenda">Pokaż odrzucone wydarzenia</string>
+  <string name="edit_event_title_create_agenda">Dodaj wydarzenie</string>
+  <string name="edit_event_title_create_anniversary">Dodaj rocznicę</string>
+  <string name="edit_event_title_create_birthday">Dodaj urodziny</string>
+  <string name="edit_event_title_create_countdown">Dodaj odliczanie</string>
+  <string name="edit_event_title_edit_agenda">Edytuj wydarzenie</string>
+  <string name="edit_event_title_edit_anniversary">Edytuj rocznicę</string>
+  <string name="edit_event_title_edit_birthday">Edytuj urodziny</string>
+  <string name="edit_event_title_edit_countdown">Edytuj odliczanie</string>
 </resources>
