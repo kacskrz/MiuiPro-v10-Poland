@@ -1623,7 +1623,7 @@
   <string name="wifi_display_certification_summary">Pokaż opcje dla certyfikacji ekranu bezprzewodowego</string>
   <string name="wifi_fail_to_scan">Nie przeskanować sieci</string>
   <string name="wifi_is_off">Wi-Fi jest wyłączone</string>
-  <string name="wifi_no_internet">Brak dostępu do internetu, nie połączy się ponownie automatycznie.</string>
+  <string name="wifi_no_internet">Nie można połączyć się z Internetem</string>
   <string name="wifi_no_internet_no_reconnect">Nie można połączyć się z Internetem</string>
   <string name="wifi_not_in_range">Nie w zasięgu</string>
   <string name="wifi_remembered">Zapisano</string>
@@ -1828,4 +1828,5 @@ długi zrzut ekranu"</string>
   <string name="description_image_button_bubble_answer">Głośnik</string>
   <string name="gxzw_quick_close">Zamknij</string>
   <string name="gxzw_quick_open_title">Otwarto menu skrótów</string>
+  <string name="quick_settings_sim_disabled">(nieaktywna)</string>
 </resources>

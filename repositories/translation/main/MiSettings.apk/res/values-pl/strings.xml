@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij przez: %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="application_sound">Powiadomienia aplikacji</string>
     <string name="back">Wstecz</string>
     <string name="calendar_sound">Przypomnienia o wydarzeniach</string>
@@ -9,7 +26,9 @@
     <string name="intelligent_recognition_item_title">Rozpoznawanie usług</string>
     <string name="mms">SMS</string>
     <string name="more_ringtone">Wszystkie dzwonki</string>
+    <string name="network_error">Błąd sieci. Spróbuj połączyć się ponownie.</string>
     <string name="notification_sound">Dzwonki powiadomień</string>
+    <string name="retry">Ponów</string>
     <string name="ringtone_slot_setting_title">Dzwonki dla slotów kart SIM</string>
     <string name="ringtone_sound">Dzwonki</string>
     <string name="ringtone_title">Dzwonki</string>
@@ -18,6 +37,10 @@
     <string name="screen_paper_mode_apps_loading">Chwileczkę…</string>
     <string name="sms_delivered_sound_title">Dostarczenie wiadomości</string>
     <string name="sms_received_sound_title">Nowa wiadomość</string>
+    <string name="stop_app_timer">Wyłącz funkcję Czas przed ekranem</string>
+    <string name="stop_app_timer_fail">Nie udało się wyłączyć tej funkcji</string>
+    <string name="stop_app_timer_success">Funkcja Czas przed ekranem została pomyślnie wyłączona.</string>
+    <string name="stop_app_timer_tip">Po wyłączeniu funkcji Czas przed ekranem wszystkie powiązane z nią dane zostaną wyczyszczone.</string>
     <string name="thememanager_not_found">"Nie udało się otworzyć Motywów. Upewnij się, że są one zainstalowane na tym urządzeniu."</string>
     <string name="usage_app_get_it">Rozumiem</string>
     <string name="usage_app_limit_alter_summary">"Ten limit czasu jest krótszy niż okres czasu, przez który korzystano dzisiaj z tej aplikacji. Ustawić go mimo to?"</string>
@@ -34,10 +57,30 @@
     <string name="usage_app_system_app_summary">"Nie można ustawić limitu dla aplikacji systemowych"</string>
     <string name="usage_app_weekday_limit">Dni robocze</string>
     <string name="usage_app_weekend_limit">Weekendy</string>
+    <string name="usage_beat_fans">Ponad %s fanów</string>
+    <string name="usage_continuous_days">Dni bez przerwy</string>
+    <string name="usage_focus_focus_premission_main_summary">"W trakcie korzystania z Trybu skupienia aplikacja wymaga uprawnień do pamięci urządzenia w celu przechowywania historii korzystania z tego trybu.
+"</string>
+    <string name="usage_focus_focus_premission_second_summary">Jeśli nie zgodzisz się na nadanie tego uprawnienia, funkcja nie będzie działać prawidłowo - nie wpływa to na inne funkcje tej aplikacji. W dowolnym momencie możesz przejść do menu Ustawienia > Aplikacje > Uprawnienia i ograniczyć uprawnienia dla tej aplikacji w celu wycofania zgody.</string>
+    <string name="usage_focus_save_success">Zapisano obraz w galerii</string>
+    <string name="usage_focus_summary_level1">Wytrwale dąż do celu</string>
+    <string name="usage_focus_summary_level2">Koncentracja to także nawyk</string>
+    <string name="usage_focus_summary_level3">Ciesz się spokojem ducha</string>
+    <string name="usage_focus_summary_level4">Poznaj lepsze \"ja\"</string>
+    <string name="usage_focus_summary_level5">Wierzymy, że cieszyłeś się swoim skupieniem!</string>
+    <string name="usage_focus_title_level1">Ciągły wysiłek przynosi sukces</string>
+    <string name="usage_focus_title_level2">Nawyk drugą naturą</string>
+    <string name="usage_focus_title_level3">Nadzwyczajny</string>
+    <string name="usage_focus_title_level4">Stań się sławny</string>
+    <string name="usage_focus_title_level5">Kto walczy, ten zwycięża</string>
+    <string name="usage_home_premission_main_summary">"Witaj w funkcji Czas przed ekranem. Dzięki tej funkcji możesz sprawdzać statystyki korzystania z urządzenia oraz konkretnych aplikacji, ustawiać limity korzystania z urządzenia oraz aplikacji, korzystać z Trybu skupienia oraz wielu innych funkcji. Aby zapewnić ich działanie, system musi gromadzić informacje o korzystaniu z urządzenia, takie jak ilość odblokowań urządzenia czy konkretny czas użytkowania danych aplikacji.
+"</string>
+    <string name="usage_home_premission_second_summary">W celu dostarczania podstawowych usług niezbędne jest połączenie z siecią. Xiaomi będzie chronić Twoje dane w oparciu o odpowiednie przepisy oraz polityki prywatności.</string>
     <string name="usage_state_accurate_date">dd MMMM yyyy</string>
     <string name="usage_state_add_up_count">Sesje</string>
     <string name="usage_state_add_up_days">Dni</string>
     <string name="usage_state_add_up_time">Łącznie</string>
+    <string name="usage_state_addup_time">Łącznie poświęcono czasu</string>
     <string name="usage_state_app">Aplikacje</string>
     <string name="usage_state_app_remain_time">Pozostały czas: %s</string>
     <string name="usage_state_app_timer">Czas przed ekranem</string>
@@ -59,7 +102,11 @@
     <string name="usage_state_device_limit_title">Limity korzystania z urządzenia</string>
     <string name="usage_state_device_noti_today_tip_title">Powiadomienia pomiędzy %1$d:00 a %2$d:00</string>
     <string name="usage_state_device_unlock_today_tip_title">Odblokowania pomiędzy %1$d:00 a %2$d:00</string>
+    <string name="usage_state_download">Zapisz w galerii</string>
+    <string name="usage_state_duration_title">Czas trwania</string>
     <string name="usage_state_focus_call">Połączenie alarmowe</string>
+    <string name="usage_state_focus_level1">Skup się na nowym wyzwaniu</string>
+    <string name="usage_state_focus_level_summary">Twój obecny tytuł to "%s"</string>
     <string name="usage_state_focus_mode_summary">Ogranicz wszystkie funkcje z wyjątkiem połączeń alarmowych i Aparatu</string>
     <string name="usage_state_focus_mode_summary1">Dobry początek to połowa sukcesu</string>
     <string name="usage_state_focus_mode_summary2">Skup się na pracy</string>
@@ -67,6 +114,7 @@
     <string name="usage_state_focus_mode_title">Tryb skupienia</string>
     <string name="usage_state_focus_mode_warning_message">"Tryb skupienia pozwala Ci jedynie na użycie Aparatu oraz wykonywanie połączeń alarmowych. Nie będziesz w stanie wyłączyć tego trybu w trakcie jego trwania."</string>
     <string name="usage_state_focus_mode_warning_title">Uwaga</string>
+    <string name="usage_state_focus_success">Brawo, skupiłeś się!</string>
     <string name="usage_state_focus_take_photo">Aparat</string>
     <string name="usage_state_focus_warning_text">Skup się na ważnych rzeczach</string>
     <string name="usage_state_focus_weak_summary">Odłóż telefon na bok</string>
@@ -79,7 +127,9 @@
     <string name="usage_state_noti_mourth_day">Powiadomienia w dniu %s</string>
     <string name="usage_state_notification">Zarządzaj powiadomieniami</string>
     <string name="usage_state_notification_manager">Zarządzaj powiadomieniami aplikacji</string>
+    <string name="usage_state_num_level">Poz. %d:</string>
     <string name="usage_state_open_focus_mode">Włącz Tryb skupienia</string>
+    <string name="usage_state_over_p">Liczba fanów ponad</string>
     <string name="usage_state_remind_new_summary">Otrzymasz powiadomienie, gdy zostanie osiągnięty limit czasu</string>
     <string name="usage_state_remind_summary">Włącz, aby otrzymywać przypomnienia dot. limitów czasu na ekranie.</string>
     <string name="usage_state_remind_title">Limit korzystania z urządzenia</string>
@@ -87,6 +137,7 @@
     <string name="usage_state_running_days">Okres (il. dni)</string>
     <string name="usage_state_saturday">Sob</string>
     <string name="usage_state_set_invalid_time_toast">"Nie można ustawić limitu krótszego niż 1 minuta"</string>
+    <string name="usage_state_share">Wyślij</string>
     <string name="usage_state_show_app">Aplikacje</string>
     <string name="usage_state_show_category">Kategorie</string>
     <string name="usage_state_show_detail">Wyświetl szczegółowe statystyki</string>
@@ -106,6 +157,7 @@
     <string name="usage_state_usage_time_weekday_title">Dni robocze</string>
     <string name="usage_state_usage_time_weekend_title">Weekend</string>
     <string name="usage_state_use_time_remind_title">Limit korzystania z urządzenia</string>
+    <string name="usage_state_wakeups_title">Ilość wybudzeń</string>
     <string name="usage_state_wednesday">Śr</string>
     <string name="usage_state_week_day_hour_minute">Weekendy: %1$d godz. %2$d min</string>
     <string name="usage_state_week_total_text">Użytkowanie w ciągu tygodnia</string>
@@ -113,6 +165,8 @@
     <string name="usage_state_work_day_hour_minute">Dni robocze: %1$d godz. %2$d min</string>
     <string name="usage_stats_normal_day">Dni robocze</string>
     <string name="usage_stats_week_day">Weekendy</string>
+    <string name="usage_total_days">Łącznie dni</string>
+    <string name="usage_total_times">Łącznie razy</string>
     <string name="usagestats_app_category_miui_education">Edukacja</string>
     <string name="usagestats_app_category_miui_entainment">Rozrywka</string>
     <string name="usagestats_app_category_miui_financial">Finanse</string>

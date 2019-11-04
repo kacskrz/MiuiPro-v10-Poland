@@ -126,6 +126,7 @@
     <string name="account_setup_need_password_verification">Konto wymaga dwuetapowej autoryzacji. Wymagane jest logowanie.</string>
     <string name="account_setup_options_actionbar_title">Szybkie ustawienia</string>
     <string name="account_setup_options_mail_check_frequency_10min">Co 10 minut</string>
+    <string name="account_setup_options_mail_check_frequency_15min">Co 15 minut</string>
     <string name="account_setup_options_mail_check_frequency_12hour">Co 12 godzin</string>
     <string name="account_setup_options_mail_check_frequency_1hour">Co godzinę</string>
     <string name="account_setup_options_mail_check_frequency_4hour">Co 4 godziny</string>
@@ -1133,4 +1134,8 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="sync_calendra_fail_per_content">Dotknij, aby udzielić dostępu do kalendarza</string>
   <string name="sync_calendra_fail_per_title">"Nie udało się zsynchronizować kalendarza"</string>
   <string name="sync_calendra_fail_permission">"Nie udało się zsynchronizować kalendarza. Zezwól Poczcie na dostęp do kalendarza w Ustawieniach."</string>
+  <string name="login_err_sina_message">%1$sByć może do zalogowania się potrzebny będzie także kod weryfikacyjny. Jeśli chcesz zresetować swoje hasło, odwiedź stronę https://mail.sina.com.cn/, aby sprawdzić, jak możesz tego dokonać.</string>
+  <string name="user_privacy_settings_path">Informacja: Możesz wycofać swoją zgodę w ustawieniach prywatności (Ustawienia > Prywatność).</string>
+  <string name="user_privacy_settings_summary">Xiaomi będzie gromadzić twój ID Androida (zaszyfrowany jako Twój unikalny ID), a także logi dot. działania aplikacji. Masz prawo do wycofania swojej zgody w ustawieniach prywatności.</string>
+  <string name="user_privacy_settings_title">Informacja dot. prywatności Poczty</string>
 </resources>

@@ -76,4 +76,11 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">Wcześniej korzystano z tego trybu przez %d min. Staraj się korzystać z tej funkcji wtedy, gdy tego potrzebujesz.</item>
+    </plurals>
 </resources>

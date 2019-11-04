@@ -87,7 +87,7 @@
   <string name="find_device_disabled_title">Znajdż urządzenie wył.</string>
   <string name="find_device_disabling">Wyłączanie...</string>
   <string name="find_device_dspt">Zdalnie zlokalizuj, zablokuj lub zresetuj swoje urządzenie</string>
-  <string name="find_device_dspt_provision">Jeśli zgubisz telefon, przejdź do &lt;font color=#ff0000>%s&lt;/font>, aby go zlokalizować, zablokować lub wymazać jego pamięć. Możesz włączyć lub wyłączyć tę funkcję w Ustawieniach.</string>
+  <string name="find_device_dspt_provision">Jeśli zgubisz telefon, przejdź do &lt;font color=#0097FF>%s&lt;/font>, aby go zlokalizować, zablokować lub wymazać jego pamięć. Możesz włączyć lub wyłączyć tę funkcję w Ustawieniach.</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">W każdej chwili możesz wyłączyć lub włączyć tę funkcję w Ustawieniach.</string>
@@ -261,7 +261,7 @@
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat zaleca włączenie lokalizacji urządzenia</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay zaleca włączenie lokalizacji urządzenia</string>
   <string name="micloud_find_device_guide_progress">Włączanie funkcji Znajdź urządzenie…</string>
-  <string name="micloud_find_device_guide_title">Zaloguj się na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;, aby zlokalizować, zablokować lub wyczyścić urządzenie. Może to pomóc w znalezieniu urządzenia w przypadku jego utraty.&lt;br /&gt;Jeśli zgubisz urządzenie, możesz skontaktować się z serwisem zabezpieczeń najczęściej używanych aplikacji (np. Alipay, WeChat, QQ) w celu ochrony twoich kont na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.</string>
+  <string name="micloud_find_device_guide_title">Zaloguj się na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;, aby zlokalizować, zablokować lub wyczyścić urządzenie. Może to pomóc w znalezieniu urządzenia w przypadku jego utraty.</string>
   <string name="micloud_find_device_open_fail">Nie można włączyć funkcji Znajdź urządzenie</string>
   <string name="micloud_find_device_opened">Znajdź urządzenie wł.</string>
   <string name="micloud_find_device_opened_content">Znajdź swoje urządzenie na %s</string>
@@ -476,7 +476,7 @@
   <string name="priv_dialog_finddevice_all_purpose_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia."</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia."</string>
   <string name="priv_dialog_sync_all_purpose">Witaj w usługach Chmury Xiaomi! Możesz użyć jej do synchronizacji swoich wiadomości, historii połączeń, kontaktów, notatek, danych Przeglądarki, piosenek, zdjęć, filmów, ustawień Wi-Fi, nagrań, układu pulpitu, aplikacji, wydarzeń z kalendarza, elementów z Listy blokowanych oraz Asystenta MIUI pomiędzy wszystkimi podłączonymi urządzeniami.</string>
-  <string name="priv_doc_cloudservice">Witaj w usługach Chmury Xiaomi! Możesz użyć jej do synchronizacji swoich wiadomości, historii połączeń, kontaktów, notatek, danych Przeglądarki, piosenek, zdjęć, filmów, ustawień Wi-Fi, nagrań, układu pulpitu, aplikacji, wydarzeń z kalendarza, elementów z Listy blokowanych oraz Asystenta MIUI pomiędzy wszystkimi podłączonymi urządzeniami. Możesz uzyskać dostęp do zsynchronizowanych danych z poziomu przeglądarki na stronie &lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+  <string name="priv_doc_cloudservice">Witaj w usługach Chmury Xiaomi! Możesz użyć jej do synchronizacji swoich wiadomości, historii połączeń, kontaktów, notatek, danych Przeglądarki, piosenek, zdjęć, filmów, ustawień Wi-Fi, nagrań, układu pulpitu, aplikacji, wydarzeń z kalendarza, elementów z Listy blokowanych oraz Asystenta MIUI pomiędzy wszystkimi podłączonymi urządzeniami. Możesz uzyskać dostęp do zsynchronizowanych danych z poziomu przeglądarki na stronie &lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
 
 Do aktywacji tej usługi może być potrzebne wysłanie SMS-a, za którego Twój operator może pobrać opłatę. Kiedy przełączysz karty SIM, w celu reaktywacji usługi może zostać automatycznie wysłana wiadomość.
 
@@ -497,7 +497,7 @@ W celu zapisywania elementów na urządzeniu (np. zdjęć, filmów czy piosenek)
 Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z Chmury. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
 Przed użyciem Chmury Xiaomi przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
 "</string>
-  <string name="priv_doc_finddevice_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+  <string name="priv_doc_finddevice_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
 
 Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności.
 Aby móc działać normalnie, funkcja Znajdź urządzenie wymaga połączenia z Internetem oraz następujących uprawnień:
@@ -508,7 +508,7 @@ W celu lokalizacji urządzenia i włączenia trybu zagubionego
 Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
 Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
 "</string>
-  <string name="priv_doc_finddevice_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+  <string name="priv_doc_finddevice_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
 
 Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami oraz politykami prywatności.
 Aby móc działać normalnie, funkcja Znajdź urządzenie wymaga połączenia z Internetem oraz następujących uprawnień:
@@ -519,7 +519,7 @@ W celu lokalizacji urządzenia i włączenia trybu zagubionego
 Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
 Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
 
 Do aktywacji tej usługi może być potrzebne wysłanie SMS-a, za którego Twój operator może pobrać opłatę. Kiedy przełączysz karty SIM, w celu reaktywacji usługi może zostać automatycznie wysłana wiadomość.
 
@@ -532,7 +532,7 @@ W celu lokalizacji urządzenia i włączenia trybu zagubionego
 Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
 Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#FF0000"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
+  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Witaj w funkcji Znajdź urządzenie! Możesz użyć jej do lokalizacji, zablokowania urządzenia bądź wymazania z niego danych w razie jego zgubienia. Aby zlokalizować urządzenie, zablokować je bądź wymazać z niego dane, przejdź na "&lt;font color="#0097FF"&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;".
 
 Do aktywacji tej usługi może być potrzebne wysłanie SMS-a, za którego Twój operator może pobrać opłatę. Kiedy przełączysz karty SIM, w celu reaktywacji usługi może zostać automatycznie wysłana wiadomość.
 
@@ -780,4 +780,8 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="cloud_storage_already_full">Przestrzeń Chmury jest pełna: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Przestrzeń Chmury</string>
   <string name="cloud_storage_loading_data">Chwileczkę…</string>
+  <string name="menu_add_feedback">Opinia</string>
+  <string name="menu_add_short_cut">Utwórz skrót na pulpicie</string>
+  <string name="tip_short_cut_added_success">Pomyślnie utworzono</string>
+  <string name="tip_short_cut_already_added">Utworzono</string>
 </resources>

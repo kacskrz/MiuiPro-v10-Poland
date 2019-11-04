@@ -5338,7 +5338,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_network_optimization">Optymalizacja połączenia</string>
   <string name="wifi_network_prefix_length">Długość prefiksu</string>
   <string name="wifi_no_domain_warning">Musisz określić domenę.</string>
-  <string name="wifi_no_internet">Brak dostępu do internetu, nie połączy się ponownie automatycznie.</string>
+  <string name="wifi_no_internet">Nie można połączyć się z Internetem</string>
   <string name="wifi_no_internet_no_reconnect">Nie można połączyć automatycznie</string>
   <string name="wifi_not_in_range">Nie w zasięgu</string>
   <string name="wifi_notify_cmcc_connected_summary">Pokaż powiadomienia podczas połączenia z CMCC</string>
@@ -6491,4 +6491,5 @@ Oto, co mogło pójść nie tak:
   <string name="screen_fps_unit_smooth">%d Hz (lepsza jakość)</string>
   <string name="unlock_type_category_title">Metoda rozpoznawania</string>
   <string name="wellbing_title">Cyfrowa równowaga i kontrola rodzicielska</string>
+  <string name="xiaomi_cloud_find_device">Znajdź urządzenie</string>
 </resources>
