@@ -4,4 +4,6 @@
   <string name="show_keyguard_key_summary">Pozwala na rozwinięcie przychodzącej wiadomości na ekranie blokady</string> 
   <string name="answer_keyguard_key_title">Odpowiedź na wiadomość</string>
   <string name="answer_keyguard_key_summary">Pozwala odpowiedzieć na wiadomość na ekranie blokady</string>
+  <string name="new_keyguard_key_title">Nieprzeczytana wiadomość</string>
+  <string name="new_keyguard_key_summary">Pokazuj nieprzeczytaną wiadomość na ekranie blokady</string>
 </resources>
