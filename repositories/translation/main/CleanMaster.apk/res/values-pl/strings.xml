@@ -605,7 +605,7 @@
   <string name="dc_activity_title">Dokładne czyszczenie</string>
   <string name="dc_advise_delete">Zwolnij miejsce</string>
   <string name="dc_group_title_appclean">Aplikacje</string>
-  <string name="dc_header_can_clean">Może być wyczyszczone</string>
+  <string name="dc_header_can_clean">Do wyczyszczenia</string>
   <string name="dc_header_can_not_clean">Zajęte</string>
   <string name="dc_header_used_space_text">Zajęta pamięć</string>
   <string name="dc_item_summary_wechat_chat">Wyczyść historię WeChata, aby zwolnić miejsce</string>
