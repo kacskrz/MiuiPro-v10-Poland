@@ -602,4 +602,26 @@
   <string name="notification_low_memory_deepclean_title">Mało wolnego miejsca</string>
   <string name="button_agree">Zgadzam się</string>
   <string name="button_deny">"Nie zgadzam się"</string>
+  <string name="dc_activity_title">Dokładne czyszczenie</string>
+  <string name="dc_advise_delete">Zwolnij miejsce</string>
+  <string name="dc_group_title_appclean">Aplikacje</string>
+  <string name="dc_header_can_clean">Może być wyczyszczone</string>
+  <string name="dc_header_can_not_clean">Zajęte</string>
+  <string name="dc_header_used_space_text">Zajęta pamięć</string>
+  <string name="dc_item_summary_wechat_chat">Wyczyść historię WeChata, aby zwolnić miejsce</string>
+  <string name="dc_item_title_apk">Usuń pliki APK</string>
+  <string name="dc_item_title_app_data">Wyczyść dane aplikacji</string>
+  <string name="dc_item_title_image">Usuń zdjęcia</string>
+  <string name="dc_item_title_large_file">Usuń duże pliki</string>
+  <string name="dc_item_title_qq">Czyszczenie QQ</string>
+  <string name="dc_item_title_uninstall_app">Odinstaluj aplikacje</string>
+  <string name="dc_item_title_video">Usuń pliki wideo</string>
+  <string name="dc_item_title_wechat">Czyszczenie WeChata</string>
+  <string name="dc_item_title_wechat_chat">Wyczyść historię WeChata</string>
+  <string name="dc_storage_cleaned">Zwolniono %s</string>
+  <string name="dc_storage_info">Dostępne %1$s | Łącznie %2$s</string>
+  <string name="guide_dc_dialog_message">"Pozostało mniej niż 2 GB miejsca w pamięci, co może wpływać na działanie urządzenia. Skorzystaj z Dokładnego czyszczenia, aby zwolnić miejsce."</string>
+  <string name="guide_dc_dialog_negative">Anuluj</string>
+  <string name="guide_dc_dialog_positive">OK</string>
+  <string name="guide_dc_dialog_title">Brakuje miejsca</string>
 </resources>

@@ -166,4 +166,38 @@ Możesz ją usunąć."</item>
         <item quantity="few">Usunąć %1$d elementy?</item>
         <item quantity="many">Usunąć %1$d elementów?</item>
     </plurals>
+     <plurals name="dc_group_title_normal">
+         <item quantity="other">Wykonaj %1$d kroków, aby zwolnić %2$s</item>
+         <item quantity="one">Wykonaj %1$d krok, aby zwolnić %2$s</item>
+         <item quantity="few">Wykonaj %1$d kroki, aby zwolnić %2$s</item>
+     </plurals>
+     <plurals name="dc_item_summary_apk">
+         <item quantity="other">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; plików APK</item>
+         <item quantity="one">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; plik APK</item>
+         <item quantity="few">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; pliki APK</item>
+     </plurals>
+     <plurals name="dc_item_summary_app_data">
+         <item quantity="other">Możesz wyczyścić dane &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplikacji</item>
+         <item quantity="one">Możesz wyczyścić dane &lt;font color=#0097FF&gt;%d&lt;/font&gt; aplikacji</item>
+     </plurals>
+     <plurals name="dc_item_summary_image">
+         <item quantity="other">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; niepotrzebnych zdjęć</item>
+         <item quantity="one">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; niepotrzebne zdjęcie</item>
+         <item quantity="few">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; niepotrzebne zdjęcia</item>
+     </plurals>
+     <plurals name="dc_item_summary_large_file">
+         <item quantity="other">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; dużych plików</item>
+         <item quantity="one">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; duży plik</item>
+         <item quantity="few">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; duże pliki</item>
+     </plurals>
+     <plurals name="dc_item_summary_uninstall_app">
+         <item quantity="other">Możesz odinstalować &lt;font color=#0097FF&gt;%d&lt;/font&gt; rzadko używanych aplikacji</item>
+         <item quantity="one">Możesz odinstalować &lt;font color=#0097FF&gt;%d&lt;/font&gt; rzadko używaną aplikację</item>
+         <item quantity="few">Możesz odinstalować &lt;font color=#0097FF&gt;%d&lt;/font&gt; rzadko używaną aplikację</item>
+     </plurals>
+     <plurals name="dc_item_summary_video">
+         <item quantity="other">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; plików wideo</item>
+         <item quantity="one">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; plik wideo</item>
+         <item quantity="few">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; pliki wideo</item>
+     </plurals>
 </resources>
