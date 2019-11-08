@@ -1888,4 +1888,5 @@ Wsparcie funkcji Wi-Fi Calling potwierdza ikona, która będzie się wyświetla�
 W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg w danej chwili będzie słaby - do wykonywania połączeń zostanie wykorzystane Wi-Fi."</string>
   <string name="last_sim_callback_summary">Kiedy wykonujesz połączenie z historii połączeń, telefon użyje karty SIM, z której rozmawiano poprzednio z tym kontaktem</string>
   <string name="last_sim_callback_title">Zapamiętuj ustawienia karty SIM</string>
+  <string name="callFailed_already_ringing">Nie można dzwonić, ponieważ trwa przychodzące połączenie, którego jeszcze nie odebrałeś. Odbierz bądź odrzuć przychodzące połączenie, aby wykonać nowe.</string>
 </resources>
