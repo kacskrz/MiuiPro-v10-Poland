@@ -1322,4 +1322,12 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="headline_content_issue_feedback">Opinia na temat treści</string>
   <string name="sleep_mode_seek_bar_end">120 minut</string>
   <string name="sleep_mode_seek_bar_start">Minuta</string>
+  <string name="daily_recommendation">Codzienny mix</string>
+  <string name="dialog_score_btn_good">Oceń</string>
+  <string name="dialog_score_prompt_bad">"Dziękujemy za twoją opinię! Xiaomi będzie starać się polepszać jakość aplikacji."</string>
+  <string name="dialog_score_prompt_good">Dziękujemy za Twoje wsparcie! Czy chcesz ocenić aplikację w sklepie Play?</string>
+  <string name="dialog_score_title">Oceń własną aplikację</string>
+  <string name="do_not_support_google_voice_search">"Wyszukiwanie głosowe Google nie jest wspierane na tym urządzeniu."</string>
+  <string name="more_splendid_contents">Więcej</string>
+  <string name="you_may_like">Możesz także polubić</string>
 </resources>

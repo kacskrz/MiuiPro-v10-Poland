@@ -90,4 +90,8 @@
         <item>Czysta strona startowa</item>
         <item>Własne</item>
     </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Zakładki</item>
+        <item>Historia</item>
+    </string-array>
 </resources>

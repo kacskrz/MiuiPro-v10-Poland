@@ -178,4 +178,6 @@
   <string name="online_recognize_progress">Przepisywanie %s…</string>
   <string name="search_empty">"Nie odnaleziono rezultatów"</string>
   <string name="search_hint">Szukaj</string>
+  <string name="cancel_rename">Anuluj</string>
+  <string name="loading_more">Chwileczkę…</string>
 </resources>

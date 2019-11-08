@@ -102,6 +102,7 @@
   <string name="confirm_restore_positive">Przywróć</string>
   <string name="confirm_restore_title">Przywróć wiadomości</string>
   <string name="confirm_send_mms">Do jednego z odbiorców wiadomości dodano adres e-mail. Wiadomość zostanie wysłana jako wiadomość MMS, za którą Twój operator może naliczyć dodatkowe opłaty.</string>
+  <string name="contact_card_unknown_contact">Nieznany kontakt</string>
   <string name="context_menu_add_calendar">Dodaj do kalendarza</string>
   <string name="context_menu_add_contact">Dodaj do kontaktów</string>
   <string name="context_menu_add_to_browser_favorite">Dodaj do zakładek w Przeglądarce</string>

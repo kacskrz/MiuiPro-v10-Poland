@@ -102,4 +102,49 @@
         <item quantity="one">Słonecznie</item>
         <item quantity="few">Pogodnie</item>
     </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d wyświetleń</item>
+        <item quantity="one">%d wyświetlenie</item>
+        <item quantity="few">%d wyświetlenia</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Znaleziono %d nowych elementów dla Ciebie</item>
+        <item quantity="one">Znaleziono %d nowy element dla Ciebie</item>
+        <item quantity="few">Znaleziono %d nowe elementy dla Ciebie</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s komentarzy</item>
+        <item quantity="one">%s komentarz</item>
+        <item quantity="few">%s komentarze</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d obrazów</item>
+        <item quantity="one">%d obraz</item>
+        <item quantity="few">%d obrazy</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%d wyświetleń</item>
+        <item quantity="one">%d wyświetlenie</item>
+        <item quantity="few">%d wyświetlenia</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s komentarzy</item>
+        <item quantity="one">%1$s | %2$s komentarz</item>
+        <item quantity="few">%1$s | %2$s komentarze</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d osób już zagłosowało</item>
+        <item quantity="one">%d osoba już zagłosowała</item>
+        <item quantity="few">%d osoby już zagłosowały</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s godz. temu</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s min temu</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d odpowiedzi na Zhihu</item>
+        <item quantity="one">%d odpowiedź na Zhihu</item>
+    </plurals>
 </resources>
