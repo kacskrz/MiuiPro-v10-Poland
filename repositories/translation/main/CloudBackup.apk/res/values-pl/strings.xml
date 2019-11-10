@@ -141,7 +141,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
     <string name="remove_again">Spróbuj ponownie</string>
     <string name="download_meta_again">Nie udało się załadować kopii zapasowej, spróbuj ponownie.</string>
     <string name="cancel_restore_home">Anulowanie…</string>
-    <string name="cancel_backup">Anulowanie tworzenia kopii…</string>
+    <string name="cancel_backup">Anulowanie…</string>
     <string name="dialog_title_require_wlan">Połącz z Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">Przywracanie z kopii zapasowej wymaga połączenia Wi-Fi.</string>
     <string name="dialog_btn_next">Dalej</string>

@@ -193,5 +193,6 @@
     <string name="usagestats_device_timeout_negative">Przypomnij za godzinę</string>
     <string name="usagestats_device_timeout_positive">Rozumiem</string>
     <string name="usagestats_device_timeout_title">Przekroczono limit czasu</string>
+    <string name="wait_tip">Chwileczkę…</string>
     <string name="app_name">Ustawienia</string>
 </resources>
