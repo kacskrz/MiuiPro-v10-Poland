@@ -184,7 +184,7 @@
   <string name="airplane_mode">Tryb samolotowy</string>
   <string name="alarm_ringtone_title">Domyślny dzwonek alarmu</string>
   <string name="alarm_sound_dialog_title">Wybierz dźwięk alarmu</string>
-  <string name="alarm_sound_title">Dźwięk alarmu</string>
+  <string name="alarm_sound_title">Alarm</string>
   <string name="alarm_stop">Wyłącz tryb cichy, gdy uruchomi się budzik</string>
   <string name="alarm_stop_info">Tryb cichy zostanie wyłączony, gdy włączy się budzik</string>
   <string name="alarm_volume_option_title">Głośność alarmu</string>
@@ -3535,7 +3535,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="ring_volume_option_title">Dzwonki, przypomnienia, powiadomienia</string>
   <string name="ring_volume_title">Głośność dzwonka</string>
   <string name="ringtone_slot_setting_title">Ustawienia SIM</string>
-  <string name="ringtone_title">Dzwonek telefonu</string>
+  <string name="ringtone_title">Dzwonek</string>
   <string name="ringtone_uniform_setting_title">Ustawienia dwóch kart SIM</string>
   <string name="ringtones_category_preference_title">Dzwonki</string>
   <string name="ringtones_install_custom_sound_content">Ten plik zostanie skopiowany do folderu %s</string>
@@ -3585,7 +3585,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="screen_button_tips">Przesuń w dół, aby ukryć przyciski ekranowe</string>
   <string name="screen_color_and_optimize">Kolory i kontrast</string>
   <string name="screen_color_and_optimize_disabled">Nie można dostosować kolorów w trybie czytania</string>
-  <string name="screen_color_temperature">Kolory</string>
+  <string name="screen_color_temperature">Temperatura barwowa</string>
   <string name="screen_color_temperature_and_saturation">Kolory i nasycenie</string>
   <string name="screen_compatibility_label">Zgodność z ekranem</string>
   <string name="screen_compatibility_text">Aplikacja może nie być przystosowana do ekranu Twojego urządzenia. Tutaj możesz ją skonfigurować do obsługi ekranu.</string>
@@ -6492,4 +6492,22 @@ Oto, co mogło pójść nie tak:
   <string name="unlock_type_category_title">Metoda rozpoznawania</string>
   <string name="wellbing_title">Cyfrowa równowaga i kontrola rodzicielska</string>
   <string name="xiaomi_cloud_find_device">Znajdź urządzenie</string>
+  <string name="band_24G">(2,4 GHz)</string>
+  <string name="band_5G">(5 GHz)</string>
+  <string name="dual_wifi">Akceleracja podwójnego Wi-Fi</string>
+  <string name="dual_wifi_acceleration">Przyspieszenie dwupasmowego Wi-Fi</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Dostępne dwupasmowe Wi-Fi</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Dostępne dwupasmowe Wi-Fi (2,4 GHz)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Dostępne dwupasmowe Wi-Fi (5 GHz)</string>
+  <string name="dual_wifi_enabler_summary">Używaj dwóch pasm sieci Wi-Fi w celu przyspieszenia prędkości łącza</string>
+  <string name="dual_wifi_off">Wył.</string>
+  <string name="dual_wifi_on">Wł.</string>
+  <string name="dual_wifi_primary_wifi_connected">Połączono z pierwszym Wi-Fi</string>
+  <string name="dual_wifi_slave_wifi_connected">Połączono z dwupasmowym Wi-Fi</string>
+  <string name="dual_wifi_summary">Połącz się z pierwszą siecią Wi-Fi, a następnie włącz dwupasmowe Wi-Fi, aby polepszyć prędkość sieci.</string>
+  <string name="dual_wifi_switching_not_remind">Nie informuj następnym razem</string>
+  <string name="dual_wifi_switching_prompt">Monit o przełączaniu sieci</string>
+  <string name="dual_wifi_switching_summary">Podwójne sieci Wi-Fi wymagają innych pasm częstotliwości - jeśli będziesz chciał zmienić częstotliwość pracy pierwszej sieci Wi-Fi, podwójne Wi-Fi zostanie odłączone.</string>
+  <string name="multi_network_acceleration_app_settings">Zarządzanie aplikacjami (przyspieszenie sieci)</string>
+  <string name="wifi_multi_network_acceleration">Inteligentne przyspieszenie sieci</string>
 </resources>

@@ -1829,4 +1829,6 @@ długi zrzut ekranu"</string>
   <string name="gxzw_quick_close">Zamknij</string>
   <string name="gxzw_quick_open_title">Otwarto menu skrótów</string>
   <string name="quick_settings_sim_disabled">(nieaktywna)</string>
+  <string name="band_24G">(2,4 GHz)</string>
+  <string name="band_5G">(5 GHz)</string>
 </resources>

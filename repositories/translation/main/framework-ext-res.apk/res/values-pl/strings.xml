@@ -39,6 +39,7 @@
   <string name="configure_input_methods">Wybierz klawiatury</string>
   <string name="copy">Kopiuj</string>
   <string name="cut">Wytnij</string>
+  <string name="data_usage_context">Jeśli sieć Wi-Fi nie jest włączona, urządzenie połączy się z siecią komórkową. Może to skutkować dodatkowymi opłatami, zależnymi od Twojej taryfy i operatora.</string>
   <string name="default_name">Domyślne</string>
   <string name="description_title">Tryb cichy</string>
   <string name="eighthours">8 godzin</string>

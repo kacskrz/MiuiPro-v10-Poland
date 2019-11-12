@@ -4,7 +4,7 @@
   <string name="ac_enter_applock">Otwórz Blokowanie aplikacji</string>
   <string name="ac_firstUseApplock_subTitle">Najlepiej korzystaj z systemowych narzędzi bezpieczeństwa</string>
   <string name="ac_firstUseApplock_title">Ustaw hasło, aby chronić swoje aplikacje</string>
-  <string name="ac_mask_all_apps">Ukryj dla wszystkich aplikacji</string>
+  <string name="ac_mask_all_apps">Ukryj dla wszystkich</string>
   <string name="ac_notification_contentText">Dotknij, aby włączyć</string>
   <string name="ac_notification_contentTitle">Chroń aplikacje za pomocą Blokowania aplikacji</string>
   <string name="ac_post_notification_contentText">Uzyskaj ochronę na poziomie systemu</string>
@@ -13,7 +13,7 @@
   <string name="ac_pre_notification_contentTitle">Wypróbuj Blokowanie aplikacji</string>
   <string name="ac_summaryOff">Wyłączone, hasło nie jest wymagane do otwarcia aplikacji</string>
   <string name="ac_summaryOn">Włączone, hasło jest wymagane do otwarcia aplikacji</string>
-  <string name="ac_unmask_all_apps">Pokaż od wszystkich aplikacji</string>
+  <string name="ac_unmask_all_apps">Pokaż dla wszystkich</string>
   <string name="access_control_app_is_launching">Aplikacja jest uruchamiana</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Wprowadź hasło przed odblokowaniem za pomocą nowego odcisku palca</string>
   <string name="access_control_fingerprint_not_identified_msg">Nie udało się odczytać odcisku palca.</string>
@@ -1233,8 +1233,8 @@
   <string name="notification_exit_power_save_mode_subtitle">Bateria naładowana %s.</string>
   <string name="notification_mask_summary">Ukryj zawartość powiadomień dla chronionych aplikacji</string>
   <string name="notification_mask_title">Ukryj zawartość</string>
-  <string name="notification_masked_item">Ukryj powiadomienia</string>
-  <string name="notification_masked_subtitle">Ukryj powiadomienia od aplikacji chronionych za pomocą Blokowania aplikacji</string>
+  <string name="notification_masked_item">Jak ukryć treść powiadomień?</string>
+  <string name="notification_masked_subtitle">Użyj do tego celu Blokowania aplikacji</string>
   <string name="notification_summary_cmcc_app_check">Pokaż szczegóły.</string>
   <string name="notify_daily_data_usage_body">Aby ustawić limity danych, ustaw miesięczny plan transmisji.</string>
   <string name="notify_daily_limit_body">Dotknij, aby ustawić limity</string>
@@ -1895,7 +1895,7 @@
   <string name="status_bar_network_flow_today">Dziś: %1$s</string>
   <string name="still_retain_btn">Zachowaj</string>
   <string name="suggest_app_tolock">Propozycje</string>
-  <string name="suggest_app_tolock_masked">Ukryte</string>
+  <string name="suggest_app_tolock_masked">Ukryta treść</string>
   <string name="suggest_app_tolock_unmasked">Widoczne powiadomienia</string>
   <string name="suggest_scan_again">Zakończ skanowanie, aby uniknąć zagrożeń.</string>
   <string name="summary_app_lock_disable">Chroń swoje dane Blokując aplikacje</string>
@@ -2592,7 +2592,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="user_guide">Przesuń w górę, aby odkryć więcej nowych gier</string>
   <string name="power_center_dialog_msg_top">Gdy Oszczędzanie baterii jest włączone, MIUI wykona następujące optymalizacje:</string>
   <string name="power_center_dialog_msg_bottom">Możesz wydłużyć pracę na baterii do  %1$d godz. i %2$d min. Włączyć Oszczędzanie baterii?</string>
-  <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu i zmniejsza wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
+  <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
   <string name="power_dialog_super_save_title">Ultraoszczędzanie baterii</string>
   <string name="power_center_power_save_title_text">Oszczędzanie baterii</string>
   <string name="power_center_super_save_title_text">Ultraoszczędzanie baterii</string>
@@ -2780,5 +2780,10 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="applock_settings_unlock_all_toast">Odblokowano wszystkie aplikacje</string>
   <string name="lock_all_title">Zablokuj wszystkie aplikacje</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Zablokuj urządzenie po %d sekundach nieaktywności</string>
-
+  <string name="power_center_scan_item_title_5g">Łączność 5G</string>
+  <string name="power_dialog_super_save_msg_5g">Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu (np. łączność 5G) i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?</string>
+  <string name="power_optimize_disable_5g">Ogranicz łączność 5G</string>
+  <string name="power_save_ps_close_setting_5g">Ogranicz energożerne funkcje (synchronizacja, łączność 5G, GPS)</string>
+  <string name="privacyapp_number_masked_text">Treść powiadomień jest ukryta</string>
+  <string name="privacyapp_number_unmasked_text">Treść powiadomień może być ukryta</string>
 </resources>

@@ -71,4 +71,5 @@
 	<string name="fast_connect_headset_reset">Kliknij i przytrzymaj przycisk zestawu przez %1$d s</string>
     <string name="fast_connect_device_headset">Bateria</string>
     <string name="fast_connect_device_battery">Bateria</string>
+    <string name="fast_connect_nzbt_reset">Przytrzymaj górny przycisk przez %1$s s, gdy urządzenie jest wyłączone</string>
 </resources>

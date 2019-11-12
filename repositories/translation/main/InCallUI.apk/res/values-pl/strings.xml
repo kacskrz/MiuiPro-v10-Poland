@@ -238,4 +238,5 @@
   <string name="incoming_circle_text_video_answer">Puść, aby odpowiedzieć (wideo)</string>
   <string name="incoming_circle_text_video_answer_p">Przesuń w górę, aby odpowiedzieć (wideo)</string>
   <string name="manager_conference_done">Gotowe</string>
+  <string name="wifi_call">Połączenie VoWiFi</string>
 </resources>
