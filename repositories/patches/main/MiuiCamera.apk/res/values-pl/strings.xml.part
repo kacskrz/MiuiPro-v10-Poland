@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_camerasound_music_title">Zezwalaj na muzykę w tle</string>
+    <string name="pref_camerasound_music_summary">Zdezaktywuj ograniczenia muzyki w tle, gdy rozpoczęto nagrywanie wideo</string>
+</resources>

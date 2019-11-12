@@ -63,4 +63,8 @@
         <item>Na pełnym ekranie</item>  
         <item>Okno pop-up</item>  
     </string-array>
+<string-array name="call_key_show_entries"> 
+        <item>Wyświetlaj ikony</item> 
+        <item>Wyświetlaj tekst</item> 
+    </string-array>
  </resources>
