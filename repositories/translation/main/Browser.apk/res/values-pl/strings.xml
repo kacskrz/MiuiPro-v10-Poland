@@ -1490,4 +1490,5 @@ aby wesprzeć pracę Xiaomi"</string>
   <string name="small_video_footer_status_msg_idle">Dotknij, aby załadować więcej</string>
   <string name="video_ad_duration">Zamknij reklamę (%d)</string>
   <string name="video_next_playback">Dalej</string>
+  <string name="add_tag">Dodaj tag</string>
 </resources>

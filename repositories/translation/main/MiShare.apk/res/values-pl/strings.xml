@@ -109,10 +109,9 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="throwing_screen">Prześlij ekran</string>
     <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
     <string name="transfer_intercept_to_remote">"Nie udało się wysłać: %1$s"</string>
-    <string name="transfer_to_pc_summary">"Możesz użyć Mi Share do bezpośredniego wysyłania plików z swojego telefonu do laptopów Xiaomi bądź z jednego laptopa na drugi.
-Możesz sprawdzić listę kompatybilnych urządzeń na stronie narzędzia. Jeśli Twój laptop jest na liście, ale nie jest na nim zainstalowana aplikacja Mi Share, zaktualizuj BIOS laptopa oraz sterownik karty sieciowej i pobierz Mi Share."</string>
+    <string name="transfer_to_pc_summary">"Najnowsza wersja oprogramowania AIoT zainstalowana na laptopach Xiaomi jest kompatybilna z aplikacją Mi Share. Możesz sprawdzić listę kompatybilnych modeli laptopów na stronie MIUI. Jeśli Twój laptop znajduje się na liście, ale oprogramowanie AIoT nie jest na nim zainstalowane, zaktualizuj BIOS laptopa oraz sterownik karty sieciowej, a następnie pobierz AIoT."</string>
     <string name="transfer_to_pc_title">Wysyłaj pliki do komputerów</string>
-    <string name="transfer_to_phone_summary">Mi Share pozwala ci na wysyłanie obrazów i plików do innych telefonów Xiaomi w pobliżu oraz innych kompatybilnych urządzeń.</string>
+    <string name="transfer_to_phone_summary">Włącz Mi Share za pomocą przełącznika w pasku powiadomień. Po dokonaniu tej czynności będziesz mógł zobaczyć urządzenia znajdujące się w pobliżu, kiedy zaczniesz udostępniać zdjęcie bądź plik. Dotknij urządzenie odbiorcy, aby wysłać mu udostępniany element.</string>
     <string name="transfer_to_phone_title">Wysyłaj pliki do innych telefonów</string>
     <string name="unkonw_device">Nieznane urządzenie</string>
     <string name="unrecognized_manufacture">Nieznany</string>
