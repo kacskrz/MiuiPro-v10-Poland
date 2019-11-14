@@ -99,4 +99,9 @@
         <item quantity="other">Dziś czas przed ekranem wynosi o %2$s więcej niż %d-dniowa średnia</item>
         <item quantity="one">Dziś czas przed ekranem wynosi o %2$s więcej niż %d-dniowa średnia</item>
     </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f razy</item>
+        <item quantity="zero">%.2f razy</item>
+        <item quantity="one">%.2f raz</item>
+    </plurals>
 </resources>
