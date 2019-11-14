@@ -83,4 +83,20 @@
     <plurals name="usage_state_focus_usage_summary">
         <item quantity="other">Wcześniej korzystano z tego trybu przez %d min. To wielki krok na drodze do spokoju i koncentracji!</item>
     </plurals>
+    <plurals name="last_several_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Dziś czas przed ekranem wynosi tyle, co Twoja %d-dniowa średnia</item>
+        <item quantity="one">Dziś czas przed ekranem wynosi tyle, co Twoja %d-dniowa średnia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">Dziś czas przed ekranem wynosi o %2$s mniej niż %d-dniowa średnia</item>
+        <item quantity="one">Dziś czas przed ekranem wynosi o %2$s mniej niż %d-dniowa średnia</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">Dziś czas przed ekranem wynosi o %2$s więcej niż %d-dniowa średnia</item>
+        <item quantity="one">Dziś czas przed ekranem wynosi o %2$s więcej niż %d-dniowa średnia</item>
+    </plurals>
 </resources>
