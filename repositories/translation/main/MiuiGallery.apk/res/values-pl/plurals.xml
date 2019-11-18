@@ -467,4 +467,28 @@
         <item quantity="one">Zatrzymaj synchronizację zdjęć, filmów i innych rzeczy z Chmurą na %d minutę.</item>
         <item quantity="few">Zatrzymaj synchronizację zdjęć, filmów i innych rzeczy z Chmurą na %d minuty.</item>
     </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Nie będziesz w stanie przywrócić %d zaznaczonych elementów po ich usunięciu. Usunąć mimo to?"</item>
+        <item quantity="one">"Nie będziesz w stanie przywrócić %d zaznaczonego elementu po jego usunięciu. Usunąć mimo to?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Nie będziesz w stanie przywrócić %d zaznaczonych elementów po ich usunięciu. Usunąć mimo to?"</item>
+        <item quantity="one">"Nie będziesz w stanie przywrócić %d zaznaczonego elementu po jego usunięciu. Usunąć mimo to?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Nie będziesz w stanie przywrócić %d zaznaczonych elementów po ich usunięciu. Usunąć mimo to?"</item>
+        <item quantity="one">"Nie będziesz w stanie przywrócić %d zaznaczonego elementu po jego usunięciu. Usunąć mimo to?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Elementy mogą być tu przechowywane maks. do %1$d dni (%2$s)</item>
+        <item quantity="one">Elementy mogą być tu przechowywane przez %1$d dzień (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Elementy mogą być tu przechowywane maks. do %1$d dni. Zwiększ swój plan, aby przedłużyć ten okres.</item>
+        <item quantity="one">Elementy mogą być tu przechowywane przez %1$d dzień. Zwiększ swój plan, aby przedłużyć ten okres.</item>
+    </plurals>
 </resources>

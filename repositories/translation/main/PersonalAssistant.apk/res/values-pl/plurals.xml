@@ -45,4 +45,9 @@
     <item quantity="one">Za %d minutę</item>
     <item quantity="few">Za %d minuty</item>
   </plurals>
+  <plurals name="express_setting_phone_binded_info">
+    <item quantity="other">Dodano %d numerów telefonów</item>
+    <item quantity="one">Dodano %d numer telefonu</item>
+    <item quantity="few">Dodano %d numery telefonu</item>
+  </plurals>
 </resources>

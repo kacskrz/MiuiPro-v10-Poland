@@ -518,4 +518,11 @@
   <string name="preference_use_voice_summary">Włącz, aby użyć odpowiedzi głosowej w trakcie liczenia</string>
   <string name="preference_use_voice_title">Odpowiedź głosowa</string>
   <string name="preference_user_feedback_title">Opinia</string>
+  <string name="loan_basic_point">Punkt bazowy</string>
+  <string name="lpr_ok">Rozumiem</string>
+  <string name="lpr_tips_msg">"Od 8 października 2019 roku, oprocentowanie kredytów hipotecznych w Chinach będzie obliczane zgodnie z podstawową stopą pożyczki (LPR) zamiast wcześniej wprowadzonej referencyjnej stopy procentowej wynoszącej 4,9%. Teraz ostateczna wartość będzie potwierdzona poprzez dodanie punktu bazowego LPR.
+
+Roczne i pięcioletnie punkty LPR będą podawane 20. dnia każdego miesiąca (możliwe opóźnienia ze względu na święta w bankach) na stronie Ludowego Banku Chin."</string>
+  <string name="lpr_tips_title">LPR (podstawowa stopa pożyczki)</string>
+  <string name="loan_type_title">Standard stopy procentowej</string>
 </resources>

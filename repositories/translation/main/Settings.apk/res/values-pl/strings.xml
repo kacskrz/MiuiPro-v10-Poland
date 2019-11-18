@@ -6510,4 +6510,8 @@ Oto, co mogło pójść nie tak:
   <string name="dual_wifi_switching_summary">Zwiększenie prędkości połączenia poprzez dwupasmowe Wi-Fi wymaga skorzystania z dwóch różnych pasm sieci Wi-Fi. Jeśli połączysz się z inną główną siecią, połączenie z siecią dodatkową zostanie utracone.</string>
   <string name="multi_network_acceleration_app_settings">Przyspieszenie sieci dla aplikacji</string>
   <string name="wifi_multi_network_acceleration">Inteligentne przyspieszenie sieci</string>
+  <string name="apply_fingerprint_to">Użyj odcisku palca do…</string>
+  <string name="enrol_fingerprint_data">Dodaj odcisk palca</string>
+  <string name="max_fingerprint_reached_toast">Możesz dodać maks. 5 odcisków palców</string>
+
 </resources>

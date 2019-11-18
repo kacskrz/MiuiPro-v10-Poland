@@ -1126,4 +1126,23 @@
   <string name="announce_for_drag">Przeciąganie elementu</string>
   <string name="migu_game">Minigry</string>
   <string name="migu_video">Wideo</string>
+	<string name="app_setting_account">Konta</string>
+  <string name="app_setting_account_binding">Dodaj</string>
+  <string name="app_setting_account_unbinding">Usuń</string>
+  <string name="express_i_known">Rozumiem</string>
+  <string name="express_setting_comfirm_delete_phone">Usuń</string>
+  <string name="express_setting_deny_delete_phone">Anuluj</string>
+  <string name="express_setting_privacy_entry">Polityka prywatności</string>
+  <string name="express_source_from">"Od "</string>
+  <string name="miot_abnormal_device">Urządzenia z błędami</string>
+  <string name="miot_auth_btn">Synchronizuj</string>
+  <string name="miot_auth_content">Użyj Asystenta MIUI do kontrolowania swoich inteligentnych urządzeń</string>
+  <string name="miot_auth_dialog_content">Czy chcesz zsynchronizować dane ze swoich urządzeń smart home z Asystentem MIUI?</string>
+  <string name="miot_auth_dialog_neg_btn">Nie, dzięki</string>
+  <string name="miot_auth_dialog_pos_btn">Zsynchronizuj</string>
+  <string name="miot_auth_dialog_title">Zsynchronizuj dane</string>
+  <string name="miot_auth_title">Zsynchronizuj swoje urządzenia</string>
+	<string name="miot_more_device">Więcej urządzeń</string>
+  <string name="miot_nearby_device">Połączone urządzenia w pobliżu</string>
+  <string name="miot_not_warn">Zignoruj to ostrzeżenie</string>
 </resources>

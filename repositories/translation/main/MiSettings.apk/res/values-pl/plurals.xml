@@ -92,12 +92,12 @@
         <item quantity="one">Dziś czas przed ekranem wynosi tyle, co Twoja %d-dniowa średnia</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">Dziś czas przed ekranem wynosi o %2$s mniej niż %d-dniowa średnia</item>
-        <item quantity="one">Dziś czas przed ekranem wynosi o %2$s mniej niż %d-dniowa średnia</item>
+        <item quantity="other">Dziś czas przed ekranem wynosi o %2$s mniej niż %1$d-dniowa średnia</item>
+        <item quantity="one">Dziś czas przed ekranem wynosi o %2$s mniej niż %1$d-dniowa średnia</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">Dziś czas przed ekranem wynosi o %2$s więcej niż %d-dniowa średnia</item>
-        <item quantity="one">Dziś czas przed ekranem wynosi o %2$s więcej niż %d-dniowa średnia</item>
+        <item quantity="other">Dziś czas przed ekranem wynosi o %2$s więcej niż %1$d-dniowa średnia</item>
+        <item quantity="one">Dziś czas przed ekranem wynosi o %2$s więcej niż %1$d-dniowa średnia</item>
     </plurals>
     <plurals name="unlock_times">
         <item quantity="other">%.2f razy</item>
