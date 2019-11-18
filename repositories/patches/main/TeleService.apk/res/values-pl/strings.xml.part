@@ -53,4 +53,6 @@
     <string name="background_color_off">Tapeta ekranu blokady</string>
     <string name="set_call_end_title">Akcje w trakcie połączenia</string>
     <string name="call_key_show_title">Wyświetlanie głośnika i klawiatury</string>
+    <string name="confirm_call_title">Potwierdzanie połączenia</string>
+    <string name="confirm_call_summary">Aktywuj konieczność potwierdzania chęci wykonania połączenia z historii połączeń, aby zapobiec przypadkowym połączeniom</string>
 </resources>
