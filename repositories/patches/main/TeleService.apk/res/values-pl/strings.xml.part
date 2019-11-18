@@ -55,4 +55,14 @@
     <string name="call_key_show_title">Wyświetlanie głośnika i klawiatury</string>
     <string name="confirm_call_title">Potwierdzanie połączenia</string>
     <string name="confirm_call_summary">Aktywuj konieczność potwierdzania chęci wykonania połączenia z historii połączeń, aby zapobiec przypadkowym połączeniom</string>
+    <string name="show_btn_settings">Ustawienia przycisków w trakcie połączenia</string>
+    <string name="tools_panel_in_one_row">Przyciski w jednym rzędzie</string>
+    <string name="onscreen_contacts_text">Ukryj \"Kontakty\"</string>
+    <string name="onscreen_add_call_text">Ukryj przycisk \"Dodaj połączenie\"</string>
+    <string name="onscreen_note_calls_text">Ukryj wycisz \"Notatka\"</string>
+    <string name="onscreen_mute_text">Ukryj przycisk \"Wycisz\"</string>
+    <string name="onscreen_hold_text">Ukryj przycisk \"Wstrzymaj\"</string>
+    <string name="onscreen_call_record">Ukryj przycisk \"Nagraj\"</string>
+    <string name="category_button_title">Wyświetlanie elementów</string>
+    <string name="category_color_title">Kolor elementów</string>
 </resources>

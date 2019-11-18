@@ -210,4 +210,5 @@
   <string name="show_powermenu_title">Wyłącz menu restartu</string>
   <string name="show_powermenu_summary">Wyłącza możliwość wywołania menu restartu na zablokowanym ekranie</string>
   <string name="default_search_title">Domyślny asystent na pulpicie</string>
+  <string name="icon_notification_style_title">Ikony powiadomień</string>
 </resources>

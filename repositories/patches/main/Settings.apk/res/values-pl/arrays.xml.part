@@ -186,4 +186,8 @@
         <item>W dwóch liniach</item>
         <item>Przewijana linia</item>
     </string-array>
+   <string-array name="icon_notification_style_entries"> 
+        <item>Z motywu (kolorowe)</item> 
+        <item>Domyślne (czarno-białe)</item> 
+    </string-array>
 </resources>
