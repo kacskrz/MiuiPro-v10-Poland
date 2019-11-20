@@ -37,10 +37,10 @@
         <item quantity="many">Możesz dodać maksymalnie %s osób, wybierz ponownie.</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">opóźnienie: %s sek.</item>
-        <item quantity="one">opóźnienie: %s sek.</item>
-        <item quantity="few">opóźnienie: %s sek.</item>
-        <item quantity="many">opóźnienie: %s sek.</item>
+        <item quantity="other">opóźnienie: %d sek.</item>
+        <item quantity="one">opóźnienie: %d sek.</item>
+        <item quantity="few">opóźnienie: %d sek.</item>
+        <item quantity="many">opóźnienie: %d sek.</item>
     </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"

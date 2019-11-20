@@ -200,4 +200,29 @@ Możesz ją usunąć."</item>
          <item quantity="one">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; plik wideo</item>
          <item quantity="few">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; pliki wideo</item>
      </plurals>
+    <plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data>Zwolniono &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (wystarczy na &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> utworów)&lt;/Data></item>
+        <item quantity="few">&lt;Data>Zwolniono &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (wystarczy na &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> utwory)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Zwolniono &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (wystarczy na &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> utwór)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data>Zwolniono &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (wystarczy na &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> zdjęć)&lt;/Data></item>
+        <item quantity="few">&lt;Data>Zwolniono &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (wystarczy na &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> zdjęcia)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Zwolniono &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (wystarczy na &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> zdjęcie)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="few">%1$d elementy</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="few">%1$d elementy</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data>Znaleziono &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> wiadomości głosowych&lt;/Data></item>
+        <item quantity="few">&lt;Data>Znaleziono &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> wiadomości głosowe&lt;/Data></item>
+        <item quantity="one">&lt;Data>Znaleziono &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> wiadomość głosową&lt;/Data></item>
+    </plurals>
 </resources>

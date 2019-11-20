@@ -6515,4 +6515,8 @@ Oto, co mogło pójść nie tak:
   <string name="max_fingerprint_reached_toast">Możesz dodać maks. 5 odcisków palców</string>
   <string name="sunlight_mode">Tryb \"Światło słoneczne\"</string>
   <string name="sunlight_mode_summary">Dostosuj jasność do mocnego światła z zewnątrz, gdy automatyczna jasność jest wyłączona</string>
+  <string name="usb_headset_not_support_cancel">Rozumiem</string>
+  <string name="usb_headset_not_support_message">"Nie można odtworzyć dźwięku przez adapter. Użyj słuchawek bezprzewodowych
+lub posiadających złącze mini-jack (3,5 mm)."</string>
+  <string name="usb_headset_not_support_tile">"Nie można odtworzyć dźwięku"</string>
 </resources>

@@ -90,7 +90,24 @@
         <item quantity="one">Włączy się %1$s raz</item>
     </plurals>
     <plurals name="snooze_duration_min">
-        <item quantity="other">%1$s min.</item>
-        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
     </plurals>
+     <plurals name="sleep_duration_hour">
+         <item quantity="other">%1s godz.</item>
+         <item quantity="one">%1$s godz.</item>
+     </plurals>
+     <plurals name="sleep_duration_hour_avg">
+         <item quantity="other">%1s godz.</item>
+         <item quantity="one">%1$s godz.</item>
+     </plurals>
+     <plurals name="sleep_duration_min">
+         <item quantity="other">%1$s minut</item>
+         <item quantity="one">%1$s minuta</item>
+         <item quantity="few">%1$s minuty</item>
+     </plurals>
+     <plurals name="sleep_duration_min_avg">
+         <item quantity="other">%1$s min</item>
+         <item quantity="one">%1$s min</item>
+     </plurals>
 </resources>

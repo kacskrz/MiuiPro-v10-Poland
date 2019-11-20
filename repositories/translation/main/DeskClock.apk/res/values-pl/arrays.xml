@@ -373,4 +373,31 @@
         <item>Czarne</item>
         <item>Automatycznie</item>
      </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Od poniedziałku do piątku</item>
+        <item>Codziennie</item>
+        <item>W dni robocze</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Codziennie</item>
+        <item>Od poniedziałku do piątku</item>
+        <item>W dni robocze</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Ndz.</item>
+        <item>Pon.</item>
+        <item>Wt.</item>
+        <item>Śr.</item>
+        <item>Czw.</item>
+        <item>Pt.</item>
+        <item>Sob.</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>O ustawionej godzinie</item>
+        <item>15 minut wcześniej</item>
+        <item>Pół godziny wcześniej</item>
+        <item>Godzinę wcześniej</item>
+        <item>Brak</item>
+    </string-array>
 </resources>
