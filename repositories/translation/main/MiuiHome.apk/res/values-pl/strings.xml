@@ -448,4 +448,5 @@
   <string name="manager_group_settings">Zarządzaj kategoriami aplikacji</string>
   <string name="reset_cate_tip_content">Jeśli potwierdzisz to działanie, zostaną przywrócone domyślne ustawienia kategorii. Na pewno chcesz to zrobić?</string>
   <string name="reset_cate_tip_title">Przywróć domyślne kategorie</string>
+  <string name="edit">Edytuj</string>
 </resources>
