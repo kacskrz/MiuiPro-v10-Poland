@@ -53,6 +53,8 @@
     <string name="deep_space_planet">Przestrzeń kosmiczna</string>
     <string name="deep_space_planet_des">Motyw odwzorowuje zmiany światła podczas dnia. Wschody i zachody słońca w tym motywie są zsynchronizowane z Twoją lokalizacją.</string>
     <string name="digital_clock">Cyfrowy</string>
+    <string name="disable_aod_in_power_save_mode">Wyłącz, gdy włączone jest Oszczędzanie baterii</string>
+    <string name="disable_aod_in_power_save_mode_summary">"Po aktywowaniu tej opcji elementy nie będą wyświetlane w celu zaoszczędzenia energii"</string>
     <string name="font_thickness">Gruba czcionka</string>
     <string name="large_time">Duży zegar</string>
     <string name="letter_space">Odstęp między literami</string>
@@ -70,6 +72,7 @@
     <string name="paper_mode_end_time_title">Wyłącz</string>
     <string name="paper_mode_start_time_title">Włącz</string>
     <string name="password_toggle_content_description">Pokazuj hasło</string>
+    <string name="photo_editor_saving">Zapisywanie…</string>
     <string name="please_input_signature">Wprowadź podpis</string>
     <string name="scheduled_style">Gdy zaplanowane</string>
     <string name="scope_des">Każdy kalejdoskop zawiera 5 różnych wzorów, które będą wyświetlane po kolei za każdym razem, gdy ekran się zaświeci.</string>
@@ -87,9 +90,7 @@
     <string name="signature_default_content">""</string>
     <string name="standard_clock_panel">Standardowy</string>
     <string name="standard_style">Standardowy</string>
-    <string name="summary">"Aby ograniczyć użycie baterii, elementy nie będą wyświetlane:
-1. gdy urządzenie leży w ciemności przez dłuższy czas,
-2. gdy włączony jest tryb Nie przeszkadzać."</string>
+    <string name="summary">"Aby ograniczyć użycie baterii, elementy nie będą wyświetlane, gdy urządzenie leży w ciemności przez dłuższy czas."</string>
     <string name="temporary_style">Przez 10 sekund po dotknięciu</string>
     <string name="text_color">Kolor tekstu</string>
     <string name="text_length_exceed_limit_alert">*Wprowadzony tekst jest za długi</string>
