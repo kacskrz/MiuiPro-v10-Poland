@@ -946,4 +946,13 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_camera_quick_settings">Szybkie ustawienia</string>
   <string name="pref_camera_heic_image_format_description">Wykonuj zdjęcia w formacie HEIF, zapewniającym wysoką jakość zdjęć i mniejszy rozmiar pliku</string>
   <string name="pref_camera_heic_image_format_title">Format HEIC</string>
+  <string name="document_blackwhite">Czarno-białe</string>
+  <string name="document_blur_warn">Zamazany tekst</string>
+  <string name="document_origin">Oryginalny obraz</string>
+  <string name="document_strengthen">Wzmocnij</string>
+  <string name="pref_camera_first_tag_tips">Pomyślnie oznaczono</string>
+  <string name="pref_camera_video_tag">Zezwalaj na oznaczanie w wideo</string>
+  <string name="pref_camera_video_tag_description">Dotknij przycisku \"Oznacz\" w trakcie nagrywania, aby móc wrócić do oznaczonych momentów w trakcie odtwarzania</string>
+  <string name="pref_document_mode">Tryb dokumentu</string>
+  <string name="video_tag_flag_title">Oznacz</string>
 </resources>

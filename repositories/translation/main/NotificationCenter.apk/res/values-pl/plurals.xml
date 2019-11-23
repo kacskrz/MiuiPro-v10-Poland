@@ -10,4 +10,28 @@
         <item quantity="one">W tym tygodniu: 1 powiadomienie</item>
         <item quantity="few">W tym tygodniu: %d powiadomienia</item>
     </plurals>
+    <plurals name="last_sent_time_day">
+        <item quantity="other">%d dni temu</item>
+        <item quantity="one">%d dzień temu</item>
+    </plurals>
+    <plurals name="last_sent_time_hour">
+        <item quantity="other">%d godzin temu</item>
+        <item quantity="one">%d godzinę temu</item>
+        <item quantity="few">%d godziny temu</item>
+    </plurals>
+    <plurals name="last_sent_time_minute">
+        <item quantity="other">%d minut temu</item>
+        <item quantity="one">%d minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+    </plurals>
+    <plurals name="last_sent_time_month">
+        <item quantity="other">%d miesięcy temu</item>
+        <item quantity="one">%d miesiąc temu</item>
+        <item quantity="few">%d miesiące temu</item>
+    </plurals>
+    <plurals name="last_sent_time_week">
+        <item quantity="other">%d tygodni temu</item>
+        <item quantity="one">%d tydzień temu</item>
+        <item quantity="few">%d tygodnie temu</item>
+    </plurals>
 </resources>

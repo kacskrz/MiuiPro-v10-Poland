@@ -425,4 +425,10 @@
     <string name="risk_warning_msg">"Sygnatura paczki instalacyjnej może nie być autentyczna. Aby uniknąć potencjalnych zagrożeń, zainstaluj tą aplikację za pomocą GetApps."</string>
     <string name="risk_warning_top_button">"Nie instaluj"</string>
     <string name="risk_warning_bottom_button">Zainstaluj z GetApps</string>
+    <string name="application_detail_tips">Szczegóły dot. aplikacji i uprawnień</string>
+    <string name="install_finished_notification_summary">Kliknij, aby wyczyścić</string>
+    <string name="install_finished_notification_title">Ukończono instalację %1$s. Można wyczyścić %2$s śmieci</string>
+    <string name="miui_install_version_3">Wersja %1$s -> %2$s | Rozmiar: %3$s</string>
+    <string name="replace_app_des_text">Czy chcesz nadpisać obecną wersję tej aplikacji?</string>
+    <string name="untrusted_external_source_always_click">Zawsze zezwalaj</string>
 </resources>

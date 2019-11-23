@@ -6519,4 +6519,9 @@ Oto, co mogło pójść nie tak:
   <string name="usb_headset_not_support_message">"Nie można odtworzyć dźwięku przez adapter. Użyj słuchawek bezprzewodowych
 lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="usb_headset_not_support_tile">"Nie można odtworzyć dźwięku"</string>
+  <string name="mtp_connection_failed">"Nie można przesłać plików do podłączonego komputera. Spróbuj rozwiązać problem."</string>
+  <string name="mtp_connection_failed_title">Połączenie USB</string>
+  <string name="mtp_connection_not_remind">"Nie pokazuj ponownie"</string>
+  <string name="mtp_solution_button_cancel">Rozumiem</string>
+  <string name="mtp_solution_button_ok">Rozwiąż problem</string>
 </resources>

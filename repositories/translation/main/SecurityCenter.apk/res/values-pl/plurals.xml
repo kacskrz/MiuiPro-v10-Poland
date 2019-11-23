@@ -659,4 +659,12 @@
         <item quantity="other">Dostępnych aktualizacji: %d</item>
         <item quantity="one">Dostępnych aktualizacji: %d</item>
      </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
 </resources>
