@@ -28,8 +28,8 @@
     <string name="cancel_description">Anuluj</string>
     <string name="cancel_moving_dialog_message">Zatrzymać importowanie teraz?</string>
     <string name="cancel_moving_dialog_title">Zatrzymaj importowanie</string>
-    <string name="cannot_use_mi_huanji_summary">"Wygląda na to, że wykonujesz teraz kopię zapasową elementów. Zatrzymaj tworzenie kopii bądź poczekaj na jej ukończenie, aby móc użyć Przenoszenia danych."</string>
-    <string name="cannot_use_mi_huanji_title">"Nie można użyć Przenoszenia danych"</string>
+    <string name="cannot_use_mi_huanji_summary">"Wygląda na to, że MIUI wykonuje teraz kopię zapasową elementów. Zatrzymaj tworzenie kopii bądź zrestartuj urządzenie, aby móc użyć Przenoszenia danych."</string>
+    <string name="cannot_use_mi_huanji_title">"Nie można przenieść teraz"</string>
   <string name="check_phone_error_title">Synchronizacja jest wyłączona</string>
   <string name="check_phone_io_error">Nie można połączyć z siecią</string>
     <string name="clear_old_task_failed">"Nie udało się usunąć starych zadań"</string>
@@ -61,7 +61,8 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="dialog_backup_password_verify">zweryfikuj</string>
     <string name="dialog_request_network_btn_negative">Wyjdź</string>
     <string name="dialog_request_network_btn_positive">Zgoda</string>
-    <string name="dialog_request_network_message">Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia elementów z swojego starego urządzenia na nowe. Do poprawnego działania aplikacja wymaga połączenia z Internetem.</string>
+    <string name="dialog_request_network_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia elementów z swojego starego urządzenia na nowe.
+Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i politykami prywatności. Aplikacja wymaga połączenia z Internetem oraz uprawnień do: włączania i wyłączania Wi-Fi, dostępu i przenoszenia Twoich kontaktów, historii połączeń, SMS-ów, MMS-ów, nagranych rozmów oraz nagrań audio w celu poprawnego działania."</string>
     <string name="dialog_tip_upgrade_summary">Wersja aplikacji jest za stara. Zaktualizuj ją do najnowszej wersji, aby móc przenosić pliki.</string>
     <string name="dialog_tip_upgrade_title">Zaktualizuj Przenoszenie danych</string>
     <string name="dialog_version_summary_tip">Co nowego:</string>
@@ -112,8 +113,7 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="hsa_send_again_countdown">Wyślij ponownie (%ds)</string>
     <string name="hsa_send_failed">"Nie udało się wysłać kodu weryfikacyjnego. Poczekaj minutę bądź dwie i spróbuj ponownie."</string>
     <string name="hsa_sending">Wysyłanie…</string>
-  <string name="hsa_tip_message">"1. Jeśli nie udało Ci się otrzymać kodu weryfikacyjnego, upewnij się, że jesteś zalogowany do chmury iCloud na swoim urządzeniu Apple.
-2. Jeśli wprowadzenie kodu weryfikacyjnego nie pomaga, wyłącz autoryzację dwu-składnikową."</string>
+  <string name="hsa_tip_message">"Jeśli nie udało Ci się otrzymać kodu weryfikacyjnego, upewnij się, że jesteś zalogowany do chmury iCloud na swoim urządzeniu Apple."</string>
   <string name="hsa_tip_message_shutdown_hsa">Jak wyłączyć dwu-składnikową autoryzację</string>
     <string name="hsa_tip_title">Pomoc</string>
     <string name="hsa_verify_failed">"Nie udało się uwierzytelnić"</string>
@@ -131,7 +131,7 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="icloud_need_wifi_message">"Obecnie nie jesteś połączony z siecią Wi-Fi. Aby zaimportować elementy z chmury iCloud, połącz się z siecią Wi-Fi."</string>
     <string name="icloud_need_wifi_title">Połącz się z Wi-Fi</string>
     <string name="icloud_start_now">Rozpocznjj</string>
-    <string name="icloud_verify_tips">Dotknij przycisku \"Zezwól\" na urządzeniu z systemem iOS i wprowadź kod tutaj.</string>
+    <string name="icloud_verify_tips">Dotknij przycisku \"Zezwól\" na urządzeniu z systemem iOS i wprowadź kod, który się na nim pojawi, tutaj.</string>
     <string name="im_recipient">"Jestem odbiorcą"</string>
     <string name="im_sender">"Jestem nadawcą"</string>
     <string name="image">Obrazy</string>
@@ -139,7 +139,7 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
   <string name="import_again">Importuj ponownie</string>
   <string name="import_data_from_icloud">Importuj dane z iCloud</string>
     <string name="install_app_dialog_title">"Nie znaleziono urządzeń w pobliżu"</string>
-    <string name="install_app_link_text">Zainstaluj najnowszą wersję Przenoszenia danych na starym urządzeniu</string>
+    <string name="install_app_link_text">Dlaczego moje stare urządzenie nie może połączyć się z hotspotem?</string>
     <string name="install_app_message">"Jeśli nie możesz znaleźć swojego urządzenia przez dłuższy czas, spróbuj wykonać te kroki:
 1. Upewnij się, że na nowym urządzeniu jest zainstalowane Przenoszenie danych.
 2. Zbliż urządzenia do siebie."</string>
@@ -158,8 +158,8 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="logining">Logowanie…</string>
     <string name="main_button_continue">Kontynuuj</string>
     <string name="main_button_quit">Wyjdź</string>
-    <string name="main_chooser_item_android_mi">Importuj z urządzenia z Androidem</string>
-    <string name="main_chooser_item_ios">Importuj z urządzenia z iOS</string>
+    <string name="main_chooser_item_android_mi">Importuj z urządzenia Xiaomi</string>
+    <string name="main_chooser_item_ios">"Importuj z iPhone'a"</string>
     <string name="main_chooser_title">Wybierz stare urządzenie</string>
     <string name="message_request_package_stats_perm">Dotknij przycisku \"Kontynuuj\", aby otworzyć Ustawienia i nadaj Przenoszeniu danych wymagane uprawnienia.</string>
     <string name="miui_need_open_high_accuracy_summary">"Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji, aby odnaleźć urządzenia w pobliżu. Bez nadania tego uprawnienia nie będzie można skorzystać z możliwości tej aplikacji."</string>
@@ -213,30 +213,32 @@ Odwiedź https://appleid.apple.com/#!&amp;page=signin, aby wyłączyć"</string>
     <string name="need_location_permission_summary">Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji, aby odnaleźć urządzenia w pobliżu.</string>
     <string name="need_more_memory_cacel">Anuluj</string>
     <string name="need_more_memory_confirm">Czyszczenie</string>
-    <string name="need_more_memory_summary">"Dane aplikacji firm trzecich muszą być skompresowane przed ich przeniesieniem. Przenoszenie danych potrzebuje %1$s dodatkowego miejsca do utworzenia skompresowanych paczek.
+    <string name="need_more_memory_summary">"Brak wystarczającej ilości miejsca. Przenoszenie danych potrzebuje %1$s dodatkowego miejsca do utworzenia skompresowanych paczek przed rozpoczęciem przenoszenia.
 1. Spróbuj przenieść tylko najważniejsze rzeczy.
-2. Odinstaluj aplikacje, których nie potrzebujesz.
+2. Nie wybieraj aplikacji z dużą ilością danych.
 3. Użyj Czyszczenia, aby zwolnić miejsce."</string>
     <string name="need_more_memory_title">Brak miejsca</string>
     <string name="new_main_activity_label">Przenoszenie danych</string>
-    <string name="new_trans_intro_desc_2">Anuluj przenoszenie, wyjdź z aplikacji i zacznij od nowa. Przenoszenie danych będzie kontynuować transfer od miejsca, w którym go przerwano.</string>
-    <string name="new_trans_intro_desc_3">"Przenoszenie danych używa sieci Wi-Fi do transferu danych. To dlatego nie możesz połączyć się z Internetem za pomocą sieci Wi-Fi na swoim urządzeniu w trakcie trwania przenoszenia."</string>
-    <string name="new_trans_intro_desc_4">Miejsce w pamięci starych urządzeń jest wykorzystywane do tworzenia paczek przenoszenia. Upewnij się, że masz co najmniej 2 GB miejsca na starym urządzeniu przed rozpoczęciem przenoszenia.</string>
-    <string name="new_trans_intro_desc_5">Jest kilka powodów, z jakich może się to dziać: problemy z kompatybilnością systemu i wersji aplikacji, problemy z siecią, problemy z komatybilnością specyficzne dla danego urządzenia itd.</string>
-    <string name="new_trans_intro_desc_6">Ze względów bezpieczeństwa część profili aplikacji (np. bankowych) jest powiązana z konkretnym urządzeniem. Spróbuj wyczyścić dane aplikacji bądź zainstalować aplikację ponownie na nowym urządzeniu.</string>
-    <string name="new_trans_intro_desc_7">"Dane aplikacji WeChat oraz historia czatu mogą nie zostać w pełni przeniesione przy użyciu Przenoszenia danych, jeśli w trakcie przenoszenia jesteś zalogowany na konto WeChat. Przejdź do ustawień WeChata i wyloguj się z konta, aby uzyskać większe szanse na udane przeniesienie."</string>
-    <string name="new_trans_intro_desc_new">"Kliknij \"Jestem odbiorcą\". Wybierz \"Importuj z urządzenia z Androidem\". Zostanie utworzony hotspot."</string>
-    <string name="new_trans_intro_desc_old">"Kliknij \"Jestem nadawcą\". Połącz się z nowym urządzeniem, wybierz elementy do przeniesienia i kliknij przycisk Wyślij."</string>
-    <string name="new_trans_intro_question_1">1. Jak użyć Przenoszenia danych do przeniesienia danych z urządzenia z Androidem?</string>
-    <string name="new_trans_intro_question_2">2. Co powinienem zrobić, jeśli aplikacja zawiesi się na pewnym etapie?</string>
-    <string name="new_trans_intro_question_3">"3. Dlaczego nie mogę używać sieci Wi-Fi w trakcie przenoszenia?"</string>
-    <string name="new_trans_intro_question_4">"4. Dlaczego Przenoszenie danych informuje mnie o braku miejsca na starym urządzeniu?"</string>
-    <string name="new_trans_intro_question_5">"5. Dlaczego niektóre aplikacje nie przeniosły się?"</string>
-    <string name="new_trans_intro_question_6">"6. Dlaczego niektóre aplikacje nie uruchamiają się na nowym urządzeniu?"</string>
-    <string name="new_trans_intro_question_7">"7. Dlaczego historia czatów WeChata nie jest w pełni przeniesiona?"</string>
+    <string name="new_trans_intro_desc_2">W nowej wersji Przenoszenia danych nie jest konieczne wpisywanie hasła. Po prostu otwórz aplikację na starym urządzeniu, dotknij przycisku \"Jestem nadawcą\" i dotknij nazwy hotspotu, aby się z nim połączyć.</string>
+    <string name="new_trans_intro_desc_3">Przenoszenie danych wymaga miejsca w pamięci starego urządzenia w celu utworzenia paczki do przeniesienia przed jej wysłaniem do nowego urządzenia. Zwolnij miejsce, aby móc kontynuować.</string>
+    <string name="new_trans_intro_desc_4">Niektóre aplikacje mogą nie przenieść się prawidłowo ze względu na problemy z kompatybilnością z danym urządzeniem, systemem bądź wersją aplikacji.</string>
+    <string name="new_trans_intro_desc_5">Niektóre aplikacje (np. bankowe) nie pozwolą na przeniesienie haseł ze względów bezpieczeństwa.</string>
+    <string name="new_trans_intro_desc_6">Twoje nowe urządzenie Xiaomi może nie mieć wymaganych uprawnień do dokonania tej czynności.</string>
+    <string name="new_trans_intro_desc_7">"Przenoszenie danych może kontynuować przenoszenie w miejscu, w którym je przerwałeś. Istnieje jednak prawdopodobieństwo, że będzie trzeba je rozpocząć od nowa, jeśli problemy z kompatybilnością urządzenia nie pozwolą na wznowienie poprzedniego przenoszenia."</string>
+    <string name="new_trans_intro_desc_new">"1. Upewni się, że Przenoszenie danych na nowym urządzeniu jest aktualne. Możesz pobrać jego najnowszą wersję za pomocą tego linka: %1$s."</string>
+    <string name="new_trans_intro_desc_old">"2. Jeśli hotspot ciągle nie pojawia się w oknie Przenoszenia danych, otwórz ustawienia sieci Wi-Fi i sprawdź, czy możesz go zobaczyć w tym miejscu. Jeśli tak, wróć do okna Przenoszenia danych i kliknij nazwę hotspotu."</string>
+    <string name="new_trans_intro_question_1">1. Dlaczego nie mogę zobaczyć hotspotu z nowego urządzenia na starym urządzeniu?</string>
+    <string name="new_trans_intro_question_2">2. Jakie jest hasło do hotspotu?</string>
+    <string name="new_trans_intro_question_3">"3. Dlaczego narzędzie informuje o braku miejsca na starym urządzeniu?"</string>
+    <string name="new_trans_intro_question_4">"4. Dlaczego niektóre aplikacje nie przeniosły się?"</string>
+    <string name="new_trans_intro_question_5">"5. Dlaczego hasła z niektórych kont firm trzecich nie przeniosły się?"</string>
+    <string name="new_trans_intro_question_6">"6. Dlaczego dane aplikacji nie mogą być przeniesione z urządzenia firm trzecich?"</string>
+    <string name="new_trans_intro_question_7">"7. Jeśli wyjdę z Przenoszenia danych w trakcie przenoszenia, będę musiał je zacząć od nowa?"</string>
     <string name="new_trans_intro_title_new">"Na nowym urządzeniu: "</string>
     <string name="new_trans_intro_title_old">"Na starym urządzeniu: "</string>
-    <string name="new_wait_link_first">Otwórz Przenoszenie danych na starym urządzeniu</string>
+    <string name="new_wait_link_first">"1. Otwórz Przenoszenie danych na starym urządzeniu.
+2. Dotknij przycisku \"Jestem nadawcą\" i chwilę poczekaj.
+3. Wybierz odpowiedni hotspot na starym urządzeniu."</string>
     <string name="nickname">Pseudonim</string>
     <string name="no_more_memory_title">Brak wystarczającej ilości miejsca na tym urządzeniu do rozpoczęcia przenoszenia. Zwolnij miejsce i spróbuj ponownie.</string>
     <string name="no_network">"Nie można połączyć się z siecią"</string>
@@ -315,7 +317,7 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="scanner_title_tip">Wybierz elementy do przeniesienia</string>
     <string name="search_input_description">Szukaj</string>
     <string name="search_mode_button_back_description">Wstecz</string>
-    <string name="searching_for_new_device">Szukanie nowego urządzenia…</string>
+    <string name="searching_for_new_device">Szukanie urządzenia w pobliżu…</string>
     <string name="select_all">Zaznacz wszystko</string>
     <string name="select_all_description">Zaznacz wszystko</string>
     <string name="select_empty">Najpierw wybierz elementy do zaimportowania</string>
@@ -367,7 +369,8 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="trans_detail_qq_data">Dane QQ (włącznie z historią czatu)</string>
     <string name="trans_detail_wechat_data">Dane WeChata (włącznie z historią czatu)</string>
     <string name="trans_install_guide_new_content_first">"Zeskanuj ten kod QR na nowym urządzeniu. Pobierz i zainstaluj Przenoszenie danych."</string>
-    <string name="trans_install_guide_old_content_first">"Zeskanuj ten kod QR na starym urządzeniu. Pobierz i zainstaluj Przenoszenie danych."</string>
+    <string name="trans_install_guide_old_content_first">"Przenoszenie danych jest domyślnie zainstalowane na wszystkich urządzeniach z zainstalowanym MIUI 11.
+Jeśli ta aplikacja nie jest zainstalowana na Twoim urządzeniu, możesz zeskanować kod QR, aby ją pobrać."</string>
     <string name="trans_intro_title">FAQ</string>
     <string name="trans_main_activity_tutor_first">"Przenieś swoje zdjęcia, kontakty, wiadomości, historię połączeń, audio, wideo, dokumenty i aplikacje na nowe urządzenie"</string>
     <string name="trans_one_key_migrate">Przenoszenie danych</string>
@@ -457,4 +460,42 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="host_dialog_message">Upewnij się, że na innym urządzeniu zainstalowana jest najnowsza wersja Przenoszenia danych - w innym przypadku urządzenia mogą nie być w stanie połączyć się ze sobą.</string>
     <string name="host_dialog_title">"Nie można połączyć się przez długi czas"</string>
     <string name="search_action_mode_cancel">Anuluj</string>
+    <string name="account_or_password_incorrect">Nieprawidłowe ID konta bądź hasło</string>
+    <string name="cannot_use_mi_huanji_button">Rozumiem</string>
+    <string name="connect_icloud_fail">"Nie udało połączyć się z iCloud"</string>
+    <string name="connect_icloud_fail_tips">Upewnij się, że aktywowałeś swoje konto iCloud. Jeśli tego nie zrobiłeś, przejdź na icloud.com i postępuj zgodnie z instrukcjami w celu aktywacji konta.</string>
+    <string name="connection_tips_activity_label">Rozwiązywanie problemów</string>
+    <string name="connection_tips_other_message">"1. Upewnij się, że na starym urządzeniu jest zainstalowana najnowsza wersja Przenoszenia danych. Możesz pobrać ją za pomocą tego linka: %1$s.
+2. Jeśli hotspot z nowego urządzenia nie pojawia się w Przenoszeniu danych, otwórz ustawienia Wi-Fi i sprawdź, czy możesz go zobaczyć tutaj. Jeśli możesz, nie dotykaj go.
+3. Wróć do okna Przenoszenia danych i wybierz hotspot z nowego urządzenia."</string>
+    <string name="connection_tips_other_title">Jeśli stare urządzenie to telefon innej marki z Androidem:</string>
+    <string name="connection_tips_owner_message">Przenoszenie danych jest zainstalowane domyślnie na wszystkich urządzeniach, na których znajduje się MIUI 11. Jeśli posiadasz starszą wersję MIUI, możesz pobrać najnowszą wersję Przenoszenia danych za pomocą tego linka: %1$s.</string>
+    <string name="connection_tips_owner_title">Jeśli stare urządzenie to telefon Xiaomi:</string>
+    <string name="icloud_signin_fail">"Nie udało się zalogować"</string>
+    <string name="icloud_signin_fail_message">Twoje Apple ID zostało zablokowane ze względów bezpieczeństwa. Przejdź na iforgot.apple.com i postępuj zgodnie z instrukcjami.</string>
+    <string name="install_complete_count_down_time">Pomyślnie zainstalowano. Rozpoczynanie przenoszenia (%1$d)</string>
+    <string name="new_trans_intro_desc_8">Historia WeChata ze starego urządzenia nadpisze historię z nowego urządzenia w trakcie przenoszenia.</string>
+    <string name="new_trans_intro_question_8">8. Dlaczego moja historia WeChata zniknęła z nowego urządzenia?</string>
+    <string name="new_trans_intro_desc_new_click">Pobierz</string>
+    <string name="send_verification_code_fail">"Nie udało się wysłać kodu weryfikacyjnego"</string>
+    <string name="send_verification_code_fail_tips">"Upewnij się, że jesteś zalogowany na tym koncie na swoim urządzeniu Apple. Inaczej nie będziesz w stanie otrzymać kodu."</string>
+    <string name="settings_powerkeeper">Dane licznika kroków</string>
+    <string name="transfer_multi_connect_summary">Twoje przenoszenie zostało anulowane ze względów bezpieczeństwa. Możesz dotknąć przycisku \"Połącz ponownie\", aby kontynuować.</string>
+    <string name="transfer_multi_connect_title">Do hotspotu podłączonych jest kilka urządzeń</string>
+    <string name="dialog_request_network_message_extra">"Jeśli nie zgadzasz się na nadanie wymaganych uprawnień bądź wysyłanie osobistych danych, nie będziesz w stanie używać tej aplikacji. W każdej chwili możesz odinstalować aplikację bądź ograniczyć dla niej uprawnienia w Ustawieniach."</string>
+    <string name="guest_install_app_hint_ensure">Pobierz</string>
+    <string name="guest_install_app_hint_summary">"Nowa wersja Przenoszenia danych jest niekompatybilna z wersją znajdującą się na tym urządzeniu. Pobierz i zainstaluj nową wersję."</string>
+    <string name="guest_install_app_hint_title">Pobierz nową wersję Przenoszenia danych</string>
+    <string name="host_boot_installation_button">Dalej</string>
+    <string name="host_boot_installation_content">"1. Przejdź do Ustawień na starym urządzeniu.
+2. Wpisz \"Przenoszenie danych\" w pasku wyszukiwania.
+3. Kliknij \"Przenoszenie danych\" w wynikach wyszukiwania."</string>
+    <string name="host_boot_installation_dialog_message">"Wersja Przenoszenia danych zainstalowana na starym urządzeniu jest niekompatybilna z zainstalowaną tutaj. Zaktualizuj Przenoszenie danych na starym urządzeniu."</string>
+    <string name="host_boot_installation_first_title">Otwórz Przenoszenie danych na starym urządzeniu</string>
+    <string name="host_boot_installation_message">"Wybierz widok, jaki widzisz na starym urządzeniu. Jeśli używasz starej wersji Przenoszenia danych, powiemy Ci, jak ją zaktualizować."</string>
+    <string name="host_boot_installation_second_title">Wybierz stronę, którą widzisz</string>
+    <string name="host_boot_installation_tips">"Nie udało się odnaleźć Przenoszenia danych? Dotknij, aby pobrać."</string>
+    <string name="main_chooser_item_android_others">Importuj z innego urządzenia z Androidem</string>
+    <string name="new_app_name">Nowa wersja</string>
+    <string name="old_app_name">Stara wersja</string>
 </resources>

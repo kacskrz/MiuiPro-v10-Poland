@@ -50,6 +50,7 @@
     <string name="error_receive_file_cannot_read">"Nie udało się otrzymać pliku"</string>
     <string name="error_receive_file_changed">"Nie można otrzymać pliku - został on zmieniony."</string>
     <string name="error_receive_file_no_enough_space">"Nie można otrzymać pliku - brak wystarczającej ilości miejsca."</string>
+    <string name="error_receive_file_service_disabled">Anulowano przychodzący transfer</string>
     <string name="error_receive_user_cancel">Anulowano transfer</string>
     <string name="error_receive_user_interrupted">Inna osoba anulowała transfer</string>
     <string name="error_refuse_receive">Anulowano transfer</string>
@@ -58,6 +59,7 @@
     <string name="error_send_file_cannot_read">"Nie udało się wysłać pliku. Spróbuj ponownie."</string>
     <string name="error_send_file_no_enough_space">"Nie można wysłać - brak wystarczającej ilości miejsca na innym urządzeniu."</string>
     <string name="error_send_file_not_found">"Nie znaleziono pliku. Spróbuj ponownie."</string>
+    <string name="error_send_file_service_disabled">Anulowano wychodzący transfer</string>
     <string name="error_send_transfer_error">"Nie udało się przenieść elementów. Spróbuj ponownie."</string>
     <string name="error_timeout">Przekroczono czas trwania sesji. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
     <string name="error_user_refuse">"Nie udało się wysłać - transfer został odrzucony."</string>
@@ -95,6 +97,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="send_file">WYŚLIJ PLIK</string>
     <string name="send_files_to">Wyślij elementy do...</string>
     <string name="send_files_to_remote_success">Pomyślnie wysłano elementy do %1$s</string>
+    <string name="send_files_to_remote_success_title">Pomyślnie wysłano</string>
     <string name="sender_error">"Nie udało się wysłać. Odczekaj minutę bądź dwie i spróbuj ponownie."</string>
     <string name="somepc_send_much_file_to_you_files">%1$s wysyła do Ciebie więcej niż 200 plików…</string>
     <string name="somepc_send_muchfile_files">%1$s wysyła do Ciebie więcej niż 200 plików…</string>

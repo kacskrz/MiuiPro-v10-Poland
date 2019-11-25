@@ -161,4 +161,9 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">%d innych wydarzeń</item>
+        <item quantity="one">%d inne wydarzenie</item>
+        <item quantity="few">%d inne wydarzenia</item>
+    </plurals>
 </resources>

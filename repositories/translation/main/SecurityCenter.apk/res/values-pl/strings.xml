@@ -2812,4 +2812,9 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="notification_low_battery_title">Pozostało mniej niż %s baterii</string>
   <string name="open_extreme_power_save_mode_title">Włącz Ultraoszczędzanie baterii</string>
   <string name="save_mode_btn_ok">Rozumiem</string>
+  <string name="app_running_tip_dialog_negative">Anuluj</string>
+  <string name="app_running_tip_dialog_positive">OK</string>
+  <string name="app_running_tip_dialog_text">Wyjdź z aplikacji %1$s, aby zapobiec jej uruchamianiu się w tle. Przyspieszy to pracę Twojego urządzenia i zmniejszy zużycie energii.</string>
+  <string name="app_running_tip_dialog_title">Wyjdź z aplikacji</string>
+  <string name="app_running_tip_uninstall">Odinstaluj tą aplikację</string>
 </resources>
