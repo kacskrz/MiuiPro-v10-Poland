@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Wył.</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>30 minut</item>
+        <item>1 godz.</item>
+        <item>2 godz.</item>
+        <item>4 godz.</item>
+        <item>6 godz.</item>
+        <item>8 godz.</item>
+    </string-array>
+</resources>
