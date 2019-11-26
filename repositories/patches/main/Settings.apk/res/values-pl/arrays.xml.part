@@ -190,4 +190,9 @@
         <item>Z motywu (kolorowe)</item> 
         <item>Domyślne (czarno-białe)</item> 
     </string-array>
+  <string-array name="pip_size_entries">
+        <item>Domyślny</item>
+        <item>Średni</item>
+        <item>Duży</item>
+    </string-array>
 </resources>
