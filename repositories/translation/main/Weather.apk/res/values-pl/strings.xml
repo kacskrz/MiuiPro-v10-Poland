@@ -311,6 +311,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="weather_introduce">Zawsze z tobą, w każdych warunkach.</string>
   <string name="weather_permission_agree">Akceptuję</string>
   <string name="weather_service_channel_name">Usługi w tle</string>
+  <string name="widget_cta_not_agree">Dotknij, aby uzyskać informacje o pogodzie</string>
   <string name="wind_direction_no_data">Wiatr</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>
