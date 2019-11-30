@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="time_aod_show_title">Wyświetlanie trybu AoD</string>
+	<string name="time_aod_show_summary">Obecnie: %s s</string>
+	<string name="temporary_style">Przez wybrany czas</string>
+</resources>
