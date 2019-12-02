@@ -1879,4 +1879,5 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="last_sim_callback_summary">Kiedy wykonujesz połączenie z historii połączeń, telefon użyje karty SIM, z której rozmawiano poprzednio z tym kontaktem</string>
   <string name="last_sim_callback_title">Zapamiętuj ustawienia karty SIM</string>
   <string name="callFailed_already_ringing">Nie można dzwonić, ponieważ trwa przychodzące połączenie, którego jeszcze nie odebrałeś. Odbierz bądź odrzuć przychodzące połączenie, aby wykonać nowe.</string>
+  <string name="fiveg_sa_switch_title">Sieć SA</string>
 </resources>

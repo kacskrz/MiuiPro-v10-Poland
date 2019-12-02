@@ -1833,4 +1833,18 @@ długi zrzut ekranu"</string>
   <string name="band_5G">" (pasmo 5 GHz)"</string>
   <string name="screenshot_failed_to_capture_title">"Ta aplikacja nie pozwala na wykonywanie zrzutów ekranu"</string>
   <string name="screenshot_failed_to_save_title">Brak miejsca na nowe zrzuty ekranu</string>
+  <string name="multi_face_delete_message">Uwaga</string>
+  <string name="multi_face_delete_show_message">Usunąć dane twarzy?</string>
+  <string name="multi_face_input">Dodaj dane twarzy</string>
+  <string name="multi_face_input_enroll">Dodaj dane twarzy</string>
+  <string name="multi_face_input_enrolling">Dodawanie danych twarzy…</string>
+  <string name="multi_face_input_reach_upper_limit">"Nie udało się dodać danych twarzy. Odczekaj minutę bądź dwie i spróbuj ponownie."</string>
+  <string name="multi_face_input_success_msg_lift">Przesuń w górę na ekranie blokady, aby użyć Odblokowania twarzą</string>
+  <string name="multi_face_input_success_msg_normal">Użyj Odblokowania twarzą, gdy włączy się ekran blokady</string>
+  <string name="multi_face_input_success_msg_slide">Przesuń w dół na ekranie blokady, aby użyć Odblokowania twarzą</string>
+  <string name="multi_face_input_success_name_title">Nazwa</string>
+  <string name="multi_face_list">Dane twarzy</string>
+  <string name="multi_face_name_prefix">"Twarz "</string>
+  <string name="multi_face_number_reach_limit">"Nie można dodać danych dla więcej niż 2 twarzy"</string>
+  <string name="quick_settings_cellular_detail_unable_change">"Nie można ustawiać w trakcie rozmowy"</string>
 </resources>

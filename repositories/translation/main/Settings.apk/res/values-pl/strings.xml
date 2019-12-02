@@ -6371,7 +6371,7 @@ Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="bt_lhdc_property">Parametry</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Chmura Xiaomi synchronizuje twoje zdjęcia, tworzy kopię aplikacji i ustawień, a także pomaga znaleźć twój telefon za pomocą funkcji Znajdź urządzenie.</string>
   <string name="mi_transfer">Przenoszenie danych</string>
-  <string name="color_led_charging_summary">Gdy bateria zostanie naladowana, dioda wyłączy się</string>
+  <string name="color_led_charging_summary">Gdy bateria zostanie naładowana, dioda wyłączy się</string>
   <string name="color_led_game_mode_summary">Gdy Game Turbo jest włączone, dioda będzie pokazywać efekty w grach</string>
   <string name="color_led_red_packets_summary">Pokaż efekty dla Czerwonej koperty z aplikacji WeChat i QQ, gdy asystent Czerwonej koperty jest włączony</string>
   <string name="color_led_special_scene_title">Efekty specjalne</string>
@@ -6524,4 +6524,15 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="mtp_connection_not_remind">"Nie pokazuj ponownie"</string>
   <string name="mtp_solution_button_cancel">Rozumiem</string>
   <string name="mtp_solution_button_ok">Rozwiąż problem</string>
+  <string name="color_lamp_applications_title">Zarządzaj powiadomieniami</string>
+  <string name="color_lamp_applications_title_summary">Zezwól lub ogranicz używanie diody w \"Kategoriach powiadomień\"</string>
+  <string name="color_lamp_battery_title">Świeć w trakcie ładowania</string>
+  <string name="color_lamp_charging_summary">Gdy bateria zostanie naładowana, dioda wyłączy się</string>
+  <string name="color_lamp_incall_pulse_title">Użyj przy połączeniach przychodzących</string>
+  <string name="color_lamp_notification_pulse_title">Mrugaj dla powiadomień, gdy ekran jest wyłączony</string>
+  <string name="color_lamp_title">Dioda powiadomień</string>
+  <string name="dual_wifi_auto_disable">Automatycznie zatrzymuj przyspieszanie</string>
+  <string name="dual_wifi_auto_disable_summary">Rozłącz się z dodatkowymi sieciami Wi-Fi, gdy ekran jest wyłączony, w celu zaoszczędzenia energii</string>
+  <string name="legal_written_offer">Licencje open source Xiaomi</string>
+  <string name="popup_led_try_later">Odczekaj minutę bądź dwie i spróbuj ponownie</string>
 </resources>

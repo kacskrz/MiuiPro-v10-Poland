@@ -2817,4 +2817,19 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="app_running_tip_dialog_text">Wyjdź z aplikacji %1$s, aby zapobiec jej uruchamianiu się w tle. Przyspieszy to pracę Twojego urządzenia i zmniejszy zużycie energii.</string>
   <string name="app_running_tip_dialog_title">Wyjdź z aplikacji</string>
   <string name="app_running_tip_uninstall">Odinstaluj tą aplikację</string>
+  <string name="HIPS_Perm_CallLog_Desc">zapis i usuwanie historii rozmów</string>
+  <string name="HIPS_Perm_Call_Desc">wybieranie numerów telefonu</string>
+  <string name="HIPS_Perm_Contact_Desc">modyfikacja i usuwanie kontaktów</string>
+  <string name="HIPS_Perm_PhoneID_Desc">dostęp do numerów: telefonu, IMEI i karty SIM</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Dostęp do numeru telefonu i stanu urządzenia</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">odczyt historii rozmów</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">odczyt kontaktów</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">odczyt SMS-ów</string>
+  <string name="HIPS_Perm_SendSMS_Desc">wysyłanie SMS-ów</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">dodawanie wiadomości poczty głosowej</string>
+  <string name="HIPS_Perm_get_accounts_Desc">dostęp do kont na urządzeniu</string>
+  <string name="HIPS_Perm_use_sip_Desc">transmisja wideo za pomocą protokołu SIP</string>
+  <string name="permdesc_in_calls">Monitorowanie połączeń przychodzących</string>
+  <string name="permdesc_out_calls">Monitorowanie połączeń wychodzących</string>
+  <string name="system_permission_perm_optional">" (opcjonalne)"</string>
 </resources>
