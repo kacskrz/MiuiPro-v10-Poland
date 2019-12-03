@@ -784,4 +784,5 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="menu_add_short_cut">Utwórz skrót na pulpicie</string>
   <string name="tip_short_cut_added_success">Pomyślnie utworzono</string>
   <string name="tip_short_cut_already_added">Utworzono</string>
+  <string name="cloud_upgrade_recommend">"Nie można zsynchronizować kontaktów z powodu braku miejsca w Chmurze. Ulepsz plan Chmury."</string>
 </resources>

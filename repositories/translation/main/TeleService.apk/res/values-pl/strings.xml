@@ -1880,4 +1880,11 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="last_sim_callback_title">Zapamiętuj ustawienia karty SIM</string>
   <string name="callFailed_already_ringing">Nie można dzwonić, ponieważ trwa przychodzące połączenie, którego jeszcze nie odebrałeś. Odbierz bądź odrzuć przychodzące połączenie, aby wykonać nowe.</string>
   <string name="fiveg_sa_switch_title">Sieć SA</string>
+  <string name="advanced_mobile_settings">Ustawienia zaawansowane</string>
+  <string name="main_netcheck_summary">Test połączenia (problemy z siecią)</string>
+  <string name="mobile_advanced_dns_server_title">Adres serwera DNS</string>
+  <string name="mobile_advanced_ip_address_title">Adres IP</string>
+  <string name="mobile_connection_management">Zarządzaj połączeniem z siecią komórkową</string>
+  <string name="mobile_property">Właściwości sieci komórkowej</string>
+  <string name="netcheck_title">Diagnostyka sieci komórkowej</string>
 </resources>

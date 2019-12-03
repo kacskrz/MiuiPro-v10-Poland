@@ -2556,8 +2556,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gamecenter_install_sucessfull">Pomyślnie zainstalowano</string>
   <string name="gb_shortcut_pref_title">Skrót na pulpicie</string>
   <string name="power_save_ps_clean">Czyszczenie pamięci podręcznej, gdy urządzenie jest zablokowane</string>
-  <string name="power_save_ps_close_setting">Wyłączenie usług w tle (synchronizacja, GPS)</string>
-  <string name="power_save_ps_freeze">Zamrożenie aplikacji w tle</string>
+  <string name="power_save_ps_close_setting">Wyłączenie usług w tle oraz energożernych funkcji (synchronizacja, GPS, reakcje haptyczne, wybudzanie ekranu, pokazywanie ikony odcisku palca itd.)</string>
+  <string name="power_save_ps_close_setting_5g">Ograniczenie energożernych funkcji oraz usług w tle (synchronizacja, łączność 5G, GPS reakcje haptyczne, wybudzanie ekranu, pokazywanie ikony odcisku palca itd.)</string>  <string name="power_save_ps_freeze">Zamrożenie aplikacji w tle</string>
   <string name="power_save_ps_limit">Ograniczenie aktywności aplikacji systemowych</string>
   <string name="choose_gs_show_way">Wybierz orientację strony głównej</string>
   <string name="function_shield_auto_bright">Wyłącz autom. jasność</string>
@@ -2591,7 +2591,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="app_manager_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
   <string name="user_guide">Przesuń w górę, aby odkryć więcej nowych gier</string>
   <string name="power_center_dialog_msg_top">Gdy Oszczędzanie baterii jest włączone, MIUI wykona następujące optymalizacje:</string>
-  <string name="power_center_dialog_msg_bottom">Możesz wydłużyć pracę na baterii do  %1$d godz. i %2$d min. Włączyć Oszczędzanie baterii?</string>
+  <string name="power_center_dialog_msg_bottom">Możesz wydłużyć pracę na baterii do %1$d godz. i %2$d min. Włączyć Oszczędzanie baterii?</string>
   <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
   <string name="power_dialog_super_save_title">Ultraoszczędzanie baterii</string>
   <string name="power_center_power_save_title_text">Oszczędzanie baterii</string>
@@ -2783,7 +2783,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="power_center_scan_item_title_5g">Łączność 5G</string>
   <string name="power_dialog_super_save_msg_5g">Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu (np. łączność 5G) i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?</string>
   <string name="power_optimize_disable_5g">Ogranicz łączność 5G</string>
-  <string name="power_save_ps_close_setting_5g">Ogranicz energożerne funkcje (synchronizacja, łączność 5G, GPS)</string>
   <string name="privacyapp_number_masked_text">Treść powiadomień jest ukryta</string>
   <string name="privacyapp_number_unmasked_text">Treść powiadomień może być ukryta</string>
   <string name="battery_can_use_time">Pozostało %s</string>
@@ -2832,4 +2831,13 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="permdesc_in_calls">Monitorowanie połączeń przychodzących</string>
   <string name="permdesc_out_calls">Monitorowanie połączeń wychodzących</string>
   <string name="system_permission_perm_optional">" (opcjonalne)"</string>
+  <string name="power_center_dialog_msg_title">Włącz, aby uzyskać %1$s dodatkowego czasu. Aby zaoszczędzić baterię, zostaną podjęte następujące działania:</string>
+  <string name="power_center_list_item_haptic_feedback">Wyłącz reakcje haptyczne</string>
+  <string name="power_center_list_item_wake_notification">"Nie wybudzaj ekranu, gdy przyjdzie powiadomienie"</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Wyłącz tryb dokładnej lokalizacji</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Działa z włączonym Oszczędzaniem baterii</string>
+  <string name="power_save_mode_close_notification_screenon_title">"Nie wybudzaj ekranu, gdy przyjdzie powiadomienie"</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Działa z włączonym Oszczędzaniem baterii</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">"Nie uruchamiaj SI Mi głosem"</string>
+  <string name="power_save_mode_other_optimization">Opcjonalne optymalizacje</string>
 </resources>

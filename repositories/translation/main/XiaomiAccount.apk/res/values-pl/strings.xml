@@ -597,4 +597,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="passport_extra_gdpr_license">Zakładając konto Xiaomi zgadzasz się na to, że Xiaomi będzie gromadzić, przetwarzać i używać Twoich danych, np. służących do weryfikacji (jak kody weryfikacyjne), z Drugiej przestrzeni (np. informacje o tym, jak używasz Drugiej przestrzeni) i innych określonych w Polityce prywatności Xiaomi. Aby dowiedzieć się, jak Xiaomi przetwarza Twoje dane, zapoznaj się z Polityką prywatności.</string>
   <string name="pwd_width_phone_number_or_mail_num">Hasło nie może zawierać Twojego numeru telefonu, adresu e-mail bądź ID konta Xiaomi</string>
   <string name="risky_pwd_not_allow">Nowe hasło nie jest bezpieczne. Ustaw inne hasło.</string>
+  <string name="passport_can_not_receive_verification_code">"Nie możesz otrzymać kodu?"</string>
 </resources>
