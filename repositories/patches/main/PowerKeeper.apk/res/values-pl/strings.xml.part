@@ -3,4 +3,6 @@
     <string name="low_battery_warning_title">Ostrzeżenie o słabym poziomie baterii</string>
     <string name="low_battery_percent_summary">Przy: %s procent</string>
     <string name="low_battery_percent_title">Bateria naładowana</string>
+    <string name="low_sounds_title">Dźwięk powiadomienia o słabej baterii</string>
+    <string name="low_dialog_title">Informacja o słabej baterii</string>
 </resources>

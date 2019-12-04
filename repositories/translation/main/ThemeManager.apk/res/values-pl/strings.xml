@@ -143,7 +143,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="home_apply_failured">Nie można ustawić tapety ekranu głównego</string>
   <string name="home_apply_success">Ustawiono tapetę ekranu głównego</string>
   <string name="in_the_end">Nie ma więcej elementów do wyświetlenia</string>
-  <string name="incall_show_apply">Wideo w połączeniach wychodzących</string>
+  <string name="incall_show_apply">Ustaw jako profil wideo</string>
   <string name="incall_show_apply_fail">"Nie można zastosować wideo"</string>
   <string name="incall_show_apply_success">Pomyślnie zastosowano</string>
   <string name="incall_show_apply_success_without_ringtone">"Pomyślnie zastosowano wideo.
@@ -857,4 +857,6 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="support_theme_store_des">Dobre motywy są tworzone przez utalentowanych twórców. Aplikacja Motywy zawiera reklamy (na MiuiPro wyłączone), które pozwalają Xiaomi na wsparcie ich pracy.</string>
   <string name="support_theme_store_supported">Dziękujemy za Twoje wsparcie!</string>
   <string name="support_theme_store_title">Wspomóż twórców Xiaomi</string>
+  <string name="de_preview">Podgląd</string>
+  <string name="wallpaper_set_as_incall_show">Ustaw jako profil wideo</string>
 </resources>

@@ -369,8 +369,9 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="trans_detail_qq_data">Dane QQ (włącznie z historią czatu)</string>
     <string name="trans_detail_wechat_data">Dane WeChata (włącznie z historią czatu)</string>
     <string name="trans_install_guide_new_content_first">"Zeskanuj ten kod QR na nowym urządzeniu. Pobierz i zainstaluj Przenoszenie danych."</string>
-    <string name="trans_install_guide_old_content_first">"Przenoszenie danych jest domyślnie zainstalowane na wszystkich urządzeniach z zainstalowanym MIUI 11.
-Jeśli ta aplikacja nie jest zainstalowana na Twoim urządzeniu, możesz zeskanować kod QR, aby ją pobrać."</string>
+    <string name="trans_install_guide_old_content_first">"1. Zeskanuj ten kod QR na starym urządzeniu.
+2. Pobierz i zainstaluj Przenoszenie danych.
+3. Dotknij przycisk poniżej, gdy instalacja się zakończy."</string>
     <string name="trans_intro_title">FAQ</string>
     <string name="trans_main_activity_tutor_first">"Przenieś swoje zdjęcia, kontakty, wiadomości, historię połączeń, audio, wideo, dokumenty i aplikacje na nowe urządzenie"</string>
     <string name="trans_one_key_migrate">Przenoszenie danych</string>
@@ -493,9 +494,19 @@ Jeśli ta aplikacja nie jest zainstalowana na Twoim urządzeniu, możesz zeskano
     <string name="host_boot_installation_dialog_message">"Wersja Przenoszenia danych zainstalowana na starym urządzeniu jest niekompatybilna z zainstalowaną tutaj. Zaktualizuj Przenoszenie danych na starym urządzeniu."</string>
     <string name="host_boot_installation_first_title">Otwórz Przenoszenie danych na starym urządzeniu</string>
     <string name="host_boot_installation_message">"Wybierz widok, jaki widzisz na starym urządzeniu. Jeśli używasz starej wersji Przenoszenia danych, powiemy Ci, jak ją zaktualizować."</string>
-    <string name="host_boot_installation_second_title">Wybierz stronę, którą widzisz</string>
+    <string name="host_boot_installation_second_title">Potwierdź wersję Przenoszenia danych</string>
     <string name="host_boot_installation_tips">"Nie udało się odnaleźć Przenoszenia danych? Dotknij, aby pobrać."</string>
     <string name="main_chooser_item_android_others">Importuj z innego urządzenia z Androidem</string>
     <string name="new_app_name">Nowa wersja</string>
     <string name="old_app_name">Stara wersja</string>
+    <string name="current_user_not_supported_summary">Obecne ustawienia systemu ograniczają transfer danych za pomocą Przenoszenia danych.</string>
+    <string name="current_user_not_supported_title">"Nie można przenieść elementów"</string>
+    <string name="host_boot_installation_bottom_tips">"Nie możesz odnaleźć Przenoszenia danych? Dotknij, aby pobrać."</string>
+    <string name="host_boot_installation_step_one_messege">Przejdź do Ustawień, wprowadź \"Przenoszenie danych\" w pasku wyszukiwania, a następnie kliknij \"Przenoszenie danych\" w wynikach wyszukiwania.</string>
+    <string name="host_boot_installation_step_one_title">1. Otwórz Przenoszenie danych na starym urządzeniu</string>
+    <string name="host_boot_installation_step_two_title">2. Wybierz stronę, którą widzisz na starym urządzeniu.</string>
+    <string name="international_new_trans_intro_desc_8">"Wiadomości tekstowe nie mogą być przeniesione z powodu problemów z kompatybilnością. Aplikacje firm trzecich mogą ograniczyć przenoszenie ich danych ze względów bezpieczeństwa."</string>
+    <string name="international_new_trans_intro_question_8">"8. Dlaczego wiadomości tekstowe i dane części aplikacji nie mogą być przeniesione?"</string>
+    <string name="international_scanner_send_dialog_message">"Wiadomości tekstowe oraz dane części aplikacji firm trzecich nie mogą być przeniesione. Nie wyłączaj Wi-Fi, a także nie przełączaj się pomiędzy sieciami w trakcie przenoszenia."</string>
+    <string name="scanner_wechat_overwrite_hit">Z powodu ograniczeń aplikacji firm trzecich, historie czatu oraz inne dane aplikacji na nowym urządzeniu zostaną zastąpione przez stare dane po zakończeniu przenoszenia.</string>
 </resources>

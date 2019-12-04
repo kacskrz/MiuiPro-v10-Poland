@@ -6535,4 +6535,6 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="dual_wifi_auto_disable_summary">Rozłącz się z dodatkowymi sieciami Wi-Fi, gdy ekran jest wyłączony, w celu zaoszczędzenia energii</string>
   <string name="legal_written_offer">Licencje open source Xiaomi</string>
   <string name="popup_led_try_later">Odczekaj minutę bądź dwie i spróbuj ponownie</string>
+  <string name="delete_fingerprint_confirm_title">Uwaga</string>
+  <string name="lockscreen_magazine_india">Glance dla Xiaomi</string>
 </resources>
