@@ -308,4 +308,11 @@
   <string name="you_have_permission_to_download">Dotknij, aby pobrać wersję Beta</string>
   <string name="you_id">"Twoje ID: "</string>
   <string name="your_application_is_under_review">" (Twoje zgłoszenie jest obecnie rozpatrywane.)"</string>
+  <string name="store_feedback_prompt">Wprowadź najpierw swoją opinię</string>
+  <string name="store_location_dialog">Ta usługa jest dostarczana przez firmę Dianping. Wszystkie zdjęcia wykonane przez Ciebie w trakcie używania tej usługi, w tym informacje o lokalizacji, zostaną udostępnione firmie Dianping w celu uzyskania informacji o sklepach.</string>
+  <string name="store_location_fail">"Nie udało się uzyskać lokalizacji"</string>
+  <string name="store_location_prompt">Zezwól Skanerowi na dostęp do Twojej lokalizacji, aby móc rozpoznawać sklepy</string>
+  <string name="store_module_title">Sklep</string>
+  <string name="store_no_date">"Nie udało się rozpoznać sklepu"</string>
+  <string name="store_title">Zeskanuj znaki sklepu</string>
 </resources>

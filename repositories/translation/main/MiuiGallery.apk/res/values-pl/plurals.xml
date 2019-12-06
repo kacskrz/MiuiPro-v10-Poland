@@ -491,4 +491,8 @@
         <item quantity="other">Elementy mogą być tu przechowywane maks. do %1$d dni. Zwiększ swój plan, aby przedłużyć ten okres.</item>
         <item quantity="one">Elementy mogą być tu przechowywane przez %1$d dzień. Zwiększ swój plan, aby przedłużyć ten okres.</item>
     </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="one">%d godz.</item>
+        <item quantity="other">%d godz.</item>
+    </plurals>
 </resources>

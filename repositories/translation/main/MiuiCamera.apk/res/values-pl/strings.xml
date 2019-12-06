@@ -960,4 +960,13 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="id_card_mode_use_hint_text_body">"Połącz obydwie strony swojego identyfikatora w jeden obraz.
 Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="id_card_mode_use_hint_text_title">Zeskanuj identyfikator</string>
+  <string name="video_effect_entry_central">Centralny</string>
+  <string name="video_effect_entry_color_retention">Zatrzymywanie koloru</string>
+  <string name="video_effect_entry_fantasy">Fantasy</string>
+  <string name="video_effect_entry_lost">Zagubieni</string>
+  <string name="video_effect_entry_meet">Spotkanie</string>
+  <string name="video_effect_entry_northern_europe">Europa Północna</string>
+  <string name="video_effect_entry_rome">Rzym</string>
+  <string name="video_effect_entry_summer_day">Letni dzień</string>
+  <string name="video_effect_entry_wind_sing">Pieśń wiatru</string>
 </resources>

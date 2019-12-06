@@ -1373,7 +1373,7 @@
   <string name="dialog_recovery_tabs_tip">Znajdź niezamknięte strony z ostatniej sesji</string>
   <string name="movie_player_3g_tip_retry">Kontynuuj</string>
   <string name="movie_player_loading">Wkrótce： %s</string>
-  <string name="network_error_tips">Błąd sieci. Spróbuj ponownie</string>
+  <string name="network_error_tips">Błąd sieci. Spróbuj ponownie.</string>
   <string name="play_retry">Odtwórz ponownie</string>
   <string name="player_3g_tip_sub_title">Odtwarzanie spowoduje wykorzystanie danych komórkowych</string>
   <string name="player_3g_tip_title">Obecnie używasz danych komórkowych, kontynuacja będzie zużywać dane</string>
@@ -1384,7 +1384,7 @@
   <string name="pull_refresh_end">Puść, aby odświeżyć</string>
   <string name="pull_refresh_refreshing">Odświeżanie</string>
   <string name="recommending_close_toast_text">Wyłącz tę funkcję w zaawansowanych ustawieniach</string>
-  <string name="refresh_text">Odśwież</string>
+  <string name="refresh_text">Spróbuj ponownie</string>
   <string name="pref_accessibility_recommending_search_title">Podpowiedzi wyszukiwania</string>
   <string name="app_continue_downloading_text">Wznów</string>
   <string name="app_download_now_text">Pobierz</string>
@@ -1422,7 +1422,7 @@
   <string name="ad_exit_dialog_title_name">Potwierdzenie otwarcia aplikacji</string>
   <string name="data_traffic_download_confirm">Za pomocą danych komórkowych</string>
   <string name="data_traffic_download_ok">OK</string>
-  <string name="load_error_tip">Błąd przy ładowaniu - kliknij, aby spróbować jeszcze raz</string>
+  <string name="load_error_tip">Błąd przy ładowaniu - kliknij, aby spróbować ponownie.</string>
   <string name="document_open_txt_message">Aby poprawić wrażenia z czytania i zwiększyć bezpieczeństwo, użyj Zakładek</string>
   <string name="document_open_txt_start_read">Zacznij czytać</string>
   <string name="mw_add_to_dictionary">Dodaj do słownika</string>
@@ -1491,4 +1491,9 @@ aby wesprzeć pracę Xiaomi"</string>
   <string name="video_ad_duration">Zamknij reklamę (%d)</string>
   <string name="video_next_playback">Dalej</string>
   <string name="add_tag">Dodaj tag</string>
+  <string name="browser_default_setting_cancel">Anuluj</string>
+  <string name="browser_default_setting_confirm">OK</string>
+  <string name="browser_default_setting_content">Szybko i bezpiecznie przeglądaj sieć</string>
+  <string name="browser_default_setting_title">Ustaw jako domyślną przeglądarkę</string>
+  <string name="notification_channel_name_local_push">Powiadomienia z przeglądarki</string>
 </resources>

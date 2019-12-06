@@ -1774,4 +1774,18 @@ aby spersonalizować Galerię"</string>
   <string name="trash_vip_button_login">Przedłuż</string>
   <string name="trash_vip_button_login_top_level">Odnów</string>
   <string name="trash_vip_button_unlogin">Zaloguj się</string>
+  <string name="can_not_transfer_when_screening">"Nie można przesyłać ekranu w trakcie transferu"</string>
+  <string name="dump_db_info">Zrzut informacji o bazie danych</string>
+  <string name="filter_portrait_hint">Wyróżnienie</string>
+  <string name="photo_portrait_color_download_fail">"Nie udało się pobrać wtyczki. Połącz się z siecią i spróbuj ponownie."</string>
+  <string name="photo_portrait_color_download_success">Pomyślnie pobrano filtry</string>
+  <string name="photo_portrait_color_no_face">Wyróżnienie kolorem działa wyłącznie na zdjęciach, na których są ludzie</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">"Twoje urządzenie nie jest połączone z siecią Wi-Fi. Możesz pobrać filtry (%1$d MB) za pomocą danych komórkowych."</string>
+  <string name="photo_portrait_download_sdk_without_wifi_title">Pobierz filtry</string>
+  <string name="send_heif_summary">Skonwertuj obrazy przed wysłaniem w celu zapewnienia kompatybilności</string>
+  <string name="send_heif_title">Skonwertuj pliki HEIF do JPG przed wysłaniem</string>
+  <string name="unsupported_media_downloading_tip_common">"Wyświetlanie oryginalnych obrazów w tym formacie nie jest wspierane w tej wersji Androida. Pobrać mimo to?"</string>
+  <string name="unsupported_media_downloading_tip_format">"Wyświetlanie %s oryginalnych obrazów nie jest wspierane w tej wersji Androida. Pobrać mimo to?"</string>
+  <string name="unsupported_media_scanned_tip">"Znaleziono %1$s oryginalnych obrazów. Wyświetlanie %2$s obrazów nie jest wspierane w tej wersji Androida."</string>
+  <string name="unsupported_media_view_tip">"Wyświetlanie %s oryginalnych obrazów nie jest wspierane w tej wersji Androida"</string>
 </resources>
