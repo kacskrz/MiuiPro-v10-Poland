@@ -65,4 +65,5 @@
     <string name="onscreen_call_record">Ukryj przycisk \"Nagraj\"</string>
     <string name="category_button_title">Wyświetlanie elementów</string>
     <string name="category_color_title">Kolor elementów</string>
+    <string name="set_bright_level_title">Poziom jasności</string>
 </resources>

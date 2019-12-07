@@ -364,10 +364,10 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
     <string name="search_calendar_settings">Kalendarz;Agenda;Przypomnienie</string>
     <string name="select_date">Skocz do daty</string>
     <string name="set_as_wallpaper">Ustaw jako tapetę</string>
-    <string name="setting_about_calendar_version">Wersja kalendarza:</string>
-    <string name="setting_about_imei">IMEI:</string>
-    <string name="setting_about_miui_version">Wersja MIUI:</string>
-    <string name="setting_about_summary">Wersja:</string>
+    <string name="setting_about_calendar_version">Wersja kalendarza: %1$s-%2$s</string>
+    <string name="setting_about_imei">IMEI: %1$s</string>
+    <string name="setting_about_miui_version">Wersja MIUI: %1$s-%2$s</string>
+    <string name="setting_about_summary">"Wersja: "</string>
     <string name="setting_accounts">Konta Kalendarza</string>
     <string name="setting_features_title">Ustawienia funkcji</string>
     <string name="setting_holiday_display_desc">Karty dni wolnych są położone poniżej terminarza na stronie głównej</string>
@@ -590,4 +590,6 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="edit_event_title_edit_anniversary">Edytuj rocznicę</string>
   <string name="edit_event_title_edit_birthday">Edytuj urodziny</string>
   <string name="edit_event_title_edit_countdown">Edytuj odliczanie</string>
+  <string name="solar_lunar_convert_description_2">Przełącz pomiędzy kalendarzem chińskim a gregoriańskim</string>
+  <string name="setting_about_oaid">ID urządzenia: %1$s</string>
 </resources>
