@@ -1847,4 +1847,6 @@ długi zrzut ekranu"</string>
   <string name="multi_face_name_prefix">"Twarz "</string>
   <string name="multi_face_number_reach_limit">"Nie można dodać danych dla więcej niż 2 twarzy"</string>
   <string name="quick_settings_cellular_detail_unable_change">"Nie można ustawiać w trakcie rozmowy"</string>
+  <string name="ime_security_warning_global">Metody wprowadzania mogą gromadzić każdą wpisaną przez Ciebie frazę, w tym dane osobowe takie jak hasła czy numery kart kredytowych. Użyć %1$s?</string>
+  <string name="ime_security_warning_title_global">Włączenie klawiatury</string>
 </resources>

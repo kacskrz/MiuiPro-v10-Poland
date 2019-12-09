@@ -423,8 +423,9 @@
   <string name="suffix_countdown">s</string>
   <string name="t_check_delete_file">Wybierz elementy do usunięcia</string>
   <string name="t_check_delete_history">Wybierz nagrania do usunięcia</string>
-  <string name="t_check_hide_file">Wybierz wideo do ukrycia</string>
+  <string name="t_check_hide_file">Wybierz najpierw wideo do ukrycia</string>
   <string name="t_check_send_file">Wybierz jeden element do wysłania</string>
+  <string name="t_check_unhide_file">Wybierz najpierw wideo do odkrycia</string>
   <string name="t_comment_success">Wysłano pomyślnie</string>
   <string name="t_deleting">Usuwanie…</string>
   <string name="t_downloading_new_version">Pobieranie aktualizacji…</string>
@@ -498,6 +499,7 @@
   <string name="v_confirm_delete_history">Wyczyścić historię nagrań?</string>
   <string name="v_confirm_delete_videos">Usunąć elementy?</string>
   <string name="v_confirm_hide_videos">Ukryć wideo?</string>
+  <string name="v_confirm_unhide_videos">Odkryć wideo?</string>
   <string name="v_data_empty">Brak danych</string>
   <string name="v_debug_close">Zamknij debugowanie</string>
   <string name="v_debug_close_log">Zamknij log</string>
@@ -529,7 +531,7 @@
   <string name="v_local_video">Wideo</string>
   <string name="v_login">Zaloguj się</string>
   <string name="v_menu_delete">Usuń</string>
-  <string name="v_menu_hide">Ukryj</string>
+  <string name="v_menu_hide">Ukryte elementy</string>
   <string name="v_menu_nolike">Nie interesuje mnie</string>
   <string name="v_menu_send">Wyślij</string>
   <string name="v_more">Więcej</string>
@@ -909,6 +911,7 @@ Możesz poszukać czegoś innego."</string>
     <string name="open_more_comments">Więcej komentarzy</string>
     <string name="plus_gallery_folders_showall">Zobacz wszystko</string>
     <string name="plus_gallery_folders_showsection">Ukryj</string>
+    <string name="plus_gallery_mediatype_hidded">Ukryte</string>
     <string name="reply">"Odpowiedź na %s: "</string>
     <string name="send_comment_default_txt">Wprowadź komentarz</string>
     <string name="small_video_app_continue_download">Wznów</string>
@@ -924,4 +927,26 @@ Możesz poszukać czegoś innego."</string>
     <string name="vp_speed_guidance">Przytrzymaj ekran, aby zmienić prędkość odtwarzania</string>
     <string name="vp_speed_toast">Odtwarzanie z prędkością 2x</string>
     <string name="vp_video_wonderful_content">Dotknij, aby odtworzyć</string>
+    <string name="check_all_follow">Zobacz wszystko</string>
+    <string name="gallery_fold_tags">Ukryj tagi</string>
+    <string name="gallery_video_edit_save_video">Tworzenie wideo z napisami…</string>
+    <string name="gallery_view_tags">Pokaż tagi</string>
+    <string name="player_vip_buy_btn_text">Zasubskrybuj</string>
+    <string name="player_vip_buy_subtitle">Uzyskaj dostęp do funkcji premium</string>
+    <string name="player_vip_buy_title">Subskrypcja Mi Wideo</string>
+    <string name="plus_bottom_bar_delete">Usuń</string>
+    <string name="plus_bottom_bar_hide">Ukryj</string>
+    <string name="plus_bottom_bar_rename">Zmień nazwę</string>
+    <string name="plus_bottom_bar_share">Wyślij</string>
+    <string name="plus_bottom_bar_unhide">Odkryj</string>
+    <string name="plus_file_size">"Rozmiar: "</string>
+    <string name="subscribe_fans_tag">Fani</string>
+    <string name="subscribe_video_tag">Wideo</string>
+    <string name="v_dialog_hint_contain_invalid_char">Nazwa pliku zawiera niedozwolone znaki</string>
+    <string name="v_dialog_hint_duplicate_name">Ten plik już istnieje</string>
+    <string name="v_dialog_hint_not_null">"Nazwa pliku nie może być pusta"</string>
+    <string name="v_dialog_hint_start_with_dot">"Nazwa pliku nie może zaczynać się od \".\""</string>
+    <string name="v_dialog_hint_too_long">Nazwa pliku jest za długa</string>
+    <string name="v_dialog_rename_title">Zmień nazwę</string>
+    <string name="v_input_hint">Wprowadź nazwę pliku</string>
 </resources>

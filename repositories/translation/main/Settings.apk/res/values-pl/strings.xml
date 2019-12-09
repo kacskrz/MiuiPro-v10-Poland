@@ -6537,4 +6537,12 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="popup_led_try_later">Odczekaj minutę bądź dwie i spróbuj ponownie</string>
   <string name="delete_fingerprint_confirm_title">Uwaga</string>
   <string name="lockscreen_magazine_india">Glance dla Xiaomi</string>
+  <string name="ime_security_warning_global">Metody wprowadzania mogą gromadzić każdą wpisaną przez Ciebie frazę, w tym dane osobowe takie jak hasła czy numery kart kredytowych. Użyć %1$s?</string>
+  <string name="ime_security_warning_title_global">Włączenie klawiatury</string>
+  <string name="display_advanced_mode_summary">Opcje palety barw</string>
+  <string name="display_advanced_mode_title">Zaawansowane ustawienia</string>
+  <string name="haptic_feedback_progress">Siła reakcji haptycznych</string>
+  <string name="haptic_feedback_summary">Otrzymuj odpowiedź w formie wibracji na gesty i kontrolę systemu</string>
+  <string name="haptic_feedback_title">Reakcje haptyczne</string>
+  <string name="open_haptic_feedback">Reakcje haptyczne</string>
 </resources>

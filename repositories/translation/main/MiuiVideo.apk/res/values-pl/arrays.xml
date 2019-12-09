@@ -2,6 +2,9 @@
 <resources>
     <string-array name="feedback_tag_list">
         <item>Bug,1</item>
+        <item>Odtwarzanie,4</item>
+        <item>Prawa autorskie,3</item>
+        <item>Członkostwo,5</item>
         <item>Sugestia,2</item>
         <item>Inne kwestie,0</item>
     </string-array>

@@ -1434,4 +1434,8 @@
   <string name="status_communication_speaker_summary">Trwa rozmowa telefoniczna. Dźwięk będzie nadal odtwarzany przez głośnik po podłączeniu słuchawek.</string>
   <string name="status_communication_summary">Trwa połączenie. Obecnie możesz tylko zmienić poziom jego głośności.</string>
   <string name="app_running_notification_tip_text">Może to zwolnić Twoje urządzenie bądź zwiększyć zużycie baterii. Dotknij, aby wyjść z aplikacji</string>
+  <string name="handset_text_unsupported_handset_insert">Dotknij, aby zobaczyć szczegóły</string>
+  <string name="handset_text_usb_handset_insert">Dotknij, aby otworzyć dodatkowe ustawienia</string>
+  <string name="handset_title_unsupported_handset_insert">"Nie można odtworzyć audio przez adapter"</string>
+  <string name="handset_title_usb_handset_insert">Odtwarzanie audio przez USB</string>
 </resources>

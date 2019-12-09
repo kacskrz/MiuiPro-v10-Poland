@@ -1316,7 +1316,7 @@
   <string name="optimize_manage_title">Przyspiesz prędkość</string>
   <string name="optimize_result_ads_close_text">Reklama</string>
   <string name="optimize_result_available_memory_info">Dostępna pamięć</string>
-  <string name="optimize_result_button_cloudspace">Dodaj chmurę</string>
+  <string name="optimize_result_button_cloudspace">Uzyskaj więcej przestrzeni w Chmurze</string>
   <string name="optimize_result_button_consume_power_analysis">Skanowanie akumulatora</string>
   <string name="optimize_result_button_cooldown_now">Popraw teraz</string>
   <string name="optimize_result_button_correct_now">Dostosuj</string>
@@ -2840,4 +2840,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="power_save_mode_close_xiaoai_wakeup_summary">Działa z włączonym Oszczędzaniem baterii</string>
   <string name="power_save_mode_close_xiaoai_wakeup_title">"Nie uruchamiaj SI Mi głosem"</string>
   <string name="power_save_mode_other_optimization">Opcjonalne optymalizacje</string>
+  <string name="power_save_ps_close_setting_5g_q">Wyłącz usługi i funkcje zużywające najwięcej energii (synchronizacja, łączność 5G, reakcje haptyczne, \"Podnieś, aby wybudzić\", wybudzanie/wygaszanie ekranu dwuklikiem, \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
+  <string name="power_save_ps_close_setting_q">Wyłącz usługi i funkcje zużywające najwięcej energii (synchronizacja, reakcje haptyczne, \"Podnieś, aby wybudzić\", wybudzanie/wygaszanie ekranu dwuklikiem, \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
 </resources>
