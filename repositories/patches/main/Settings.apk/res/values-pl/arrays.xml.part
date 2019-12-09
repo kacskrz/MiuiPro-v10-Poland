@@ -195,4 +195,10 @@
         <item>Średni</item>
         <item>Duży</item>
     </string-array>
+  <string-array name="fingerprint_setup_entries"> 
+        <item>Wyłączone</item> 
+        <item>Wybudź ekran</item> 
+        <item>Odbierz połączenie</item> 
+        <item>Odrzuć połączenie</item> 
+    </string-array>
 </resources>

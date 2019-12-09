@@ -981,4 +981,11 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="portrait_india_effect_entry_warm">Ciepło</string>
   <string name="portrait_india_effect_entry_young">Młodość</string>
   <string name="pref_camera_manual_description_title">Opis parametrów w trybie Pro</string>
+  <string name="pref_camera_zoom_mode_entry_macro_abbr">MAKRO</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">ZOOM 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">ZOOM 5X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_abbr">ZOOM</string>
+  <string name="pref_camera_zoom_mode_entry_ultra_abbr">BARDZO SZEROKI</string>
+  <string name="pref_camera_zoom_mode_entry_wide_abbr">SZEROKI</string>
+  <string name="pref_camera_zoom_mode_title_abbr">MODUŁ</string>
 </resources>
