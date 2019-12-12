@@ -1849,4 +1849,15 @@ długi zrzut ekranu"</string>
   <string name="quick_settings_cellular_detail_unable_change">"Nie można ustawiać w trakcie rozmowy"</string>
   <string name="ime_security_warning_global">Metody wprowadzania mogą gromadzić każdą wpisaną przez Ciebie frazę, w tym dane osobowe takie jak hasła czy numery kart kredytowych. Użyć %1$s?</string>
   <string name="ime_security_warning_title_global">Włączenie klawiatury</string>
+  <string name="accessibility_status_bar_no_slave_wifi">Podwójne Wi-Fi - rozłączone.</string>
+  <string name="accessibility_status_bar_slave_wifi_four_bars">Podwójne Wi-Fi - cztery kreski.</string>
+  <string name="accessibility_status_bar_slave_wifi_one_bar">Podwójne Wi-Fi - jedna kreska.</string>
+  <string name="accessibility_status_bar_slave_wifi_three_bars">Podwójne Wi-Fi - trzy kreski.</string>
+  <string name="accessibility_status_bar_slave_wifi_two_bars">Podwójne Wi-Fi - dwa kreski.</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Przyspieszenie prędkości</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Anuluj</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Potwierdź</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">"Nie pokazuj ponownie"</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Przełączanie pomiędzy sieciami</string>
+  <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Przyspieszenie prędkości oparte na dwóch pasmach Wi-Fi wymaga użycia dwóch różnych pasm sieci Wi-Fi. Jeśli połączysz się z inną siecią główną, połączenie z siecią dodatkową zostanie utracone.</string>
 </resources>
