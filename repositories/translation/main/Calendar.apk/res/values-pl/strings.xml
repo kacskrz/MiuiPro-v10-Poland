@@ -592,4 +592,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="edit_event_title_edit_countdown">Edytuj odliczanie</string>
   <string name="solar_lunar_convert_description_2">Przełącz pomiędzy kalendarzem chińskim a gregoriańskim</string>
   <string name="setting_about_oaid">ID urządzenia: %1$s</string>
+  <string name="notification_channel_name_no_sound">Przypomnienia bez dźwięku</string>
+  <string name="notification_channel_name_no_vibration">Przypomnienia bez wibracji</string>
+  <string name="notification_channel_name_silent">Przypomnienia w trybie Godziny ciszy</string>
 </resources>
