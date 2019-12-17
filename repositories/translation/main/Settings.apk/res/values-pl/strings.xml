@@ -6547,4 +6547,5 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="haptic_feedback_summary">Otrzymuj odpowiedź w formie wibracji na gesty i kontrolę systemu</string>
   <string name="haptic_feedback_title">Reakcje haptyczne</string>
   <string name="open_haptic_feedback">Reakcje haptyczne</string>
+  <string name="video_tool_box_title">Pasek z narzędziami wideo</string>
 </resources>

@@ -2861,7 +2861,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="applock_set_password_title">Zmień rodzaj weryfikacji</string>
   <string name="applock_unlock_all">Odblokuj wszystkie</string>
   <string name="gamebox_voicechanger">Zmiana głosu</string>
-  <string name="gb_audition_instruction">Przytrzymaj, aby nagrać (0-10 s)</string>
+  <string name="gb_audition_instruction">Przytrzymaj, aby nagrać (%1$s-%2$s s)</string>
   <string name="gb_audition_play_instruction">Użyj słuchawek dla lepszego efektu</string>
   <string name="gb_sound_audition">Wypróbuj</string>
   <string name="gb_voice_change_settinged">Zmiana głosu jest włączona</string>

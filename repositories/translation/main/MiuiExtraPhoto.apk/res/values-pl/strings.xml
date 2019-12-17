@@ -55,5 +55,5 @@
   <string name="saving_image">Zapisywanie zdjęcia…</string>
   <string name="saving_image_to_album">Zapisywanie zdjęcia do %1$s…</string>
   <string name="wait_error">Chwileczkę…</string>
-  <string name="extra_photo_common_save_fail">Zapisywanie nieudane</string>
+  <string name="extra_photo_common_save_fail">Nie udało się zapisać</string>
 </resources>
