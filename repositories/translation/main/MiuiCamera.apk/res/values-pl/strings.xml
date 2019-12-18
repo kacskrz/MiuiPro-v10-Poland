@@ -944,8 +944,8 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="camera_settings_category_development">Funkcje eksperymentalne</string>
   <string name="pref_camera_common_settings">Ustawienia ogólne</string>
   <string name="pref_camera_quick_settings">Szybkie ustawienia</string>
-  <string name="pref_camera_heic_image_format_description">Wykonuj zdjęcia w formacie HEIF, zapewniającym wysoką jakość zdjęć i mniejszy rozmiar pliku</string>
-  <string name="pref_camera_heic_image_format_title">Format HEIC</string>
+  <string name="pref_camera_heic_image_format_description">Wykonuj zdjęcia w formacie HEIF (zmniejsza rozmiar pliku, ale nie wspiera go część aplikacji)</string>
+  <string name="pref_camera_heic_image_format_title">Format HEIF</string>
   <string name="document_blackwhite">Czarno-biały</string>
   <string name="document_blur_warn">Zamazany tekst</string>
   <string name="document_origin">Oryginalny</string>
@@ -990,4 +990,9 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="pref_camera_zoom_mode_title_abbr">MODUŁ</string>
   <string name="miservice_notification_content">Dotknij, aby dowiedzieć się więcej</string>
   <string name="miservice_notification_title">Dowiedz się więcej o nowych funkcjach Aparatu</string>
+  <string name="pic_flaw_blink_more">Ktoś w kadrze zamknął oczy</string>
+  <string name="pic_flaw_blink_one">Osoba w kadrze zamknęła oczy</string>
+  <string name="pic_flaw_cover">Obiektyw jest częściowo zasłonięty</string>
+  <string name="pref_pic_flaw_tip_summary">Aparat będzie informować Cię na bieżąco, gdy osoba w kadrze zamknie oczy lub gdy obiektyw jest czymś zasłonięty w trakcie robienia zdjęć</string>
+  <string name="pref_pic_flaw_tip_title">Informuj o defektach</string>
 </resources>

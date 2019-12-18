@@ -2907,4 +2907,12 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="videobox_settings_title">Pasek z narzędziami wideo</string>
   <string name="vtb_other_milink_connect">"Nie można obecnie przesyłać wideo. Trwa przesyłanie innych elementów…"</string>
   <string name="vtb_stop_milink_connect">Zatrzymano przesyłanie wideo</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Wyczyść %s pamięci podręcznej WeChata, aby zwolnić miejsce</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">Nie zapomnij wyczyścić pamięci podręcznej</string>
+  <string name="gb_operat_frequently">Nie tak szybko!</string>
+  <string name="global_wa_setting_alert_dialog_content">Możesz wyczyścić %s</string>
+  <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
+  <string name="net_boostering">Przyspieszanie sieci</string>
+  <string name="notification_garbage_cleanup_summary">Wyczyść śmieci (%s), aby przyspieszyć urządzenie</string>
+  <string name="notification_garbage_cleanup_title">Wyczyść śmieci</string>
 </resources>
