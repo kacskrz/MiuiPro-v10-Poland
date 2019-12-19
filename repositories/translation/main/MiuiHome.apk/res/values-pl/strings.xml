@@ -82,6 +82,8 @@
   <string name="aqi_quality_index_light_pollution">Dobry</string>
   <string name="aqi_quality_index_moderate">Umiarkowana</string>
   <string name="aqi_quality_index_unhealthy">Dostateczny</string>
+  <string name="auto_delete_category_dialog_content">Obecnie znajdujące się w tej kategorii aplikacje zostaną z niej usunięte. Usunąć ją teraz?</string>
+  <string name="auto_delete_category_dialog_title">Usuwanie kategorii</string>
   <string name="backup_fail">Nie udało się zrobić kopii launchera.</string>
   <string name="bad_wallpaper_source_prompt">Nie można wczytać tapety</string>
   <string name="buffering">Buforowanie…</string>
@@ -468,4 +470,5 @@
   <string name="reset_cate_tip_title">Przywróć domyślne kategorie</string>
   <string name="edit">Edytuj</string>
   <string name="system_shortcuts_remove">Usuń</string>
+  <string name="default_folder_title_other_apps">Inne</string>
 </resources>

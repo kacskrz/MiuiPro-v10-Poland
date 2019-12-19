@@ -213,4 +213,6 @@
   <string name="icon_notification_style_title">Ikony powiadomień</string>
   <string name="set_pip_size_title">Rozmiar okna w trybie Obraz w obrazie (PiP)</string>
   <string name="fingerprint_setup_title">Akcja czytnika linii papilarnych</string>
+  <string name="miuipro_select_app_title">Skróty na ekranie blokady</string>
+  <string name="miuipro_select_aod_app_title">Powiadomienia z aplikacji</string>
 </resources>

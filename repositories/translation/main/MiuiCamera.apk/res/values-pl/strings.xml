@@ -71,7 +71,7 @@
   <string name="confirm_install_scanner_message">Skaner pozwala na skanowanie kodów QR, kodów paskowych i wiele więcej. Nie musisz być podłączony do internetu, aby go zainstalować.</string>
   <string name="confirm_install_scanner_title">Zainstaluj skaner</string>
   <string name="confirm_location_alert">Zapamiętaj miejsce wykonania</string>
-  <string name="confirm_location_message">Dodaj do swoich zdjęć i filmów informację o miejscu ich zrobienia. Inne aplikacje, które otrzymają dostęp do zapisanych zdjęć, będą mogły odczytać te dane.</string>
+  <string name="confirm_location_message">Dodaj do swoich zdjęć i filmów informację o miejscu ich zrobienia. Pomoże Ci to szybciej odnaleźć zdjęcia z konkretnych miejsc.</string>
   <string name="confirm_location_title">Zapamiętać miejsce wykonania?</string>
   <string name="confirm_recording_fail_calling_alert">Nie można rozpocząć nagrywania wideo podczas rozmowy</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Inne aplikacje mogą w tym momencie rejestrować dźwięk</string>
@@ -995,4 +995,5 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="pic_flaw_cover">Obiektyw jest częściowo zasłonięty</string>
   <string name="pref_pic_flaw_tip_summary">Aparat będzie informować Cię na bieżąco, gdy osoba w kadrze zamknie oczy lub gdy obiektyw jest czymś zasłonięty w trakcie robienia zdjęć</string>
   <string name="pref_pic_flaw_tip_title">Informuj o defektach</string>
+  <string name="location_access_allow">Zezwól</string>
 </resources>

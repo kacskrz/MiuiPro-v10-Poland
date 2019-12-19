@@ -495,4 +495,9 @@
         <item quantity="one">%d godz.</item>
         <item quantity="other">%d godz.</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="one">%d album</item>
+        <item quantity="other">%d albumów</item>
+        <item quantity="few">%d albumy</item>
+    </plurals>
 </resources>

@@ -285,7 +285,9 @@
     <item>LDAC</item>
 	<item>Adaptacyjne audio Qualcomm® aptX™</item>
     <item>Qualcomm® aptX™ TWS+ audio</item>
-	   <item>LHDC</item>
+    <item>LHDC V3</item>
+    <item>LHDC V2</item>
+    <item>LHDC V1</item>
     <item>Włączenie opcjonalnych kodeków</item>
     <item>Wyłączenie opcjonalnych kodeków</item>
   </string-array>
@@ -298,7 +300,9 @@
     <item>LDAC</item>
 	<item>Adaptacyjne audio Qualcomm® aptX™</item>
     <item>Qualcomm® aptX™ TWS+ audio</item>
-	   <item>LHDC</item>
+    <item>LHDC V3</item>
+    <item>LHDC V2</item>
+    <item>LHDC V1</item>
     <item>Włącz opcjonalne kodeki</item>
     <item>Wyłącz opcjonalne kodeki</item>
   </string-array>
