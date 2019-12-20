@@ -27,7 +27,7 @@
     <string name="contrast_ratio">Kontrast</string>
     <string name="create">Utwórz</string>
     <string name="create_failed">Nie udało się utworzyć skrótu</string>
-    <string name="create_shortcut">Utwórz skrót na pulpicie</string>
+    <string name="create_shortcut">Skrót na pulpicie</string>
     <string name="created">Utworzono</string>
     <string name="created_successfully">Pomyślnie utworzono skrót</string>
     <string name="first_unlock_time">"Pierwsze odblokowanie: "</string>
@@ -41,13 +41,13 @@
     <string name="hsv_space_color_value">Wartość</string>
     <string name="intelligent_recognition_item_summary">Rozpoznawaj połączenia przychodzące od dostawców usług (np. dostawców jedzenia) i użyj dla nich oddzielnego dzwonka (działa tylko z ustawionym dzwonkiem %s)</string>
     <string name="intelligent_recognition_item_title">Rozpoznawanie usług</string>
-    <string name="lock_summary">Kompleksowa ochrona Twojej prywatności</string>
+    <string name="lock_summary">Chroń swoje prywatne dane</string>
     <string name="mms">SMS</string>
     <string name="more_ringtone">Wszystkie dzwonki</string>
     <string name="more_settings">Ustawienia</string>
     <string name="most_unlock_week_day">"Najwięcej odblokowań: "</string>
     <string name="network_error">Wystąpił błąd sieci. Spróbuj ponownie.</string>
-    <string name="no_matching">Brak pasujących aplikacji</string>
+    <string name="no_matching">Nie znaleziono aplikacji do otwarcia tego linku</string>
     <string name="notification_sound">Dzwonki powiadomień</string>
     <string name="other_parameter">Inne</string>
     <string name="p3_color_region_summary">Wyświetlaj treści na ekranie w palecie barw P3</string>
@@ -67,11 +67,11 @@
     <string name="screen_original_gamut">Rozszerzona</string>
     <string name="screen_original_gamut_summary">Wyświetlaj treści na ekranie w najszerszej możliwej palecie barw</string>
     <string name="screen_paper_mode_apps_loading">Chwileczkę…</string>
-    <string name="screen_time_lock">Blokada aplikacji Czas przed ekranem</string>
+    <string name="screen_time_lock">Blokada Czasu przed ekranem</string>
     <string name="search_app_name">Wyszukaj aplikacje</string>
     <string name="search_empty">Nie znaleziono aplikacji</string>
     <string name="several_days_use_time">Czas na ekranie: %2$s</string>
-    <string name="shortcut_created">Utworzono skrót</string>
+    <string name="shortcut_created">Skrót już istnieje</string>
     <string name="sms_delivered_sound_title">Dostarczenie wiadomości</string>
     <string name="sms_received_sound_title">Nowa wiadomość</string>
     <string name="srgb_color_region_summary">Wyświetlaj treści na ekranie w palecie barw sRGB</string>
@@ -79,8 +79,8 @@
     <string name="stop_app_timer_fail">Nie udało się wyłączyć tej funkcji</string>
     <string name="stop_app_timer_success">Funkcja Czas przed ekranem została pomyślnie wyłączona.</string>
     <string name="stop_app_timer_tip">Po wyłączeniu funkcji Czas przed ekranem wszystkie powiązane z nią dane i uprawnienia, włącznie z ustawieniami dla poszczególnych aplikacji, a także danymi przechowywanymi na urządzeniu i w Chmurze Xiaomi, zostaną wyczyszczone.</string>
-    <string name="stop_summary">Wszystkie dane funkcji Czas przed ekranem zostaną usunięte po jej wyłączeniu</string>
-    <string name="suggestion">Sugestie i opinie</string>
+    <string name="stop_summary">Wszystkie statystyki i dane funkcji Czas przed ekranem zostaną usunięte po jej wyłączeniu</string>
+    <string name="suggestion">Opinie</string>
     <string name="thememanager_not_found">"Nie udało się otworzyć Motywów. Upewnij się, że są one zainstalowane na tym urządzeniu."</string>
     <string name="today_usage_title">Dziś</string>
     <string name="today_use_time">Czas na ekranie: %1$s</string>
@@ -89,7 +89,6 @@
     <string name="trend_from_yesterday_less_simple">%1$s mniej niż wczoraj</string>
     <string name="trend_from_yesterday_more">%1$s więcej niż wczoraj</string>
     <string name="trend_from_yesterday_more_simple">%1$s więcej niż wczoraj</string>
-    <string name="try_to_create">Podjęto próbę utworzenia skrótu</string>
     <string name="unlock_times_per_day">"Codziennie średnio: "</string>
     <string name="unlock_times_per_hour">"Odblokowań na godzinę: "</string>
     <string name="usage_agree">OK</string>
@@ -126,17 +125,17 @@
     <string name="usage_focus_title_level5">Pozostań skupionym</string>
     <string name="usage_home_permission_account_summary">W celu zalogowania się na konto Xiaomi i synchronizacji statystyk</string>
     <string name="usage_home_permission_account_title">Dostęp do kont na urządzeniu</string>
-    <string name="usage_home_permission_phone_summary">W celu wygenerowania identyfikatora VAID służącego do rozpoznawania urządzeń</string>
+    <string name="usage_home_permission_phone_summary">W celu rozpoznawania urządzenia za pomocą VAID</string>
     <string name="usage_home_permission_phone_title">Dostęp do informacji o urządzeniu</string>
     <string name="usage_home_premission_main_summary">Witaj w funkcji Czas przed ekranem! Dzięki niej możesz sprawdzać statystyki korzystania z urządzenia oraz konkretnych aplikacji, ustawiać limity korzystania z nich, a także korzystać z Trybu skupienia. Aby zapewnić działanie tych funkcji, aplikacja musi gromadzić informacje o korzystaniu z urządzenia, takie jak ilość odblokowań urządzenia czy konkretny czas użytkowania danych aplikacji.</string>
     <string name="usage_home_premission_main_summary_new">"Witaj w funkcji Czas przed ekranem!
-W celu poprawnego działania aplikacji musi ona gromadzić dane o Twojej aktywności na urządzeniu (czas korzystania z aplikacji, ilość odblokowań ekranu, powiadomień, ilość czasu, w jakim włączony był Tryb skupienia itd.).
+W celu poprawnego działania aplikacji musi ona gromadzić dane o Twojej aktywności na urządzeniu (czas korzystania z aplikacji, ilość odblokowań ekranu czy powiadomień, czas, przez który włączony był Tryb skupienia itd.).
 Ponadto musi ona łączyć się z siecią i wymagać będzie następujących uprawnień:"</string>
     <string name="usage_home_premission_main_summary_new_o">"Witaj w funkcji Czas przed ekranem!
-W celu poprawnego działania aplikacji musi ona gromadzić dane o Twojej aktywności na urządzeniu (czas korzystania z aplikacji, ilość odblokowań ekranu, powiadomień itd.).
+W celu poprawnego działania aplikacji musi ona gromadzić dane o Twojej aktywności na urządzeniu (czas korzystania z aplikacji, ilość odblokowań ekranu czy powiadomień itd.).
 Ponadto musi ona łączyć się z siecią i wymagać będzie następujących uprawnień:"</string>
     <string name="usage_home_premission_second_summary">Aby móc działać normalnie, aplikacja musi gromadzić Twoje dane osobowe. Xiaomi będzie chronić je w oparciu o odpowiednie przepisy oraz polityki prywatności.</string>
-    <string name="usage_home_premission_second_summary_new">Jeśli nie zezwolisz na udzielenie powyższych uprawnień, nie będziesz mógł korzystać z tej aplikacji. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami i politykami prywatności.</string>
+    <string name="usage_home_premission_second_summary_new">Jeśli nie zezwolisz na udzielenie powyższych uprawnień, nie będziesz mógł korzystać z tej aplikacji. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami i politykami prywatności. Możesz odwołać swoją autoryzację dla tej funkcji, wyłączając ją (ikona zębatki &gt; Wyłącz funkcję Czas przed ekranem). Jeśli masz więcej pytań dotyczących prywatności, możesz skontaktować się z Xiaomi za pomocą e-maila: privacy@xiaomi.com.</string>
     <string name="usage_state_accurate_date">dd MMMM yyyy</string>
     <string name="usage_state_add_up_count">Sesje</string>
     <string name="usage_state_add_up_days">Dni</string>

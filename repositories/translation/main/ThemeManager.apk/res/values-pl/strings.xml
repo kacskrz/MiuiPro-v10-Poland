@@ -859,4 +859,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="support_theme_store_title">Wspomóż twórców Xiaomi</string>
   <string name="de_preview">Podgląd</string>
   <string name="wallpaper_set_as_incall_show">Ustaw jako profil wideo</string>
+  <string name="theme_setting_all">Wszystkie motywy</string>
+  <string name="wallpaper_setting_all">Wszystkie tapety</string>
+  <string name="wallpaper_setting_live">Żywe</string>
 </resources>
