@@ -1088,7 +1088,7 @@ aby spersonalizować Galerię"</string>
     <string name="user_agreement2">Warunki użytkowania</string>
     <string name="user_agreement4">Polityka prywatności</string>
     <string name="user_alias_self">Ja</string>
-    <string name="user_notice_identify_summary_format">Korzystając z tej usługi, zgadzasz się na %1$s i %2$s od Xiaomi.</string>
+    <string name="user_notice_identify_summary_format">"Korzystając z aplikacji, zgadzasz się na &lt;a href=\"%1$s\">\"Warunki użytkowania\"&lt;/a> i &lt;a href=\"%2$s\">\"Politykę prywatności\"&lt;/a> Xiaomi."</string>
     <string name="user_notice_title">Warunki Użytkowania</string>
     <string name="video_edit_file_not_exits_tip">Najpierw pobierz wideo</string>
     <string name="video_editor_abandon_changes_tip_message">Odrzucić wszystkie zmiany?</string>
@@ -1823,4 +1823,8 @@ aby spersonalizować Galerię"</string>
   <string name="remove_single_album_from_rubbish_page_tip">Przywrócić wybrane albumy?</string>
   <string name="rubbish_album_move_to_other_album_success">Możesz teraz zobaczyć te elementy w zakładce \"Inne albumy\".</string>
   <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Pomyślnie przeniesiono do kosza</string>
+  <string name="risk_control_deleted_date">dd.MM</string>
+  <string name="risk_control_deleted_message">Ktoś usunął Twoje elementy z Galerii ze Chmury Xiaomi, używając urządzenia %3$s dnia %1$s o godz. %2$s. Czy to Ty?</string>
+  <string name="risk_control_deleted_title">Ostrzeżenie dot. bezpieczeństwa</string>
+  <string name="trash_bin_summary_local">Przeglądaj ostatnio usunięte zdjęcia i filmy</string>
 </resources>

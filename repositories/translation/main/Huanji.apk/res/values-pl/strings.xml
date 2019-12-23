@@ -509,4 +509,9 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="international_new_trans_intro_question_8">"8. Dlaczego wiadomości tekstowe i dane części aplikacji nie mogą być przeniesione?"</string>
     <string name="international_scanner_send_dialog_message">"Wiadomości tekstowe oraz dane części aplikacji firm trzecich nie mogą być przeniesione. Nie wyłączaj Wi-Fi, a także nie przełączaj się pomiędzy sieciami w trakcie przenoszenia."</string>
     <string name="scanner_wechat_overwrite_hit">Z powodu ograniczeń aplikacji firm trzecich, historie czatu oraz inne dane aplikacji na nowym urządzeniu zostaną zastąpione przez stare dane po zakończeniu przenoszenia.</string>
+    <string name="back">Wstecz</string>
+    <string name="next">Dalej</string>
+    <string name="selected">Wybrano</string>
+    <string name="skip_underline">Pomiń ten krok</string>
+    <string name="unselected">Nie wybrano</string>
 </resources>

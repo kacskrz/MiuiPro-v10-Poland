@@ -6548,4 +6548,5 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="haptic_feedback_title">Reakcje haptyczne</string>
   <string name="open_haptic_feedback">Reakcje haptyczne</string>
   <string name="video_tool_box_title">Pasek z narzędziami wideo</string>
+  <string name="gps_description">Wspierane są różne systemy nawigacji (GPS, BeiDou, GLONASS, Galileo)</string>
 </resources>

@@ -525,4 +525,15 @@
 Roczne i pięcioletnie punkty LPR będą podawane 20. dnia każdego miesiąca (możliwe opóźnienia ze względu na święta w bankach) na stronie Ludowego Banku Chin."</string>
   <string name="lpr_tips_title">LPR (podstawowa stopa pożyczki)</string>
   <string name="loan_type_title">Standard stopy procentowej</string>
+  <string name="dialog_privacy_content">Oprócz podstawowych funkcji kalkulatora, nasza aplikacja zawiera również kalkulator naukowy i uniwersalny konwerter. Niektóre funkcje wymagają łączności z Internetem, aby działać normalnie. <Data>Przed użyciem Kalkulatora musisz przeczytać i zgodzić się na warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%2$s>Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="disallow">"Nie zgadzam się"</string>
+  <string name="network_privacy">Aplikacja wymaga połączenia z Internetem i gromadzenia danych osobowych w celu dostarczania usług. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami i politykami prywatności.</string>
+  <string name="permission_location">Dostęp do lokalizacji</string>
+  <string name="permission_location_desc">W celu dostarczania usług opartych na lokalizacji</string>
+  <string name="permission_phone">Dostęp do stanu urządzenia i jego ID</string>
+  <string name="permission_phone_desc">W celu rozpoznawania różnych urządzeń</string>
+  <string name="permission_privacy_link"><Data>Przed użyciem tej aplikacji musisz przeczytać i zaakceptować warunki &lt;a href=%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href=%2$s>Polityki prywatności&lt;/a> Xiaomi.</Data></string>
+  <string name="permission_purpose">"Witaj w Kalkulatorze! Poza podstawowymi funkcjami, aplikacja pozwala także na śledzenie kursów walut, konwersję miar, obliczanie rat kredytu i wiele, wiele więcej. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami i politykami prywatności.
+Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</string>
+  <string name="permission_remove_desc">Możesz odinstalować tą aplikację bądź ograniczyć dla niej uprawnienia, a także odwołać swoją autoryzację dla niej w Ustawieniach.</string>
 </resources>

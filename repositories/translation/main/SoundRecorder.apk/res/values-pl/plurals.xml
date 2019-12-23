@@ -41,4 +41,14 @@
         <item quantity="one">Znaleziono %d nagranie</item>
         <item quantity="few">Znaleziono %d nagrania</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Usunąć %d nagrań z Chmury?</item>
+        <item quantity="one">Usunąć %d nagranie z Chmury?</item>
+        <item quantity="few">Usunąć %d nagrania z Chmury?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Usunąć %d nagrań?</item>
+        <item quantity="one">Usunąć %d nagranie?</item>
+        <item quantity="few">Usunąć %d nagrania?</item>
+    </plurals>
 </resources>

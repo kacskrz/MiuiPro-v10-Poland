@@ -230,4 +230,5 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
    <string name="restoring_data">Przywracanie danych…</string>
   <string name="restoring_home_screen_apps">Przywracanie z Chmury Xiaomi…</string>
   <string name="loading_progress_num">Załadowano %s%%</string>
+  <string name="restore_from_mimover">Przywróć ze starego urządzenia (Przenoszenie danych)</string>
 </resources>

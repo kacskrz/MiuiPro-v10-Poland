@@ -180,4 +180,7 @@
   <string name="search_hint">Szukaj</string>
   <string name="cancel_rename">Anuluj</string>
   <string name="loading_more">Chwileczkę…</string>
+  <string name="delete_cloud_data_at_same_time">Usuń także z Chmury</string>
+  <string name="preference_record_desktop_indicator_summary">Wyświetlaj niebieski wskaźnik na pulpcie, gdy aplikacja Dyktafon działa w tle</string>
+  <string name="preference_record_desktop_indicator_title">Oznaczenie na pulpicie</string>
 </resources>
