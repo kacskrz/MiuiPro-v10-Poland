@@ -730,7 +730,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="warning_bar_action_close">Zamknij</string>
   <string name="warning_bar_action_turn_on_master_sync">Włącz</string>
   <string name="warning_bar_action_turn_on_sync">Włącz</string>
-  <string name="warning_bar_action_upgrade_vip">Zwiększ plan Chmury Xiaomi</string>
+  <string name="warning_bar_action_upgrade_vip">Ulepsz</string>
   <string name="warning_bar_add_short_cut_success">Dodano pomyślnie</string>
   <string name="warning_bar_title_cloud_space_already_full">W Chmurze jest mało miejsca. Twoje zdjęcia mogą nie zostać zsynchronizowane.</string>
   <string name="warning_bar_title_cloud_space_full">Brak miejsca w Chmurze. Wstrzymano synchronizację.</string>

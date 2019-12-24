@@ -263,4 +263,5 @@
   <string name="can_not_transfer_when_screening">"Nie można przesyłać ekranu w trakcie przenoszenia"</string>
   <string name="flip_screen_camera_tip">Odwróć urządzenie, aby użyć aparatu</string>
   <string name="input_method_clipboard_tips">Skopiowane elementy zostaną usunięte z schowka po 48 godzinach</string>
+  <string name="slatoast">Telefon używa danych komórkowych do przyspieszenia prędkości (może to zużyć Twój pakiet)</string>
 </resources>
