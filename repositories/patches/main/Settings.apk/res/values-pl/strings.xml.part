@@ -215,4 +215,5 @@
   <string name="fingerprint_setup_title">Akcja czytnika linii papilarnych</string>
   <string name="miuipro_select_app_title">Skróty na ekranie blokady</string>
   <string name="miuipro_select_aod_app_title">Powiadomienia z aplikacji</string>
+  <string name="miuipro_select_quick_app_title">Przypisz aplikacje do skrótu</string>
 </resources>

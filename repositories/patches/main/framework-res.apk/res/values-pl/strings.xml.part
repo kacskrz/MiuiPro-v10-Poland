@@ -25,4 +25,5 @@
     <string name="mcat_7">Kliknij ponownie, aby wyjść</string>
     <string name="mcat_8">Polityka prywatności</string>
     <string name="mcat_9">Wymagane uprawnienia</string>
+    <string name="miuipro_select_app_off">Nieprzypisane aplikacje</string>
 </resources>
