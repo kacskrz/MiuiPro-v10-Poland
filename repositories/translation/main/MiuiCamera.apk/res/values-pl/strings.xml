@@ -1042,4 +1042,5 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="parameter_wb_title">Balans bieli</string>
   <string name="parameter_zoom_slider_description">Przeciągaj suwak powiększenia w górę bądź w dół, aby płynnie zmieniać ujęcie z dalekiego kadru na konkretny obiekt.</string>
   <string name="parameter_zoom_slider_title">Powiększenie</string>
+  <string name="kaleidoscope_fragment_tab_name">Kalejdoskop</string>
 </resources>

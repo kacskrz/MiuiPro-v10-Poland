@@ -57,7 +57,7 @@
   <string name="adb_login_xiaomi_account">Zaloguj się najpierw na konto Xiaomi</string>
   <string name="add_done">Pomyślnie dodano</string>
   <string name="add_game">Dodaj grę</string>
-  <string name="add_game_notification_summary">Dotknij aby uruchomić i przyspieszyć prędkość</string>
+  <string name="add_game_notification_summary">Dotknij, aby uruchomić i przyspieszyć prędkość</string>
   <string name="add_miservice_dialog_content">%s wymaga dodania MIUI Service Framework do listy wyjątków. Możesz otrzymywać powiadomienia z wbudowanych aplikacji MIUI oraz aplikacji firm trzecich.</string>
   <string name="add_to_whitelist_button">Wyjątki w roamingu</string>
   <string name="add_whitelist">Dodaj do wyjątków</string>
@@ -73,7 +73,7 @@
   <string name="adjust_traffic_data">Dostosuj użycie danych</string>
   <string name="after_the_lock_screen">Blokuj aplikacje razem z ekranem</string>
   <string name="all_address_choose_hint">Wszystkie numery z tego województwa</string>
-  <string name="already_close_gamebooster">Przyspieszenie prędkości gier jest wyłączone</string>
+  <string name="already_close_gamebooster">Tryb Game Turbo wył.</string>
   <string name="anti_disturb_msg_detail">Wyłącz wszystkie powiadomienia z wyjątkiem połączeń przychodzących</string>
   <string name="anti_disturb_msg_title">Nie przeszkadzać</string>
   <string name="antispam_mode_details">Szczegóły listy blokowanych</string>
@@ -275,8 +275,8 @@
   <string name="auto_back_booster">Zatrzymano przyspieszanie</string>
   <string name="auto_booster_suc">Pomyślnie przyspieszono</string>
   <string name="auto_clean_close">Automatyczne czyszczenie jest wyłączone</string>
-  <string name="auto_data_back_booster">Wyłączono zwiększenie wydajności. Przywrócone zostały funkcje komunikacyjne.</string>
-  <string name="auto_data_booster_suc">Włączono zwiększenie wydajności oraz tryb Poza siecią.</string>
+  <string name="auto_data_back_booster">Wyłączono tryb Game Turbo. Przywrócone zostały funkcje komunikacyjne.</string>
+  <string name="auto_data_booster_suc">Włączono tryby Game Turbo oraz Poza siecią.</string>
   <string name="auto_handle_title">OGÓLNE</string>
   <string name="auto_import_games">Umieść wszystkie swoje gry w jednym miejscu</string>
   <string name="auto_task_condition_choose_battery_level_down">Gdy bateria osiągnie określony poziom</string>
@@ -470,7 +470,7 @@
   <string name="card_main_deepclean_wechat_action">Wyczyść</string>
   <string name="card_main_deepclean_wechat_summary">Wyczyść pamięć podręczną WeChat, aby zwolnić miejsce</string>
   <string name="card_main_deepclean_wechat_title">Pamięć podręczna WeChat</string>
-  <string name="card_main_gamebooster_title">Przyspiesz gry</string>
+  <string name="card_main_gamebooster_title">Game Turbo</string>
   <string name="card_main_hbassistant_summary">Użyj tego narzędzia, aby przechwytywać koperty szybciej</string>
   <string name="card_main_hbassistant_title">Asystent czerwonej koperty</string>
   <string name="card_main_monthreport_action">Pokaż</string>
@@ -532,7 +532,7 @@
   <string name="cpu_usage_process_run_time_little_time">Mniej niż minutę</string>
   <string name="cpu_usage_view_action_btn_text">Dotknij, aby wyświetlić</string>
   <string name="create_gamebooster_destop">Pomyślnie utworzono skrót</string>
-  <string name="create_shortcut">Utwórz skrót na ekranie głównym dla Przyśpieszania gier</string>
+  <string name="create_shortcut">Utwórz skrót do Game Turbo na pulpicie</string>
   <string name="cta_dialog_msg">&lt;Data&gt;Aplikacja Panel Sterowania może wymagać połączenia z siecią do aktualizacji baz danych oraz dostępu do Twojej lokalizacji. Przed skorzystaniem z Panelu musisz zgodzić się na &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politykę prywatności Xiaomi&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgoda</string>
@@ -761,12 +761,12 @@
   <string name="fw_oversea_content">Blokowanie połączeń przychodzących z numerów zagranicznych</string>
   <string name="game_ad_recommendation">Wszyscy grają</string>
   <string name="game_anti_disturb_msg">Tryb Nie przeszkadzać podczas grania</string>
-  <string name="game_booster">Przyspieszenie prędkości gier</string>
-  <string name="game_booster_close">Przyspieszenie prędkości gier jest wyłączone</string>
-  <string name="game_booster_intro">O przyśpieszeniu prędkości gier</string>
+  <string name="game_booster">Game Turbo</string>
+  <string name="game_booster_close">Tryb Game Turbo jest wył.</string>
+  <string name="game_booster_intro">O trybie Game Turbo</string>
   <string name="game_booster_jump_webview">Chwileczkę…</string>
   <string name="game_booster_tab_top">Na górę</string>
-  <string name="game_booster_title">Przyśpieszanie gier</string>
+  <string name="game_booster_title">Game Turbo</string>
   <string name="game_bootser_tab_settings">Ustawienia przyspieszenia</string>
   <string name="game_else_function">Inne</string>
   <string name="game_improve_text1">Wyczyść pamięć podręczną w tle w celu zwolnienia pamięci dla gier</string>
@@ -2289,7 +2289,7 @@
    <string name="gb_first_window_handsfree_title">Połączenia w trybie głośnomówiącym</string>
    <string name="gb_first_window_start">Zacznij grać</string>
    <string name="gb_first_window_summary">Zwiększ szybkość i wydajność na poziomie systemu</string>
-   <string name="gb_first_window_title">Przyspieszenie prędkości gier</string>
+   <string name="gb_first_window_title">Game Turbo</string>
   <string name="manage_hybrid_permissions">"Zarządzaj uprawnieniami aplikacji"</string>
   <string name="menu_item_about_privacy_title">Polityka prywatności</string>  
     <string name="extreme_power_save_mode_title">Ekstremalne oszczędzanie baterii</string>
@@ -2915,4 +2915,35 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="net_boostering">Przyspieszanie sieci</string>
   <string name="notification_garbage_cleanup_summary">Wyczyść śmieci (%s), aby przyspieszyć urządzenie</string>
   <string name="notification_garbage_cleanup_title">Wyczyść śmieci</string>
+  <string name="game_manual_record_setting_setting">O tej funkcji</string>
+  <string name="game_manual_record_setting_title">Kluczowe momenty</string>
+  <string name="gb_dialog_record_way_ai">Nagrania wykonane przez SI są zapisywane i przechowywane przez tydzień.</string>
+  <string name="gb_dialog_record_way_finish">Gotowe</string>
+  <string name="gb_dialog_record_way_manual">Nagrywaj filmy do 30 sekund ręcznie</string>
+  <string name="gb_dialog_record_way_setting_tips">Uwaga: nagrywanie Twoich sesji gier wymaga większego użycia energii, co może przekładać się na lagi w grach.</string>
+  <string name="gb_dialog_record_way_title">Wybierz metodę nagrywania</string>
+  <string name="gb_game_end_toast">Zobacz teraz kluczowe momenty ze swoich sesji</string>
+  <string name="gb_game_video_bottom_tips">Obejrzyj nagrania ze swoich sesji w przyborniku. Domyślnie są one tam przechowywane przez tydzień. of your sessions in the gamebox.</string>
+  <string name="gb_game_video_item_tag">Kluczowy moment</string>
+  <string name="gb_game_video_page_delete_success">Pomyślnie usunięto</string>
+  <string name="gb_game_video_page_null">Nagraj kluczowe momenty ze swoich sesji w grach</string>
+  <string name="gb_game_video_record_finish_tips">Pomyślnie zapisano film</string>
+  <string name="gb_game_video_save">Zapisz</string>
+  <string name="gb_game_video_type_ai">Przez SI</string>
+  <string name="gb_game_video_type_manual">Ręcznie</string>
+  <string name="gb_manual_record_dialog_del_video_message">Usunąć te filmy na zawsze?</string>
+  <string name="gb_wonderful_video_cancel">Anuluj</string>
+  <string name="gb_wonderful_video_checkall">Zaznacz wszystko</string>
+  <string name="gb_wonderful_video_delete">Usuń</string>
+  <string name="gb_wonderful_video_header_title">Dziś</string>
+  <string name="gb_wonderful_video_save_suc">Pomyślnie zapisano</string>
+  <string name="gs_game_ai_record">Nagrywaj za pomocą SI</string>
+  <string name="gs_game_ai_record_subtitle">"Możesz rozpocząć nagrywanie w przyborniku w trakcie grania. Filmy z kluczowymi momentami rozgrywki będą generowane automatycznie i domyślnie zostaną usunięte po tygodniu od ich nagrania. Możesz również zmienić tą preferencję i przechowywać filmy na zawsze."</string>
+  <string name="gs_game_manual_record">Nagrywaj ręcznie</string>
+  <string name="gs_game_manual_record_subtitle">"Możesz rozpocząć nagrywanie w przyborniku w trakcie grania. Po kliknięciu przycisku \"Nagraj\" rozpocznie się nagrywanie ujęć z rozgrywki (maks. 30 sekund).
+Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
+  <string name="gs_game_manual_record_subtitle_child">Możesz doświadczyć pewnych problemów w trakcie używania tej funkcji:</string>
+  <string name="gs_game_manual_record_subtitle_child_carton">Nagrywanie rozgrywki z gier wymaga większego użycia energii, co może przekładać się na lagi w grach.</string>
+  <string name="gs_game_manual_record_subtitle_child_conflict">Inne funkcje nagrywania ekranu mogą nie działać prawidłowo.</string>
+  <string name="gs_game_record_intro_tips">*Nagrywanie rozgrywki jest dostępne tylko dla wybranych, kompatybilnych gier</string>
 </resources>
