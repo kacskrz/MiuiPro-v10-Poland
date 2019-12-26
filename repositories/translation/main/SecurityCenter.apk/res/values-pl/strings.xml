@@ -2946,4 +2946,5 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Nagrywanie rozgrywki z gier wymaga większego użycia energii, co może przekładać się na lagi w grach.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Inne funkcje nagrywania ekranu mogą nie działać prawidłowo.</string>
   <string name="gs_game_record_intro_tips">*Nagrywanie rozgrywki jest dostępne tylko dla wybranych, kompatybilnych gier</string>
+  <string name="gamebox_manual_record">Nagraj</string>
 </resources>
