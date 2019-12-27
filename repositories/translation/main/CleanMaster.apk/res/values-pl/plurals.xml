@@ -193,7 +193,7 @@ Możesz ją usunąć."</item>
      <plurals name="dc_item_summary_uninstall_app">
          <item quantity="other">Możesz odinstalować &lt;font color=#0097FF&gt;%d&lt;/font&gt; rzadko używanych aplikacji</item>
          <item quantity="one">Możesz odinstalować &lt;font color=#0097FF&gt;%d&lt;/font&gt; rzadko używaną aplikację</item>
-         <item quantity="few">Możesz odinstalować &lt;font color=#0097FF&gt;%d&lt;/font&gt; rzadko używaną aplikację</item>
+         <item quantity="few">Możesz odinstalować &lt;font color=#0097FF&gt;%d&lt;/font&gt; rzadko używane aplikacje</item>
      </plurals>
      <plurals name="dc_item_summary_video">
          <item quantity="other">Możesz usunąć &lt;font color=#0097FF&gt;%d&lt;/font&gt; plików wideo</item>

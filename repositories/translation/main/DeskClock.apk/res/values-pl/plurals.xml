@@ -94,11 +94,11 @@
         <item quantity="one">%1$s min</item>
     </plurals>
      <plurals name="sleep_duration_hour">
-         <item quantity="other">%1s godz.</item>
+         <item quantity="other">%1$s godz.</item>
          <item quantity="one">%1$s godz.</item>
      </plurals>
      <plurals name="sleep_duration_hour_avg">
-         <item quantity="other">%1s godz.</item>
+         <item quantity="other">%1$s godz.</item>
          <item quantity="one">%1$s godz.</item>
      </plurals>
      <plurals name="sleep_duration_min">
