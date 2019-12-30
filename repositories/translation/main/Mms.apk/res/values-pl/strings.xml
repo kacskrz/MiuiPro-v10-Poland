@@ -897,4 +897,19 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="system_permission_perm_send_mms">Wysyłanie MMS-ów</string>
   <string name="cloud_recommend_view_tip">Włącz synchronizację z chmurą, aby przywrócić ważne wiadomości w dowolnym momencie</string>
   <string name="mx_main_purpose_short">Wiadomości w Chmurze pozwalają użytkownikom MIUI wysyłać i otrzymywać wiadomości od innych użytkowników MIUI bez żadnych opłat.</string>
+  <string name="feature_mx">Wiadomości w Chmurze</string>
+  <string name="feature_mx_summary"><b>Wiadomości w Chmurze pozwalają Ci na wysyłanie wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.</b>. Do jej aktywacji może być wymagane wysłanie SMS-a, za którego operator może obciążyć Cię opłatą. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki <font color="#B3000000"><a href="http://url1">Umowy użytkownika</a></font> oraz <font color="#B3000000"><a href="http://url2">Polityki prywatności</a></font>.</string>
+  <string name="feature_smart_sms">Inteligentne wiadomości</string>
+  <string name="feature_smart_sms_summary"><b>Inteligentne wiadomości dostarczają usługi takie jak rozpoznawanie ID nadawcy czy proste menu</b>". Usługa jest częściowo dostarczana przez Yulore. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki "<font color="#B3000000"><a href="http://url3">Polityki prywatności</a></font> firmy Yulore.</string>
+  <string name="ignore">Nie teraz</string>
+  <string name="privacy_term">Polityka prywatności</string>
+  <string name="recommend_both_dialog_title">Witaj w aplikacji SMS!</string>
+  <string name="recommend_dialog_message">Możesz włączyć usługi takie jak Wiadomości w Chmurze oraz Inteligentne wiadomości, aby uzyskać dostęp do dodatkowych funkcjonalności.</string>
+  <string name="recommend_mx_dialog_title">Witaj w Wiadomościach w Chmurze!</string>
+  <string name="recommend_mx_setting_summary">>Wiadomości w Chmurze pozwalają Ci na wysyłanie wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.</string>
+  <string name="recommend_smart_sms_dialog_title">Witaj w Inteligentnych wiadomościach!</string>
+  <string name="recommend_smart_sms_setting_summary">Inteligentne wiadomości dostarczają usługi takie jak rozpoznawanie ID nadawcy czy proste menu.</string>
+  <string name="turn_on">Włącz</string>
+  <string name="user_term">Umowa użytkownika</string>
+  <string name="yulore_term">Polityka prywatności</string>
 </resources>
