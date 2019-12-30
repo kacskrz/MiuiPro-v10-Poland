@@ -34,6 +34,7 @@
   <string name="button_fisheye_camera_title">Rybie oko</string>
   <string name="button_front_camera_title">Zrób selfie</string>
   <string name="button_normal_video_title">Nagraj filmik</string>
+  <string name="camcorder_tip_8k_max_video_duration">Możesz nagrać maks. 6 minut filmu w 8K</string>
   <string name="camera_disabled">Aparat został zablokowany</string>
   <string name="camera_error_title">Błąd aparatu</string>
   <string name="camera_label">Aparat</string>
@@ -1043,4 +1044,6 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="parameter_zoom_slider_description">Przeciągaj suwak powiększenia w górę bądź w dół, aby płynnie zmieniać ujęcie z dalekiego kadru na konkretny obiekt.</string>
   <string name="parameter_zoom_slider_title">Powiększenie</string>
   <string name="kaleidoscope_fragment_tab_name">Kalejdoskop</string>
+  <string name="video_beauty_tip_filter">Filtry</string>
+  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
 </resources>

@@ -1264,4 +1264,6 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
   <string name="confirm_delete_cloud_all_call_logs">Usunąć całą historię rozmów z kontaktem %s z tego urządzenia oraz Chmury Xiaomi?</string>
   <string name="deleteCloudConfirmationDetail">Usunąć kontakt %s z tego urządzenia oraz Chmury Xiaomi?</string>
   <string name="no_phone_no_shortcut">"Nie można utworzyć skrótów dla kontaktów bez numeru telefonu"</string>
+  <string name="delete_conference_call_log_message">Czy chcesz usunąć całą historię telekonferencji z tym kontaktem?</string>
+  <string name="delete_conference_call_log_title">Usuń historię telekonferencji</string>
 </resources>

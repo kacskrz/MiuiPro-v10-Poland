@@ -1104,9 +1104,9 @@
   <string name="all_function_title">Wszystkie skróty</string>
   <string name="app_suggest_detail_setting_summary">Sugestie aplikacji będą oparte na danych o Twoim użytkowaniu</string>
   <string name="app_suggest_detail_setting_title">Zezwól na dostęp do stanu aplikacji</string>
-  <string name="app_suggest_setting_brief">Pokaż ostatnio używane aplikacje</string>
-  <string name="app_suggest_setting_brief_detail">"Sugestie aplikacji będą oparte na danych o Twoim użytkowaniu. "</string>
-  <string name="app_suggest_setting_title">Sugestie aplikacji</string>
+  <string name="app_suggest_setting_brief">Otrzymuj sugestie dot. aplikacji i funkcji, których być może użyjesz</string>
+  <string name="app_suggest_setting_brief_detail">"Otrzymuj sugestie dot. aplikacji i funkcji, których być może użyjesz."</string>
+  <string name="app_suggest_setting_title">Inteligentne sugestie</string>
   <string name="miot_cta_dialog_title">Udziel autoryzacji</string>
   <string name="miot_del_dialog_cancel">Anuluj</string>
   <string name="miot_del_dialog_sure">Usuń</string>
@@ -1145,4 +1145,5 @@
 	<string name="miot_more_device">Więcej urządzeń</string>
   <string name="miot_nearby_device">Połączone urządzenia w pobliżu</string>
   <string name="miot_not_warn">Zignoruj to ostrzeżenie</string>
+  <string name="card_expand_note_toast_share_null">Notatka jest pusta</string>
 </resources>

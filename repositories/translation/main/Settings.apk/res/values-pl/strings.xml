@@ -1337,6 +1337,7 @@
   <string name="default_rule_name">Minutnik 1</string>
   <string name="default_sound">Dźwięk domyślny</string>
   <string name="default_spell_checker">Domyślne sprawdzanie pisowni</string>
+  <string name="default_suppression_title">Domyślny (zalecane)</string>
   <string name="default_theme">Wartość domyślna</string>
   <string name="default_usb_mode">Domyślne połączenie USB</string>
   <string name="delete">Usuń</string>
@@ -1578,6 +1579,8 @@
   <string name="edge_mode_photo_summary">Pierwsze dotknięcie krawędzi w Aparacie ustawia ostrość, a następne wykonuje zdjęcie</string>
   <string name="edge_mode_screenshot">Zrzut ekranu</string>
   <string name="edge_mode_screenshot_summary">Dotknij podwójnie obu krawędzi, aby wykonać zrzut ekranu</string>
+  <string name="edge_mode_state_summary">"Obszar dookoła krawędzi nie będzie reagować na dotyk"</string>
+  <string name="edge_mode_state_title">Ignoruj przypadkowe dotknięcia na krawędziach</string>
   <string name="edit_rule">Edytuj reguły</string>
   <string name="edit_rules">Edytuj</string>
   <string name="eighthours">8 godzin</string>
@@ -6265,7 +6268,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="full_screen_display">Tryb pełnoekranowy</string>
   <string name="game_booster_title">Game Turbo</string> 
   <string name="google_service_title">Usługi Google</string>
-  <string name="headset_settings_title">Słuchawki i efekty dźwiękowe</string>
+  <string name="headset_settings_title">Efekty dźwiękowe</string>
   <string name="home_title">Pulpit</string>
   <string name="jeejen_mode_title">Tryb Lite</string>
   <string name="key_shortcut_settings_title">Skróty przycisków</string>
@@ -6549,4 +6552,14 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="open_haptic_feedback">Reakcje haptyczne</string>
   <string name="video_tool_box_title">Pasek z narzędziami wideo</string>
   <string name="gps_description">Wspierane są różne systemy nawigacji (GPS, BeiDou, GLONASS, Galileo)</string>
+  <string name="diy_suppression_summary">Dostosuj obszar w pobliżu krawędzi, gdzie przypadkowe dotknięcia będą ignorowane</string>
+  <string name="diy_suppression_title">Własny</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Wprowadź hasło przed użyciem nowego odcisku palca</string>
+  <string name="seek_bar_info">Dostosuj rozmiar</string>
+  <string name="strong_suppression_summary">"Urządzenie nie będzie reagować na przypadkowe dotknięcia (część gestów może nie działać w pobliżu krawędzi)"</string>
+  <string name="strong_suppression_title">Duży obszar</string>
+  <string name="wake_suppression_summary">Urządzenie może reagować na przypadkowe dotknięcia, ale dzięki temu gesty będą działać także w pobliżu krawędzi</string>
+  <string name="wake_suppression_title">Mały obszar</string>
+  <string name="wifi_direct_close_hotspot_hint">Wyłącz hotspot przed użyciem funkcji Wi-Fi Direct</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Rozłącz się z dodatkową siecią Wi-Fi przed użyciem funkcji Wi-Fi Direct</string>
 </resources>

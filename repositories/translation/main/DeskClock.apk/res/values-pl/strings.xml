@@ -384,4 +384,21 @@
   <string name="wake_up_alert_desc">Odtwórz dzwonek alarmu o godzinie pobudki</string>
   <string name="wake_up_ringtone">Dzwonek alarmu</string>
   <string name="wake_up_time">Pobudka</string>
+  <string name="alert_ringtone">Dzwonek alarmu</string>
+  <string name="alert_volume">Głośność dzwonka</string>
+  <string name="alert_volume_summary">Ustaw głośność dzwonka dla alarmów i minutników</string>
+  <string name="auto_silence_summary">Ustaw czas, po którym alarmy i minutniki wyciszą się</string>
+  <string name="edit_label">Edytuj etykietę alarmu</string>
+  <string name="holiday_update_title">Zaktualizuj informacje o dniach wolnych</string>
+  <string name="label_input_desc">Etykieta będzie wyświetlana na ekranie, gdy włączy się alarm</string>
+  <string name="label_input_hint">Wprowadź etykietę</string>
+  <string name="more_alert_setting">Dodatkowe ustawienia alarmu</string>
+  <string name="net_permission_cancel">"Nie zgadzam się"</string>
+  <string name="net_permission_ok">OK</string>
+  <string name="new_label">Dodaj etykietę alarmu</string>
+  <string name="normal_settings">Ogólne ustawienia</string>
+  <string name="other_settings">Dodatkowe ustawienia</string>
+  <string name="ringtone_digital_timer">Minutnik</string>
+  <string name="time_settings">Ustawienia Zegara</string>
+  <string name="timer_ringtone">Dzwonek minutnika</string>
 </resources>

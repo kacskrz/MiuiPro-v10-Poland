@@ -353,7 +353,7 @@
     <string name="catch_full_log_item_title_gps">Lokalizacja</string>
     <string name="catch_full_log_item_title_sensor">Sensory</string>
     <string name="catch_full_log_item_title_signal">Zasięg sieci</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi i Mi Drop</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi i ShareMe</string>
     <string name="catch_full_log_notification_content">Kliknij, by wrócić do logów</string>
     <string name="catch_full_log_notification_title">Generowanie logów…</string>
     <string name="catch_full_log_start_dump_hprof">Wygeneruj log dot. lagów</string>
@@ -618,4 +618,26 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="feedback_choose_occurrence_time">Czas</string>
     <string name="feedback_hint_optional">Wybierz</string>
     <string name="feedback_title_occurrence_time">Wybierz czas</string>
+    <string name="failed_to_fetch_fql">"Nie udało się uzyskać informacji o FAQ. Sprawdź połączenie z siecią."</string>
+    <string name="jump_full_log_dialog_cancel">Anuluj</string>
+    <string name="jump_full_log_dialog_confirm">Wygeneruj</string>
+    <string name="jump_full_log_dialog_content">"Logi pomogą programistom Xiaomi zlokalizować i naprawić zgłaszany przez Ciebie problem o wiele szybciej. Wygeneruj logi i załącz je do zgłoszenia."</string>
+    <string name="jump_full_log_dialog_title">Wygeneruj logi</string>
+    <string name="net_error_info">Brak połączenia z siecią. Kliknij tutaj, aby przejść do Ustawień.</string>
+    <string name="service_unavailiable">"Nie udało się uzyskać informacji. Spróbuj ponownie później."</string>
+    <string name="toast_file_format_not_support">"Ten format pliku nie jest wspierany. Spróbuj wybrać inny plik."</string>
+    <string name="update_dialog_cancel">Anuluj</string>
+    <string name="update_dialog_confirm">Zaktualizuj</string>
+    <string name="update_dialog_content_log">"Co nowego:
+%1$s
+Rozmiar: %2$s"</string>
+    <string name="update_dialog_content_version">Możesz zaktualizować program do wersji %1$s.</string>
+    <string name="update_dialog_title">Dostępna aktualizacja</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Nie udało się połączyć z aplikacją Pobrane. Sprawdź jej stan w ustawieniach aplikacji.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Nowa wersja %1$s
+Rozmiar: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Nowa wersja %1$s
+Rozmiar (akt. przyrostowa): %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Dostępna aktualizacja %1$s!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Pamięć niedostępna. Sprawdź kartę SD.</string>
 </resources>

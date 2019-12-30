@@ -2912,7 +2912,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gb_operat_frequently">Nie tak szybko!</string>
   <string name="global_wa_setting_alert_dialog_content">Możesz wyczyścić %s</string>
   <string name="global_wa_setting_alert_dialog_title">Czyszczenie WhatsAppa</string>
-  <string name="net_boostering">Przyspieszanie sieci</string>
+  <string name="net_boostering">Przyspieszanie sieci…</string>
   <string name="notification_garbage_cleanup_summary">Wyczyść śmieci (%s), aby przyspieszyć urządzenie</string>
   <string name="notification_garbage_cleanup_title">Wyczyść śmieci</string>
   <string name="game_manual_record_setting_setting">O tej funkcji</string>
@@ -2947,4 +2947,24 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Inne funkcje nagrywania ekranu mogą nie działać prawidłowo.</string>
   <string name="gs_game_record_intro_tips">*Nagrywanie rozgrywki jest dostępne tylko dla wybranych, kompatybilnych gier</string>
   <string name="gamebox_manual_record">Nagraj</string>
+  <string name="apn_exception_modify_summary">"Domyślny APN operatora nie jest używany bądź zmodyfikowany"</string>
+  <string name="apn_exception_wap_summary">WAP jest teraz niestabilne. Przełącz się na NET.</string>
+  <string name="nd_result_button_optimize">Zoptymalizuj</string>
+  <string name="nd_result_summary_optimize">"Spróbuj zoptymalizować połączenie z siecią, gdy jest ono niestabilne"</string>
+  <string name="nd_result_title_auxiliary">Konfiguracja sieci</string>
+  <string name="nd_result_title_network">Łączność z siecią</string>
+  <string name="nd_result_title_optimize">Optymalizacja sieci</string>
+  <string name="signal_exception_4g_bad_rsrq">Obecnie zasięg jest słaby. Prędkość sieci może być niska.</string>
+  <string name="signal_exception_none_4g_5g_network">"Używasz sieci 2G/3G. Prędkość sieci może być niska."</string>
+  <string name="vtb_func_desc">O tej funkcji</string>
+  <string name="vtb_func_display_style_desc1">"Wybrane efekty nie mogą być zastosowane do filmów z HDR."</string>
+  <string name="vtb_func_display_style_desc2">"Te efekty nie mogą zostać zastosowane do zrzutów ekranu."</string>
+  <string name="vtb_func_frc_desc0">Ta funkcja ogranicza rozmycie i dodaje detale na poruszających się obiektach. Wymaga ona większego zużycia energii.</string>
+  <string name="vtb_func_frc_desc1">"Funkcja nie działa w określonych warunkach:"</string>
+  <string name="vtb_func_frc_desc2">Gdy rozdzielczość jest wyższa niż 1080p</string>
+  <string name="vtb_func_frc_desc3">Gdy częstotliwość odświeżania jest wyższa niż 30 kl./s</string>
+  <string name="vtb_func_frc_desc4">Z filmami w HDR</string>
+  <string name="vtb_func_frc_title">Wzbogacanie ruchomych elementów</string>
+  <string name="vtb_func_vpp_desc4">"Ta funkcja nie działa z filmami w rozdzielczości wyższej niż 4K."</string>
+  <string name="vtb_func_vpp_title">Bogatsze kontury</string>
 </resources>
