@@ -75,8 +75,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">pobierz zadania</string>
     <string name="HIPS_Perm_show_when_locked">Pokaż na ekranie blokady</string>
     <string name="HIPS_Perm_show_when_locked_Desc">będzie pokazywane na ekranie blokady</string>
-    <string name="HIPS_Perm_background_start_activity">Rozpocznij w tle</string>
-    <string name="HIPS_Perm_background_start_activity_Desc">rozpoczynanie w tle</string>
+    <string name="HIPS_Perm_background_start_activity">Wyświetlanie wyskakujących okien podczas pracy w tle</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">wyświetlanie wyskakujących okien podczas pracy w tle</string>
     <string name="HIPS_Perm_get_installed_apps">Pobierz informacje o zainstalowanych aplikacjach</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">pobiera informacje o zainstalowanych aplikacjach na tym urządzeniu</string>
     <string name="HIPS_Perm_service_foreground">Usługi na pierwszym planie</string>
