@@ -1496,4 +1496,11 @@ aby wesprzeć pracę Xiaomi"</string>
   <string name="browser_default_setting_content">Szybko i bezpiecznie przeglądaj sieć</string>
   <string name="browser_default_setting_title">Ustaw jako domyślną przeglądarkę</string>
   <string name="notification_channel_name_local_push">Powiadomienia z przeglądarki</string>
+  <string name="channel_network_error">Wystąpił błąd sieci. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
+  <string name="channel_no_data">"Na razie to wszystko. Sprawdź inne kanały!"</string>
+  <string name="comment_fail">"Nie udało się dodać komentarza. Spróbuj ponownie."</string>
+  <string name="comment_success">Dodano komentarz</string>
+  <string name="feedback_not_interested_response">"Będziesz widział mniej rzeczy tego typu"</string>
+  <string name="short_video_network_error">"Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+  <string name="tt_ad">Reklama</string>
 </resources>

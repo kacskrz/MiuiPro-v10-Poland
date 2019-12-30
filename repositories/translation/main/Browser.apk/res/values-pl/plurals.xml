@@ -147,4 +147,10 @@
         <item quantity="other">%d odpowiedzi na Zhihu</item>
         <item quantity="one">%d odpowiedź na Zhihu</item>
     </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Nie udało się załadować filmu.
+Odtwarzanie następnego za %d s…"</item>
+        <item quantity="one">"Nie udało się załadować filmu.
+Odtwarzanie następnego za %d s…"</item>
+    </plurals>
 </resources>
