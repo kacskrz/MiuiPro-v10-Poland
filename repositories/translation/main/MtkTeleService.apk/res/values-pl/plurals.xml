@@ -10,8 +10,9 @@
         <item quantity="one">Wybrana akcja nie jest dostępna w trybie alarmowym połączenia zwrotnego. Telefon będzie w tym trybie %s min. Czy chcesz teraz wyjść?</item>
      </plurals>
      <plurals name="auto_answer_summary_delay">
-        <item quantity="other">za: %s sekund</item>
-        <item quantity="one">za: %s sekundę</item>
+        <item quantity="other">za: %d sekund</item>
+        <item quantity="one">za: %d sekundę</item>
+        <item quantity="few">za: %d sekundy</item>
      </plurals>
      <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Możesz dodać do %s osób. Wybierz ponownie.</item>
