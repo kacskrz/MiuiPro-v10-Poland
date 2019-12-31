@@ -10,7 +10,7 @@
     <string name="alarm_repeat">Powtórz</string>
     <string name="alarm_vibrate">Wibracje</string>
     <string name="alarm_volume_summary">Ustaw głośność alarmu</string>
-    <string name="alarm_volume_title">Głośność alarmu</string>
+    <string name="alarm_volume_title">Głośność dzwonka</string>
     <string name="alert">Dzwonek</string>
     <string name="analog_gadget">Zegar analogowy</string>
     <string name="app_label">Zegar</string>
