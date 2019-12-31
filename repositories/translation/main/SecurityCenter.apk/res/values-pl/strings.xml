@@ -2967,4 +2967,8 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="vtb_func_frc_title">Wzbogacanie ruchomych elementów</string>
   <string name="vtb_func_vpp_desc4">"Ta funkcja nie działa z filmami w rozdzielczości wyższej niż 4K."</string>
   <string name="vtb_func_vpp_title">Bogatsze kontury</string>
+  <string name="ac_recommend_guide_dialog_app_content">Użyj Blokady aplikacji, aby uchronić się przed wyciekiem Twoich osobistych danych.</string>
+  <string name="ac_recommend_guide_dialog_content">Możesz uchronić się przed wyciekiem Twoich osobistych danych, używając Blokady aplikacji.</string>
+  <string name="ac_recommend_guide_dialog_ignore">"Nie pokazuj ponownie"</string>
+  <string name="ac_recommend_guide_dialog_open">Włącz</string>
 </resources>

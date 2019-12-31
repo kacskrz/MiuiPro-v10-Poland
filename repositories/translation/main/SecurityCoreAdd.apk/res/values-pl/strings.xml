@@ -471,4 +471,8 @@ kontroluj zainstalowane aplikacje i ogranicz użytkowanie"</string>
   <string name="xspace_notification">Powiadomienia z sklonowanych aplikacji</string>
   <string name="xspace_notification_error">Zaloguj się do sklonowanego WeChata i spróbuj ponownie</string>
   <string name="xspace_settins">Ustawienia</string>
+  <string name="greenguard_install_cancle">Nie, dzięki</string>
+  <string name="greenguard_install_confirm">Zainstaluj</string>
+  <string name="greenguard_install_message">"Kontrola rodzicielska jest aplikacją systemową. Do jej instalacji nie potrzebujesz połączenia z Internetem."</string>
+  <string name="greenguard_install_title">Zainstaluj Kontrolę rodzicielską</string>
 </resources>

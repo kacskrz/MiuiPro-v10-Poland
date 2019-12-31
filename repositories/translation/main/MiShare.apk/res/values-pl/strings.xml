@@ -32,10 +32,13 @@
     <string name="btn_cancel">Anuluj</string>
     <string name="btn_sure">OK</string>
     <string name="can_not_transfer_when_screening">"Nie można przesyłać ekranu w trakcie wysyłania"</string>
+    <string name="cancel">Anuluj</string>
     <string name="cancel_current">ANULUJ OBECNE</string>
     <string name="cancel_receive">Anuluj</string>
     <string name="cancel_send">Anulowano transfer</string>
     <string name="cancel_task">Anuluj</string>
+    <string name="complete">Gotowe</string>
+    <string name="confirm_cancel_receive">"Nie będziesz w stanie otrzymać tego elementu, jeśli anulujesz teraz ten transfer. Zrobić to mimo to?"</string>
     <string name="confirm_cancel_task_files">Anulować wysyłanie plików do %1$s?</string>
     <string name="confirm_cancel_task_images">Anulować wysyłanie obrazków do %1$s?</string>
     <string name="default_device_name">Nieznane urządzenie</string>
@@ -46,9 +49,11 @@
     <string name="enable_midrop">Włącz</string>
     <string name="error_ap_or_screen_already_hosting">"Nie można wysyłać elementów do innych urządzeń, gdy przesyłasz ekran na inne urządzenie bądź używasz hotspotu."</string>
     <string name="error_device_lost">Wygląda na to, że inne urządzenie jest poza zasięgiem aplikacji. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
+    <string name="error_has_occurred">Wystąpił błąd</string>
     <string name="error_msg_network_error">Wystąpił błąd sieci. Spróbuj ponownie.</string>
     <string name="error_receive_file_cannot_read">"Nie udało się otrzymać pliku"</string>
     <string name="error_receive_file_changed">"Nie można otrzymać pliku - został on zmieniony."</string>
+    <string name="error_receive_file_file_opened">"Nie udało się otrzymać pliku - wygląda na to, że jest on obecnie używany."</string>
     <string name="error_receive_file_no_enough_space">"Nie można otrzymać pliku - brak wystarczającej ilości miejsca."</string>
     <string name="error_receive_file_service_disabled">Anulowano przychodzący transfer</string>
     <string name="error_receive_user_cancel">Anulowano transfer</string>
@@ -63,15 +68,21 @@
     <string name="error_send_transfer_error">"Nie udało się przenieść elementów. Spróbuj ponownie."</string>
     <string name="error_timeout">Przekroczono czas trwania sesji. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
     <string name="error_user_refuse">"Nie udało się wysłać - transfer został odrzucony."</string>
+    <string name="fail_in_send">"Nie udało się wysłać"</string>
     <string name="file_cannot_print">"Nie można wydrukować tego elementu."</string>
     <string name="file_cannot_screen_throw">"Nie można wykonać projekcji tego elementu."</string>
     <string name="file_receive_progress">Postęp: %1$d%%</string>
+    <string name="file_receive_progress_title">Postęp</string>
+    <string name="file_received_successfully_from_pc">Pomyślnie otrzymano więcej niż 200 plików od %1$s</string>
     <string name="file_sending">Przenoszenie plików…</string>
     <string name="file_transfer_progress">Postęp: %1$d%%</string>
+    <string name="file_transfer_progress_title">Postęp</string>
     <string name="functions_are_being_developed">Funkcja będzie dostępna wkrótce. Bądź czujny!</string>
     <string name="hide">Ukryj</string>
+    <string name="i_know">Rozumiem</string>
     <string name="location_enabled">Włączono usługi lokalizacji w celu odnalezienia urządzeń w pobliżu</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mishare_folder_in_file_explorer">Menedżer plików > MiShare</string>
     <string name="mishare_settings_summary_international">"Możesz używać Mi Share do przesyłania elementów do urządzeń w pobliżu.
 W tym momencie aplikacja jest kompatybilna jedynie z telefonami Xiaomi oraz Redmi.
 Wkrótce z Mi Share będą kompatybilne urządzenia marek: OPPO, vivo, realme i innych. Możesz sprawdzić listę kompatybilnych urządzeń na stronie narzędzia."</string>
@@ -98,7 +109,9 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="send_files_to">Wyślij elementy do...</string>
     <string name="send_files_to_remote_success">Pomyślnie wysłano elementy do %1$s</string>
     <string name="send_files_to_remote_success_title">Pomyślnie wysłano</string>
+    <string name="send_successfully">Pomyślnie wysłano</string>
     <string name="sender_error">"Nie udało się wysłać. Odczekaj minutę bądź dwie i spróbuj ponownie."</string>
+    <string name="some_files_receive_completed">"Zobacz pliki otrzymane przez Ciebie w katalogu %1$s."</string>
     <string name="somepc_send_much_file_to_you_files">%1$s wysyła do Ciebie więcej niż 200 plików…</string>
     <string name="somepc_send_muchfile_files">%1$s wysyła do Ciebie więcej niż 200 plików…</string>
     <string name="start_advertise">ZACZNIJ REKLAMĘ</string>
@@ -111,6 +124,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="throwing_print">Drukuj</string>
     <string name="throwing_screen">Prześlij ekran</string>
     <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
+    <string name="to_feedback">Zgłoś</string>
     <string name="transfer_intercept_to_remote">"Nie udało się wysłać: %1$s"</string>
     <string name="transfer_to_pc_summary">"Najnowsza wersja oprogramowania AIoT zainstalowana na laptopach Xiaomi jest kompatybilna z aplikacją Mi Share. Możesz sprawdzić listę kompatybilnych modeli laptopów na stronie MIUI. Jeśli Twój laptop znajduje się na liście, ale oprogramowanie AIoT nie jest na nim zainstalowane, zaktualizuj BIOS laptopa oraz sterownik karty sieciowej, a następnie pobierz AIoT."</string>
     <string name="transfer_to_pc_title">Wysyłaj pliki do komputerów</string>
@@ -119,6 +133,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="unkonw_device">Nieznane urządzenie</string>
     <string name="unrecognized_manufacture">Nieznany</string>
     <string name="unrecognized_model">Nieznane urządzenie</string>
+    <string name="view_file">Zobacz</string>
     <string name="vivo_phone">Telefon vivo</string>
     <string name="wait_receive_file">Oczekiwanie na otrzymanie…</string>
     <string name="wait_remote_receive_tips">Oczekiwanie…</string>

@@ -471,4 +471,8 @@
   <string name="edit">Edytuj</string>
   <string name="system_shortcuts_remove">Usuń</string>
   <string name="default_folder_title_other_apps">Inne</string>
+  <string name="category_edit_back_confirm_dialog_content">Czy chcesz zapisać zmiany?</string>
+  <string name="category_edit_back_confirm_dialog_negative_button">"Nie zapisuj"</string>
+  <string name="category_edit_back_confirm_dialog_positive_button">Zapisz</string>
+  <string name="auto_add_app_shortcut">Nowe aplikacje</string>
 </resources>

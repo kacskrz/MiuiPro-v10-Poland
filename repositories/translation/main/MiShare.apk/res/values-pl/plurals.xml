@@ -79,4 +79,24 @@
         <item quantity="one">Wysłano %1$d obraz do %2$s</item>
         <item quantity="few">Wysłano %1$d obrazy do %2$s</item>
     </plurals>
+    <plurals name="file_received_successfully">
+        <item quantity="other">Pomyślnie otrzymano %2$d plików od %1$s</item>
+        <item quantity="one">Pomyślnie otrzymano %2$d plik od %1$s</item>
+        <item quantity="few">Pomyślnie otrzymano %2$d pliki od %1$s</item>
+    </plurals>
+    <plurals name="image_received_successfully">
+        <item quantity="other">Pomyślnie otrzymano %2$d obrazów od %1$s</item>
+        <item quantity="one">Pomyślnie otrzymano %2$d obraz od %1$s</item>
+        <item quantity="few">Pomyślnie otrzymano %2$d obrazy od %1$s</item>
+    </plurals>
+    <plurals name="successfully_sent_files">
+        <item quantity="other">Pomyślnie wysłano %2$d plików do %1$s</item>
+        <item quantity="one">Pomyślnie wysłano %2$d plik do %1$s</item>
+        <item quantity="few">Pomyślnie wysłano %2$d pliki do %1$s</item>
+    </plurals>
+    <plurals name="successfully_sent_images">
+        <item quantity="other">Pomyślnie wysłano %2$d obrazów do %1$s</item>
+        <item quantity="one">Pomyślnie wysłano %2$d obraz do %1$s</item>
+        <item quantity="few">Pomyślnie wysłano %2$d obrazy do %1$s</item>
+    </plurals>
 </resources>

@@ -65,6 +65,7 @@
   <string name="button_send">Wyślij</string>
   <string name="call_title">Historia połączeń</string>
   <string name="camera_summary">Ustawienia Aparatu (bez zdjęć)</string>
+  <string name="camera_summary_for_cta">Ustawienia Aparatu</string>
   <string name="cancel">Anuluj</string>
   <string name="cancel_backup">Anuluj kopię</string>
   <string name="cancel_moving_dialog_message">Zatrzymać importowanie teraz?</string>

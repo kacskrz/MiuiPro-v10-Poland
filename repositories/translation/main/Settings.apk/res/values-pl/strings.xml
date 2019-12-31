@@ -6562,4 +6562,6 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="wake_suppression_title">Mały obszar</string>
   <string name="wifi_direct_close_hotspot_hint">Wyłącz hotspot przed użyciem funkcji Wi-Fi Direct</string>
   <string name="wifi_direct_close_slave_wifi_hint">Rozłącz się z dodatkową siecią Wi-Fi przed użyciem funkcji Wi-Fi Direct</string>
+  <string name="codec_low_latency_summary">Zapewnia małe opóźnienie dla synchronizacji audio i wideo</string>
+  <string name="codec_low_latency_title">Małe opóźnienie</string>
 </resources>
