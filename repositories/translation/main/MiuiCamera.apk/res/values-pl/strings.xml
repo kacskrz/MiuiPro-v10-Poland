@@ -1046,4 +1046,5 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="kaleidoscope_fragment_tab_name">Kalejdoskop</string>
   <string name="video_beauty_tip_filter">Filtry</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
+  <string name="video_beauty_tip_beautification">Upiększanie</string>
 </resources>

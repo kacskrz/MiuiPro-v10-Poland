@@ -1891,4 +1891,6 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="mobile_property">Właściwości sieci komórkowej</string>
   <string name="netcheck_title">Diagnostyka sieci komórkowej</string>
   <string name="incall_error_outgoing_call_failed">"Nie udało się wykonać połączenia"</string>
+  <string name="notification_demo_version_text">"Nie możesz wykonywać połączeń lub używać danych mobilnych"</string>
+  <string name="notification_demo_version_title">Urządzenie demonstracyjne</string>
 </resources>

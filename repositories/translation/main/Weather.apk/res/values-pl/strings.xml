@@ -195,6 +195,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="minute_rain_refreshing_now">Odświeżanie</string>
   <string name="missing_required_permission">Wymagane uprawnienie zostało wyłączone.</string>
   <string name="more_details">Więcej</string>
+  <string name="more_expanded">Więcej</string>
   <string name="network_not_available">Brak połączenia z siecią</string>
   <string name="network_unavailable">Brak połączenia z siecią</string>
   <string name="night_not_disturb_settings_summary">Aplikacja nie będzie powiadamiać o pogodzie w godzinach 23:00 do 7:00</string>

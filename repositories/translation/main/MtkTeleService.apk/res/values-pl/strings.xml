@@ -1445,6 +1445,8 @@ Zostanie wybrana sieć preferowana."</string>
      <string name="not_allowed">Karta SIM nie pozwala na połączenia z tą siecią.</string>
      <string name="not_voice_capable">Połączenia głosowe nie są obsługiwane</string>
      <string name="notification_action_end_call">Rozłącz</string>
+     <string name="notification_demo_version_text">"Nie możesz wykonywać połączeń lub używać danych mobilnych"</string>
+     <string name="notification_demo_version_title">Urządzenie demonstracyjne</string>
      <string name="notification_dialing">Wybieranie</string>
      <string name="notification_incoming_call">Połączenie przychodzące</string>
      <string name="notification_missedCallTicker">Nieodebrane połączenie od %s</string>

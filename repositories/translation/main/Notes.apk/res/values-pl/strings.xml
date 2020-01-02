@@ -328,4 +328,27 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="new_audio_create_done_talkback_des">Utworzono</string>
   <string name="new_audio_create_guide_tip">Przytrzymaj, aby utworzyć notatkę głosową</string>
   <string name="new_audio_create_talkback_des">Dotknij, aby utworzyć zwykłą notatkę. Przytrzymaj, aby utworzyć notatkę głosową. Puść przycisk, aby zatrzymać nagrywanie i utworzyć notatkę lub przesuń w górę, aby anulować.</string>
+  <string name="repeat_mode_day">Codziennie</string>
+  <string name="repeat_mode_default">Nigdy</string>
+  <string name="repeat_mode_dialog_title">Powtarzaj</string>
+  <string name="repeat_mode_month">Co miesiąc</string>
+  <string name="repeat_mode_normal_workday">Od poniedziałku do piątku</string>
+  <string name="repeat_mode_set_item_day">Codziennie</string>
+  <string name="repeat_mode_set_item_month_detail_lastday">Ostatniego dnia miesiąca</string>
+  <string name="repeat_mode_set_item_month_global">Co miesiąc (ta sama data)</string>
+  <string name="repeat_mode_set_item_none">Nigdy</string>
+  <string name="repeat_mode_set_item_normal_workday">Od poniedziałku do piątku</string>
+  <string name="repeat_mode_set_item_week">Co tydzień (%s)</string>
+  <string name="repeat_mode_set_item_week_detail">Co tydzień (%s)</string>
+  <string name="repeat_mode_set_item_year">Co rok (%s)</string>
+  <string name="repeat_mode_set_item_year_detail">Co rok (%s)</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd.MM.</string>
+  <string name="repeat_mode_set_title">Powtarzaj</string>
+  <string name="repeat_mode_week">Co tydzień</string>
+  <string name="repeat_mode_year">Co rok</string>
+  <string name="todo_schedule_time_repeat_day">, codziennie</string>
+  <string name="todo_schedule_time_repeat_month">, co miesiąc</string>
+  <string name="todo_schedule_time_repeat_normal_workday">, od poniedziałku do piątku</string>
+  <string name="todo_schedule_time_repeat_week">, co tydzień</string>
+  <string name="todo_schedule_time_repeat_year">, co rok</string>
 </resources>
