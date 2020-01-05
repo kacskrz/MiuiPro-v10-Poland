@@ -2,4 +2,8 @@
 <resources>
     <string name="pref_camerasound_music_title">Zezwalaj na muzykę w tle</string>
     <string name="pref_camerasound_music_summary">Zdezaktywuj ograniczenia muzyki w tle, gdy rozpoczęto nagrywanie wideo</string>
+    <string name="pref_cameracard_mimoji_title">Mimoji</string>
+    <string name="pref_cameracard_mimoji_summary">Wyświetlaj tryb Mimoji podczas uruchamiania aparatu</string>
+    <string name="pref_cameracard_stikers_title">Naklejki</string>
+    <string name="pref_cameracard_stikers_summary">Wyświetlaj naklejki w trybie Krótkie wideo</string>
 </resources>

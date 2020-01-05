@@ -1827,4 +1827,5 @@ aby spersonalizować Galerię"</string>
   <string name="risk_control_deleted_message">Ktoś usunął Twoje elementy z Galerii ze Chmury Xiaomi, używając urządzenia %3$s dnia %1$s o godz. %2$s. Czy to Ty?</string>
   <string name="risk_control_deleted_title">Ostrzeżenie dot. bezpieczeństwa</string>
   <string name="trash_bin_summary_local">Przeglądaj ostatnio usunięte zdjęcia i filmy</string>
+  <string name="video_editor_not_support_8k_tips">"Nie można edytować filmów 8K"</string>
 </resources>

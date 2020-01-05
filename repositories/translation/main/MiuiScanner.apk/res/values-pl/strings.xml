@@ -265,7 +265,7 @@
   <string name="password_toggle_content_description">Pokaż hasło</string>
   <string name="close_hotspot_when_connecting_to_wifi">Włączony jest hotspot. Włącz Wi-Fi.</string>
   <string name="setting_function_sort">Zmień kolejność funkcji</string>
-  <string name="agree_app_use">Skanowanie kodów QR i ich rozpoznawanie na innych obrazach</string>
+  <string name="agree_app_use">Skanowanie kodów QR i innych obrazów (część funkcji może wymagać dostępu do lokalizacji)</string>
   <string name="agree_camera_permission">W celu wykonywania zdjęć i nagrywania filmów</string>
   <string name="agree_storage_permission">W celu dostępu do zdjęć i plików na urządzeniu</string>
   <string name="always">Zawsze</string>
