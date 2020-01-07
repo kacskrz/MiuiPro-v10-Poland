@@ -1503,4 +1503,5 @@ aby wesprzeć pracę Xiaomi"</string>
   <string name="feedback_not_interested_response">"Będziesz widział mniej rzeczy tego typu"</string>
   <string name="short_video_network_error">"Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
   <string name="tt_ad">Reklama</string>
+  <string name="vo_mi_ad_detail">Otwórz w %s</string>
 </resources>

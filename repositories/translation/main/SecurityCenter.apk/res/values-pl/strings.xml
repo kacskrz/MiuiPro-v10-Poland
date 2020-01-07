@@ -2973,4 +2973,8 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="ac_recommend_guide_dialog_open">Włącz</string>
   <string name="gtb_exit_game_to_gtb">Otwórz przybornik</string>
   <string name="gtb_exit_game_to_home">Wróć na pulpit</string>
+  <string name="gb_voice_changer_dlg_button_refuse">Odmów</string>
+  <string name="gb_voice_changer_dlg_button_agree">Zezwól</string>
+  <string name="gb_voice_changer_permission_dlg_title">Wymagane uprawnienia</string>
+  <string name="gb_voice_changer_permission_dlg_msg">Funkcja \"Zmiana głosu\" wymaga uprawnień do nagrywania dźwięku, aby poprawnie działać.</string>
 </resources>

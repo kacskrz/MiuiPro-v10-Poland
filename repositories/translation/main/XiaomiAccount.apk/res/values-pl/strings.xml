@@ -59,10 +59,7 @@
     <string name="passport_register_by_email"><u>Utwórz konto korzystając z adresu e-mail</u></string>
     <string name="passport_account_not_actived">Konto nie zostało jeszcze aktywowane</string>
     <string name="passport_active_email_visit">Sprawdź pocztę na %s</string>
-    <string name="passport_click_email_to_valid">"
-
-W celu aktywacji konta przejdź pod link
-podany w wiadomości e-mail wysłanej na podany adres."</string>
+    <string name="passport_click_email_to_valid">"W celu aktywacji konta przejdź pod link podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_resend_active_email">Wyślij ponownie e-mail z kodem</string>
     <string name="passport_failed_to_send_activate_email">Nie udało się wysłać wiadomości aktywacyjnej</string>
     <string name="passport_reg_success">Konto zostało utworzone</string>
