@@ -2556,8 +2556,11 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gamecenter_install_sucessfull">Pomyślnie zainstalowano</string>
   <string name="gb_shortcut_pref_title">Skrót na pulpicie</string>
   <string name="power_save_ps_clean">Czyszczenie pamięci podręcznej, gdy urządzenie jest zablokowane</string>
-  <string name="power_save_ps_close_setting">Wyłączenie usług w tle oraz energożernych funkcji (synchronizacja, GPS, reakcje haptyczne, wybudzanie ekranu, pokazywanie ikony odcisku palca itd.)</string>
-  <string name="power_save_ps_close_setting_5g">Ograniczenie energożernych funkcji oraz usług w tle (synchronizacja, łączność 5G, GPS reakcje haptyczne, wybudzanie ekranu, pokazywanie ikony odcisku palca itd.)</string>  <string name="power_save_ps_freeze">Zamrożenie aplikacji w tle</string>
+  <string name="power_save_ps_close_setting">Wyłączenie energożernych funkcji oraz usług (synchronizacja, GPS, reakcje haptyczne, pokazywanie ikony odcisku palca itd.)</string>
+  <string name="power_save_ps_close_setting_5g">Wyłączenie energożernych funkcji oraz usług (synchronizacja, łączność 5G, GPS, reakcje haptyczne, pokazywanie ikony odcisku palca itd.)</string>
+  <string name="power_save_ps_close_setting_5g_q">Wyłączenie energożernych funkcji oraz usług (synchronizacja, łączność 5G, reakcje haptyczne, \"Podnieś, aby wybudzić\" oraz \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
+  <string name="power_save_ps_close_setting_q">Wyłączenie energożernych funkcji oraz usług (synchronizacja, reakcje haptyczne, \"Podnieś, aby wybudzić\" oraz \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
+  <string name="power_save_ps_freeze">Zamrożenie aplikacji w tle</string>
   <string name="power_save_ps_limit">Ograniczenie aktywności aplikacji systemowych</string>
   <string name="choose_gs_show_way">Wybierz orientację strony głównej</string>
   <string name="function_shield_auto_bright">Wyłącz autom. jasność</string>
@@ -2840,8 +2843,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="power_save_mode_close_xiaoai_wakeup_summary">Działa z włączonym Oszczędzaniem baterii</string>
   <string name="power_save_mode_close_xiaoai_wakeup_title">"Nie uruchamiaj SI Mi głosem"</string>
   <string name="power_save_mode_other_optimization">Opcjonalne optymalizacje</string>
-  <string name="power_save_ps_close_setting_5g_q">Wyłącz usługi i funkcje zużywające najwięcej energii (synchronizacja, łączność 5G, reakcje haptyczne, \"Podnieś, aby wybudzić\", wybudzanie/wygaszanie ekranu dwuklikiem, \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
-  <string name="power_save_ps_close_setting_q">Wyłącz usługi i funkcje zużywające najwięcej energii (synchronizacja, reakcje haptyczne, \"Podnieś, aby wybudzić\", wybudzanie/wygaszanie ekranu dwuklikiem, \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
   <string name="alert_back_milink_hangup_tips_content_vb">"Przesyłanie ekranu nie zostanie przerwane, gdy jest on wyłączony, a jakaś aplikacja pracuje w tle. Możesz nacisnąć przycisk Zasilania, aby wybudzić ekran."</string>
   <string name="applock_app_recommend_lock_title">Możesz zablokować następujące aplikacje</string>
   <string name="applock_guide_open_applock">Włącz</string>
