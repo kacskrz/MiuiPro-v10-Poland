@@ -862,4 +862,5 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="theme_setting_all">Wszystkie motywy</string>
   <string name="wallpaper_setting_all">Wszystkie tapety</string>
   <string name="wallpaper_setting_live">Żywe</string>
+  <string name="miuishare_sys_title_share">Więcej opcji</string>
 </resources>
