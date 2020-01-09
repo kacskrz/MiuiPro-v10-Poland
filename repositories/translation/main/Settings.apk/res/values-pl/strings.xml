@@ -4811,7 +4811,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="usb_mtp_summary">Umożliwia przesyłanie plików multimedialnych w Windows lub przy użyciu aplikacji Android File Transfer (dostępna na www.android.com/filetransfer) w Mac OS.</string>
   <string name="usb_mtp_title">Urządzenie multimedialne (MTP)</string>
   <string name="use_otg_charge_only">Ładowanie zwrotne</string>
-  <string name="use_otg_charge_only_summary">Szybsze ładowanie 1A</string>
+  <string name="use_otg_charge_only_summary">Szybsze ładowanie 1,8A</string>
   <string name="use_otg_file_transfers">Ładowanie zwrotne i transfer plików</string>
   <string name="use_otg_file_transfers_summary">Wolniejsze ładowanie 500mA oraz transfer plików</string>
   <string name="usb_ptp_summary">Umożliwia przesyłanie zdjęć za pomocą oprogramowania aparatu, a także przesyłanie dowolnych plików na komputerach, które nie obsługują urządzeń MTP.</string>
@@ -6569,4 +6569,6 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="codec_low_latency_summary">Zapewnia małe opóźnienie dla synchronizacji audio i wideo</string>
   <string name="codec_low_latency_title">Małe opóźnienie</string>
   <string name="call_example_name">Nazwa</string>
+  <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
+  <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
 </resources>

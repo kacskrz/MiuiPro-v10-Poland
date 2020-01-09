@@ -27,4 +27,6 @@ przejdź na %s na innym podłączonym urządzeniu."</string>
     <string name="open_wifi_connect_and_use_data_summary">Używasz danych mobilnych. Kliknij, by przełączyć się na Wi-Fi.</string>
     <string name="poco_privacy_policy">Polityka prywatności i zgoda użytkownika POCO Launcher</string>
     <string name="legal_written_offer">Licencje open source Xiaomi</string>
+    <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
 </resources>
