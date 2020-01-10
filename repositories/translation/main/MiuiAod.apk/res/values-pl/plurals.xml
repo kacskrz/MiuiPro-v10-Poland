@@ -4,4 +4,9 @@
         <item quantity="other">" (%1$s godz.) - %2$s"</item>
         <item quantity="one">" (%1$s godz.) - %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Wybrano %d elementów</item>
+        <item quantity="one">Wybrano %d element</item>
+        <item quantity="few">Wybrano %d elementy</item>
+    </plurals>
 </resources>

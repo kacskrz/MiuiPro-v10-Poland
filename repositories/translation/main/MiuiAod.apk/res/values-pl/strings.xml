@@ -22,7 +22,7 @@
     <string name="accessibility_battery_level_charging">Ładowanie baterii, %d procent.</string>
     <string name="align_type">Położenie</string>
 	<string name="always_style">Zawsze</string>
-	   <string name="animation_clock_panel">Falujący</string>
+	<string name="animation_clock_panel">Falujący</string>
     <string name="aod_close_color_inversion">"Ta funkcja nie działa razem z inwersją kolorów. Wyłącz inwersję kolorów, aby móc używać tej funkcji."</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
@@ -52,6 +52,7 @@
 	<string name="custom_image">Własny obraz</string>
     <string name="deep_space_planet">Przestrzeń kosmiczna</string>
     <string name="deep_space_planet_des">Motyw odwzorowuje zmiany światła podczas dnia. Wschody i zachody słońca w tym motywie są zsynchronizowane z Twoją lokalizacją.</string>
+    <string name="delete">Usuń</string>
     <string name="digital_clock">Cyfrowy</string>
     <string name="disable_aod_in_power_save_mode">Wyłącz, gdy włączone jest Oszczędzanie baterii</string>
     <string name="disable_aod_in_power_save_mode_summary">"Po aktywowaniu tej opcji elementy nie będą wyświetlane w celu zaoszczędzenia energii"</string>
@@ -61,6 +62,7 @@
     <string name="line_space">Odstęp między liniami</string>
     <string name="mini_time">Mały zegar</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
+    <string name="my_style_title">Mój styl</string>
     <string name="notification_anim_pulse">Puls</string>
     <string name="notification_anim_rhythm">Rytm</string>
     <string name="notification_anim_star">Błysk gwiazdy</string>
@@ -95,6 +97,7 @@
     <string name="text_color">Kolor tekstu</string>
     <string name="text_length_exceed_limit_alert">*Wprowadzony tekst jest za długi</string>
     <string name="text_size">Rozmiar tekstu</string>
+    <string name="theme_cate_title">Motyw</string>
 	<string name="time_location">Położenie zegara</string>
     <string name="time_style">Styl</string>
     <string name="time_style_layout">Układ</string>

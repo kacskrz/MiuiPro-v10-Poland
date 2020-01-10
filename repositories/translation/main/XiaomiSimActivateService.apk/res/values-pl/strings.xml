@@ -115,8 +115,8 @@ Wpisz numer powiązany z nową kartą SIM, aby aktywować ponownie %s."</string>
     <string name="phone_get_text">Zezwolić na uzyskanie numeru telefonu (%2$s) przez %1$s?</string>
     <string name="phone_get_processing">Uzyskiwanie…</string>
     <string name="agree">Zezwól</string>
-    <string name="privacy_revoke_tips">Jeśli odwołasz, nie będzie można korzystać z synchronizacji SMS</string>
-    <string name="privacy_revoke_failed_msg">Unieważniono prywatność, nie można uzyskać numeru telefonu, aktywacja nieudana</string>
+    <string name="privacy_revoke_failed_msg">Aktywacja wymaga udzielenia autoryzacji, aby aplikacja SMS mogła uzyskać Twój numer telefonu.</string>
+    <string name="privacy_revoke_tips">Po odwołaniu autoryzacji aplikacja przestanie zbierać dane, które zostaną usunięte z serwerów online. Nie będzie dłużej dostępna synchronizacja ze Chmurą Xiaomi, Wiadomościami w Chmurze oraz innymi funkcjami aplikacji SMS. Odwołać autoryzację mimo to?</string>
     <string name="activate_feature_voip">Wiadomość Mi VoIP</string>
     <string name="checking_client">Sprawdzanie środowiska aktywacji</string>
     <string name="error_checking_client">Podczas aktywacji wystąpił błąd</string>
