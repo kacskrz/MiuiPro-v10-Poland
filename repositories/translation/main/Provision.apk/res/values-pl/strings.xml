@@ -143,7 +143,7 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
     <string name="download_introduction">Ta aplikacja zarządza pobraniami wszystkich plików na to urządzenie.</string>
     <string name="fast_application_introduction">Framework aplikacji błyskawicznych pozwala na tworzenie i dostarczanie Ci usług w ramach aplikacji błyskawicznych.</string>
     <string name="framework_introduction">Framework Usług Xiaomi pozwala Ci na korzystanie z konta Xiaomi, Mi Push, Mi Stats oraz MIUI BI.</string>
-    <string name="framwork_base_service">Aby dostarczać Ci te usługi, Framework Usług Xiaomi (Konto Xiaomi, Mi Push, Mi Stats, MIUI BI) wymaga połączenia z Internetem, a także dostępu do Twojego numeru telefonu, numerów IMEI i IMSI, a także zezwolenia na korzystanie z powiadomień push na Twoim urządzeniu.</string>
+    <string name="framwork_base_service">Aby dostarczać Ci te usługi, Framework Usług Xiaomi (Konto Xiaomi, Mi Push, Mi Stats, MIUI BI) wymaga połączenia z Internetem, a także dostępu do Twojego numeru telefonu, lokalizacji, numerów IMEI i IMSI, a także zezwolenia na korzystanie z powiadomień push na Twoim urządzeniu.</string>
     <string name="google_service_introduction">Aby móc działać normalnie, sklep Google Play wymaga połączenia z Internetem, a także dostępu do Twojej lokalizacji, możliwości nagrywania dźwięku, wykonywania połączeń, dostępu do wydarzeń z kalendarza, historii rozmów, sensorów, pamięci, aparatu, informacji o urządzeniu oraz kontach. </string>
     <string name="location_introduction">Usługi oparte na lokalizacji odnajdują usługi znajdujące się w pobliżu Ciebie.</string>
     <string name="lockscreen_introduction">Tapety ekranu blokady dostarczają codziennie nowe tapety na Twój ekran blokady.</string>
@@ -217,7 +217,7 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
     <string name="service_policy"><Data>Przeczytaj i zaakceptuj &lt;a href=%1$s>Politykę prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="service_privacy_index">Polityka prywatności</string>
     <string name="servicestate_title">Podstawowe usługi</string>
-    <string name="user_agreement_declare">Przed użyciem MIUI musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Systemowy Launcher, Częste zwroty, Usługa tłumaczenia, funkcja Znajdź urządzenie, Bateria i wydajność oraz MIUI Daemon połączą się z siecią.</string>
+    <string name="user_agreement_declare">Przed użyciem MIUI musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Chmura Xiaomi, Systemowy Launcher, Częste zwroty, Usługa tłumaczenia, funkcja Znajdź urządzenie, Bateria i wydajność oraz MIUI Daemon połączą się z siecią.</string>
   <string name="ai_button_desc">Przycisk SI pozwala Ci wywołać Asystenta Google.</string>
   <string name="data_traffic_enable_dialog_title">"Jeśli nie jesteś połączony z siecią Wi-Fi, Twoje urządzenie będzie korzystać z danych komórkowych. Operator może pobrać opłatę za zużycie tych danych (w zależności od Twojej taryfy)."</string>
   <string name="other_settings_enhanced_lockscreen_for_india">Glance dla Xiaomi</string>

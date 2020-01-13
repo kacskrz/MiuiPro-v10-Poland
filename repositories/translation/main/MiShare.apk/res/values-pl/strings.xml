@@ -78,18 +78,23 @@
     <string name="file_transfer_progress">Postęp: %1$d%%</string>
     <string name="file_transfer_progress_title">Postęp</string>
     <string name="functions_are_being_developed">Funkcja będzie dostępna wkrótce. Bądź czujny!</string>
+    <string name="help">Zobacz pomoc</string>
+    <string name="help_content">"Jeśli nie możesz odnaleźć urządzenia, którego potrzebujesz, zapytaj inną osobę, czy włączyła ona funkcję Mi Share."</string>
     <string name="hide">Ukryj</string>
     <string name="i_know">Rozumiem</string>
     <string name="location_enabled">Włączono usługi lokalizacji w celu odnalezienia urządzeń w pobliżu</string>
     <string name="mi_drop">Mi Share</string>
     <string name="mishare_folder_in_file_explorer">Menedżer plików > MiShare</string>
+    <string name="mishare_service_channel_desc">Powiadomienia o procesach Mi Share</string>
     <string name="mishare_settings_summary_international">"Możesz używać Mi Share do przesyłania elementów do urządzeń w pobliżu.
 W tym momencie aplikacja jest kompatybilna jedynie z telefonami Xiaomi oraz Redmi.
 Wkrótce z Mi Share będą kompatybilne urządzenia marek: OPPO, vivo, realme i innych. Możesz sprawdzić listę kompatybilnych urządzeń na stronie narzędzia."</string>
     <string name="mishare_state_protection">Włącz Mi Share automatycznie</string>
     <string name="mishare_state_protection_summary">Włącz funkcję Mi Share automatycznie, gdy zostanie włączone Bluetooth bądź Wi-Fi</string>
+    <string name="mishare_transefer_channel_desc">Powiadomienia o elementach wysłanych/otrzymanych przez Mi Share</string>
     <string name="no_longer_prompt">Zablokuj</string>
     <string name="no_longer_receive">"Zablokować to urządzenie? Nie będziesz w stanie otrzymywać z niego plików."</string>
+    <string name="notification_channel_name">Powiadomienia o przenoszeniu</string>
     <string name="operate_too_fast">Za szybko! Poczekaj, aż zakończą się trwające operacje.</string>
     <string name="pc_device_model_name">Komputer</string>
     <string name="permission_denied_hint">Nadaj wymagane uprawnienia, aby móc użyć Mi Share</string>

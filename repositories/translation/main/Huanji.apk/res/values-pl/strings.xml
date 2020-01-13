@@ -162,7 +162,7 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
     <string name="main_chooser_item_ios">"Importuj z iPhone'a"</string>
     <string name="main_chooser_title">Wybierz stare urządzenie</string>
     <string name="message_request_package_stats_perm">Dotknij przycisku \"Kontynuuj\", aby otworzyć Ustawienia i nadaj Przenoszeniu danych wymagane uprawnienia.</string>
-    <string name="miui_need_open_high_accuracy_summary">"Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji, aby odnaleźć urządzenia w pobliżu. Bez nadania tego uprawnienia nie będzie można skorzystać z możliwości tej aplikacji."</string>
+    <string name="miui_need_location_permission_summary">"Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji, aby odnaleźć urządzenia w pobliżu. Bez nadania tego uprawnienia nie będzie można skorzystać z możliwości tej aplikacji."</string>
     <string name="miui_need_location_permission_title">Dostęp do lokalizacji</string>
     <string name="miui_need_open_high_accuracy_summary">"Zezwól Przenoszeniu danych na dostęp do Twojej lokalizacji w trybie Wysokiej dokładności, aby odnaleźć urządzenia w pobliżu. Bez nadania tego uprawnienia nie będzie można skorzystać z możliwości tej aplikacji."</string>
     <string name="miui_need_open_high_accuracy_title">Dostęp do dokładnej lokalizacji</string>

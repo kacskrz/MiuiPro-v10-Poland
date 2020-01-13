@@ -132,4 +132,8 @@
         <item quantity="one">%d częsty zwrot</item>
         <item quantity="few">%d częste zwroty</item>
     </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">"Nie można wybrać więcej niż %d elementów"</item>
+        <item quantity="one">"Nie można wybrać więcej niż %d elementu"</item>
+    </plurals>
 </resources>

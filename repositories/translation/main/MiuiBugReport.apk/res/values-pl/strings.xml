@@ -178,7 +178,7 @@
     <string name="modem_tool_log_finish_title">Przechwycono log modemu</string>
     <string name="modem_tool_log_finish_desc">Log został zapisany jako %s</string>
     <string name="bugreport_dialog_not_show_again">Nie pokazuj ponownie</string>
-    <string name="bugreport_dialog_submit_content"><Data>"Zapisujesz teraz logi oprogramowania na tym urządzeniu. Logi mogą zawierać informacje osobiste oraz dane o lokalizacji. Nie udostępniaj tych danych nikomu innemu, jeśli nie chcesz zostać narażony na wyciek danych. Wybranie przycisku \"Zgoda\" oznacza, że przeczytałeś i zgodziłeś się na naszą <a href=\"%1$s\">Privacy Policy</a> i <a href=\"%2$s\">Zgodę Użytkownika</a>."</Data></string>
+    <string name="bugreport_dialog_submit_content"><Data>"Zapisujesz teraz logi oprogramowania na tym urządzeniu. Logi mogą zawierać informacje osobiste oraz dane o lokalizacji. Nie udostępniaj tych danych nikomu innemu, jeśli nie chcesz zostać narażony na wyciek danych. Wybranie przycisku \"Zgoda\" oznacza, że przeczytałeś i zgodziłeś się na naszą &lt;a href=\"%1$s\">Politykę prywatności&lt;/a> i &lt;a href=\"%2$s\">Zgodę Użytkownika&lt;/a>."</Data></string>
     <string name="bugreport_dump_start_notification_title">Tworzenie pełnego raportu</string>
     <string name="bugreport_dump_start_notification_summary">Może to potrwać kilka minut.</string>
     <string name="bugreport_dump_complete_notification_title">Utworzono raport (plik .log w archiwum .zip)</string>

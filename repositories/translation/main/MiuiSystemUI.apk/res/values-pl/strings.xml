@@ -1860,4 +1860,8 @@ długi zrzut ekranu"</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">"Nie pokazuj ponownie"</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Przełączanie pomiędzy sieciami</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Przyspieszenie prędkości oparte na dwóch pasmach Wi-Fi wymaga użycia dwóch różnych pasm sieci Wi-Fi. Jeśli połączysz się z inną siecią główną, połączenie z siecią dodatkową zostanie utracone.</string>
+  <string name="accessibility_status_bar_micphone">Mikrofon podłączony</string>
+  <string name="how_to_use_app_quick">Jak przełączać się pomiędzy aplikacjami?</string>
+  <string name="how_to_use_app_quick_hide_line_summary">Pociągnij w górę od dołu ekranu, a następnie przesuwaj w lewo bądź w prawo</string>
+  <string name="how_to_use_app_quick_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
 </resources>

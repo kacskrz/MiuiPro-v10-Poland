@@ -2978,4 +2978,16 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="gb_voice_changer_dlg_button_agree">Zezwól</string>
   <string name="gb_voice_changer_permission_dlg_title">Wymagane uprawnienia</string>
   <string name="gb_voice_changer_permission_dlg_msg">Funkcja \"Zmiana głosu\" wymaga uprawnień do nagrywania dźwięku, aby poprawnie działać.</string>
+  <string name="power_save_ps_close_setting_3">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_close_setting_5gnet">łączność z siecią 5G</string>
+  <string name="power_save_ps_close_setting_6">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_dclickwakeup">wybudzanie/wygaszanie ekranu dwuklikiem</string>
+  <string name="power_save_ps_close_setting_fingeraod">\"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\"</string>
+  <string name="power_save_ps_close_setting_gps">GPS</string>
+  <string name="power_save_ps_close_setting_haptic">reakcje haptyczne</string>
+  <string name="power_save_ps_close_setting_pickupwakeup">\"Podnieś, aby wybudzić\"</string>
+  <string name="power_save_ps_close_setting_sync">synchronizacja</string>
 </resources>

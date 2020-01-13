@@ -6571,4 +6571,11 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="call_example_name">Nazwa</string>
   <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">Pociągnij w górę od dołu ekranu, a następnie przesuwaj w lewo bądź w prawo</string>
+  <string name="navigation_guide_app_quick_switch_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
+  <string name="navigation_guide_app_quick_switch_title">Przełącz pomiędzy aplikacjami</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">Po ukryciu paska do przełączania się pomiędzy aplikacjami zostanie użyty nowy gest. Czy chcesz się go teraz nauczyć?</string>
+  <string name="navigation_guide_gesture_line_dialog_title">Naucz się nowego gestu</string>
+  <string name="navigation_guide_hide_gesture_line_summary">"Nie pokazuj paska na dole ekranu podczas używania gestów"</string>
+  <string name="navigation_guide_hide_gesture_line_title">Ukryj pasek na dole ekranu</string>
 </resources>
