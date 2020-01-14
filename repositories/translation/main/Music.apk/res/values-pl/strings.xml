@@ -1358,4 +1358,7 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="switch_success">Pomyślnie przełączono</string>
   <string name="tab_flow">Do obejrzenia</string>
   <string name="track_play_history_after_login">Zaloguj się, aby zobaczyć historię odtwarzania</string>
+  <string name="cannot_download_to_sdcard_hint">"Ze względu na ograniczenia dot. praw autorskich nie można pobrać elementów na kartę SD. Zostaną one pobrane do pamięci wewnętrznej."</string>
+  <string name="create_playlist_input_hint">Wprowadź nazwę playlisty</string>
+  <string name="online_apk_install_tips">"Musisz jednorazowo pobrać wtyczkę tego dostawcy zawartości. Następnym razem będziesz mieć dostęp do utworów bezpośrednio."</string>
 </resources>

@@ -201,4 +201,8 @@
         <item>Odbierz połączenie</item> 
         <item>Odrzuć połączenie</item> 
     </string-array>
+  <string-array name="default_search_up_entries"> 
+        <item>Domyślna</item> 
+        <item>Przeglądarka</item> 
+  </string-array>
 </resources>
