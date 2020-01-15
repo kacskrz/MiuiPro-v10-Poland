@@ -2990,4 +2990,6 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="power_save_ps_close_setting_haptic">reakcje haptyczne</string>
   <string name="power_save_ps_close_setting_pickupwakeup">\"Podnieś, aby wybudzić\"</string>
   <string name="power_save_ps_close_setting_sync">synchronizacja</string>
+  <string name="antispam_mms_text">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc zobaczyć zablokowane wiadomości</string>
+  <string name="antispam_mms_text_setting">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc użyć listy blokowanych</string>
 </resources>

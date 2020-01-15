@@ -114,4 +114,6 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="adaptive_battery_title">Adaptacyjna bateria</string>
     <string name="permstep_description">"Zezwól tej aplikacji na dostęp do licznika kroków"</string>
     <string name="permstep_label">Dostęp do licznika kroków</string>
+    <string name="power_tools_current">Prąd</string>
+    <string name="power_tools_fps">FPS</string>
 </resources>

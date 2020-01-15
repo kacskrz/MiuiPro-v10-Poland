@@ -52,4 +52,12 @@
         <item quantity="many">"
 %d prób pozostało."</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dzień</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
 </resources>

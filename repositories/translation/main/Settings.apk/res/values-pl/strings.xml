@@ -6578,4 +6578,6 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="navigation_guide_gesture_line_dialog_title">Naucz się nowego gestu</string>
   <string name="navigation_guide_hide_gesture_line_summary">"Nie pokazuj paska na dole ekranu podczas używania gestów"</string>
   <string name="navigation_guide_hide_gesture_line_title">Ukryj pasek na dole ekranu</string>
+  <string name="power_monitor_summary">Narzędzia do kontroli energii.</string>
+  <string name="power_monitor_title">Monitorowanie energii</string>
 </resources>

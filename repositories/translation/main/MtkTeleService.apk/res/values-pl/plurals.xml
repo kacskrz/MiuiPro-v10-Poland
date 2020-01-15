@@ -49,4 +49,12 @@ Pozostało prób: %d."</item>
         <item quantity="few">Połączono %1$d urządzenia</item>
         <item quantity="other">Połączono %1$d urządzeń</item>
      </plurals>
+    <plurals name="day">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dzień</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
 </resources>

@@ -1292,6 +1292,7 @@
      <string name="mo_call_type_title">MO Call Type</string>
      <string name="mobile_advanced_dns_server_title">Adres serwera DNS</string>
      <string name="mobile_advanced_ip_address_title">Adres IP</string>
+     <string name="mobile_advanced_nr_network_title">Typ sieci 5G</string>
      <string name="mobile_connection_management">Zarządzaj połączeniem z siecią komórkową</string>
      <string name="mobile_data">"Dane mobilne: "</string>
      <string name="mobile_data_activate_button">ADD DATA</string>
@@ -1314,9 +1315,7 @@
      <string name="mobile_data_status_roaming_turned_on_subtext">Data roaming is turned on</string>
      <string name="mobile_data_status_roaming_with_plan_subtext">Currently roaming, data plan is active</string>
      <string name="mobile_data_status_roaming_without_plan_subtext">Currently roaming, need data plan</string>
-     <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
      <string name="mobile_network_settings_not_available">Ustawienia sieci komórkowej są niedostępne dla tego użytkownika</string>
-     <string name="mobile_network_settings_package">com.android.phone</string>
      <string name="mobile_networks">Ustawienia sieci komórkowej</string>
      <string name="mobile_property">Właściwości sieci komórkowej</string>
      <string name="mock_location_app">Select mock location app</string>
@@ -1465,6 +1464,13 @@ Zostanie wybrana sieć preferowana."</string>
      <string name="notification_voicemail_text_format">Zadzwoń do %s</string>
      <string name="notification_voicemail_title">Nowa poczta głosowa</string>
      <string name="notification_voicemail_title_count">Nowa poczta głosowa (%d)</string>
+     <string name="nr_network_info">Informacje o sieci 5G</string>
+     <string name="nr_usaged_first_used_time">Zarejestrowany w sieci 5G</string>
+     <string name="nr_usaged_module">Model urządzenia</string>
+     <string name="nr_usaged_network_rate">Największa prędkość</string>
+     <string name="nr_usaged_network_usaged">"Dane - dzisiaj"</string>
+     <string name="nr_usaged_operator">Operator</string>
+     <string name="nr_usaged_used_time">Użytkowano przez</string>
      <string name="number">Numer</string>
      <string name="nw_subset_unlock_failed">SIM Network Subset unlock request unsuccessful.</string>
      <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>
