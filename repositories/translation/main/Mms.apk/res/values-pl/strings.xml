@@ -912,4 +912,6 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="turn_on">Włącz</string>
   <string name="user_term">Umowa użytkownika</string>
   <string name="yulore_term">Polityka prywatności</string>
+  <string name="notification_add_todo">Przypomnij później</string>
+  <string name="notification_add_todo_content">Kod odbioru: %s</string>
 </resources>

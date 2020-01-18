@@ -153,4 +153,26 @@ Odtwarzanie następnego za %d s…"</item>
         <item quantity="one">"Nie udało się załadować filmu.
 Odtwarzanie następnego za %d s…"</item>
     </plurals>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d odpowiedzi</item>
+        <item quantity="one">%d odpowiedź</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d godz. temu</item>
+        <item quantity="one">%d godz. temu</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Zobacz %d komentarzy</item>
+        <item quantity="few">Zobacz %d komentarze</item>
+        <item quantity="one">Zobacz %d komentarz</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d min temu</item>
+        <item quantity="one">%d min temu</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Wybrano %d powodów</item>
+        <item quantity="one">Wybrano %d powód</item>
+        <item quantity="few">Wybrano %d powody</item>
+    </plurals>
 </resources>
