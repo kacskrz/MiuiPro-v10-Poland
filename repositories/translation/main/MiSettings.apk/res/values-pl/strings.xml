@@ -148,7 +148,7 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
     <string name="usage_home_premission_second_summary">Aby móc działać normalnie, aplikacja musi gromadzić Twoje dane osobowe. Xiaomi będzie chronić je w oparciu o odpowiednie przepisy oraz polityki prywatności.</string>
     <string name="usage_home_premission_second_summary_new">Jeśli nie zezwolisz na udzielenie powyższych uprawnień, nie będziesz mógł korzystać z tej aplikacji. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami i politykami prywatności. Możesz odwołać swoją autoryzację dla tej funkcji, wyłączając ją (ikona zębatki &gt; Wyłącz funkcję Czas przed ekranem). Jeśli masz więcej pytań dotyczących prywatności, możesz skontaktować się z Xiaomi za pomocą e-maila: privacy@xiaomi.com.</string>
     <string name="usage_no_net_summary">Sprawdź ustawienia sieci i spróbuj ponownie</string>
-    <string name="usage_reach_device_limit">Osiągnięto limit czasu korzystania z urządzenia. Nie można kontynuować korzystania z urządzenia., can't continue to use</string>
+    <string name="usage_reach_device_limit">Osiągnięto limit czasu korzystania z urządzenia. Nie można kontynuować korzystania z urządzenia.</string>
     <string name="usage_reach_device_limit_warning_text">Dostępny czas dzisiaj</string>
     <string name="usage_refresh">Spróbuj ponownie</string>
     <string name="usage_remain_about_hour_miunte" formatted="false">Około %1s godz. %1s min</string>
