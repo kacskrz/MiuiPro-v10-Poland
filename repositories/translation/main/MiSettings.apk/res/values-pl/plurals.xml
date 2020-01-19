@@ -104,4 +104,12 @@
         <item quantity="zero">%.2f razy</item>
         <item quantity="one">%.2f raz</item>
     </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s godz.</item>
+        <item quantity="one">%s godz.</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+	</plurals>
 </resources>

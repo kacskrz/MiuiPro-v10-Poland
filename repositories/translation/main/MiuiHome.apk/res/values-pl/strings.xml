@@ -503,4 +503,7 @@
   <string name="recents_title_market">Sklep z aplikacjami</string>
   <string name="recents_title_security_scan">Antywirus</string>
   <string name="status_bar_recent_memory_info1">Dostępne %1$sB z %2$sB</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">"Nie można użyć Podzielonego ekranu, gdy przesyłasz ekran"</string>
+  <string name="recents_task_screening">Przesyłanie ekranu</string>
+  <string name="task_access_locked_app_msg">Włączono Blokadę aplikacji</string>
 </resources>

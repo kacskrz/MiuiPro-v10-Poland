@@ -110,6 +110,15 @@
     <string name="usage_beat_fans">Lepiej niż %s Mi Fanów</string>
     <string name="usage_continuous_days">Passa</string>
     <string name="usage_creating_weekly_report">Tworzenie tygodniowego raportu…</string>
+    <string name="usage_current_week_usage">Średni czas użytkowania w tygodniu: %s</string>
+    <string name="usage_device_limit_app_prolong">Przedłużono</string>
+    <string name="usage_device_limit_app_prolong_time1">Przedłużono na 20 min</string>
+    <string name="usage_device_limit_app_prolong_time2">Przedłużono na 40 min</string>
+    <string name="usage_device_limit_app_prolong_time3">Przedłużono na 60 min</string>
+    <string name="usage_device_limit_app_prolong_time4">Dziś bez ograniczeń</string>
+    <string name="usage_device_limit_notifation_summary_start">Pozostało: %1$s</string>
+    <string name="usage_device_limit_notifation_title">Dostępny czas dzisiaj</string>
+    <string name="usage_device_limit_time_over">Dostępne dzisiaj: %1$s</string>
     <string name="usage_exit">Wyjdź</string>
     <string name="usage_focus_focus_premission_main_summary">Aplikacja wymaga uprawnień do informacji o koncie w celu przechowywania historii korzystania z tego trybu.</string>
     <string name="usage_focus_focus_premission_second_summary">Jeśli nie zgodzisz się na nadanie tego uprawnienia, nie będziesz w stanie korzystać z niektórych funkcji tej aplikacji, jednakże jej podstawowa funkcjonalność będzie nadal dostępna. W dowolnym momencie możesz ograniczyć uprawnienia i odwołać autoryzację dla tej aplikacji w Ustawieniach.</string>
@@ -139,7 +148,11 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
     <string name="usage_home_premission_second_summary">Aby móc działać normalnie, aplikacja musi gromadzić Twoje dane osobowe. Xiaomi będzie chronić je w oparciu o odpowiednie przepisy oraz polityki prywatności.</string>
     <string name="usage_home_premission_second_summary_new">Jeśli nie zezwolisz na udzielenie powyższych uprawnień, nie będziesz mógł korzystać z tej aplikacji. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami i politykami prywatności. Możesz odwołać swoją autoryzację dla tej funkcji, wyłączając ją (ikona zębatki &gt; Wyłącz funkcję Czas przed ekranem). Jeśli masz więcej pytań dotyczących prywatności, możesz skontaktować się z Xiaomi za pomocą e-maila: privacy@xiaomi.com.</string>
     <string name="usage_no_net_summary">Sprawdź ustawienia sieci i spróbuj ponownie</string>
+    <string name="usage_reach_device_limit">Osiągnięto limit czasu korzystania z urządzenia. Nie można kontynuować korzystania z urządzenia., can't continue to use</string>
+    <string name="usage_reach_device_limit_warning_text">Dostępny czas dzisiaj</string>
     <string name="usage_refresh">Spróbuj ponownie</string>
+    <string name="usage_remain_about_hour_miunte" formatted="false">Około %1s godz. %1s min</string>
+    <string name="usage_remain_hour_miunte" formatted="false">%1s godz. %1s min</string>
     <string name="usage_request_error_summary">Wystąpił nieznany błąd</string>
     <string name="usage_request_timeout_summary">Przekroczono czas żądania</string>
     <string name="usage_special_feature">Specjalne funkcje</string>
@@ -231,7 +244,18 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
     <string name="usage_state_week_total_text">Użytkowanie w ciągu tygodnia</string>
     <string name="usage_state_work_day">Dni robocze</string>
     <string name="usage_state_work_day_hour_minute">Dni robocze: %1$d godz. %2$d min</string>
+    <string name="usage_stats_device_limit">Ograniczenia użytkowania</string>
+    <string name="usage_stats_device_limit_summary">Ogranicz korzystanie z urządzenia</string>
     <string name="usage_stats_experience_text">Dotknij, aby wypróbować (1 min)</string>
+    <string name="usage_stats_limit_time_accuracy_title">Dokładność pozostałego czasu</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary">Dokładność co do minuty. Zużywa więcej energii.</string>
+    <string name="usage_stats_limit_time_high_accuracy_title">Wysoka dokładność</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary">Dokładność co do minuty tylko co 2 godziny. Zużywa mniej energii.</string>
+    <string name="usage_stats_limit_time_low_accuracy_title">Niska dokładność</string>
+    <string name="usage_stats_limit_time_warn">Przypomnienie dot. pozostałego czasu</string>
+    <string name="usage_stats_limit_time_warn_summary">Po włączeniu tej funkcji w panelu powiadomień wyświetlać się będzie informacja o pozostałym czasie, przez który można korzystać z urządzenia</string>
+    <string name="usage_stats_limit_time_warn_title">Wyświetlaj przypomnienia dot. pozostałego czasu</string>
+    <string name="usage_stats_no_limit">Aplikacje bez ograniczeń</string>
     <string name="usage_stats_normal_day">Dni robocze</string>
     <string name="usage_stats_week_day">Weekendy</string>
     <string name="usage_total_days">Łącznie dni</string>
