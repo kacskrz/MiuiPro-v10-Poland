@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Przejdź do startowej</string>
+  <string name="abc_action_bar_up_description">Do góry</string>
+  <string name="abc_action_menu_overflow_description">Więcej</string>
+  <string name="abc_action_mode_done">Zrobione</string>
+  <string name="abc_action_mode_select_all">Wszystkie</string>
+  <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+  <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+  <string name="abc_capital_off">WYŁ.</string>
+  <string name="abc_capital_on">WŁ.</string>
+  <string name="abc_search_hint">Wyszukaj…</string>
+  <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+  <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+  <string name="abc_searchview_description_search">Szukaj</string>
+  <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+  <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+  <string name="abc_shareactionprovider_share_with">Udostępnij przez</string>
+  <string name="abc_shareactionprovider_share_with_application">Udostępnij przez %s</string>
+  <string name="abc_toolbar_collapse_description">Zwiń</string>
   <string name="about_weather_setting">O aplikacji</string>
   <string name="about_weather_setting_feedback">Opinia</string>
   <string name="abrupt_weather_settings_summary_type">Otrzymuj ostrzeżenia o spodziewanych opadach deszczu, zmianach jakości powietrza i innych poważnych zmianach pogody</string>
@@ -256,6 +274,7 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="request_permission_read_phone_state_dialog_content">Rozpoznawanie urządzenia</string>
   <string name="request_permission_storage_dialog_content">Udostępnianie informacji o pogodzie w formie grafiki</string>
   <string name="retry">Ponów</string>
+  <string name="search_menu_title">Szukaj</string>
   <string name="search_weather">Pogoda</string>
   <string name="search_weather_keywords">Temperatura;Prognoza pogody;Pogoda;Wilgotność</string>
   <string name="set">Ustawienia</string>
