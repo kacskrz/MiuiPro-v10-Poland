@@ -403,7 +403,7 @@
     <string name="miui_failed_solution_4">Zwolnij miejsce w Panelu sterowania > Czyszczenie i spróbuj ponownie.</string>
     <string name="miui_failed_solution_5">Spróbuj użyć kompatybilnej paczki instalacyjnej.</string>
     <string name="miui_failed_solution_6">Odinstaluj tą aplikację w Drugiej przestrzeni i spróbuj ponownie.</string>
-    <string name="miui_failed_solution_7">Pobierz najnowszą wersję aplikacji z GetApps.</string>
+    <string name="miui_failed_solution_7">Pobierz najnowszą wersję aplikacji z sklepu Google Play lub innego zaufanego źródła.</string>
     <string name="miui_solution_msg_2">Rozwiązanie</string>
     <string name="pref_key_app_store_summary">Informuj o możliwości pobrania aplikacji z bezpiecznego źródła przed instalacją</string>
     <string name="pref_key_app_store_title">Rekomenduj bezpieczną wersję</string>
@@ -420,9 +420,9 @@
     <string name="virus_title_subtext">"Ta aplikacja może zawierać wirusy: "</string>
     <string name="pref_key_antivirus_summary">Sprawdź aplikacje pod kątem wirusów przed ich instalacją</string>
     <string name="risk_warning_title">Wykryto zagrożenie</string>
-    <string name="risk_warning_msg">"Sygnatura paczki instalacyjnej może nie być autentyczna. Aby uniknąć potencjalnych zagrożeń, zainstaluj tą aplikację za pomocą GetApps."</string>
+    <string name="risk_warning_msg">"Sygnatura paczki instalacyjnej może nie być autentyczna. Aby uniknąć potencjalnych zagrożeń, zainstaluj tą aplikację z zaufanego źródła."</string>
     <string name="risk_warning_top_button">"Nie instaluj"</string>
-    <string name="risk_warning_bottom_button">Zainstaluj z GetApps</string>
+    <string name="risk_warning_bottom_button">Zainstaluj z zaufanego źródła</string>
     <string name="application_detail_tips">Szczegóły dot. aplikacji i uprawnień</string>
     <string name="install_finished_notification_summary">Kliknij, aby wyczyścić</string>
     <string name="install_finished_notification_title">Ukończono instalację %1$s. Można wyczyścić %2$s śmieci</string>
