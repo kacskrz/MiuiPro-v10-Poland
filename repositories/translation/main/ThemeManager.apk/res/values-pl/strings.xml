@@ -342,7 +342,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="resource_exchange_share_code_content">Otrzymałeś kod podarunkowy za motyw %1$s w sklepie MIUI. Kod o numerze: %2$s. Dotknij %3$s by użyć kodu teraz.</string>
   <string name="resource_exchange_share_code_dlg_content">Zakupiony kod podarunkowy %1$s jest do motywu: %2$s. Możesz wysłać ten motyw do innego użytkownika MIUI.</string>
   <string name="resource_exchange_share_code_dlg_title">Wysyłanie</string>
-  <string name="resource_exchange_success">Miłej zabawy! :)</string>
+  <string name="resource_exchange_success">Pomyślnie zakupiono</string>
   <string name="resource_exchange_unavailable">Motyw połączony z kodem, który wprowadziłeś, nie jest dotępny.</string>
   <string name="resource_exchange_universal_finish">Ten kod może być użyty do pobrania elementów z Motywów.</string>
   <string name="resource_exchange_universal_goon">Ten kod może być użyty do pobrania dowolnego motywu ze sklepu MIUI.</string>
@@ -863,4 +863,7 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="wallpaper_setting_all">Wszystkie tapety</string>
   <string name="wallpaper_setting_live">Żywe</string>
   <string name="miuishare_sys_title_share">Więcej opcji</string>
+  <string name="de_component_font_author">Projektant czcionek</string>
+  <string name="de_component_tags">Tagi</string>
+  <string name="de_font_exchange_success">Pomyślnie zakupiono</string>
 </resources>
