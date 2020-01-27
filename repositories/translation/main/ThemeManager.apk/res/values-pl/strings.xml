@@ -35,8 +35,17 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="account_unactivated">Konto nie jest aktywne.</string>
   <string name="ad_app_download_start">Rozpoczynanie pobierania…</string>
   <string name="ad_app_is_downloading">Pobieranie…</string>
+  <string name="ad_begin_to_download_tip">Rozpoczynanie pobierania…</string>
   <string name="ad_begin_to_install_tip">Instalacja…</string>
+  <string name="ad_closed_tip">"Zobaczysz mniej reklam tego typu"</string>
+  <string name="ad_download_download">Pobierz</string>
   <string name="ad_download_download_now">Pobierz</string>
+  <string name="ad_download_install">Zainstaluj</string>
+  <string name="ad_download_open">Otwórz</string>
+  <string name="ad_download_pause">Pauza</string>
+  <string name="ad_download_pending">Oczekiwanie</string>
+  <string name="ad_download_resume">Wznów</string>
+  <string name="ad_downloading_tip">Trwa pobieranie tego elementu. Możesz zobaczyć postęp pobierania w Panelu powiadomień.</string>
   <string name="add_resource_detail_fail">Nie można dodać zasobu</string>
   <string name="all_resources">Wszystkie</string>
   <string name="app_disable_transparent_wallpaper">Bez przezroczystej tapety</string>
@@ -153,6 +162,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="incall_show_remove">Usuń wideo</string>
   <string name="incall_show_remove_dialog_message">"Już ustawiłeś wideo dla połączeń wychodzących. Usunąć je teraz?"</string>
   <string name="incall_show_remove_success">Pomyślnie usunięto</string>
+  <string name="incall_show_title">Animowana tapeta</string>
   <string name="incompatible_dialog_cancel">Nie stosuj</string>
   <string name="incompatible_dialog_message">Ten motyw nie jest jeszcze w pełni kompatybilny z tą wersją MIUI. Niektóre elementy mogą być wyświetlane niepoprawnie.</string>
   <string name="incompatible_dialog_ok">Rozumiem</string>
@@ -442,7 +452,10 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="resource_trial_days">(Wersja czasowa: %1$d dni)</string>
   <string name="resource_trial_days_hours">(Wersja czasowa: %1$d dni %2$d godz.)</string>
   <string name="resource_trial_end_change">Zmień</string>
-  <string name="resource_trial_end_message">Okres próbny, obejmujący %1$s wygasł. Dokonaj zakupu, jeśli Ci się spodobało.</string>
+  <string name="resource_trial_end_checkbox_hint">Najpierw otrzymaj Mi Kredyty</string>
+  <string name="resource_trial_end_get_mibi">Otrzymaj Mi Kredyty</string>
+  <string name="resource_trial_end_jump_hint">Przekierowywanie…</string>
+  <string name="resource_trial_end_message">Okres próbny %1$s minął. Jeśli spodobał ci się motyw, możesz go kupić.</string>
   <string name="resource_trial_end_purchase">Kup</string>
   <string name="resource_trial_end_restore">Zakończ okres próbny</string>
   <string name="resource_trial_end_time">(Wersja czasowa przez %1$s)</string>
@@ -541,6 +554,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="theme_purchased_non_local">Zakupione</string>
   <string name="theme_select_others">Przeglądaj</string>
   <string name="theme_setting">Ustawienia</string>
+  <string name="theme_staggered_item_text">Otrzymaj Mi Kredyty</string>
   <string name="theme_to_comment">Zostaw komentarz</string>
   <string name="theme_user_agreement_allow">Zgadzam się</string>
   <string name="theme_user_agreement_content1">"Zapoznaj się z: "</string>

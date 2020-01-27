@@ -65,4 +65,7 @@ Klucz: %2$s
     <string name="wifi_installer_fail_title">Nie można zainstalować</string>
     <string name="wifi_installer_fail_no_wifi">Włącz Wi-Fi i spróbuj ponownie.</string>
 	<string name="storage_error">"Nie można zapisać certyfikatu. Dotknij OK, aby ponowić próbę."</string>
+    <string name="action_missing_private_key">Do instalacji certyfikatu wymagany jest klucz prywatny</string>
+    <string name="action_missing_user_cert">Do instalacji klucza prywatnego wymagany jest certyfikat</string>
+    <string name="userkey_type">Algorytm:</string>
 </resources>

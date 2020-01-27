@@ -158,4 +158,9 @@
     <string name="bluetooth_map_email_settings_app_icon">Ikona aplikacji</string>
     <string name="bluetooth_map_email_settings_title">Ustawienia udostępniania wiadomości przez Bluetooth</string>
     <string name="bluetooth_map_email_settings_no_account_slots_left">Nie można wybrać konta. Pozostało 0 miejsc.</string>
+    <string name="bluetooth_a2dp_sink_queue_name">Co jest grane</string>
+    <string name="bt_sm_2_1_nosdcard">Za mało miejsca na nośniku USB do zapisania pliku z urządzenia „%1$s”.</string>
+    <string name="bt_sm_2_1_default">Za mało miejsca na karcie SD do zapisania pliku z urządzenia „%1$s”.</string>
+    <string name="status_no_sd_card_default">Brak karty SD. Włóż kartę SD, by zapisać przesłane pliki.</string>
+    <string name="status_no_sd_card_nosdcard">Brak nośnika USB.</string>
 </resources>

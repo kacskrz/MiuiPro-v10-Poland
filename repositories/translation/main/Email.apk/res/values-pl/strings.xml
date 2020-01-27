@@ -74,6 +74,7 @@
     <string name="account_setup_basics_manual_setup_action">Konfig. ręczna</string>
     <string name="account_setup_basics_mi_mail_login_help">Być może konieczne będzie zweryfikowanie konta za pomocą SMS, aby otrzymywać e-maile</string>
     <string name="account_setup_basics_password_label">Hasło</string>
+    <string name="account_setup_basics_password_label_authcode">Wprowadź hasło lub kod weryfikacyjny</string>
     <string name="account_setup_basics_title">Dodaj konto</string>
     <string name="account_setup_check_settings_check_incoming_msg">Weryfikacja ustawień serwera…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Weryfikacja ustawień SMTP…</string>
@@ -488,7 +489,7 @@ dla:
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Hasło do serwera poczty przychodzącej jest nieprawidłowe</string>
-    <string name="import_button_text">Zaimportuj</string>
+    <string name="import_button_text">Importuj</string>
     <string name="import_from_other_account">Importuj z innych kont</string>
     <string name="info_actionbar_normal_detail">Promocja</string>
     <string name="info_item_hide">Usuń</string>
@@ -707,7 +708,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="outbox_no_mails">Brak wiadomości</string>
     <string name="over_due">Zaległe</string>
     <string name="parase_setup_data">Pobieranie informacji…</string>
-    <string name="parse_bill_discribe">Przetwarzania rachunków karty kredytowej…</string>
+    <string name="parse_bill_discribe">Przetwarzanie rachunków karty kredytowej…</string>
     <string name="parse_recognize_describe">Analizowanie wiadomości e-mail…</string>
     <string name="password_expire_warning_content_title">Hasło ekranu blokady wkrótce wygaśnie</string>
     <string name="password_expire_warning_dialog_content_fmt">Musisz wkrótce zmienić PIN lub hasło ekranu blokady. W przeciwnym razie dane konta %s zostaną usunięte. Zmienić je teraz?</string>
@@ -1065,7 +1066,7 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="one_month">Miesiąc</string>
   <string name="one_week">Tydzień</string>
   <string name="output_all_log">Zapisuj wszystkie logi</string>
-  <string name="output_db_summary">To wyświetli twoją bazę danych</string>
+  <string name="output_db_summary">Dane dot. wyjścia bazy danych</string>
   <string name="output_db_title">Wyjście bazy danych</string>
   <string name="output_to_disk">Zapisz logi do pliku</string>
   <string name="request_copy_db_to_disk">Mail prosi o skopiowanie bazy danych do pliku</string>
@@ -1170,6 +1171,7 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="permission_des_calendar">W celu sychronizacji wydarzeń z kalendarza</string>
   <string name="permission_des_contact">W celu dostępu do adresów e-mail kontaktów (autouzupełnianie pola odbiorców)</string>
   <string name="permission_des_detail">"Jeśli nie nadasz wymaganych uprawnień, nie będziesz mógł używać tej aplikacji. Możesz ją odinstalować, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w dowolnym momencie."</string>
+  <string name="permission_des_external_storage">W celu tworzenia nowych wiadomości oraz zapisywania i dodawania załączników</string>
   <string name="permission_des_phone_status">W celu uzyskania numeru IMEI do identyfikacji urządzenia</string>
   <string name="permission_des_storage">W celu tworzenia nowych wiadomości oraz zapisywania i dodawania załączników</string>
   <string name="personal_data_collection_title">Zezwól na gromadzenie danych osobowych</string>

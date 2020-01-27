@@ -91,7 +91,7 @@
   <string name="print_fail">"Nie udało się wydrukować dokumentu"</string>
   <string name="print_fail_network_error">"Nie udało się wydrukować dokumentu. Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="print_help_label">Pomoc</string>
-  <string name="print_help_tip">Upewnij się, że telefon i drukarka są połączone z tą samą siecią Wi-Fi lub że funkcja Wi-Fi Direct jest włączona. Zobacz \"Pomoc\".</string>
+  <string name="print_help_tip">Upewnij się, że telefon i drukarka są połączone z tą samą siecią Wi-Fi lub że funkcja Wi-Fi Direct jest włączona. Zobacz \"%1$s\".</string>
   <string name="print_help_tip_reg">Pomoc</string>
   <string name="print_searching_printers">Szukanie drukarek…</string>
   <string name="print_submited">Gotowa do wydruku</string>

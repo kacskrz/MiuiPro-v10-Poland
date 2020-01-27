@@ -542,7 +542,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="preferences_popup_alert_smart_summary">MIUI będzie identyfikować automatycznie, które wydarzenia są najistotniejsze</string>
   <string name="preferences_popup_alert_smart_tips">"Zastąp tradycyjne powiadomienia alertami pop-up, aby uniknąć przegapienia istotnych wydarzeń. Alerty te nie będą wyskakiwać podczas grania czy oglądania wideo na pełnym ekranie."</string>
   <string name="preferences_popup_alert_title">Wyskakujące alerty</string>
-  <string name="birthday_term_chinese_calendar">Urodziny (k. gregoriański)</string>
+  <string name="birthday_term_chinese_calendar">Urodziny - %1$s (k. chiński)</string>
   <string name="content_confirm_close_chinese_calendar">Wszystkie wydarzenia bazujące na chińskim kalendarzu zostaną przekonwertowane do kalendarza gregoriańskiego po wyłączeniu tej funkcji. Dla powtarzających się wydarzeń będą używane lata i miesiące z kalendarza gregoriańskiego.</string>
   <string name="lunar_to_solar_chinese_calendar">Chiński na gregoriański</string>
   <string name="setting_chinese_calendar">Kalendarz chiński</string>

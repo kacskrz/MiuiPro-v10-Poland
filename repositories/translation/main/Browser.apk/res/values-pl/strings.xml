@@ -138,6 +138,7 @@
   <string name="cancle_sync_cloud_tabs">Anuluj synchronizację</string>
   <string name="cannot_download">Pobieranie jest możliwe tylko z adresów \"http\" lub \"https\"</string>
   <string name="cast_video">Przesyłaj wideo</string>
+  <string name="character_counter_content_description">Przekroczono limit znaków (%1$d z %2$d)</string>
   <string name="check_security_tip_privacy_policy">Polityka Prywatności</string>
   <string name="check_security_tip_user_agreement">Zgoda Użytkownika</string>
   <string name="choosertitle_sharevia">Udostępnij przez</string>
@@ -605,8 +606,8 @@
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dane mobilne) Zresetuj swoje %s1ustawienia APN%s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">Sprawdź wprowadzony adres URL.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Sprawdź swoje %s1ustawienia proxy%s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Wyczyść pamięć podręczną (%s1Ustawienia%s2 - Wyczyść dane).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Wyczyść pamięć podręczną i pliki cookie (%s1Ustawienia%s2 - Wyczyść dane, informacje o koncie mogą zostać utracone).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Wyczyść pamięć podręczną (Ustawienia - Wyczyść dane).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Wyczyść pamięć podręczną i pliki cookie (Ustawienia - Wyczyść dane, informacje o koncie mogą zostać utracone).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Wyczyść pamięć podręczną i pliki cookie (informacje o koncie mogą zostać utracone).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Wyczyść pamięć podręczną.</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Załaduj ponownie po połączeniu z Internetem</string>
@@ -1543,4 +1544,14 @@ aby wesprzeć pracę Xiaomi"</string>
   <string name="vo_fast_game_card_title_text">Być może lubisz także takie gry</string>
   <string name="vo_feed_back_dislike">Nie interesuje mnie to</string>
   <string name="vo_search_tag_title_text">Powiązane elementy</string>
+  <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
+  <string name="passport_oauth_sucess_tip">Pomyślnie zautoryzowano</string>
+  <string name="password_toggle_content_description">Pokazuj hasło</string>
+  <string name="pref_debug_mode">Tryb debugowania</string>
+  <string name="pref_extras_devopt">Opcje programisty</string>
+  <string name="small_video_comment">Wszystkie komentarze</string>
+  <string name="small_video_comment_input_hint">Wprowadź Twój komentarz</string>
+  <string name="video_download_wait_for_caching">Oczekiwanie na buforowanie</string>
+  <string name="video_download_wait_for_network">Oczekiwanie na sieć</string>
+  <string name="vo_info_flow_rs_hint">Szukaj</string>
 </resources>

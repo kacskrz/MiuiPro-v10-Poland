@@ -11,6 +11,7 @@
   <string name="beam_handover_not_supported">Urządzenie odbierające nie pozwala na zbliżeniowe przesyłanie dużych plików.</string>
   <string name="beam_outgoing">Przesyłam...</string>
   <string name="beam_progress">Odbieram dane zbliżeniowo...</string>
+  <string name="beam_requires_external_storage_permission">Aplikacja nie posiada uprawnień do pamięci zewnętrznej, które są wymagane do przesłania tego pliku za pomocą Beam.</string>
   <string name="beam_requires_nfc_enabled">Android Beam wymaga włączenia NFC. Włączyć?</string>
   <string name="beam_tap_to_view">Kliknij, by wyświetlić</string>
   <string name="beam_try_again">Zbliż urządzenia do siebie</string>

@@ -715,7 +715,7 @@
   <string name="unbind_account">Delete %s?</string>
   <string name="unbind_fail">Couldn\'t delete</string>
   <string name="unbind_success">Deleted successfully</string>
-  <string name="unknown_error">An unknown error occurred. Wait a minute or two and try again.</string>
+  <string name="unknown_error">Wystąpił nieznany błąd. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
   <string name="unlock_pattern_msg">Hasło ochrony prywatności działa także dla zdjęć i wiadomości.</string>
   <string name="unlock_pattern_title">Nowe hasło</string>
   <string name="unlogin">Sign in first</string>
