@@ -198,6 +198,7 @@
     <string name="post_miui_bbs_failed">Nie udało się wysłać na Forum MIUI</string>
     <string name="upload_log_failed">Nie udało się wysłać logów</string>
     <string name="feedback_detail_tile">Postęp</string>
+    <string name="feedback_detail_title">Szczegóły</string>
     <string name="feedback_tracking">Śledź problemy</string>
     <string name="feedback_status_more">Szczegóły</string>
     <string name="feedback_status_supplement_more">Dodaj komentarz</string>
