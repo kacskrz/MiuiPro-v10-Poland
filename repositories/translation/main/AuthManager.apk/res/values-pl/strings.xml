@@ -119,7 +119,7 @@
     <string name="permission_description_summary_sms">Aplikacje z tym uprawnieniem mogą wysyłać i zobaczyć wiadomości SMS</string>
     <string name="permission_description_summary_storage">Aplikacje z tym uprawnieniem mogą uzyskiwać dostęp do zdjęć, multimediów i plików na Twoim urządzeniu</string>
     <string name="permission_reminders">Monity dot. uprawnień</string>
-    <string name="grant_dialog_button_allow_always">Zezwól za każdym razem</string>
+    <string name="grant_dialog_button_allow_always">Zezwól</string>
     <string name="grant_dialog_button_allow_background">Zezwól za każdym razem</string>
     <string name="grant_dialog_button_allow_foreground">Zezwól tylko, gdy korzystam z aplikacji</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Odmów i nie pytaj ponownie</string>
