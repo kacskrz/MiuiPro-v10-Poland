@@ -203,6 +203,7 @@
   <string name="guide_install_app_title">Znaleźć i zainstalować aplikację?</string>
   <string name="guide_tips_editing_mode">Dotknij i przytrzymaj aby podnieść widżet</string>
   <string name="home_screen">Ekran główny</string>
+  <string name="home_switch_personal_assistant">Tryb asystenta</string>
   <string name="icon_reorganize_channel">Uporządkuj ikony</string>
   <string name="image_too_small_message">Oryginalny obraz jest za mały</string>
   <string name="install">Instaluj</string>
@@ -339,6 +340,9 @@
   <string name="status_installing">Instalowanie</string>
   <string name="status_paused">Wstrzymano</string>
   <string name="status_pending">Oczekujące</string>
+  <string name="switch_personal_assistant_app_vault">Asystent MIUI</string>
+  <string name="switch_personal_assistant_google">Google Discover</string>
+  <string name="switch_personal_assistant_none">Brak</string>
   <string name="title_jeejen">Ekran główny Jeejen</string>
   <string name="title_select_live_folder">Wybierz folder</string>
   <string name="title_select_shortcut">Wybierz skrót</string>
