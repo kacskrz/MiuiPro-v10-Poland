@@ -9,7 +9,8 @@
         <item quantity="many">%1$d skanowanych stacji</item>
     </plurals>
     <plurals name="notification_rec_content">
-        <item quantity="other">%d nagrań z FM</item>
-        <item quantity="one">%d nagranie z FM</item>
+        <item quantity="other">%d nagrań z radia FM</item>
+        <item quantity="one">%d nagranie z radia FM</item>
+        <item quantity="few">%d nagrania z radia FM</item>
     </plurals>
 </resources>

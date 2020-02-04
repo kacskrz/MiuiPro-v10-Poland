@@ -42,7 +42,7 @@
   <string name="noheadset_dialog_info">Sygnał FM może być kiepski - polecamy słuchanie online</string>
   <string name="noheadset_dialog_insert">Włóż słuchawki</string>
   <string name="noheadset_dialog_more">Posłuchaj więcej radia</string>
-  <string name="notification_rec_title">Dotknij by zobaczyć nagrania</string>
+  <string name="notification_rec_title">Dotknij, aby zobaczyć nagrania</string>
   <string name="pre_station">Poprzednia stacja</string>
   <string name="record_completed">Nagrywanie zakończone</string>
   <string name="runtime_permission_ungranted">"Brak wymaganych uprawnień do nagrywania dźwięku"</string>
