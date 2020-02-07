@@ -151,8 +151,6 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
     <string name="usage_reach_device_limit">To koniec! Osiągnąłeś już swój limit czasu.</string>
     <string name="usage_reach_device_limit_warning_text">Osiągnąłeś swój dzisiejszy limit czasu</string>
     <string name="usage_refresh">Spróbuj ponownie</string>
-    <string name="usage_remain_about_hour_miunte" formatted="false">Około %1s godz. %1s min</string>
-    <string name="usage_remain_hour_miunte" formatted="false">%1s godz. %1s min</string>
     <string name="usage_request_error_summary">Wystąpił nieznany błąd</string>
     <string name="usage_request_timeout_summary">Przekroczono czas żądania</string>
     <string name="usage_special_feature">Specjalne funkcje</string>
