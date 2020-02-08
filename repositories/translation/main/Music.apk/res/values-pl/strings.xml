@@ -1361,4 +1361,10 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="cannot_download_to_sdcard_hint">"Ze względu na ograniczenia dot. praw autorskich nie można pobrać elementów na kartę SD. Zostaną one pobrane do pamięci wewnętrznej."</string>
   <string name="create_playlist_input_hint">Wprowadź nazwę playlisty</string>
   <string name="online_apk_install_tips">"Musisz jednorazowo pobrać wtyczkę tego dostawcy zawartości. Następnym razem będziesz mieć dostęp do utworów bezpośrednio."</string>
+  <string name="action_item_play_video">Odtwórz teledysk</string>
+  <string name="click_and_watch_video_tip">Dotknij, aby odtworzyć teledysk</string>
+  <string name="filter_by_MP4">Wyświetlaj katalogi z plikami MP4</string>
+  <string name="set_online_home_subtitle">Otwórz rekomendacje online przy uruchamianiu aplikacji</string>
+  <string name="set_online_home_title">Pokazuj rekomendacje online przy uruchamianiu</string>
+  <string name="youtube_play_history">Historia odtwarzania</string>
 </resources>
