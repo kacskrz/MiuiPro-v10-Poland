@@ -5186,7 +5186,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_api_test">WLAN API</string>
   <string name="wifi_ask_disable">%s chce wyłączyć Wi-Fi</string>
   <string name="wifi_ask_enable">%s chce włączyć Wi-Fi</string>
-  <string name="wifi_assistant">Asystent Wi-Fi</string>
+  <string name="wifi_assistant">Wybierz najlepszą sieć automatycznie</string>
   <string name="wifi_assistant_auto_confirm_data_message">Ta sieć Wi-Fi nie ma dostępu do Internetu. Twoje urządzenie będzie używać danych mobilnych. Możesz wyłączyć asystenta Wi-Fi w Ustawieniach.</string>
   <string name="wifi_assistant_confirm_always">Nie pokazuj ponownie</string>
   <string name="wifi_assistant_confirm_connection_title">Stan sieci Wi-Fi</string>
@@ -5731,8 +5731,7 @@ co PIN z Pierwszej przestrzeni."</string>
     <string name="flash_drive_backup_restore">Kopia i jej przywracanie poprzez USB</string>
   <string name="flash_drive_backup_restore_summary">Podłącz dysk USB</string>
   <string name="bt_ldac_declaration">Gdy urządzenie Bluetooth obsługuje LDAC, będzie ono domyślnie połączone. LDAC zapewnia wysoką jakość dźwięku, ale też zwiększa zużycie energii. Z powodu ograniczeń sprzętowych Bluetooth może wystąpić powtórne odtwarzanie (playback).</string>
-  <string name="bt_ldac_dialog_summary">"LDAC zapewnia wysoką jakość dźwięku, a także zwiększa zużycie energii
-Możesz wyłączyć tę funkcję w [Ustawieniach]"</string>
+  <string name="bt_ldac_dialog_summary">"LDAC zapewnia wysoką jakość dźwięku, ale zwiększa zużycie energii. Możesz wyłączyć tę funkcję w Ustawieniach."</string>
   <string name="bt_ldac_dialog_title">Obecne urządzenie wspiera LDAC, który jest domyślnie połączony:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC zapewnia wysoką jakość dźwięku, ale też zwiększa zużycie energii. Z powodu ograniczeń sprzętowych Bluetooth może wystąpić powtórne odtwarzanie (playback).</string>
   <string name="bt_ldac_open_dialog_title">Włączyć LDAC?</string>
@@ -6371,8 +6370,7 @@ opóźnienie"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Wybierz kodek dźwięku Bluetooth LHDC:
 jakość odtwarzania"</string>
   <string name="bt_lhdc_declaration">Jeśli Bluetooth wspiera standard LHDC, to zostanie on domyślnie włączony. Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
-  <string name="bt_lhdc_dialog_summary">"Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii.
-Ta funkcja może być wyłączona w Ustawieniach."</string>
+  <string name="bt_lhdc_dialog_summary">"Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="bt_lhdc_dialog_title">Tu urządzenie wspiera Bluetooth LHDC i zostało domyślnie włączone:</string>
   <string name="bt_lhdc_open_dialog_summary">Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
   <string name="bt_lhdc_open_dialog_title">Włączyć LHDC?</string>
@@ -6560,13 +6558,13 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="diy_suppression_title">Własny</string>
   <string name="privacy_failed_need_to_unlock_nofingerprint">Wprowadź hasło przed użyciem nowego odcisku palca</string>
   <string name="seek_bar_info">Dostosuj rozmiar</string>
-  <string name="strong_suppression_summary">"Urządzenie nie będzie reagować na przypadkowe dotknięcia (część gestów może nie działać w pobliżu krawędzi)"</string>
+  <string name="strong_suppression_summary">"Urządzenie będzie mniej reagować na przypadkowe dotknięcia (część gestów może nie działać w pobliżu krawędzi)"</string>
   <string name="strong_suppression_title">Duży obszar</string>
-  <string name="wake_suppression_summary">Urządzenie może reagować na przypadkowe dotknięcia, ale dzięki temu gesty będą działać także w pobliżu krawędzi</string>
+  <string name="wake_suppression_summary">Urządzenie może bardziej reagować na przypadkowe dotknięcia, ale dzięki temu gesty będą działać także w pobliżu krawędzi</string>
   <string name="wake_suppression_title">Mały obszar</string>
   <string name="wifi_direct_close_hotspot_hint">Wyłącz hotspot przed użyciem funkcji Wi-Fi Direct</string>
   <string name="wifi_direct_close_slave_wifi_hint">Rozłącz się z dodatkową siecią Wi-Fi przed użyciem funkcji Wi-Fi Direct</string>
-  <string name="codec_low_latency_summary">Zapewnia małe opóźnienie dla synchronizacji audio i wideo</string>
+  <string name="codec_low_latency_summary">Zminimalizuj opóźnienie w trakcie synchronizacji audio i wideo z gry</string>
   <string name="codec_low_latency_title">Małe opóźnienie</string>
   <string name="call_example_name">Nazwa</string>
   <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
@@ -6580,4 +6578,76 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="navigation_guide_hide_gesture_line_title">Ukryj pasek na dole ekranu</string>
   <string name="power_monitor_summary">Narzędzia do kontroli energii.</string>
   <string name="power_monitor_title">Monitorowanie energii</string>
+  <string name="acount_data">Konta</string>
+  <string name="application_data">Aplikacje</string>
+  <string name="backup_data">Kopie zapasowe</string>
+  <string name="backup_difference_content">"Lokalne kopie zapasowe:
+Lokalne kopie zapasowe mogą zawierać dane aplikacji i zwykle zawierają także więcej elementów. Pliki kopii są gromadzone w katalogu MIUI/backup/AllBackup i po zakończeniu procesu tworzenia kopii zapasowej powinny być one skopiowane na komputer.
+
+Kopie zapasowe w Chmurze:
+Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp bez konieczności użycia kabla. Jest to szybsza i łatwiejsza metoda niż lokalne kopie zapasowe, lecz nie możesz za jej pomocą wykonać kopii danych aplikacji.
+"</string>
+  <string name="backup_difference_title">4. Czym różnią się lokalne kopie zapasowe od kopii w Chmurze?</string>
+  <string name="backup_restore_data_content">"Twoje kopie zapasowe mogą zawierać kontakty, wiadomości (SMS/MMS), historię połączeń, wydarzenia z kalendarza, zdjęcia, pliki audio, filmy, dokumenty, aplikacje i ich dane, a także układ pulpitu.
+"</string>
+  <string name="backup_restore_data_title">5. Jakie elementy mogę skopiować bądź przywrócić?</string>
+  <string name="clear_all_data">Wymaż wszystkie dane</string>
+  <string name="clear_phone_data_category">Wymaż następujące elementy</string>
+  <string name="cloud_restore_section_summary_new">Wykonaj kopię układu pulpitu, aplikacji, ustawień systemu i więcej</string>
+  <string name="cloud_restore_section_title_new">W Chmurze Xiaomi</string>
+  <string name="common_issue">Pytania i odpowiedzi</string>
+  <string name="contact_data">Kontakty</string>
+  <string name="datasize_decrease_content">"Kontakty, wiadomości i dane systemu są kompresowane w trakcie tworzenia kopii, co skutkuje mniejszym rozmiarem pliku.
+"</string>
+  <string name="datasize_decrease_title">6. Dlaczego część plików kopii jest mniejsza niż elementy w nich się znajdujące?</string>
+  <string name="how_backup_content">"Możesz utworzyć 3 rodzaje kopii: lokalną, w Chmurze oraz USB.
+
+Lokalne kopie zapasowe:
+Pozwalają Ci one na zapis swoich ustawień systemu, kont, danych aplikacji i innych elementów w oddzielnym pliku przechowywanym na Twoim urządzeniu (katalog MIUI/backup/AllBackup). Po utworzeniu kopii możesz ją przesłać na swój komputer, np. za pomocą kabla USB.
+Wskazówka:
+Do wykonania kopii bądź przywrócenia elementów możesz także użyć narzędzia Mi PC Suite.
+
+Kopie w Chmurze:
+Za ich pomocą możesz wykonać kopię ustawień systemu, układu pulpitu, aplikacji i innych elementów w Chmurze Xiaomi, a także przywrócić te elementy poprzez sieć, bez konieczności użycia kabla.
+
+Kopie USB:
+Ta metoda umożliwia Ci wykonanie kopii ustawień systemu, kont, danych aplikaci i innych elementów na zewnętrznej pamięci USB (np. pendrive).
+"</string>
+  <string name="how_backup_title">1. Jak mogę wykonać kopię zapasową?</string>
+  <string name="how_encrypt_content">"Możesz zaszyfrować tylko lokalne kopie zapasowe. Jest to możliwe na 2 sposoby:
+a) Otwórz widok lokalnych kopii zapasowych, kliknij przycisk, aby włączyć szyfrowanie, i zaloguj się na swoje konto Xiaomi. Po wykonaniu tych czynności kopie zapasowe będą szyfrowane automatycznie. Pamiętaj, że aby przywrócić elementy z tak zaszyfrowanych kopii, będziesz musiał zalogować się na swoje konto Xiaomi.
+b) Jeśli używasz Mi PC Suite do wykonywania kopii zapasowej, możesz użyć opcji szyfrowania w tej aplikacji.
+
+Uwaga:
+Zapamiętaj hasło, które ustawiłeś dla zaszyfrowanych kopii zapasowych! Jeśli je zapomnisz, nie będziesz w stanie ich odszyfrować.
+"</string>
+  <string name="how_encrypt_title">3. Jak mogę zaszyfrować moje kopie?</string>
+  <string name="how_restore_backup_content">"Oto, jak możesz przywrócić elementy z kopii zapasowej:
+
+Lokalne kopie zapasowe:
+Skopiuj plik kopii zapasowej z Twojego komputera na urządzenie (do katalogu MIUI/backup/AllBackup). Przejdź do Ustawień > Kopiowanie, przywracanie, reset > Na tym urządzeniu, a następnie wybierz plik kopii zapasowej.
+
+Kopie w Chmurze:
+Zaloguj się na swoje konto Xiaomi, a następnie przejdź do Ustawień > Kopiowanie, przywracanie, reset > W Chmurze Xiaomi i wybierz plik kopii zapasowej.
+
+Kopie USB:
+Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup). Przejdź do Ustawień > Kopiowanie, przywracanie, reset > Na tym urządzeniu, a następnie wybierz plik kopii zapasowej.
+"</string>
+  <string name="how_restore_backup_title">2. Jak przywrócić skopiowane elementy?</string>
+  <string name="local_backup_section_summary_new">Skopiuj konta, dane aplikacji, ustawienia systemu i więcej</string>
+  <string name="local_backup_section_title_new">Na tym urządzeniu</string>
+  <string name="master_clear_title_new">Wymaż wszystkie dane (ust. fabryczne)</string>
+  <string name="other_data">Inne elementy na tym urządzeniu</string>
+  <string name="photo_data">Zdjęcia i filmy</string>
+  <string name="privacy_settings_new">Kopiowanie, przywracanie, reset</string>
+  <string name="reset_title">Reset</string>
+  <string name="sd_data">Dane z karty SD</string>
+  <string name="system_backup_section_title_new">Skopiuj lub przywróć</string>
+  <string name="tip_remove_data">Reset do ustawień fabrycznych wymaże te elementy z Twojego urządzenia</string>
+  <string name="wifi_assist">Asystent Wi-Fi</string>
+  <string name="wifi_link_turbo_customize">Własne aplikacje</string>
+  <string name="wifi_link_turbo_customize_summary">Wybierz aplikacje, które będą działać z Asystentem Wi-Fi zgodnie z Twoimi preferencjami</string>
+  <string name="wifi_link_turbo_list">Aplikacje</string>
+  <string name="wifi_link_turbo_recommendation">Polecane aplikacje</string>
+  <string name="wifi_link_turbo_recommendation_summary">Otrzymuj rekomendacje oparte na statystykach zużycia danych</string>
 </resources>

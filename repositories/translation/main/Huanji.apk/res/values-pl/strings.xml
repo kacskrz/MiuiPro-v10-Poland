@@ -117,7 +117,7 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
   <string name="hsa_tip_message_shutdown_hsa">Jak wyłączyć dwu-składnikową autoryzację</string>
     <string name="hsa_tip_title">Pomoc</string>
     <string name="hsa_verify_failed">"Nie udało się uwierzytelnić"</string>
-    <string name="hsa_verify_failed_message">"Uwierzytelnianie dwuskładnikowe nie zadziałało. Możesz spróbować ponownie albo wyłączyć uwierzytelnianie dwuskładnikowe."</string>
+    <string name="hsa_verify_failed_message">"Uwierzytelnianie dwuskładnikowe nie zadziałało. Spróbuj ponownie."</string>
     <string name="hsa_verify_retry">Spróbuj ponownie</string>
     <string name="hsa_verify_shutdown">Wyłącz</string>
     <string name="hybrid_provider">Dostarczane przez %1$s</string>
@@ -514,4 +514,8 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="selected">Wybrano</string>
     <string name="skip_underline">Pomiń ten krok</string>
     <string name="unselected">Nie wybrano</string>
+    <string name="err_remote_no_space">Brak miejsca na nowym urządzeniu</string>
+    <string name="err_remote_timeout">Przekroczono czas żądania transferu</string>
+    <string name="err_send_error">"Nie udało się wysłać"</string>
+    <string name="waiting_restore_desktop">Przenoszenie aplikacji firm trzecich w celu przywrócenia układu pulpitu…</string>
 </resources>

@@ -127,4 +127,14 @@ Dostęp do pamięci w celu odczytu i zapisu okładek albumów i pobranych plikó
   <string name="poor_signal_due_to_no_headset">Podłącz słuchawki, aby poprawić sygnał</string>
   <string name="recommend_list">Polecane</string>
   <string name="storytelling">Opowieści</string>
+  <string name="character_counter_content_description">Limit znaków przekroczył %1$d z %2$d</string>
+  <string name="individuation_recommend_setting_title">Spersonalizowane rekomendacje</string>
+  <string name="individuation_recommend_switch_message">"Nie będziesz otrzymywać spersonalizowanych rekomendacji po wyłączeniu tej funkcji. Jesteś pewien?"</string>
+  <string name="individuation_service_switch">Spersonalizowane rekomendacje</string>
+  <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
+  <string name="play_mode_circle_hint">Powtarzanie jednego utworu</string>
+  <string name="play_mode_circle_title">Zapętlij jeden</string>
+  <string name="play_mode_normal_hint">Odtwarzanie utworów w oryginalnej kolejności</string>
+  <string name="play_mode_normal_title">Odtwórz wszystkie</string>
+  <string name="password_toggle_content_description">Pokaż hasło</string>
 </resources>

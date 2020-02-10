@@ -183,4 +183,14 @@
   <string name="delete_cloud_data_at_same_time">Usuń także z Chmury</string>
   <string name="preference_record_desktop_indicator_summary">Wyświetlaj niebieski wskaźnik na pulpcie, gdy aplikacja Dyktafon działa w tle</string>
   <string name="preference_record_desktop_indicator_title">Oznaczenie na pulpicie</string>
+  <string name="recognition_button_add_to_queue">Dodaj do kolejki</string>
+  <string name="recognition_button_cancel">Nie teraz</string>
+  <string name="recognition_button_start">Transkrybuj</string>
+  <string name="recognition_confirm_dialog_body">"Transkrypcja może zająć trochę czasu. Otrzymasz powiadomienie, gdy zadanie zostanie ukończone. Rozpocząć transkrypcję?"</string>
+  <string name="recognition_interrupt_current_dialog_body">"Transkrypcja może zająć trochę czasu. Otrzymasz powiadomienie, gdy zadanie zostanie ukończone. Obecnie trwa transkrypcja \"%s\". Dodać to zadanie do kolejki?"</string>
+  <string name="recognition_notification_channel">Transkrypcja</string>
+  <string name="recognition_notification_complete_success">Pomyślnie transkrybowano \"%s\". Dotknij, aby zobaczyć.</string>
+  <string name="recognition_notification_error">"Nie udało się transkrybować \"%s\""</string>
+  <string name="recognition_notification_running">Transkrypcja \"%s\"…</string>
+  <string name="recognition_stop_current">Zatrzymaj trwające zadanie</string>
 </resources>

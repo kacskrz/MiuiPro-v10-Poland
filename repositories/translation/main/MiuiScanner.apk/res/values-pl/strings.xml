@@ -14,6 +14,8 @@
     <string name="back">Wstecz</string>
     <string name="barcode_into_rectangle">Umieść kod wewnątrz ramki</string>
     <string name="birthday">Urodziny:</string>
+    <string name="calories_logo_text">Wsparcie SI dostarcza Health Hope</string>
+    <string name="calories_request_interface_text">Wsparcie SI</string>
     <string name="camera_error_title">Błąd aparatu</string>
     <string name="cancel">Anuluj</string>
     <string name="choose_picture">Wybierz obrazek kodu QR</string>

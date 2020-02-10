@@ -223,4 +223,9 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="other_settings_enhanced_lockscreen_for_india">Glance dla Xiaomi</string>
   <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
+  <string name="mint_keyboard_oobe_checkbox">"Przeczytałem i akceptuję warunki Polityki prywatności Mint Keyboard"</string>
+  <string name="mint_keyboard_oobe_terms">Polityka prywatności Mint Keyboard</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
+
+Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mint Keyboard."</string>
 </resources>

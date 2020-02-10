@@ -1901,4 +1901,5 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="nr_usaged_network_usaged">"Dane - dzisiaj"</string>
   <string name="nr_usaged_operator">Operator</string>
   <string name="nr_usaged_used_time">Użytkowano przez</string>
+  <string name="notification_channel_demo">Urządzenie demonstracyjne</string>
 </resources>

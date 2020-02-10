@@ -5,4 +5,9 @@
         <item quantity="one">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundę</item>
         <item quantity="few">Kliknij i przytrzymaj przycisk zestawu przez %1$d sekundy</item>
 	</plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Dotknij i przytrzymaj touchpad na obu słuchawkach przez %1$d sekund</item>
+        <item quantity="one">Dotknij i przytrzymaj touchpad na obu słuchawkach przez %1$d sekundę</item>
+        <item quantity="few">Dotknij i przytrzymaj touchpad na obu słuchawkach przez %1$d sekundy</item>
+    </plurals>
 </resources>

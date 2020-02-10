@@ -266,4 +266,6 @@
   <string name="flip_screen_camera_tip">Odwróć urządzenie, aby użyć aparatu</string>
   <string name="input_method_clipboard_tips">Skopiowane elementy zostaną usunięte z schowka po 48 godzinach</string>
   <string name="slatoast">Używanie danych mobilnych do zwiększenia prędkości może generować dodatkowe opłaty</string>
+  <string name="sunlight_notification_content">Automatycznie dostosuj jasność do ostrego światła</string>
+  <string name="sunlight_notification_title">Włącz tryb Światło słoneczne</string>
 </resources>

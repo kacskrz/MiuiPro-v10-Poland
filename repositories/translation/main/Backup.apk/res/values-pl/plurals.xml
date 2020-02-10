@@ -86,4 +86,9 @@
     <item quantity="other">"Nie można było przenieść %d elementów."</item>
     <item quantity="one">"Nie można było przenieść %d elementu."</item>
 	</plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s kopii (%2$s)</item>
+        <item quantity="one">%1$s kopia (%2$s)</item>
+        <item quantity="few">%1$s kopie (%2$s)</item>
+    </plurals>
 </resources>

@@ -1061,4 +1061,10 @@ i dopasuj skanowane dokumenty"</string>
   <string name="mimoji_gif_reverse">Cofnij</string>
   <string name="mimoji_save_finish">Gotowe</string>
   <string name="preview_back_pressed_hint">Dotknij ponownie, aby wrócić do podglądu</string>
+  <string name="color_enhance_mode">Lepsze kolory</string>
+  <string name="watermark_tab_city">Miasto</string>
+  <string name="watermark_tab_festival">Święta</string>
+  <string name="watermark_tab_general">Ogólne</string>
+  <string name="watermark_tab_scene">Scena</string>
+  <string name="watermark_tab_spots">Punkt</string>
 </resources>

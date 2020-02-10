@@ -634,4 +634,31 @@ Nie wychodź z tej strony, dopóki połączenie nie zostanie nawiązane."</strin
   <string name="user_feedback">Opinia</string>
   <string name="feature_title_mms_setting">Ustawienia SMS</string>
   <string name="trans_complete_restoring">Pomyślnie przeniesiono. Przywracanie danych aplikacji…</string>
+  <string name="local_back_up_detail_description">"Uwaga:
+1. Aby uniknąć utraty danych, skopiuj lokalne kopie zapasowe na swój komputer.
+2. Zawsze kopiuj lokalne kopie zapasowe na swój komputer przed wykonaniem resetu do ustawień fabrycznych - w przeciwnym wypadku te kopie znikną.
+3. Gdzie są przechowywane lokalne kopie zapasowe? %1$s"</string>
+  <string name="local_backup_select_activity">Utwórz kopię</string>
+  <string name="local_button_backup_data">Skopiuj dane</string>
+  <string name="local_button_backup_now">Skopiuj dane</string>
+  <string name="local_button_restore_data">Przywróć na tym urządzeniu</string>
+  <string name="local_button_restore_now">Przywróć</string>
+  <string name="local_click_to_jump">Dotknij, aby zobaczyć</string>
+  <string name="local_config_off">Wył.</string>
+  <string name="local_config_on">Wł.</string>
+  <string name="local_main_auto_backup_title">Wykonuj kopię automatycznie</string>
+  <string name="local_main_backup">Lokalne kopie zapasowe</string>
+  <string name="local_main_backup_and_restore">Na tym urządzeniu</string>
+  <string name="local_main_backup_detail_title">Ustawienia systemowe, konta i dane aplikacji</string>
+  <string name="local_main_backup_manager">Zarządzaj lokalnymi kopiami</string>
+  <string name="local_main_backup_manager_title">Zarządzaj kopiami</string>
+  <string name="local_main_backup_settings">Ustawienia lokalnych kopii</string>
+  <string name="local_main_backup_time">Ostatnia kopia: %1$s</string>
+  <string name="local_main_date_format">dd.MM.yyyy, HH:mm</string>
+  <string name="local_main_encrypt_backup_summary">Zaszyfruj elementy kopii zapasowej za pomocą swojego konta Xiaomi</string>
+  <string name="local_main_encrypt_backup_title">Zaszyfruj kopie</string>
+  <string name="local_main_latest_backup_time_loading">Chwileczkę…</string>
+  <string name="local_no_backup_data">Nie ma tu jeszcze żadnych kopii</string>
+  <string name="local_restore_select_activity">Zarządzaj kopiami</string>
+  <string name="local_restore_select_data_activity">Przywróć z kopii zapasowej</string>
 </resources>
