@@ -61,6 +61,7 @@
     <string name="letter_space">Odstęp między literami</string>
     <string name="line_space">Odstęp między liniami</string>
     <string name="mini_time">Mały zegar</string>
+    <string name="minimalist_clock">Prosty zegar</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
     <string name="my_style_title">Mój styl</string>
     <string name="notification_anim_pulse">Puls</string>

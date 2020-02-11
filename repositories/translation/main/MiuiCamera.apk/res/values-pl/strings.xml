@@ -1067,4 +1067,5 @@ i dopasuj skanowane dokumenty"</string>
   <string name="watermark_tab_general">Ogólne</string>
   <string name="watermark_tab_scene">Scena</string>
   <string name="watermark_tab_spots">Punkt</string>
+  <string name="network_access_user_notice_message_mi_live_video"><Data>Witaj w funkcji Krótki film! W celu dostarczania Ci muzyki i innych funkcji ta usługa wymaga połączenia z Internetem. &lt;br/>&lt;br/>Przed użyciem tej usługi musisz przeczytać i zaakceptować warunki &lt;a href =%1$s>Umowy użytkownika&lt;/a> oraz &lt;a href =%2$s>Polityki prywatności&lt;/a> Xiaomi, a także zezwolić aplikacji na łączenie się z Internetem.</Data></string>
 </resources>
