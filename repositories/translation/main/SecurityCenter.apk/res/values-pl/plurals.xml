@@ -681,4 +681,22 @@
         <item quantity="one">%d aplikacja</item>
         <item quantity="few">%d aplikacje</item>
     </plurals>
+	<plurals name="app_behavior_desc_allow">
+        <item quantity="other">Zezwolono %3$d razy pomiędzy %1$s a %2$s</item>
+        <item quantity="one">Zezwolono %3$d raz pomiędzy %1$s a %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Odmówiono %3$d razy pomiędzy %1$s a %2$s</item>
+        <item quantity="one">Odmówiono %3$d raz pomiędzy %1$s a %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">"Nie będziesz powiadamiany o wrażliwych akcjach wykonywanych przez %1$d aplikacji"</item>
+        <item quantity="one">"Nie będziesz powiadamiany o wrażliwych akcjach wykonywanych przez %1$d aplikację"</item>
+        <item quantity="few">"Nie będziesz powiadamiany o wrażliwych akcjach wykonywanych przez %1$d aplikacje"</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">"Będziesz powiadamiany o wrażliwych akcjach wykonywanych przez %1$d aplikacji"</item>
+        <item quantity="one">"Będziesz powiadamiany o wrażliwych akcjach wykonywanych przez %1$d aplikację"</item>
+        <item quantity="few">"Będziesz powiadamiany o wrażliwych akcjach wykonywanych przez %1$d aplikacje"</item>
+    </plurals>
 </resources>

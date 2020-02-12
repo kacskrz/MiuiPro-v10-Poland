@@ -113,4 +113,11 @@
         <item>PIN</item>
         <item>Hasło</item>
     </string-array>
+   <string-array name="app_behavior_type_menu">
+        <item>Wszystko</item>
+        <item>Autostart</item>
+        <item>Uruchamianie łańcuchowe</item>
+        <item>Korzystanie z uprawnień</item>
+        <item>Wrażliwe akcje</item>
+    </string-array>
 </resources>

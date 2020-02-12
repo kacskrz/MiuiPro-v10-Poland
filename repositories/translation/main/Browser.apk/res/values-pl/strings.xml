@@ -973,7 +973,7 @@
   <string name="removed_from_bookmarks">Usunięto z zakładek</string>
   <string name="reopen">Otwórz</string>
   <string name="replace">Zastąp</string>
-  <string name="reply_comment_title">Odp: %s</string>
+  <string name="reply_comment_title">Odpowiedź na: %s</string>
   <string name="resume_download">Wznów</string>
   <string name="retry_after_network_available">Nie można połączyć się z siecią</string>
   <string name="retry_download">Ponów</string>

@@ -194,7 +194,7 @@
   <string name="pref_camera_coloreffect_entry_big_face">Rozszerzający</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Czarno-Biały</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Rybie oko</string>
-  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Kolor wyboru</string>
+  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Wyróżnienie kolorem</string>
   <string name="pref_camera_coloreffect_entry_instagram_crema">Rdzawy</string>
   <string name="pref_camera_coloreffect_entry_instagram_hudson">Chłodny</string>
   <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
@@ -892,10 +892,10 @@ Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić 
 były bardziej widoczne na zdjęciach"</string>
   <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Miękkie światło</string>
-  <string name="accessibility_mimovie_off">Tryb filmowy jest wyłączony</string>
-  <string name="accessibility_mimovie_on">Tryb filmowy jest włączony</string>
+  <string name="accessibility_mimovie_off">Nie używasz kadru filmowego</string>
+  <string name="accessibility_mimovie_on">Używasz kadru filmowego</string>
   <string name="color_effect_entry_classic">Klasycznie</string>
-  <string name="config_name_mimovie">Tryb filmowy</string>
+  <string name="config_name_mimovie">Kadr filmowy</string>
   <string name="confirm_reset_manually_parameter_message">Zresetować wszystkie parametry do ich domyślnych wartości?</string>
   <string name="hint_mimovie">Dla lepszego efektu wykonuj ujęcie poziomo</string>
   <string name="reset_manually_parameter_hint">Zresetuj</string>
@@ -918,8 +918,8 @@ były bardziej widoczne na zdjęciach"</string>
   <string name="recommend_portrait">Wypróbuj tryb Portret</string>
   <string name="recommend_soft_light_tip">Włącz lampę błyskową</string>
   <string name="recommend_super_night">Wypróbuj tryb nocny</string>
-  <string name="super_eis">Superstabilizacja</string>
-  <string name="super_eis_disabled_hint">Superstabilizacja jest wyłączona</string>
+  <string name="super_eis">Stabilizacja wideo</string>
+  <string name="super_eis_disabled_hint">Stabilizacja wideo jest wyłączona</string>
   <string name="super_night_hint">Trwa optymalizacja zdjęcia… Trzymaj urządzenie stabilnie.</string>
   <string name="ultra_pixel_108mp">108 Mpx</string>
   <string name="ultra_pixel_portrait_hint">Potret w słabym świetle</string>
@@ -951,11 +951,11 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="document_blur_warn">Zamazany tekst</string>
   <string name="document_origin">Oryginalny</string>
   <string name="document_strengthen">Rozszerzony</string>
-  <string name="pref_camera_first_tag_tips">Pomyślnie oznaczono</string>
-  <string name="pref_camera_video_tag">Zezwalaj na oznaczanie w wideo</string>
-  <string name="pref_camera_video_tag_description">Dotknij przycisku \"Oznacz\" w trakcie nagrywania, aby móc wrócić do oznaczonych momentów w trakcie odtwarzania</string>
+  <string name="pref_camera_first_tag_tips">Pomyślnie otagowano</string>
+  <string name="pref_camera_video_tag">Zezwalaj na otagowanie w wideo</string>
+  <string name="pref_camera_video_tag_description">Dotknij przycisku \"Otaguj\" w trakcie nagrywania, aby móc wrócić do otagowanych momentów w trakcie odtwarzania</string>
   <string name="pref_document_mode">Dokumenty</string>
-  <string name="video_tag_flag_title">Oznacz</string>
+  <string name="video_tag_flag_title">Otaguj</string>
   <string name="id_card_mode_hint_back">Zeskanuj tył swojego identyfikatora</string>
   <string name="id_card_mode_hint_front">Zeskanuj przód swojego identyfikatora</string>
   <string name="id_card_mode_use_hint_text_body">"Połącz obydwie strony swojego identyfikatora w jeden obraz.
