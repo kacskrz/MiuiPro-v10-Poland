@@ -1864,4 +1864,13 @@ długi zrzut ekranu"</string>
   <string name="how_to_use_app_quick">Jak przełączać się pomiędzy aplikacjami?</string>
   <string name="how_to_use_app_quick_hide_line_summary">Pociągnij w górę od dołu ekranu, a następnie przesuwaj w lewo bądź w prawo</string>
   <string name="how_to_use_app_quick_summary">Przeciągnij pasek w lewo lub prawo lub pociągnij w górę od dołu ekranu</string>
+  <string name="wireless_charging_connected_message">"Nie można używać bezprzewodowego ładowania zwrotnego, gdy ładujesz urządzenie bezprzewodowo."</string>
+  <string name="wireless_charging_low_battery_level_message">"Nie można używać bezprzewodowego ładowania zwrotnego, gdy bateria jest naładowana w mniej niż 30%."</string>
+  <string name="wireless_charging_ok">OK</string>
+  <string name="wireless_charging_saver_cancel">Wyłącz</string>
+  <string name="wireless_charging_saver_message">Włączone jest Oszczędzanie baterii. Czy bezprzewodowe ładowanie zwrotne ma być dalej dostępne?</string>
+  <string name="wireless_charging_saver_ok">Tak</string>
+  <string name="wireless_charging_tips_disable">"Nie pokazuj ponownie"</string>
+  <string name="wireless_charging_tips_message">Umieść urządzenia wspierające standard Qi (telefony, akcesoria itd.) z tyłu urządzenia.</string>
+  <string name="wireless_charging_tips_title">Bezprzewodowe ładowanie zwrotne</string>
 </resources>

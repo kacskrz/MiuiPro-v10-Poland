@@ -52,6 +52,8 @@
   <string name="music_audio_effect_optimize_summary_with_hd">Dostosuj dźwięk muzyki z HD Sound</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dostosuj dźwięk muzyki z Hi-Fi</string>
   <string name="music_audio_effect_settings">Efekty dźwiękowe</string>
+  <string name="music_audio_visual_wake_lock">Nie usypiaj ekranu</string>
+  <string name="music_audio_visual_wake_lock_summary">"Nie wyłączaj ekranu, kiedy wyświetlane są efekty wizualne"</string>
   <string name="music_below_thirty_years">Do 30 lat</string>
   <string name="music_customized_sound_summary">Dostosuj głośność dźwięku do swoich percepcji słuchowych</string>
   <string name="music_customized_sound_title">Dostosuj głośność</string>
@@ -89,16 +91,10 @@
   <string name="music_equalizer_summary">Dostosuj korekty dźwięku dla różnych typów muzyki</string>
   <string name="music_hd_title">Dźwięk Hi-Fi</string>
   <string name="music_headphone_settings">Typ słuchawek</string>
-  <string name="music_headset_audio_visual">Efekty dźwiękowe</string>
+  <string name="music_headset_audio_visual">Efekty wizualne</string>
   <string name="music_headset_audio_visual_apply">Zastosuj</string>
   <string name="music_headset_audio_visual_style">Styl efektów wizualnych</string>
-  <string name="music_headset_audio_visual_style_1">Styl 1</string>
-  <string name="music_headset_audio_visual_style_2">Styl 2</string>
-  <string name="music_headset_audio_visual_style_3">Styl 3</string>
-  <string name="music_headset_audio_visual_style_4">Styl 4</string>
-  <string name="music_headset_audio_visual_style_5">Styl 5</string>
-  <string name="music_headset_audio_visual_style_6">Styl 6</string>
-  <string name="music_headset_audio_visual_style_summary">Wybierz styl wizualizera</string>
+  <string name="music_headset_audio_visual_style_summary">Wybierz styl efektów wizualnych</string>
   <string name="music_headset_audio_visual_summary">Wyświetlaj efekty w rytm odtwarzanej muzyki na ekranie blokady</string>
   <string name="music_headset_audio_visual_toast">Pomyślnie zastosowano efekt</string>
   <string name="music_headset_button_settings">Słuchawki</string>
@@ -113,7 +109,7 @@
   <string name="music_headset_calibrate_volume_up">Zwiększ głośność</string>
   <string name="music_headset_calibrate_wrong_key">"Nieprawidłowy przycisk"</string>
   <string name="music_headset_control_setting">Ustawienia kontroli głośności</string>
-  <string name="music_headset_effect_settings">Ustawienia efektów</string>
+  <string name="music_headset_effect_settings">Efekty dźwiękowe</string>
   <string name="music_headset_improve_sound">Dostosuj słuchawki, aby poprawić jakość dźwięku</string>
   <string name="music_headset_is_open">Wł.</string>
   <string name="music_headset_mode_music">Odtwarzanie muzyki</string>
