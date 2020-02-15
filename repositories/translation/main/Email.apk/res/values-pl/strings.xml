@@ -1106,7 +1106,7 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="toast_bar_sync_failed_client_cert">Synchronizacja nieudana z powodu braku certyfikatu. Kliknij, aby dodać certyfikat ponownie.</string>
   <string name="toast_bar_sync_failed_mi_authority">Zaloguj się, aby zautoryzować urządzenie</string>
   <string name="sync_failed_mi_authority_view_detail">Zobacz szczegóły</string>
-  <string name="login_qq_psw">Zaloguj się za pomocą hasła QQ/aplikacji do identyfikacji/kodu weryfikacyjnego</string>
+  <string name="login_qq_psw">Zaloguj się za pomocą kodu weryfikacyjnego</string>
   <string name="get_oauth_code">Uzyskaj kod</string>
   <string name="contact_add_options">Dodaj do kontaktów</string>
   <string name="contact_add_options_details1">Wszystkie</string>
@@ -1158,10 +1158,10 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="conversation_cert_trust">Ufaj</string>
   <string name="conversation_message_encrypt_tips">Ten e-mail jest zaszyfrowany. Dodaj certyfikat wymagany do jego odszyfrowania.</string>
   <string name="no_open_smime_toast">Dodaj najpierw certyfikat S/MIME</string>
-  <string name="obtain_new_auth_code">Uzyskaj nowy kod</string>
+  <string name="obtain_new_auth_code">Uzyskaj nowy kod weryfikacyjny</string>
   <string name="send_encrypt_dialog_fail_content">Prawdopodobnie odbiorca nie posiada zaufanego certyfikatu wymaganego do odszyfrowania tej wiadomości. Wysłać tą wiadomość w formie niezaszyfrowanej?</string>
   <string name="send_encrypt_dialog_fail_title">Nie można wysłać zaszyfrowanego e-maila</string>
-  <string name="user_new_auth_code">Zaloguj się z nowym kodem</string>
+  <string name="user_new_auth_code">Zaloguj się z nowym kodem weryfikacyjnym</string>
   <string name="xiaomi_auth_toastbar">Zaloguj się, aby zautoryzować urządzenie</string>
   <string name="xiaomi_email">Poczta</string>
   <string name="xiaomi_under_certification">Autoryzacja…</string>

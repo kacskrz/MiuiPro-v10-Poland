@@ -122,7 +122,7 @@
   <string name="dlg_msg_unoffical_ok">OK</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">To jest aplikacja systemowa.\n\nWszystkie dane zostaną zachowane.</string>
-  <string name="done">Zrobione</string>
+  <string name="done">Wyjdź</string>
   <string name="enabled_by_admin">Włączone przez administratora</string>
   <string name="external_source_trusted">Dozwolone</string>
   <string name="external_source_untrusted">Niedozwolone</string>
