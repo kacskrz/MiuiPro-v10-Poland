@@ -137,4 +137,5 @@ Dostęp do pamięci w celu odczytu i zapisu okładek albumów i pobranych plikó
   <string name="play_mode_normal_hint">Odtwarzanie utworów w oryginalnej kolejności</string>
   <string name="play_mode_normal_title">Odtwórz wszystkie</string>
   <string name="password_toggle_content_description">Pokaż hasło</string>
+  <string name="is_scanning">Sprawdzanie pamięci…</string>
 </resources>
