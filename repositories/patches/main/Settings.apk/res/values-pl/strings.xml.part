@@ -219,4 +219,5 @@
   <string name="default_search_up_title">Aplikacja do wyszukiwania</string>
   <string name="wifi_network_set_5Gh">Wymuś pasmo 5 GHz</string>
   <string name="wifi_network_set_5Gh_summary">Opcja aktywuje to pasmo w niektórych krajach (wymaga restartu urządzenia)</string>
+  <string name="folder_blur_title">Efekt rozmycia w folderach</string>
 </resources>

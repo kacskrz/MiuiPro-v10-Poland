@@ -134,12 +134,19 @@
   <string name="grant_dialog_button_deny_anyway">Odmów wszystkiego</string>
   <string name="high_risk_perms">Uprawnienia wysokiego ryzyka</string>
   <string name="install">Instaluj</string>
+  <string name="install_app_progress_clear_apk">Usuń APK</string>
   <string name="install_confirm_question">Czy chcesz zainstalować tą aplikację? Uzyska ona dostęp do:</string>
   <string name="install_confirm_question_no_perms">Czy chcesz zainstalować tą aplikację? Nie wymaga ona specjalnych uprawnień.</string>
   <string name="install_confirm_question_update">Czy chcesz zainstalować aktualizację istniejącej aplikacji? Istniejące dane nie zostaną utracone. Zaktualizowana aplikacja uzyska uprawnienia do:</string>
   <string name="install_confirm_question_update_no_perms">Czy chcesz zainstalować aktualizację istniejącej aplikacji? Istniejące dane nie zostaną utracone. Nie wymaga ona specjalnych uprawnień.</string>
   <string name="install_confirm_question_update_system">Czy chcesz zainstalować aktualizację istniejącej aplikacji systemowej? Istniejące dane nie zostaną utracone. Zaktualizowana aplikacja uzyska uprawnienia do:</string>
   <string name="install_confirm_question_update_system_no_perms">Czy chcesz zainstalować aktualizację istniejącej aplikacji systemowej? Istniejące dane nie zostaną utracone. Nie wymaga ona specjalnych uprawnień.</string>
+  <string name="install_control_cancel_install">"Nie instaluj"</string>
+  <string name="install_control_continue_install">Zainstaluj mimo to</string>
+  <string name="install_control_lite_mode_explain_des">Aplikacja pochodzi z nieznanego źródła i może nie działać w trybie Lite.</string>
+  <string name="install_control_lite_mode_solution_des">"Możesz zainstalować ją mimo tego faktu.
+Możesz także wyłączyć tryb Lite i spróbować zainstalować aplikację ponownie."</string>
+  <string name="install_control_normal_mode_explain_des">"Nie można zainstalować tej aplikacji ze względu na ograniczenia prawne"</string>
   <string name="install_done">Aplikacja zainstalowana.</string>
   <string name="install_failed">Nie można zainstalować aplikacji</string>
   <string name="install_failed_blocked">Pakiet został zablokowany przed instalacją.</string>

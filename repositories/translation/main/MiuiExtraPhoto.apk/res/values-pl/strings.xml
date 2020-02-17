@@ -56,4 +56,14 @@
   <string name="saving_image_to_album">Zapisywanie zdjęcia do %1$s…</string>
   <string name="wait_error">Chwileczkę…</string>
   <string name="extra_photo_common_save_fail">Nie udało się zapisać</string>
+  <string name="doc_photo_adjust_section_title">Przeciągnij, aby dostosować</string>
+  <string name="doc_photo_doc_photo_title">Edytuj dokument</string>
+  <string name="doc_photo_enhance_bin">Czarno-białe</string>
+  <string name="doc_photo_enhance_color">Rozszerzone</string>
+  <string name="doc_photo_enhance_none">Oryginał</string>
+  <string name="doc_photo_idcard_emblem">Tył</string>
+  <string name="doc_photo_idcard_mode_title">Identyfikator</string>
+  <string name="doc_photo_idcard_portrait">Front</string>
+  <string name="doc_photo_not_support">"Nie można zedytować tego obrazu jako dokument"</string>
+  <string name="doc_photo_view_effect">Podgląd</string>
 </resources>
