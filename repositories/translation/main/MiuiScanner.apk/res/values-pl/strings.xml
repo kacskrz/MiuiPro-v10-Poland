@@ -338,4 +338,15 @@
   <string name="waybill_num">"Przesyłka: "</string>
   <string name="xiaoai_dialog">"Spróbuj powiedzieć to,
 co chcesz zeskanować, do SI Mi"</string>
+  <string name="crop__cancel">ANULUJ</string>
+  <string name="crop__done">GOTOWE</string>
+  <string name="crop__pick_error">Brak dostępnych źródeł grafik</string>
+  <string name="crop__saving">Zapisywanie obrazu…</string>
+  <string name="crop__wait">Proszę czekać…</string>
+  <string name="error_null_cursor">Oops, coś poszło nie tak!</string>
+  <string name="grant_permission">Nadaj uprawnienia</string>
+  <string name="permission_denied_albums">Zezwól na dostęp do zdjęć i plików na urządzeniu, aby wyświetlić albumy</string>
+  <string name="permission_denied_images">Zezwól na dostęp do zdjęć i plików na urządzeniu, aby wyświetlić obrazy</string>
+  <string name="select_from_album">Wybierz z albumu</string>
+  <string name="take_a_picture">Zrób zdjęcie</string>
 </resources>

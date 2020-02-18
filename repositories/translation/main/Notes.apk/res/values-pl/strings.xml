@@ -351,4 +351,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_schedule_time_repeat_normal_workday">, od poniedziałku do piątku</string>
   <string name="todo_schedule_time_repeat_week">, co tydzień</string>
   <string name="todo_schedule_time_repeat_year">, co rok</string>
+  <string name="notification_content_add_todo_from_other_app">Dodałeś nowe zadanie. Dotknij, aby zobaczyć.</string>
 </resources>
