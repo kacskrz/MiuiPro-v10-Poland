@@ -1767,6 +1767,7 @@ Pozostało prób: %d."</string>
      <string name="preferred_network_type_pref_entries_only_2g_lm_cr">GSM only</string>
      <string name="preferred_network_type_pref_entries_only_3g">Tylko sieci 3G</string>
      <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA only</string>
+     <string name="preferred_network_type_pref_entries_only_4g">Tylko sieci LTE</string>
      <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title">Preferowany typ sieci</string>
      <string name="preferred_phone_account">Preferowane konto telefonu</string>

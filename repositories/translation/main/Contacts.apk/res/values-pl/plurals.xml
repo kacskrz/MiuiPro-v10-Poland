@@ -161,9 +161,8 @@
         <item quantity="few">%1$d osoby z %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d grup</item>
+        <item quantity="other">Grupy: %d</item>
         <item quantity="one">1 grupa</item>
-        <item quantity="few">%0$d grupy</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d elementów pozostało</item>

@@ -317,13 +317,8 @@ Czy chcesz ją odnowić?"</item>
         <item quantity="one">Usunąć %d utwór z ulubionych?</item>
         <item quantity="few">Usunąć %d utwory z ulubionych?</item>
     </plurals>
-    <string-array name="recommendation_desc_week">
-        <item>Niedzielne rekomendacje</item>
-        <item>Poniedziałkowe rekomendacje</item>
-        <item>Wtorkowe rekomendacje</item>
-        <item>Środowe rekomendacje</item>
-        <item>Czwartkowe rekomendacje</item>
-        <item>Piątkowe rekomendacje</item>
-        <item>Sobotnie rekomendacje</item>
-    </string-array>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">Płynne przejście pomiędzy utworami: %d s</item>
+        <item quantity="one">Płynne przejście pomiędzy utworami: %d s</item>
+    </plurals>
 </resources>

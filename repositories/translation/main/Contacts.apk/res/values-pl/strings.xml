@@ -375,12 +375,12 @@
     <string name="device_paired_dialog_title">Przechwytywanie kontaktów…</string>
     <string name="device_pairing_dialog_message">Parowanie…</string>
     <string name="device_pairing_dialog_title">Sparuj urządzenia</string>
-    <string name="device_transfer_by_bluetooth_message">"1. Włącz Bluetooth na innym urządzeniu. 
+    <string name="device_transfer_by_bluetooth_message">"1. Włącz Bluetooth na innym urządzeniu.
 
-- Na urządzenia z Androidem Bluetooth znajduje się w ustawieniach sieciowych. 
-- Na urządzenia z iOS Bluetooth znajduje się w Ustawieniach. 
+- Na urządzeniach z Androidem Bluetooth znajduje się w ustawieniach sieci.
+- Na urządzeniach z iOS Bluetooth znajduje się w Ustawieniach.
 
-2. Tryb widoczny powinien być włączony na urządzenia z Androidem. 
+2. Tryb widoczny powinien być włączony na urządzeniach z Androidem. 
 
 3. Dotknij \"Następny\", i nadaj Kontaktom wymagane uprawnienia."</string>
     <string name="device_transfer_by_sim_message">"\"1. Zapisz kontakty z innego urządzenia na karcie SIM; 
@@ -756,7 +756,7 @@ Aby zapobiec częstym zapytaniom, aktualizujemy stan konta raz dziennie."</strin
 
 Aby dodać kontakty do ulubionych:
 
- "<li>Dotknij zakładki <b>Kontakty</b>"
+        "<li>Dotknij zakładki <b>Kontakty</b>"
 "</li>" 
 "<li>"Otwórz kontakt i naciśnij gwiazdkę
 "</li>"\" "</string>
@@ -1267,4 +1267,11 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
   <string name="no_phone_no_shortcut">"Nie można utworzyć skrótów dla kontaktów bez numeru telefonu"</string>
   <string name="delete_conference_call_log_message">Czy chcesz usunąć całą historię telekonferencji z tym kontaktem?</string>
   <string name="delete_conference_call_log_title">Usuń historię telekonferencji</string>
+  <string name="return_call">Dotknij, aby wrócić do rozmowy</string>
+  <string name="return_call_calling">Połączenie w trakcie</string>
+  <string name="return_call_dialing">Dzwonienie</string>
+  <string name="return_call_incoming">Przychodzące połączenie</string>
+  <string name="send_contact_shortcut_todesktop_duplicate">Ten skrót już istnieje</string>
+  <string name="send_contact_shortcut_todesktop_failed">"Nie udało się umieścić skrótu na pulpicie"</string>
+  <string name="send_contact_shortcut_todesktop_overflow">"Nie można umieścić więcej skrótów na pulpicie"</string>
 </resources>

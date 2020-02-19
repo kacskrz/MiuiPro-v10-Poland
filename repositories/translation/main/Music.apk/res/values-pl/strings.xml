@@ -1367,4 +1367,6 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="set_online_home_subtitle">Otwórz rekomendacje online przy uruchamianiu aplikacji</string>
   <string name="set_online_home_title">Pokazuj rekomendacje online przy uruchamianiu</string>
   <string name="youtube_play_history">Historia odtwarzania</string>
+  <string name="play_setting">Odtwarzanie</string>
+  <string name="sound_fade_in_and_out_when_change_song_automatically">Spróbuj płynnie przejść pomiędzy utworami podczas odtwarzania</string>
 </resources>
