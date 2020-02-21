@@ -203,6 +203,10 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">Zawsze wierz, że może się zdarzyć coś wspaniałego</string>
   <string name="custom_head_pull_down_text">Wprowadź infoFlow</string>
+  <string name="dark_mode_setting_dark">Włączony</string>
+  <string name="dark_mode_setting_follow">Zgodnie z ustawieniami systemu</string>
+  <string name="dark_mode_setting_light">Wyłączony</string>
+  <string name="dark_mode_setting_title">Tryb nocny</string>
   <string name="data_monitor">Monitorowanie wykorzystania danych</string>
   <string name="data_monitor_dialog_message">Wygląda na to, że coś drenuje Twoją transmisję danych. Otwórz stronę startową, aby to zatrzymać.</string>
   <string name="data_traffic_continue">Kontynuuj</string>
