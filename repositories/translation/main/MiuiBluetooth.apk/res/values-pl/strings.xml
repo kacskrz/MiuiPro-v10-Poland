@@ -98,4 +98,17 @@
     <string name="search_menu_title">Szukaj</string>
     <string name="v7_preference_off">WYŁ.</string>
     <string name="v7_preference_on">WŁ.</string>
+    <string name="mi_home_device_find">Odkryj urządzenia</string>
+    <string name="mi_home_device_ignore">Zignoruj</string>
+    <string name="mi_home_device_start_binding">Sparuj teraz</string>
+    <string name="mihome_app_download">Zainstaluj teraz</string>
+    <string name="mihome_app_update">Zaktualizuj teraz</string>
+    <string name="mihome_download_tips">Zainstaluj aplikację Mi Home, aby sparować urządzenie. Po instalacji aplikacji zaloguj się w niej i trzymaj swój telefon blisko urządzenia.</string>
+    <string name="mihome_download_title">Zainstaluj aplikację Mi Home</string>
+    <string name="mihome_ignore">Anuluj</string>
+    <string name="mihome_ignore_query">Zignoruj</string>
+    <string name="mihome_ignore_tips">Po zignorowaniu urządzenia wciąż możesz je dodać w aplikacji Mi Home.</string>
+    <string name="mihome_ignore_title">Zignorować to urządzenie?</string>
+    <string name="mihome_update_tips">Obecna wersja aplikacji Mi Home jest za stara. Trzymaj swój telefon blisko urządzenia po zaktualizowaniu aplikacji.</string>
+    <string name="mihome_update_title">Zaktualizuj aplikację Mi Home</string>
 </resources>

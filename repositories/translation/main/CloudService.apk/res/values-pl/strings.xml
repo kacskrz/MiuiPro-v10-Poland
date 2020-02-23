@@ -815,4 +815,5 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="picker_search_hint">Szukaj</string>
   <string name="starred_contact">Ulubione</string>
   <string name="data_merge_dialog_title">Połącz elementy</string>
+  <string name="micloud_setting_sms_summary_for_google_csp">Wiadomości tekstowe</string>
 </resources>
