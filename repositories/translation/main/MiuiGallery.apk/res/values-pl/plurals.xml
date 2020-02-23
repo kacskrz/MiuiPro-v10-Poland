@@ -231,9 +231,8 @@
         <item quantity="few">Wybrane zdjęcia (%dMB) nie znajdują się na urządzeniu. Pobrać wykorzystując dane mobilne?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">Anulować pobieranie ostatnich %d zdjęć?</item>
-        <item quantity="one">Anulować pobieranie ostatniego zdjęcia?</item>
-        <item quantity="few">Anulować pobieranie ostatnich %d zdjęć?</item>
+        <item quantity="other">Nie pobrano jeszcze %d plików. Anulować mimo to?</item>
+        <item quantity="one">Nie pobrano jeszcze jednego pliku. Anulować mimo to?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">Nie udało się pobrać %1$d zdjęć, połącz się z siecią i spróbuj ponownie</item>
@@ -241,9 +240,8 @@
         <item quantity="few">Nie udało się pobrać %1$d zdjęć, połącz się z siecią i spróbuj ponownie</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">Nie udało się pobrać %1$d zdjęć (%2$dMB), połącz się z siecią i spróbuj ponownie</item>
-        <item quantity="one">Nie udało się pobrać zdjęcia (%2$dMB), połącz się z siecią i spróbuj ponownie</item>
-        <item quantity="few">Nie udało się pobrać %1$d zdjęć (%2$dMB), połącz się z siecią i spróbuj ponownie</item>
+        <item quantity="other">"Nie można pobrać %1$d plików (%2$d MB). Połącz z siecią i spróbuj ponownie."</item>
+        <item quantity="one">"Nie można pobrać jednego pliku (%2$d MB). Połącz z siecią i spróbuj ponownie."</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Nie udało się pobrać %1$d zdjęć, spróbować ponownie?</item>
@@ -499,5 +497,9 @@
         <item quantity="one">%d album</item>
         <item quantity="other">%d albumów</item>
         <item quantity="few">%d albumy</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"Nie pobrano jeszcze %1$d plików (%2$d MB). Pobrać je za pomocą danych mobilnych?"</item>
+        <item quantity="one">"Nie pobrano jeszcze %1$d pliku (%2$d MB). Pobrać go za pomocą danych mobilnych?"</item>
     </plurals>
 </resources>

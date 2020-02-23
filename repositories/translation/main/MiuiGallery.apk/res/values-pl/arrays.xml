@@ -154,4 +154,21 @@
         <item>Skopiuj zdjęcia</item>
         <item>Zsynchronizuj zdjęcia z Chmurą Xiaomi</item>
     </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Czas na zabawę</item>
+        <item>"Weekend dzieciaka"</item>
+        <item>Ten malutki</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Nowi przyjaciele i starzy kumple</item>
+        <item>"Spotkania w zeszłym roku"</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Razem</item>
+        <item>Przyjaźnie i więzi</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>One rosną tak szybko</item>
+        <item>Zdjęcia dzieciaka</item>
+    </string-array>
 </resources>
