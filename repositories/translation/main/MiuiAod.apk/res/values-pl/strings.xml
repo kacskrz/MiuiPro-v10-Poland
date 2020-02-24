@@ -26,6 +26,11 @@
     <string name="aod_close_color_inversion">"Ta funkcja nie działa razem z inwersją kolorów. Wyłącz inwersję kolorów, aby móc używać tej funkcji."</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12_smartcover">"EE
+dd.MM."</string>
+    <string name="aod_lock_screen_date_smartcover">"EE
+dd.MM."</string>
+    <string name="aod_lock_screen_date_smartcover_b">dd.MM. EE</string>
     <string name="aod_mode_preview">Podgląd</string>
     <string name="aod_mode_style">Styl i tło zegara</string>
     <string name="aod_mode_style_title">Więcej opcji</string>
