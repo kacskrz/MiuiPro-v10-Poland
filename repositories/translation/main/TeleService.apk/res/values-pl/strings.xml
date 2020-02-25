@@ -1903,4 +1903,8 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="nr_usaged_used_time">Użytkowano przez</string>
   <string name="notification_channel_demo">Urządzenie demonstracyjne</string>
   <string name="preferred_network_type_pref_entries_only_4g">Tylko sieci LTE</string>
+  <string name="phone_report_title">Odczytaj informacje o przychodzącym połączeniu</string>
+  <string name="report_method_entries_item1">Tylko, gdy podłączone są słuchawki</string>
+  <string name="report_method_entries_item2">Zawsze</string>
+  <string name="report_method_entries_item3">Wyłącz</string>
 </resources>

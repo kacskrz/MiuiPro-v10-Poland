@@ -34,4 +34,9 @@
         <item quantity="one">%d tydzień temu</item>
         <item quantity="few">%d tygodnie temu</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nowych powiadomień</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="one">%d nowe powiadomienie</item>
+    </plurals>
 </resources>

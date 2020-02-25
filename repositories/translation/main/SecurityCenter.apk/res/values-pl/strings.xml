@@ -3062,4 +3062,5 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="app_behavior_warning_audio_title">Aplikacja %1s nagrywa dźwięk w tle</string>
   <string name="app_behavior_warning_content">"Zakończ ten proces, jeśli nie zezwoliłeś na taką akcję"</string>
   <string name="app_behavior_warning_location_title">Aplikacja %1s uzyskuje Twoją lokalizację</string>
+  <string name="gb_add_game_loading_tips">Chwileczkę…</string>
 </resources>

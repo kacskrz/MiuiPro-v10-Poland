@@ -1632,6 +1632,7 @@ Pozostało prób: %d."</string>
      <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
      <string name="pin_progress_set_icc_lock">Setting icc lock state…</string>
      <string name="pin_progress_unlock_icc">Odblokowywanie karty SIM…</string>
+     <string name="phone_report_title">Odczytaj informacje o przychodzącym połączeniu</string>
      <string name="place_a_call1">Subscription 1</string>
      <string name="place_a_call2">Subscription 2</string>
      <string name="place_a_call3">Subscription 3</string>
@@ -1849,6 +1850,9 @@ Pozostało prób: %d."</string>
      <string name="remove_ims_account">Usuń konto</string>
      <string name="remove_sip_account">Usuń konto</string>
      <string name="removing_account">Usuwam konto…</string>
+     <string name="report_method_entries_item1">Tylko, gdy podłączone są słuchawki</string>
+     <string name="report_method_entries_item2">Zawsze</string>
+     <string name="report_method_entries_item3">Wyłącz</string>
      <string name="requesting_corporate_unlock">Żądanie odblokowania korporacyjnego karty SIM…</string>
      <string name="requesting_nw_subset_unlock">Żądanie odblokowania podzestawu sieci karty SIM…</string>
      <string name="requesting_puk_unlock">Żądanie odblokowania kodem PUK…</string>
