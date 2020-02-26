@@ -347,6 +347,19 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="grant_permission">Nadaj uprawnienia</string>
   <string name="permission_denied_albums">Zezwól na dostęp do zdjęć i plików na urządzeniu, aby wyświetlić albumy</string>
   <string name="permission_denied_images">Zezwól na dostęp do zdjęć i plików na urządzeniu, aby wyświetlić obrazy</string>
-  <string name="select_from_album">Wybierz z albumu</string>
-  <string name="take_a_picture">Zrób zdjęcie</string>
+  <string name="select_from_album">Galeria</string>
+  <string name="take_a_picture">Aparat</string>
+  <string name="classesNameNull_toast">"Nazwa klasy nie może być pusta"</string>
+  <string name="classes_canfirmTitle">Potwierdź rezultaty i rozpocznij import</string>
+  <string name="classes_company">Importuj</string>
+  <string name="classes_dealalert">Uwaga: Zaimportowane klasy nadpiszą poprzednio zapisane dane.</string>
+  <string name="classes_delete">Usuń klasę</string>
+  <string name="classes_deleteMessage">Usunąć tą klasę na zawsze?</string>
+  <string name="classes_edit_dialog_title">Nazwa klasy</string>
+  <string name="classes_edit_name">Wprowadź nazwę klasy</string>
+  <string name="classes_fail">"Nie udało się rozpoznać. Spróbuj ponownie."</string>
+  <string name="classes_isNull">"Nie dodałeś jeszcze żadnych klas"</string>
+  <string name="classes_titlt">Plan lekcji</string>
+  <string name="classes_topTitle">Zeskanuj swój plan lekcji</string>
+  <string name="submitting">Przesyłanie…</string>
 </resources>

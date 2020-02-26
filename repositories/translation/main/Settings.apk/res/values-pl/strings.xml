@@ -6653,4 +6653,8 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="dark_wallpaper_mode">Dostosuj tapetę do Ciemnego motywu</string>
   <string name="tether_use_wifi6_summary">Część urządzeń może nie wspierać standardu 802.11ax (Wi-Fi 6). Jeśli doświadczasz jakichś problemów, wyłącz tą funkcję.</string>
   <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
+  <string name="bluetooth_connect_settings">Ustawienia połączenia Bluetooth</string>
+  <string name="bluetooth_display_settings">Ustawienia wyświetlania Bluetooth</string>
+  <string name="bluetooth_mi_fast_connect">Mi Link</string>
+  <string name="bluetooth_mi_fast_connect_summary">Łącz się z urządzeniami Bluetooth w pobliżu</string>
 </resources>

@@ -270,7 +270,7 @@
   <string name="sunlight_notification_title">Włącz tryb Światło słoneczne</string>
   <string name="handset_text_unsupported_handset_insert">Dotknij, aby zobaczyć szczegóły</string>
   <string name="handset_text_usb_handset_insert">Dotknij, aby otworzyć dodatkowe ustawienia</string>
-  <string name="handset_title_unsupported_handset_insert">"Nie można odtworzyć dźwięku przez adapter"</string>
+  <string name="handset_title_unsupported_handset_insert">"Adaptery do słuchawek USB nie są wspierane"</string>
   <string name="handset_title_usb_handset_insert">Odtwarzanie dźwięku przez USB</string>
   <string name="miaudiovisual_notification_summary">Włącz, aby pokazywać efekty na ekranie blokady</string>
   <string name="miaudiovisual_notification_title">Efekty dźwiękowe i wizualne</string>
