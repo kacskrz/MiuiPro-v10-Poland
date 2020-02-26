@@ -6593,7 +6593,7 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
   <string name="backup_restore_data_title">5. Jakie elementy mogę skopiować bądź przywrócić?</string>
   <string name="clear_all_data">Wymaż wszystkie dane</string>
   <string name="clear_phone_data_category">Wymaż następujące elementy</string>
-  <string name="cloud_restore_section_summary_new">Wykonaj kopię układu pulpitu, aplikacji, ustawień systemu i więcej</string>
+  <string name="cloud_restore_section_summary_new">Przywróć kopię układu pulpitu, aplikacji, ustawień systemu i więcej</string>
   <string name="cloud_restore_section_title_new">W Chmurze Xiaomi</string>
   <string name="common_issue">Pytania i odpowiedzi</string>
   <string name="contact_data">Kontakty</string>
