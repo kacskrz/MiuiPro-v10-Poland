@@ -1079,4 +1079,5 @@ i dopasuj skanowane dokumenty"</string>
   <string name="timbre">Zmiana głosu</string>
   <string name="unknow_error">Nieznany błąd</string>
   <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24 kl./s</string>
+  <string name="mimoji_gif_record_time_short">Nagrany film jest za krótki</string>
 </resources>
