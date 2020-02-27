@@ -137,7 +137,7 @@
   <string name="module_name_professional">Profesjonalny</string>
   <string name="module_name_square">Kwadrat</string>
   <string name="module_name_video">Wideo</string>
-  <string name="multi_window_mode_not_supported">Aparat nie działa w trybie podzielonego ekranu</string>
+  <string name="multi_window_mode_not_supported">Aparat nie może funkcjonować w trybie podzielonego ekranu</string>
   <string name="no_storage">Włóż kartę SD przed użyciem aparatu</string>
   <string name="not_enough_space">Pamięć wewnętrzna jest pełna</string>
   <string name="object_track_enable_toast">Dotknij dwoma palcami (po skosie) krawędzi obiektu, aby go śledzić.</string>
@@ -1080,4 +1080,5 @@ i dopasuj skanowane dokumenty"</string>
   <string name="unknow_error">Nieznany błąd</string>
   <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24 kl./s</string>
   <string name="mimoji_gif_record_time_short">Nagrany film jest za krótki</string>
+  <string name="only_mimoji_multi_window_mode_not_supported">"Ta funkcja nie może być używana w trybie dzielonego ekranu"</string>
 </resources>
