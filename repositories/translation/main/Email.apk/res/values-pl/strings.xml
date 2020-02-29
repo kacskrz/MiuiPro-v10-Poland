@@ -1183,4 +1183,6 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="under_16_content">Czy potwierdzasz, że masz poniżej 16 lat?</string>
   <string name="under_sixteen">"Mam poniżej 16 lat."</string>
   <string name="user_privacy_settings_agreement_authorization">"(klikając przycisk \"Zgadzam się\", nadajesz Poczcie wszystkie wymagane uprawnienia)"</string>
+  <string name="database_exception">Wyjątek bazy danych. Zaloguj się ponownie.</string>
+  <string name="db_error">W bazie danych aplikacji Poczta wystąpił wyjątek. Zaloguj się ponownie. Po zalogowaniu dane dotyczące e-maili zostaną przywrócone.</string>
 </resources>

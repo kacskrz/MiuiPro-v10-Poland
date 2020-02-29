@@ -149,4 +149,7 @@
     <string name="permdesc_write_calendar">Dostęp i dodawanie wydarzeń do kalendarza</string>
     <string name="permdesc_write_storage">Odczyt i zapis plików na urządzeniu</string>
     <string name="permdesc_location_background">Dostęp do lokalizacji w tle</string>
+    <string name="HIPS_Perm_clipboard">Schowek</string>
+    <string name="HIPS_Perm_clipboard_Desc">dostęp do schowka i możliwość zmiany jego zawartości</string>
+    <string name="grant_dialog_button_allow_onetime">Zezwól tym razem</string>
 </resources>

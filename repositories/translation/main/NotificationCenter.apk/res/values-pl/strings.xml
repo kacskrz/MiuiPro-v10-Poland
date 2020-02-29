@@ -119,4 +119,5 @@ Zgłoś to >"</string>
     <string name="summary_lock_screen_enable_notification_first">Włącz powiadomienia, aby móc zezwolić na powiadomienia na ekranie blokady</string>
     <string name="summary_show_badge_enable_notification_first">Włącz powiadomienia, aby móc włączyć licznik na ikonie</string>
     <string name="tip_feedback_success">Pomyślnie zgłoszono.</string>
+    <string name="tip_select_category">Wybierz typ powiadomień</string>
 </resources>

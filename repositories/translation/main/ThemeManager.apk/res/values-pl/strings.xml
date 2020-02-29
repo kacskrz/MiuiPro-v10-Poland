@@ -880,4 +880,26 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="de_component_font_author">Projektant czcionek</string>
   <string name="de_component_tags">Tagi</string>
   <string name="de_font_exchange_success">Pomyślnie zakupiono</string>
+  <string name="desc_more_online_wallpaper">Więcej tapet online</string>
+  <string name="lockscreen_desk_wallpaper">Tapety pulpitu i ekranu blokady</string>
+  <string name="more_system_wallpaper">Więcej tapet systemu</string>
+  <string name="no_network_desc">"Nie można połączyć się z siecią"</string>
+  <string name="no_network_please_retry">Sprawdź swoje ustawienia sieci i spróbuj ponownie</string>
+  <string name="no_wallpaper">Nie ma tu jeszcze żadnych elementów</string>
+  <string name="not_support_incall_show">"Ta tapeta nie działa z profilami wideo"</string>
+  <string name="search_filter_name">Filtr</string>
+  <string name="search_non_filter_result">"Nie znaleziono rezultatów"</string>
+  <string name="search_price_charge">Płatne</string>
+  <string name="search_price_free">Darmowe</string>
+  <string name="search_price_name">"Cena: "</string>
+  <string name="search_price_no_limit">Bez limitu</string>
+  <string name="search_sort_name">Sortuj</string>
+  <string name="search_sort_news">Nowe</string>
+  <string name="search_sort_synthesize">Ogólne</string>
+  <string name="search_sort_top">Popularne</string>
+  <string name="theme_settings_title">Motywy</string>
+  <string name="theme_share_app_name">Motywy Mi</string>
+  <string name="title_my_wallpaper">Moje tapety</string>
+  <string name="wallpaper_download_incall_show">Pobierz wideo</string>
+  <string name="wallpaper_share_alert">Wystąpił błąd. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
 </resources>
