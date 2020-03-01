@@ -2001,4 +2001,10 @@ aby spersonalizować Galerię"</string>
   <string name="vlog_video_importing">Importowanie wideo…</string>
   <string name="vlog_video_saved_in_my_create">Pomyślnie zapisano wideo</string>
   <string name="vlog_video_selected_not_support">"Nie można edytować wybranego wideo"</string>
+  <string name="filter_sky_dynamic_note">Elementy z tymi filtrami są zapisywane jako pliki wideo</string>
+  <string name="filter_sky_dynamic_rain">Deszcz</string>
+  <string name="filter_sky_dynamic_saving">Tworzenie wideo</string>
+  <string name="filter_sky_dynamic_snow">Śnieg</string>
+  <string name="filter_sky_dynamic_stop_saving">Dotknij ponownie, aby anulować zapisywanie</string>
+  <string name="filter_sky_dynamic_unavailable">"Nie można zastosować tego filtra do obrazka"</string>
 </resources>
