@@ -47,6 +47,7 @@
     <string name="device_type_pc">Komputery</string>
     <string name="disconnect">ROZŁĄCZ</string>
     <string name="enable_midrop">Włącz</string>
+    <string name="error_ap_in_use">"Nie można przesyłać elementów do innych urządzeń, gdy włączony jest hotspot"</string>
     <string name="error_ap_or_screen_already_hosting">"Nie można wysyłać elementów do innych urządzeń, gdy przesyłasz ekran na inne urządzenie bądź używasz hotspotu."</string>
     <string name="error_device_lost">Wygląda na to, że inne urządzenie jest poza zasięgiem aplikacji. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
     <string name="error_has_occurred">Wystąpił błąd</string>
@@ -66,8 +67,10 @@
     <string name="error_send_file_not_found">"Nie znaleziono pliku. Spróbuj ponownie."</string>
     <string name="error_send_file_service_disabled">Anulowano wychodzący transfer</string>
     <string name="error_send_transfer_error">"Nie udało się przenieść elementów. Spróbuj ponownie."</string>
+    <string name="error_slave_wifi_in_use">"Mi Share nie będzie działać, gdy włączone jest podwójne Wi-Fi. Wyłącz tą funkcję w Ustawieniach i spróbuj ponownie."</string>
     <string name="error_timeout">Przekroczono czas trwania sesji. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
     <string name="error_user_refuse">"Nie udało się wysłać - transfer został odrzucony."</string>
+    <string name="error_wifi_display_in_use">"Nie można przesyłać plików do innych urządzeń w trakcie przesyłania ekranu"</string>
     <string name="fail_in_send">"Nie udało się wysłać"</string>
     <string name="file_cannot_print">"Nie można wydrukować tego elementu."</string>
     <string name="file_cannot_screen_throw">"Nie można wykonać projekcji tego elementu."</string>
@@ -78,6 +81,7 @@
     <string name="file_transfer_progress">Postęp: %1$d%%</string>
     <string name="file_transfer_progress_title">Postęp</string>
     <string name="functions_are_being_developed">Funkcja będzie dostępna wkrótce. Bądź czujny!</string>
+    <string name="go_to_settings">Ustawienia</string>
     <string name="help">Zobacz pomoc</string>
     <string name="help_content">"Jeśli nie możesz odnaleźć urządzenia, którego potrzebujesz, zapytaj inną osobę, czy włączyła ona funkcję Mi Share."</string>
     <string name="hide">Ukryj</string>
