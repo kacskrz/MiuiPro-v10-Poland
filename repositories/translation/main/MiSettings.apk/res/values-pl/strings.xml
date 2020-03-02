@@ -24,12 +24,17 @@
     <string name="calendar_tip">Dzwonki przypomnień o wydarzeniach działają dla przypomnień z kalendarza, notatek oraz zadań</string>
     <string name="category_other">Inne</string>
     <string name="color_gamut">Paleta barw</string>
+    <string name="contact_description">Umieść skrót do kontaktu na pulpicie i dotknij go, aby wykonać połączenie</string>
+    <string name="contact_title">Skróty kontaktów</string>
     <string name="contrast_ratio">Kontrast</string>
     <string name="create">Utwórz</string>
     <string name="create_failed">Nie udało się utworzyć skrótu</string>
     <string name="create_shortcut">Skrót na pulpicie</string>
     <string name="created">Utworzono</string>
     <string name="created_successfully">Pomyślnie utworzono skrót</string>
+    <string name="display_description">Większe ikony i tekst, mniej bałaganu</string>
+    <string name="display_title">Większe elementy</string>
+    <string name="exit_easymode">Wyłącz tryb Lite</string>
     <string name="first_unlock_time">"Pierwsze odblokowanie: "</string>
     <string name="focus_time_exception_tip">Prawdopodobnie zmieniono czas systemowy. Tryb skupienia został wyłączony.</string>
     <string name="follow_sim1">Zastosuj ustawienia karty SIM 1</string>
@@ -75,6 +80,7 @@
     <string name="sms_delivered_sound_title">Dostarczenie wiadomości</string>
     <string name="sms_received_sound_title">Nowa wiadomość</string>
     <string name="srgb_color_region_summary">Wyświetlaj treści na ekranie w palecie barw sRGB</string>
+    <string name="start_easymode">Włącz tryb Lite</string>
     <string name="stop_app_timer">Wyłącz funkcję Czas przed ekranem</string>
     <string name="stop_app_timer_fail">Nie udało się wyłączyć tej funkcji</string>
     <string name="stop_app_timer_success">Funkcja Czas przed ekranem została pomyślnie wyłączona.</string>
@@ -82,8 +88,11 @@
     <string name="stop_summary">Wszystkie statystyki i dane funkcji Czas przed ekranem zostaną usunięte po jej wyłączeniu</string>
     <string name="suggestion">Opinie</string>
     <string name="thememanager_not_found">"Nie udało się otworzyć Motywów. Upewnij się, że są one zainstalowane na tym urządzeniu."</string>
+    <string name="title_activity_easy_mode">Tryb Lite</string>
     <string name="today_usage_title">Dziś</string>
     <string name="today_use_time">Czas na ekranie: %1$s</string>
+    <string name="touch_description">Zoptymalizowane przyciski i skróty pomogą uniknąć przypadkowych dotknięć ekranu</string>
+    <string name="touch_title">Większa kontrola dotyku</string>
     <string name="trend_from_yesterday_equal">Tak jak wczoraj</string>
     <string name="trend_from_yesterday_less">%1$s mniej niż wczoraj</string>
     <string name="trend_from_yesterday_less_simple">%1$s mniej niż wczoraj</string>
@@ -146,6 +155,8 @@ Ponadto musi ona łączyć się z siecią i wymagać będzie następujących upr
 W celu poprawnego działania aplikacji musi ona gromadzić dane o Twojej aktywności na urządzeniu (czas korzystania z aplikacji, ilość odblokowań ekranu czy powiadomień itd.).
 Ponadto musi ona łączyć się z siecią i wymagać będzie następujących uprawnień:"</string>
     <string name="usage_home_premission_second_summary">Aby móc działać normalnie, aplikacja musi gromadzić Twoje dane osobowe. Xiaomi będzie chronić je w oparciu o odpowiednie przepisy oraz polityki prywatności.</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"Xiaomi będzie chronić Twoje informacje osobiste zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności. Jeśli nie zgodzisz się na nadanie określonych uprawnień bądź udostępnianie/wysyłanie swoich informacji osobistych, nie będziesz mógł korzystać z tej aplikacji. Możesz odwołać swoją autoryzację, przechodząc do Czasu przed ekranem > Ustawienia > Wyłącz funkcję Czas przed ekranem."</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Przed użyciem tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
     <string name="usage_home_premission_second_summary_new">Jeśli nie zezwolisz na udzielenie powyższych uprawnień, nie będziesz mógł korzystać z tej aplikacji. Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami i politykami prywatności. Możesz odwołać swoją autoryzację dla tej funkcji, wyłączając ją (ikona zębatki &gt; Wyłącz funkcję Czas przed ekranem). Jeśli masz więcej pytań dotyczących prywatności, możesz skontaktować się z Xiaomi za pomocą e-maila: privacy@xiaomi.com.</string>
     <string name="usage_no_net_summary">Sprawdź ustawienia sieci i spróbuj ponownie</string>
     <string name="usage_reach_device_limit">To koniec! Osiągnąłeś już swój limit czasu.</string>

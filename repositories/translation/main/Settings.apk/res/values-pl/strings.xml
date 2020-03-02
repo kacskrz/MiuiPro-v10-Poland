@@ -6657,4 +6657,6 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="bluetooth_display_settings">Ustawienia wyświetlania Bluetooth</string>
   <string name="bluetooth_mi_fast_connect">Mi Link</string>
   <string name="bluetooth_mi_fast_connect_summary">Łącz się z urządzeniami Bluetooth w pobliżu</string>
+  <string name="easymode_hint">Dotknij, aby wyłączyć tryb Lite</string>
+  <string name="oldman_mode_settings">Tryb Lite</string>
 </resources>

@@ -595,4 +595,12 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="pwd_width_phone_number_or_mail_num">Hasło nie może zawierać Twojego numeru telefonu, adresu e-mail bądź ID konta Xiaomi</string>
   <string name="risky_pwd_not_allow">Nowe hasło nie jest bezpieczne. Ustaw inne hasło.</string>
   <string name="passport_can_not_receive_verification_code">"Nie możesz otrzymać kodu?"</string>
+  <string name="find_device">Znajdź urządzenie</string>
+  <string name="find_device_clear_data">Wymaż dane</string>
+  <string name="find_device_close">Wył.</string>
+  <string name="find_device_location">Zlokalizuj</string>
+  <string name="find_device_open">Wł.</string>
+  <string name="find_device_play_sound">Odtwórz dźwięk</string>
+  <string name="find_device_set_lost_model">Zagubiony</string>
+  <string name="find_device_title">Znajdź urządzenie</string>
 </resources>

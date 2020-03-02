@@ -181,4 +181,8 @@
         <item>9</item>
         <item>.</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+    </string-array>
 </resources>

@@ -697,7 +697,17 @@
      <string name="daltonizer_mode_protanomaly">Protanomaly (red-green)</string>
      <string name="daltonizer_mode_tritanomaly">Tritanomaly (blue-yellow)</string>
      <string name="daltonizer_type_overridden">Overridden by %1$s</string>
+     <string name="data_disable_warning_no_mms">"Wciąż będzie można wysyłać i odbierać MMS-y po wyłączeniu danych mobilnych. Aby używać Internetu, połącz się z siecią Wi-Fi."</string>
+     <string name="data_disable_warning_with_mms">"Wciąż będzie można wysyłać i odbierać MMS-y po wyłączeniu danych mobilnych. Aby używać Internetu, połącz się z siecią Wi-Fi."</string>
+     <string name="data_disable_warning_with_mms_lgu">"Wciąż będzie można wysyłać i odbierać MMS-y po wyłączeniu danych mobilnych. Aby używać Internetu, połącz się z siecią Wi-Fi.
+
+Czy na pewno chcesz wyłączyć dane mobilne?"</string>
+     <string name="data_enable_always_warn">Zawsze pytaj o użycie danych mobilnych</string>
      <string name="data_enable_summary">Zezwalaj na transmisję danych</string>
+     <string name="data_enable_warning">Zezwalanie na używanie danych mobilnych w każdym przypadku może spowodować naliczenie dodatkowych opłat przez operatora. Połączyć się mimo to?</string>
+     <string name="data_enable_warning_lgu">"Używanie danych mobilnych, o ile nie wspomniano inaczej w Twojej taryfie, może spowodować naliczenie dodatkowych opłat przez operatora.
+
+Czy mimo to chcesz użyć danych mobilnych?"</string>
      <string name="data_enabled">Dane mobilne</string>
      <string name="data_plan">Mobile data plans</string>
      <string name="data_roaming_alert">Data roaming alert</string>
@@ -880,6 +890,12 @@
      <string name="emergency_enable_radio_dialog_message">Trwa włączanie sieci bezprzewodowych...</string>
      <string name="emergency_enable_radio_dialog_retry">Brak sieci. Próbuję ponownie…</string>
      <string name="emergency_enable_radio_dialog_title">Połączenie alarmowe</string>
+     <string name="emm_cause_11">"Obecny operator nie wspiera tej usługi."</string>
+     <string name="emm_cause_14">"Obecny operator nie wspiera usług danych mobilnych."</string>
+     <string name="emm_cause_2">"Nie udało się zarejestrować numeru telefonu. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="emm_cause_3">"Nie udało się zweryfikować użytkownika. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="emm_cause_6">"Nie udało się zweryfikować urządzenia. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="emm_cause_7_8_12_13_15_16_17_22">"Nie możesz używać teraz roamingu. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż występuje, skontaktuj się z infolinią operatora."</string>
      <string name="empty_alert">Pole %s jest wymagane i nie może pozostać puste.</string>
      <string name="empty_networks_list">Nie znaleziono sieci.</string>
      <string name="enable">Włącz</string>
@@ -1126,6 +1142,8 @@
      <string name="international_roaming_alert">International Roam Alerts</string>
      <string name="international_roaming_network">You are currently on an international roaming carrier\'s network.\10Roaming may be modified and/or turned off in Roaming Settings</string>
      <string name="international_roaming_setting">Roaming danych</string>
+     <string name="international_roaming_setting_kr">Roaming międzynarodowy</string>
+     <string name="international_roaming_setting_kr_skt">Roaming T</string>
      <string name="international_voice_and_text_roaming">International voice &amp; text roaming</string>
      <string name="international_voice_text_roam_summary">Make/receive voice call and send/receive text messages when roaming internationally</string>
      <string name="internet_phone">Połączenie przez internet</string>
@@ -1161,6 +1179,16 @@
      <string name="keep_screen_on">Stay awake</string>
      <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
      <string name="keywords_carrier_settings_euicc">carrier, esim, sim, euicc, switch carriers, add carrier</string>
+     <string name="kt_lte_emm_cause_19_22">Rejestrowanie sieci… Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+     <string name="kt_lte_emm_cause_3">"Nie udało się zweryfikować użytkownika. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż występuje, zadzwoń na infolinię operatora."</string>
+     <string name="kt_lte_emm_cause_6">"Nie udało się zweryfikować urządzenia. Uruchom ponownie urządzenie 2 lub 3 razy po włożeniu nowej karty SIM. Jeśli problem wciąż występuje, zadzwoń na infolinię operatora."</string>
+     <string name="kt_lte_emm_cause_8">Wymagana jest aktywacja. Zadzwoń na infolinię operatora.</string>
+     <string name="kt_lte_emm_cause_others">"Nie udało się zarejestrować sieci"</string>
+     <string name="kt_lte_msim_emm_cause_19_22">Rejestrowanie sieci przez kartę SIM %d… Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+     <string name="kt_lte_msim_emm_cause_3">"Nie udało się zweryfikować użytkownika na karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż występuje, zadzwoń na infolinię operatora."</string>
+     <string name="kt_lte_msim_emm_cause_6">"Nie udało się zweryfikować urządzenia na karcie SIM %d. Jeśli problem wciąż występuje, zadzwoń na infolinię operatora."</string>
+     <string name="kt_lte_msim_emm_cause_8">SIM %d wymaga aktywacji. Zadzwoń na infolinię operatora.</string>
+     <string name="kt_lte_msim_emm_cause_others">"Nie udało się zarejestrować sieci na karcie SIM %d"</string>
      <string name="labelCBVideo">Video call barring</string>
      <string name="labelCBVoice">Voice call barring</string>
      <string name="labelCDMAMore">Ustawienia połączenia CDMA</string>
@@ -1210,6 +1238,22 @@
      <string name="launch_defaults_none">No defaults set</string>
      <string name="launch_defaults_some">Some defaults set</string>
      <string name="left_minutes">min</string>
+     <string name="lgu_emm_16_17_22">Rejestrowanie sieci… Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+     <string name="lgu_emm_cause_11_12_13_15">"Nie udało się zarejestrować sieci"</string>
+     <string name="lgu_emm_cause_2">Activation is required. Zadzwoń na infolinię operatora (+82-2-3416-7010).</string>
+     <string name="lgu_emm_cause_3">"Nie udało się zweryfikować użytkownika. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
+     <string name="lgu_emm_cause_6">"Nie udało się zweryfikować urządzenia. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
+     <string name="lgu_emm_cause_7_14">"Sieć nie dostarcza usług danych mobilnych"</string>
+     <string name="lgu_emm_cause_8">"Nie udało się zarejestrować sieci. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
+     <string name="lgu_emm_cause_others">"Nie można połączyć się z siecią. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
+     <string name="lgu_msim_emm_cause_11_12_13_15">"Nie udało się zarejestrować sieci w karcie SIM %d"</string>
+     <string name="lgu_msim_emm_cause_16_17_22">Rejestrowanie sieci w karcie SIM %d… Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+     <string name="lgu_msim_emm_cause_2">Karta SIM %d wymaga aktywacji. Zadzwoń na infolinię operatora (+82-2-3416-7010).</string>
+     <string name="lgu_msim_emm_cause_3">"Nie udało się zweryfikować użytkownika na karcie SIM %d. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
+     <string name="lgu_msim_emm_cause_6">"Nie udało się zweryfikować urządzenia na karcie SIM %d. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
+     <string name="lgu_msim_emm_cause_7_14">"Sieć z karty SIM %d nie dostarcza usług danych mobilnych"</string>
+     <string name="lgu_msim_emm_cause_8">"Nie udało się zarejestrować sieci w karcie SIM %d. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
+     <string name="lgu_msim_emm_cause_others">"Nie można połączyć się z siecią na karcie SIM %d. Zadzwoń na infolinię operatora (+82-2-3416-7010)."</string>
      <string name="list_language_dtitle">Języki</string>
      <string name="list_language_summary">Wybierz język wiadomości</string>
      <string name="list_language_title">Język</string>
@@ -1263,8 +1307,15 @@
      <string name="menu_edit">Edytuj kontakt</string>
      <string name="messageCFB">Przekieruj na numer</string>
      <string name="messageCFNRc">Przekieruj na numer</string>
+     <string name="messageCFNRc_kr_kt">"Usługa sieciowa, która przekierowuje wszystkie przychodzące połączenia i SMS-y na sprecyzowany numer, gdy nie możesz odbierać połączeń (np. gdy rozmawiasz przez telefon lub jest on wyłączony). Musisz zasubskrybować tą usługę. Skontaktuj się ze wsparciem technicznym (114+[Wyślij]), aby rozpocząć bądź zakończyć subskrypcję tej usługi. Wpisz *72+[numer, na który mają być przekierowywane połączenia][Wyślij], aby włączyć lub *720[Wyślij], aby wyłączyć.
+
+Przekieruj na numer"</string>
      <string name="messageCFNRy">Przekieruj na numer</string>
      <string name="messageCFU">Zawsze używaj tego numeru</string>
+     <string name="messageCFU_kr_kt">"Usługa sieciowa, która przekierowuje wszystkie przychodzące połączenia i SMS-y na sprecyzowany numer. Aby usługa działała, musisz aktywować jej subskrypcję (opłata co miesiąc). Skontaktuj się ze wsparciem technicznym (114+[Wyślij]), aby rozpocząć bądź zakończyć subskrypcję tej usługi. Wpisz *71+[numer, na który mają być przekierowywane połączenia][Wyślij], aby włączyć lub *710[Wyślij], aby wyłączyć.
+
+Zawsze używaj tego numeru"</string>
+     <string name="messageCW_kr_kt">Darmowa usługa sieciowa, która umożliwia Ci odebranie drugiego połączenia w trakcie obecnie trwającego połączenia, zawieszając je. Aby aktywować tą usługę, wpisz *40+[Wyślij], a żeby ją dezaktywować - *400+[Wyślij].</string>
      <string name="messageCallBarring">Enter password</string>
      <string name="message_decode_error">There was an error while decoding the message.</string>
      <string name="mhh_disable">Placówki medyczne, zakłady opieki zdrowotnej i szpitale wyłączone</string>
@@ -1333,6 +1384,12 @@
      <string name="msim_disable_sim_card_summary_non_default_card">Wykonywanie połączeń lub przesyłanie danych nie będzie możliwe po wyłączeniu karty SIM. Wyłączyć kartę SIM %s?</string>
      <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Don\'t restrict your secondary SIM in emergency callback mode.</string>
      <string name="msim_disable_sim_card_title">Wyłącz kartę SIM</string>
+     <string name="msim_emm_cause_11">"Operator karty SIM %d nie wspiera tej usługi."</string>
+     <string name="msim_emm_cause_14">"Operator karty SIM %d nie wspiera usług danych mobilnych."</string>
+     <string name="msim_emm_cause_2">"Nie udało się zarejestrować numeru telefonu z karty SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="msim_emm_cause_3">"Nie udało się zweryfikować użytkownika karty SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="msim_emm_cause_6">"Nie udało się zweryfikować urządzenia na karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"Nie możesz używać teraz roamingu na karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem istnieje, zadzwoń na infolinię operatora (SKT: +82-2-6346-9000)."</string>
      <string name="msim_enable_sim">Włącz</string>
      <string name="msim_general_setting">Pozostałe</string>
      <string name="msim_has_been_disabled">(Wyłączone)</string>
@@ -1371,6 +1428,8 @@
      <string name="network_2G">2G</string>
      <string name="network_3G">3G</string>
      <string name="network_4G">4G (zalecana)</string>
+     <string name="network_active">Aktywne sieci</string>
+     <string name="network_available">Dostępne sieci</string>
      <string name="network_connected">Connected</string>
      <string name="network_connecting">Connecting...</string>
      <string name="network_could_not_connect">Couldn’t connect</string>
@@ -1406,6 +1465,8 @@ Zostanie wybrana sieć preferowana."</string>
      <string name="network_settings_title">Sieci mobilne</string>
      <string name="network_settings_turn_off">Wyłączona</string>
      <string name="network_settings_warn_message">"Korzystaj z sieci wybranej ręcznie."</string>
+     <string name="network_state_display">Pokaż stan sieci</string>
+     <string name="network_state_display_title">Ustawienia stanu sieci</string>
      <string name="network_type">Network type</string>
      <string name="network_type_2g">2G</string>
      <string name="network_type_3g">3G</string>
@@ -1460,6 +1521,8 @@ Zostanie wybrana sieć preferowana."</string>
      <string name="notification_network_selection_without_operator">Selected network unavailable</string>
      <string name="notification_on_hold">Oczekujące</string>
      <string name="notification_ongoing_call">Trwa połączenie</string>
+     <string name="notification_switch_auto_text">"Wygląda na to, że wróciłeś do kraju. Przełączono na lokalne sieci."</string>
+     <string name="notification_switch_auto_title">Sieci mobilne</string>
      <string name="notification_voicemail_no_vm_number">Nieznany numer poczty głosowej</string>
      <string name="notification_voicemail_text">Select to view voicemails</string>
      <string name="notification_voicemail_text_format">Zadzwoń do %s</string>
@@ -1866,6 +1929,10 @@ Pozostało prób: %d."</string>
      <string name="requesting_sp_unlock">Żądanie odblokowania operatora usługi karty SIM…</string>
      <string name="requesting_unlock">Żądanie odblokowania sieci...</string>
      <string name="reset_my_choice_hint">Możesz zmienić konto używane domyślnie do dzwonienia przez internet na ekranie Telefon &gt; Ustawienia &gt; Dzwonienie przez internet &gt; Konta.</string>
+     <string name="reset_roaming_message">Aby zresetować roaming, Twoje urządzenie zostanie uruchomione ponownie.</string>
+     <string name="reset_roaming_not_support">"Ta karta SIM nie może zainicjować roamingu."</string>
+     <string name="reset_roaming_tip">Resetowanie roamingu…</string>
+     <string name="reset_roaming_title">Zresetuj roaming</string>
      <string name="respond_via_sms_canned_response_1">"Nie mogę rozmawiać. Co słychać?"</string>
      <string name="respond_via_sms_canned_response_2">"Za chwilę oddzwonię."</string>
      <string name="respond_via_sms_canned_response_3">"Zadzwonię później."</string>
@@ -1901,13 +1968,19 @@ Pozostało prób: %d."</string>
      <string name="roaming_alert">Set roaming alerts</string>
      <string name="roaming_alert_title">Zezwolić na roaming danych?</string>
      <string name="roaming_check_price_warning">Check with your network provider for pricing.</string>
+     <string name="roaming_customer_service_message_kr">Dotknij, aby połączyć się ze wsparciem dot. roamingu (+82-2-2190-0901). Połączenie bezpłatne.</string>
+     <string name="roaming_customer_service_summary_kr">Połączenie bezpłatne</string>
+     <string name="roaming_customer_service_title_kr">Wsparcie techniczne dot. roamingu</string>
      <string name="roaming_disable">Połącz z usługami przesyłu danych podczas roamingu</string>
+     <string name="roaming_disable_kr">Ustawienia roamingu danych oraz roamingu międzynarodowego</string>
      <string name="roaming_enable">Połącz z usługami przesyłu danych podczas roamingu</string>
      <string name="roaming_network">You are currently roaming on another carrier\'s network.\10Roaming may be modified and/or turned off in Roaming Settings</string>
      <string name="roaming_notification_content">Możesz dodać kod kraju automatycznie, aby dzwonienie było wygodniejsze.</string>
      <string name="roaming_notification_title">Wygląda na to, że roaming jest włączony</string>
      <string name="roaming_reenable_message">Połączenie transmisji danych zostało utracone, ponieważ opuszczono sieć macierzystą przy wyłączonej opcji danych w roamingu.</string>
      <string name="roaming_settings">Roaming settings</string>
+     <string name="roaming_user_package_summary_kr">"Zakup, anuluj i edytuj swój pakiet roamingowy. Podczas korzystania z tego menu w roamingu nie będą pobierane żadne opłaty."</string>
+     <string name="roaming_user_package_title_kr">Użyj pakietu roamingowego</string>
      <string name="roaming_warning">Czy pozwolić na przesył danych w roamingu? Operator może naliczać wysokie opłaty roamingowe!</string>
      <string name="rsp_unlock_failed">Żądanie odblokowania operatora usługi zakończyło się niepowodzeniem.</string>
      <string name="rsp_unlock_success">Odblokowanie operatora usługi zakończyło się pomyślnie.</string>
@@ -2017,6 +2090,18 @@ Pozostało prób: %d."</string>
      <string name="sim_unlock_failed">Żądanie odblokowania zakończyło się niepowodzeniem.</string>
      <string name="sim_unlock_success">Odblokowanie SIM pomyślne.</string>
      <string name="simulate_color_space">Simulate color space</string>
+     <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Dezaktywuj</string>
+     <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Wybierz kartę SIM do dezaktywacji</string>
+     <string name="single_fiveg_dialog_title_prompt">Uwaga</string>
+     <string name="single_fiveg_dialog_title_remind">Uwaga</string>
+     <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Rozumiem</string>
+     <string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">W celu korzystania z sieci 5G może być aktywowana tylko jedna karta SIM. Wybierz najpierw inny typ sieci dla swojej karty SIM dla danych.</string>
+     <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Zdezaktywuj kartę SIM</string>
+     <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Użyj dwóch kart SIM</string>
+     <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">Używanie sieci 5G wymaga dezaktywacji jednej z kart SIM. Jeśli chcesz dalej korzystać z dwóch kart SIM, wybierz inny typ sieci.</string>
+     <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Uwaga</string>
+     <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">W celu korzystania z sieci 5G może być aktywowana tylko jedna karta SIM. Dotknięcie przycisku \"Aktywuj\" spowoduje dezaktywację innej karty SIM.</string>
+     <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Aktywuj</string>
      <string name="singleContactImportedMsg">Imported contact</string>
      <string name="sip_account_disable">Konto jest nieaktywne. Nie można zaakceptować połączeń.</string>
      <string name="sip_account_list">Konta SIP</string>
@@ -2046,6 +2131,16 @@ Pozostało prób: %d."</string>
      <string name="sip_save_register_error">Nie udało się zarejestrować i zapisać nowego profilu SIP</string>
      <string name="sip_settings">Dzwonienie przez internet</string>
      <string name="sip_system_decide">Automatycznie</string>
+     <string name="skt_emm_cause_12_13_16_17_22">"Nie udało się zarejestrować sieci. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="skt_emm_cause_2">"Nie udało się zarejestrować numeru telefonu. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+     <string name="skt_emm_cause_3">"Nie udało się zweryfikować użytkownika. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+     <string name="skt_emm_cause_6">"Nie udało się zweryfikować urządzenia. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+     <string name="skt_emm_cause_7_8_15">"Nie udało się zarejestrować sieci. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+     <string name="skt_msim_emm_cause_12_13_16_17_22">"Nie udało się zarejestrować sieci w karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie."</string>
+     <string name="skt_msim_emm_cause_2">"Nie udało się zarejestrować numeru telefonu w karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+     <string name="skt_msim_emm_cause_3">"Nie udało się zweryfikować użytkownika w karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+     <string name="skt_msim_emm_cause_6">"Nie udało się zweryfikować urządzenia na karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+     <string name="skt_msim_emm_cause_7_8_15">"Nie udało się zarejestrować sieci w karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
      <string name="slot">Slot</string>
      <string name="smsc_dialog_message">"Upewnij się, że wpisany numer jest prawidłowy. W przeciwnym wypadku nie będziesz w stanie wysyłać i otrzymywać SMS-ów. Skontaktuj się z operatorem, aby potwierdzić swój numer centrum SMS."</string>
      <string name="sp_unlock_failed">Żądanie odblokowania operatora usługi zakończyło się niepowodzeniem.</string>
