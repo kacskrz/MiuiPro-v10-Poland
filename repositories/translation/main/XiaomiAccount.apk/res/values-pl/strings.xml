@@ -603,4 +603,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="find_device_play_sound">Odtwórz dźwięk</string>
   <string name="find_device_set_lost_model">Zagubiony</string>
   <string name="find_device_title">Znajdź urządzenie</string>
+  <string name="password_toggle_content_description">Pokazuj hasło</string>
 </resources>

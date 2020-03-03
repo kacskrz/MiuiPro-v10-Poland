@@ -40,6 +40,11 @@ Jeśli masz problemy z połączeniem, sprawdź zakładkę Pomoc."</string>
     <string name="help_page_text_05">Krok 1: Sprawdź urządzenia i sieć</string>
     <string name="help_page_text_06">"1. Nie musisz łączyć się z Internetem, aby połączyć telefon Xiaomi z telewizorem Mi TV.
 2. Jeśli nie możesz nawiązać połączenia pomiędzy urządzeniami, spróbuj podłączyć je do tej samej sieci Wi-Fi."</string>
+    <string name="help_page_text_06_global">"1. Telewizory Mi TV, Mi Boxy i Projektory Mi:
+Aby osiągnąć najlepsze rezultaty, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi. Jeśli urządzenia są połączone z różnymi sieciami, do odnalezienia i połączenia się z zewnętrznym monitorem może być potrzebne więcej czasu.
+Uwaga: Starsze telewizory Mi TV mogą nie wspierać przesyłania ekranu pomiędzy różnymi sieciami.
+2. Jeśli używasz telewizorów, przystawek lub projektorów innych marek, połącz telefon i zewnętrzny monitor z tą samą siecią Wi-Fi.
+Jeśli urządzenia nie mogą być połączone z tą samą siecią Wi-Fi, włącz funkcję Miracast na zewnętrznym monitorze (nazwa funkcji może się różnić w zależności od modelu)."</string>
     <string name="help_page_text_07">3. Jeśli koło Ciebie nie ma żadnej sieci Wi-Fi bądź telewizor lub telefon nie mogą się połączyć z tą samą siecią, musisz włączyć w telewizorze funkcję [Miracast]. Może ona się różnie nazywać w zależności od marki - możesz przejść na dół tej strony, aby dowiedzieć się więcej.</string>
     <string name="help_page_text_08">Krok 2: Włącz przesyłanie ekranu</string>
     <string name="help_page_text_09">"Dotknij przełącznika \"Wyświetl bezprzewodowo\" w Panelu powiadomień. Włącz Wi-Fi i Bluetooth, aby zapewnić stabilniejsze połączenie."</string>
@@ -87,7 +92,7 @@ Jeśli musisz włączyć Miracast ręcznie, wciśnij przycisk [MENU] na pilocie 
     <string name="help_page_text_40">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz wybrać Apps > Screen Mirroring.</string>
     <string name="help_page_text_41">Wsparcie techniczne Panasonic (tylko Chiny): 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz wybrać System > System Tools > Multiple Screens > Screen Mirroring.</string>
+    <string name="help_page_text_43">Sprawdź ustawienia swojego telewizora, aby upewnić się, że twoje urządzenie wspiera funkcję Miracast.</string>
     <string name="help_page_text_44">Wsparcie techniczne Changhong (tylko Chiny): 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
     <string name="help_page_text_46">Upewnij się, że twoje urządzenie wspiera funkcję Miracast. W niektórych modelach możesz wybrać Apps > Wireless Display.</string>
@@ -103,6 +108,7 @@ Jeśli musisz włączyć Miracast ręcznie, wciśnij przycisk [MENU] na pilocie 
     <string name="help_page_text_55_global">"Jeśli nie możesz połączyć się z siecią, upewnij się, że urządzenie docelowe wspiera funkcję Miracast. Nazwy tej funkcji zależą od marki urządzenia.
 4. W razie jakichkolwiek problemów możesz zgłosić nam swoje spostrzeżenia i propozycje poprzez aplikację \"Usługi i opinie\"."</string>
     <string name="help_page_text_end">"Jeśli Twoja marka nie jest tu wymieniona, skontaktuj się z producentem, aby dowiedzieć się więcej."</string>
+    <string name="nfc_connect_failed_toast">"Nie udało się przesłać ekranu. Spróbuj ponownie."</string>
     <string name="notification_rc_desc">Najlepszy asystent do wyświetlania zdjęć, filmów i aplikacji na Mi Boxie (lub TV) - spróbuj teraz!</string>
     <string name="notification_rc_title">Asystent TV od Xiaomi</string>
     <string name="notification_show_more">Dotknij, aby zobaczyć więcej funkcji</string>
@@ -122,6 +128,7 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="san_wait_msg_4">"Jeśli nie możesz odnaleźć urządzeń, zobacz \"Pomoc\""</string>
     <string name="service_name">Ekran bezprzewodowy</string>
     <string name="small_window">Zminimalizuj okno</string>
+    <string name="small_window_not_supported">"Nie można zminimalizować aplikacji w trakcie przesyłania jej ekranu"</string>
     <string name="status_bar_in_casting">Wyświetlanie…</string>
     <string name="status_bar_in_casting_long">Kliknij, aby zobaczyć więcej opcji</string>
     <string name="tile_label">Wyświetl bezprzewodowo</string>

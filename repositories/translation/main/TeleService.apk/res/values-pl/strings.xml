@@ -1908,7 +1908,7 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
   <string name="report_method_entries_item2">Zawsze</string>
   <string name="report_method_entries_item3">Wyłącz</string>
   <string name="data_disable_warning_no_mms">"Wciąż będzie można wysyłać i odbierać MMS-y po wyłączeniu danych mobilnych. Aby używać Internetu, połącz się z siecią Wi-Fi."</string>
-  <string name="data_disable_warning_with_mms">"Wciąż będzie można wysyłać i odbierać MMS-y po wyłączeniu danych mobilnych. Aby używać Internetu, połącz się z siecią Wi-Fi."</string>
+  <string name="data_disable_warning_with_mms">"Nie będziesz mógł wysyłać i odbierać MMS-ów po wyłączeniu danych mobilnych. Będzie to jednak możliwe, gdy Twoje urządzenie będzie połączone z siecią Wi-Fi."</string>
   <string name="data_disable_warning_with_mms_lgu">"Wciąż będzie można wysyłać i odbierać MMS-y po wyłączeniu danych mobilnych. Aby używać Internetu, połącz się z siecią Wi-Fi.
 
 Czy na pewno chcesz wyłączyć dane mobilne?"</string>

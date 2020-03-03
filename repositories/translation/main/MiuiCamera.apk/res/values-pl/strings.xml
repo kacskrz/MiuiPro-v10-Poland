@@ -1053,11 +1053,11 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="document_mode_use_hint_text_body">"Automatycznie ustaw
 i dopasuj skanowane dokumenty"</string>
   <string name="document_mode_use_hint_text_title">Skanuj dokumenty</string>
-  <string name="mimoji_create_emoticon">Generuj emotikony jednym dotknięciem</string>
-  <string name="mimoji_gif_accelerate">Przyspiesz</string>
-  <string name="mimoji_gif_clear_bg">Zmień tło</string>
-  <string name="mimoji_gif_edit_hint">Kliknij, aby dodać tekst</string>
-  <string name="mimoji_gif_edit_title">Edycja GIF-ów</string>
+  <string name="mimoji_create_emoticon">Utwórz paczkę naklejek</string>
+  <string name="mimoji_gif_accelerate">Prędkość</string>
+  <string name="mimoji_gif_clear_bg">Usuń tło</string>
+  <string name="mimoji_gif_edit_hint">Dotknij, aby dodać tekst</string>
+  <string name="mimoji_gif_edit_title">Edytuj GIF-y</string>
   <string name="mimoji_gif_reverse">Cofnij</string>
   <string name="mimoji_save_finish">Gotowe</string>
   <string name="preview_back_pressed_hint">Dotknij ponownie, aby wrócić do podglądu</string>
@@ -1071,14 +1071,22 @@ i dopasuj skanowane dokumenty"</string>
   <string name="super_night_se_tip">Tryb nocny</string>
   <string name="pro_color_mode">Kolor Pro</string>
   <string name="background">Tło</string>
-  <string name="mimoji_create_emoticon_error">Nie udało się wygenerować emotikon</string>
-  <string name="mimoji_create_emoticon_progress">Generowanie emotikon</string>
-  <string name="mimoji_emoticon_save">Zapisz emoji</string>
-  <string name="mimoji_emoticon_with_jpeg_save">Zapisz także jako obraz</string>
-  <string name="mimoji_select_number_error">Wybierz co najmniej jedną twarz</string>
-  <string name="timbre">Zmiana głosu</string>
+  <string name="mimoji_create_emoticon_error">Nie udało się utworzyć paczki naklejek</string>
+  <string name="mimoji_create_emoticon_progress">Tworzenie paczki naklejek…</string>
+  <string name="mimoji_emoticon_save">Zapisz paczkę naklejek</string>
+  <string name="mimoji_emoticon_with_jpeg_save">Zapisz także obrazy</string>
+  <string name="mimoji_select_number_error">Wybierz co najmniej 1 element</string>
+  <string name="timbre">Głos</string>
   <string name="unknow_error">Nieznany błąd</string>
   <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24 kl./s</string>
   <string name="mimoji_gif_record_time_short">Nagrany film jest za krótki</string>
   <string name="only_mimoji_multi_window_mode_not_supported">"Ta funkcja nie może być używana w trybie dzielonego ekranu"</string>
+  <string name="emoticon">Paczka naklejek</string>
+  <string name="share">Wyślij</string>
+  <string name="timbre_baby">Dziecko</string>
+  <string name="timbre_gentlemen">Pan</string>
+  <string name="timbre_girl">Dziewczyna</string>
+  <string name="timbre_lady">Lady</string>
+  <string name="timbre_normal">Normalny</string>
+  <string name="timbre_robot">Robot</string>
 </resources>
