@@ -148,7 +148,7 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
     <string name="install_app_to_another_phone_content">Zainstaluj Przenoszenie danych na nowym urządzeniu</string>
     <string name="install_new_app_link_text">Aby móc się połączyć z nowym urządzeniem, zainstaluj na nim Przenoszenie danych. Dotknij, aby zainstalować.</string>
     <string name="instruction">Instrukcje bezpieczeństwa</string>
-    <string name="lack_perm_msg">Przenoszenie danych wymaga następujących uprawnień: &lt;b>%s&lt;/b>.</string>
+    <string name="lack_perm_msg">Przenoszenie danych wymaga do poprawnego działania następujących uprawnień: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Wymagane uprawnienia</string>
     <string name="launcher">Układ pulpitu</string>
     <string name="less_than_1_minute">Mniej niż minutę</string>
@@ -277,14 +277,14 @@ Xiaomi będzie chronić Twoje dane w zgodzie z odpowiednimi przepisami i polityk
     <string name="other_user_data">Dane aplikacji firm trzecich</string>
     <string name="password">Wprowadź hasło</string>
     <string name="password_null">"Hasło nie może być puste"</string>
-    <string name="perm_location">Lokalizacja</string>
+    <string name="perm_location">Dostęp do lokalizacji</string>
     <string name="perm_package_stats">Dostęp do statystyk użytkowania aplikacji</string>
     <string name="perm_payment_dspt">Zezwól aplikacji na płatności przy użyciu Mi Pay</string>
     <string name="perm_read_call_log">Dostęp do historii połączeń</string>
     <string name="perm_read_contacts">Dostęp do kontaktów</string>
     <string name="perm_read_phone_state">Dostęp do stanu telefonu</string>
     <string name="perm_read_sms">Dostęp do wiadomości</string>
-    <string name="perm_storage">Odczyt i zapis w pamięci zewnętrznej</string>
+    <string name="perm_storage">Odczyt i zapis elementów w pamięci</string>
     <string name="permission_alert_message_usage_access">Przenoszenie danych wymaga dostępu do statystyk użytkowania aplikacji. Nadaj aplikacji wymagane uprawnienia w Ustawieniach.</string>
     <string name="permission_alert_title">Wymagane uprawnienia</string>
     <string name="phone">Telefon</string>
@@ -526,4 +526,27 @@ Dane, które nie zostały zaimportowane, muszą zostać zaimportowane ponownie."
     <string name="wechat_and_qq_app_send_fail">"Nie udało się wysłać WeChat oraz QQ"</string>
     <string name="wechat_app_receive_fail">"Nie udało się otrzymać aplikacji WeChat"</string>
     <string name="wechat_app_send_fail">"Nie udało się wysłać aplikacji WeChat"</string>
+    <string name="dialog_request_permission_message">"Witaj w Przenoszeniu danych! Możesz użyć tej aplikacji do przenoszenia danych ze swojego starego urządzenia bądź chmury iCloud na nowe urządzenie.
+Xiaomi będzie chronić Twoje osobiste dane w zgodzie z odpowiednimi przepisami i politykami prywatności.
+Pamiętaj, że do poprawnego działania ta aplikacja wymaga łączenia się z Internetem, możliwości włączania i wyłączania sieci Wi-Fi oraz Bluetooth oraz następujących uprawnień:"</string>
+    <string name="dialog_request_permission_message_extra">"Jeśli nie zgodzisz się na nadanie tychże uprawnień, nie będziesz mógł korzystać z tej aplikacji. Możesz odinstalować aplikację bądź się z niej wylogować w każdym momencie."</string>
+    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Przed skorzystaniem z tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href='%1s'>Umowy użytkownika&lt;/a> oraz &lt;a href='%2s'>Polityki prywatności&lt;/a> Xiaomi."</Data></string>
+    <string name="perm_write_settings">Zmiana ustawień systemu</string>
+    <string name="permission_calender_summary">W celu przenoszenia wydarzeń ze starego urządzenia na nowe </string>
+    <string name="permission_calender_title">Dostęp do kalendarza</string>
+    <string name="permission_call_log_summary">W celu przenoszenia historii połączeń ze starego urządzenia na nowe</string>
+    <string name="permission_call_log_title">Dostęp do historii połączeń</string>
+    <string name="permission_contacts_summary">W celu przenoszenia kontaktów ze starego urządzenia na nowe</string>
+    <string name="permission_contacts_title">Dostęp do kontaktów</string>
+    <string name="permission_locale_summary">W celu łączenia się z sieciami Wi-Fi w pobliżu</string>
+    <string name="permission_locale_title">Dostęp do lokalizacji</string>
+    <string name="permission_message_summary">W celu przenoszenia wiadomości ze starego urządzenia na nowe</string>
+    <string name="permission_message_title">Odczytywanie SMS-ów</string>
+    <string name="permission_phone_summary">W celu rozpoznawania urządzeń za pomocą Android ID i wykrywania problemów z kompatybilnością</string>
+    <string name="permission_phone_title">Dostęp do informacji o urządzeniu</string>
+    <string name="permission_read_storage_summary">W celu sprawdzania ilości dostępnego miejsca na urządzeniu i obliczania rozmiaru plików</string>
+    <string name="permission_read_storage_title">Dostęp do pamięci</string>
+    <string name="permission_write_storage_summary">W celu przenoszenia plików ze starego urządzenia na nowe</string>
+    <string name="permission_write_storage_title">Zapisywanie elementów w pamięci</string>
+    <string name="title_request_write_settings_perm">Wymagane uprawnienie do zmiany ustawień systemu</string>
 </resources>
