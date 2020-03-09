@@ -475,4 +475,5 @@ kontroluj zainstalowane aplikacje i ogranicz użytkowanie"</string>
   <string name="greenguard_install_confirm">Zainstaluj</string>
   <string name="greenguard_install_message">"Kontrola rodzicielska jest aplikacją systemową. Do jej instalacji nie potrzebujesz połączenia z Internetem."</string>
   <string name="greenguard_install_title">Zainstaluj Kontrolę rodzicielską</string>
+  <string name="master_clear_not_available_ep">"Nie możesz wykonywać obecnie resetu do ustawień fabrycznych bądź odwoływać autoryzacji. Skontaktuj się ze swoim przełożonym."</string>
 </resources>

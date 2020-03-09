@@ -69,7 +69,7 @@
   <string name="dialog_file_missing_title">Nie można otworzyć pliku</string>
   <string name="dialog_insufficient_space_on_cache">Nie można ukończyć pobierania. Brak miejsca w pamięci telefonu.</string>
   <string name="dialog_insufficient_space_on_external">Nie można ukończyć pobierania. Brak miejsca na nośniku zewnętrznym.</string>
-  <string name="dialog_media_not_found">Podłącz nośnik zewnętrzną, aby pobrać.</string>
+  <string name="dialog_media_not_found">Podłącz zewnętrzną pamięć, aby pobrać.</string>
   <string name="dialog_msg_disabled_net">%1$s ograniczył pobieranie dla aktualnej sieci. Dotknij Ustawień sieci, aby przejść do Panelu sterowania.</string>
   <string name="dialog_msg_recommend">"Po wyłączeniu nie będziesz mógł wyświetlić polecanych źródeł. Możesz wybrać opcję \"Ładuj treść wyłącznie poprzez Wi-Fi\", aby zachować dane mobilne."</string>
   <string name="dialog_queued_body">Plik został dodany do kolejki i zostanie wkrótce pobrany.</string>

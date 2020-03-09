@@ -32,6 +32,7 @@
     <string name="create_shortcut">Skrót na pulpicie</string>
     <string name="created">Utworzono</string>
     <string name="created_successfully">Pomyślnie utworzono skrót</string>
+    <string name="cu_confirm">Ustaw</string>
     <string name="display_description">Większe ikony i tekst, mniej bałaganu</string>
     <string name="display_title">Większe elementy</string>
     <string name="exit_easymode">Wyłącz tryb Lite</string>
@@ -81,6 +82,10 @@
     <string name="sms_received_sound_title">Nowa wiadomość</string>
     <string name="srgb_color_region_summary">Wyświetlaj treści na ekranie w palecie barw sRGB</string>
     <string name="start_easymode">Włącz tryb Lite</string>
+    <string name="steady_on_screen_notification_title">Odłóż telefon i zrób sobie przerwę</string>
+    <string name="steady_on_screen_notify">Powiadamiaj o nieprzerwanym korzystaniu z urządzenia</string>
+    <string name="steady_on_screen_setting">Limit czasu dla nieprzerwanych sesji</string>
+    <string name="steady_on_screen_summary">Limit czasu dla nieprzerwanych sesji</string>
     <string name="stop_app_timer">Wyłącz funkcję Czas przed ekranem</string>
     <string name="stop_app_timer_fail">Nie udało się wyłączyć tej funkcji</string>
     <string name="stop_app_timer_success">Funkcja Czas przed ekranem została pomyślnie wyłączona.</string>
@@ -89,6 +94,7 @@
     <string name="suggestion">Opinie</string>
     <string name="thememanager_not_found">"Nie udało się otworzyć Motywów. Upewnij się, że są one zainstalowane na tym urządzeniu."</string>
     <string name="title_activity_easy_mode">Tryb Lite</string>
+    <string name="to_authorize">Nadaj uprawnienia</string>
     <string name="today_usage_title">Dziś</string>
     <string name="today_use_time">Czas na ekranie: %1$s</string>
     <string name="touch_description">Zoptymalizowane przyciski i skróty pomogą uniknąć przypadkowych dotknięć ekranu</string>
