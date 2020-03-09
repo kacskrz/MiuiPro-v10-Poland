@@ -120,6 +120,8 @@ dd.MM."</string>
     <string name="select_notification_notify_style">Wybierz efekt powiadomienia</string>
     <string name="show_battery">Pokazuj stan baterii</string>
     <string name="show_battery_status">Pokazuj stan baterii</string>
+    <string name="show_lunar">Pokaż chiński kalendarz</string>
+    <string name="show_lunar_desc">Funkcja nie działa z włączonym Podwójnym zegarem</string>
     <string name="show_notification">Pokazuj powiadomienia</string>
     <string name="show_notificaton">Pokazuj powiadomienia</string>
 	<string name="shownone_arround_image">Nigdzie</string>
