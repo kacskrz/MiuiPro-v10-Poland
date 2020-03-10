@@ -81,7 +81,7 @@
     <string name="passport_quick_login_dialog_step2_title">Weryfikacja dwuetapowa</string>
     <string name="passport_delete_account">Wyloguj</string>
     <string name="passport_vcode_notification_title">Weryfikacja nie została ukończona</string>
-    <string name="passport_account_name">Konto: %1$s</string>
+    <string name="passport_account_name">"Konto: %1$s "</string>
     <string name="passport_account_hint_text">E-mail/Numer telefonu/ID konta Xiaomi</string>
     <string name="passport_email_or_id_hint_text">Email/Mi Account ID</string>
     <string name="passport_phone_num_hint_text">Numer telefonu</string>
@@ -604,4 +604,6 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="find_device_set_lost_model">Zagubiony</string>
   <string name="find_device_title">Znajdź urządzenie</string>
   <string name="password_toggle_content_description">Pokazuj hasło</string>
+  <string name="character_counter_content_description">Przekroczono limit znaków: %1$d z %2$d</string>
+  <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
 </resources>

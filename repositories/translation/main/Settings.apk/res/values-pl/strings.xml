@@ -6369,10 +6369,10 @@ opóźnienie"</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Kodek dźwięku Bluetooth LHDC: jakość odtwarzania</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Wybierz kodek dźwięku Bluetooth LHDC:
 jakość odtwarzania"</string>
-  <string name="bt_lhdc_declaration">Jeśli Bluetooth wspiera standard LHDC, to zostanie on domyślnie włączony. Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
-  <string name="bt_lhdc_dialog_summary">"Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Ta funkcja może być wyłączona w Ustawieniach."</string>
+  <string name="bt_lhdc_declaration">Jeśli Bluetooth wspiera standard LHDC, to zostanie on domyślnie włączony. Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki, a także zmniejsza opóźnienie w grach kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
+  <string name="bt_lhdc_dialog_summary">"Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki, a także zmniejsza opóźnienie w grach kosztem większego poboru energii. Ta funkcja może być wyłączona w Ustawieniach."</string>
   <string name="bt_lhdc_dialog_title">Tu urządzenie wspiera Bluetooth LHDC i zostało domyślnie włączone:</string>
-  <string name="bt_lhdc_open_dialog_summary">Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
+  <string name="bt_lhdc_open_dialog_summary">Przetwornik LHDC dostarcza wysokiej jakości muzykę i dźwięki, a także zmniejsza opóźnienie w grach kosztem większego poboru energii. Mogą też wystąpić problemy z jakością dźwięku związane z ograniczeniami standardu Bluetooth.</string>
   <string name="bt_lhdc_open_dialog_title">Włączyć LHDC?</string>
   <string name="bt_lhdc_pre_title">LHDC</string>
   <string name="bt_lhdc_property">Parametry</string>
@@ -6659,4 +6659,22 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="bluetooth_mi_fast_connect_summary">Łącz się z urządzeniami Bluetooth w pobliżu</string>
   <string name="easymode_hint">Dotknij, aby wyłączyć tryb Lite</string>
   <string name="oldman_mode_settings">Tryb Lite</string>
+  <string name="input_method_clipboard_settings">Ustawienia schowka</string>
+  <string name="input_method_cloud_data_title">Schowek w Chmurze</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">"Kiedy w schowku w Chmurze pojawi się nowa zawartość, zobaczysz dymek. Dotknij go, aby wkleić skopiowany tekst."</string>
+  <string name="input_method_cloud_paste_mode_bubble_title">Dymek</string>
+  <string name="input_method_cloud_paste_mode_no_des">"Nie będziesz otrzymywać powiadomień, gdy w schowku w Chmurze pojawi się nowa zawartość. Wciąż będziesz w stanie go użyć, dotykając ikony."</string>
+  <string name="input_method_cloud_paste_mode_no_title">Brak</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">"Kiedy w schowku w Chmurze pojawi się nowa zawartość, na dole klawiatury pojawi się czerwona kropka. Dotknij ikony, aby otworzyć schowek i wkleić skopiowane elementy."</string>
+  <string name="input_method_cloud_paste_mode_red_point_title">Kropka</string>
+  <string name="input_method_quick_access">Szybki dostęp</string>
+  <string name="input_method_quick_cloud_mode_title">Powiadomienia o nowej treści w schowku</string>
+  <string name="input_method_quick_cloud_summary">Kopiuj elementy na kompatybilnych komputerach i wklejaj je na swoim urządzeniu</string>
+  <string name="input_method_quick_cloud_title">Schowek w Chmurze</string>
+  <string name="input_method_quick_paste_summary">Zobacz skopiowane elementy, dotykając ikony schowka</string>
+  <string name="input_method_quick_paste_title">Szybkie wklejanie</string>
+  <string name="input_method_quick_taobao_summary">Otwórz skopiowane linki Taobao, dotykając ikony schowka</string>
+  <string name="input_method_quick_taobao_title">Linki Taobao</string>
+  <string name="input_method_quick_url_summary">Otwórz skopiowane linki, dotykając ikony schowka</string>
+  <string name="input_method_quick_url_title">Strony WWW</string>
 </resources>

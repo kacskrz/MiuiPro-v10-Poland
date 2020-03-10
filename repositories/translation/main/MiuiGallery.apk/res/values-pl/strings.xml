@@ -2007,4 +2007,7 @@ aby spersonalizować Galerię"</string>
   <string name="filter_sky_dynamic_snow">Śnieg</string>
   <string name="filter_sky_dynamic_stop_saving">Dotknij ponownie, aby anulować zapisywanie</string>
   <string name="filter_sky_dynamic_unavailable">"Nie można zastosować tego filtra do obrazka"</string>
+  <string name="drag_view_tip_sub_title">Dotknij i przytrzymaj album, aby zmienić jego położenie</string>
+  <string name="drag_view_tip_title">Zmień położenie albumu</string>
+  <string name="vlog_clip_cut_fail_min_time">Klip musi trwać co najmniej %1$s sekund</string>
 </resources>

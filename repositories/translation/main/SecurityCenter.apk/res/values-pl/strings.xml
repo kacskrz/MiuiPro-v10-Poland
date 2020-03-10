@@ -1767,9 +1767,9 @@
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Brak elementów</string>
   <string name="sp_settings_group_title_check_item">Wiele elementów</string>
-  <string name="sp_settings_info_input_method">Użyj systemowej metody wprowadzania tekstu w aplikacjach płatności</string>
+  <string name="sp_settings_info_input_method">Testuj klawiatury pod względem bezpieczeństwa w trakcie płatności</string>
   <string name="sp_settings_info_monitor">Monitoruj środowisko systemowe, gdy uruchomiona zostaje aplikacja płatności</string>
-  <string name="sp_settings_title_input_method">Bezpieczny IME</string>
+  <string name="sp_settings_title_input_method">Testuj klawiatury pod względem bezpieczeństwa</string>
   <string name="sp_toast_removed_from_sign_white_list">Usunięto z wyjątków. Element zostanie przeskanowany następnym razem.</string>
   <string name="special_number_group">Blokuj zgłoszone numery</string>
   <string name="sponsored_sec_fb">Sponsorowane</string>
@@ -2237,7 +2237,7 @@
   <string name="wifi_item_title_arp_attack">Ataki ARP</string>
   <string name="wifi_item_title_connection">Połączenie Wi-Fi</string>
   <string name="wifi_item_title_dns">Bezpieczeństwo serwera DNS</string>
-  <string name="wifi_item_title_encryption">Szyfrowanie Wi-Fi</string>
+  <string name="wifi_item_title_encryption">Sieć Wi-Fi nie jest zaszyfrowana</string>
   <string name="wifi_item_title_fake">Wykryj fałszywe Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Brak połączenia z siecią</string>
   <string name="wifi_optizition_loading">Włączanie przyspieszenia prędkości sieci Xunyou…</string>
@@ -3098,4 +3098,9 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="google_base_app_timeout">Przekroczono czas trwania sesji. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="google_base_app_title">Instalacja usług Google</string>
   <string name="google_base_app_toast">Framework usług Google jest obecnie instalowany w tle. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
+  <string name="button_text_trust">Ufaj tej sieci</string>
+  <string name="sp_background_risk_dialog_summary_new">Obecne środowisko płatności może powodować zagrożenia pod względem bezpieczeństwa. Poświęć chwilę, aby rozwiązać istniejące problemy.</string>
+  <string name="wifi_danger_dialog_messgae">Obecna sieć Wi-Fi może powodować zagrożenia pod względem bezpieczeństwa. Używaj jej z rozwagą.</string>
+  <string name="wifi_danger_dialog_tips">Możesz zarządzać bezpieczeństwem sieci Wi-Fi w Panelu sterowania > Bezpieczeństwo > Ustawienia > Wi-Fi.</string>
+  <string name="wifi_danger_dialog_title">"Sieć Wi-Fi nie jest bezpieczna"</string>
 </resources>

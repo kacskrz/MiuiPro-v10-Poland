@@ -274,4 +274,18 @@
   <string name="handset_title_usb_handset_insert">Odtwarzanie dźwięku przez USB</string>
   <string name="miaudiovisual_notification_summary">Włącz, aby pokazywać efekty na ekranie blokady</string>
   <string name="miaudiovisual_notification_title">Efekty dźwiękowe i wizualne</string>
+  <string name="input_method_clipboard_check_more_add_to_phrase">Dodaj częsty zwrot</string>
+  <string name="input_method_clipboard_check_more_copy">Kopiuj</string>
+  <string name="input_method_clipboard_check_more_delete">Usuń</string>
+  <string name="input_method_clipboard_checkbox_cancle">Anuluj</string>
+  <string name="input_method_clipboard_checkbox_confirm">Usuń</string>
+  <string name="input_method_clipboard_clear_all_button">Usuń</string>
+  <string name="input_method_clipboard_clear_all_phrase_des">Usunąć wszystkie elementy z schowka?</string>
+  <string name="input_method_clipboard_clear_all_phrase_title">Czyszczenie schowka</string>
+  <string name="input_method_clipboard_copy_success">Pomyślnie skopiowano</string>
+  <string name="input_method_clipboard_delete_success">Pomyślnie usunięto</string>
+  <string name="input_method_clipboard_participle">Rozdziel słowa</string>
+  <string name="input_method_clipboard_settings_button">Ustawienia</string>
+  <string name="input_method_phrase_edit">Edytuj</string>
+  <string name="input_method_phrase_top">Przypnij</string>
 </resources>
