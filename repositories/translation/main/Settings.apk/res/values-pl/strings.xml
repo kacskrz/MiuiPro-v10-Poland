@@ -6677,4 +6677,5 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="input_method_quick_taobao_title">Linki Taobao</string>
   <string name="input_method_quick_url_summary">Otwórz skopiowane linki, dotykając ikony schowka</string>
   <string name="input_method_quick_url_title">Strony WWW</string>
+  <string name="aggregate_title">Reguły dla zgrupowanych powiadomień</string>
 </resources>

@@ -1368,4 +1368,14 @@
         <item>Zwiększony</item>
         <item>Standardowy</item>
     </string-array>
+    <string-array name="aggregate_entries">
+        <item>Rekomendowane</item>
+        <item>Ważne</item>
+        <item>Nieważne</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI zdecyduje, które powiadomienia wyświetlą się bezpośrednio</item>
+        <item>Powiadomienia będą się pojawiać w Panelu powiadomień</item>
+        <item>Powiadomienia będą się pojawiać w oddzielnym folderze</item>
+    </string-array>
 </resources>
