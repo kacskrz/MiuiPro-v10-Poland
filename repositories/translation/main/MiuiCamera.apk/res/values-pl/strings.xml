@@ -1075,7 +1075,7 @@ i dopasuj skanowane dokumenty"</string>
   <string name="mimoji_create_emoticon_progress">Tworzenie paczki naklejek…</string>
   <string name="mimoji_emoticon_save">Zapisz paczkę naklejek</string>
   <string name="mimoji_emoticon_with_jpeg_save">Zapisz także obrazy</string>
-  <string name="mimoji_select_number_error">Wybierz co najmniej 1 element</string>
+  <string name="mimoji_select_number_error">Wybierz co najmniej %d element</string>
   <string name="timbre">Głos</string>
   <string name="unknow_error">Nieznany błąd</string>
   <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24 kl./s</string>
