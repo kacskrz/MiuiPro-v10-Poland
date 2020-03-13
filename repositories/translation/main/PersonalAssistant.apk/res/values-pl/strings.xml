@@ -1146,4 +1146,15 @@
   <string name="miot_nearby_device">Połączone urządzenia w pobliżu</string>
   <string name="miot_not_warn">Zignoruj to ostrzeżenie</string>
   <string name="card_expand_note_toast_share_null">Notatka jest pusta</string>
+  <string name="access_deselect">Odznaczone %s</string>
+  <string name="access_deselected">Odznaczone %s</string>
+  <string name="access_selected">Wybrane %s</string>
+  <string name="app_version_name">"Wersja Asystenta MIUI: "</string>
+  <string name="debug_card_brief">Ustawienia i narzędzia do debugowania</string>
+  <string name="debug_card_detail">Ustawienia i narzędzia do debugowania</string>
+  <string name="debug_card_title">Debugowanie</string>
+  <string name="miot_device_closed">Urządzenie wył.</string>
+  <string name="miot_device_disabled">"Nie można kontrolować teraz tego urządzenia"</string>
+  <string name="miot_device_opening">Urządzenie wł.</string>
+  <string name="trip_required_info">Wymagane</string>
 </resources>
