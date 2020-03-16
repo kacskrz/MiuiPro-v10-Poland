@@ -1098,4 +1098,6 @@ i dopasuj skanowane dokumenty"</string>
   <string name="pref_camera_eis_title">EIS</string>
   <string name="super_eis_pro">Stabilizacja wideo (Pro)</string>
   <string name="super_eis_pro_disabled_hint">Stabilizacja wideo (Pro) jest wyłączona</string>
+  <string name="speech_shutter_open_tip">Powiedz \"拍照\" albo \"茄子\", aby wykonać zdjęcie</string>
+  <string name="speech_shutter_tip">Zrób zdjęcie głosem</string>
 </resources>
