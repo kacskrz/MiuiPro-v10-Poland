@@ -222,4 +222,6 @@
   <string name="folder_blur_title">Efekt rozmycia w folderach</string>
   <string name="volbtn_toggle_summary">Przełączaj utwory, gdy ekran jest wyłączony</string>
   <string name="set_in_aod_summary">Przełączaj utwory, gdy włączony jest tryb Ekran zawsze włączony</string>
+  <string name="battery_meter_legacy_title">Ikona baterii</string>
+  <string name="network_speed_splitter_title">Odstęp między godziną a prędkością sieci</string>
 </resources>

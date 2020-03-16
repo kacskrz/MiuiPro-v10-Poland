@@ -205,4 +205,12 @@
         <item>Domyślna</item> 
         <item>Przeglądarka</item> 
   </string-array>
+<string-array name="network_speed_splitter_entries"> 
+        <item>"Nie wyświetlaj"</item> 
+        <item>Domyślny</item> 
+    </string-array>
+    <string-array name="battery_meter_legacy_entries"> 
+        <item>Prostokątna</item> 
+        <item>Okrągła</item> 
+    </string-array>
 </resources>

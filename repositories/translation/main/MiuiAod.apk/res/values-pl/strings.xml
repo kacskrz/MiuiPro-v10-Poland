@@ -16,7 +16,7 @@
 	<string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
 	<string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
 	<string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="above_image">Na górze</string>
     <string name="accessibility_battery_level">Bateria %d procent.</string>
     <string name="accessibility_battery_level_charging">Ładowanie baterii, %d procent.</string>
