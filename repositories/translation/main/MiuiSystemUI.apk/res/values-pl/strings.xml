@@ -1874,4 +1874,6 @@ długi zrzut ekranu"</string>
   <string name="wireless_charging_tips_message">Umieść urządzenia wspierające standard Qi (telefony, akcesoria itd.) z tyłu urządzenia.</string>
   <string name="wireless_charging_tips_title">Bezprzewodowe ładowanie zwrotne</string>
   <string name="screenshot_failed_in_landscape_mode">"Nie można wykonać przewijanych zrzutów ekranu w trybie horyzontalnym"</string>
+  <string name="slider_second_tip_text">Przesuń ekran w dół, aby włączyć Aparat</string>
+  <string name="slider_text">Przesuń ekran w dół, aby włączyć Aparat</string>
 </resources>
