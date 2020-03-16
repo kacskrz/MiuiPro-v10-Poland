@@ -124,7 +124,7 @@
     <string name="grant_dialog_button_allow_foreground">Zezwól tylko, gdy korzystam z aplikacji</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Odmów i nie pytaj ponownie</string>
     <string name="grant_dialog_button_deny_background">Tylko w trakcie korzystania</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Odmów i nie pytaj ponownie</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Zezwól tylko, gdy korzystam z aplikacji i nie pytaj ponownie</string>
     <string name="permgroupdesc_calendar">Dostęp do wydarzeń z kalendarza</string>
     <string name="permgroupdesc_calllog">Dostęp i zapis elementów w historii połączeń</string>
     <string name="permgroupdesc_camera">Wykonywanie zdjęć i nagrywanie wideo</string>

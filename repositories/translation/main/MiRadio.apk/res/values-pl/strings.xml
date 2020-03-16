@@ -334,4 +334,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="miui_fm_description">Internetowe stacje radiowe</string>
   <string name="online_setting_message">Włącz usługi online, aby móc słuchać więcej treści</string>
   <string name="online_setting_title">Słuchaj więcej stacji</string>
+  <string name="pause_play">Wstrzymaj odtwarzanie</string>
 </resources>

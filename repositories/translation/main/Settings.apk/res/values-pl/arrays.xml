@@ -1346,14 +1346,12 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
         <item>Optymalizacja pod kątem małego opóźnienia</item>
-        <item>Optymalizacja pod kątem małego opóźnienia</item>
         <item>Optymalizacja pod kątem jakości połączenia</item>
         <item>Zrównoważona jakość dźwięku i połączenia</item>
         <item>Optymalizacja pod kątem jakości dźwięku</item>
         <item>Optymalna (autom. szybkość transmisji bitów)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Optymalizacja pod kątem małego opóźnienia (192 kb/s)</item>
         <item>Optymalizacja pod kątem małego opóźnienia (256 kb/s)</item>
         <item>Optymalizacja pod kątem jakości połączenia (400 kb/s)</item>
         <item>Zrównoważona jakość dźwięku i połączenia (500 lub 560 kb/s)</item>
