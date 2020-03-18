@@ -3014,8 +3014,8 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="app_behavior_calllog_single">Ta aplikacja uzyskała dostęp do historii połączeń</string>
   <string name="app_behavior_callphone">Aplikacja %1s wykonała połączenie</string>
   <string name="app_behavior_callphone_single">Ta aplikacja wykonała połączenie</string>
-  <string name="app_behavior_camera">Aplikacja %1s wykonała zdjęcie bądź nagrała film</string>
-  <string name="app_behavior_camera_single">Ta aplikacja wykonała zdjęcie bądź nagrała film</string>
+  <string name="app_behavior_camera">Aplikacja %1s korzystała z Aparatu</string>
+  <string name="app_behavior_camera_single">Ta aplikacja korzystała z Aparatu</string>
   <string name="app_behavior_clipboard">Aplikacja %1s uzyskała dostęp do schowka bądź skopiowała do niego elementy</string>
   <string name="app_behavior_clipboard_bg">Aplikacja %1s uzyskała dostęp do schowka bądź skopiowała do niego elementy w tle</string>
   <string name="app_behavior_clipboard_bg_single">Ta aplikacja uzyskała dostęp do schowka bądź skopiowała do niego elementy w tle</string>
