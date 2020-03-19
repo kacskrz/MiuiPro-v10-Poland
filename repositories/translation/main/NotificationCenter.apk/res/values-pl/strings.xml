@@ -26,7 +26,7 @@
     <string name="character_counter_content_description">Wprowadzono %1$d z %2$d znaków</string>
     <string name="character_counter_overflowed_content_description">Limit znaków przekroczył %1$d z %2$d</string>
     <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
-    <string name="confirm">Potwierdź</string>
+    <string name="confirm">OK</string>
     <string name="default_list_type">Sortuj wg czasu otrzymania</string>
     <string name="disable_float_notification">Pływające powiadomienia są wyłączone</string>
     <string name="disable_lockscreen_notification">Powiadomienia na ekranie blokady są wyłączone</string>
@@ -39,10 +39,10 @@
     <string name="expandable_under_keyguard">Otwórz panel powiadomień na ekranie blokady</string>
     <string name="exposed_dropdown_menu_content_description">Pokaż rozwijane menu</string>
     <string name="feedback">Opinie</string>
-    <string name="feedback_tip_cancel">Dane dotyczące Twoich powiadomień nie będą gromadzone</string>
-    <string name="feedback_tip_msg">Aby poprawić dokładność klasyfikacji powiadomienia, po przesłaniu opinii Xiaomi musi uzyskać dane takie jak: nazwa aplikacji, nazwa i szczegóły powiadomienia oraz czas wysłania powiadomienia w celu kalibracji i optymalizacji algorytmów klasyfikacji powiadomień. Czy na pewno chcesz przesłać opinię?</string>
-    <string name="feedback_tip_title">Opinia dot. problemów z kategorią</string>
-    <string name="function_description">Opis funkcji</string>
+    <string name="feedback_tip_cancel">Dane dotyczące Twoich powiadomień nie będą gromadzone.</string>
+    <string name="feedback_tip_msg">Aby grupować powiadomienia bardziej dokładnie, Xiaomi musi uzyskać dane takie jak: nazwa aplikacji, nazwa i szczegóły powiadomienia oraz czas wysłania powiadomienia. Czy na pewno chcesz przesłać opinię?</string>
+    <string name="feedback_tip_title">Opinia dot. kategorii powiadomień</string>
+    <string name="function_description">O tej funkcji</string>
     <string name="float_notifications">Pływające powiadomienia</string>
     <string name="hint_search_all">Wyszukaj aplikacje</string>
     <string name="hint_search_in_disabled_apps">Wyszukaj aplikacje z wył. powiadomieniami</string>
@@ -54,15 +54,15 @@
     <string name="lock_screen_display_rules">Jak wyświetlać?</string>
     <string name="lock_screen_tip_toast">Najpierw włącz powiadomienia w \"Powiadomieniach aplikacji\"</string>
     <string name="lockscreen_notifications">Powiadomienia na ekranie blokady</string>
-    <string name="menu_setting_recommend_to_minus">Ogranicz rekomendacje</string>
-    <string name="menu_setting_recommend_to_normal">Nie ograniczaj rekomendacji</string>
-    <string name="menu_setting_show_in_home">Wyświetlaj na stronie głównej</string>
-    <string name="menu_setting_tip_recommend_minus">Ograniczy to rekomendacje dla %s</string>
-    <string name="menu_setting_tip_recommend_normal">Rekomendacje dla %s zostaną przywrócone</string>
-    <string name="menu_setting_tip_show_in_home">Rekomendacje dla %s będą wyświetlane na stronie głównej</string>
-    <string name="menu_setting_toast_recommend_minus">Ograniczono rekomendacje dla %s</string>
-    <string name="menu_setting_toast_recommend_normal">Przywrócono rekomendacje dla %s</string>
-    <string name="menu_setting_toast_show_in_home">Powiadomienia dla %s będą wyświetlane na stronie głównej</string>
+    <string name="menu_setting_recommend_to_minus">Wyświetl mniej powiadomień</string>
+    <string name="menu_setting_recommend_to_normal">Nie ograniczaj powiadomień</string>
+    <string name="menu_setting_show_in_home">Nie grupuj</string>
+    <string name="menu_setting_tip_recommend_minus">Będziesz widzieć mniej powiadomień z aplikacji %s</string>
+    <string name="menu_setting_tip_recommend_normal">Powiadomienia z aplikacji %s nie będą ograniczane</string>
+    <string name="menu_setting_tip_show_in_home">Powiadomienia z aplikacji %s nie będą grupowane</string>
+    <string name="menu_setting_toast_recommend_minus">Będziesz widzieć mniej powiadomień z aplikacji %s</string>
+    <string name="menu_setting_toast_recommend_normal">Powiadomienia z aplikacji %s nie będą ograniczane</string>
+    <string name="menu_setting_toast_show_in_home">Powiadomienia z aplikacji %s nie będą grupowane</string>
     <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
     <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
@@ -91,17 +91,18 @@
     <string name="mtrl_picker_toggle_to_year_selection">Dotknij, aby przełączyć na wybór roku</string>
     <string name="not_sent_recently">Ostatnio brak</string>
     <string name="notch_and_status_bar_setting">Wcięcie i pasek statusu</string>
-    <string name="notification_aggregate_description1">Agregator powiadomień pomoże Ci automatycznie agregować przychodzące powiadomienia pod względem ich treści czy reklam w celu poprawy efektywności Twojego panelu powiadomień.</string>
-    <string name="notification_aggregate_description2">Funkcja rozpoznaje treść powiadomienia w oparciu o algorytmy Xiaomi i automatycznie je segreguje. Nie dokonuje ona takich operacji na powiadomieniach z aplikacji social media, poczty e-mail oraz przypomnieniach o wydarzeniach z Kalendarza. Jeśli zauważysz powiadomienie, które zostało zagregowane nieprawidłowo, zgłoś je do Xiaomi poprzez aplikację Opinie.</string>
-    <string name="notification_aggregate_summary">Automatycznie segreguj powiadomienia wg kategorii</string>
-    <string name="notification_aggregate_title">Agregator powiadomień</string>
+    <string name="notification_aggregate_description1">MIUI może automatycznie grupować powiadomienia push oraz dotyczące reklam, aby Twój panel powiadomień był mniej zaśmiecony.</string>
+    <string name="notification_aggregate_description2">Algorytmy Xiaomi analizują treść powiadomienia - ta funkcja nie będzie obejmować np. ważnych alertów czy powiadomień z komunikatorów. Jeśli uważasz, że ważne powiadomienia zostały zgrupowane przez pomyłkę, zgłoś ten problem poprzez funkcję \"Opinie\".</string>
+    <string name="notification_aggregate_summary">Zezwól MIUI na automatyczne grupowanie powiadomień</string>
+    <string name="notification_aggregate_summary_inner">Włącz, aby automatycznie grupować powiadomienia push oraz dotyczące reklam</string>
+    <string name="notification_aggregate_title">Grupuj powiadomienia</string>
     <string name="notification_display_setting">Panel powiadomień</string>
     <string name="notification_display_style">Styl powiadomień</string>
     <string name="notification_fold_summary">Wszystkie nieistotne powiadomienia będą się znajdować w oddzielnym katalogu</string>
     <string name="notification_fold_title">Katalog powiadomień</string>
     <string name="notification_manager">Powiadomienia aplikacji</string>
-    <string name="notification_setting_menu_feedback_text">"Segregacja jest niedokładna?
-Zgłoś to >"</string>
+    <string name="notification_setting_menu_feedback_text">"Uważasz, że to powiadomienie nie powinno tutaj być?
+Zgłoś ten problem >"</string>
     <string name="off">Wył.</string>
     <string name="on">Wł.</string>
     <string name="password_toggle_content_description">Pokaż hasło</string>
@@ -118,6 +119,6 @@ Zgłoś to >"</string>
     <string name="summary_float_enable_notification_first">Włącz powiadomienia, aby móc włączyć pływające powiadomienia</string>
     <string name="summary_lock_screen_enable_notification_first">Włącz powiadomienia, aby móc zezwolić na powiadomienia na ekranie blokady</string>
     <string name="summary_show_badge_enable_notification_first">Włącz powiadomienia, aby móc włączyć licznik na ikonie</string>
-    <string name="tip_feedback_success">Pomyślnie zgłoszono.</string>
-    <string name="tip_select_category">Wybierz typ powiadomień</string>
+    <string name="tip_feedback_success">Pomyślnie zgłoszono</string>
+    <string name="tip_select_category">Wybierz kategorię powiadomień</string>
 </resources>

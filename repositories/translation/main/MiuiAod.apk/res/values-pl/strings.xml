@@ -47,6 +47,7 @@ dd.MM."</string>
     <string name="background_icon">Tło</string>
 	<string name="below_image">Na dole</string>
     <string name="black_white_clock_panel">Zegar</string>
+    <string name="btn_know">Rozumiem</string>
     <string name="cancel">Anuluj</string>
     <string name="character_counter_content_description">Wprowadzono %1$d z %2$d znaków</string>
     <string name="character_counter_overflowed_content_description">Przekroczono limit znaków: %1$d z %2$d</string>
@@ -71,6 +72,8 @@ dd.MM."</string>
     <string name="line_space">Odstęp między liniami</string>
     <string name="mini_time">Mały zegar</string>
     <string name="minimalist_clock">Prosty zegar</string>
+    <string name="modify_scheduled_time">Zmień czas</string>
+    <string name="more_online_theme">Elementy online</string>
     <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń %1$s</string>
     <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
@@ -105,12 +108,15 @@ dd.MM."</string>
     <string name="notification_screen_on">Wybudź ekran</string>
     <string name="only_show_bg_description">"Nie pokazuj godziny, daty i innych elementów"</string>
     <string name="only_show_bg_title">Pokazuj tylko tło</string>
+    <string name="open_aod_mode">Włącz</string>
     <string name="panel_clock">Analogowy</string>
     <string name="paper_mode_end_time_title">Wyłącz</string>
     <string name="paper_mode_start_time_title">Włącz</string>
     <string name="password_toggle_content_description">Pokazuj hasło</string>
     <string name="photo_editor_saving">Zapisywanie…</string>
     <string name="please_input_signature">Wprowadź podpis</string>
+    <string name="scheduled_mode_dialog_msg">Elementy będą wyświetlane w ramach trybu Ekran zawsze włączony w następującym okresie czasu: %s.</string>
+    <string name="scheduled_mode_msg">Okres aktywności: %s</string>
     <string name="scheduled_style">Gdy zaplanowane</string>
     <string name="scope_des">Każdy kalejdoskop zawiera 5 różnych wzorów, które będą wyświetlane po kolei za każdym razem, gdy ekran się zaświeci.</string>
     <string name="scope_icon">Styl kalejdoskopu</string>
@@ -138,4 +144,5 @@ dd.MM."</string>
 	<string name="time_location">Położenie zegara</string>
     <string name="time_style">Styl</string>
     <string name="time_style_layout">Układ</string>
+    <string name="tip_to_open_aod_mode">Ekran zawsze włączony jest wyłączony. Włączyć teraz?</string>
 </resources>
