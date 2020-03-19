@@ -24,7 +24,7 @@
     <string name="calendar_tip">Dzwonki przypomnień o wydarzeniach działają dla przypomnień z kalendarza, notatek oraz zadań</string>
     <string name="category_other">Inne</string>
     <string name="color_gamut">Paleta barw</string>
-    <string name="contact_description">Umieść skrót do kontaktu na pulpicie i dotknij go, aby wykonać połączenie</string>
+    <string name="contact_description">Dotknij skrótu do kontaktu na pulpicie, aby wykonać połączenie</string>
     <string name="contact_title">Skróty kontaktów</string>
     <string name="contrast_ratio">Kontrast</string>
     <string name="create">Utwórz</string>
