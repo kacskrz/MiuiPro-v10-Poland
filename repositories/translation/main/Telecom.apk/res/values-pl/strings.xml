@@ -420,4 +420,5 @@
   <string name="notification_channel_missed_call">Nieodebrane połączenia</string>
   <string name="video_call_not_allowed_if_tty_enabled">Wyłącz tryb TTY, aby tworzyć połączenia głosowe.</string>
   <string name="missedcall_notification_public_version_title">Telefon</string>
+  <string name="volume_boost_text">Pomyślnie zwiększono głośność</string>
 </resources>

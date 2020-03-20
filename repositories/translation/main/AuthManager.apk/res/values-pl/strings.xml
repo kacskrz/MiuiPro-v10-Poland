@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Menadżer uprawnień</string>
+    <string name="app_name">Uprawnienia</string>
     <string name="HIPS_Action_Accept">Zezwól</string>
     <string name="HIPS_Action_Reject">Odmów</string>
     <string name="HIPS_Perm_SendSMS">Wysyłanie SMS</string>
@@ -124,7 +124,7 @@
     <string name="grant_dialog_button_allow_foreground">Zezwól tylko, gdy korzystam z aplikacji</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Odmów i nie pytaj ponownie</string>
     <string name="grant_dialog_button_deny_background">Tylko w trakcie korzystania</string>
-    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Zezwól tylko, gdy korzystam z aplikacji i nie pytaj ponownie</string>
+    <string name="grant_dialog_button_deny_background_and_dont_ask_again">Zawsze, ale tylko wtedy, gdy używam tej aplikacji</string>
     <string name="permgroupdesc_calendar">Dostęp do wydarzeń z kalendarza</string>
     <string name="permgroupdesc_calllog">Dostęp i zapis elementów w historii połączeń</string>
     <string name="permgroupdesc_camera">Wykonywanie zdjęć i nagrywanie wideo</string>
@@ -150,6 +150,6 @@
     <string name="permdesc_write_storage">Odczyt i zapis plików na urządzeniu</string>
     <string name="permdesc_location_background">Dostęp do lokalizacji w tle</string>
     <string name="HIPS_Perm_clipboard">Schowek</string>
-    <string name="HIPS_Perm_clipboard_Desc">dostęp do schowka i możliwość zmiany jego zawartości</string>
-    <string name="grant_dialog_button_allow_onetime">Zezwól tym razem</string>
+    <string name="HIPS_Perm_clipboard_Desc">zezwala aplikacji na dostęp do schowka i dodawanie do niego elementów</string>
+    <string name="grant_dialog_button_allow_onetime">Tylko tym razem</string>
 </resources>

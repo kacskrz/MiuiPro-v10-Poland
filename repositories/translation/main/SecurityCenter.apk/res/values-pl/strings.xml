@@ -2994,7 +2994,7 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="antispam_mms_text_setting">Ustaw aplikację SMS jako swoją domyślną aplikację do SMS-ów, aby móc użyć listy blokowanych</string>
   <string name="st_hint_operatelist">Wygląda na to, że ta reguła już istnieje</string>
   <string name="app_behavior_about_content_no_link">"MIUI może wyświetlać informacje o tym, kiedy dane aplikacje uruchamiały inne aplikacje, korzystały z autostartu bądź przysługujących im uprawnień, a także wykonywały wrażliwe akcje. Ze względu na problemy z kompatybilnością wersji Androida, część wyświetlanych tu danych może być niedokładna. Jeśli znajdziesz informację o zachowaniu aplikacji, która nie jest dokładna, zgłoś ten fakt do Xiaomi za pomocą aplikacji \"Usługi i opinie\"."</string>
-  <string name="app_behavior_about_negative">Opinia</string>
+  <string name="app_behavior_about_negative">Zgłoś niedokładności</string>
   <string name="app_behavior_about_positive">OK</string>
   <string name="app_behavior_allowed">Zezwól</string>
   <string name="app_behavior_audio">Aplikacja %1s nagrywała dźwięk</string>
@@ -3088,9 +3088,9 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="app_behavior_warning_location_title">Aplikacja %1s uzyskuje Twoją lokalizację</string>
   <string name="gb_add_game_loading_tips">Chwileczkę…</string>
   <string name="antivirus_monitored_app_empty">"Nie znaleziono kompatybilnych aplikacji do płatności"</string>
-  <string name="app_statusbar_audio_now">Nagrywa dźwięk</string>
-  <string name="app_statusbar_camera_now">Korzysta z Aparatu</string>
-  <string name="app_statusbar_location_now">Uzyskuje lokalizację</string>
+  <string name="app_statusbar_audio_now">Nagrywanie dźwięku</string>
+  <string name="app_statusbar_camera_now">Korzystanie z Aparatu</string>
+  <string name="app_statusbar_location_now">Lokalizacja</string>
   <string name="google_base_app_fail">Nie udało się pobrać aplikacji. Sprawdź, czy Panel sterowania może łączyć się z Internetem.</string>
   <string name="google_base_app_installed">Pomyślnie zainstalowano</string>
   <string name="google_base_app_installing">Instalacja…</string>
@@ -3136,25 +3136,25 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="app_behavior_key_camera">Korzystanie z Aparatu</string>
   <string name="app_behavior_key_location">Lokalizacja</string>
   <string name="app_behavior_key_protect">Ochrona prywatnych danych</string>
-  <string name="app_behavior_notification_audio_now_one">Aplikacja \"%1s\" nagrywa dźwięk</string>
-  <string name="app_behavior_notification_audio_now_two">Aplikacja \"%1s\" nagrywa dźwięk</string>
-  <string name="app_behavior_notification_camera_one">Aplikacja \"%1s\" korzysta z Aparatu</string>
-  <string name="app_behavior_notification_camera_two">Aplikacja \"%1s\" korzysta z Aparatu</string>
-  <string name="app_behavior_notification_location_one">Aplikacja \"%1s\" uzyskuje Twoją lokalizację</string>
-  <string name="app_behavior_notification_location_two">Aplikacja \"%1s\" uzyskuje Twoją lokalizację</string>
-  <string name="app_behavior_settings_category_perm">Powiadomienia dot. korzystania z uprawnień</string>
+  <string name="app_behavior_notification_audio_now_one">Aplikacja %1s nagrywa dźwięk</string>
+  <string name="app_behavior_notification_audio_now_two" formatted="false">Aplikacje %1s oraz %2s nagrywają dźwięk</string>
+  <string name="app_behavior_notification_camera_one">Aplikacja %1s korzysta z Aparatu</string>
+  <string name="app_behavior_notification_camera_two" formatted="false">Aplikacje %1s oraz %2s korzystają z Aparatu</string>
+  <string name="app_behavior_notification_location_one">Aplikacja %1s uzyskuje Twoją lokalizację</string>
+  <string name="app_behavior_notification_location_two" formatted="false">Aplikacje %1s oraz %2s uzyskują Twoją lokalizację</string>
+  <string name="app_behavior_settings_category_perm">Powiadomienia dot. wrażliwych akcji</string>
   <string name="app_behavior_settings_category_privacy">Ochrona prywatnych danych</string>
   <string name="app_behavior_settings_perm_tips">Gdy dana aplikacja będzie korzystać z Aparatu, nagrywać dźwięk bądź uzyskiwać lokalizację, na pasku stanu pojawi się odpowiednia informacja</string>
   <string name="app_behavior_settings_privacy_tips">Gdy dana aplikacja będzie odczytywać bądź zapisywać dane takie jak kontakty, historia połączeń itd., system wyświetli odpowiednie powiadomienie</string>
-  <string name="app_behavior_start_from_app_single">Włączone przez %1s</string>
-  <string name="app_behavior_start_from_launcher">Włączono aplikację %1s z poziomu ikony na pulpicie</string>
-  <string name="app_behavior_start_from_launcher_single">Uruchomiono poprzez ikonę na pulpicie</string>
+  <string name="app_behavior_start_from_app_single">Ta aplikacja została uruchomiona przez aplikację %1s</string>
+  <string name="app_behavior_start_from_launcher">Włączono aplikację %1s z poziomu pulpitu</string>
+  <string name="app_behavior_start_from_launcher_single">Ta aplikacja została uruchomiona z poziomu pulpitu</string>
   <string name="app_behavior_start_from_notification">Włączono aplikację %1s z poziomu powiadomienia</string>
-  <string name="app_behavior_start_from_notification_single">Uruchomiono z poziomu powiadomienia</string>
+  <string name="app_behavior_start_from_notification_single">Ta aplikacja została uruchomiona z poziomu powiadomienia</string>
   <string name="app_behavior_start_from_recent">Włączono aplikację %1s z menu ostatnich aplikacji</string>
-  <string name="app_behavior_start_from_recent_single">Uruchomiono z menu ostatnich aplikacji</string>
+  <string name="app_behavior_start_from_recent_single">Ta aplikacja została uruchomiona z menu ostatnich aplikacji</string>
   <string name="app_behavior_time_today">Dzisiaj</string>
   <string name="app_behavior_time_yesterday">Wczoraj</string>
-  <string name="app_perm_manager_service">Usługa zarządzania uprawnieniami</string>
-  <string name="notify_channel_name_behavior">Zachowania aplikacji</string>
+  <string name="app_perm_manager_service">Uprawnienia</string>
+  <string name="notify_channel_name_behavior">Historia zachowań aplikacji</string>
 </resources>
