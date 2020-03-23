@@ -152,4 +152,10 @@
     <string name="HIPS_Perm_clipboard">Schowek</string>
     <string name="HIPS_Perm_clipboard_Desc">zezwala aplikacji na dostęp do schowka i dodawanie do niego elementów</string>
     <string name="grant_dialog_button_allow_onetime">Tylko tym razem</string>
+    <string name="virtual_reject_notice_content">Aby chronić Twoje dane, wysłano pustą odpowiedź do aplikacji</string>
+    <string name="virtual_reject_notice_title_calendar">%1$s próbuje uzyskać dostęp do kalendarza</string>
+    <string name="virtual_reject_notice_title_calllog">%1$s próbuje uzyskać dostęp do historii połączeń</string>
+    <string name="virtual_reject_notice_title_contacts">%1$s próbuje uzyskać dostęp do kontaktów</string>
+    <string name="virtual_reject_notice_title_phonestate">%1$s próbuje uzyskać dostęp do informacji o urządzeniu</string>
+    <string name="virtual_reject_notice_title_sms">%1$s próbuje uzyskać dostęp do SMS-ów</string>
 </resources>

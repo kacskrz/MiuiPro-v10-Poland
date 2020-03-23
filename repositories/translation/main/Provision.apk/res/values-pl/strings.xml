@@ -217,7 +217,7 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
     <string name="service_policy"><Data>Przeczytaj i zaakceptuj &lt;a href=%1$s>Politykę prywatności&lt;/a> Xiaomi.</Data></string>
     <string name="service_privacy_index">Polityka prywatności</string>
     <string name="servicestate_title">Podstawowe usługi</string>
-    <string name="user_agreement_declare">Przed użyciem MIUI musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Chmura Xiaomi, Systemowy Launcher, Częste zwroty, Usługa tłumaczenia, funkcja Znajdź urządzenie, Bateria i wydajność oraz MIUI Daemon połączą się z siecią.</string>
+    <string name="user_agreement_declare">Przed użyciem MIUI musisz przeczytać i zaakceptować Umowę użytkownika oraz Politykę prywatności Xiaomi. W trakcie aktywacji urządzenia Usługa aktywacji kart SIM Xiaomi, Chmura Xiaomi, Systemowy Launcher, Częste zwroty, Usługa tłumaczenia, funkcja Znajdź urządzenie, Bateria i wydajność, Menedżer uprawnień oraz MIUI Daemon połączą się z siecią.</string>
   <string name="ai_button_desc">Przycisk SI pozwala Ci wywołać Asystenta Google.</string>
   <string name="data_traffic_enable_dialog_title">"Jeśli nie jesteś połączony z siecią Wi-Fi, Twoje urządzenie będzie korzystać z danych komórkowych. Operator może pobrać opłatę za zużycie tych danych (w zależności od Twojej taryfy)."</string>
   <string name="other_settings_enhanced_lockscreen_for_india">Glance dla Xiaomi</string>
