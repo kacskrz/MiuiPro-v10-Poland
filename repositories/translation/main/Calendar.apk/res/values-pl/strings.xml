@@ -595,4 +595,18 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="notification_channel_name_no_sound">Przypomnienia bez dźwięku</string>
   <string name="notification_channel_name_no_vibration">Przypomnienia bez wibracji</string>
   <string name="notification_channel_name_silent">Przypomnienia w trybie Godziny ciszy</string>
+  <string name="productivity_add_event">Dodaj wydarzenie</string>
+  <string name="productivity_cannot_move_event">"Nie można przenieść tego wydarzenia"</string>
+  <string name="productivity_move_event_failed">"Nie można przenieść tego wydarzenia na dd MMMM yyyy r."</string>
+  <string name="productivity_move_event_hint">Dotknij i przytrzymaj wydarzenie, aby przenieść je na inny termin</string>
+  <string name="productivity_move_event_success">Przeniesiono wydarzenie na dd MMMM yyyy r.</string>
+  <string name="productivity_no_event">Nie zaplanowano wydarzeń na dziś</string>
+  <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Pociągnij, aby odświeżyć</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshed">Odświeżono</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">Odświeżanie</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sb_tracking_progress_labe_up_nodata">Brak danych</string>
+  <string name="miuix_sb_tracking_progress_labe_up_none">Brak</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">Odświeżanie</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Nieudane</string>
 </resources>
