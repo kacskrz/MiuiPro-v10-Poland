@@ -1580,7 +1580,7 @@
   <string name="edge_mode_screenshot">Zrzut ekranu</string>
   <string name="edge_mode_screenshot_summary">Dotknij podwójnie obu krawędzi, aby wykonać zrzut ekranu</string>
   <string name="edge_mode_state_summary">"Obszar dookoła krawędzi nie będzie reagować na dotyk"</string>
-  <string name="edge_mode_state_title">Ignoruj przypadkowe dotknięcia na krawędziach</string>
+  <string name="edge_mode_state_title">Dotyk na krawędziach</string>
   <string name="edit_rule">Edytuj reguły</string>
   <string name="edit_rules">Edytuj</string>
   <string name="eighthours">8 godzin</string>

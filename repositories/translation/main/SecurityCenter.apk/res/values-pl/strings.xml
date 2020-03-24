@@ -3144,8 +3144,8 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="app_behavior_notification_location_two" formatted="false">Aplikacje %1s oraz %2s uzyskują Twoją lokalizację</string>
   <string name="app_behavior_settings_category_perm">Powiadomienia dot. wrażliwych akcji</string>
   <string name="app_behavior_settings_category_privacy">Ochrona prywatnych danych</string>
-  <string name="app_behavior_settings_perm_tips">Gdy dana aplikacja będzie korzystać z Aparatu, nagrywać dźwięk bądź uzyskiwać lokalizację, na pasku stanu pojawi się odpowiednia informacja</string>
-  <string name="app_behavior_settings_privacy_tips">Gdy dana aplikacja będzie odczytywać bądź zapisywać dane takie jak kontakty, historia połączeń itd., system wyświetli odpowiednie powiadomienie</string>
+  <string name="app_behavior_settings_perm_tips">Gdy dana aplikacja będzie korzystać z Aparatu, nagrywać dźwięk bądź uzyskiwać lokalizację, na pasku stanu pojawi się odpowiednia ikonka. Ta opcja wyłącza jedynie wyświetlanie ikony - nie wyłącza powiadomień Zachowań aplikacji dla danej aplikacji.</string>
+  <string name="app_behavior_settings_privacy_tips">Gdy dana aplikacja będzie odczytywać bądź zapisywać dane takie jak kontakty, historia połączeń itd., system wyświetli odpowiednie powiadomienie. Ta opcja nie wyłącza ikonek opisanych wyżej.</string>
   <string name="app_behavior_start_from_app_single">Ta aplikacja została uruchomiona przez aplikację %1s</string>
   <string name="app_behavior_start_from_launcher">Włączono aplikację %1s z poziomu pulpitu</string>
   <string name="app_behavior_start_from_launcher_single">Ta aplikacja została uruchomiona z poziomu pulpitu</string>
