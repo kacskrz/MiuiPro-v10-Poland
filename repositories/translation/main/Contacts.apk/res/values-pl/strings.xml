@@ -67,7 +67,7 @@
     <string name="callAgain">Wybierz ponownie</string>
     <string name="callBack">Oddzwoń</string>
     <string name="callDetailTitle">Szczegóły połączenia</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s min %s sek</string>
+    <string name="callDetailsDurationFormat">%1$s min %2$s sek</string>
     <string name="callShortcutActivityTitle">Wybierz numer, aby nawiązać połączenie</string>
     <string name="call_assistant">Zadzwoń do %s</string>
     <string name="call_callback">Zadzwoń na numer Callback</string>
@@ -464,13 +464,13 @@ Aby zapobiec częstym zapytaniom, aktualizujemy stan konta raz dziennie."</strin
     <string name="exporting_contact_failed_message">Dane kontaktów nie zostały skopiowane. Przyczyna: \"%s\"</string>
     <string name="exporting_contact_failed_title">Kopiowanie nieudane</string>
     <string name="exporting_contact_list_message">Kopiowane do: %s.</string>
-    <string name="exporting_contact_list_progress" formatted="false">Kontaktów: %s z %s</string>
+    <string name="exporting_contact_list_progress">Kontaktów: %1$s z %2$s</string>
     <string name="exporting_contact_list_title">Kopiowanie danych kontaktowych</string>
     <string name="exporting_vcard_canceled_title">Anulowano kopiowanie pliku %s</string>
     <string name="exporting_vcard_finished_title">Zakończono kopiowanie pliku %s</string>
     <string name="external_profile_title">Mój profil %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Nie można uruchomić programu kopiującego: \"%s\".</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Nie można otworzyć pliku \"%s: %s.</string>
+    <string name="fail_reason_could_not_open_file">Nie można otworzyć pliku \"%1$s\": %2$s.</string>
     <string name="fail_reason_error_occurred_during_export">Podczas kopiowania: \"%s\" wystąpił błąd.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Nie udało się odczytać metadanych z wybranych plików vCard.</string>
     <string name="fail_reason_failed_to_read_files">Jeden lub więcej plików nie mogło zostać wczytanych (%s).</string>
@@ -1047,7 +1047,7 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="simContacts_title">Kontakty z karty SIM</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Pojemność karty SIM</string>
-    <string name="sim_capacity_content" formatted="false">Razem: %d pól. Użyte: %d</string>
+    <string name="sim_capacity_content">Razem: %1$d pól. Użyte: %2$d</string>
     <string name="sim_card_no_free_space_message">Karta SIM jest pełna, nie można skopiować nowych kontaktów. Zwolnij miejsce na karcie SIM i spróbuj ponownie</string>
     <string name="sim_card_no_free_space_title">Karta SIM jest pełna</string>
     <string name="sim_contact_existing">Kontakt na karcie SIM już istnieje.</string>
@@ -1074,9 +1074,9 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="smart_group_company_label">Firmy</string>
     <string name="smart_group_company_unavailable">Brak informacji o firmie</string>
     <string name="smart_group_frequency_1">Z ost. miesiąca</string>
-    <string name="smart_group_frequency_2">1 do 3 miesięcy</string>
-    <string name="smart_group_frequency_3">3 do 6 miesięcy</string>
-    <string name="smart_group_frequency_4">Ponad 6 miesięcy temu</string>
+    <string name="smart_group_frequency_2">%1$d do %2$d miesięcy</string>
+    <string name="smart_group_frequency_3">%1$d do %2$d miesięcy</string>
+    <string name="smart_group_frequency_4">Ponad %d miesięcy temu</string>
     <string name="smart_group_frequency_label">Ostatnie</string>
     <string name="smart_group_label">Inteligentne grupowanie</string>
     <string name="smart_group_loading">Chwileczkę…</string>
@@ -1274,4 +1274,13 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
   <string name="send_contact_shortcut_todesktop_duplicate">Ten skrót już istnieje</string>
   <string name="send_contact_shortcut_todesktop_failed">"Nie udało się umieścić skrótu na pulpicie"</string>
   <string name="send_contact_shortcut_todesktop_overflow">"Nie można umieścić więcej skrótów na pulpicie"</string>
+  <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Pociągnij, aby odświeżyć</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshed">Odświeżono</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">Odświeżanie</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sb_tracking_progress_labe_up_nodata">Brak danych</string>
+  <string name="miuix_sb_tracking_progress_labe_up_none">Brak</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">Odświeżanie</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Nieudane</string>
+  <string name="multi_select">Wybierz</string>
 </resources>

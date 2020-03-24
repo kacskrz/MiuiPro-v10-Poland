@@ -6495,7 +6495,7 @@ Oto, co mogło pójść nie tak:
   <string name="screen_fps_summary_power_save">Korzystając z niższej częstotliwości odświeżania, oszczędzasz baterię</string>
   <string name="screen_fps_summary_smooth">Część aplikacji zwiększy częstotliwość odświeżania automatycznie, aby poprawić jakość obrazu</string>
   <string name="screen_fps_unit_power_save">%d Hz (oszczędza baterię)</string>
-  <string name="screen_fps_unit_smooth">%d Hz (lepsza jakość)</string>
+  <string name="screen_fps_unit_smooth">%d Hz (lepsza płynność)</string>
   <string name="unlock_type_category_title">Metoda rozpoznawania</string>
   <string name="wellbing_title">Cyfrowa równowaga i kontrola rodzicielska</string>
   <string name="xiaomi_cloud_find_device">Znajdź urządzenie</string>
