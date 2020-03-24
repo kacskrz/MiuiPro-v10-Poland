@@ -3135,7 +3135,7 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="app_behavior_key_audio">Nagrywanie dźwięku</string>
   <string name="app_behavior_key_camera">Korzystanie z Aparatu</string>
   <string name="app_behavior_key_location">Lokalizacja</string>
-  <string name="app_behavior_key_protect">Ochrona prywatnych danych</string>
+  <string name="app_behavior_key_protect">Wyświetlaj powiadomienia</string>
   <string name="app_behavior_notification_audio_now_one">Aplikacja %1s nagrywa dźwięk</string>
   <string name="app_behavior_notification_audio_now_two" formatted="false">Aplikacje %1s oraz %2s nagrywają dźwięk</string>
   <string name="app_behavior_notification_camera_one">Aplikacja %1s korzysta z Aparatu</string>
