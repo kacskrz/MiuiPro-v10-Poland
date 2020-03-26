@@ -3157,4 +3157,14 @@ Filmy będą zapisane w trybie Game Turbo > Kluczowe momenty."</string>
   <string name="app_behavior_time_yesterday">Wczoraj</string>
   <string name="app_perm_manager_service">Uprawnienia</string>
   <string name="notify_channel_name_behavior">Historia zachowań aplikacji</string>
+  <string name="app_behavior_desc_virtual_once">Zwrócono pustą odpowiedź o %1$s</string>
+  <string name="app_behavior_perm_change_tip_virtual">Zmieniono akcję \"%1s\" na \"Zwracaj puste odpowiedzi\"</string>
+  <string name="permission_action_desc">Nadaj uprawnienia, ale zwracaj puste odpowiedzi do aplikacji, aby chronić prywatność</string>
+  <string name="permission_action_tag">Ochrona prywatności</string>
+  <string name="permission_action_virtual">Zwracaj puste odpowiedzi</string>
+  <string name="permission_upgrade_more">Więcej funkcji ochrony prywatności</string>
+  <string name="permission_upgrade_privacy_title">"Uprawnienia dotyczące nagrywania dźwięku oraz dostępu do kontaktów mają teraz opcję, która pozwala Ci nadać stosowne uprawnienia tylko na ten czas, kiedy rzeczywiście używasz danej aplikacji. Oznacza to, że dane aplikacje nie będą wykonywać tychże działań w tle."</string>
+  <string name="permission_upgrade_runtime">"Uprawnienia dotyczące dostępu do Twojej lokalizacji bądź Aparatu mają teraz opcję, która pozwala Ci nadać stosowne uprawnienia jednorazowo (\"Tylko tym razem\"). Aby chronić Twoją prywatność, te akcje nie będą wykonywane po tym, jak wyjdziesz z danej aplikacji. Gdy będziesz chciał skorzystać z danych uprawnień następnym razem, aplikacja ponownie zapyta Cię o uprawnienia dla niej."</string>
+  <string name="permission_upgrade_title">Zaktualizowane uprawnienia</string>
+  <string name="permission_upgrade_virtual">"Jeśli nie chcesz pozwolić aplikacjom na dostęp do Twoich kontaktów czy historii połączeń, możesz wybrać opcję \"Zwracaj puste odpowiedzi\" przy nadawaniu odpowiednich uprawnień."</string>
 </resources>

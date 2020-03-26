@@ -6678,4 +6678,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="input_method_quick_url_summary">Otwórz skopiowane linki, dotykając ikony schowka</string>
   <string name="input_method_quick_url_title">Strony WWW</string>
   <string name="aggregate_title">Reguły dla zgrupowanych powiadomień</string>
+  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplikacje firm trzecich</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_title">Poszczególne aplikacje</string>
 </resources>
