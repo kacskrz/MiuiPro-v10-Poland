@@ -362,4 +362,18 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="classes_titlt">Plan lekcji</string>
   <string name="classes_topTitle">Zeskanuj swój plan lekcji</string>
   <string name="submitting">Przesyłanie…</string>
+  <string name="choosed_title">Wybrano</string>
+  <string name="create">Wygeneruj kod QR</string>
+  <string name="createFail">"Nie udało się wygenerować kodu QR. Wprowadzony tekst jest za długi."</string>
+  <string name="createQRCode_hint">Wprowadź tekst</string>
+  <string name="createQRCode_save">Zapisz</string>
+  <string name="create_again">Odśwież</string>
+  <string name="delete">Usuń</string>
+  <string name="history">Historia</string>
+  <string name="importFailed">"Nie udało się zaimportować"</string>
+  <string name="saveDone">Pomyślnie zapisano</string>
+  <string name="scanHistory">Historia Skanera</string>
+  <string name="scanHistory_close">Wyłącz</string>
+  <string name="scanHistory_isOpen">Czy chcesz rozpocząć tworzenie historii skanowanych elementów?</string>
+  <string name="scanHistory_open">Włącz</string>
 </resources>
