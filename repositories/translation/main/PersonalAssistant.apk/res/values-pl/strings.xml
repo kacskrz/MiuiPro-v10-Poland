@@ -999,7 +999,7 @@
   <string name="widget_fav_open">Wyświetlaj kartę Ulubione</string>
   <string name="widget_fav_setting_brief">Zapisz ulubione rzeczy z różnych aplikacji</string>
   <string name="widget_fav_setting_brief_detail">Zobacz wszystkie ulubione rzeczy w jednym miejscu.</string>
-  <string name="widget_loading">Chwileczę…</string>
+  <string name="widget_loading">Chwileczkę…</string>
   <string name="widget_more">Zobacz więcej</string>
   <string name="widget_no_data">Brak elementów.</string>
   <string name="widget_title">Ostatnio dodane</string>
