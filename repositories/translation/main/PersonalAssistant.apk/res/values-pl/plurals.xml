@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="main_delete_desc">
+    <item quantity="other">Usunąć %s elementów z Ulubionych?</item>
+    <item quantity="one">Usunąć %s element z Ulubionych?</item>
+    <item quantity="few">Usunąć %s elementy z Ulubionych?</item>
+  </plurals>
+  <plurals name="main_mark_fav_num">
+    <item quantity="other">Oznaczono %s elementów jako ważne</item>
+    <item quantity="one">Oznaczono %s element jako ważny</item>
+    <item quantity="few">Oznaczono %s elementy jako ważne</item>
+  </plurals>
+  <plurals name="main_mark_select_num">
+    <item quantity="other">Zaznaczono %s elementów</item>
+    <item quantity="one">Zaznaczono %s element</item>
+    <item quantity="few">Zaznaczono %s elementy</item>
+  </plurals>
   <plurals name="miot_device_camera_size">
     <item quantity="other">%d bezprz. kamer</item>
     <item quantity="one">%d bezprz. kamera</item>

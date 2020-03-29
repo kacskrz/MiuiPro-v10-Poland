@@ -1066,8 +1066,8 @@
   <string name="condition_hotspot_title">Hotspot jest włączony</string>
   <string name="condition_night_display_summary">Ekran ma pomarańczowy odcień. Może to ułatwić zaśnięcie.</string>
   <string name="condition_night_display_title">Podświetlenie nocne jest włączone</string>
-  <string name="condition_turn_off">Wyłącz</string>
-  <string name="condition_turn_on">Włącz</string>
+  <string name="condition_turn_off">Wył.</string>
+  <string name="condition_turn_on">Wł.</string>
   <string name="condition_work_summary">Aplikacje, synchronizacja w tle i inne funkcje związane z profilem do pracy są wyłączone.</string>
   <string name="condition_work_title">Profil do pracy jest wyłączony</string>
   <string name="condition_zen_title">Włączone Nie przeszkadzać (%1$s)</string>
@@ -1761,8 +1761,8 @@
   <string name="filter_work_apps">Do pracy</string>
   <string name="filter_write_settings_apps">Mogą modyfikować ustawienia systemu</string>
   <string name="find_my_device">Znajdź moje urządzenie</string>
-  <string name="find_my_device_disable">Wyłącz</string>
-  <string name="find_my_device_enable">Włącz</string>
+  <string name="find_my_device_disable">Wył.</string>
+  <string name="find_my_device_enable">Wł.</string>
   <string name="fingerprint_add_max">Możesz dodać do %d odcisków palców</string>
   <string name="fingerprint_add_title">Dodaj odcisk palca</string>
   <string name="fingerprint_and_password_entrance_title">Ekran blokady i odcisk palca</string>
@@ -3635,8 +3635,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="screen_paper_mode_time_summary">Zaplanuj czas włączenia i wyłączenia trybu czytania</string>
   <string name="screen_paper_mode_time_title">Harmonogram</string>
   <string name="screen_paper_mode_title">Tryb czytania</string>
-  <string name="screen_paper_mode_turn_off">Wyłącz</string>
-  <string name="screen_paper_mode_turn_on">Włącz</string>
+  <string name="screen_paper_mode_turn_off">Wył.</string>
+  <string name="screen_paper_mode_turn_on">Wł.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Nie pokazuj ponownie</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Zezwól</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Aby zaktualizować listę aplikacji korzystających z trybu czytania, wymagane jest połączenia z internetem.</string>
@@ -6678,7 +6678,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="input_method_quick_url_summary">Otwórz skopiowane linki, dotykając ikony schowka</string>
   <string name="input_method_quick_url_title">Strony WWW</string>
   <string name="aggregate_title">Reguły dla zgrupowanych powiadomień</string>
-  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplikacje firm trzecich</string>
+  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Poszczególne aplikacje</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Poszczególne aplikacje</string>
 </resources>

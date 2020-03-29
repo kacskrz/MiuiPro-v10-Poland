@@ -1082,7 +1082,7 @@ Dotknij "<b>Synchronizuj teraz</b> aby zsynchronizować jednorazowo pocztę lub 
   <string name="qq_authorization_know">O kodzie</string>
   <string name="qq_authorization_tips">Nie pokazuj ponownie</string>
   <string name="qq_verify_code">(Wymagany kod weryfikacyjny QQ)</string>
-  <string name="title_activity_about">O</string>
+  <string name="title_activity_about">O Poczcie</string>
   <string name="verify_code">Kod weryfikacyjny</string>
   <string name="version_string">Wersja: %s</string>
   <string name="wps_title">Poczta WPS</string>

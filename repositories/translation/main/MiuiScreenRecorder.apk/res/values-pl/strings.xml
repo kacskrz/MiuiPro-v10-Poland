@@ -42,7 +42,7 @@
     <string name="low_momery_warning">Zbyt mało wolnego miejsca. Zatrzymano nagrywanie i zapisano wideo.</string>
     <string name="memory_not_allowed">Brak dostępnej pamięci. Zrób trochę miejsca, aby móc nagrywać.</string>
     <string name="mic_sound">Mikrofon</string>
-    <string name="no_recorder_info">Tutaj nie ma wideo</string>
+    <string name="no_recorder_info">Brak nagrań</string>
     <string name="no_recorder_info2">Dotknij przycisku, aby rozpocząć nagrywanie</string>
     <string name="no_sound">Wycisz</string>
     <string name="operation_delete">Usuń</string>

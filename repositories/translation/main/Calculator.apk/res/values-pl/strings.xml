@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="allow">Zgadzam się</string>
   <string name="angle">deg</string>
   <string name="app_name">Kalkulator</string>
   <string name="app_name_danfa">Kalkulator Mi</string>
@@ -47,6 +48,7 @@
   <string name="description_content">Oprócz podstawowych funkcji Kalkulator działa również jako wielofunkcyjny przelicznik, kalkulator kredytów i podatków. Po odinstalowaniu aplikacji, taka funkcjonalność nie będzie dostępna.</string>
   <string name="description_title">O kalkulatorze</string>
   <string name="devided_by_zero_reminder_message">Nie można dzielić przez 0</string>
+  <string name="dialog_privacy_title">Warunki użytkowania</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>
@@ -216,6 +218,7 @@
   <string name="preference_follow_wechat_title">WeChat</string>
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_help">Pomoc i opinie</string>
   <string name="preference_settings">Ustawienia</string>
   <string name="preference_use_degress_summary">Zastąp radiany kątami w funkcjach trygonometrycznych</string>
   <string name="preference_use_degress_title">Użyj kątów</string>
