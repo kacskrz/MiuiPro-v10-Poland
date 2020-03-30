@@ -38,6 +38,11 @@
     <string name="exit_easymode">Wyłącz tryb Lite</string>
     <string name="first_unlock_time">"Pierwsze odblokowanie: "</string>
     <string name="focus_time_exception_tip">Prawdopodobnie zmieniono czas systemowy. Tryb skupienia został wyłączony.</string>
+    <string name="focus_mode_timer_add_limit">Możesz utworzyć maks. %d własnych okresów czasu</string>
+    <string name="focus_mode_timer_delete">Usuń</string>
+    <string name="focus_mode_timer_exist">Ta sesja już istnieje</string>
+    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">Od %d do %d minut</string>
+    <string name="focus_mode_timer_pick_dialog_title">Wprowadź okres czasu</string>
     <string name="follow_sim1">Zastosuj ustawienia karty SIM 1</string>
     <string name="gamma">Gamma</string>
     <string name="healthy_use_phone">Zarządzaj czasem na ekranie</string>
