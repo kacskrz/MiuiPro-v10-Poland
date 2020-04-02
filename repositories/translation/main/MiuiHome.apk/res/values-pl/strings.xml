@@ -513,4 +513,5 @@
   <string name="permdesc_uninstall_widget">Zezwala aplikacji na usuwanie widżetów bez informowania użytkownika.</string>
   <string name="permlab_uninstall_widget">Usuwanie widżetów</string>
   <string name="slide_to_open_newhome">Przesuń w górę, aby otworzyć Centrum treści</string>
+  <string name="recents_exit_multi_window_mode">Wyjdź</string>
 </resources>
