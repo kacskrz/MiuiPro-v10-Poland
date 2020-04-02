@@ -1283,4 +1283,5 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh">Odświeżanie</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Nieudane</string>
   <string name="multi_select">Wybierz</string>
+  <string name="ai_calllog_call_record_menu">Nagrywanie połączeń SI</string>
 </resources>
