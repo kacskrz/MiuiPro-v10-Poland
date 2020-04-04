@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Ukryć te pliki?</item>
-        <item quantity="one">Ukryć ten plik?</item>
-        <item quantity="few">Ukryć te pliki?</item>
+        <item quantity="other">Dodać te elementy do prywatnego albumu?</item>
+        <item quantity="one">Dodać ten element do prywatnego albumu?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Dodano %d zdjęć z chmury, wyłącz \"Pokaż tylko lokalne albumy\", aby wyświetlić.</item>
@@ -16,9 +15,8 @@
         <item quantity="few">%2$d elementy nie mogą zostać dodane do albumu. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d elementów nie może zostać dodanych do ukrytego albumu. %1$s.</item>
-        <item quantity="one">%2$d element nie może zostać dodany do ukrytego albumu. %1$s.</item>
-        <item quantity="few">%2$d elementy nie mogą zostać dodane do ukrytego albumu. %1$s.</item>
+        <item quantity="other">"Nie można dodać %2$d elementów do prywatnego albumu. %1$s."</item>
+        <item quantity="one">"Nie można dodać %2$d elementu do prywatego albumu. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d dni</item>
@@ -269,9 +267,9 @@
         <item quantity="few">W sumie %d zdjęcia</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d elementów nie może zostać usuniętych z ukrytego albumu. %1$s.</item>
-        <item quantity="one">%2$d element nie może zostać usunięty z ukrytego albumu. %1$s.</item>
-        <item quantity="few">%2$d elementy nie mogą zostać usunięte z ukrytego albumu. %1$s.</item>
+        <item quantity="other">%2$d elementów nie może zostać usuniętych z prywatnego albumu. %1$s.</item>
+        <item quantity="one">%2$d element nie może zostać usunięty z prywatnego albumu. %1$s.</item>
+        <item quantity="few">%2$d elementy nie mogą zostać usunięte z prywatnego albumu. %1$s.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">Dodano %1$d zdjęć do \"%2$s\" oraz do bazy danych.</item>
@@ -501,5 +499,9 @@
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"Nie pobrano jeszcze %1$d plików (%2$d MB). Pobrać je za pomocą danych mobilnych?"</item>
         <item quantity="one">"Nie pobrano jeszcze %1$d pliku (%2$d MB). Pobrać go za pomocą danych mobilnych?"</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Pobieranie %d pozostałych plików</item>
+        <item quantity="one">Pobieranie %d pozostałego pliku</item>
     </plurals>
 </resources>
