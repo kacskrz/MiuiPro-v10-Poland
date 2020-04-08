@@ -1369,4 +1369,5 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="youtube_play_history">Historia odtwarzania</string>
   <string name="play_setting">Odtwarzanie</string>
   <string name="sound_fade_in_and_out_when_change_song_automatically">Spróbuj płynnie przejść pomiędzy utworami podczas odtwarzania</string>
+  <string name="dark_mode">Ciemny motyw</string>
 </resources>
