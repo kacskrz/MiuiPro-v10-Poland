@@ -600,7 +600,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="productivity_move_event_failed">"Nie można przenieść tego wydarzenia na dd MMMM yyyy r."</string>
   <string name="productivity_move_event_hint">Dotknij i przytrzymaj wydarzenie, aby przenieść je na inny termin</string>
   <string name="productivity_move_event_success">Przeniesiono wydarzenie na dd MMMM yyyy r.</string>
-  <string name="productivity_no_event">Nie zaplanowano wydarzeń na dziś</string>
+  <string name="productivity_no_event">Brak wydarzeń</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Pociągnij, aby odświeżyć</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Odświeżono</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Odświeżanie</string>
