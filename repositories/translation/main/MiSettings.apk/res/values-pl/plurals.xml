@@ -128,4 +128,72 @@
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Godzinę temu</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pół godziny temu</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za godzinę</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pół godziny</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="one">za minutę</item>
+        <item quantity="few">za %d minuty</item>
+        <item quantity="other">za %d minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="one">Minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+        <item quantity="other">%d minut temu</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pół godziny temu</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za godzinę</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pół godziny</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Natychmiast</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="one">za minutę</item>
+        <item quantity="few">za %d minuty</item>
+        <item quantity="other">za %d minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Teraz</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">Minutę temu</item>
+        <item quantity="few">%d minuty temu</item>
+        <item quantity="other">%d minut temu</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="one">Średnio %.2f raz dziennie</item>
+        <item quantity="other">Średnio %.2f razy dziennie</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="one">Odblokowano %d raz</item>
+        <item quantity="other">Odblokowano %d razy</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="one">Odblokowano %d raz</item>
+        <item quantity="other">Odblokowano %d razy</item>
+	</plurals>
 </resources>
