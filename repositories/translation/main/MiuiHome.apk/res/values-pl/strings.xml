@@ -514,4 +514,13 @@
   <string name="permlab_uninstall_widget">Usuwanie widżetów</string>
   <string name="slide_to_open_newhome">Przesuń w górę, aby otworzyć Centrum treści</string>
   <string name="recents_exit_multi_window_mode">Wyjdź</string>
+  <string name="accessibility_recent_task_enter">Otwarto Ostatnie aplikacje</string>
+  <string name="accessibility_recent_task_exit">Zamknięto Ostatnie aplikacje</string>
+  <string name="accessibility_recent_task_locked_state">Zablokowano</string>
+  <string name="accessibility_recent_task_memory_info">Łącznie RAM-u: %2$s | Dostępnego RAM-u: %1$s. Dotknij dwukrotnie, aby wyczyścić.</string>
+  <string name="accessibility_recent_task_unlocked_state">Odblokowano</string>
+  <string name="load_end">Nie ma więcej danych</string>
+  <string name="load_failed">Nie udało się załadować więcej danych</string>
+  <string name="loading">Ładowanie...</string>
+  <string name="recents_incompatible_app_message">"Ta aplikacja nie wspiera Dzielonego ekranu"</string>
 </resources>
