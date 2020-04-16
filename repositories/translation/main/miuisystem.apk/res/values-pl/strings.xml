@@ -177,4 +177,7 @@
   <string name="windchime">Wietrzne dzwonki</string>
   <string name="mihouse">Mi (Elektroniczny)</string>
   <string name="mijazz">Mi (Jazz)</string>
+  <string name="reveries">Fantazje (stereo)</string>
+  <string name="digitaluniverse">Cyfrowy wymiar (stereo)</string>
+  <string name="atlantis">Atlantyda (stereo)</string>
 </resources>
