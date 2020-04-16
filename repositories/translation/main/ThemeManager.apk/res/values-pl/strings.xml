@@ -175,7 +175,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="item_resource_audio_optional_phone_ring">Dzwonek</string>
   <string name="live_wallpaper">Animowane</string>
   <string name="lab">Funkcje w fazie testów</string>
-  <string name="like_list">Polubione elementy</string>
+  <string name="like_list">Moje polubienia</string>
   <string name="loading">Chwileczkę…</string>
   <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu</string>
   <string name="loading_resource_detail_info">Chwileczkę…</string>
@@ -422,7 +422,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="resource_search_color_hint_red">Czerwony</string>
   <string name="resource_search_color_hint_yellow">Żółty</string>
   <string name="resource_search_list_empty">Pusto</string>
-  <string name="resource_see_more">Pokaż więcej</string>
+  <string name="resource_see_more">Pokaż wszystko</string>
   <string name="resource_select">Wybierz</string>
   <string name="resource_select_alarm_audio_confirm">Wybrać ten dźwięk powiadomienia?</string>
   <string name="resource_select_audio_confirm_picker">Wybrać ten dźwięk?</string>
@@ -569,7 +569,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="theme_user_agreement_title">Warunki Użytkowania</string>
   <string name="theme_yes">Tak</string>
   <string name="third_party_pickers_activity_title">Dodaj %1$s</string>
-  <string name="title_component">Dostosuj motyw</string>
+  <string name="title_component">Elementy motywu</string>
   <string name="title_my_audio_resource">Moje dzwonki</string>
   <string name="title_my_miwallpaper_resource">Moje animowane tapety</string>
   <string name="title_my_miwallpaper_video_file_resource">Moje tapety wideo</string>
@@ -582,7 +582,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="transparency_pref_title">Poziom przezroczystości</string>
   <string name="transparent_wallpaper">Przezroczysta tapeta</string>
   <string name="transparent_wallpaper_apply_success">"Pomyślnie zastosowano tapetę. 
-Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie testów."</string>
+Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w fazie testów."</string>
   <string name="transparent_wallpaper_disable">Wył.</string>
   <string name="transparent_wallpaper_enable">Wł.</string>
   <string name="transparent_wallpaper_enable_success">Pomyślnie włączono</string>
@@ -641,8 +641,8 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="wallpaper_loop_interval_title">Zmiany tapet</string>
   <string name="wallpaper_loop_manage">Zarządzaj</string>
   <string name="wallpaper_loop_more_options">Dodatkowe ustawienia</string>
-  <string name="wallpaper_loop_my_desk_wallpaper">Tapety pulpitu</string>
-  <string name="wallpaper_loop_my_lock_wallpaper">Tapety ekranu blokady</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Zarządzaj pulpitem</string>
+  <string name="wallpaper_loop_my_lock_wallpaper">Zarządzaj ekranem blokady</string>
   <string name="wallpaper_loop_order_desc">Wybierz kolejność wyświetlania tapet</string>
   <string name="wallpaper_loop_order_loop">Oryginalnie</string>
   <string name="wallpaper_loop_order_shuffle">Losowo</string>
@@ -902,4 +902,52 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Profil > Funkcje w fazie t
   <string name="title_my_wallpaper">Moje tapety</string>
   <string name="wallpaper_download_incall_show">Pobierz wideo</string>
   <string name="wallpaper_share_alert">Wystąpił błąd. Odczekaj minutę bądź dwie i spróbuj ponownie.</string>
+  <string name="apply_not_support_aod">"To urządzenie nie wspiera trybu Ekran zawsze włączony"</string>
+  <string name="apply_not_support_maml_aod">"Nie można połączyć Ekranu zawsze włączonego z motywami na tym urządzeniu"</string>
+  <string name="apply_success_not_enable_aod">Włącz najpierw tryb Ekran zawsze włączony w Ustawieniach</string>
+  <string name="apply_success_not_support_aod">"Nie można połączyć Ekranu zawsze włączonego z motywami na tym urządzeniu. Reszta komponentów motywu została zastosowana pomyślnie."</string>
+  <string name="copy">Kopiuj</string>
+  <string name="de_component_aod_author">Twórca</string>
+  <string name="de_mix_mode_aod">Ekran zawsze włączony</string>
+  <string name="de_mix_mode_aod_desc">Dostosuj tła i format zegara</string>
+  <string name="dialog_show_never">"Nie pokazuj ponownie."</string>
+  <string name="enable_aod_list">Włącz tryb Ekran zawsze włączony</string>
+  <string name="exchange_alert">W trakcie promocji możesz uzyskać zniżki od Xiaomi i wykorzystać je na zakup motywów.</string>
+  <string name="expand_button_title">Zaawansowane</string>
+  <string name="has_mamual_hide_aod">Ten element jest teraz ukryty</string>
+  <string name="hide_free_aod">"Nie pokazuj darmowych motywów"</string>
+  <string name="hide_mamual_hide_aod">"Nie pokazuj ręcznie ukrytych elementów"</string>
+  <string name="mine_tab_not_login">Zaloguj się, aby wyświetlić elementy.
+Aby się zalogować, dotknij tutaj."</string>
+  <string name="mine_tab_title_favorite">Ulubione</string>
+  <string name="mine_tab_title_like">Polubienia</string>
+  <string name="mine_tab_title_local">Lokalne</string>
+  <string name="mine_tab_title_purchase">Zamówienia</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Brak danych</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Brak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Odświeżanie</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nieudane</string>
+  <string name="not_set">Nie ustawiono</string>
+  <string name="order_list">Historia zamówień</string>
+  <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
+  <string name="resource_exchange_device_not_support">"Ten element nie jest wspierany na tym urządzeniu"</string>
+  <string name="setting_font_online">Czcionki online</string>
+  <string name="show_free_aod">Pokaż darmowe motywy</string>
+  <string name="show_mamual_hide_aod">Pokaż ręcznie ukryte elementy</string>
+  <string name="stagger_list_end">"Na razie to wszystko"</string>
+  <string name="system_aod_dialog_message">Włącz najpierw tryb Ekran zawsze włączony w Ustawieniach.</string>
+  <string name="system_aod_dialog_positive_button">Ustawienia</string>
+  <string name="system_aod_dialog_title">Ekran zawsze włączony jest wyłączony</string>
+  <string name="theme_component_aod">AoD</string>
+  <string name="theme_component_icon">Ikony</string>
+  <string name="theme_component_title_aod">Ekran zawsze włączony</string>
+  <string name="theme_component_video_wallpaper">Dynamiczne tapety</string>
+  <string name="theme_on_the_phone_alert">"Nie można odtwarzać w trakcie połączeń"</string>
+  <string name="theme_preview">Podgląd motywu</string>
+  <string name="v7_preference_off">WYŁ.</string>
+  <string name="v7_preference_on">WŁ.</string>
 </resources>

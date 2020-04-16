@@ -81,4 +81,12 @@
         <item quantity="other">%1$d komentarzy więcej</item>
         <item quantity="few">%1$d komentarze więcej</item>
     </plurals>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="one">Dostępna jest aktualizacja %1$d motywu</item>
+        <item quantity="other">Dostępne są aktualizacje dla %1$d motywów</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="one">Aktualizowanie %1$d motywu</item>
+        <item quantity="other">Aktualizowanie %1$d motywów</item>
+    </plurals>
 </resources>
