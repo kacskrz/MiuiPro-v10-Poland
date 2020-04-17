@@ -1160,4 +1160,26 @@
   <string name="miot_device_disabled">"Nie można kontrolować teraz tego urządzenia"</string>
   <string name="miot_device_opening">Urządzenie wł.</string>
   <string name="trip_required_info">Wymagane</string>
+  <string name="app_debug_settings">Ustawienia debugowania</string>
+  <string name="app_debug_settings_copied_to_clipboard">Skopiowano do schowka</string>
+  <string name="app_debug_settings_host_title">Przełącznik środowiska hosta</string>
+  <string name="app_debug_settings_id_title">Zapytanie dot. ID urządzenia</string>
+  <string name="app_debug_settings_oaid">OAID</string>
+  <string name="app_debug_settings_oaid_summary">(Kliknij, aby skopiować OAID)</string>
+  <string name="app_debug_settings_online_title">Online</string>
+  <string name="app_debug_settings_preview_title">Developerskie</string>
+  <string name="app_debug_settings_staging_title">Testowe</string>
+  <string name="app_debug_settings_toast_switch_error">Błąd przełączania środowiska</string>
+  <string name="app_debug_settings_vaid">VAID</string>
+  <string name="app_debug_settings_vaid_summary">(Kliknij, aby skopiować VAID)</string>
+  <string name="bluetooth_card_btm_btn_more">Więcej urządzeń</string>
+  <string name="bluetooth_card_btm_btn_shrink">Ukryj</string>
+  <string name="bluetooth_card_title">Użycie baterii</string>
+  <string name="bluetooth_item_double_battery_level_box">Box: %d%%</string>
+  <string name="bluetooth_item_double_battery_level_box_invalid">Box: Brak danych</string>
+  <string name="bluetooth_item_double_battery_level_left">L: %d%%</string>
+  <string name="bluetooth_item_double_battery_level_left_invalid">L: Brak danych</string>
+  <string name="bluetooth_item_double_battery_level_right">Pr.: %d%%</string>
+  <string name="bluetooth_item_double_battery_level_right_invalid">Pr.: Brak danych</string>
+  <string name="bluetooth_setting_brief">Wyświetlaj informacje o zużyciu energii przez podłączone urządzenia</string>
 </resources>
