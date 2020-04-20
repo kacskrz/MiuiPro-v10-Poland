@@ -680,7 +680,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="micloud_main_sync_mode_summary">Synchronizuj dane aplikacji w czasie rzeczywistym (zwiększy to użycie baterii).</string>
   <string name="micloud_main_sync_mode_title">Szybka synchronizacja</string>
   <string name="micloud_manaul_sync_success_button_text">Szczegóły</string>
-  <string name="micloud_manaul_sync_success_title">Zsynchronizowano</string>
+  <string name="micloud_manaul_sync_success_title">Gotowe</string>
   <string name="micloud_manual_activating">Aktywacja…</string>
   <string name="micloud_manual_all_sync_off_button_text">Włącz</string>
   <string name="micloud_manual_all_sync_off_summary">Przywróć zsynchronizowane dane na nowych urządzeniach za pomocą Chmury Xiaomi</string>
