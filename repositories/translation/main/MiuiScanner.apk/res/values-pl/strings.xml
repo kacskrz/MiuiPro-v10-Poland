@@ -376,4 +376,9 @@ co chcesz zeskanować, do SI Mi"</string>
   <string name="scanHistory_close">Wyłącz</string>
   <string name="scanHistory_isOpen">Czy chcesz rozpocząć tworzenie historii skanowanych elementów?</string>
   <string name="scanHistory_open">Włącz</string>
+  <string name="download_mipay">Use Mi Pay</string>
+  <string name="mipay">Mi Pay</string>
+  <string name="mipayin_dialog_mipayName">Mi Pay</string>
+  <string name="mipayin_dialog_more">Więcej</string>
+  <string name="mipayin_dialog_title">Otwórz z</string>
 </resources>
