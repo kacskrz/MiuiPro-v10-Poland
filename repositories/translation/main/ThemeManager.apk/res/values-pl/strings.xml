@@ -833,8 +833,8 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="detail_author_works">"Elementów: "</string>
   <string name="system_cta_main_purpose">Zarządzaj i używaj motywów offline oraz online, tapet, dzwonków, czcionek i tapet wideo</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Dostęp do IMEI i dostarczanie usług pobierania</string>
-  <string name="system_cta_runtime_perm_desc_read_phone_state">Logowanie się i zarządzanie kontami w systemie</string>
-  <string name="system_cta_runtime_perm_desc_storage">Przechowywanie zapisanych motywów, dzwonków, czcionek i tapet</string>
+  <string name="system_cta_runtime_perm_desc_read_phone_state">Dostęp do ID urządzenia w celu identyfikowania go</string>
+  <string name="system_cta_runtime_perm_desc_storage">Przechowywanie zapisanych motywów i innych elementów</string>
   <string name="concentration_old_period">Więcej</string>
   <string name="first_page_recommend">Polecane</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Ustaw przezroczystą tapetę po restarcie urządzenia</string>
@@ -950,4 +950,6 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="theme_preview">Podgląd motywu</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="system_cta_agree_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj uprawnienia wymienione powyżej.</string>
+  <string name="system_cta_all_purpose">Witaj w aplikacji Motywy! Dzięki tej aplikacji możesz zarządzać swoimi motywami, tapetami, dzwonkami i czcionkami</string>
 </resources>
