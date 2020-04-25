@@ -894,9 +894,9 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="search_price_name">"Cena: "</string>
   <string name="search_price_no_limit">Bez limitu</string>
   <string name="search_sort_name">Sortuj</string>
-  <string name="search_sort_news">Nowe</string>
+  <string name="search_sort_news">Najpierw nowe</string>
   <string name="search_sort_synthesize">Ogólne</string>
-  <string name="search_sort_top">Popularne</string>
+  <string name="search_sort_top">Najpierw popularne</string>
   <string name="theme_settings_title">Motywy</string>
   <string name="theme_share_app_name">Motywy Mi</string>
   <string name="title_my_wallpaper">Moje tapety</string>
@@ -952,4 +952,23 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="system_cta_agree_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj uprawnienia wymienione powyżej.</string>
   <string name="system_cta_all_purpose">Witaj w aplikacji Motywy! Dzięki tej aplikacji możesz zarządzać swoimi motywami, tapetami, dzwonkami i czcionkami</string>
+  <string name="community_cta_dialog_cancel">Anuluj</string>
+  <string name="community_cta_dialog_des">Ten motyw zawiera skrót zegara wyświetlający ID Twojego konta Xiaomi i status w Mi Community. Możesz wyłączyć tę funkcję, zmieniając motyw lub usuwając widżet zegara.</string>
+  <string name="community_cta_dialog_ok">Rozumiem</string>
+  <string name="community_cta_dialog_title">Skrót zegara</string>
+  <string name="de_apply_icons">Ikony aplikacji</string>
+  <string name="de_apply_icons_and_wallpaper">Ikony aplikacji i tapeta</string>
+  <string name="de_icon_text_discuss">Dyskusja</string>
+  <string name="de_resource_author">Autor (%1$s)</string>
+  <string name="has_mamual_hide_icons">Ukryte ikony</string>
+  <string name="hide_free_icons">Ukryj darmowe ikony</string>
+  <string name="hide_free_miwallpaper">Ukryj darmowe efekty pulpitu</string>
+  <string name="hide_mamual_hide_icons">Nie pokazuj ukrytych ikon</string>
+  <string name="hide_mamual_hide_miwallpaper">Nie pokazuj ukrytych efektów pulpitu</string>
+  <string name="show_free_icons">Pokaż darmowe ikony</string>
+  <string name="show_free_miwallpaper">Pokaż darmowe efekty pulpitu</string>
+  <string name="show_mamual_hide_icons">Pokaż ręcznie ukryte ikony</string>
+  <string name="show_mamual_hide_miwallpaper">Pokaż ręcznie ukryte efekty pulpitu</string>
+  <string name="theme_community">Społeczność</string>
+  <string name="update_community_tip">Zaktualizuj Mi Community, aby skorzystać z tej funkcji</string>
 </resources>
