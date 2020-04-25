@@ -2061,7 +2061,7 @@
   <string name="title_block_calls_from_strangers">Brakuje ważnych połączeń?</string>
   <string name="title_chain_start">Ogranicz uruchamianie łańcuchowe</string>
   <string name="title_cleaner_cloudscan">Skanowanie śmieci chmury</string>
-  <string name="title_cloud_account">Wpisz się na konto Xiaomi</string>
+  <string name="title_cloud_account">Zaloguj się na konto Xiaomi</string>
   <string name="title_cloud_space_almost_full">Przestrzeń w Chmurze jest prawie pełna, elementy mogą się nie synchronizować</string>
   <string name="title_cloud_space_full">Chmura jest pełna</string>
   <string name="title_cmcc_app_check">Weryfikacja nie została zakończona</string>
