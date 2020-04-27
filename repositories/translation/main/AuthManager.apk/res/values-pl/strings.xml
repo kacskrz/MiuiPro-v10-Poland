@@ -14,9 +14,9 @@
     <string name="HIPS_Perm_PhoneID">Pobierz ID Telefonu</string>
     <string name="HIPS_Perm_PhoneID_Desc">Dostęp do ID telefonu, włączając IMEI, IMSI</string>
     <string name="HIPS_Perm_Contact">Kontakty</string>
-    <string name="HIPS_Perm_Contact_Desc">Dostęp do listy kontaktów</string>
+    <string name="HIPS_Perm_Contact_Desc">edycja listy kontaktów</string>
     <string name="HIPS_Perm_CallLog">Zapisywanie i usuwanie historii połączeń</string>
-    <string name="HIPS_Perm_CallLog_Desc">zapisywanie i usuwanie historii połączeń</string>
+    <string name="HIPS_Perm_CallLog_Desc">edycja historii połączeń</string>
     <string name="HIPS_Perm_ROOT">"Dostęp do praw ROOT'a"</string>
     <string name="HIPS_Perm_ROOT_Desc">"uzyskać dostęp do praw ROOT'a"</string>
     <string name="HIPS_Perm_Settings">Modyfikacja ustawień systemowych</string>
@@ -96,7 +96,6 @@
     <string name="screen_overlay_button">Otwórz ustawienia</string>
     <string name="grant_dialog_button_allow">Zezwól</string>
     <string name="grant_dialog_button_deny">Odmów</string>
-    <string name="current_permission_template">%1$s z %2$s</string>
     <string name="never_ask_again">Nie pytaj ponownie</string>
     <string name="HIPS_Perm_UDevice_ID">Udostępnij część informacji o urządzeniu twórcom gier, aby pomóc im poprawić Twoje odczucia w grach. Czy zgadzasz się na to?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">udostępnij część informacji o urządzeniu twórcom gier, aby pomóc im poprawić Twoje odczucia w grach. Czy zgadzasz się na to?</string>
@@ -153,9 +152,28 @@
     <string name="HIPS_Perm_clipboard_Desc">zezwala aplikacji na dostęp do schowka i dodawanie do niego elementów</string>
     <string name="grant_dialog_button_allow_onetime">Tylko tym razem</string>
     <string name="virtual_reject_notice_content">Aby chronić Twoje dane, wysłano pustą odpowiedź do aplikacji</string>
-    <string name="virtual_reject_notice_title_calendar">%1$s próbuje uzyskać dostęp do kalendarza</string>
-    <string name="virtual_reject_notice_title_calllog">%1$s próbuje uzyskać dostęp do historii połączeń</string>
-    <string name="virtual_reject_notice_title_contacts">%1$s próbuje uzyskać dostęp do kontaktów</string>
-    <string name="virtual_reject_notice_title_phonestate">%1$s próbuje uzyskać dostęp do informacji o urządzeniu</string>
-    <string name="virtual_reject_notice_title_sms">%1$s próbuje uzyskać dostęp do SMS-ów</string>
+    <string name="virtual_reject_notice_title_calendar">Dostęp do kalendarza przez %1$s</string>
+    <string name="virtual_reject_notice_title_calllog">Dostęp do historii połączeń przez %1$s</string>
+    <string name="virtual_reject_notice_title_contacts">Dostęp do kontaktów przez %1$s</string>
+    <string name="virtual_reject_notice_title_phonestate">Dostęp do informacji o urządzeniu przez %1$s</string>
+    <string name="virtual_reject_notice_title_sms">Dostęp do SMS-ów przez %1$s</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Nagrywanie dźwięku i tworzenie połączeń</string>
+    <string name="HIPS_Perm_Intl_group_desc_auto_start">Automatyczne uruchamianie aplikacji w tle</string>
+    <string name="HIPS_Perm_Intl_group_desc_calendar">Dostęp do wydarzeń z kalendarza</string>
+    <string name="HIPS_Perm_Intl_group_desc_call_log">Dostęp do historii połączeń i jej edycja</string>
+    <string name="HIPS_Perm_Intl_group_desc_camera">Wykonywanie zdjęć i tworzenie wideo</string>
+    <string name="HIPS_Perm_Intl_group_desc_contact">Edycja i usuwanie kontaktów</string>
+    <string name="HIPS_Perm_Intl_group_desc_location">Dostęp do precyzyjnej lokalizacji (na podstawie GPS i sieci)</string>
+    <string name="HIPS_Perm_Intl_group_desc_storage">Dodawanie i usuwanie plików w pamięci wewnętrznej</string>
+    <string name="HIPS_Perm_Intl_group_name_audio_recorder">Mikrofon</string>
+    <string name="HIPS_Perm_Intl_group_name_auto_start">Autostart</string>
+    <string name="HIPS_Perm_Intl_group_name_calendar">Kalendarz</string>
+    <string name="HIPS_Perm_Intl_group_name_call_log">Historia połączeń</string>
+    <string name="HIPS_Perm_Intl_group_name_camera">Aparat</string>
+    <string name="HIPS_Perm_Intl_group_name_contact">Kontakty</string>
+    <string name="HIPS_Perm_Intl_group_name_location">Lokalizacja</string>
+    <string name="HIPS_Perm_Intl_group_name_storage">Pamięć</string>
+    <string name="permission_group_title_sensitive_privacy_related">Wrażliwe uprawnienia</string>
+    <string name="permission_list_include">"Włączając następujące uprawnienia:
+"</string>
 </resources>

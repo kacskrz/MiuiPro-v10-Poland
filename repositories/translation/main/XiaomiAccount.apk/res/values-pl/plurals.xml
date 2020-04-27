@@ -24,4 +24,9 @@
         <item quantity="few">Pokaż wszystkie %d przeglądarki</item>
         <item quantity="many">Pokaż wszystkie %d przeglądarek</item>
     </plurals>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">" kroków"</item>
+        <item quantity="few">" kroki"</item>
+        <item quantity="one">" krok"</item>
+    </plurals>
 </resources>

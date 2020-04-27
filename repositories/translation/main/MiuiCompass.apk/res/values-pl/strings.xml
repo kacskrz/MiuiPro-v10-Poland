@@ -64,8 +64,8 @@
     <string name="preference_other">Inne</string>
     <string name="preference_privacy_title">Polityka prywatności</string>
     <string name="compass_settings">Ustawienia</string>
-  <string name="permission_camera_desc">Używanie poziomicy</string>
-  <string name="permission_location_desc">Wyświetlanie pozycji oraz ciśnienia atmosferycznego</string>
+  <string name="permission_camera_desc">Wyświetlanie azymutu na podglądzie</string>
+  <string name="permission_location_desc">Wyświetlanie koordynatów</string>
   <string name="cta_v2_app_purpose">określanie kierunku, położenia, ciśnienia atmosferycznego oraz wysokości n.p.m.</string>
   <string name="abc_action_bar_home_description">Przejdź do startowej</string>
   <string name="abc_action_bar_up_description">Do góry</string>
@@ -92,4 +92,5 @@
   <string name="search_menu_title">Szukaj</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="cta_agree_desc">Zezwól tej aplikacji na łączenie się z Interneten i nadaj jej opcjonalne uprawnienia, aby móc używać jej wszystkich funkcji.</string>
 </resources>
