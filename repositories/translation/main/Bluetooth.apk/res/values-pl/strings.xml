@@ -163,4 +163,8 @@
     <string name="bt_sm_2_1_default">Za mało miejsca na karcie SD do zapisania pliku z urządzenia „%1$s”.</string>
     <string name="status_no_sd_card_default">Brak karty SD. Włóż kartę SD, by zapisać przesłane pliki.</string>
     <string name="status_no_sd_card_nosdcard">Brak nośnika USB.</string>
+    <string name="switch_audio_device_bt">Bluetooth</string>
+    <string name="switch_audio_device_phone">To urządzenie audio</string>
+    <string name="switch_audio_notification_content">Aktualnie używane, zewnętrzne urządzenia audio:</string>
+    <string name="switch_audio_notification_title">Łączność urządzenia</string>
 </resources>

@@ -1396,7 +1396,7 @@
   <string name="device_miui_more">Pokaż więcej</string>
   <string name="device_miui_version">Wersja MIUI</string>
   <string name="device_miui_version_for_POCO">Wersja MIUI (dla POCO)</string>
-  <string name="device_miui_version_update">Aktualizacja MIUI jest dostępna</string>
+  <string name="device_miui_version_update">Aktualizuj</string>
   <string name="device_name">Nazwa urządzenia</string>
   <string name="device_name_input_error">Nie udało się zapisać nazwy urządzenia</string>
   <string name="device_name_input_hint">Wpisz nazwę urządzenia</string>
@@ -5728,7 +5728,9 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="key_fsg_dialog_positive">Przełącz na przyciski</string>
     <string name="add_fingerprint_dirty_fingerprint">Upewnij się, że powierzchnia ekranu jest czysta. Spróbuj ponownie zarejestrować odcisk palca.</string>
   <string name="add_fingerprint_move_fast">Trzymaj palec na ekranie nieco dłużej</string>
-    <string name="flash_drive_backup_restore">Kopia i jej przywracanie poprzez USB</string>
+  <string name="flash_drive_backup_disable">Najpierw podłącz urządzenie USB</string>
+  <string name="flash_drive_backup_enable">Użyj urządzenia USB, aby wykonać kopię zapasową lub przywrócić elementy</string>
+  <string name="flash_drive_backup_restore">Urządzenie USB</string>
   <string name="flash_drive_backup_restore_summary">Podłącz dysk USB</string>
   <string name="bt_ldac_declaration">Gdy urządzenie Bluetooth obsługuje LDAC, będzie ono domyślnie połączone. LDAC zapewnia wysoką jakość dźwięku, ale też zwiększa zużycie energii. Z powodu ograniczeń sprzętowych Bluetooth może wystąpić powtórne odtwarzanie (playback).</string>
   <string name="bt_ldac_dialog_summary">"LDAC zapewnia wysoką jakość dźwięku, ale zwiększa zużycie energii. Możesz wyłączyć tę funkcję w Ustawieniach."</string>
@@ -6227,11 +6229,15 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="toggle_auto_speaker_preference_summary">Urządzenie będzie przełączało się na głośnik, gdy w trakcie połączenia oddalisz telefon od ucha. Funkcja działa tylko wtedy, gdy włączony jest TalkBack.</string>
   <string name="toggle_auto_speaker_preference_title">Przełącz na głośnik</string>
   <string name="miui_touch_filtered_touchassistant_warning">Monit dot. uprawnień jest zasłaniany przez Asystenta dotyku. Przenieś go poza obszar tego monitu lub wyłącz tę funkcję.</string>
-  <string name="allow_oaid_used">Zezwól na używanie ID urządzenia</string>
-  <string name="device_oaid">ID urządzenia</string>
-  <string name="restore_oaid_content">Zresetowanie ID urządzenia wygeneruje nowy identyfikator.</string>
+  <string name="allow_oaid_used">Ogranicz dostęp do dowolnego ID</string>
+  <string name="allow_oaid_used_desc">"Aplikacje nie będą mieć dostępu do ID, dopóki im na to nie pozwolisz. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
+  <string name="device_oaid">Zarządzaj wirtualnym ID</string>
+  <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, MIUI zapewni wirtualne ID (OAID) dla aplikacji firm trzecich. To powstrzyma aplikacje przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
+  <string name="device_oaid_title">Wirtualne ID</string>
+  <string name="device_of_someone">"%1$s - %2$s"</string>
+  <string name="restore_oaid_content">Zresetuj swoje wirtualne ID, aby usunąć dane preferencji.</string>
   <string name="restore_oaid_positive">Zresetuj</string>
-  <string name="restore_oaid_title">Zresetuj ID urządzenia</string>
+  <string name="restore_oaid_title">Zresetuj wirtualne ID</string>
   <string name="backup_set_new_continue">Kontynuuj</string>
   <string name="backup_set_new_exit">Wyjdź</string>
   <string name="backup_set_new_pw_confirm_hint">Informacja</string>
@@ -6600,19 +6606,19 @@ Kopie zapasowe są gromadzone w Chmurze Xiaomi i można do nich uzyskać dostęp
   <string name="datasize_decrease_content">"Kontakty, wiadomości i dane systemu są kompresowane w trakcie tworzenia kopii, co skutkuje mniejszym rozmiarem pliku.
 "</string>
   <string name="datasize_decrease_title">6. Dlaczego część plików kopii jest mniejsza niż elementy w nich się znajdujące?</string>
-  <string name="how_backup_content">"Możesz utworzyć 3 rodzaje kopii: lokalną, w Chmurze oraz USB.
+  <string name="how_backup_content">"Możesz zapisywać kopie zapasowe lokalnie lub w chmurze. Kopie lokalne mogą być przechowywane na telefonie, komputerze lub urządzeniu USB.
 
-Lokalne kopie zapasowe:
-Pozwalają Ci one na zapis swoich ustawień systemu, kont, danych aplikacji i innych elementów w oddzielnym pliku przechowywanym na Twoim urządzeniu (katalog MIUI/backup/AllBackup). Po utworzeniu kopii możesz ją przesłać na swój komputer, np. za pomocą kabla USB.
-Wskazówka:
-Do wykonania kopii bądź przywrócenia elementów możesz także użyć narzędzia Mi PC Suite.
+Telefon
+Zapisuje ustawienia systemowe, konta, dane aplikacji i inne elementy w pliku na urządzeniu (MIUI-backup-AllBackup). Przywracanie do ustawień fabrycznych usunie wszystkie kopie zapasowe z telefonu. Przenieś je wcześniej na komputer.
 
-Kopie w Chmurze:
-Za ich pomocą możesz wykonać kopię ustawień systemu, układu pulpitu, aplikacji i innych elementów w Chmurze Xiaomi, a także przywrócić te elementy poprzez sieć, bez konieczności użycia kabla.
+Komputer
+Stwórz kopię zapasową na telefonie, a następnie przejdź do katalogu MIUI-backup-AllBackup i skopiuj kopię na komputer za pomocą kabla USB.
 
-Kopie USB:
-Ta metoda umożliwia Ci wykonanie kopii ustawień systemu, kont, danych aplikaci i innych elementów na zewnętrznej pamięci USB (np. pendrive).
-"</string>
+Urządzenie USB
+Zapisuje ustawienia systemowe, konta, dane aplikacji i inne elementy na urządzeniu USB.
+
+Chmura Xiaomi
+Synchronizuj swoje kontakty, zdjęcia, filmy, listę aplikacji, ustawienia systemu i układ pulpitu z chmurą."</string>
   <string name="how_backup_title">1. Jak mogę wykonać kopię zapasową?</string>
   <string name="how_encrypt_content">"Możesz zaszyfrować tylko lokalne kopie zapasowe. Jest to możliwe na 2 sposoby:
 a) Otwórz widok lokalnych kopii zapasowych, kliknij przycisk, aby włączyć szyfrowanie, i zaloguj się na swoje konto Xiaomi. Po wykonaniu tych czynności kopie zapasowe będą szyfrowane automatycznie. Pamiętaj, że aby przywrócić elementy z tak zaszyfrowanych kopii, będziesz musiał zalogować się na swoje konto Xiaomi.
@@ -6636,13 +6642,13 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="how_restore_backup_title">2. Jak przywrócić skopiowane elementy?</string>
   <string name="local_backup_section_summary_new">Skopiuj konta, dane aplikacji, ustawienia systemu i więcej</string>
   <string name="local_backup_section_title_new">Na tym urządzeniu</string>
-  <string name="master_clear_title_new">Wymaż wszystkie dane (ust. fabryczne)</string>
+  <string name="master_clear_title_new">Ustawienia fabryczne</string>
   <string name="other_data">Inne elementy na tym urządzeniu</string>
   <string name="photo_data">Zdjęcia i filmy</string>
-  <string name="privacy_settings_new">Kopiowanie, przywracanie, reset</string>
+  <string name="privacy_settings_new">Kopiowanie i przywracanie</string>
   <string name="reset_title">Reset</string>
   <string name="sd_data">Dane z karty SD</string>
-  <string name="system_backup_section_title_new">Skopiuj lub przywróć</string>
+  <string name="system_backup_section_title_new">Lokalne</string>
   <string name="tip_remove_data">Reset do ustawień fabrycznych wymaże te elementy z Twojego urządzenia</string>
   <string name="wifi_assist">Asystent Wi-Fi</string>
   <string name="wifi_link_turbo_customize">Własne aplikacje</string>
@@ -6681,4 +6687,213 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="screen_dark_mode_smart_dark_3rd_apps_list">Poszczególne aplikacje</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">Część aplikacji w ramach Ciemnego motywu może być niepoprawnie wyświetlana. Możesz ograniczyć tutaj korzystanie z Ciemnego motywu dla poszczególnych aplikacji.</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_title">Poszczególne aplikacje</string>
+  <string name="backup_at_once">Kopia zapasowa</string>
+  <string name="backup_more_settings">Ustawienia</string>
+  <string name="bluetooth_device_nearby_title">Urządzenia w pobliżu</string>
+  <string name="bottom_function_settings">Funkcje dodatkowych przycisków</string>
+  <string name="change_lock_screen_password_title">Zmień blokadę ekranu</string>
+  <string name="clear_data_alert_info">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną usunięte. Wykonaj kopię zapasową ważnych plików na komputerze i w chmurze Xiaomi, zanim przejdziesz dalej.</string>
+  <string name="cloud_category_text">Chmura</string>
+  <string name="computer_backup_summary">Wykonaj kopię i przywróć elementy, używając komputera</string>
+  <string name="computer_backup_title">Komputer</string>
+  <string name="continue_reset_factory">Przywracanie do ustawień fabrycznych</string>
+  <string name="custom_color">Własny</string>
+  <string name="dark_mode_contrast">Dostosuj kontrast automatycznie</string>
+  <string name="dark_mode_contrast_hint">Dopasuj kolory i zmniejszaj kontrast automatycznie, kiedy jasność jest niska</string>
+  <string name="default_keyboard">Domyślna</string>
+  <string name="detail_question">Szczegóły</string>
+  <string name="dialog_backup_title">Zaktualizować kopie zapasowe przed przywróceniem do ustawień fabrycznych?</string>
+  <string name="face_data_apply_for_category_title">Odblokuj za pomocą twarzy</string>
+  <string name="face_data_apply_for_keyguard_title">Ekran blokady</string>
+  <string name="face_data_input_camera_fail">"Nie udało się wczytać aparatu"</string>
+  <string name="face_data_input_camera_ok">Uruchamianie aparatu…</string>
+  <string name="face_data_input_cancel_msg">Nie udało się dodać danych twarzy</string>
+  <string name="face_data_input_ok">Gotowe</string>
+  <string name="face_data_input_ok_title">Pomyślnie dodano</string>
+  <string name="face_data_input_structure_title">Dane twarzy 3D</string>
+  <string name="face_data_input_title">Dodaj dane twarzy</string>
+  <string name="face_data_introduction_msg">Dane twarzy zostaną wykorzystane do odblokowania telefonu lub zweryfikowania tożsamości. Dodaj hasło ekranu blokady przed dodaniem danych twojej twarzy.</string>
+  <string name="face_data_introduction_next">Dalej</string>
+  <string name="face_data_introduction_title">Rozpoznawanie twarzy</string>
+  <string name="face_data_manage_delete">Usunąć zapisane dane twarzy?</string>
+  <string name="face_data_manage_delete_msg">Usuń dane twarzy</string>
+  <string name="face_data_manage_delete_sure">Nie będziesz w stanie odblokować telefonu za pomocą danych twarzy po ich usunięciu</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Po wybudzeniu ekranu przesuń w górę, aby odblokować urządzenie za pomocą danych twarzy.</string>
+  <string name="face_data_manage_unlock_msg">Odblokuj telefon, gdy patrzysz się na ekran blokady</string>
+  <string name="face_data_manage_unlock_slide_msg">Zastąp skróty slidera odblokowaniem twarzą</string>
+  <string name="face_data_manage_unlock_title">Odblokuj twarzą</string>
+  <string name="face_data_siggesstion_next">Dalej</string>
+  <string name="face_data_siggesstion_next_time">Dalej (%d sek.)</string>
+  <string name="face_data_suggesstion_first">Odblokowanie telefonu przy użyciu danych twarzy jest mniej bezpieczne niż używanie hasła ekranu blokady, wzoru czy PIN. Twój telefon może zostać odblokowany przez osoby, które wyglądają tak samo lub za pomocą Twoich zdjęć.</string>
+  <string name="face_data_suggesstion_second">Upewnij się, że wszystkie części twarzy nie są zakryte przedmiotami i są wyraźnie widoczne. Twoja twarz powinna być dobrze oświetlona.</string>
+  <string name="face_unlock">Odblokowanie twarzą</string>
+  <string name="face_unlock_be_on_the_screen">Utrzymuj telefon przed twarzą</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Możesz odblokować telefon, korzystając z danych twarzy, gdy ekran podświetla się informacją o powiadomieniu. Może to zwiększyć użycie baterii.</string>
+  <string name="face_unlock_by_notification_screen_on_title">Odblokuj za pomocą twarzy, gdy ekran się podświetli</string>
+  <string name="face_unlock_category_title">Ustawienia ekranu blokady</string>
+  <string name="face_unlock_check_failed">Nie udało się rozpoznać</string>
+  <string name="face_unlock_close_screen">Przybliż się do ekranu</string>
+  <string name="face_unlock_down">Podnieś głowę</string>
+  <string name="face_unlock_not_found">Nie udało się rozpoznać</string>
+  <string name="face_unlock_offset_bottom">Opuść niżej telefon</string>
+  <string name="face_unlock_offset_left">Przesuń w prawo</string>
+  <string name="face_unlock_offset_right">Przesuń w lewo</string>
+  <string name="face_unlock_offset_top">Podnieś wyżej telefon</string>
+  <string name="face_unlock_open_eye">Otwórz szerzej oczy</string>
+  <string name="face_unlock_quality">Nie udało się dostrzec twojej twarzy</string>
+  <string name="face_unlock_reveal_eye">Twoje oczy muszą być widoczne</string>
+  <string name="face_unlock_reveal_mouth">Twoje usta muszą być widoczne</string>
+  <string name="face_unlock_rise">Obniż głowę</string>
+  <string name="face_unlock_rotated_left">Obróć głowę w prawo</string>
+  <string name="face_unlock_rotated_right">Obróć głowę w lewo</string>
+  <string name="face_unlock_sc_status">Przesuń ekran w dół, aby włączyć Aparat</string>
+  <string name="face_unlock_stay_away_screen">Zachowaj odległość 25 do 40 cm od ekranu</string>
+  <string name="face_unlock_success_show_message_dialog_msg">Zezwól na wyświetlanie powiadomień na ekranie blokady.</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Nie, dzięki</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">Zezwól</string>
+  <string name="face_unlock_success_show_message_dialog_title">Powiadomienia na ekranie blokady</string>
+  <string name="face_unlock_success_show_message_msg">Pokaż szczegóły powiadomień na zablokowanym ekranie po weryfikacji danych twarzy</string>
+  <string name="face_unlock_success_show_message_title">Pokaż szczegóły powiadomień po zweryfikowaniu</string>
+  <string name="face_unlock_success_show_message_toast">Powiadomienia będą pokazywane na ekranie blokady</string>
+  <string name="face_unlock_success_stay_screen_msg">Po odblokowaniu twarzą urządzenie pozostanie na ekranie blokady i umożliwi przejście do pulpitu gestem przesunięcia w górę</string>
+  <string name="face_unlock_success_stay_screen_title">Pozostań na ekranie blokady</string>
+  <string name="feedback_btn_text">Wyślij opinię</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_summary">Dotknij i przytrzymaj, a następnie przeciągnij pasek akcji za pływające okno</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_title">Wyświetlanie pływających okien w trybie pełnoekranowym</string>
+  <string name="freeform_guide_move_summary">Naciśnij i przytrzymaj pasek akcji pływającego okna, aby przesunąć</string>
+  <string name="freeform_guide_move_title">Przenoszenie pływających okien</string>
+  <string name="freeform_guide_move_to_small_freeform_window_summary">Przesuń pływające okno do rogu ekranu</string>
+  <string name="freeform_guide_move_to_small_freeform_window_title">Zmniejszanie pływających okien</string>
+  <string name="freeform_guide_notification_drop_down_summary">Naciśnij i przytrzymaj, a następnie przeciągnij w dół pasek powiadomień</string>
+  <string name="freeform_guide_notification_drop_down_title">Otwieranie pływających okien</string>
+  <string name="freeform_guide_settings">Pływające okno</string>
+  <string name="freeform_guide_slide_up_to_close_summary">Przeciągnij w górę z paska akcji pływającego okna</string>
+  <string name="freeform_guide_slide_up_to_close_title">Zamykanie pływających okien</string>
+  <string name="freeform_vedio_description">"·Dotknij i przytrzymaj, a następnie przeciągnij powiadomienie w dół, aby otworzyć je w pływającym oknie.
+Naciśnij \”Pływające okna\” w menu ostatnio otwartych aplikacji, aby wybrać aplikację."</string>
+  <string name="gps_description_global">Wspierane są różne systemy nawigacji (%s)</string>
+  <string name="help_and_feedback_title">Pomoc i opinie</string>
+  <string name="micloud_service_summary">Synchronizuj listę aplikacji, a także wykonaj kopię ustawień systemu oraz układu pulpitu</string>
+  <string name="micloud_service_title">Chmura Xiaomi</string>
+  <string name="miui_accessibility_asr_summary">Transkrybuj dźwięk i zapisuj tekst</string>
+  <string name="miui_accessibility_asr_title">Mi Ditto</string>
+  <string name="miui_face_enroll_success">"Możesz już odblokować ten telefon, używając danych twarzy.
+Kontynuuj, aby wyświetlić dodatkowe opcje."</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
+  <string name="multi_face_delete_message">Uwaga</string>
+  <string name="multi_face_delete_show_message">Usunąć dane twarzy?</string>
+  <string name="multi_face_input">Dodaj dane twarzy</string>
+  <string name="multi_face_input_reach_upper_limit">"Nie udało się dodać danych twarzy. Zaczekaj minutę lub dwie i spróbuj ponownie"</string>
+  <string name="multi_face_input_success_name_title">Nazwa</string>
+  <string name="multi_face_list">Dane twarzy</string>
+  <string name="multi_face_name_prefix">"Twarz "</string>
+  <string name="multi_face_number_reach_limit">"Nie można posiadać więcej niż 2 danych twarzy"</string>
+  <string name="multifunction_keyboard">Wielofunkcyjna</string>
+  <string name="nfc_repair_action_btn">Przywróć</string>
+  <string name="nfc_repair_action_desc">Naciśnij \"<b>Przywróć</b>"\", aby naprawić problemy uniemożliwiające używanie NFC. Nie opuszczaj tej strony w trakcie przywracania. Uruchom ponownie telefon aby wprowadzić zmiany."</string>
+  <string name="nfc_repair_btn_no">Nie</string>
+  <string name="nfc_repair_btn_reboot">Uruchom ponownie</string>
+  <string name="nfc_repair_btn_reboot_later">Później</string>
+  <string name="nfc_repair_btn_retry">Spróbuj ponownie</string>
+  <string name="nfc_repair_btn_yes">Tak</string>
+  <string name="nfc_repair_confirm_desc" formatted="false">"Czy napotkałeś/aś jeden z tych błędów?
+%d. Nie dało się dodać karty NFC.
+%d. Karty NFC nie działały.
+%d. Inne funkcje NFC nie działały."</string>
+  <string name="nfc_repair_fail_desc">Napotkano błąd, który uniemożliwił przywracanie NFC. Spróbuj ponownie.</string>
+  <string name="nfc_repair_fail_title">"Nie można przywrócić"</string>
+  <string name="nfc_repair_ongoing">"Przywracanie… Nie opuszczaj tej strony."</string>
+  <string name="nfc_repair_pass_desc">Uruchom ponownie telefon, aby wprowadzić zmiany.</string>
+  <string name="nfc_repair_pass_title">Pomyślnie przywrócono</string>
+  <string name="nfc_repair_summary">Napraw problemy uniemożliwiające używanie NFC</string>
+  <string name="nfc_repair_title">Przywróć działanie NFC</string>
+  <string name="oaid_string">"Aktualne wirtualne ID:
+%1s"</string>
+  <string name="operation_guide_title">Poradnik</string>
+  <string name="other_password">Inne hasła</string>
+  <string name="password_and_security">Hasła i bezpieczeństwo</string>
+  <string name="phone_backup_summary">Wykonaj kopię zapasową lub przywróć elementy tego telefonu</string>
+  <string name="phone_backup_title">Telefon</string>
+  <string name="privacy_protection">Ochrona prywatności</string>
+  <string name="regional_screen_shot">Częściowy zrzut ekranu</string>
+  <string name="rgb_face_data_manage_delete_msg">Usuń dane twarzy 2D</string>
+  <string name="sos_phone_call_privacy_dialog_message">"Aby zadzwonić do kontaktów alarmowych i odtworzyć nagranie SOS, ta aplikacja wymaga następujących uprawnień:
+• Wykonywanie połączeń
+Aby wykonać połączenie do kontaktów alarmowych
+• Monitorowanie stanu urządzenia
+Aby odtworzyć nagranie SOS, jeśli kontakt alarmowy odbierze połączenie.
+Jeśli nie zgadzasz się na nadanie tych uprawnień, nie będziesz mógł/mogła używać części funkcji; jednak funkcje podstawowe wciąż będą dostępne. Zawsze możesz wyłączyć tę funkcję."</string>
+  <string name="sos_phone_call_privacy_dialog_message_confirm">Zezwól</string>
+  <string name="sos_phone_log_privacy_dialog_message">"Ta aplikacja potrzebuje dostępu do historii połączeń, aby móc wysłać ją kontaktom alarmowym.
+Jeśli nie zgadzasz się na nadanie tych uprawnień, nie będziesz mógł/mogła używać części funkcji; jednak funkcje podstawowe wciąż będą dostępne. Zawsze możesz wyłączyć tę funkcję."</string>
+  <string name="sos_privacy_dialog_message_new_version">"Alarmowy SOS pozwala ci udostępniać twoją lokalizację w czasie rzeczywistym oraz wysyłać wiadomości tekstowe do kontaktów alarmowych.
+Xiaomi będzie chronić Twoje dane zgodnie z odpowiednimi przepisami, regulacjami i politykami prywatności.
+Ta aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:
+• Dostęp do pamięci urządzenia, 
+Aby zapisać kontakty alarmowe
+• Dostęp do kontaktów, 
+Aby oznaczyć określone kontakty jako alarmowe,
+• Wysyłanie SMS, 
+Aby wysyłać wiadomości tekstowe do kontaktów alarmowych
+• Dostęp do lokalizacji, 
+Aby udostępniać twoją lokalizację kontaktom alarmowym.
+Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich danych osobowych, nie możesz używać tej aplikacji.
+Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
+  <string name="sound_assist_summary">Dostosuj ustawienia dźwięku</string>
+  <string name="sound_assist_title">Asystent dźwięku</string>
+  <string name="storage_use_title">Używany</string>
+  <string name="structure_face_data_delete_fail">"Nie można usunąć danych twarzy 3D. Spróbuj ponownie."</string>
+  <string name="structure_face_data_input_down">Pochyl głowę</string>
+  <string name="structure_face_data_input_error_away_screen">Oddal trochę telefon od twarzy</string>
+  <string name="structure_face_data_input_error_expose_features">"Nie widać niektórych części twarzy"</string>
+  <string name="structure_face_data_input_error_keep_inface">Miej twarz wewnątrz ramki</string>
+  <string name="structure_face_data_input_error_overly_light">Za dużo światła</string>
+  <string name="structure_face_data_input_left">Obróć głowę w lewo</string>
+  <string name="structure_face_data_input_right">Obróć głowę w prawo</string>
+  <string name="structure_face_data_input_timeout_msg">"Nie można zapisać danych."</string>
+  <string name="structure_face_data_input_timeout_title">Spróbuj ponownie</string>
+  <string name="structure_face_data_input_up">Spójrz w górę</string>
+  <string name="structure_face_data_introduction_back">Wstecz</string>
+  <string name="structure_face_data_introduction_msg">Dane twarzy 3D pozwalają na odblokowanie urządzenia i weryfikację tożsamości. Przed użyciem tej funkcji musisz ustawić hasło.</string>
+  <string name="structure_face_data_introduction_title">Dodaj dane twarzy 3D</string>
+  <string name="structure_face_data_ir_input_face">Przesuń trochę głowę</string>
+  <string name="structure_face_data_manage_delete_msg">Usuń dane twarzy 3D</string>
+  <string name="structure_face_data_suggestion_text">"Upewnij się, że wszystkie części twojej twarzy są dobrze widoczne i oświetlone. Zdejmij okulary przeciwsłoneczne, nakrycia głowy lub inne rzeczy, które mogłyby zmienić odczyt danych 3D twarzy."</string>
+  <string name="structure_face_data_suggestion_warning_text">Ważne: Korzystanie z danych twarzy 3D zapewnia mniejszy poziom bezpieczeństwa od hasła. Inne osoby wyglądające bardzo podobnie do ciebie mogą odblokować to urządzenie.</string>
+  <string name="structure_face_delete_data_dialog_msg">"Nie można uruchomić kamery i podglądu. Spróbuj ponownie."</string>
+  <string name="structure_face_delete_data_dialog_msg_retry">Spróbuj ponownie</string>
+  <string name="structure_face_delete_data_dialog_title">"Nie można uruchomić kamery"</string>
+  <string name="structure_face_hardware_abnormal_btn">Rozumiem</string>
+  <string name="structure_face_hardware_abnormal_msg">"Wystąpił błąd sprzętu. Zrestartuj urządzenie. Jeśli to nie pomoże, skontaktuj się z serwisem."</string>
+  <string name="structure_face_hardware_abnormal_title">Błąd sprzętu</string>
+  <string name="structure_face_modules_abnormal_btn">Uruchom ponownie</string>
+  <string name="structure_face_modules_abnormal_msg">"Nie udało się zapisać danych twarzy przez błąd z modułem optycznym. Zrestartuj telefon i spróbuj ponownie."</string>
+  <string name="structure_face_modules_abnormal_title">Błąd modułu optycznego</string>
+  <string name="structure_face_unlock_model2d_dialog_msg">"Rozpoznawanie 3D zostanie wyłączone. Twoje dane twarzy 3D zostaną usunięte, a dane 2D muszą być teraz zapisane. Włączyć rozpoznawanie 2D?"</string>
+  <string name="structure_face_unlock_model2d_dialog_title">Włączanie rozpoznawania 2D</string>
+  <string name="structure_face_unlock_model3d_dialog_msg">"Rozpoznawanie 2D zostanie wyłączone. Twoje dane twarzy 2D zostaną usunięte, a dane 3D muszą być teraz zapisane. Włączyć rozpoznawanie 3D?"</string>
+  <string name="structure_face_unlock_model3d_dialog_title">Włączanie rozpoznawania 3D</string>
+  <string name="structure_face_unlock_model_dialog_enable">Włącz</string>
+  <string name="structure_face_unlock_model_dialog_notenable">Nie dziękuję</string>
+  <string name="structure_face_unlock_model_other">Pozostałe</string>
+  <string name="structure_face_unlock_model_other_msg_2d">Rozpoznawanie 2D</string>
+  <string name="structure_face_unlock_model_other_msg_3d">Rozpoznawanie 3D</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">Rozpoznawanie twarzy 2D jest mniej bezpieczne od wzoru, hasła czy PINu. To urządzenie może zostać odblokowane przez twoje zdjęcie lub osoby wyglądające podobnie do ciebie.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"Rozpoznawanie 3D jest relatywnie bezpieczne. Jest mało prawdopodobne, by odblokować urządzenie twoim zdjęciem."</string>
+  <string name="structure_face_unlock_model_other_title">Rozpoznawanie twarzy</string>
+  <string name="structure_face_unlock_not_same_person">"Musisz dokończyć kroki osobiście. Nie zamieniaj się z inną osobą."</string>
+  <string name="structure_face_unlock_tof_covered">"Nie można dodać danych twarzy. Odsuń się od ekranu."</string>
+  <string name="three_gesture_long_press">Dotknij i przytrzymaj %d palcami</string>
+  <string name="turn_off_keyguard_password_title">Wyłącz blokadę ekranu</string>
+  <string name="unlock_failed">Błąd wewnętrzny</string>
+  <string name="use_control_panel">Użyj Centrum kontroli</string>
+  <string name="wifi_security_none_owe">Brak/Enhanced Open</string>
+  <string name="wifi_security_short_none_owe">Brak/OWE</string>
 </resources>

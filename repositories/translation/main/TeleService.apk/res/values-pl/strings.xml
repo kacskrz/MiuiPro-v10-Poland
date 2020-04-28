@@ -2002,4 +2002,15 @@ Zawsze używaj tego numeru"</string>
   <string name="skt_msim_emm_cause_3">"Nie udało się zweryfikować użytkownika w karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
   <string name="skt_msim_emm_cause_6">"Nie udało się zweryfikować urządzenia na karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
   <string name="skt_msim_emm_cause_7_8_15">"Nie udało się zarejestrować sieci w karcie SIM %d. Wyłącz urządzenie, włącz je ponownie i spróbuj ponownie. Jeśli problem wciąż istnieje, skontaktuj się z infolinią operatora (1599-0011)."</string>
+  <string name="ai_assistant_not_installed">Najpierw zainstaluj AI Call Assistant</string>
+  <string name="ai_assistant_setting_title">AI Call Assistant</string>
+  <string name="fiveg_sa_switch_warning_toast">Uruchom ponownie urządzenie, aby zastosować zmiany.</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie...</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Na razie to wszystko</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Na razie to wszystko</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
 </resources>

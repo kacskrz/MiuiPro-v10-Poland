@@ -91,7 +91,7 @@
   <string name="sim_card_detecting_confirm_turn_on_network">Pozwalać na łączenie się z sieciami mobilnymi? Jeśli to zrobisz, karta SIM, którą włożysz, będzie używana do łączenia się z mobilnymi sieciami.</string>
   <string name="sim_card_detection_mobile_not_available">"Karta SIM nie może połączyć się z siecią"</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Twoja karta SIM nie może połączyć się z siecią operatora. Upewnij się, że masz wystarczające środki na koncie i spróbuj ponownie nawiązać połączenie."</string>
-  <string name="start_up_slogan">Uczyń życie prostszym</string>
+  <string name="start_up_slogan">Tylko twój</string>
   <string name="agree_terms_input_method_facemoji">"Przeczytałem i zgadzam się na politykę prywatności Facemoji."</string>
   <string name="agree_terms_input_method_kika">"Przeczytałem i zgadzam się na politykę prywatności Kika."</string>
   <string name="terms_of_use_label_systemhelper">, Usługa własna</string>

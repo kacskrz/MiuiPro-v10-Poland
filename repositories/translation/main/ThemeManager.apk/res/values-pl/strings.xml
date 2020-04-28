@@ -971,4 +971,13 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="show_mamual_hide_miwallpaper">Pokaż ręcznie ukryte efekty pulpitu</string>
   <string name="theme_community">Społeczność</string>
   <string name="update_community_tip">Zaktualizuj Mi Community, aby skorzystać z tej funkcji</string>
+  <string name="ota_recovery_theme_dialog_message">Niektóre elementy poprzednio używanego motywu mogą nie być zgodne z nową wersją MIUI. Niezgodne elementy zostaną zastąpione domyślnymi opcjami.</string>
+  <string name="ota_recovery_theme_dialog_title">Przywracanie oryginalnego motywu</string>
+  <string name="ota_recovery_theme_notity_btn">Przywróć</string>
+  <string name="ota_recovery_theme_notity_content">"Możesz wrócić do motywu używanego przed aktualizacją"</string>
+  <string name="ota_recovery_theme_notity_title">Przywróć swój motyw</string>
+  <string name="resource_incall_show_download">Pobierz wideo</string>
+  <string name="super_wallpaper">Super tapeta</string>
+  <string name="theme_wallpaper">Kategoria tapet</string>
+  <string name="swipe_find_more">Przesuń w lewo, aby wyświetlić więcej</string>
 </resources>
