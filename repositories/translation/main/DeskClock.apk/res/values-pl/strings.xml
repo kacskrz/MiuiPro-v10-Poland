@@ -405,7 +405,6 @@
   <string name="expand_button_title">Zaawansowane</string>
   <string name="not_set">Nie ustawiono</string>
   <string name="preference_copied">Skopiowano \"%1$s\" do schowka.</string>
-  <string name="search_menu_title">Szukaj</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
