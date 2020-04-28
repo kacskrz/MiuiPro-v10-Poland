@@ -29,4 +29,13 @@ przejdź na %s na innym podłączonym urządzeniu."</string>
     <string name="legal_written_offer">Licencje open source Xiaomi</string>
     <string name="poco_launcher_privacy_policy">Polityka prywatności POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Umowa użytkownika POCO Launcher</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pociągnij w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Pomyślnie odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Puść, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Na razie to wszystko"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
+  <string name="privacy_station_title">Prywatność w Xiaomi</string>
 </resources>
