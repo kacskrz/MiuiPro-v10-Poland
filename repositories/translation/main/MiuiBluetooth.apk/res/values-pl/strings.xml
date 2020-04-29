@@ -111,4 +111,6 @@
     <string name="mihome_ignore_title">Zignorować to urządzenie?</string>
     <string name="mihome_update_tips">Zaktualizuj aplikację Mi Home, a następnie trzymaj swój telefon blisko urządzenia.</string>
     <string name="mihome_update_title">Zaktualizuj aplikację Mi Home</string>
+    <string name="perm_ble_des">Dostęp do ustawień BLE</string>
+    <string name="perm_ble_lab">Dostęp do ustawień BLE</string>
 </resources>
