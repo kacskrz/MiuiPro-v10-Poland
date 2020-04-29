@@ -335,4 +335,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="online_setting_message">Włącz usługi online, aby móc słuchać więcej treści</string>
   <string name="online_setting_title">Słuchaj więcej stacji</string>
   <string name="pause_play">Wstrzymaj odtwarzanie</string>
+  <string name="open_settings">Przejdź do ustawień</string>
+  <string name="recommend">Polecane</string>
+  <string name="no_hint">NIE.</string>
 </resources>
