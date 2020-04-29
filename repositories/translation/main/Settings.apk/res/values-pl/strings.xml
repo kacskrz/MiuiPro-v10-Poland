@@ -6848,7 +6848,7 @@ Jeśli nie zgadzasz się na nadanie tych uprawnień lub udostępnianie twoich da
 Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="sound_assist_summary">Dostosuj ustawienia dźwięku</string>
   <string name="sound_assist_title">Asystent dźwięku</string>
-  <string name="storage_use_title">Używany</string>
+  <string name="storage_use_title">Zajęte</string>
   <string name="structure_face_data_delete_fail">"Nie można usunąć danych twarzy 3D. Spróbuj ponownie."</string>
   <string name="structure_face_data_input_down">Pochyl głowę</string>
   <string name="structure_face_data_input_error_away_screen">Oddal trochę telefon od twarzy</string>
@@ -6893,7 +6893,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="three_gesture_long_press">Dotknij i przytrzymaj %d palcami</string>
   <string name="turn_off_keyguard_password_title">Wyłącz blokadę ekranu</string>
   <string name="unlock_failed">Błąd wewnętrzny</string>
-  <string name="use_control_panel">Użyj Centrum kontroli</string>
+  <string name="use_control_panel">Użyj Centrum funkcji</string>
   <string name="wifi_security_none_owe">Brak/Enhanced Open</string>
   <string name="wifi_security_short_none_owe">Brak/OWE</string>
 </resources>
