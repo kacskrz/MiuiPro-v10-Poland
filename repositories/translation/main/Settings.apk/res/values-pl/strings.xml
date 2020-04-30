@@ -6896,4 +6896,5 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="use_control_panel">Użyj Centrum funkcji</string>
   <string name="wifi_security_none_owe">Brak/Enhanced Open</string>
   <string name="wifi_security_short_none_owe">Brak/OWE</string>
+  <string name="restore_oaid_positive_step">Resetuj (%1$d)</string>
 </resources>
