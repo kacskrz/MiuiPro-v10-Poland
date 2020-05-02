@@ -2645,7 +2645,6 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gb_first_guide_title">Przyspiesz prędkość i wydajność systemowo</string>
   <string name="st_antispam_title_mms">MMS</string>
   <string name="gamebox_milink">Prześlij ekran</string>
-  <string name="alert_back_milink_hangup_tips_content_vb">"Gdy ekran jest wyłączony, aplikacja będzie działała w tle bez przerywania procesu przesyłania. Naciśnij przycisk zasilania, aby ponownie włączyć ekran."</string>  <string name="other_milink_connect">"Nie można przesłać. Inna funkcja używa teraz przesyłania ekranu."</string>
   <string name="stop_milink_connect">Zatrzymano przesyłanie</string>
   <string name="battery_statistics_activity_title">Statystyki użycia baterii</string>
   <string name="pc_battery_history_consume_rank_menu_item">Ranking</string>
