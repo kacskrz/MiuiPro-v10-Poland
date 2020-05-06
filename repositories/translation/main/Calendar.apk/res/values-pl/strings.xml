@@ -746,4 +746,11 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="alarm_reminder_already">Ustawiono alarm</string>
   <string name="agenda_month_empty_hint">Brak wydarzeń na dzisiaj. Tapnij, aby dodać.</string>
   <string name="actionbar_button_up_description">Wróć</string>
+  <string name="accessibility_month_page_selected_prefix">Widok miesiąca: %2$d dla %1$d. Wybrana data: %4$d/%5$d/%3$d.</string>
+  <string name="accessibility_year_item_selected">Wybrany miesiąc: %d. Dotknij, aby otworzyć widok miesiąca.</string>
+  <string name="accessibility_year_page_selected">Widok roczny: %d. Przesuń w lewo bądź prawo, aby przełączać się pomiędzy latami. Dotknij, aby wybrać miesiące.</string>
+  <string name="action_bar_cancel">Anuluj</string>
+  <string name="action_bar_confirm">OK</string>
+  <string name="lunar_date_content_desc">Date zgodnie z kalendarzem chińskim</string>
+  <string name="solar_date_content_desc">Data zgodnie z kalendarzem gregoriańskim</string>
 </resources>
