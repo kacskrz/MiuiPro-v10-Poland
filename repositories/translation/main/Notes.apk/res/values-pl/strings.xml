@@ -412,9 +412,13 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="private_entry_available">Puść, aby otworzyć folder prywatny</string>
   <string name="private_entry_default">Przeciągnij w dół, aby otworzyć folder prywatny</string>
   <string name="time_picker_dialog_title">Ustaw czas</string>
-  <string name="todo_list">Lista zadań pobocznych</string>
-  <string name="todo_list_edit_text_hint">Kliknij \"Enter\", aby utworzyć zadanie poboczne</string>
+  <string name="todo_list">Lista zadań</string>
+  <string name="todo_list_edit_text_hint">Kliknij \"Gotowe\", aby utworzyć zadanie</string>
   <string name="todo_list_new_finish_all_tip">Nowe elementy powinny zawierać przynajmniej jedno nieukończone zadanie</string>
-  <string name="todo_list_overflow_tip">"Nie mogę utworzyć więcej zadań pobocznych"</string>
-  <string name="todo_user_guide_tip6">Kliknij \"Enter\", aby utworzyć listę zadań pobocznych</string>
+  <string name="todo_list_overflow_tip">"Nie mogę utworzyć więcej zadań"</string>
+  <string name="todo_user_guide_tip6">Kliknij \"Gotowe\", aby utworzyć listę zadań</string>
+  <string name="btn_next">Dalej</string>
+  <string name="note_gesture_guide_step1">Przytrzymaj ikonę plusa, aby utworzyć notatkę głosową</string>
+  <string name="note_gesture_guide_step2">Przytrzymaj, a następnie przeciągnij notatkę nad inną notatkę, aby utworzyć folder</string>
+  <string name="note_gesture_guide_step3">Przytrzymaj, a następnie przeciągnij notatkę nad folderem, aby przenieść ją do tego folderu</string>
 </resources>
