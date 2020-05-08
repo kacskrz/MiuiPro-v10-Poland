@@ -216,7 +216,7 @@
     <string name="cleaner_scan_no_result">Nie można teraz zwolnić więcej przestrzeni</string>
     <string name="cleaner_scan_ok">Rozumiem</string>
     <string name="cleaner_scan_title">Skanowanie albumów…</string>
-    <string name="cleaner_screen_shot_action">Wyczyść</string>
+    <string name="cleaner_screen_shot_action">Wyświetl</string>
     <string name="cleaner_screen_shot_description">Usuń zrzuty ekranu, których już nie potrzebujesz.</string>
     <string name="cleaner_screen_shot_title">Usuń zrzuty ekranu</string>
     <string name="cleaner_slim_action">Rozpocznij optymalizację…</string>
@@ -1473,10 +1473,10 @@ aby spersonalizować Galerię"</string>
   <string name="set_as_video_wallpaper_description">Pobrać ten element i użyć go jako tapety?</string>
   <string name="set_as_video_wallpaper_title">Ustaw tapetę wideo</string>
   <string name="set_video_wallpaper_failed">"Nie można użyć tego elementu jako tapety wideo"</string>
-  <string name="cleaner_similar_action">Usuń teraz</string>
+  <string name="cleaner_similar_action">Wyświetl</string>
   <string name="cleaner_similar_description">Usuń duplikaty zdjęć</string>
   <string name="cleaner_similar_title">Duplikaty</string>
-  <string name="cleaner_video_action">Usuń teraz</string>
+  <string name="cleaner_video_action">Wyświetl</string>
   <string name="cleaner_video_description">Usuń filmy, które zajmują dużo miejsca</string>
   <string name="cleaner_video_pick_delete_selected">Usuń zaznaczone wideo</string>
   <string name="cleaner_video_title">Usuń pliki wideo</string>
@@ -1725,7 +1725,7 @@ aby spersonalizować Galerię"</string>
   <string name="thumbnail_build_error">"Nie udało się pobrać miniatury"</string>
   <string name="thumbnail_error_log_cleared">Pomyślnie wyczyszczono</string>
   <string name="app_summary">Zarządzanie i edytowanie zdjęć i wideo na urządzeniu oraz w Chmurze Xiaomi</string>
-  <string name="cleaner_raw_action">Wyczyść</string>
+  <string name="cleaner_raw_action">Wyświetl</string>
   <string name="cleaner_raw_description">Zwolnij miejsce, usuwając duże zdjęcia w formacie RAW</string>
   <string name="cleaner_raw_title">Usuń pliki RAW</string>
   <string name="filter_film_classic">Klasyczny</string>
@@ -1783,8 +1783,8 @@ aby spersonalizować Galerię"</string>
   <string name="photo_portrait_color_no_face">Wyróżnienie kolorem działa wyłącznie na zdjęciach, na których są ludzie</string>
   <string name="photo_portrait_download_sdk_without_wifi_msg">"Twoje urządzenie nie jest połączone z siecią Wi-Fi. Możesz pobrać filtry (%1$d MB) za pomocą danych komórkowych."</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Pobierz filtry</string>
-  <string name="send_heif_summary">Skonwertuj obrazy przed wysłaniem w celu zapewnienia kompatybilności</string>
-  <string name="send_heif_title">Skonwertuj pliki HEIF do JPG przed wysłaniem</string>
+  <string name="send_heif_summary">Skonwertuj obrazy w formacie HEIF do JPEG w celu zapewnienia kompatybilności</string>
+  <string name="send_heif_title">Skonwertuj pliki HEIF do JPEG przed wysłaniem</string>
   <string name="unsupported_media_downloading_tip_common">"Wyświetlanie oryginalnych obrazów w tym formacie nie jest wspierane w tej wersji Androida. Pobrać mimo to?"</string>
   <string name="unsupported_media_downloading_tip_format">"Wyświetlanie %s oryginalnych obrazów nie jest wspierane w tej wersji Androida. Pobrać mimo to?"</string>
   <string name="unsupported_media_scanned_tip">"Znaleziono %1$s oryginalnych obrazów. Wyświetlanie %2$s obrazów nie jest wspierane w tej wersji Androida."</string>
@@ -2123,4 +2123,21 @@ aby spersonalizować Galerię"</string>
      <string name="security_share_subtitle_hide">Usunięto informacje o lokalizacji</string>
      <string name="security_share_subtitle_no_hide">Zawiera informacje o lokalizacji</string>
      <string name="zman_title">Bezpieczne udostępnianie</string>
+     <string name="album_tab_page_switch_view_style_to_grid">Widok siatki</string>
+     <string name="album_tab_page_switch_view_style_to_linear">Widok listy</string>
+ 	 <string name="continue_feedback">Dodatkowa opinia</string>
+     <string name="macarons_download_later">Odczekaj minutę lub dwie i spróbuj ponownie</string>
+     <string name="macarons_download_network_fail">"Nie udało się pobrać wtyczki. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+     <string name="macarons_download_other_fail">"Nie udało się pobrać ze względu na nieznany błąd"</string>
+     <string name="macarons_download_sdscard_fail">"Nie udało się pobrać. Karta SD jest niedostępna."</string>
+     <string name="macarons_download_storage_fail">"Nie udało się pobrać. Brak miejsca na urządzeniu."</string>
+     <string name="macarons_downloading">Pobieranie wtyczki…</string>
+     <string name="problem_feedback">Opinia</string>
+  	 <string name="vlog_clip_zoom">Użyj dwóch palców, aby zwiększyć lub zmniejszyć ilość klatek w podglądzie</string>
+     <string name="vlog_exit_message">Wszystkie niezapisane zmiany zostaną utracone. Czy chcesz wyjść mimo to?</string>
+     <string name="vlog_exit_title">Masz niezapisane zmiany</string>
+     <string name="vlog_float_view_original_ratio">Original</string>
+     <string name="vlog_improt_encode_video_error">Wystąpił błąd enkodera. Spróbuj ponownie.</string>
+     <string name="vlog_photo_edit_not_support">"Nie można edytować obrazów"</string>
+     <string name="vlog_video_trans_code_cons">Przetwarzanie pliku wysokiej rozdzielczości…</string>
 </resources>
