@@ -113,4 +113,5 @@
     <string name="mihome_update_title">Zaktualizuj aplikację Mi Home</string>
     <string name="perm_ble_des">Dostęp do ustawień BLE</string>
     <string name="perm_ble_lab">Dostęp do ustawień BLE</string>
+    <string name="bluetooth_paired">Zapisano</string>
 </resources>

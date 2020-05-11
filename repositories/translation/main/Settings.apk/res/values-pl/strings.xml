@@ -6229,7 +6229,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="toggle_auto_speaker_preference_summary">Urządzenie będzie przełączało się na głośnik, gdy w trakcie połączenia oddalisz telefon od ucha. Funkcja działa tylko wtedy, gdy włączony jest TalkBack.</string>
   <string name="toggle_auto_speaker_preference_title">Przełącz na głośnik</string>
   <string name="miui_touch_filtered_touchassistant_warning">Monit dot. uprawnień jest zasłaniany przez Asystenta dotyku. Przenieś go poza obszar tego monitu lub wyłącz tę funkcję.</string>
-  <string name="allow_oaid_used">Ogranicz dostęp do dowolnego ID</string>
+  <string name="allow_oaid_used">Użyj wirtualnego ID</string>
   <string name="allow_oaid_used_desc">"Aplikacje nie będą mieć dostępu do ID, dopóki im na to nie pozwolisz. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
   <string name="device_oaid">Zarządzaj wirtualnym ID</string>
   <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, MIUI zapewni wirtualne ID (OAID) dla aplikacji firm trzecich. To powstrzyma aplikacje przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
@@ -6559,7 +6559,7 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="haptic_feedback_title">Reakcje haptyczne</string>
   <string name="open_haptic_feedback">Reakcje haptyczne</string>
   <string name="video_tool_box_title">Pasek z narzędziami wideo</string>
-  <string name="gps_description">Wspierane są różne systemy nawigacji (GPS, BeiDou, GLONASS, Galileo)</string>
+  <string name="gps_description">Urządzenia Xiaomi wspierają różne systemy nawigacji (np. GPS, NavIC, BeiDou, GLONASS czy Galileo).</string>
   <string name="diy_suppression_summary">Dostosuj obszar w pobliżu krawędzi, gdzie przypadkowe dotknięcia będą ignorowane</string>
   <string name="diy_suppression_title">Własny</string>
   <string name="privacy_failed_need_to_unlock_nofingerprint">Wprowadź hasło przed użyciem nowego odcisku palca</string>
@@ -6897,4 +6897,8 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="wifi_security_none_owe">Brak/Enhanced Open</string>
   <string name="wifi_security_short_none_owe">Brak/OWE</string>
   <string name="restore_oaid_positive_step">Resetuj (%1$d)</string>
+  <string name="bluetooth_paired">Zapisano</string>
+  <string name="reset_confirm_directory">"Uwaga: Przed przywróceniem elementów sprawdź, czy na Twoim urządzeniu istnieje katalog \"MIUI-Backup-AllBackup\". Jeśli nie istnieje, utwórz go."</string>
+  <string name="reset_remove_data_hint">Wszystkie elementy wymienione powyżej zostaną bezpowrotnie usunięte. Skopiuj wszystkie ważne elementy na swój komputer bądź do Chmury Xiaomi przed kontynuowaniem tego kroku.</string>
+  <string name="restore_oaid_dialog_content">Z wirtualnego ID korzysta teraz wiele aplikacji. Jeśli go teraz zresetujesz, część ich danych może zostać utracona bądź stać się bezużyteczna. Kontynuować mimo to?</string>
 </resources>
