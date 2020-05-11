@@ -6771,7 +6771,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="freeform_guide_slide_up_to_close_title">Zamykanie pływających okien</string>
   <string name="freeform_vedio_description">"· Dotknij i przytrzymaj, a następnie przeciągnij powiadomienie w dół, aby otworzyć je w pływającym oknie.
 Naciśnij przycisk \”Pływające okna\” w menu ostatnio otwartych aplikacji, aby wybrać aplikację."</string>
-  <string name="gps_description_global">Wspierane są różne systemy nawigacji (%s)</string>
+  <string name="gps_description_global">Urządzenia Xiaomi wspierają różne systemy nawigacji (np. GPS, NavIC, BeiDou, GLONASS czy Galileo).</string>
   <string name="help_and_feedback_title">Pomoc i opinie</string>
   <string name="micloud_service_summary">Synchronizuj listę aplikacji, a także wykonaj kopię ustawień systemu oraz układu pulpitu</string>
   <string name="micloud_service_title">Chmura Xiaomi</string>
