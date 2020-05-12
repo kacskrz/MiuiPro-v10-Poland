@@ -66,4 +66,7 @@
   <string name="doc_photo_idcard_portrait">Front</string>
   <string name="doc_photo_not_support">"Nie można zedytować tego obrazu jako dokument"</string>
   <string name="doc_photo_view_effect">Podgląd</string>
+  <string name="doc_photo_cancel">Anuluj</string>
+  <string name="doc_photo_confirm">Wyjdź</string>
+  <string name="doc_photo_idcard_alert_msg">Anulować wszystkie zmiany i wyjść z edytora?</string>
 </resources>
