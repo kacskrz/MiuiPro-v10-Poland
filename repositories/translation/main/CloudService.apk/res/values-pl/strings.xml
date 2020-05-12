@@ -437,8 +437,8 @@
   <string name="micloud_web_discription_02">by zapisywać i uzyskać dostęp do plików gdziekolwiek jesteś</string>
   <string name="micloud_web_discription_place_holder">Odwiedź %1$s</string>
   <string name="micloud_website">Elementy Chmury Xiaomi</string>
-  <string name="micloud_wipe_data_confirm_label">Usuń dane z Chmury Xiaomi</string>
-  <string name="micloud_wipe_data_confirm_title">Usunąć z telefonu elementy zsynchronizowane z Chmurą Xiaomi po wylogowaniu?</string>
+  <string name="micloud_wipe_data_confirm_label">Usunąć zsynchronizowane elementy z urządzenia?</string>
+  <string name="micloud_wipe_data_confirm_title">Elementy z niektórych aplikacji są zsynchronizowane z Chmurą Xiaomi. Możesz usunąć je z tego urządzenia, jeśli chcesz - pozostaną one w Chmurze.</string>
   <string name="micloud_wipe_data_remove">Usuń</string>
   <string name="micloud_wipe_data_retain">Zachowaj</string>
   <string name="microsoft_cloud">Usługa Microsoft Cloud</string>
