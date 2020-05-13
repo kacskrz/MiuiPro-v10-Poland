@@ -1048,4 +1048,5 @@ Możesz wybrać którąś z polecanych aplikacji!"</string>
   <string name="system_permission_declare_privacy_declare_new">Aby móc normalnie działać, aplikacja wymaga dostępu do Internetu oraz następujących uprawnień:</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
+  <string name="failed_to_send">Nie udało się wysłać</string>
 </resources>
