@@ -6230,9 +6230,9 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="toggle_auto_speaker_preference_title">Przełącz na głośnik</string>
   <string name="miui_touch_filtered_touchassistant_warning">Monit dot. uprawnień jest zasłaniany przez Asystenta dotyku. Przenieś go poza obszar tego monitu lub wyłącz tę funkcję.</string>
   <string name="allow_oaid_used">Użyj wirtualnego ID</string>
-  <string name="allow_oaid_used_desc">"Aplikacje nie będą mieć dostępu do ID, dopóki im na to nie pozwolisz. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
+  <string name="allow_oaid_used_desc">"MIUI nie będzie dostarczać wirtualnego ID aplikacjom. Niektóre funkcje dot. rekomendacji mogą nie działać poprawnie, gdy ta funkcja jest włączona."</string>
   <string name="device_oaid">Zarządzaj wirtualnym ID</string>
-  <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, MIUI zapewni wirtualne ID (OAID) dla aplikacji firm trzecich. To powstrzyma aplikacje przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
+  <string name="device_oaid_desc">Zamiast Twojego prawdziwego identyfikatora, MIUI zapewni wirtualne ID (OAID) zainstalowanym aplikacjom. Powstrzyma je to przed śledzeniem twoich zachowań i preferencji i ochroni twoją prywatność.</string>
   <string name="device_oaid_title">Wirtualne ID</string>
   <string name="device_of_someone">"%1$s - %2$s"</string>
   <string name="restore_oaid_content">Zresetuj swoje wirtualne ID, aby usunąć dane preferencji.</string>
