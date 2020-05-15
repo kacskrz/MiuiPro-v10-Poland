@@ -597,4 +597,5 @@ Pamiętaj, że do poprawnego działania ta aplikacja wymaga łączenia się z In
     <string name="prompt_before_transmission_message3_title">"Używasz Drugiej przestrzeni"</string>
     <string name="prompt_before_transmission_message4_summary">"Nie wyłączaj sieci Wi-Fi, a także nie przełączaj się pomiędzy sieciami, dopóki transfer się nie zakończy."</string>
     <string name="prompt_before_transmission_message4_title">Utrzymuj połączenie w trakcie przenoszenia</string>
+    <string name="transfer_connect_fail_summary">Dotknij przycisku poniżej, aby połączyć się ręcznie</string>
 </resources>
