@@ -727,6 +727,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="miuix_search_history_clear">Wyczyść historię wyszukiwania</string>
   <string name="miuix_search_history_default_title">Historia wyszukiwania</string>
   <string name="miuix_search_recommendation_default_title">Możesz być tym zainteresowany</string>
+  <string name="miuix_search_recommendation_item_del_des">Usuń</string>
   <string name="landscape_week_view">Widok tygodniowy w orientacji poziomej</string>
   <string name="load_more_events_default">Pokaż zdarzenia w przyszłym roku</string>
   <string name="load_more_events">Pokaż %d zdarzeń</string>

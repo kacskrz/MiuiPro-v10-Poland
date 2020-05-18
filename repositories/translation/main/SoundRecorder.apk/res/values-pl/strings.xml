@@ -211,4 +211,5 @@
   <string name="abc_shareactionprovider_share_with_application">Udostępnij przez: %s</string>
   <string name="abc_toolbar_collapse_description">Zwiń</string>
   <string name="search_menu_title">Szukaj</string>
+  <string name="agree_description">Aby móc używać wszystkich funkcji tej aplikacji, zezwól jej na połączenie się z Internetem.</string>
 </resources>
