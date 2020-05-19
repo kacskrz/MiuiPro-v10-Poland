@@ -6286,7 +6286,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="manage_password">Menedżer haseł</string> 
   <string name="manage_password_summary">Automatycznie uzupełniaj zapisane konta i hasła</string>
   <string name="more_account_settings_title">Inne konta</string>
-  <string name="notch_and_status_bar_settings">Wcięcie i pasek statusu</string>
+  <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
   <string name="notch_settings">Wcięcie</string>
   <string name="notification_center">Powiadomienia</string>
   <string name="other_sound_settings_title">Reakcje dźwiękowe</string>
