@@ -2577,4 +2577,6 @@ W sytuacji odwrotnej - gdy będziesz preferować sieci komórkowe, a ich zasięg
      <string name="zen_mode_enable_dialog_turn_on">Turn on</string>
      <string name="zen_mode_settings_summary_off">Never</string>
      <string name="zen_mode_settings_turn_on_dialog_title">Turn on Do Not Disturb</string>
+     <string name="bluetooth_show_devices_without_names">Wyświetlaj urządzenia Bluetooth bez ich nazw</string>
+     <string name="bluetooth_show_devices_without_names_summary">Wyświetlane będą tylko adresy MAC urządzeń (bez ich nazw)</string>
 </resources>

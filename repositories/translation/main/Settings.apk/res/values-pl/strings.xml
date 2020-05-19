@@ -3421,7 +3421,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="radio_info_ims_feature_status_available">Dostępna</string>
   <string name="radio_info_ims_feature_status_unavailable">Niedostępna</string>
   <string name="radio_info_ims_reg_status">Rejestracja w usłudze IMS: %1$s\nVoice over LTE: %2$s\nVoice over WiFi: %3$s\nRozmowy wideo: %4$s\nInterfejs UT: %5$s</string>
-  <string name="radio_info_ims_reg_status_not_registered">Niezarejestrowano</string>
+  <string name="radio_info_ims_reg_status_not_registered">Nie zarejestrowano</string>
   <string name="radio_info_ims_reg_status_registered">Zarejestrowano</string>
   <string name="radio_info_ims_reg_status_title">Stan IMS</string>
   <string name="radio_info_message_waiting_label">Wiadomość oczekująca:</string>
@@ -6905,4 +6905,15 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="miui_sos_remind_close_confirm">Wyłącz</string>
   <string name="content_miui_music_mute_by_user">Czy chcesz odtwarzać dźwięki multimediów, gdy włączony jest tryb cichy?</string>
   <string name="title_miui_music_mute_by_user">Tryb cichy</string>
+  <string name="sim_status_title_sim_slot">Stan karty SIM (slot SIM %1$d)</string>
+  <string name="status_number_sim_slot">Numer telefonu (slot SIM %1$d)</string>
+  <string name="imei_multi_sim">IMEI (slot SIM %1$d)</string>
+  <string name="status_number_sim_status">Numer telefonu</string>
+  <string name="status_voice_network_type">Typ sieci (głos)</string>
+  <string name="status_data_network_type">Typ sieci (dane kom.)</string>
+  <string name="ims_reg_required_off">Wyłącz wymóg rejestracji IMS</string>
+  <string name="ims_reg_required_on">Włącz wymóg rejestracji IMS</string>
+  <string name="ims_reg_status_not_registered">Niezarejestrowana</string>
+  <string name="ims_reg_status_registered">Zarejestrowana</string>
+  <string name="ims_reg_title">Stan rejestracji IMS</string>
 </resources>

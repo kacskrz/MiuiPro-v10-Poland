@@ -1937,4 +1937,6 @@ długi zrzut ekranu"</string>
     <string name="storage_is_connecting">Podłączono %1$s</string>
     <string name="auto_brightness_off">Autom. jasność wyłączona</string>
     <string name="auto_brightness_on">Autom. jasność włączona</string>
+    <string name="bluetooth_show_devices_without_names">Wyświetlaj urządzenia Bluetooth bez ich nazw</string>
+    <string name="bluetooth_show_devices_without_names_summary">Wyświetlane będą tylko adresy MAC urządzeń (bez ich nazw)</string>
 </resources>
