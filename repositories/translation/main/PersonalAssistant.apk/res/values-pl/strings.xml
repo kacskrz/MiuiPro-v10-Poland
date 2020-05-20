@@ -1182,4 +1182,15 @@
   <string name="bluetooth_item_double_battery_level_right">Pr.: %d%%</string>
   <string name="bluetooth_item_double_battery_level_right_invalid">Pr.: Brak danych</string>
   <string name="bluetooth_setting_brief">Wyświetlaj informacje o zużyciu energii przez podłączone urządzenia</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Przesuń w dół, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Odświeżono</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Odświeżanie…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Zwolnij, aby odświeżyć</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To wszystko w tej chwili"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To wszystko w tej chwili"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie można załadować"</string>
+  <string name="mru_setting_brief">Szybkie aplikacje i skróty, które pojawiają się po pociągnięciu w dół</string>
+  <string name="mru_setting_brief_detail">"Ostatnio używane szybkie aplikacje i skróty. "</string>
+  <string name="mru_title">Ostatnie elementy</string>
 </resources>
