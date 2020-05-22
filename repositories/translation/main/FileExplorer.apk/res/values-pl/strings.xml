@@ -888,8 +888,8 @@
   <string name="start_doc">Dokumenty</string>
   <string name="start_phone">Pliki</string>
   <string name="tab_app">Więcej</string>
-  <string name="text_select_all">Zaznacz wszystko</string>
-  <string name="text_select_nothing">Odznacz wszystko</string>
+  <string name="text_select_all">Zaznacz</string>
+  <string name="text_select_nothing">Odznacz</string>
   <string name="otg_file_security_confirm">kopiuj do telefonu</string>
   <string name="otg_file_security_details">Należy skopiować do telefonu</string>
   <string name="otg_file_security_note">Zabezpieczenia OTG</string>
