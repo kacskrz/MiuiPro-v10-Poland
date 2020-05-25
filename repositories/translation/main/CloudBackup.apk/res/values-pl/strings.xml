@@ -265,4 +265,16 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Nie udało się załadować elementów"</string>
   <string name="help_and_feedback">Pomoc i opinie</string>
+  <string name="btn_restore_wait_china">Czekaj na Wi-Fi</string>
+  <string name="cloud_back_up_detail_discription_china">"Kopia w Chmurze będzie wykonywana przy połączeniu Wi-Fi dla: 
+
+* Aplikacji, wyglądu pulpitu i tapet 
+* Alarmów, zegara i ustawień 
+* Opcji powiadomień 
+* Ustawień systemu 
+
+Info: dane zainstalowanych aplikacji nie będą zachowane w Chmurze."</string>
+  <string name="cloud_backup_detail_state_summary_china">Utwórz automatycznie kopię zapasową, gdy połączono z Wi-Fi</string>
+  <string name="dialog_msg_restore_require_wlan_china">Przywrócenie kopii zapasowych wymaga połączenia z siecią Wi-Fi.</string>
+  <string name="dialog_title_require_wlan_china">Połącz się z siecią Wi-Fi</string>
 </resources>

@@ -1928,8 +1928,8 @@ długi zrzut ekranu"</string>
     <string name="status_bar_clock_date_weekday_format">EEE, dd.MM.</string>
     <string name="status_bar_clock_date_weekday_format_12">EEE, dd.MM.</string> 
     <string name="bluetooth_paired">Zapisano</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Dane mobilne zostaną wyłączone. Dopóki nie użyjesz sieci Wi-Fi, aplikacje, które wymagają połączenia z Internetem, nie będą normalnie działać.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Włączone zostaną dane mobilne. Może to powodować naliczenie dodatkowych opłat przez operatora zgodnie z Twoją taryfą.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Dane mobilne zostaną wyłączone. Dopóki nie użyjesz sieci Wi-Fi, aplikacje, które wymagają połączenia z Internetem, nie będą normalnie działać. Nadal będzie można wysyłać MMS-y. Wyłączyć mimo to?</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Włączone zostaną dane mobilne. Może to powodować naliczenie dodatkowych opłat przez operatora zgodnie z Twoją taryfą. Włączyć mimo to?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Anuluj</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Wyłącz</string>
@@ -1939,4 +1939,11 @@ długi zrzut ekranu"</string>
     <string name="auto_brightness_on">Autom. jasność włączona</string>
     <string name="bluetooth_show_devices_without_names">Wyświetlaj urządzenia Bluetooth bez ich nazw</string>
     <string name="bluetooth_show_devices_without_names_summary">Wyświetlane będą tylko adresy MAC urządzeń (bez ich nazw)</string>
+    <string name="accessibility_detail_switch">Przełącznik</string>
+    <string name="accessibility_expand_button">Rozwiń</string>
+    <string name="partial_screenshot_edit">Edytuj</string>
+    <string name="partial_screenshot_repaint">Zacznij od nowa</string>
+    <string name="partial_screenshot_save">Zapisz</string>
+    <string name="partial_screenshot_save_successful">Pomyślnie zapisano</string>
+    <string name="partial_screenshot_share">Wyślij</string>
 </resources>
