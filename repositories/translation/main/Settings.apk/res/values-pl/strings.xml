@@ -6916,4 +6916,15 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="ims_reg_status_not_registered">Niezarejestrowana</string>
   <string name="ims_reg_status_registered">Zarejestrowana</string>
   <string name="ims_reg_title">Stan rejestracji IMS</string>
+  <string name="accessibility_disable_animations">Usuń animacje</string>
+  <string name="private_dns_help_message">&lt;annotation id=\"url\"&gt;Więcej informacji&lt;/annotation&gt; o funkcjach prywatnego DNS</string>
+  <string name="private_dns_mode_off">Wyłączony</string>
+  <string name="private_dns_mode_opportunistic">Automatyczny</string>
+  <string name="private_dns_mode_provider">Nazwa hosta dostawcy prywatnego DNS</string>
+  <string name="private_dns_mode_provider_failure">Nie udało się połączyć</string>
+  <string name="private_dns_mode_provider_hostname_hint">Wpisz nazwę hosta dostawcy DNS</string>
+  <string name="select_private_dns_configuration_dialog_title">Wybierz tryb prywatnego DNS</string>
+  <string name="select_private_dns_configuration_title">Prywatny DNS</string>
+  <string name="app_permission_summary_allowed">Dozwolone</string>
+  <string name="app_permission_summary_not_allowed">Niedozwolone</string>
 </resources>
