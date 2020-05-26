@@ -6286,7 +6286,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="manage_password">Menedżer haseł</string> 
   <string name="manage_password_summary">Automatycznie uzupełniaj zapisane konta i hasła</string>
   <string name="more_account_settings_title">Inne konta</string>
-  <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
+  <string name="notch_and_status_bar_settings">Centrum funkcji i panel powiadomień</string>
   <string name="notch_settings">Wcięcie</string>
   <string name="notification_center">Powiadomienia</string>
   <string name="other_sound_settings_title">Reakcje dźwiękowe</string>
@@ -6893,7 +6893,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="three_gesture_long_press">Dotknij i przytrzymaj %d palcami</string>
   <string name="turn_off_keyguard_password_title">Wyłącz blokadę ekranu</string>
   <string name="unlock_failed">Błąd wewnętrzny</string>
-  <string name="use_control_panel">Użyj Centrum funkcji</string>
+  <string name="use_control_panel">Użyj nowego Centrum funkcji</string>
   <string name="wifi_security_none_owe">Brak/Enhanced Open</string>
   <string name="wifi_security_short_none_owe">Brak/OWE</string>
   <string name="restore_oaid_positive_step">Resetuj (%1$d)</string>
