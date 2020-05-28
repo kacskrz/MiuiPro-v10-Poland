@@ -1821,7 +1821,7 @@ W celu wykonania połączenia urządzenie automatycznie połączy się z siecią
 
 Wykonanie w/w połączeń jest dostępne tylko tam, gdzie jest zasięg jakiejkolwiek sieci."</string>
   <string name="vowifi_emergency_warning_title">Połączenia alarmowe w Wi-Fi Calling</string>
-  <string name="fiveg_switch_title">Sieć 5G</string>
+  <string name="fiveg_switch_title">Używaj sieci 5G</string>
   <string name="jump_to_mobile_network_setting">Ustawienia sieci komórkowej</string>
   <string name="select_dds_dialog_title">Wybierz domyślną kartę SIM (dane)</string>
   <string name="network_mode_updating_title">Typ sieci</string>
@@ -2027,4 +2027,7 @@ Zawsze używaj tego numeru"</string>
   <string name="msim_setting_default_data_description">SIM do danych %d</string>
   <string name="private_num_kr">Ograniczono dostęp do ID rozmówcy</string>
   <string name="msim_setting_default_voice_description">SIM do połączeń %d</string>
+  <string name="fiveg_network_title">Sieci 5G</string>
+  <string name="switch_off">Wył.</string>
+  <string name="switch_on">Wł.</string>
 </resources>
