@@ -6928,4 +6928,5 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="select_private_dns_configuration_title">Prywatny DNS</string>
   <string name="app_permission_summary_allowed">Dozwolone</string>
   <string name="app_permission_summary_not_allowed">Niedozwolone</string>
+  <string name="error_apn_restrict_string">Pole APN nie może zawierać %1$s</string>
 </resources>
