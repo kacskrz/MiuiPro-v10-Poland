@@ -142,4 +142,15 @@
         <item>W celu synchronizacji kontaktów</item>
         <item>W celu zapisywania elementów na urządzeniu (np. zdjęć, filmów czy piosenek)</item>
     </string-array>
+     <string-array name="micloud_entrance_subtitleArray_china">
+         <item>Synchronizuj kontakty, wiadomości, notatki, kalendarz i wiele więcej</item>
+         <item>Kopiuj aplikacje, układ pulpitu i tapety</item>
+         <item>Kopiuj ważne ustawienia, hasła Wi-Fi, ustawienia ekranu itp.</item>
+         <item>"Zablokuj zdalnie urządzenie w przypadku zagubienia"</item>
+     </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Synchronizuj ustawienia Wi-Fi z Chmurą Xiaomi</item>
+        <item>Włącz/ustaw synchronizację</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
+    </string-array>
 </resources>

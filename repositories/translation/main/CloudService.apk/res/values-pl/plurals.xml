@@ -136,4 +136,8 @@
         <item quantity="other">"Nie można wybrać więcej niż %d elementów"</item>
         <item quantity="one">"Nie można wybrać więcej niż %d elementu"</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d sieci Wi-Fi</item>
+        <item quantity="one">%d sieć Wi-Fi</item>
+    </plurals>
 </resources>
