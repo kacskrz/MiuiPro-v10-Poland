@@ -754,4 +754,5 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="action_bar_confirm">OK</string>
   <string name="lunar_date_content_desc">Date zgodnie z kalendarzem chińskim</string>
   <string name="solar_date_content_desc">Data zgodnie z kalendarzem gregoriańskim</string>
+  <string name="agenda_not_today_empty_hint">Brak wydarzeń. Tapnij, aby dodać.</string>
 </resources>
