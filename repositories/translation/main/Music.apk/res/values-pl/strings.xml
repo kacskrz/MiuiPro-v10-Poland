@@ -1370,4 +1370,12 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="play_setting">Odtwarzanie</string>
   <string name="sound_fade_in_and_out_when_change_song_automatically">Spróbuj płynnie przejść pomiędzy utworami podczas odtwarzania</string>
   <string name="dark_mode">Ciemny motyw</string>
+  <string name="buy_vip_skip_ad">Usuń reklamy</string>
+  <string name="columbus_player_close_desc">Stracisz swoją nagrodę</string>
+  <string name="columbus_player_close_resume">WZNÓW WIDEO</string>
+  <string name="columbus_player_close_title">Zamknąć wideo?</string>
+  <string name="columbus_player_close_video">ZAMKNIJ WIDEO</string>
+  <string name="columbus_player_install_now">ZAINSTALUJ TERAZ</string>
+  <string name="columbus_player_learn_more">Dowiedz się więcej</string>
+  <string name="supplementary_songs">Dodatkowe utwory</string>
 </resources>
