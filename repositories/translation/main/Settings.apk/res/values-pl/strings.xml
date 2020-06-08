@@ -5292,8 +5292,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_eap_domain">Domena</string>
   <string name="wifi_eap_identity">Tożsamość</string>
   <string name="wifi_eap_method">Metoda EAP</string>
-  <string name="wifi_eap_options_advanced">Advanced options</string>
-  <string name="wifi_eap_options_simple">Simple options</string>
+  <string name="wifi_eap_options_advanced">Opcje zaawansowane</string>
+  <string name="wifi_eap_options_simple">Proste opcje</string>
   <string name="wifi_eap_sim_simcard">Wybierz SIM</string>
   <string name="wifi_eap_user_cert">Certyfikat użytkownika</string>
   <string name="wifi_empty_list_user_restricted">Nie masz uprawnień do zmiany sieci Wi‑Fi.</string>
@@ -6930,4 +6930,6 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="app_permission_summary_not_allowed">Niedozwolone</string>
   <string name="error_apn_restrict_string">Pole APN nie może zawierać %1$s</string>
   <string name="error_apn_not_allowed">"Ten APN jest niedozwolony na tym urządzeniu. Spróbuj wybrać inny."</string>
+  <string name="bluetooth_show_devices_without_names">Wyświetlaj urządzenia Bluetooth bez ich nazw</string>
+  <string name="bluetooth_show_devices_without_names_summary">Wyświetlane będą tylko adresy MAC urządzeń (bez ich nazw)</string>
 </resources>

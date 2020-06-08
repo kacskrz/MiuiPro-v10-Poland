@@ -115,4 +115,6 @@
     <string name="perm_ble_lab">Dostęp do ustawień BLE</string>
     <string name="bluetooth_paired">Zapisano</string>
     <string name="fast_connect_reset_common">Zresetuj urządzenie, aby móc je sparować</string>
+    <string name="bluetooth_show_devices_without_names">Wyświetlaj urządzenia Bluetooth bez ich nazw</string>
+    <string name="bluetooth_show_devices_without_names_summary">Wyświetlane będą tylko adresy MAC urządzeń (bez ich nazw)</string>
 </resources>
