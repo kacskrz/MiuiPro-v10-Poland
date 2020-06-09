@@ -1943,7 +1943,7 @@
   <string name="gesture_preference_title">Gesty</string>
   <string name="gesture_setting_off">Wyłączone</string>
   <string name="gesture_setting_on">Włączone</string>
-  <string name="gesture_wakeup_title">Kliknij dwukrotnie, aby wybudzić lub zablokować telefon</string>
+  <string name="gesture_wakeup_title">Kliknij dwukrotnie, aby wybudzić lub wyłączyć ekran</string>
   <string name="getConfiguredNetworks">Konfiguracja sieci</string>
   <string name="getConnectionInfo">Informacje o połączeniu</string>
   <string name="giga_hertz">GHz</string>
