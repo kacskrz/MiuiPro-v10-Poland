@@ -1203,4 +1203,6 @@ i dopasuj skanowane dokumenty"</string>
   <string name="timer_burst_param_interval">Przedział czasowy</string>
   <string name="timer_burst_param_total_count">Łącznie ujęć</string>
   <string name="timer_burst_setting_total_count">Obecnie: %1$s</string>
+  <string name="color_effect_entry_blackice">Czarny lód</string>
+  <string name="color_effect_entry_orange">Limonka</string>
 </resources>

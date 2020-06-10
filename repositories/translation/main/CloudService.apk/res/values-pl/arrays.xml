@@ -153,4 +153,9 @@
         <item>Włącz/ustaw synchronizację</item>
         <item>Wi-Fi;wifi;Wi-Fi;Chmura;Synchronizacja;Usługi Chmury;Chmura Xiaomi</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Synchronizuj szybkie odpowiedzi</item>
+        <item>Włącz synchronizację</item>
+        <item>Szybkie odpowiedzi;Schowek;Edytor;Chmura;Synchronizacja;Usługi Chmury</item>
+    </string-array>
 </resources>
