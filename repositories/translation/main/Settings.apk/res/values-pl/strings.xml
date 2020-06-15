@@ -5188,9 +5188,9 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="wifi_ask_disable">%s chce wyłączyć Wi-Fi</string>
   <string name="wifi_ask_enable">%s chce włączyć Wi-Fi</string>
   <string name="wifi_assistant">Wybierz najlepszą sieć automatycznie</string>
-  <string name="wifi_assistant_auto_confirm_data_message">Ta sieć Wi-Fi nie ma dostępu do Internetu. Twoje urządzenie będzie używać danych mobilnych. Możesz wyłączyć asystenta Wi-Fi w Ustawieniach.</string>
+  <string name="wifi_assistant_auto_confirm_data_message">Użyj danych mobilnych w momencie, gdy Twoje urządzenie nie może połączyć się z Internetem poprzez sieć Wi-Fi. W zależności od Twojej taryfy korzystanie z danych mobilnych może generować opłaty od operatora.</string>
   <string name="wifi_assistant_confirm_always">Nie pokazuj ponownie</string>
-  <string name="wifi_assistant_confirm_connection_title">Stan sieci Wi-Fi</string>
+  <string name="wifi_assistant_confirm_connection_title">Automatycznie wybieraj najlepsze sieci</string>
   <string name="wifi_assistant_data_prompt">Pokaż ostrzeżenie o użyciu danych</string>
   <string name="wifi_assistant_data_prompt_summary">Pokaż ostrzeżenie o użyciu danych, kiedy asystent Wi-Fi przełączy się na dane mobilne</string>
   <string name="wifi_assistant_description">Oto, jak działa asystent Wi-Fi:\n1. Kiedy połączenie Wi-Fi jest słabe, Asystent Wi-Fi będzie próbował połączyć Twoje urządzenie z innymi dostępnymi sieciami Wi-Fi.\n2. Jeśli wszystkie dostępne połączenia Wi-Fi będą słabej jakości i dane mobilne będą włączone, asystent Wi-Fi przełączy się na nie.</string>
@@ -6668,11 +6668,11 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="oldman_mode_settings">Tryb Lite</string>
   <string name="input_method_clipboard_settings">Ustawienia schowka</string>
   <string name="input_method_cloud_data_title">Schowek w Chmurze</string>
-  <string name="input_method_cloud_paste_mode_bubble_des">"Kiedy w schowku w Chmurze pojawi się nowa zawartość, zobaczysz dymek. Dotknij go, aby wkleić skopiowany tekst."</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">"Zobaczysz dymek. Dotknij go, aby wkleić skopiowany tekst."</string>
   <string name="input_method_cloud_paste_mode_bubble_title">Dymek</string>
-  <string name="input_method_cloud_paste_mode_no_des">"Nie będziesz otrzymywać powiadomień, gdy w schowku w Chmurze pojawi się nowa zawartość. Wciąż będziesz w stanie go użyć, dotykając ikony."</string>
+  <string name="input_method_cloud_paste_mode_no_des">"Nie będziesz otrzymywać powiadomień. Wciąż będziesz w stanie go użyć, dotykając ikony."</string>
   <string name="input_method_cloud_paste_mode_no_title">Brak</string>
-  <string name="input_method_cloud_paste_mode_red_point_des">"Kiedy w schowku w Chmurze pojawi się nowa zawartość, na dole klawiatury pojawi się czerwona kropka. Dotknij ikony, aby otworzyć schowek i wkleić skopiowane elementy."</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">"Na dole klawiatury pojawi się czerwona kropka. Dotknij ikony, aby otworzyć schowek i wkleić skopiowane elementy."</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Kropka</string>
   <string name="input_method_quick_access">Szybki dostęp</string>
   <string name="input_method_quick_cloud_mode_title">Powiadomienia o nowej treści w schowku</string>
@@ -6932,4 +6932,9 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="error_apn_not_allowed">"Ten APN jest niedozwolony na tym urządzeniu. Spróbuj wybrać inny."</string>
   <string name="bluetooth_show_devices_without_names">Wyświetlaj urządzenia Bluetooth bez ich nazw</string>
   <string name="bluetooth_show_devices_without_names_summary">Wyświetlane będą tylko adresy MAC urządzeń (bez ich nazw)</string>
+  <string name="control_center">Centrum funkcji</string>
+  <string name="double_knock">Dwukrotne puknięcie knykciem</string>
+  <string name="input_method_quick_cloud_tips">Typ powiadomień</string>
+  <string name="launch_ai_shortcut">Skrót do Mi SI</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Możesz wyłączyć tę funkcję w Ustawieniach > Wi-Fi > Asystent Wi-Fi.</string>
 </resources>
