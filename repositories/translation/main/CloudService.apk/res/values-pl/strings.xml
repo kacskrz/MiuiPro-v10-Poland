@@ -261,7 +261,6 @@
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat zaleca włączenie lokalizacji urządzenia</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay zaleca włączenie lokalizacji urządzenia</string>
   <string name="micloud_find_device_guide_progress">Włączanie funkcji Znajdź urządzenie…</string>
-  <string name="micloud_find_device_guide_title">Zaloguj się na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;, aby zlokalizować, zablokować lub wyczyścić urządzenie. Może to pomóc w znalezieniu urządzenia w przypadku jego utraty.</string>
   <string name="micloud_find_device_open_fail">Nie można włączyć funkcji Znajdź urządzenie</string>
   <string name="micloud_find_device_opened">Znajdź urządzenie wł.</string>
   <string name="micloud_find_device_opened_content">Znajdź swoje urządzenie na %s</string>
