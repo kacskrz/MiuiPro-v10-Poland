@@ -1408,6 +1408,13 @@ Zawsze używaj tego numeru"</string>
      <string name="msim_setting_operator_network_title">"Sieć operatora"</string>
      <string name="msim_setting_screen_title">Karty SIM i sieci mobilne</string>
      <string name="msim_setting_sim_info_editor_title">Edytuj informacje</string>
+     <string name="msim_setting_default_data">Do Internetu</string>
+     <string name="msim_setting_default_voice">Domyślna do rozmów</string>
+     <string name="msim_setting_no_sim_number">Nie ustawiono</string>
+     <string name="msim_setting_no_sim_package_info">Brak informacji o planie</string>
+     <string name="msim_setting_pop_text">Wybierz kartę SIM, aby zadzwonić</string>
+     <string name="msim_setting_set_package">Wybierz plan</string>
+     <string name="netcheck_title">Diagnostyka sieci komórkowej</string>
      <string name="msim_sim_lock">Zablokowana</string>
      <string name="msim_sim_radio_off">Wyłączone</string>
      <string name="msim_switch_data_conn_toast">Karty SIM zostały zmienione. Przejdź do ustawień sieci komórkowych by zobaczyć zmiany</string>
