@@ -225,4 +225,6 @@ dd.MM."</string>
 dd.M."</string>
     <string name="aod_lock_screen_date_12_signature">d.M.</string>
     <string name="aod_lock_screen_date_signature">d.M.</string>
+    <string name="super_wallpaper_date_inter">"EEEE
+dd.M."</string>
 </resources>
