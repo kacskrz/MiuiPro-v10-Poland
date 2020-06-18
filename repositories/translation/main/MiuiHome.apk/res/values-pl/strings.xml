@@ -569,4 +569,6 @@
   <string name="work_mode_off_label">Powiadomienia są wyłączone, zaś aplikacje - niedostępne</string>
   <string name="work_mode_on_label">Zarządzane przez Twoją organizację</string>
   <string name="work_profile_toggle_label">Profil do pracy</string>
+  <string name="unstable_dialog_message">To urządzenie uczestniczy w programie Android 11 Developer Preview. Pozwala on developerom aplikacji na Androida oraz jego entuzjastom na wypróbowanie testowych, przedpremierowych wersji Androida 11. Ta wersja systemu może zawierać różne błędy i usterki, które mogą wpłynąć na codzienne korzystanie z urządzenia.</string>
+  <string name="unstable_dialog_title">Program Android Developer Preview</string>
 </resources>
