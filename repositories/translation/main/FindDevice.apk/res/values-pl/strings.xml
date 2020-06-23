@@ -42,11 +42,10 @@
     <string name="open_wifi_settings">Otwórz ustawienia Wi-Fi</string>
     <string name="activate_xiaomi_account">Aktywuj to urządzenie</string>
     <string name="login_extra_steps">Weryfikacja logowania</string>
-    <string name="phone_locked">To urządzenie może być powiązane z istniejącym kontem Xiaomi (%s). Zaloguj się na konto, aby aktywować to urządzenie.</string>
     <string name="phone_locked_account_email">, powiązany e-mail: %s</string>
     <string name="phone_locked_account_phone">, powiązany numer telefonu: %s</string>
-    <string name="password">Hasło</string>
-    <string name="captcha">Captcha</string>
+    <string name="password">Wprowadź hasło</string>
+    <string name="phone_locked">To urządzenie jest powiązane z kontem Xiaomi (%s). Podaj hasło do konta, aby aktywować to urządzenie.</string>    <string name="captcha">Captcha</string>
     <string name="stop_on_empty_password">Hasło nie może być puste</string>
     <string name="stop_on_empty_captcha">Kod nie może być pusty</string>
     <string name="verifing_account">Weryfikacja hasła…</string>
@@ -58,14 +57,14 @@
     <string name="login_failed">Nie udało się zalogować. %s.</string>
     <string name="change_find_device_status_failed">Nie można odblokować %s.</string>
     <string name="unlock_help_title">Pomoc:</string>
-    <string name="unlock_help">"Wymagane jest połączenie z siecią
-Upewnij się czy posiadasz aktywną kartę SIM, a urządzenie nie jest podłączone do niedziałającej sieci Wi-Fi.
+    <string name="unlock_help">"Połącz się z siecią.
+Włóż działającą kartę SIM i nie łącz się z niedziałającymi sieciami Wi-Fi.
 
 Zapomniałeś hasła?
-Przejdź do id.mi.com i zresetuj hasło.
+Przejdź do id.mi.com, wybierz opcję \"Zapomniałeś hasła?\" i postępuj zgodnie z instrukcjami.
 
-Inne rozwiązania:
-Przejdź do i.mi.com i spróbuj odblokować telefon."</string>
+Nie możesz aktywować urządzenia?
+Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."</string>
     <string name="passport_vcode_prompt_long">Wpisz kod weryfikacyjny</string>
     <string name="passport_trust_device">Zaufane urządzenie</string>
     <string name="passport_verify">Weryfikuj</string>

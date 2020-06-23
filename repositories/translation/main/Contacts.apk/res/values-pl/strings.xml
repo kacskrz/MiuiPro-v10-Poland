@@ -1261,7 +1261,7 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
   <string name="callrecordview_menu_identify_numbers">Rozpoznaj numery telefonów</string>
   <string name="contact_detail_calllog_correct_yellow_page">Popraw lub zgłoś</string>
   <string name="yellowpage_address_tag">Adres</string>
-  <string name="yellowpage_provider_label">Dane dostarczane przez</string>
+  <string name="yellowpage_provider_label">Wsparcie techniczne funkcji rozpoznawania ID dzwoniącego/nadawcy dostarczane przez</string>
   <string name="confirm_delete_cloud_all_call_logs">Usunąć całą historię rozmów z kontaktem %s z tego urządzenia oraz Chmury Xiaomi?</string>
   <string name="deleteCloudConfirmationDetail">Usunąć kontakt %s z tego urządzenia oraz Chmury Xiaomi?</string>
   <string name="no_phone_no_shortcut">"Nie można utworzyć skrótów dla kontaktów bez numeru telefonu"</string>

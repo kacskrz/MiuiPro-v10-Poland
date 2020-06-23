@@ -325,7 +325,7 @@
     <string name="notification_missedCall_call_back">Oddzwoń</string>
     <string name="notification_missedCall_message">Wiadomość</string>
     <string name="accessibility_call_muted">Wyciszono połączenie.</string>
-    <string name="accessibility_speakerphone_enabled">Tryb głośnomówiący jest włączony</string>
+    <string name="accessibility_speakerphone_enabled">Głośnik jest włączony</string>
     <string name="respond_via_sms_canned_response_1">Nie mogę teraz rozmawiać. Co tam?</string>
     <string name="respond_via_sms_canned_response_2">Za chwilę do Ciebie oddzwonię.</string>
     <string name="respond_via_sms_canned_response_3">Zadzwonię do Ciebie później.</string>
@@ -337,14 +337,14 @@
     <string name="respond_via_sms_confirmation_format">Wiadomość wysłano na numer %s.</string>
     <string name="enable_account_preference_title">Konta telefonu</string>
     <string name="outgoing_call_not_allowed_user_restriction">Dozwolone są tylko połączenia alarmowe.</string>
-    <string name="outgoing_call_not_allowed_no_permission">Ta aplikacja nie może wykonywać połączeń wychodzących bez wymaganych uprawnień.</string>
+    <string name="outgoing_call_not_allowed_no_permission">Ta aplikacja nie może wykonywać połączeń bez wymaganych uprawnień.</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Aby nawiązać połączenie, należy wprowadzić prawidłowy numer.</string>
     <string name="duplicate_video_call_not_allowed">Nie można dodać więcej połączeń</string>
     <string name="no_vm_number">Brakuje numeru poczty głosowej</string>
     <string name="no_vm_number_msg">Na karcie SIM nie ma zapisanego numeru poczty głosowej.</string>
     <string name="add_vm_number_str">Dodaj numer</string>
     <string name="change_default_dialer_dialog_title">Ustawić %s jako domyślną aplikację telefoniczną?</string>
-    <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną aplikację telefoniczną</string>
+    <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną aplikację Telefonu</string>
     <string name="change_default_dialer_dialog_negative">Anuluj</string>
     <string name="change_default_dialer_warning_message">Aplikacja %s będzie mogła rozpoczynać i kontrolować połączenia. Tylko aplikacje, którym ufasz, mogą być ustawione jako domyślna aplikacja telefoniczna.</string>
     <string name="blocked_numbers">Blokowane numery</string>
@@ -421,4 +421,8 @@
   <string name="video_call_not_allowed_if_tty_enabled">Wyłącz tryb TTY, aby tworzyć połączenia głosowe.</string>
   <string name="missedcall_notification_public_version_title">Telefon</string>
   <string name="volume_boost_text">Pomyślnie zwiększono głośność</string>
+  <string name="cant_call_due_to_no_supported_service">Nie można wykonać połączenia, gdyż nie posiadasz obecnie kont obsługujących połączenia tego typu. Może to się wiązać również na przykład z tym, że do urządzenia nie jest włożona żadna karta SIM.</string>
+  <string name="cant_call_due_to_ongoing_call">Nie można wykonać połączenia, gdyż trwa %1$s inna rozmowa.</string>
+  <string name="cant_call_due_to_ongoing_calls">Nie można wykonać połączenia. Zakończ najpierw rozmowę z %1$s.</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">Nie można wykonać połączenia, gdyż w innej aplikacji trwa już jakaś rozmowa.</string>
 </resources>
