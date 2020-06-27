@@ -275,7 +275,7 @@
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picturesize_entry_4_3">4:3</string>
   <string name="pref_camera_picturesize_entry_16_9">16:9</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Pełny (16:9)</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Pełny</string>
   <string name="pref_camera_picturesize_entry_standard">Standardowo (4:3)</string>
   <string name="pref_camera_picturesize_title_simple_mode">Kadr</string>
   <string name="pref_camera_portrait_mode_entry_off">Tryb portretowy wyłączony</string>
@@ -343,7 +343,7 @@
   <string name="pref_camera_volumekey_function_title">Funkcje przycisku głośności</string>
   <string name="pref_camera_watermark_title">Dodaj sygnaturę czasową do zdjęć</string>
   <string name="pref_camera_whitebalance_entry_auto">AUTO</string>
-  <string name="pref_camera_whitebalance_entry_cloudy">Pochmurno</string>
+  <string name="pref_camera_whitebalance_entry_cloudy">Pochmurnie</string>
   <string name="pref_camera_whitebalance_entry_daylight">Światło dzienne</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescencyjne</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Sztuczne światło</string>
