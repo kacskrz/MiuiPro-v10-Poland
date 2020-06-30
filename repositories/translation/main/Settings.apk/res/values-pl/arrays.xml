@@ -1378,4 +1378,9 @@
         <item>Powiadomienia push będą grupowane i wyświetlane poniżej innych powiadomień</item>
         <item>Powiadomienia push nie będą grupowane</item>
     </string-array>
+    <string-array name="paper_color_values">
+        <item>Wszystkie kolory</item>
+        <item>Jasne kolory</item>
+        <item>Czerń i biel</item>
+    </string-array>
 </resources>
