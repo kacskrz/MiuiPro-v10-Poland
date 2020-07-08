@@ -6287,7 +6287,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="manage_password">Menedżer haseł</string> 
   <string name="manage_password_summary">Automatycznie uzupełniaj zapisane konta i hasła</string>
   <string name="more_account_settings_title">Inne konta</string>
-  <string name="notch_and_status_bar_settings">Centrum funkcji i panel powiadomień</string>
+  <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>
   <string name="notch_settings">Wcięcie</string>
   <string name="notification_center">Powiadomienia</string>
   <string name="other_sound_settings_title">Reakcje dźwiękowe</string>
@@ -6296,7 +6296,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="recommend_tip">Szukasz innych ustawień?</string>
   <string name="screen_settings">Ekran blokady</string>
   <string name="settings_new_version_btn">Aktualizuj</string>
-  <string name="status_bar_title">Elementy paska statusu</string>
+  <string name="status_bar_title">Centrum funkcji i pasek statusu</string>
   <string name="unlock_mode_title">Blokada ekranu</string>
   <string name="usage_app_get_it">Rozumiem</string>
   <string name="usage_app_limit_alter_summary">"Ten limit czasu jest krótszy niż okres czasu, przez który korzystano dzisiaj z tej aplikacji. Ustawić go mimo to?"</string>
@@ -6965,4 +6965,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="set_screen_paper_mode">Tryb czytania</string>
   <string name="texture_adjust_temperature_title">Temperatura barwowa</string>
   <string name="repeat_never">Nigdy</string>
+  <string name="location_modem_summary">Operatorzy będą wiedzieć o Twojej lokalizacji poprzez stacje bazowe</string>
+  <string name="location_modem_title">Udostępniaj informację o lokalizacji operatorowi</string>
+  <string name="permission_action_prompt">Pytaj</string>
 </resources>

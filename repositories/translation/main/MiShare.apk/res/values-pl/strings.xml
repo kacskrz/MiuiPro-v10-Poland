@@ -194,4 +194,5 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
   <string name="device_status_waiting">Oczekiwanie…</string>
   <string name="purpose_v12">Witaj w Mi Share! Możesz użyć tej aplikacji do transferu plików pomiędzy urządzeniami.</string>
   <string name="user_instructions">Uwaga</string>
+  <string name="error_send_transfer_pc_error">Przekroczono czas żądania przenoszenia. Zaktualizuj aplikację do udostępniania plików na swoim komputerze i spróbuj ponownie.</string>
 </resources>
