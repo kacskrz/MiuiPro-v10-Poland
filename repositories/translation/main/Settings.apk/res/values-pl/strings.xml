@@ -2363,7 +2363,7 @@
   <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN do Drugiej przestrzeni.
 Musi on zawierać tyle samo cyfr,
 co PIN z Pierwszej przestrzeni."</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Wprowadź od %d do %d znaków</string>
+  <string name="lockpassword_choose_your_pin_title">Wprowadź od %1$d do %2$d znaków</string>
   <string name="lockpassword_confirm_for_second_user">Potwierdź swoje hasło do Drugiej przestrzeni</string>
   <string name="lockpassword_confirm_passwords_dont_match">Hasła nie pasują</string>
   <string name="lockpassword_confirm_pins_dont_match">Kody PIN nie są takie same</string>
@@ -4745,7 +4745,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="unlock_set_unlock_password_title">Hasło</string>
   <string name="unlock_set_unlock_pattern_summary">Narysuj prosty wzór palcami, aby odblokować urządzenie</string>
   <string name="unlock_set_unlock_pattern_title">Wzór</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">Wprowadź od %d do %d cyfr, aby odblokować urządzenie</string>
+  <string name="unlock_set_unlock_pin_summary">Wprowadź od %1$d do %2$d cyfr, aby odblokować urządzenie</string>
   <string name="unlock_set_unlock_pin_title">Kod PIN</string>
   <string name="unlock_set_unlock_summary">Ustaw ekran blokady</string>
   <string name="unlock_setup_wizard_fingerprint_details">Po ustawieniu blokady ekranu możesz też skonfigurować rozpoznawanie odcisku palca. Kliknij Ustawienia &gt; Zabezpieczenia.</string>
