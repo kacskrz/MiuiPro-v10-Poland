@@ -853,7 +853,7 @@
   <string name="gb_xunyou_gift_type_one">Xunyou 1-day boost</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3-day boost</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2-day boost</string>
-  <string name="gdpr_msg"><Data>W celu używania podstawowych funkcji Panelu Sterowania musisz zgodzić się na to, że firma Xiaomi będzie gromadzić, przetwarzać i używać Twoich danych osobistych, włączając w to dane o tym, jak używasz funkcji Panelu (np. statystyki użycia danych mobilnych, informacje o wirusach oraz podstawowe informacje o Twoim urządzeniu) i inne typy informacji określone w naszej <a href="https://privacy.mi.com/all/%1$s_%2$s">Polityce prywatności</a>.</Data></string>
+  <string name="gdpr_msg"><Data>Aby móc wykrywać zagrożenia dla bezpieczeństwa urządzenia i chronić Twoje dane, firma Xiaomi musi gromadzić pewne niezbędne informacje o Twoim urządzeniu. Przeczytaj i zaakceptuj warunki <a href="https://privacy.mi.com/all/%1$s_%2$s">Polityki prywatności</a> Xiaomi przed użyciem usług tej firmy. Jeśli nie zgodzisz się na gromadzenie niektórych informacji, aplikacja wciąż będzie działać, jednak niektóre funkcje nie będą dla Ciebie dostępne.</Data></string>
   <string name="get_sys_info">Uzyskiwanie danych…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Włącz funkcję jeśli doświadczasz problemów z Gmailem, Mapami Google lub innymi aplikacjami Google. Długość pracy na baterii nieznacznie się skróci.</string>
@@ -3523,4 +3523,14 @@ Twojej gamingowej sesji"</string>
   <string name="settings_title">Bezpieczne udostępnianie</string>
   <string name="text_security">Prywatność</string>
   <string name="vb_quick_func_auto_bgm">Rozpoznawaj muzykę w tle</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Nie, dzięki</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_summary">Dodaj skrót na pulpicie, aby wyczyścić śmieci wtedy, gdy tego chcesz.</string>
+  <string name="clean_master_icon_recall_dialog_title">Wyczyść śmieci szybciej</string>
+  <string name="clean_master_icon_recall_hint">Dodaj skrót na pulpicie</string>
+  <string name="gb_gpu_driver_btn_update">Sprawdź aktualizacje</string>
+  <string name="gb_gpu_driver_update">Aktualizacje sterowników GPU</string>
+  <string name="gb_gpu_driver_update_app">Zaktualizuj</string>
+  <string name="gb_gpu_driver_update_app_tips">Wersja jest aktualna</string>
+  <string name="vtb_function_video_translation">Tłumaczenie na żywo</string>
 </resources>
