@@ -173,7 +173,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="item_resource_audio_optional_color_ring">Dźwięk dzwonka</string>
   <string name="item_resource_audio_optional_notification_ring">Powiadomienia</string>
   <string name="item_resource_audio_optional_phone_ring">Dzwonek</string>
-  <string name="live_wallpaper">Animowane</string>
+  <string name="live_wallpaper">Dynamiczne</string>
   <string name="lab">Funkcje w fazie testów</string>
   <string name="like_list">Moje polubienia</string>
   <string name="loading">Chwileczkę…</string>
@@ -571,7 +571,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="third_party_pickers_activity_title">Dodaj %1$s</string>
   <string name="title_component">Elementy motywu</string>
   <string name="title_my_audio_resource">Moje dzwonki</string>
-  <string name="title_my_miwallpaper_resource">Moje animowane tapety</string>
+  <string name="title_my_miwallpaper_resource">Moje dynamiczne tapety</string>
   <string name="title_my_miwallpaper_video_file_resource">Moje tapety wideo</string>
   <string name="title_my_wallpaper_resource">Moje tapety</string>
   <string name="title_system_audio_notification_resource">Powiadomienia systemu</string>
@@ -1039,4 +1039,5 @@ dd.M."</string>
   <string name="settings_search_keyword_font_online">Czcionki online</string>
   <string name="settings_search_keyword_font_style">Format czcionki</string>
   <string name="settings_search_keyword_font_wechat">Czcionki WeChat</string>
+  <string name="font_trial_end_purchase">Kup czcionkę</string>
 </resources>
