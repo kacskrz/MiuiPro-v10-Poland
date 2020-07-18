@@ -318,8 +318,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="remind_title">Przypomnienia</string>
   <string name="todo_menu_add_audio_description">Dodaj zadanie głosowe</string>
   <string name="todo_menu_add_description">Dodaj zadanie</string>
-  <string name="todo_schedule_time_md">dd.MM.</string>
-  <string name="todo_schedule_time_mdhm">dd.MM. HH:mm</string>
+  <string name="todo_schedule_time_md">dd.MM</string>
+  <string name="todo_schedule_time_mdhm">dd.MM HH:mm</string>
   <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="privacy_note_content_empty">Nie ma tu jeszcze żadnych elementów.</string>
   <string name="audio_create_normal_state">Puść, aby utworzyć. Przesuń w górę, aby anulować.</string>
@@ -342,7 +342,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="repeat_mode_set_item_week_detail">Co tydzień (%s)</string>
   <string name="repeat_mode_set_item_year">Co rok (%s)</string>
   <string name="repeat_mode_set_item_year_detail">Co rok (%s)</string>
-  <string name="repeat_mode_set_item_year_detail_day">dd.MM.</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd.MM</string>
   <string name="repeat_mode_set_title">Powtarzaj</string>
   <string name="repeat_mode_week">Co tydzień</string>
   <string name="repeat_mode_year">Co rok</string>
