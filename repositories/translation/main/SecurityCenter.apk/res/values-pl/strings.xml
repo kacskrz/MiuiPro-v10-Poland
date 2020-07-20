@@ -1816,9 +1816,9 @@
   <string name="st_call_other_group">Inne</string>
   <string name="st_call_settings">Blokowane połączenia</string>
   <string name="st_call_stranger_group">Blokuj połączenia od nieznajomych</string>
-  <string name="st_confirm_dialog_btn_open">Otwórz</string>
+  <string name="st_confirm_dialog_btn_open">Zablokuj</string>
   <string name="st_confirm_dialog_summary_contact_call">Wszystkie połączenia od kontaktów zostaną zablokowane.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Włącz, aby zablokować połączenia przychodzące z numerów zagranicznych.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Wszystkie połączenia od zagranicznych numerów zostaną zablokowane.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Wszystkie połączenia od nieznajomych zostaną zablokowane.</string>
   <string name="st_filter_keywords_setting_summary1">Wiadomości od nieznanych numerów, które zawierają słowa z tej listy zostaną zablokowane.</string>
   <string name="st_filter_keywords_setting_summary2">\n(Użyj przecinka do oddzielenia wielu słów kluczowych)</string>
@@ -3472,7 +3472,8 @@ Formatowanie spowoduje usunięcie istniejącej zawartości w ^2. Aby uniknąć u
   <string name="gb_wonderful_moment_toast_window_new_pop">"Nagraj kluczowe momenty
 Twojej gamingowej sesji"</string>
   <string name="gb_wonderful_video_goto_box">Otwórz Game Turbo</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Zwolniono %s. Twoje urządzenie jest teraz szybsze o %d%%.</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Zwolniono %s.
+Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="menu_summary_optimize_manage">Wyczyść pamięć</string>
   <string name="menu_summary_optimize_manage_1">Przyspiesz urządzenie o %d%%</string>
   <string name="menu_text_optimize_manage_1">Przyspiesz działanie</string>

@@ -6208,7 +6208,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="backup_set_pw_confirm_title">Potwierdź nowe hasło kopii</string>
   <string name="search_add_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
   <string name="search_manage_facerecoginition_text">Odblokowywanie twarzą;Odblokowanie twarzą;Odblokowywanie za pomocą twarzy;Rozpoznawanie twarzy;Rozpoznawanie za pomocą twarzy</string>
-  <string name="dc_light_summary_new">Ściemnianie DC ogranicza męczenie się oczu w słabych warunkach oświetleniowych. Gdy ta funkcja jest włączona, jakość obrazu może się pogorszyć.</string>
+  <string name="dc_light_summary_new">Zapobiegaj intensywnemu migotaniu i zmniejsz zmęczenie oczu w słabych warunkach oświetleniowych</string>
   <string name="color_led_applications_title">Wybierz aplikacje</string>
   <string name="color_led_applications_title_summary">Możesz ograniczyć używanie diody dla poszczególnych aplikacji</string>
   <string name="color_led_battery_title">Świeć w trakcie ładowania</string>
@@ -6980,4 +6980,10 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
   <string name="security_input_num_random_order">Losowa</string>
   <string name="security_input_num_setting_title">Klawiatura numeryczna</string>
   <string name="voice_access">Kontrola głosem</string>
+  <string name="app_function">Funkcja aplikacji</string>
+  <string name="forget_passpoint_wifi_message">Twój telefon przestanie łączyć się automatycznie z tą siecią.</string>
+  <string name="passpoint_r1_privacy_dialog_no">Anuluj</string>
+  <string name="passpoint_r1_privacy_dialog_title">Uwaga</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Polityka prywatności</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Zgadzam się i kontynuuję</string>
 </resources>
