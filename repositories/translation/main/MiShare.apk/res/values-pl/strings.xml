@@ -87,7 +87,7 @@
     <string name="help_content">"Jeśli nie możesz odnaleźć urządzenia, którego potrzebujesz, zapytaj inną osobę, czy włączyła ona funkcję Mi Share."</string>
     <string name="hide">Ukryj</string>
     <string name="i_know">Rozumiem</string>
-    <string name="location_enabled">Włączono usługi lokalizacji w celu odnalezienia urządzeń w pobliżu</string>
+    <string name="location_enabled">Mi Share włączył usługi lokalizacji w celu odnalezienia urządzeń w pobliżu</string>
     <string name="mi_drop">Mi Share</string>
     <string name="mishare_folder_in_file_explorer">Menedżer plików > MiShare</string>
     <string name="mishare_service_channel_desc">Powiadomienia o procesach Mi Share</string>
