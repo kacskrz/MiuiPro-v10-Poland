@@ -914,8 +914,8 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="yulore_term">Polityka prywatności</string>
   <string name="notification_add_todo">Przypomnij później</string>
   <string name="notification_add_todo_content">Kod odbioru: %s</string>
-  <string name="chatbox_list_title">Moje miniaplikacje</string>
-  <string name="chatbox_main_title">Miniaplikacje</string>
+  <string name="chatbot_list_title">Moje miniaplikacje</string>
+  <string name="chatbot_main_title">Miniaplikacje</string>
   <string name="rcs_chat_bot_instruction">O właścicielu</string>
   <string name="rcs_chat_bot_subject">Właściciel: %1$s</string>
   <string name="rcs_chatbot_a2p_message">Otrzymałeś wiadomość A2P message. Dotknij, aby zobaczyć szczegóły.</string>
