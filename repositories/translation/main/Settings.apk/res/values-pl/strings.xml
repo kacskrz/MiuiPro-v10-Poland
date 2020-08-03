@@ -5916,9 +5916,9 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="restore_dialog_positive">Zresetuj</string>
   <string name="restore_dialog_title">Uwaga</string>
   <string name="status_bar_settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
-  <string name="call_records_summary_1">9:35 | 26 sekund | China Unicom</string>
-  <string name="call_records_summary_2">16 sierpnia | 1 min 16 s | China Mobile</string>
-  <string name="call_records_summary_3">16 sierpnia | 2 min 24 s | China Unicom</string>
+  <string name="call_records_summary_1">9:35 | 26 sekund</string>
+  <string name="call_records_summary_2">16 sierpnia | 1 min 16 s</string>
+  <string name="call_records_summary_3">16 sierpnia | 2 min 24 s</string>
   <string name="dangerous_option_switch_title">Powiadom o wysoce ryzykownych funkcjach</string>
   <string name="launcher_icon">Ikony</string>
   <string name="miui_optimization_disabled">Wyłącz optymalizację MIUI</string>
@@ -7012,4 +7012,8 @@ Ta funkcja przetwarza Twój adres MAC sieci Wi-Fi wyłącznie w celu inicjalnej 
   <string name="launch_wechat_scanner">Skaner WeChat</string>
   <string name="mute">Tryb cichy</string>
   <string name="bluetooth_unlock_settings_devices_prompt">Wspierane są tylko wybrane urządzenia Bluetooth (np. opaski fitness czy smartwatche)</string>
+  <string name="airplane_mode_summary">Wyłącza połączenia, SMS-y i dane mobilne</string>
+  <string name="find_my_device_summary">Aby korzystać z tej funkcji, musisz być zalogowany na konto Xiaomi</string>
+  <string name="ipv4_congertion_control">Wybierz kontrolę przeciążenia TCP</string>
+  <string name="ipv4_congertion_xontrol_chose">Algorytm unikania przeciążenia TCP</string>
 </resources>

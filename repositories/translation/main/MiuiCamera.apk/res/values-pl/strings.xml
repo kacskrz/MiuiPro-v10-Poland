@@ -594,7 +594,8 @@ Przy rozmyciu tła ostrożnie fotografuj dany obiekt."</string>
   <string name="pref_camera_ultra_wide_ldc_description">Automatycznie popraw zniekształcenia</string>
   <string name="live_edit_exit_confirm">Wyjdź</string>
   <string name="live_edit_exit_message">Anulować edycję?</string>
-  <string name="beauty_reset_toast">Usunięto efekt upiększania</string>
+  <string name="beauty_reset">Przywróć</string>
+  <string name="beauty_reset_toast">Przywrócono oryginalny efekt upiększania</string>
   <string name="color_effect_live_blue">Orchidea</string>
   <string name="color_effect_live_contrast">Kontrast</string>
   <string name="color_effect_live_deepblack">Czerń i biel</string>
@@ -839,7 +840,7 @@ Kliknij i przytrzymaj, aby zobaczyć więcej opcji"</string>
 Przydaje się to szczególnie tam, gdzie nie możesz się cofnąć, aby zrobić szersze ujęcie."</string>
   <string name="ultra_wide_open_tip_sat">Bardzo szeroki kąt (0.6X)</string>
   <string name="video_beauty_tip">Upiększanie wideo</string>
-  <string name="beauty_clear">Usuń</string>
+  <string name="beauty_clear">Wyczyść</string>
   <string name="beauty_clear_toast">Wyczyszczono efekt upiększania</string>
   <string name="edit_hairline">Linia włosów</string>
   <string name="beauty_mode_reset_toast">Usunięto efekty modelowania</string>
