@@ -914,11 +914,11 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="yulore_term">Polityka prywatności</string>
   <string name="notification_add_todo">Przypomnij później</string>
   <string name="notification_add_todo_content">Kod odbioru: %s</string>
-  <string name="chatbot_list_title">Moje miniaplikacje</string>
+  <string name="chatbot_list_title">Wiadomości 5G</string>
   <string name="chatbot_main_title">Miniaplikacje</string>
   <string name="rcs_chat_bot_instruction">O właścicielu</string>
   <string name="rcs_chat_bot_subject">Właściciel: %1$s</string>
-  <string name="rcs_chatbot_a2p_message">Otrzymałeś wiadomość A2P message. Dotknij, aby zobaczyć szczegóły.</string>
+  <string name="rcs_chatbot_a2p_message">Otrzymałeś wiadomość A2P. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rcs_chatbot_audio_message">Otrzymałeś wiadomość głosową. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rcs_chatbot_card_message">Otrzymałeś wizytówkę. Dotknij, aby zobaczyć szczegóły.</string>
   <string name="rcs_chatbot_file_message">Otrzymałeś plik. Dotknij, aby zobaczyć szczegóły.</string>
