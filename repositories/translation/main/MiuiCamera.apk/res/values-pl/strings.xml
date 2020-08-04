@@ -1090,9 +1090,9 @@ i dopasuj skanowane dokumenty"</string>
   <string name="accessibility_eis_normal">EIS wł.</string>
   <string name="accessibility_eis_off">EIS wył.</string>
   <string name="accessibility_eis_pro">EIS Pro wł.</string>
-  <string name="pref_camera_eis_entry_normal">EIS</string>
+  <string name="pref_camera_eis_entry_normal">EIS wł.</string>
   <string name="pref_camera_eis_entry_off">Wył.</string>
-  <string name="pref_camera_eis_entry_pro">EIS Pro</string>
+  <string name="pref_camera_eis_entry_pro">EIS Pro wł.</string>
   <string name="pref_camera_eis_title">EIS</string>
   <string name="super_eis_pro">Stabilizacja wideo (Pro)</string>
   <string name="super_eis_pro_disabled_hint">Stabilizacja wideo (Pro) jest wyłączona</string>
