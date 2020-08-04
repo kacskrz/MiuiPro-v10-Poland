@@ -6284,7 +6284,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="key_shortcut_settings_title">Skróty przycisków</string>
   <string name="lock_screen_display_category_name">Ekran blokady</string>
   <string name="lock_screen_tip_toast">Zezwól najpierw w ustawieniach Centrum powiadomień</string>
-  <string name="manage_password">Menedżer haseł</string> 
+  <string name="manage_password">Menadżer haseł</string> 
   <string name="manage_password_summary">Automatycznie uzupełniaj zapisane konta i hasła</string>
   <string name="more_account_settings_title">Inne konta</string>
   <string name="notch_and_status_bar_settings">Centrum funkcji i pasek statusu</string>

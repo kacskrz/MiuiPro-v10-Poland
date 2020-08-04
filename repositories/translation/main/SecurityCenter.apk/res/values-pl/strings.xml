@@ -2750,7 +2750,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="cta_main_purpose">Witaj w Panelu sterowania! Możesz użyć tej aplikacji, aby zwolnić miejsce, skanować urządzenie w poszukiwaniu wirusów, kontrolować zużycie baterii, optymalizować gry, zarządzać aplikacjami, otrzymywać ostrzeżenia o trzęsieniu ziemi i nie tylko.</string>
   <string name="system_permission_declare_analytics_declare">"Dziękujemy za dołączenie do Programu zadowolenia użytkownika Xiaomi. Aby ta funkcja działała normalnie, Twoje urządzenie musi być połączone z Internetem. Musisz także nadać uprawnienia, aby pozwolić Xiaomi na gromadzenie danych, które pomogą firmie ulepszać ich aplikacje i produkty. Są one przetwarzane tylko w celach statystycznych i nie posłużą do Twojej identyfikacji."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Jeśli nie chcesz nadać uprawnień, możesz cofnąć dołączenie do programu w Ustawieniach > Hasła i bezpieczeństwo > Prywatność > Program zadowolenia użytkownika."</string>
-  <string name="menu_summary_garbage_cleanup_ex">Wyczyść %s śmieci</string>
+  <string name="menu_summary_garbage_cleanup_ex">Zwolnij %s</string>
+  <string name="menu_summary_garbage_cleanup_new">%d%% miejsca w pamięci</string>
   <string name="permission_action_always">Zawsze zezwalaj</string>
   <string name="permission_action_foreground">Gdy używam aplikacji</string>
   <string name="cta_HIPS_Perm_Location_Desc">Aby wyświetlać ostrzeżenia o trzęsieniu ziemi odpowiednie dla Twojej lokalizacji</string>
