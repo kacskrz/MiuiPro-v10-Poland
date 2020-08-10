@@ -238,7 +238,10 @@
     <string name="feedback_title_hint">Opisz problem w skrócie</string>
     <string name="feedback_description_suggest_hint">Chciałbym dodać nową funkcję () ponieważ potrzebuję ().</string>
     <string name="feedback_description_bugreport_hint">W niektórych przypadkach (…) mój telefon zachowuje się niepoprawnie (…).</string>
-    <string name="feedback_description_hint">Opisz problem, który napotkałeś</string>
+    <string name="feedback_description_hint">"Opisz problem tutaj.
+%1$d. W jakiej aplikacji bądź na jakiej stronie odkryłeś problem?
+%2$d. Po wykonaniu jakich akcji pojawił się problem?
+%3$d. Przekaż dodatkowe informacje, które mogą pomóc Xiaomi naprawić ten problem."</string>    
     <string name="toast_title_required">Opisz swój problem</string>
     <string name="toast_problem_class_required">Wybierz kategorię</string>
     <string name="feedback_third_packagename_hint">Która z aplikacji firm trzecich sprawia problemy?</string>
@@ -366,7 +369,7 @@
     <string name="catch_full_log_item_content_title">Kroki:</string>
     <string name="feedback_choose_app_tag">Wybierz element</string>
     <string name="title_user_guide">Przewodnik</string>
-    <string name="toast_app_tag_required">Wybierz element</string>
+    <string name="toast_app_tag_required">Wybierz najpierw element</string>
     <string name="passport_account_label">Konto Xiaomi</string>
     <string name="passport_notification_title">Błąd logowania dla %1$s</string>
     <string name="passport_login_prompt">Jedno konto Xiaomi, Wszystkie usługi.</string>

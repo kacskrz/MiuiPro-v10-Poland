@@ -8,9 +8,9 @@
     <string name="passport_login">Zaloguj</string>
     <string name="passport_relogin">Zaloguj się ponownie</string>
     <string name="passport_skip_login">Pomiń</string>
-    <string name="passport_skip_setup_account_title">"Nie używasz konta Xiaomi?"</string>
-    <string name="passport_skip_setup_account_msg">Konto Xiaomi będzie można skonfigurować później w Ustawieniach.</string>
-    <string name="passport_confirm_login">Kontynuuj</string>
+    <string name="passport_skip_setup_account_msg">Zalogowanie się na konto Xiaomi pozwala na korzystanie z usług Chmury Xiaomi. Czy chcesz pominąć ten krok mimo to?</string>
+    <string name="passport_skip_setup_account_title">Konto i Chmura Xiaomi</string>
+    <string name="passport_confirm_login">Zaloguj się</string>
     <string name="passport_find_password_on_web_msg">Przejdź na account.mi.com aby odzyskać hasło.</string>
     <string name="passport_title_reg">Utwórz konto</string>
     <string name="passport_reg_prompt">Nie masz konta Xiaomi? Utwórz je za darmo.</string>
