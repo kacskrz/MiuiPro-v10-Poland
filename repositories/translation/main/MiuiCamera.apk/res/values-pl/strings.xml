@@ -1044,7 +1044,7 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="kaleidoscope_fragment_tab_name">Kalejdoskop</string>
   <string name="video_beauty_tip_filter">Filtry</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
-  <string name="video_beauty_tip_beautification">Upiększanie</string>
+  <string name="video_beauty_tip_beautification">Filtry</string>
   <string name="ai_watermark_title">Znak wodny SI</string>
   <string name="ai_watermark_toast_off">Wyłączono znak wodny SI</string>
   <string name="ai_watermark_toast_on">Włączono znak wodny SI</string>
@@ -1090,9 +1090,9 @@ i dopasuj skanowane dokumenty"</string>
   <string name="accessibility_eis_normal">EIS wł.</string>
   <string name="accessibility_eis_off">EIS wył.</string>
   <string name="accessibility_eis_pro">EIS Pro wł.</string>
-  <string name="pref_camera_eis_entry_normal">EIS wł.</string>
+  <string name="pref_camera_eis_entry_normal">Stabilizacja wideo wł.</string>
   <string name="pref_camera_eis_entry_off">Wył.</string>
-  <string name="pref_camera_eis_entry_pro">EIS Pro wł.</string>
+  <string name="pref_camera_eis_entry_pro">Stabilizacja wideo Pro wł.</string>
   <string name="pref_camera_eis_title">EIS</string>
   <string name="super_eis_pro">Stabilizacja wideo (Pro)</string>
   <string name="super_eis_pro_disabled_hint">Stabilizacja wideo (Pro) jest wyłączona</string>
@@ -1364,4 +1364,5 @@ i dopasuj skanowane dokumenty"</string>
   <string name="ai_scene_mode_unknown">Nieznane</string>
   <string name="pref_camera_high_quality_preferred_description">Polepsz jakość zdjęć za pomocą specjalnego algorytmu. Gdy ta opcja jest włączona, zdjęcia mogą być wykonywane dłużej.</string>
   <string name="pref_camera_high_quality_preferred_title">Polepsz jakość zdjęć</string>
+  <string name="pano_click_to_toggle_direction">Dotknij strzałki, aby zmienić kierunek</string>
 </resources>
