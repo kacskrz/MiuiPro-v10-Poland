@@ -433,4 +433,8 @@ Dotknij ekranu, aby dodać miasto ręcznie."</string>
   <string name="dialog_title_score">Oceń Pogodę</string>
   <string name="rating_dialog_later">Później</string>
   <string name="rating_dialog_rate_now">Oceń teraz</string>
+  <string name="dynamic_weather">Pogoda</string>
+  <string name="save_to_gallery_failure_message">"Nie udało się zapisać w Galerii"</string>
+  <string name="save_to_gallery_icon_name">Zapisz w Galerii</string>
+  <string name="save_to_gallery_success_message">Pomyślnie zapisano w Galerii</string>
 </resources>
