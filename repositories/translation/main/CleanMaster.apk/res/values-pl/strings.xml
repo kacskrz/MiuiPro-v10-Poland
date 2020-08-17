@@ -571,9 +571,9 @@
   <string name="onekeyclean_boost_available">Dostępne %s</string>
   <string name="onekeyclean_card_summery">Wyczyść śmieci, aby zwolnić miejsce</string>
   <string name="onekeyclean_card_btn">Wyczyść teraz</string>
-  <string name="memory_clean_icon_text">Wyczyść pamięć</string>
+  <string name="memory_clean_icon_text">Przyspiesz urządzenie</string>
   <string name="pref_title_create_onekeyclean_shortcut">Utwórz skrót na Ekranie głównym</string>
-  <string name="memory_clean_no_trash_tip">Wszystko wygląda dobrze</string>
+  <string name="memory_clean_no_trash_tip">Wszystko OK</string>
   <string name="pref_about_privacy_title">Polityka prywatności</string>
   <string name="toast_updater_close_4g_text">"Aplikacje nie będą aktualizowane poprzez dane mobilne (LTE)"</string>
   <string name="toast_updater_open_4g_text">Aplikacje będą aktualizowane poprzez dane mobilne (LTE)</string>

@@ -6291,7 +6291,7 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="notch_settings">Wcięcie</string>
   <string name="notification_center">Powiadomienia</string>
   <string name="other_sound_settings_title">Reakcje dźwiękowe</string>
-  <string name="password_unlock_title">Hasło ekranu blokady</string>
+  <string name="password_unlock_title">Blokada ekranu</string>
   <string name="privacy_protection_title">Prywatność</string>
   <string name="recommend_tip">Szukasz innych ustawień?</string>
   <string name="screen_settings">Ekran blokady</string>
@@ -7027,4 +7027,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="smart_home_title">Smart home</string>
   <string name="smart_home_value_none">Brak</string>
   <string name="smart_home_value_unknown">Nieznane</string>
+  <string name="screen_reader_mode_input_type_summary">Wybierz gest aktywujący wprowadzanie tekstu przy włączonej funkcji TalkBack</string>
+  <string name="screen_reader_mode_input_type_title">Wprowadzanie tekstu</string>
 </resources>
