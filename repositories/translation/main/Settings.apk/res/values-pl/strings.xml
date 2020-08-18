@@ -2670,8 +2670,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="mqs_privacy_automatically_upload">Prześlij automatycznie następnym razem</string>
   <string name="mqs_privacy_dialog_cancel">Zakończ</string>
   <string name="mqs_privacy_dialog_confirm">Prześlij</string>
-  <string name="mqs_privacy_dialog_content">Czy chcesz przesłać dzienniki, aby pomóc nam zlokalizować i rozwiązać ten problem? Dzienniki mogą zawierać Twoje dane osobowe, w tym informacje o Twojej lokalizacji.</string>
-  <string name="mqs_privacy_dialog_title">Wystąpił błąd</string>
+  <string name="mqs_privacy_dialog_content">Wygląda na to, że ostatnio na Twoim urządzeniu pojawiły się błędy. Możesz wysłać logi, które być może pomogą Xiaomi zlokalizować i naprawić ten problem. Mogą one zawierać Twoje dane, takie jak np. lokalizacja. Czy chcesz wysłać logi?</string>
+  <string name="mqs_privacy_dialog_title">Wysyłanie logów</string>
   <string name="msd_driver_download">Pobierz sterownik</string>
   <string name="msd_driver_download_mac">OSX: Pobierz sterownik i zainstaluj AndroidFileTransfer.dmg.</string>
   <string name="msd_driver_download_mac_url">Pobierz sterownik z http://www.android.com/filetransfer/</string>
