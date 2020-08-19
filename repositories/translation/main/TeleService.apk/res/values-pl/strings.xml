@@ -1040,7 +1040,7 @@ Spróbuj ponownie lub zadzwoń do działu obsługi klienta, aby uzyskać więcej
     <string name="sim_card_num">SIM%s</string>
     <string name="delete">Usuń</string>
     <string name="always_enable_mms">Zawsze odbieraj MMS</string>
-    <string name="always_enable_mms_summary">Zawsze odbieraj MMS, gdy dane mobilne są wyłączone</string>
+    <string name="always_enable_mms_summary">Zawsze odbieraj MMS, również wtedy, gdy dane mobilne są wyłączone</string>
     <string name="networks_title">Sieci komórkowe</string>
     <string name="network_settings_warn_message">Twoje urządzenia połączy się tylko z sieciami, które wybierzesz ręcznie.</string>
     <string name="network_settings_auto_select_title">Nie wybieraj sieci automatycznie</string>

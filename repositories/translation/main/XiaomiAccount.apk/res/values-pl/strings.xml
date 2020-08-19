@@ -508,7 +508,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Pamięć</string>
   <string name="select_all">Zaznacz wszystko</string>
-  <string name="agreement_and_privacy">Dokumenty prawne</string>
+  <string name="agreement_and_privacy">Warunki użytkowania</string>
   <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz się na nie zalogujesz.</string>
   <string name="scan_barcode">Zeskanuj kod QR</string>
   <string name="passport_wx_bind_account_limit">"Nie można teraz utworzyć konta. Spróbuj się zalogować za pomocą innej metody."</string>
@@ -640,4 +640,5 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="get_identity_auth_url_failed">"Nie udało się zweryfikować ID"</string>
   <string name="copy_to_clipboard_successful">Pomyślnie skopiowano</string>
+  <string name="help_center">Pomoc</string>
 </resources>
