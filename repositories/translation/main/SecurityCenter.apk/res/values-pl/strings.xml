@@ -2225,9 +2225,9 @@
   <string name="use_immediately">Użyj</string>
   <string name="user_define_title">Dodaj regułę</string>
   <string name="virus_ad_icon_text">Reklama</string>
-  <string name="virus_auto_update_engine">Automatyczne aktualizacje：%s</string>
+  <string name="virus_auto_update_engine">Automatyczne aktualizacje: %s</string>
   <string name="virus_update_tips_title">Ostrzeżenie</string>
-  <string name="virus_wait_network_dialog_message">Twój telefon nie jest połączony z Wi-Fi. Użyć połączenia danych mobilnych?</string>
+  <string name="virus_wait_network_dialog_message">Telefon nie jest obecnie połączony z siecią Wi-Fi. Do pobrania definicji wirusów zostaną wykorzystane dane mobilne. Użyć ich?</string>
   <string name="wakepath_confirm_start_activity">Zezwolić %1$s na otwarcie %2$s?</string>
   <string name="website">Strona WWW</string>
   <string name="whitelist_prefix_add_hint">Dodaj wszystkie numery z prefiksami do wyjątków</string>
