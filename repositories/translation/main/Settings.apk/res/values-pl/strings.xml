@@ -5916,9 +5916,9 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="restore_dialog_positive">Zresetuj</string>
   <string name="restore_dialog_title">Uwaga</string>
   <string name="status_bar_settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
-  <string name="call_records_summary_1">9:35 | 26 sekund</string>
-  <string name="call_records_summary_2">16 sierpnia | 1 min 16 s</string>
-  <string name="call_records_summary_3">16 sierpnia | 2 min 24 s</string>
+  <string name="call_records_summary_1">%1$d:%2$d | %3$d sekund</string>
+  <string name="call_records_summary_2">%1$d | %2$d min %3$d s</string>
+  <string name="call_records_summary_3">%1$d | %2$d min %3$d s</string>
   <string name="dangerous_option_switch_title">Powiadom o wysoce ryzykownych funkcjach</string>
   <string name="launcher_icon">Ikony</string>
   <string name="miui_optimization_disabled">Wyłącz optymalizację MIUI</string>
@@ -7030,4 +7030,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="screen_reader_mode_input_type_summary">Wybierz gest aktywujący wprowadzanie tekstu przy włączonej funkcji TalkBack</string>
   <string name="screen_reader_mode_input_type_title">Wprowadzanie tekstu</string>
   <string name="expand_button_title">Zaawansowane</string>
+  <string name="bt_show_notification_summary">Wyświetlaj permanentne powiadomienie w Panelu powiadomień</string>
+  <string name="bt_show_notification_title">Powiadomienia dot. urządzeń Bluetooth</string>
 </resources>
