@@ -1833,7 +1833,7 @@ długi zrzut ekranu"</string>
   <string name="quick_settings_sim_disabled">" (nieaktywna)"</string>
   <string name="band_24G">" (pasmo 2,4 GHz)"</string>
   <string name="band_5G">" (pasmo 5 GHz)"</string>
-  <string name="screenshot_failed_to_capture_title">"Ta aplikacja nie pozwala na wykonywanie zrzutów ekranu"</string>
+  <string name="screenshot_failed_to_capture_title">"Nie można wykonywać tutaj zrzutów ekranu"</string>
   <string name="screenshot_failed_to_save_title">Brak miejsca na nowe zrzuty ekranu</string>
   <string name="multi_face_delete_message">Uwaga</string>
   <string name="multi_face_delete_show_message">Usunąć dane twarzy?</string>
@@ -1955,4 +1955,6 @@ długi zrzut ekranu"</string>
     <string name="wifi_unsaved_network_linking_summary">Włącz automatyczne próby połączenia się z nowym SSID z zabezpieczeniami WPA/WPA2-PSK w paśmie 5 GHz za pomocą danych logowania do sieci SSID WPA/WPA2-PSK w paśmie 2 GHz w momencie, gdy SSID i BSSID częściowo się zgadzają</string>
     <string name="wifi_whitelist_roaming">Most SSID - Fast Handover</string>
     <string name="wifi_whitelist_roaming_summary">Włącz roaming pomiędzy różnymi punktami dostępu SSID WPA/WPA2-PSK z takim samym adresem MAC bramy domyślnej</string>
+    <string name="sim_state_locked_dialog_title">Karta SIM zablokowana</string>
+    <string name="sim_state_locked_puk_dialog_message">"Wprowadzono nieprawidłowy kod PUK co najmniej 10 razy. Twoja karta SIM została zablokowana. Wymień ją na inną."</string>
 </resources>
