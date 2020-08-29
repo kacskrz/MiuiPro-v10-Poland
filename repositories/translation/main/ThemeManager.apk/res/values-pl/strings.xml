@@ -276,7 +276,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="resource_apply_trial">Wypróbuj teraz</string>
   <string name="resource_back">Wstecz</string>
   <string name="resource_buy">Kup</string>
-  <string name="resource_can_not_selected">%1$s nie może zostać zaznaczonych!</string>
+  <string name="resource_can_not_selected">%1$s element nie może zostać zaznaczony!</string>
   <string name="resource_category">Kategorie</string>
   <string name="resource_clear_search_history">Wyczyść historię wyszukiwania</string>
   <string name="resource_clear_search_history_dialog">Wyczyścić historię wyszukiwania?</string>
@@ -315,7 +315,7 @@ Ten plik nie ma dźwięku. Inne osoby będą słyszeć ich domyślny dzwonek w t
   <string name="resource_comment_upload_not_logined">Musisz się najpierw zalogować</string>
   <string name="resource_comment_upload_success">Twój komentarz zostanie wyświetlony po szybkiej moderacji.</string>
   <string name="resource_continue">Dalej</string>
-  <string name="resource_current_using_title">Aktualne zasoby</string>
+  <string name="resource_current_using_title">Obecnie używany</string>
   <string name="resource_data_empty">Brak elementów.</string>
   <string name="resource_default">Domyślny dzwonek</string>
   <string name="resource_default_name">Element</string>
