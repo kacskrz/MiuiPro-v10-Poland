@@ -509,7 +509,7 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="permission_group_storage">Pamięć</string>
   <string name="select_all">Zaznacz wszystko</string>
   <string name="agreement_and_privacy">Warunki użytkowania</string>
-  <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz się na nie zalogujesz.</string>
+  <string name="passport_first_login_prompt">Konto Xiaomi zostanie założone automatycznie, gdy pierwszy raz użyjesz numeru telefonu.</string>
   <string name="scan_barcode">Zeskanuj kod QR</string>
   <string name="passport_wx_bind_account_limit">"Nie można teraz utworzyć konta. Spróbuj się zalogować za pomocą innej metody."</string>
   <string name="com_facebook_device_auth_instructions">Odwiedź &lt;b>facebook.com/device&lt;/b> i wpisz powyższy kod.</string>
