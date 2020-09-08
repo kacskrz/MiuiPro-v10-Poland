@@ -935,7 +935,7 @@ Spróbuj ponownie za %3$d sekund."</string>
   <string name="miui_ringer_standard_description">Wycisz dzwonki dla połączeń przychodzących i powiadomień</string>
   <string name="miui_ringer_total">Godz. ciszy</string>
   <string name="miui_ringer_total_description">Wycisz dźwięki i wyłącz wibracje dla wszystkich dźwięków oprócz budzika</string>
-  <string name="miui_screen_rotation_freeze_message">Wyłączono obrót ekranu.</string>
+  <string name="miui_screen_rotation_freeze_message">Zablokowano obrót ekranu w trybie horyzontalnym</string>
   <string name="miui_toast_zen_dnd_to_off">Wyłączono tryb Nie przeszkadzać. Dźwięki i wibracje zostały przywrócone.</string>
   <string name="miui_toast_zen_standard_to_off">Wyłączono tryb Cichy. Dźwięk dzwonków i powiadomień został przywrócony.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Wyłączono tryb Godziny ciszy. Dzwonki, powiadomienia i dźwięki multimediów będą słyszalne.</string>
