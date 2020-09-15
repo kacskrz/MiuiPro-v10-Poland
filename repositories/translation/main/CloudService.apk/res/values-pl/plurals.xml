@@ -140,4 +140,8 @@
         <item quantity="other">%d sieci Wi-Fi</item>
         <item quantity="one">%d sieć Wi-Fi</item>
     </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Nie można zsynchronizować %s elementów"</item>
+        <item quantity="one">"Nie można zsynchronizować %s elementu"</item>
+    </plurals>
 </resources>
