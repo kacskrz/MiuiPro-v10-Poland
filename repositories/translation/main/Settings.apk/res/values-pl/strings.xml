@@ -4846,7 +4846,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="use_open_wifi_automatically_summary">Automatycznie łącz się z publicznymi sieciami wysokiej jakości</string>
   <string name="use_open_wifi_automatically_title">Łącz się z otwartymi sieciami</string>
   <string name="use_personalized_ad_service">Spersonalizowane propozycje reklam</string>
-  <string name="use_personalized_ad_service_summary">Gdy funkcja propozycji jest wyłączona, ilość wyświetlanych reklam jest taka sama, jak w przypadku, gdy jest włączona, ale nie są one oparte na twoich danych lub informacjach osobistych.</string>
+  <string name="use_personalized_ad_service_summary">Xiaomi może dostarczać reklamy, jednak w MiuiPro jest to z góry wyłączone. Opcja ta nie ma zastosowania.</string>
   <string name="use_privacy_password_immediate">Użyj</string>
   <string name="use_system_language_to_select_input_method_subtypes">Użyj języków systemu</string>
   <string name="use_this_wlan">Pozostań podłączony</string>

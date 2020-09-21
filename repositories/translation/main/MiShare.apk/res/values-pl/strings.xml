@@ -115,7 +115,7 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="refuse_file">Odrzuć</string>
     <string name="retry_task">Wyślij ponownie</string>
     <string name="scanning_device_tips">Wyszukiwanie urządzeń w pobliżu… Upewnij się, że inne urządzenie może być odnajdywane przez urządzenia.</string>
-    <string name="scanning_only_xiaomi_device">Możesz wysłać ten element tylko do urządzenia Xiaomi</string>
+    <string name="scanning_only_xiaomi_device">Możesz wysłać ten element tylko do urządzeń Xiaomi bądź Black Shark</string>
     <string name="send_file">WYŚLIJ PLIK</string>
     <string name="send_files_to">Wyślij elementy do...</string>
     <string name="send_files_to_remote_success">Pomyślnie wysłano elementy do %1$s</string>
