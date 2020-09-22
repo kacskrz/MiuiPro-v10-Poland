@@ -687,7 +687,7 @@
   <string name="exit">Wyjdź</string>
   <string name="exit_dialog_garbage_clean_message">Ilość śmieci na Twoim urządzeniu jest większa niż %s. Wyczyścić kosz?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Wyczyść</string>
-  <string name="exit_dialog_garbage_clean_title">Czyszczenie kosza</string>
+  <string name="exit_dialog_garbage_clean_title">Zwolnij miejsce</string>
   <string name="exit_dialog_homepage_optimise_message">Wynik wydajności Twojego urządzenia jest niższy niż 80 punktów. Czy chcesz zoptymalizować je teraz?</string>
   <string name="exit_dialog_release_storage_message">Więcej niż 80% pamięci telefonu jest zajęte. Zwolnij miejsce, odinstalowując nigdy nieużywane aplikacje.</string>
   <string name="exit_dialog_release_storage_positive_button">Zwolnij miejsce</string>
@@ -1148,7 +1148,7 @@
   <string name="menu_text_antispam">Lista blokowanych</string>
   <string name="menu_text_antivirus">Bezpieczeństwo</string>
   <string name="menu_text_garbage_cleanup">Sprzątacz</string>
-  <string name="menu_text_garbage_cleanup_danger">%s</string>
+  <string name="menu_text_garbage_cleanup_danger">%s śmieci</string>
   <string name="menu_text_license_manager">Uprawnienia</string>
   <string name="menu_text_networkassistants">Użycie danych</string>
   <string name="menu_text_networkassistants_danger">%s (pow. limitu)</string>
@@ -1589,7 +1589,7 @@
   <string name="renew_now">Odnów</string>
   <string name="repair">Napraw</string>
   <string name="repair_loading_text">Chwileczkę…</string>
-  <string name="repeated_marked_number_summary">Nie blokuj drugiego połączenia od tego samego zgłoszonego numeru w przeciągu 3 minut</string>
+  <string name="repeated_marked_number_summary">Nie blokuj drugiego połączenia od tego samego zgłoszonego numeru w przeciągu %d minut</string>
   <string name="repeated_marked_number_title">Nie blokuj powtarzających się połączeń od zgłoszonych numerów</string>
   <string name="replace_dns">Zmień automatycznie DNS</string>
   <string name="report">Zgłoś</string>
@@ -1838,7 +1838,7 @@
   <string name="st_msg_settings">Lista blokowanych SMS</string>
   <string name="st_msg_stranger_group">Blokuj SMS od nieznajomych</string>
   <string name="st_settings_name">Ustawienia listy blokowanych</string>
-  <string name="st_share_settings">Użyj ustawień SIM 1</string>
+  <string name="st_share_settings">Użyj ustawień SIM %d</string>
   <string name="st_sub_title_customize_mode_name">Nazwa</string>
   <string name="st_sub_title_whiteblack_list_group">Lista blokowanych</string>
   <string name="st_sum_call_wait">Twoja wiadomość zwrotna będzie odtwarzana jako sygnał zajętości dla połączeń przychodzących.</string>
@@ -3582,4 +3582,17 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="applock_recommend_tips">%s użytkowników chroni te aplikacje</string>
   <string name="applock_recommend_title">Wybierz aplikacje</string>
   <string name="applock_set_complete">Użyj Blokady aplikacji</string>
+  <string name="bottom_func_guide_default_text">Więcej funkcji</string>
+  <string name="exit_dialog_exit">Wyjdź</string>
+  <string name="exit_dialog_garbage_clean_message_new"><Data>Aplikacja Czyszczenie może zwolnić &lt;font color=#0099ff>%s&lt;/font> miejsca w pamięci urządzenia. Wyczyścić?</Data></string>
+  <string name="exit_dialog_release_memory_positive_button">Zamknij</string>
+  <string name="exit_dialog_release_memory_title"><Data>Przyspiesz pracę urządzenia o &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+  <string name="menu_item_notification_optimize_text">Zajęte %d%%</string>
+  <string name="menu_text_deepclean_summary" formatted="false">Zajęte %1s/%2s</string>
+  <string name="stranger_call_dialog_add_block_list">Zablokuj</string>
+  <string name="stranger_call_dialog_add_contacts">Nowy kontakt</string>
+  <string name="stranger_call_dialog_notification_body">Dodaj ten numer do kontaktów bądź go zablokuj</string>
+  <string name="stranger_call_dialog_notification_title_format">Nieznany numer %s</string>
+  <string name="stranger_call_dialog_subtitle_format">"%s nie znajduje się w Twoich kontaktach. Możesz dodać ten numer do kontaktów bądź go zablokować."</string>
+  <string name="stranger_call_dialog_title">"Nieznany numer "</string>
 </resources>
