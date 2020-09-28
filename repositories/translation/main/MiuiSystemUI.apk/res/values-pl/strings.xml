@@ -1203,7 +1203,7 @@ Spróbuj ponownie za %3$d sekund."</string>
   <string name="quick_settings_rotation_unlocked_label">Autoobracanie</string>
   <string name="quick_settings_rssi_emergency_only">Tylko połączenia alarmowe</string>
   <string name="quick_settings_screenbutton_label">Przyciski</string>
-  <string name="quick_settings_screenlock_label">Ekran blokady</string>
+  <string name="quick_settings_screenlock_label">Blokada</string>
   <string name="quick_settings_screenshot_label">Zrzut ekranu</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
   <string name="quick_settings_settings_label">Ustawienia</string>
@@ -1963,4 +1963,5 @@ długi zrzut ekranu"</string>
     <string name="input_password_hint_text_v11">Wprowadź hasło</string>
     <string name="input_pattern_hint_text_v11">Narysuj wzór</string>
     <string name="input_pin_hint_text_v11">Wprowadź PIN</string>
+    <string name="notification_control_center">Powiadomienia i Centrum kontroli</string>
 </resources>

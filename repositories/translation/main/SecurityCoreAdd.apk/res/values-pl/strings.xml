@@ -344,7 +344,7 @@
   <string name="xspace_default_setting_label">Personalizacja</string>
   <string name="xspace_description">Sklonowane aplikacje to kopie aplikacji, które mogą zostać użyte osobno, z innym kontem.\n\nNiektóre sklonowane aplikacje wymagają obsługi Google Services Framework. W takim wypadku, sklonowane zostanie także Google Services Framework.</string>
   <string name="xspace_guide_des">Używaj 2 kont bez przełączania</string>
-  <string name="xspace_guide_title">Tworzenie sklonowanej aplikacji</string>
+  <string name="xspace_guide_title">Wypróbuj funkcję Sklonowane aplikacje</string>
   <string name="xspace_header">Sklonowane aplikacje</string>
   <string name="xspace_install_completed">Ikona dodana do ekranu głównego</string>
   <string name="xspace_install_failed">Nie udało się utworzyć</string>
@@ -486,4 +486,10 @@ kontroluj zainstalowane aplikacje i ogranicz użytkowanie"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
   <string name="secondspace_homepage">"Ustaw wyznaczoną blokadę ekranu dla drugiej przestrzeni.
 Oddziel i zabezpiecz swoje dane."</string>
+  <string name="xspace_guide_content_bound">Dostępne aplikacje</string>
+  <string name="xspace_guide_description">"Każde konto
+może znajdować się w oddzielnej aplikacji"</string>
+  <string name="xspace_install_complete">&lt;font>Pomyślnie utworzono aplikację. &lt;/font>&lt;font color=#0D84FF>Otwórz ją teraz&lt;/font></string>
+  <string name="xspace_notification_button">Spróbuj</string>
+  <string name="xspace_start">Utwórz</string>
 </resources>

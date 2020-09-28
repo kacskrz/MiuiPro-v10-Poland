@@ -482,7 +482,7 @@
     <string name="labelCW">Połączenia oczekujące</string>
     <string name="sum_cw_enabled">Podczas połączenia powiadamiaj mnie o połączeniach przychodzących</string>
     <string name="sum_cw_disabled">Podczas połączenia powiadamiaj mnie o połączeniach przychodzących</string>
-    <string name="call_forwarding_settings">Przekazywanie połączeń</string>
+    <string name="call_forwarding_settings">Ustawienia przekazywania połączeń</string>
     <string name="call_forwarding_settings_with_label">Ustawienia przekierowywania połączeń (%s)</string>
     <string name="labelCF">Przekierowanie połączeń</string>
     <string name="labelCFU">Przekieruj wszystkie</string>
