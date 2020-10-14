@@ -1514,6 +1514,6 @@ i dopasuj skanowane dokumenty"</string>
   <string name="download_confirm">Pobierz</string>
   <string name="download_hint">Do pobrania elementów zostanie zużyte %1$s MB danych mobilnych. Pobrać mimo to?</string>
   <string name="download_title">Ostrzeżenie o użyciu danych</string>
-  <string name="update_loading">Pobrano %1$s</string>
+  <string name="update_loading">Pobrano %1$d%%</string>
   <string name="update_start">Zaktualizuj %1$s</string>
 </resources>
