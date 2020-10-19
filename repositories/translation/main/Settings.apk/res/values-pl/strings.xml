@@ -6369,7 +6369,7 @@ Ta funkcja zostanie wyłączona automatycznie, jeśli ładowanie nie rozpocznie 
 	 <string name="screen_dark_mode_select_time_error_summary">"Czas rozpoczęcia i zakończenia nie może być taki sam"</string>
 	 <string name="screen_dark_mode_smart_dark_summary">Zastosuj ciemny motyw także do aplikacji firm trzecich. Część z nich może wyświetlać się nieprawidłowo.</string>
  	<string name="screen_dark_mode_smart_dark_title">Globalny ciemny motyw</string>
-	 <string name="screen_dark_mode_time_title">Zaplanuj</string>
+	<string name="screen_dark_mode_time_title">Zaplanuj włączenie Ciemnego motywu</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency">Kodek dźwięku Bluetooth LHDC: opóźnienie</string>
   <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Wybierz kodek dźwięku Bluetooth LHDC:
 opóźnienie"</string>
@@ -7076,4 +7076,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="usb_use_file_transfers_miui12_5">Transferu plików</string>
   <string name="usb_use_miui12_5">Użyj USB do...</string>
   <string name="usb_use_photo_transfers_miui12_5">Przenoszenia zdjęć</string>
+  <string name="dark_mode_apps_header">Poszczególne aplikacje</string>
+  <string name="dark_mode_font_background_title">Automatycznie dostosuj teksty i tła</string>
+  <string name="exterior">Motyw systemu</string>
+  <string name="light_color_mode">Jasny motyw</string>
+  <string name="more_dark_mode_settings">Opcje Ciemnego motywu</string>
 </resources>
