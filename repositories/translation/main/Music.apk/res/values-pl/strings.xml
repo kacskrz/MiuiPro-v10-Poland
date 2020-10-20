@@ -1301,7 +1301,7 @@ Be Happy"</string>
   <string name="dialog_remove_multi_songgroup_from_favorites">Usunąć wybrane playlisty z ulubionych?</string>
   <string name="dialog_remove_multi_video_from_favorites">Usunąć wybrane wideo z ulubionych?</string>
   <string name="dialog_remove_song_from_favorites">Usunąć ten utwór z ulubionych?</string>
-  <string name="dialog_remove_songgroup_from_favorites">Usunąć tą playlistę z ulubionych?</string>
+  <string name="dialog_remove_songgroup_from_favorites">Usunąć tę playlistę z ulubionych?</string>
   <string name="dialog_remove_video_from_favorites">Usunąć te wideo z ulubionych?</string>
   <string name="music_quality_standard">Standardowa</string>
   <string name="music_quality_ultra_high">Wysoka</string>
@@ -1316,7 +1316,7 @@ Be Happy"</string>
   <string name="cta_runtime_perm_desc_storage_single">Dostęp do pamięci w celu zapisu i odczytu piosenek, okładek albumu i tekstów piosenek</string>
   <string name="declaration_main_content">"Xiaomi chroni Twoje osobiste informacje w zgodzie z odpowiednimi przepisami, regulacjami i politykami prywatności.
 Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</string>
-  <string name="declaration_main_content2"><Data>"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na gromadzenie swoich danych, aplikacja nie będzie działać. Możesz odinstalować tą aplikację, wylogować się z niej bądź odwołać autoryzację dla niej w Ustawieniach w każdym momencie. Przed użyciem tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href=\"http://www.miui.com/res/doc/eula.html\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\">Polityki prywatności&lt;/a> Xiaomi."</Data></string>
+  <string name="declaration_main_content2"><Data>"Jeśli nie nadasz wymaganych uprawnień bądź nie zgodzisz się na gromadzenie swoich danych, aplikacja nie będzie działać. Możesz odinstalować tę aplikację, wylogować się z niej bądź odwołać autoryzację dla niej w Ustawieniach w każdym momencie. Przed użyciem tej aplikacji przeczytaj i zaakceptuj warunki &lt;a href=\"http://www.miui.com/res/doc/eula.html\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\">Polityki prywatności&lt;/a> Xiaomi."</Data></string>
   <string name="declaration_main_purpose">Witaj w Mi Muzyce! Możesz odtwarzać tu muzykę z swojego urządzenia.</string>
   <string name="sync_only_in_wifi_summary">Synchronizuj swoją muzykę pomiędzy wszystkimi urządzeniami z Chmurą Xiaomi. Używanie danych mobilnych do synchronizacji zwiększy ich użycie - operator może pobrać opłatę.</string>
   <string name="headline_content_issue_feedback">Opinia na temat treści</string>
@@ -1380,21 +1380,21 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="supplementary_songs">Dodatkowe utwory</string>
   <string name="audio_ad_countdown">Pomiń reklamę za %s sek.</string>
   <string name="audio_ad_pass">Pomiń reklamę</string>
-  <string name="privacy_authorize_network_error">"Nie udało połaczyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
+  <string name="privacy_authorize_network_error">"Urządzenie musi połączyć się z Internetem, aby móc wycofać zgodę. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
   <string name="privacy_authorize_revoke_failed">"Nie udało się odwołać autoryzacji"</string>
   <string name="privacy_authorize_revoke_success">Pomyślnie odwołano autoryzację</string>
   <string name="privacy_authorize_revoking">Odwoływanie autoryzacji…</string>
   <string name="recommend_artist_title">Rekomendowani artyści</string>
-  <string name="remove_user_privacy_dialog_message">Po odwołaniu autoryzacji aplikacja Mi Muzyka zaprzestanie gromadzenia danych, a wszelkie powiązane z Tobą dane zostaną usunięte z serwerów Xiaomi. Może to spowodować, że aplikacja Muzyka stanie się wirtualnie bezużyteczna. Czy chcesz odwołać autoryzację mimo to?</string>
-  <string name="remove_user_privacy_dialog_title">Odwołanie autoryzacji</string>
+  <string name="remove_user_privacy_dialog_message">Wyłączając tę opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji Mi Muzyka. Xiaomi zaprzestanie w tym momencie gromadzenia informacji o Tobie, zaś już zgromadzone i przetworzone dane zostaną usunięte z serwerów firmy w czasie określonym przepisami prawa. Mi Muzyka musi gromadzić niezbędne informacje w celu dostarczania usług streamowania online. Cofnięcie zgody na warunki Polityki prywatności zostanie uznane również jako cofnięcie zgody na warunki tychże usług.</string>
+  <string name="remove_user_privacy_dialog_title">Wycofanie zgody</string>
   <string name="user_privacy_dialog_negative_text">Anuluj</string>
-  <string name="user_privacy_dialog_positive_count_down_text">Odwołaj (%s sek.)</string>
-  <string name="user_privacy_dialog_positive_text">Odwołaj</string>
-  <string name="user_privacy_setting_group_title">Autoryzacja</string>
-  <string name="user_privacy_setting_title">Zmień pozycję przełącznika, aby przyznać bądź cofnąć autoryzację</string>
+  <string name="user_privacy_dialog_positive_count_down_text">Cofnij (%s sek.)</string>
+  <string name="user_privacy_dialog_positive_text">Cofnij</string>
+  <string name="user_privacy_setting_group_title">Cofnięcie zgody</string>
+  <string name="user_privacy_setting_title">Wyłączając tę opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji Mi Muzyka.</string>
   <string name="individuation_setting_summary">Otrzymuj propozycje treści oparte na Twoich zainteresowaniach</string>
   <string name="individuation_setting_title">Spersonalizowane rekomendacje</string>
-  <string name="upload_favorite_dialog_title">Wyślij utwory do chmury, aby mieć do nich dostęp na innych zsynchronizowanych urządzeniach. Możesz wyłączyć tą funkcję w Ustawieniach.</string>
+  <string name="upload_favorite_dialog_title">Wyślij utwory do chmury, aby mieć do nich dostęp na innych zsynchronizowanych urządzeniach. Możesz wyłączyć tę funkcję w Ustawieniach.</string>
   <string name="upload_favorite_setting_summary">Dodawanie utworów online do ulubionych powoduje również wysyłanie ich do chmury, co pozwala Ci na dostęp do nich na innych urządzeniach</string>
   <string name="upload_favorite_setting_title">Synchronizuj utwory</string>
   <string name="dialog_score_msg_score_explorer">Czy lubisz aplikację Muzyka?</string>
@@ -1420,4 +1420,37 @@ Aby działać normalnie, aplikacja wymaga połączenia z Internetem oraz następ
   <string name="ringtones_play">Odtwórz</string>
   <string name="ringtones_stop">Zatrzymaj</string>
   <string name="ringtones_successful">Pomyślnie ustawiono dzwonek</string>
+  <string name="develop_mode">Tryb programisty</string>
+  <string name="discover_more_music">Odkryj więcej utworów</string>
+  <string name="exo_media_action_repeat_all_description">Powtórz wszystko</string>
+  <string name="exo_media_action_repeat_off_description">Nie powtarzaj</string>
+  <string name="exo_media_action_repeat_one_description">Powtórz jedno</string>
+  <string name="feedback_send_email_body_extra_info">Nie usuwaj następujących informacji. Pomogą one programistom zlokalizować problem.</string>
+  <string name="info_app_package_name">Nazwa pakietu:</string>
+  <string name="info_app_version">Wersja aplikacji:</string>
+  <string name="info_language">Język:</string>
+  <string name="info_location">Region:</string>
+  <string name="info_product">Urządzenie:</string>
+  <string name="info_system">System:</string>
+  <string name="info_system_version">Wersja systemu:</string>
+  <string name="network_disable">"Nie udało się połączyć z siecią"</string>
+  <string name="privacy_request_desc"><Data>"Mi Muzyka musi gromadzić niezbędne informacje w celu dostarczania usług streamowania online. Możesz się dowiedzieć, jak Xiaomi przetwarza te dane, czytając &lt;a href=\"%1$s\">Politykę prywatności&lt;/a>. Możesz cofnąć zgodę na warunki tejże polityki w ustawieniach aplikacji w dowolnym momencie.
+Przed skorzystaniem z aplikacji przeczytaj i zaakceptuj warunki &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> oraz &lt;a href=\"%1$s\">Polityki prywatnościlt;/a>.
+Jeśli nie zgadzasz się na korzystanie ze wspomnianych usług, niektóre funkcje tej aplikacji nie będą działać, niemniej jej podstawowa funkcjonalność nadal będzie dostępna."</Data></string>
+  <string name="privacy_request_subtitle">"Witaj w Mi Muzyce! Aplikacja dostarcza następujące usługi:
+
+- lokalny odtwarzacz plików audio
+
+- usługi streamowania online"</string>
+  <string name="privacy_request_title">Warunki korzystania</string>
+  <string name="remove_user_privacy_dialog_message_canuse">Wyłączając tę opcję, wycofujesz swoją zgodę na warunki Polityki prywatności aplikacji Mi Muzyka. Xiaomi zaprzestanie w tym momencie gromadzenia informacji o Tobie, zaś już zgromadzone i przetworzone dane zostaną usunięte z serwerów firmy w czasie określonym przepisami prawa. Mi Muzyka musi gromadzić niezbędne informacje w celu dostarczania usług streamowania online. Cofnięcie zgody na warunki Polityki prywatności zostanie uznane również jako cofnięcie zgody na warunki tychże usług.</string>
+  <string name="request_privacy_permission_title">Aby uzyskać dostęp do wszystkich usług, przeczytaj i zaakceptuj warunki użytkowania.</string>
+  <string name="skip">Pomiń</string>
+  <string name="start_update">Instalowanie nowej wersji…</string>
+  <string name="summary_command_mode">Włącz, aby wejść w wiersz poleceń</string>
+  <string name="title_command_mode">Wiersz poleceń</string>
+  <string name="toast_cant_commit_without_title">Wprowadź tytuł utworu</string>
+  <string name="toast_playmode_loop_playback">Obecna playlista jest zapętlona</string>
+  <string name="toast_playmode_shuffle_play">Odtwarzanie jest losowe</string>
+  <string name="toast_playmode_single_cycle">Obecny utwór jest zapętlony</string>
 </resources>
