@@ -4491,7 +4491,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="sync_enable">Włącz synchronizację</string>
   <string name="sync_enabled">Synchronizacja włączona</string>
   <string name="sync_error">Błąd synchronizacji</string>
-  <string name="sync_failed">Błąd synchronizacji</string>
+  <string name="sync_failed">Nie udało się zsynchronizować. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Synchronizuję…</string>
   <string name="sync_is_failing">W tej chwili występują problemy z synchronizacją. Synchronizacja będzie możliwa wkrótce.</string>
@@ -7081,4 +7081,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="exterior">Motyw systemu</string>
   <string name="light_color_mode">Jasny motyw</string>
   <string name="more_dark_mode_settings">Opcje Ciemnego motywu</string>
+  <string name="enabled">Wł.</string>
+  <string name="not_enabled">Wył.</string>
+  <string name="other_input_method">Inne klawiatury</string>
+  <string name="sync_success">Pomyślnie zsynchronizowano</string>
+  <string name="xiaomi_custom_input_method">Dostosowane do Xiaomi</string>
 </resources>
