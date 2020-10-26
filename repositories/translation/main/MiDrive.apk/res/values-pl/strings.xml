@@ -22,7 +22,6 @@
   <string name="delete_failed">Usuwanie nieudane</string>
   <string name="delete_failed_retry">"Nie można usunąć. Odczekaj %1$s i spróbuj ponownie."</string>
   <string name="delete_file">Usunąć ten plik?</string>
-  <string name="delete_success">Plik usunięty</string>
   <string name="download_failed">Pobieranie nieudane!</string>
   <string name="downloading_in_3g">Pobieranie z 3G…</string>
   <string name="downloading_in_wifi">Pobieranie…</string>
