@@ -7086,4 +7086,14 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="other_input_method">Inne klawiatury</string>
   <string name="sync_success">Pomyślnie zsynchronizowano</string>
   <string name="xiaomi_custom_input_method">Dostosowane do Xiaomi</string>
+  <string name="silent_mode_disable_media">Wycisz wszystko</string>
+  <string name="silent_mode_enable_media">Odtwarzaj multimedia</string>
+  <string name="silent_mode_summary">Wycisz połączenia, powiadomienia i multimedia</string>
+  <string name="silent_mode_toggle_title">Tryb cichy</string>
+  <string name="volume_adjustment">Dostosuj głośność</string>
+  <string name="zen_mode_always">Zawsze</string>
+  <string name="zen_mode_auto_rule">Zaplanuj reguły Godzin ciszy</string>
+  <string name="zen_mode_lockscreen">Gdy zablokowany</string>
+  <string name="zen_mode_more_actions">Więcej opcji Godzin ciszy</string>
+  <string name="zen_mode_summary2">Wycisz połączenia i powiadomienia, wyłącz wibracje</string>
 </resources>
