@@ -5952,7 +5952,7 @@ Jeśli już wykonałeś którąś z tych akcji, dodaj swoje konto ponownie w tym
   <string name="default_launcher_set_jeejen_message">Kliknij przycisk Ekranu głównego, aby ustawić launcher Jeejen</string>
   <string name="default_launcher_set_system_message">Kliknij przycisk Ekranu głównego, aby przywrócić domyślny launcher</string>
   <string name="dump_log">Wygeneruj logi dot. problemu</string>
-  <string name="dump_log_summary">"Funkcja jest przeznaczona do generowania logów w wersjach Alfa oraz Beta MIUI. Używaj jej z rozwagą.
+  <string name="dump_log_summary">"Funkcja jest przeznaczona do generowania logów w wersji Beta MIUI. Używaj jej z rozwagą.
 Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="dump_log_title">O tej funkcji</string>
   <string name="miui_ime_xiaoai_voice_hint">Szybsza i wygodniejsza opcja wpisywania tekstu</string>
@@ -7096,4 +7096,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="zen_mode_lockscreen">Gdy zablokowany</string>
   <string name="zen_mode_more_actions">Więcej opcji Godzin ciszy</string>
   <string name="zen_mode_summary2">Wycisz połączenia i powiadomienia, wyłącz wibracje</string>
+  <string name="gxzw_lowlight_open_summary">Zmniejsz jasność ikony czytnika linii papilarnych. Urządzenie może odblokowywać się wolniej ze względu na mniejszą ilość światła.</string>
+  <string name="gxzw_lowlight_open_title">Odblokowanie odciskiem palca z niższą jasnością</string>
 </resources>

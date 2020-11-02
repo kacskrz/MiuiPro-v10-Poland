@@ -1521,4 +1521,5 @@ i dopasuj skanowane dokumenty"</string>
   <string name="live_edit_exit_message_draft">Zapisz jako szkic</string>
   <string name="live_workspace_title">Szkice</string>
   <string name="live_workspace_title_edit">Wybierz elementy do usunięcia</string>
+  <string name="pref_camera_video_ai_scene_title">Aparat SI</string>
 </resources>
