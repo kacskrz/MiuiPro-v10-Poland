@@ -6693,7 +6693,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="bluetooth_device_nearby_title">Urządzenia w pobliżu</string>
   <string name="bottom_function_settings">Funkcje dodatkowych przycisków</string>
   <string name="change_lock_screen_password_title">Zmień blokadę ekranu</string>
-  <string name="clear_data_alert_info">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną usunięte. Wykonaj kopię zapasową ważnych plików na komputerze i w chmurze Xiaomi, zanim przejdziesz dalej.</string>
+  <string name="clear_data_alert_info">Wszystkie kopie zapasowe przechowywane na tym urządzeniu zostaną usunięte. Wykonaj kopię zapasową ważnych plików na komputerze i w chmurze Xiaomi, zanim zresetujesz urządzenie do ustawień fabrycznych.</string>
   <string name="cloud_category_text">Chmura</string>
   <string name="computer_backup_summary">Wykonaj kopię i przywróć elementy, używając komputera</string>
   <string name="computer_backup_title">Komputer</string>
@@ -6703,7 +6703,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="dark_mode_contrast_hint">Dopasuj kolory i zmniejszaj kontrast automatycznie, kiedy jasność jest niska</string>
   <string name="default_keyboard">Domyślna</string>
   <string name="detail_question">Szczegóły</string>
-  <string name="dialog_backup_title">Zaktualizować kopie zapasowe przed przywróceniem do ustawień fabrycznych?</string>
+  <string name="dialog_backup_title">Wykonać kopię zapasową elementów?</string>
   <string name="face_data_apply_for_category_title">Odblokuj za pomocą twarzy</string>
   <string name="face_data_apply_for_keyguard_title">Ekran blokady</string>
   <string name="face_data_input_camera_fail">"Nie udało się wczytać aparatu"</string>
