@@ -1522,4 +1522,5 @@ i dopasuj skanowane dokumenty"</string>
   <string name="live_workspace_title">Szkice</string>
   <string name="live_workspace_title_edit">Wybierz elementy do usunięcia</string>
   <string name="pref_camera_video_ai_scene_title">Aparat SI</string>
+  <string name="pref_video_quality_hfr_title">Klatkaż i jakość zdjęć</string>
 </resources>
