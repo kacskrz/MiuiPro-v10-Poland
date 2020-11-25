@@ -2051,4 +2051,6 @@ Zawsze używaj tego numeru"</string>
   <string name="fiveg_network_mode_title">Wybierz tryb sieci 5G</string>
   <string name="fiveg_sa_vice_switch_title">Tryb SA (druga karta)</string>
   <string name="preference_countrycode_title">Kod kraju</string>
+  <string name="vonr_switch_summary">Użyj VoNR, aby poprawić jakość połączeń głosowych</string>
+  <string name="vonr_switch_title">Użyj VoNR</string>
 </resources>

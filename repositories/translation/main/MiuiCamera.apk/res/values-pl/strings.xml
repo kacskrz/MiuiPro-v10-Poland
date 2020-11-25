@@ -1531,4 +1531,5 @@ i dopasuj skanowane dokumenty"</string>
   <string name="accessibility_preview_selected">Wybrane</string>
   <string name="accessibility_preview_shrink">Oddal</string>
   <string name="accessibility_preview_zoom_tip">Podgląd przybliżenia %1$.1fX</string>
+  <string name="download_in_progress">Pobieranie…</string>
 </resources>
