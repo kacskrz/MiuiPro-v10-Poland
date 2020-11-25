@@ -56,8 +56,8 @@
     <string name="altitude_uncalibrate_refresh">Spróbuj ponownie</string>
     <string name="altitude_uncalibrate_cancel">Anuluj</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
-    <string name="app_description_title">O Kompasie</string>
-    <string name="app_description_content">Kompas jest używany do nawigacji i orientacji w terenie, a także wskazuje kierunki. Po odinstalowaniu aplikacji, taka funkcjonalność nie będzie dostępna.</string>
+    <string name="app_description_content">Kompas to aplikacja systemowa. Po jej odinstalowaniu nie będzie możliwe sprawdzanie kierunków, położenia, ciśnienia atmosferycznego i aktualnej wysokości.</string>
+    <string name="app_description_title">Odinstalować aplikację Kompas?</string>
     <string name="unit_degree">Stopni</string>
     <string name="open_perm_msg">Kompas wymaga dostępu do informacji o lokalizacji oraz aparatu. Jest to konieczne do określenia współrzędnych i zapewnienia podglądu na żywo. Zgadzasz się na to?</string>
     <string name="open_perm_title">Wymagane uprawnienia</string>
