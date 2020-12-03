@@ -389,7 +389,6 @@
   <string name="micloud_proceed">Kontynuuj</string>
   <string name="micloud_request_permission_confirm">Rozumiem</string>
   <string name="micloud_request_permission_content">Aby móc synchronizować wydarzenia z kalendarza, kontakty, SMS-y, historię połaczeń, zdjęcia, filmy i inne elementy, Chmura Xiaomi wymaga uprawnień dostępu do Twojego kalendarza, kontaktów, kont, stanu karty SIM, historii połączeń, SMS-ów, zdjęć i filmów.</string>  <string name="micloud_request_permission_title">Chmura Xiaomi wymaga uprawnień</string>
-  <string name="micloud_request_permission_title">Chmura wymaga uprawnień</string>
   <string name="micloud_sec_dspt">i udostępniania rzeczy znajomym.</string>
   <string name="micloud_setting_antispam_summary">Wyjątki i blokowane numery</string>
   <string name="micloud_setting_browser_summary">Zakładki, historia i karty</string>
