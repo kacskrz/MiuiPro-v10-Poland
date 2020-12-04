@@ -281,9 +281,4 @@
         <item quantity="one">minutę temu</item>
         <item quantity="few">%d minuty temu</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d elementów</item>
-        <item quantity="one">%1$d element</item>
-        <item quantity="few">%1$d elementy</item>
-    </plurals>
 </resources>
