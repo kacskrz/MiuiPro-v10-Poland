@@ -46,8 +46,8 @@
     <item quantity="many">Odinstalowano %1$d aplikacji</item>
   </plurals>
   <plurals name="remove_dialog_title_multi_format">
-    <item quantity="one">Usunąć %1$d aplikację?</item>
-    <item quantity="other">Usunąć %1$d aplikacji?</item>
-    <item quantity="few">Usunąć %1$d aplikacje?</item>
+    <item quantity="one">Usunąć %1$d aplikację z pulpitu?</item>
+    <item quantity="other">Usunąć %1$d aplikacji z pulpitu?</item>
+    <item quantity="few">Usunąć %1$d aplikacje z pulpitu?</item>
   </plurals>
 </resources>
