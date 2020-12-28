@@ -66,7 +66,7 @@
   <string name="shut_down">Wyłącz</string>
   <string name="sim_card_detecting">Sprawdzanie karty SIM…</string>
   <string name="sim_card_detecting_check">Nie udało się znaleźć karty SIM. Upewnij się, że karta SIM jest prawidłowo zamontowana i masz odpowiednią ilość na koncie.</string>
-  <string name="sim_card_detecting_title">Wykryj kartę SIM</string>
+  <string name="sim_card_detecting_title">Wykrywanie karty SIM…</string>
   <string name="sim_card_detection">Włóż kartę SIM</string>
   <string name="sim_card_detection_info">O tym, jak włożyć kartę SIM do swojego urządzenia, przeczytasz w instrukcji obsługi.</string>
   <string name="sim_dectection_next">Kontynuuj</string>
@@ -267,4 +267,10 @@ Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mi
   <string name="boot_video_replay">Odtwórz ponownie</string>
   <string name="boot_video_skip">Pomiń</string>
   <string name="service_security_over_r"><Data>Przeczytaj i zaakceptuj &lt;a href=%1$s>Politykę prywatności&lt;/a > przed skorzystaniem z Panelu sterowania.&lt;br/>&lt;br/>Zgodnie z wymaganiami Androida 11, jednorazowe uprawnienie zostanie cofnięte w ciągu 5 sekund od zamknięcia danej aplikacji. Jeśli otworzysz ją jeszcze raz w ciągu tego czasu, uprawnienie zostanie wycofane.</Data></string>
+  <string name="item_lock_screen_password_only">Blokada ekranu</string>
+  <string name="msim_setting_default_data">Karta SIM do danych</string>
+  <string name="msim_setting_default_voice">Domyślna karta SIM do połączeń</string>
+  <string name="provision_back">Wstecz</string>
+  <string name="provision_next">Dalej</string>
+  <string name="provision_skip_underline">Pomiń</string>
 </resources>

@@ -117,5 +117,5 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="power_tools_current">Prąd</string>
     <string name="power_tools_fps">FPS</string>
     <string name="cloud_russion_addr">Aktualizacja danych serwera rosyjskiego</string>
-    <string name="accessibility_service_description">Inteligentne oszczędzanie energii</string>
+    <string name="accessibility_service_description">Oszczędzanie baterii</string>
 </resources>
