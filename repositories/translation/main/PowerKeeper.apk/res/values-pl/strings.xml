@@ -58,7 +58,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="config_description">MIUI może identyfikować aplikacje ze specyficznymi procesami w tle (np. zarządzające wiadomościami, nawigacyjne lub odtwarzające multimedia), i zastosować Oszczędzanie baterii, które nie wpłynie na aplikacje w tle.</string>
     <string name="config_suggest_description">Zastosuj sugerowane ustawienia dla różnych aplikacji</string>
     <string name="config_no_restrict_description">Oszczędzanie energii nie ogranicza aplikacji w tle</string>
-    <string name="config_restrict_function_description">Aplikacja w tle nie zostanie zamknięta jednak niektóre funkcje np. powiadomienia push mogą zostać ograniczone</string>
+    <string name="config_restrict_function_description">Zamknij aplikacje po 10 minutach aktywności w tle</string>
     <string name="config_restrict_running_description">Aplikacja w tle zostanie zamknięta</string>
     <string name="power_checker_partial_wakelock_title">%1$s uniemożliwia MIUI wchodzenie w tryb uśpienia</string>
     <string name="power_checker_wifi_scan_title">%1$s często wyszukuje Wi-Fi</string>
