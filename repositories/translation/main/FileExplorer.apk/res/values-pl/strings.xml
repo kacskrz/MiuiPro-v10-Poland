@@ -996,4 +996,5 @@
     <string name="operation_open">Otwórz</string>
     <string name="operation_paste_to_folder">Skopiuj do folderu</string>
     <string name="operation_send_to_pc">Przenieś na komputer</string>
+    <string name="more">Więcej</string>
 </resources>
