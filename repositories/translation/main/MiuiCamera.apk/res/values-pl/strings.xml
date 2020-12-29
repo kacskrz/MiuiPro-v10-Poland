@@ -938,7 +938,6 @@ na nagrywanie i edycję filmów w drodze"</string>
   <string name="pref_video_subtitle">Napisy</string>
   <string name="subtitle_network_exception_tips">"Nie udało połączyć się z siecią. Nie można dokonać transkrypcji."</string>
   <string name="pref_popup_camera_title">Wysuwany aparat</string>
-  <string name="pref_camera_manually_exposure_value">Naświetlenie</string>
   <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
   <string name="camera_settings_category_development">Funkcje eksperymentalne</string>
   <string name="pref_camera_common_settings">Ustawienia ogólne</string>
