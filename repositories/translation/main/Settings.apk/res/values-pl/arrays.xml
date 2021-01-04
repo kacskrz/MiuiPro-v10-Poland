@@ -1385,4 +1385,9 @@
         <item>Dotknięcie</item>
         <item>Dwuklik</item>
     </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Wyraziste</item>
+        <item>Podstawowe</item>
+        <item>Pop</item>
+    </string-array>
 </resources>
