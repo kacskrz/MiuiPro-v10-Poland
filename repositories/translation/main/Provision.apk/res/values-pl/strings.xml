@@ -60,7 +60,7 @@
   <string name="pref_title_data_slot">Preferowana karta SIM (internet)</string>
   <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
   <string name="privacy_policy">Polityka Prywatności</string>
-  <string name="provision_inputmethod_policy_description">\nZobacz politykę prywatności dla wybranej klawiatury.</string>
+  <string name="provision_inputmethod_policy_description"><Data>Wyświetl &lt;a href=%1$s>Politykę prywatności&lt;/a > wybranej klawiatury.</Data></string>
   <string name="provision_inputmethod_policy_description1">Polityka Prywatności</string>
   <string name="setting_locale">Ustawianie regionu…</string>
   <string name="shut_down">Wyłącz</string>
