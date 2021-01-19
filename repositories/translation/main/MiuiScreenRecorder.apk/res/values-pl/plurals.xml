@@ -10,4 +10,10 @@
         <item quantity="one">Zaznaczono %1$d element</item>
         <item quantity="few">Zaznaczono %1$d elementy</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d zaznaczonych elementów</item>
+        <item quantity="one">%d zaznaczony element</item>
+        <item quantity="few">%d zaznaczone elementy</item>
+        <item quantity="many">%d zaznaczonych elementów</item>
+    </plurals>
 </resources>
