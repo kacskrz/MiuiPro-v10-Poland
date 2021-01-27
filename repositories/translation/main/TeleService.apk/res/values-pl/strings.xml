@@ -2054,4 +2054,6 @@ Zawsze używaj tego numeru"</string>
   <string name="vonr_switch_summary">Użyj VoNR, aby poprawić jakość połączeń głosowych</string>
   <string name="vonr_switch_title">Użyj VoNR</string>
   <string name="stk_name">Zestaw narzędzi SIM</string>
+  <string name="sensor_answer_summary">Przyłóż telefon do ucha, aby automatycznie rozpocząć przychodzące połączenie</string>
+  <string name="sensor_answer_title">Zbliż, aby rozmawiać</string>
 </resources>
