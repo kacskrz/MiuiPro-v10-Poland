@@ -7337,4 +7337,6 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_multi_connect_mode_summary">Połącz się z różnymi urządzeniami w tym samym momencie</string>
   <string name="miheadset_plus">Głośność+</string>
   <string name="miheadset_triple_click_key_mode">Trzykrotne dotknięcie</string>
+  <string name="haptic_video_content_description">Demonstracja wideo reakcji haptycznych</string>
+  <string name="wlan_scanner_unresizeble">"Nie można wyświetlić ustawień Wi-Fi w trybie Dzielonego ekranu"</string>
 </resources>
