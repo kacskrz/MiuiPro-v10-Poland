@@ -65,7 +65,7 @@
     <string name="alert_title_restore">Przywróć notatkę</string>
     <string name="alert_message_restore">Nie udało się otworzyć notatki. Przywróć ją, aby edytować zawartość.</string>
     <string name="note_sort_way">Wybierz jak chcesz sortować notatki</string>
-    <string name="trash_folder_reminder">Notatki, które usunięto, zostaną trwale usunięte w ciągu 30 dni.</string>
+    <string name="trash_folder_reminder">Notatki zostaną trwale usunięte po %1$d dniach.</string>
     <string name="cta_reminder">Aplikacja Notatki wymaga uprawnień do połączenia z internetem, nagrywania audio, a także odczytu kontaktów, aby działać normalnie. Zezwolić na to?</string>
     <string name="menu_add_folder">Dodaj do folderu</string>
     <string name="dialog_share_title">Udostępnij notatkę</string>
@@ -270,10 +270,10 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="todo_edit_btn_today">Dziś</string>
   <string name="todo_edit_btn_tomorrow">Jutro</string>
   <string name="todo_edit_text_hint">Wpisz opis zadania</string>
-  <string name="todo_event_description_a_week_ago">Tydzień temu</string>
-  <string name="todo_event_description_a_week_later">Za tydzień</string>
-  <string name="todo_event_description_day_after_tomorrow">Za 2 dni</string>
-  <string name="todo_event_description_day_before_yesterday">2 dni temu</string>
+  <string name="todo_event_description_a_week_ago">%1$d tydzień temu</string>
+  <string name="todo_event_description_a_week_later">Za %1$d tydzień</string>
+  <string name="todo_event_description_day_after_tomorrow">Za %1$d dni</string>
+  <string name="todo_event_description_day_before_yesterday">%1$d dni temu</string>
   <string name="todo_event_description_today">Dziś</string>
   <string name="todo_event_description_tomorrow">Jutro</string>
   <string name="todo_event_description_yesterday">Wczoraj</string>
