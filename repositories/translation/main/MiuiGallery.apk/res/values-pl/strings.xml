@@ -70,7 +70,7 @@
     <string name="album_share_subtitle_requesting">Pobieranie informacji o albumie...</string>
     <string name="album_share_title_new_album">Udostępnij nowy album</string>
     <string name="album_show_local_only">Pokaż tylko lokalne albumy</string>
-    <string name="album_show_local_only_summary">Włącz, aby zobaczyć i usuwać zdjęcia tylko na swoim urządzeniu</string>
+    <string name="album_show_local_only_summary">Możliwość usunięcia tylko lokalnych albumów pojawi się wtedy, gdy włączona jest ta funkcja</string>
     <string name="album_type_baby">Album dziecięcy</string>
     <string name="album_type_share">Udostępnione albumy</string>
     <string name="album_type_system">Albumy systemowe</string>
@@ -96,7 +96,7 @@
 	<string name="assistant_page_server_error">Sprawdź ustawienia sieci</string>
     <string name="associate_face_album">Wybierz album</string>
     <string name="auto_backup_introduce">Automatycznie synchronizuj zdjęcia i wideo (wymaga konta Xiaomi)</string>
-    <string name="auto_download_media_title">Pobieraj zdjęcia z Chmury Xiaomi automatycznie</string>
+    <string name="auto_download_media_title">Pobierz automatycznie</string>
     <string name="auto_update_face">Automatycznie dodaj zdjęcia</string>
     <string name="auto_update_face_summary">Automatycznie dopasuj i dodaj zdjęcia do albumu dziecka</string>
     <string name="auto_update_off">Wył.</string>
@@ -1694,7 +1694,7 @@ aby spersonalizować Galerię"</string>
   <string name="operation_remove">Usuń</string>
   <string name="remove_hidden_status_tip">Jeśli odkryjesz ten album, będzie on normalnie wyświetlany obok innych albumów.</string>
   <string name="remove_hidden_status_title">Odkryj</string>
-  <string name="show_cloud_albumlist_summary">Zarządzaj albumami zsynchronizowanymi z chmurą</string>
+  <string name="show_cloud_albumlist_summary">Nowe elementy z wybranych albumów nie będą przesyłane do Chmury po wyłączeniu synchronizacji.</string>
   <string name="show_hidden_album_summary">Pokaż i zarządzaj ukrytymi albumami</string>
   <string name="btn_cancel">Anuluj</string>
   <string name="confirm_cancel_task_files">Anulować wysyłanie plików do %1$s?</string>
@@ -1715,8 +1715,8 @@ aby spersonalizować Galerię"</string>
   <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
   <string name="unrecognized_manufacture">Nieznany</string>
   <string name="unrecognized_model">Nieznane urządzenie</string>
-  <string name="cloud_privacy_with_ai_album">Polityka prywatności synchronizacji i przetwarzania zdjęć</string>
-  <string name="cloud_privacy_with_face">Polityka prywatności synchronizacji i rozpoznawania twarzy</string>
+  <string name="cloud_privacy_with_ai_album">Funkcje i prywatność</string>
+  <string name="cloud_privacy_with_face">Funkcje i prywatność</string>
   <string name="backup_pause_dialog_title">Zatrzymaj synchronizację</string>
   <string name="double_tap_for_hr_preview_108m">Dotknij dwa razy, aby pokazać podgląd w 108 Mpx</string>
   <string name="hr_preview_108m">Włączono podgląd 108 Mpx</string>
@@ -2554,4 +2554,27 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Wygląda na to, że nie jesteś połączony z siecią Wi-Fi. Czy chcesz użyć %1$d MB danych mobilnych do pobrania wtyczki?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Wygląda na to, że nie jesteś połączony z siecią Wi-Fi. Czy chcesz użyć %1$d MB danych mobilnych do pobrania wtyczki?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Pobierz wtyczkę</string>
+    <string name="auto_download_title">Wybierz jakość obrazu</string>
+    <string name="backup_settings">Synchronizacja z Chmurą</string>
+    <string name="backup_settings_more">Dodatkowe ustawienia</string>
+    <string name="cloud_backup_enable_title">Synchronizuj</string>
+    <string name="cloud_backup_open_button">Włącz</string>
+    <string name="cloud_backup_space">Miejsce w Chmurze</string>
+    <string name="cloud_backup_status_disable">Wył.</string>
+    <string name="cloud_backup_status_eneble">Wł.</string>
+    <string name="cloud_backup_title">Synchronizacja z Chmurą</string>
+    <string name="cloud_bacup_disable_button">Wyłącz synchronizację</string>
+    <string name="cloud_bacup_disable_processing">Przetwarzanie…</string>
+    <string name="cloud_login_ok">Rozumiem</string>
+    <string name="cloud_login_settings_title">Ustawienia synchronizacji</string>
+    <string name="mi_mover_working_desc">Przenoszenie danych pracuje…</string>
+    <string name="photo_size_not_support">Ta rozdzielczość obrazu nie jest wspierana</string>
+    <string name="see_more_settings">Dodatkowe ustawienia</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Jeśli wyłączysz teraz synchronizację, trwające pobierania oryginalnych plików z Chmury zostaną przerwane. Ponadto nie będą już dłużej dostępne obrazy w wysokiej jakości przechowywane na tym urządzeniu. Wyłączyć synchronizację mimo to?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Obrazy w wysokiej jakości przechowywane na tym urządzeniu nie będą dłużej dostępne po wyłączeniu synchronizacji. Możesz pobrać oryginalne pliki z Chmury i wyłączyć synchronizację po wykonaniu tej czynności.</string>
+    <string name="sync_backup_disable_confirm_title">Wyłącz synchronizację</string>
+    <string name="sync_backup_enable_confirm_message">Gdy synchronizacja z Chmurą jest włączona, elementy z tego urządzenia zostaną przesłane i połączone z elementami przechowywanymi w Chmurze.</string>
+    <string name="sync_backup_enable_confirm_title">Połącz zsynchronizowane elementy</string>
+    <string name="vlog_filter_master_close">Usunięto efekty wideo</string>
+    <string name="vlog_filter_master_open">Zastosowano efekty wideo</string>
 </resources>
