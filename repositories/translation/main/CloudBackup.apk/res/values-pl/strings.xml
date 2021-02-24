@@ -168,7 +168,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="btn_restore_cancel">Zakończ</string>
    <string name="btn_restore_resume">Kontynuuj</string>
    <string name="btn_restore_retry">Spróbuj ponownie</string>
-   <string name="msg_alert_cancel_restore">Trwa przywracanie elementów. Zatrzymać mimo to?</string>
+   <string name="msg_alert_cancel_restore">Trwa przywracanie elementów z Chmury Xiaomi. Zatrzymać mimo to?</string>
    <string name="msg_alert_restore_error">Nie udało się przywrócić elementów z Chmury Xiaomi, spróbuj ponownie.</string>
    <string name="title_alert_cancel_restore">Zatrzymanie przywracania</string>
    <string name="title_alert_restore_error">Nie udało się przywrócić</string>
@@ -191,7 +191,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="self_device_second_space">Druga przestrzeń tego telefonu</string>
    <string name="restore_finish_description">Przywracanie zakończone</string>
    <string name="restore_init_description">Zacznij przywracanie</string>
-   <string name="restoring_file_title_no_progress">Przywracanie plików…</string>
+   <string name="restoring_file_title_no_progress">Przywracanie aplikacji…</string>
    <string name="restoring_settings">Przywracanie ustawień…</string>
    <string name="btn_restore_continue">Przywróć mimo to</string>
    <string name="btn_restore_wait">Czekaj na Wi-Fi</string>
@@ -213,7 +213,7 @@ Sprawdź ustawienia sieci i spróbuj ponownie."</string>
    <string name="restore_detail_category_settings">Ustawienia</string>
    <string name="restore_detail_more">Więcej</string>
    <string name="restore_detail_title">Wybierz elementy do przywrócenia</string>
-   <string name="restore_network_pause">%s (Kliknij, aby wznowić)</string>
+   <string name="restore_network_pause">Wstrzymano proces, aby zaoszczędzić dane mobilne. Kliknij, aby wznowić.</string>
    <string name="restore_network_unconnect">%s (Oczekiwanie na sieć)</string>
    <string name="title_restore_with_current_network">Używanie obecnego połączenia do pobrania plików</string>
    <string name="provision_background_restore_more_data">Przywracaj więcej elementów w tle</string>
@@ -296,4 +296,16 @@ Spróbuj ponownie"</string>
   <string name="provision_back">Wstecz</string>
   <string name="provision_next">Dalej</string>
   <string name="provision_skip_underline">Pomiń</string>
+  <string name="btn_restore_cancel_app_app">"Nie przywracaj danych WeChata"</string>
+  <string name="cloud_backup_detail_app_data">Skopiuj dane WeChata</string>
+  <string name="cloud_backup_detail_app_data_summary">Wykonaj kopię zapasową historii czatu, plików i innych elementów</string>
+  <string name="confirm_restore_app_data">Nadpisywanie danych aplikacji</string>
+  <string name="confirm_restore_app_data_summary">Przywrócenie danych WeChata nadpisze obecne dane aplikacji znajdujące się na urządzeniu. Przywrócić mimo to?</string>
+  <string name="dialog_backup_failed">"Nie udało się wykonać kopii"</string>
+  <string name="dialog_buy_cloud_space">Ulepsz</string>
+  <string name="dialog_cloud_space_not_enough">Ta kopia zapasowa wymaga %1$s miejsca w Chmurze. Ulepsz swój plan, aby móc ją wykonać.</string>
+  <string name="hint_restore_wechat_data">Uwaga: Dane WeChata mogą nie zostać przywrócone w niektórych przypadkach ze względu na problemy z kompatybilnością.</string>
+  <string name="restore_detail_category_app_data">Dane WeChata</string>
+  <string name="restore_detail_category_app_data_summary">Historia czatu, pliki i inne elementy (%s)</string>
+  <string name="restoring_app_data_title_no_progress">Przywracanie danych WeChata…</string>
 </resources>
