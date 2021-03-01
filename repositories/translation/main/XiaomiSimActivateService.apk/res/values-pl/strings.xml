@@ -95,7 +95,7 @@ Wpisz numer powiązany z nową kartą SIM, aby aktywować ponownie %s."</string>
     <string name="activate_feature_mx_and_voip">Wiadomości Mi i Głos</string>
     <string name="activate_feature_mms_sync">Synchronizuj wiadomości</string>
     <string name="activate_feature_call_log_sync">Synchronizuj historię połączeń</string>
-    <string name="activate_feature_find_device">Funkcja Znajdź urządzenie nie może połączyć się z siecią</string>
+    <string name="activate_feature_find_device">Lokalizacja SMS</string>
     <string name="activate_feature_register_xiaomi_account">Konfiguracja konta Xiaomi</string>
     <string name="activate_feature_verify_mx_token">Weryfikacja konta Xiaomi</string>
     <string name="activate_feature_live_talk">Pakiet doładowania</string>
