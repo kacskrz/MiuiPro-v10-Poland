@@ -70,7 +70,7 @@
     <string name="album_share_subtitle_requesting">Pobieranie informacji o albumie...</string>
     <string name="album_share_title_new_album">Udostępnij nowy album</string>
     <string name="album_show_local_only">Pokaż tylko lokalne albumy</string>
-    <string name="album_show_local_only_summary">Możliwość usunięcia tylko lokalnych albumów pojawi się wtedy, gdy włączona jest ta funkcja</string>
+    <string name="album_show_local_only_summary">Włącz, aby pokazać lub usunąć zdjęcia na urządzeniu</string>
     <string name="album_type_baby">Album dziecięcy</string>
     <string name="album_type_share">Udostępnione albumy</string>
     <string name="album_type_system">Albumy systemowe</string>
@@ -96,7 +96,7 @@
 	<string name="assistant_page_server_error">Sprawdź ustawienia sieci</string>
     <string name="associate_face_album">Wybierz album</string>
     <string name="auto_backup_introduce">Automatycznie synchronizuj zdjęcia i wideo (wymaga konta Xiaomi)</string>
-    <string name="auto_download_media_title">Pobierz automatycznie</string>
+    <string name="auto_download_media_title">Pobierz zdjęcia z Chmury automatycznie</string>
     <string name="auto_update_face">Automatycznie dodaj zdjęcia</string>
     <string name="auto_update_face_summary">Automatycznie dopasuj i dodaj zdjęcia do albumu dziecka</string>
     <string name="auto_update_off">Wył.</string>
@@ -1694,7 +1694,7 @@ aby spersonalizować Galerię"</string>
   <string name="operation_remove">Usuń</string>
   <string name="remove_hidden_status_tip">Jeśli odkryjesz ten album, będzie on normalnie wyświetlany obok innych albumów.</string>
   <string name="remove_hidden_status_title">Odkryj</string>
-  <string name="show_cloud_albumlist_summary">Nowe elementy z wybranych albumów nie będą przesyłane do Chmury po wyłączeniu synchronizacji.</string>
+  <string name="show_cloud_albumlist_summary">Zarządzaj albumami zsynchronizowanymi z chmurą</string>
   <string name="show_hidden_album_summary">Pokaż i zarządzaj ukrytymi albumami</string>
   <string name="btn_cancel">Anuluj</string>
   <string name="confirm_cancel_task_files">Anulować wysyłanie plików do %1$s?</string>
@@ -1715,8 +1715,8 @@ aby spersonalizować Galerię"</string>
   <string name="tips_prompt_enable_midrop">Udostępniaj pliki urządzeniom w pobliżu</string>
   <string name="unrecognized_manufacture">Nieznany</string>
   <string name="unrecognized_model">Nieznane urządzenie</string>
-  <string name="cloud_privacy_with_ai_album">Funkcje i prywatność</string>
-  <string name="cloud_privacy_with_face">Funkcje i prywatność</string>
+  <string name="cloud_privacy_with_ai_album">Polityka prywatności synchronizacji i przetwarzania zdjęć</string>
+  <string name="cloud_privacy_with_face">Polityka prywatności synchronizacji i rozpoznawania twarzy</string>
   <string name="backup_pause_dialog_title">Zatrzymaj synchronizację</string>
   <string name="double_tap_for_hr_preview_108m">Dotknij dwa razy, aby pokazać podgląd w 108 Mpx</string>
   <string name="hr_preview_108m">Włączono podgląd 108 Mpx</string>
@@ -2376,7 +2376,7 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="filter_popular_icesnow">Śnieg</string>
     <string name="filter_popular_wintersun">Środek zimy</string>
     <string name="filter_sky_dynamic_text_yanhua">Tekst</string>
-    <string name="filter_sky_dynamic_text_yanhua_hint" formatted="false">Wprowadź od %1$d do %1$d znaków</string>
+    <string name="filter_sky_dynamic_text_yanhua_hint">Wprowadź od %1$d do %2$d znaków</string>
     <string name="filter_sky_random_download_failed">"Nie udało się pobrać. Kod błędu: "</string>
     <string name="filter_sky_text_yanhua">Tekst</string>
     <string name="filter_texture_shadow">Zmierzch</string>
@@ -2577,4 +2577,20 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
     <string name="sync_backup_enable_confirm_title">Połącz zsynchronizowane elementy</string>
     <string name="vlog_filter_master_close">Usunięto efekty wideo</string>
     <string name="vlog_filter_master_open">Zastosowano efekty wideo</string>
+    <string name="filter_sky_hongxi">Karmazyn</string>
+    <string name="filter_sky_huanxia">Marzenia</string>
+    <string name="filter_sky_jiyun">Cumulusy</string>
+    <string name="filter_sky_nuanyang">Ciepło</string>
+    <string name="filter_sky_xiaying">Szkarłat</string>
+    <string name="filter_sky_xieyang">Zmrok</string>
+    <string name="filter_sky_xiguang">Promienie</string>
+    <string name="filter_sky_yunbo">Fale</string>
+    <string name="filter_sky_yunmeng">Fantasy</string>
+    <string name="magic_bitmap_damaged">Plik obrazu jest uszkodzony</string>
+    <string name="magic_matting_error_px">"Ten rozmiar obrazka nie jest wspierany"</string>
+    <string name="magic_video_cut_frame">Przetwarzanie…</string>
+    <string name="magic_video_cut_frame_back">Dotknij ponownie, aby anulować</string>
+    <string name="network_message">"Aby działać normalnie, funkcja wymaga połączenia z Internetem. Wygląda na to, że obecnie urządzenie nie jest połączone z siecią Wi-Fi. Czy chcesz użyć danych mobilnych, aby kontynuować? Ich wykorzystanie może generować dodatkowe opłaty od operatora."</string>
+    <string name="network_title">Połącz się z siecią</string>
+    <string name="operation_google_lens">Obiektyw Google</string>
 </resources>
