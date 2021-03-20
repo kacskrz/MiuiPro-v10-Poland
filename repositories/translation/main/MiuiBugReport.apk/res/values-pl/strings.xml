@@ -162,7 +162,7 @@
     <string name="cta_cancel">Anuluj</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Wyślij raport</string>
-    <string name="submit_dialog_content"><Data>"Twoje zgłoszenie, wraz z załącznikami oraz logami, zostanie wysłane na serwery Xiaomi. Może zawierać informacje osobiste oraz dane o lokalizacji. Wybranie przycisku \"Zgoda\" oznacza, że przeczytałeś i zgodziłeś się na naszą &lt;a href=\"%1$s\">Politykę prywatności&lt;/a> i &lt;a href=\"%2$s\">Zgodę Użytkownika&lt;/a>."</Data></string>
+    <string name="submit_dialog_content"><Data>"Twoje zgłoszenie, wraz z załącznikami oraz logami, zostanie wysłane na serwery Xiaomi. Może zawierać ono informacje osobiste oraz dane o lokalizacji. Wybranie przycisku \"Zgoda\" oznacza, że przeczytałeś i zgodziłeś się na warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a> i &lt;a href=\"%2$s\">Umowy użytkownika&lt;/a> Xiaomi. Jeśli zgłaszasz problemy występujące na kilku urządzeniach, oprócz logu z tego urządzenia na serwery zostaną wysłane także logi z innych telefonów, na których jest zalogowane Twoje konto Xiaomi."</Data></string>
     <string name="submit_dialog_content_global">Twoje zgłoszenie, wraz z załącznikami (jeśli dołączono) oraz logami (jeśli zaznaczono odpowiednie pola wyboru elementów, których nie należy wysyłać), zostanie wysłane na serwery Xiaomi. Logi mogą zawierać informacje osobiste oraz dane o lokalizacji.</string>
     <string name="submit_dialog_cancel">Anuluj</string>
     <string name="submit_dialog_confirm">Wyślij</string>
@@ -298,7 +298,7 @@
     <string name="module_item_less">Ukryj</string>
     <string name="feedback_guess">Nasz strzał:</string>
     <string name="modules">Zaznacz element</string>
-    <string name="feedback_continue">Kontynuuj z opinią</string>
+    <string name="feedback_continue">Wyślij opinię</string>
     <string name="module_system">System</string>
     <string name="module_network">Sieć</string>
     <string name="module_medias">Multimedia</string>
