@@ -6454,7 +6454,7 @@ jakość odtwarzania"</string>
   <string name="wifi_link_turbo_no_app">Nie ma tu jeszcze żadnej aplikacji.</string>
   <string name="wifi_link_turbo_off">Wył.</string>
   <string name="wifi_link_turbo_on">Wł.</string>
-  <string name="wifi_link_turbo_summary">Przyspiesz prędkość połączenia dla wybranych aplikacji przy użyciu danych mobilnych, gdy jakość połączenia z siecią Wi-Fi jest słaba</string>
+  <string name="wifi_link_turbo_summary">Użyj danych mobilnych do zwiększenia prędkości połączenia. Korzystanie z tej funkcji może generować dodatkowe opłaty od operatora.</string>
   <string name="system_haptic_feedback">Reakcje haptyczne</string>
   <string name="calendar_remind">Wydarzenia</string>
   <string name="notification_remind">Powiadomienia</string>
@@ -7408,4 +7408,5 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_ancMedium">Normalne</string>
   <string name="codec_low_latency_zmi_summary">Automatycznie zmniejsz opóźnienie dźwięku i ulepsz efekty dźwiękowe w grach</string>
   <string name="codec_low_latency_zmi_title">Niska latencja w grach</string>
+  <string name="wifi_link_turbo_mode">Tryb zwiększenia prędkości</string>
 </resources>
