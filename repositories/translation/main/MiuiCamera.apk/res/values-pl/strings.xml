@@ -352,7 +352,7 @@
   <string name="pref_camera_whitebalance_title">Balans bieli</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">Bardzo szeroki</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">B. szeroki</string>
   <string name="pref_camera_zoom_mode_entry_wide">Szeroki</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">Ciemno</string>
   <string name="pref_camera_zoom_mode_entry_macro">Makro</string>
@@ -983,7 +983,7 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">ZOOM 2X</string>
   <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">ZOOM 5X</string>
   <string name="pref_camera_zoom_mode_entry_tele_abbr">ZOOM</string>
-  <string name="pref_camera_zoom_mode_entry_ultra_abbr">BARDZO SZEROKI</string>
+  <string name="pref_camera_zoom_mode_entry_ultra_abbr">B. SZEROKI</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">SZEROKI</string>
   <string name="pref_camera_zoom_mode_title_abbr">MODUŁ</string>
   <string name="miservice_notification_content">Dotknij, aby dowiedzieć się więcej</string>

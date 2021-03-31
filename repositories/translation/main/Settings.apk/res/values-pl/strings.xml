@@ -2447,7 +2447,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="lockscreen_glogin_password_hint">Hasło</string>
   <string name="lockscreen_glogin_submit_button">Zaloguj się</string>
   <string name="lockscreen_magazine">Codzienne tapety ekranu blokady</string>
-  <string name="lockscreen_magazine_summary">Wysokiej jakości codzienne tapety ekranu blokady</string>
+  <string name="lockscreen_magazine_summary">Każdego dnia na ekranie blokady będzie pojawiać się nowa tapeta</string>
   <string name="lockscreen_magazine_title">Codzienne tapety ekranu blokady</string>
   <string name="lockscreen_remote_input">Uniemożliwiaj wpisywanie tekstu w obszarze powiadomień, gdy urządzenie jest zablokowane</string>
   <string name="lockscreen_settings_title">Ustawienia ekranu blokady</string>
