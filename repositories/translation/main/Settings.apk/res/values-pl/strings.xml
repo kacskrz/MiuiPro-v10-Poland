@@ -6759,13 +6759,13 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="face_unlock_success_stay_screen_msg">Po odblokowaniu twarzą urządzenie pozostanie na ekranie blokady i umożliwi przejście do pulpitu gestem przesunięcia w górę</string>
   <string name="face_unlock_success_stay_screen_title">Pozostań na ekranie blokady</string>
   <string name="feedback_btn_text">Wyślij opinię</string>
-  <string name="freeform_guide_drop_down_to_fullscreen_summary">Dotknij i przytrzymaj, a następnie przeciągnij pasek akcji za pływające okno</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_summary">Przytrzymaj, a następnie przesuń w dół pasek akcji pływającego okna</string>
   <string name="freeform_guide_drop_down_to_fullscreen_title">Tryb pełnoekranowy</string>
-  <string name="freeform_guide_move_summary">Naciśnij i przytrzymaj pasek akcji pływającego okna, aby przesunąć</string>
+  <string name="freeform_guide_move_summary">Przytrzymaj pasek akcji pływającego okna, aby je przesunąć</string>
   <string name="freeform_guide_move_title">Przenoszenie pływających okien</string>
   <string name="freeform_guide_move_to_small_freeform_window_summary">Przesuń pływające okno do rogu ekranu</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Zmniejszanie pływających okien</string>
-  <string name="freeform_guide_notification_drop_down_summary">Naciśnij i przytrzymaj, a następnie przeciągnij w dół pasek powiadomień</string>
+  <string name="freeform_guide_notification_drop_down_summary">Przytrzymaj, a następnie przeciągnij w dół pasek akcji w powiadomieniu</string>
   <string name="freeform_guide_notification_drop_down_title">Otwieranie pływających okien</string>
   <string name="freeform_guide_settings">Pływające okno</string>
   <string name="freeform_guide_slide_up_to_close_summary">Przeciągnij w górę z paska akcji pływającego okna</string>
