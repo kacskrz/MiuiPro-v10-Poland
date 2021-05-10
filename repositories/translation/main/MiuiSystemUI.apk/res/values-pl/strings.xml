@@ -829,7 +829,7 @@
   <string name="kg_invalid_confirm_pin_hint">Kody PIN nie pasują</string>
   <string name="kg_invalid_puk">Ponownie podaj poprawny kod PUK. Nieudane próby spowodują trwałe wyłączenie karty SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Wpisz PIN o długości od 4 do 8 cyfr.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK musi mieć 8 cyfr.</string>
+  <string name="kg_invalid_sim_puk_hint">Kod PUK musi mieć %1$d cyfr.</string>
   <string name="kg_login_too_many_attempts">Zbyt wiele prób narysowania wzoru</string>
   <string name="kg_password_instructions">Wpisz hasło</string>
   <string name="kg_password_pin_failed">Nie udało się odblokować, używając PINu karty SIM</string>

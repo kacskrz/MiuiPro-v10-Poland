@@ -7,7 +7,7 @@
     <string name="search_led_indicator_prompt">Podczas nagrywania pokazuj powiadomienie na pasku statusu i pulsuj diodą powiadomień przy zablokowanym ekranie</string>
     <string name="search_scenes">Typ nagrania</string>
     <string name="search_silent_mode">Wyłącz dzwonek w czasie nagrywania</string>
-    <string name="search_enable_earpiece_title">Odtwarzaj na słuchawkach</string>
+    <string name="search_enable_earpiece_title">Tryb słuchawki</string>
     <string name="search_quliaty_title">Jakość nagrywania</string>
     <string name="keywords_search_record_list">Dyktafon;Transkryptuj;Transkrypcja;Nagraj;Udostępnij nagranie;Udostępnij nagrania;Nagranie;Nagrania</string>
     <string name="keywords_search_record">Nowe nagranie;Dodaj nagranie;Nagranie;Nagrania;Transkrypcja;Transkryptuj;Dyktafon;Nagrywanie rozmowy;Nagrywanie dźwięku;Aplikacja nagrywająca;Jak nagrywać;Jak nagrać dźwięk;Gdzie jest dyktafon; Dyktafon MIUI</string>
@@ -57,12 +57,12 @@
     <string name="sound_recorder_settings">Ustawienia</string>
     <string name="preference_led_indicator">Powiadomienie o nagrywaniu</string>
     <string name="preference_tip_rename">Pokazuj pytanie o zmianę nazwy nagrania</string>
-    <string name="preference_led_indicator_prompt">Podczas nagrywania, pokaż na pasku status i pulsuj diodą powiadomień</string>
+    <string name="preference_led_indicator_prompt">Pokazuj niebieski wskaźnik na ekranie blokady i uruchom diodę podczas nagrywania</string>
     <string name="preference_scenes">Typ nagrania</string>
     <string name="preference_record_scenes_dialog_title">Wybierz kategorię typu nagrania</string>
     <string name="preference_silent_mode">Ciche nagrywanie</string>
-    <string name="preference_enable_earpiece_title">Odtwarzaj na słuchawkach</string>
-    <string name="preference_enable_earpiece_summary">Odtwarza nagranie w słuchawkach lub głośniku przednim</string>
+    <string name="preference_enable_earpiece_summary">Odtwórz dźwięk za pomocą głośnika słuchawki</string>
+    <string name="preference_enable_earpiece_title">Tryb słuchawki</string>
     <string name="error_filename_too_long">Zbyt długa nazwa pliku</string>
     <string name="error_filename_illegal_char">Nazwa pliku zawiera nieprawidłowe znaki</string>
     <string name="duration_format_hour">%sh</string>
@@ -164,7 +164,7 @@
   <string name="call_record_list_group_all">Wszystkie</string>
   <string name="call_record_list_group_connected">Połączono</string>
   <string name="call_record_list_group_unconnected">Nie połączono</string>
-  <string name="preference_status_bar_indicator_prompt">Pokaż skrót na pasku statusu w trakcie nagrywania</string>
+  <string name="preference_status_bar_indicator_prompt">Pokazuj niebieski wskaźnik na ekranie blokady podczas nagrywania</string>
   <string name="shortcut_records">Nagrania</string>
   <string name="shortcut_start_record">Zacznij nagranie</string>
   <string name="shortcut_stop_record">Zatrzymaj nagranie</string>
@@ -181,7 +181,7 @@
   <string name="cancel_rename">Anuluj</string>
   <string name="loading_more">Chwileczkę…</string>
   <string name="delete_cloud_data_at_same_time">Usuń także z Chmury</string>
-  <string name="preference_record_desktop_indicator_summary">Wyświetlaj niebieski wskaźnik na pulpcie, gdy aplikacja Dyktafon działa w tle</string>
+  <string name="preference_record_desktop_indicator_summary">Wyświetlaj niebieski wskaźnik na pulpicie w trakcie nagrywania</string>
   <string name="preference_record_desktop_indicator_title">Oznaczenie na pulpicie</string>
   <string name="recognition_button_add_to_queue">Dodaj do kolejki</string>
   <string name="recognition_button_cancel">Nie teraz</string>
@@ -254,4 +254,13 @@
   <string name="save_as">Zapisz jako</string>
   <string name="remove_icon_description_content">"Dyktafon to aplikacja systemowa. Po usunięciu skrótu z pulpitu nie będzie można zarządzać nagraniami."</string>
   <string name="remove_icon_description_title">Usunąć \"Dyktafon\" z pulpitu?</string>
+  <string name="all_record">Wszystkie nagrania</string>
+  <string name="fm_record">Radio</string>
+  <string name="no_content">Brak elementów</string>
+  <string name="no_playback_file">Wybierz nagranie, aby zobaczyć szczegóły</string>
+  <string name="normal_settings_pref_title">Ustawienia ogólne</string>
+  <string name="other_settings_pref_title">Dodatkowe ustawienia</string>
+  <string name="recorder_record">Dźwięk</string>
+  <string name="remind_settings_pref_title">Powiadomienia</string>
+  <string name="tap_to_record">Dotknij przycisk, aby rozpocząć nagranie</string>
 </resources>
