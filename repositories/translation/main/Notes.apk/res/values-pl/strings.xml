@@ -160,7 +160,7 @@
     <string name="sns_action_send">Wyślij</string>
     <string name="sns_hint_title">Temat (opcjonalnie)</string>
     <string name="sns_hint_content">Wpisz wiadomość</string>
-    <string name="sns_footer_text">Utworzone z Notatek MIUI</string>
+    <string name="sns_footer_text">Utworzone przy pomocy Notatek MIUI</string>
     <string name="dlg_info_creating_message">Tworzenie wiadomości…</string>
     <string name="sns_message_disconnect">Nie można połączyć z siecią. Sprawdź połączenie z Internetem i spróbuj ponownie.</string>
     <string name="sns_content_default">Udostępnij zdjęcie</string>
@@ -616,4 +616,5 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="sunday">Niedziela</string>
   <string name="sunday_short">Ndz</string>
   <string name="sunday_shortest">N</string>
+  <string name="pref_remind_type_summary_new_2">Odtwarzaj dźwięk nawet wtedy, gdy włączony jest tryb Cichy lub Godziny ciszy</string>
 </resources>
