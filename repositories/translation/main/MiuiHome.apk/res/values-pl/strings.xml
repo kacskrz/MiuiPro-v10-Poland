@@ -438,7 +438,7 @@
   <string name="search_no_result">"Nie znaleziono rezultatów"</string>
   <string name="show_most_popular_apps_you_used">Wyświetl najczęściej używane aplikacje w szufladzie</string>
   <string name="apply_text">Zastosuj</string>
-  <string name="system_text">Systemowe</string>
+  <string name="system_text">Automatyczne</string>
   <string name="icon_size">Rozmiar ikon</string>
   <string name="all_apps_setting_original_scrollbar">Oryginalny układ</string>
   <string name="all_apps_setting_scroll_bar">Pasek przewijania</string>

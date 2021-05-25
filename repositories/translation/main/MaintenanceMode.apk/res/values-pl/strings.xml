@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agree">Zgadzam się</string>
+    <string name="cancel">Anuluj</string>
+    <string name="check_protocol_msg">"Przed skorzystaniem z Trybu naprawy zaakceptuj warunki "</string>
+    <string name="check_protocol_msg_detail">Przed uruchomieniem Trybu naprawy upewnij się, że wykonano kopię zapasową danych. Serwis nie jest odpowiedzialny za możliwą utratę danych w trakcie procesu naprawy urządzenia.</string>
+    <string name="check_protocol_msg_sub">Informacji dot. danych użytkownika</string>
+    <string name="click_to_close">Kliknij, aby wyjść z Trybu naprawy</string>
+    <string name="close_maintenance_mode">Wyjdź z Trybu naprawy</string>
+    <string name="create_fail">Nie udało się włączyć Trybu naprawy. Spróbuj ponownie później.</string>
+    <string name="create_fail_because_max_user">Osiągnięto maksymalną ilość użytkowników w systemie. Usuń dane Drugiej przestrzeni, Sklonowanych aplikacji bądź Trybu dziecięcego i spróbuj ponownie.</string>
+    <string name="delete_maintenance_mode">Opuszczanie Trybu naprawy...</string>
+    <string name="disagree">Nie zgadzam się</string>
+    <string name="forbid_create">Tryb naprawy może zostać utworzony wyłącznie w Głównej przestrzeni</string>
+    <string name="maintenance_mode">Tryb naprawy</string>
+    <string name="maintenance_mode_close_title">Tryb naprawy</string>
+    <string name="maintenance_mode_loading">Uruchamianie Trybu naprawy. Restartowanie urządzenia…</string>
+    <string name="maintenance_mode_reboot">Restart urządzenia w Trybie naprawy</string>
+    <string name="maintenance_mode_title">Kompleksowa ochrona danych z telefonu</string>
+    <string name="maintenance_mode_watch_out">Chroń prywatne dane (zdjęcia, filmy, kontakty itd.) w trakcie naprawy urządzenia</string>
+    <string name="open">Włącz Tryb naprawy</string>
+    <string name="open_maintenance_mode">Włącz Tryb naprawy</string>
+    <string name="open_maintenance_mode_msg">"Aby uniknąć utraty danych, zalecane jest wysłanie urządzenia do naprawy po "</string>
+    <string name="open_maintenance_mode_msg_sub">wykonaniu kopii zapasowej</string>
+    <string name="reached_max_user">Osiągnięto maksymalną ilość użytkowników</string>
+    <string name="reboot_maintenance_mode">Opuszczono Tryb naprawy. Uruchom ponownie urządzenie, aby zastosować zmiany.</string>
+    <string name="reboot_msg">Włączenie Trybu naprawy spowoduje ponowne uruchomienie telefonu. Czy chcesz to zrobić?</string>
+    <string name="set_password_main_user">Ustaw hasło</string>
+    <string name="set_password_main_user_context">Aby zapewnić bezpieczeństwo danych, ustaw hasło Ekranu blokady. Nie zapomnij go, ponieważ w momencie wyłączania Trybu naprawy trzeba będzie je wprowadzić w celu weryfikacji.</string>
+    <string name="setting">Ustawienia</string>
+    <string name="switch_to_maintenance_mode">Włącz Tryb naprawy</string>
+</resources>
