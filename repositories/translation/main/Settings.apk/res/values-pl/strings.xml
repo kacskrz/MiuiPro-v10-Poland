@@ -7615,4 +7615,5 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="time_floating_window_summary">Wyświetlaj zegar w pływającym oknie nad innymi aplikacjami</string>
   <string name="oaid_apps_summary">Zezwól bądź ogranicz dostęp do identyfikatora dla poszczególnych aplikacji</string>
   <string name="oaid_apps_title">Zarządzaj wirtualnym ID</string>
+  <string name="security_center_title">Panel sterowania</string>
 </resources>
