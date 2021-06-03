@@ -7616,4 +7616,6 @@ Wyłączenie tej funkcji nie wpłynie na zdolność urządzenia do wysyłania in
   <string name="oaid_apps_summary">Zezwól bądź ogranicz dostęp do identyfikatora dla poszczególnych aplikacji</string>
   <string name="oaid_apps_title">Zarządzaj wirtualnym ID</string>
   <string name="security_center_title">Panel sterowania</string>
+  <string name="risk_tip">Wykryto ryzyko</string>
+  <string name="miui_input_method_attention">Uwaga</string>
 </resources>
