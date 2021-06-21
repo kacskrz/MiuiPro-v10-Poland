@@ -46,4 +46,5 @@ Wybierz %2$s, aby pobrać ten plik po nawiązaniu połączenia z siecią Wi-Fi."
   <string name="channel_complete">Zakończone pobieranie</string>
   <string name="channel_insufficient_space">Brak miejsca</string>
   <string name="channel_waiting">Oczekujące pobieranie</string>
+  <string name="download_no_application">Brak aplikacji obsługujących ten format</string>
 </resources>

@@ -1519,4 +1519,5 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
   <string name="no_contact_selected">Wybierz kontakt, aby wyświetlić szczegóły</string>
+  <string name="wifi_pad_disable_phone">"Nie można wykonywać połączeń na tym urządzeniu"</string>
 </resources>
