@@ -1041,4 +1041,5 @@
     <string name="size_lv6">Większe niż %d GB</string>
     <string name="total_size">Łącznie: %s</string>
     <string name="search_category">Kategoria</string>
+    <string name="today">Dzisiaj</string>
 </resources>
