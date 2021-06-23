@@ -10,9 +10,8 @@
         <item quantity="few">Dodano %d zdjęcia z chmury, wyłącz \"Pokaż tylko lokalne albumy\", aby wyświetlić.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">%2$d elementów nie może zostać dodanych do albumu. %1$s.</item>
-        <item quantity="one">%2$d element nie może zostać dodany do albumu. %1$s.</item>
-        <item quantity="few">%2$d elementy nie mogą zostać dodane do albumu. %1$s.</item>
+        <item quantity="other">"Nie można dodać %2$d elementów do albumu. %1$s."</item>
+        <item quantity="one">"Nie można dodać %2$d elementu do albumu. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"Nie można dodać %2$d elementów do prywatnego albumu. %1$s."</item>
