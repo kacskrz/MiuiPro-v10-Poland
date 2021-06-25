@@ -1790,9 +1790,7 @@ Ten tablet nie ma słuchawki. Możesz przełączyć się w tryb głośnomówiąc
 Skontaktuj się z operatorem."</string>
   <string name="sim_change_data_message">Użyć %1$s zamiast %2$s do danych mobilnych?</string>
   <string name="sim_change_data_title">Zmienić kartę SIM do danych?</string> 
-  <string name="sim_me_lock_disabled">SIM lock jest wyłączony.</string>
     <string name="sim_selection_required_pref">Wybór wymagany</string>	
-  <string name="simmelock_name">SIM ME lock</string>
     <string name="stk_cc_ss_to_dial_video_error">Żądanie SS zmieniono na żądanie Video DIAL.</string>	
   <string name="strPasswordLengthIncorrect">4-16 liczb</string> 
   <string name="unlock_chances_left">Pozostało prób:</string>
@@ -2190,10 +2188,6 @@ Zawsze używaj tego numeru"</string>
   <string name="wednesday_shortest">Śr</string>
   <string name="fiveg_carrier_aggregation_title">Agregacja operatorów 5G</string>
   <string name="label_ndp_nck">Kod odblokowania NCK</string>
-  <string name="no_unlock_chance_hint">"Nie masz już prób.
-Skontaktuj się z operatorem"</string>
   <string name="sim_me_lock_disabled">Wyłączono blokadę simlock.</string>
   <string name="simmelock_name">Blokada SIM ME</string>
-  <string name="strPasswordLengthIncorrect">Od 4 do 16 cyfr!</string>
-  <string name="unlock_chances_left">Pozostałe próby:</string>
 </resources>
