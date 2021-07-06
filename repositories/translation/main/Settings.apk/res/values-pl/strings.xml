@@ -1930,7 +1930,7 @@
   <string name="gadget_toggle_bluetooth">Aktualizowanie ustawień Bluetooth</string>
   <string name="gadget_toggle_wifi">Aktualizowanie ustawień Wi-Fi</string>
   <string name="gadget_wifi">Wi‑Fi</string>
-  <string name="gallery_privacy_password_role_instruction">Twoje prywatne zdjęcia będą przechowywane tutaj.</string>
+  <string name="gallery_privacy_password_role_instruction">Aby zobaczyć ukryte elementy, przeciągnij w dół w karcie \"Albumy\".</string>
   <string name="game_controller_settings_category">Kontroler gier</string>
   <string name="game_mode_cta_dialog_agree">Zgadzam się</string>
   <string name="game_mode_cta_dialog_cancel">Anuluj</string>
