@@ -1070,7 +1070,7 @@ Spróbuj ponownie za %3$d sekund."</string>
   <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Musisz &lt;font color=#a5220e&gt;wymazać wszystkie dane&lt;/font&gt; na swoim urządzeniu, w tym zdjęcia i kontakty, a następnie ustawić nowe hasło ekranu blokady.;&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Dalej</string>
   <string name="phone_locked_foget_password_ok">Rozumiem</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Wyłącz urządzenie, a następnie naciśnij i przytrzymaj &lt;font color=#a5220e&gt;Przycisk zasilania&lt;/font&gt; oraz &lt;font color=#a5220e&gt;Przycisk zwiększ głośność&lt;/font&gt; jednocześnie, dopóki nie wyświetli się logo Mi.;&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Wyłącz urządzenie, a następnie naciśnij i przytrzymaj &lt;font color=#e6e6e6>Przycisk zasilania&lt;/font> oraz &lt;font color=#e6e6e6>Przycisk zwiększ głośność&lt;/font> jednocześnie, dopóki nie wyświetli się logo &lt;img src=\"\">.;</Data></string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Wybierz &lt;font color=#a5220e&gt;\"Wymaż i zresetuj\"&lt;/font&gt; i poczekaj, aż urządzenie uruchomi się ponownie.;&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Jak wymazać dane?</string>
   <string name="phone_locked_string">Urządzenie zablokowane</string>
@@ -2486,4 +2486,6 @@ Ta aplikacja nie ma uprawnień do nagrywania, ale może rejestrować dźwięk za
     <string name="input_pattern_after_boot_msg">Narysuj wzór, aby odblokować urządzenie</string>
     <string name="input_pin_after_boot_msg">Wprowadź kod PIN, aby odblokować urządzenie</string>
     <string name="keyguard_invalid_sim_puk_hint">Kod PUK musi zawierać %1$d cyfr.</string>
+    <string name="fiveg_sa_switch_summary">Włącz tryb SA sieci 5G na drugiej karcie SIM. Tylko w celach testowych</string>
+    <string name="fiveg_sa_vice_switch_title">Tryb SA na drugiej karcie SIM</string>
 </resources>
