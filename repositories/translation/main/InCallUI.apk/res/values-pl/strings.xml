@@ -58,7 +58,7 @@
     <string name="incall_call_type_label_sip">Połączenie przez internet</string>
     <string name="incoming_call_forwarded_title">Przekazywanie połączenia</string>
     <string name="card_title_dialing">Wybieranie</string>
-    <string name="card_title_conf_call">Konferencyjne</string>
+    <string name="card_title_conf_call">Telekonferencja</string>
     <string name="card_title_video_conf_call">Połączenie wideokonferencyjne</string>
     <string name="card_title_threeway_call">Trójstronne</string>
     <string name="card_title_answering">Odbieranie połączenia</string>
@@ -75,7 +75,7 @@
     <string name="card_video_hold_swap">Zamień</string>
     <string name="onscreenEndCallText">Zakończ</string>
     <string name="respond_via_sms_custom_message">Własny SMS</string>
-    <string name="manageConferenceLabel">Zarządzaj połączeniem konferencyjnym</string>
+    <string name="manageConferenceLabel">Zarządzaj telekonferencją</string>
     <string name="emergency_call_dialog_number_for_display">Numer alarmowy</string>
     <string name="call_extension_conference_mode">Konferencja</string>
     <string name="notification_dialing">Trwa wybieranie numeru</string>
