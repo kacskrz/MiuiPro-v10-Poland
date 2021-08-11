@@ -94,4 +94,5 @@
 <string name="device_owner_error_package_not_installed">"Aplikacja administrująca nie jest zainstalowana na tym urządzeniu"</string>
 <string name="set_up">Ustaw</string>
 <string name="user_is_not_owner">Profile służbowe muszą być ustawione na pierwszym koncie na tym urządzeniu</string>
+    <string name="car_ui_scrolling_limited_message">Przewijanie ograniczone w trakcie jazdy</string>
 </resources>

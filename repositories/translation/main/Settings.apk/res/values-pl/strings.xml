@@ -7778,4 +7778,5 @@ Spróbuj użyć szybszego nośnika ^3 lub użyć tego nośnika ^4 jako pamięci 
   <string name="settings_charging_at_top_speed">Ładowanie z najwyższą prędkością</string>
   <string name="settings_charging_fully_charged">Naładowane</string>
   <string name="settings_charging_not_charging">Nie ładuje</string>
+  <string name="wifi_connected_low_quality">Niska jakość</string>
 </resources>
