@@ -4,7 +4,7 @@
   <string name="account">Konto</string>
   <string name="account_related">To urządzenie jest już powiązane z istniejącym kontem Xiaomi (%s). Połącz z siecią, aby zweryfikować urządzenie.</string>
   <string name="activate">Aktywuj</string>
-  <string name="activate_find_device_success">Funkcja Znajdź urządzenie została aktywowana.</string>
+  <string name="activate_find_device_success">Pomyślnie aktywowano funkcję Znajdź urządzenie</string>
   <string name="activate_finddevice">Połącz z siecią w celu aktywacji urządzenia</string>
   <string name="activate_number_change_dialog_message">Wybierz numer, który będzie widoczny dla innych urządzeń w przypadku połączenia VoIP.</string>
   <string name="activating">Aktywacja…</string>
@@ -97,7 +97,7 @@
   <string name="find_device_error_password_changed">Hasło zostało ostatnio zmienione.</string>
   <string name="find_device_error_server">Błąd serwera</string>
   <string name="find_device_error_unknown">Nieznany błąd</string>
-  <string name="find_device_gdpr_prompt">Włączając funkcję Znajdź urządzenie, wyrażasz zgodę na <a href="app://com.miui.cloudservice.gdpr.license"><u>Politykę prywatności</u></a>. Jeśli chcesz unieważnić autoryzację, wyłącz tę funkcję.</string>
+  <string name="find_device_gdpr_prompt">Włączając funkcję Znajdź urządzenie, wyrażasz zgodę na <a href="app://com.miui.cloudservice.gdpr.license"><u>Politykę prywatności</u></a>. Jeśli chcesz wycofać tę zgodę, wyłącz tę funkcję.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">\"Polityka prywatności\"</string>
   <string name="find_device_notice_p1">Odwiedź</string>
   <string name="find_device_notice_p2">i.mi.com</string>
@@ -247,7 +247,7 @@
   <string name="micloud_find_device_guide_alert_title">Zapamiętaj swoje hasło</string>
   <string name="micloud_find_device_guide_button">Włącz funkcję Znajdź urządzenie</string>
   <string name="micloud_find_device_sms_alert">Aby aktywować tę usługę, może być wymagana wychodząca wiadomość SMS. Twój operator pobierze opłatę za tę wiadomość. Po przełączeniu karty SIM zostanie automatycznie wysłana wiadomość, aby ponownie włączyć tę funkcję.</string>
-  <string name="micloud_find_device_guide_fail_reopen">Możesz włączyć funkcję Znajdź urządzenie w menu Konto Xiaomi - Chmura Xiaomi</string>
+  <string name="micloud_find_device_guide_fail_reopen">Włącz funkcję Znajdź urządzenie w Chmurze Xiaomi</string>
   <string name="micloud_find_device_guide_fail_sub_net">Sprawdź połączenie z siecią i spróbuj ponownie.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Przekroczono czas połączenia. Spróbuj ponownie później.</string>
   <string name="micloud_find_device_guide_micloud">Włącz synchronizację z Chmurą Xiaomi</string>
@@ -268,7 +268,7 @@
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Reaktywuj funkcję Znajdź urządzenie</string>
   <string name="micloud_find_device_verify_close">Wyłącz funkcję Znajdź urządzenie</string>
-  <string name="micloud_find_device_verify_fail">Nie udało się reaktywować funkcji Znajdź urządzenie</string>
+  <string name="micloud_find_device_verify_fail">Nie udało się aktywować funkcji Znajdź urządzenie</string>
   <string name="micloud_find_device_verify_progress">Reaktywowanie funkcji Znajdź urządzenie…</string>
   <string name="micloud_footer_international_url">mi.com/micloud</string>
   <string name="micloud_footer_normal_url">i.mi.com</string>
