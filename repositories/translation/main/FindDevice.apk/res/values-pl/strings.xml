@@ -20,7 +20,7 @@
     <string name="time_correction_failure">Nie można dostosować czasu. %s</string>
     <string name="find_device_stop_noise">Naciśnij OK aby wyciszyć</string>
     <string name="find_device_noise_title">Alarm funkcji znajdź urządzenie</string>
-    <string name="find_device_success_title">Znajdź urządzenie</string>
+    <string name="find_device_success_title">Znajdź urządzenie wł.</string>
     <string name="find_device_notice_p1">Przejdź do</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">aby zlokalizować, zablokować lub zresetować telefon.</string>
@@ -86,7 +86,7 @@ Skontaktuj się z agentem sprzedaży, aby uzyskać szczegółowe informacje."</s
     <string name="sys_notification_async_open_failed_content">Dotknij aby spróbować ponownie lub anuluj.</string>
 	<string name="emergency_call">Połączenie alarmowe</string>
 	<string name="return_to_call">Wróć do połączenia</string>
-	<string name="find_device_notice">Przejdź do &lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; aby zlokalizować, zablokować lub przywrócić urządzenie bądź wykonywać zdalnie zdjęcia.</string>
+	<string name="find_device_notice">Przejdź do &lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; aby zlokalizować, zablokować lub przywrócić urządzenie.</string>
     <string name="unlock_number">Kod odblokowania: %s</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznacz wszystko</string>
     <string name="miuix_appcompat_action_mode_select_all">Zaznacz wszystko</string>

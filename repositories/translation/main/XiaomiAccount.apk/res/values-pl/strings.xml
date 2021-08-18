@@ -382,7 +382,7 @@ Możesz teraz zalogować się na konto Xiaomi, korzystając z %s."</string>
     <string name="find_device_interrupted">Akcja została przerwana, poczekaj minutę lub dwie i spróbuj ponownie</string>
     <string name="find_device_operation_failed_error">Wystąpił błąd po stronie serwera, poczekaj minutę lub dwie i spróbuj ponownie</string>
     <string name="find_device_unknown_error">Nie udało się uzyskać statusu urządzenia, poczekaj minutę lub dwie i spróbuj ponownie</string>
-    <string name="find_device_error_password_recently_changed">Zmieniłeś swoje hasło w ciągu ostatnich 3 dni. Nie można teraz wyłączyć funkcji Znajdź urządzenie ze względów bezpieczeństwa.</string>
+    <string name="find_device_error_password_recently_changed">Zmieniłeś swoje hasło w ciągu ostatnich %d dni. Nie można teraz wyłączyć funkcji Znajdź urządzenie ze względów bezpieczeństwa.</string>
     <string name="find_device_error_password_not_confirmed">Nie można wyłączyć funkcji Znajdź urządzenie. Wpisz swoje hasło konta Xiaomi ponownie.</string>
     <string name="find_device_operation_failed_error_unknown">Wystąpił błąd, spróbuj ponownie później</string>
     <string name="find_device_remote_exception">Błąd RPC</string>
