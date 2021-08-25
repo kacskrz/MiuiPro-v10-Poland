@@ -301,10 +301,10 @@
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Pusto</string>
   <string name="recommend_apps_no_data">Brak danych</string>
-  <string name="recommend_apps_no_data_toast">Na razie to wszystko.</string>
-  <string name="recommend_apps_notice">Promowane aplikacje</string>
-  <string name="recommend_apps_notice_nodata">Promowane aplikacje (Brak danych)</string>
-  <string name="recommend_apps_switch_title">Promowane aplikacje</string>
+  <string name="recommend_apps_no_data_toast">Brak elementów w Dzisiejszych rekomendacjach</string>
+  <string name="recommend_apps_notice">Dzisiejsze rekomendacje</string>
+  <string name="recommend_apps_notice_nodata">Dzisiejsze rekomendacje (brak elementów)</string>
+  <string name="recommend_apps_switch_title">Dzisiejsze rekomendacje</string>
   <string name="recommend_apps_tips">Funkcja wymaga połączenia z internetem, aby pracować poprawnie. Aby wyłączyć funkcję dotknij nazwy folderu.</string>
   <string name="recommend_loading">Ładowanie</string>
   <string name="recommend_refresh">Odśwież</string>
