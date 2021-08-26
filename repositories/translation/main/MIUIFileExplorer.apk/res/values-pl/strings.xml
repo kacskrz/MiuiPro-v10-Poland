@@ -1052,4 +1052,5 @@
     <string name="guide_two_title">Zobacz tylko najważniejsze rzeczy</string>
     <string name="next">Dalej</string>
     <string name="start_all">Zobacz wszystko</string>
+    <string name="clean_hint_pad">Wyczyść śmieci, aby zwolnić miejsce</string>
 </resources>
