@@ -50,7 +50,7 @@
   <string name="other_settings_auto_update">Instaluj automatycznie</string>
   <string name="other_settings_auto_update_summary">MIUI wybierze najlepszy czas do instalacji aktualizacji.</string>
   <string name="other_settings_location">Lokalizacja</string>
-  <string name="other_settings_location_summary">Zezwól na dostęp do lokalizacji aplikacjom.</string>
+  <string name="other_settings_location_summary">Zezwól na dostęp aplikacji oraz stron internetowych do lokalizacji w celu dostarczania usług opierających się na niej</string>
   <string name="other_settings_upload_debug_log_summary">Zebrane informacje będą użyte do lokalizowania i analizy błędów w systemie i mogą zawierać dane osobiste. Żadne dane nie będą użyte do identyfikacji personalnej.</string>
   <string name="other_settings_upload_debug_log_title">Wyślij dane diagnostyczne automatycznie</string>
   <string name="other_settings_user_experience">Program zadowolenia użytkownika</string>
