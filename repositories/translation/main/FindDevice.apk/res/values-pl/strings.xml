@@ -75,7 +75,7 @@ Przejdź na stronę i.mi.com/ss i złóż prośbę o odblokowanie urządzenia."<
     <string name="passport_notification_need_unlock_again">Spróbuj odblokować ponownie</string>
     <string name="device_lost">Urządzenie jest zgubione</string>
     <string name="device_locked">Urządzenie jest zablokowane</string>
-    <string name="default_lock_msg_words_with_phone">Cześć! Zgubiłem/am telefon. Możesz się ze mną skontaktować? Dzięki!</string>
+    <string name="default_lock_msg_words_with_phone">Cześć! Zgubiłem/am urządzenie. Możesz się ze mną skontaktować? Dzięki!</string>
     <string name="default_lock_msg_words">To urządzenie jest powiązane z istniejącym kontem Xiaomi. Ze względów bezpieczeństwa wprowadź hasło, aby zweryfikować to urządzenie.</string>
     <string name="lock_msg_phone">Dane do kontaktu: %s</string>
     <string name="default_debt_msg_words">"To urządzenie jest zablokowane z powodu zaległej płatności ratalnej.
