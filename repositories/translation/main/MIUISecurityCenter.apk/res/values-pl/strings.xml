@@ -244,8 +244,8 @@
   <string name="applock_add_account_info">Dodaj konto Xiaomi, aby móc zresetować hasło, w przypadku gdy go zapomnisz.</string>
   <string name="applock_add_account_setting">Konto i prywatność</string>
   <string name="applock_bind_account_title">Nie pamiętam hasła</string>
-  <string name="applock_close_dialog_summary">Wszystkie ukryte aplikacje zostaną odkryte, ich skróty na Ekranie głównym przywrócone, a Twoje hasło blokady aplikacji usunięte. Wyłączyć Blokowanie aplikacji?</string>
-  <string name="applock_close_dialog_title">Wyłączyć​ Blokowanie aplikacji?</string>
+  <string name="applock_close_dialog_summary">Twoje hasło Blokady aplikacji zostanie usunięte. Wyłączyć Blokadę aplikacji?</string>
+  <string name="applock_close_dialog_title">Wyłączyć​ Blokadę aplikacji?</string>
   <string name="applock_exit_account_info">Konto zostanie automatycznie usunięte, gdy się wylogujesz</string>
   <string name="applock_header_text_less_than_half">Zbyt mały. Przeciągnij jeszcze trochę.</string>
   <string name="applock_login_and_add_account">Zaloguj i dodaj</string>
@@ -2307,7 +2307,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="privacy_apps">Ukryte aplikacje</string>
     <string name="privacy_apps_enable_summary">Przenieś aplikacje do ukrytego folderu i usuń ich skróty na Ekranie głównym</string>
     <string name="privacy_apps_manage">Zarządzaj ukrytymi aplikacjami</string>
-    <string name="privacy_apps_tutorial">Tutorial</string>
+    <string name="privacy_apps_tutorial">Gesty</string>
     <string name="privacy_apps_tutorial_prompt_pageone">Ta funkcja pozwala Ci na ukrywanie ikon aplikacji - nie będą one widoczne na pulpicie.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Rozłóż dwa palce na ekranie. Zobaczysz komunikat z prośbą o podanie hasła do blokady aplikacji."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Po wprowadzeniu hasła pojawi się folder z ukrytymi aplikacjami.</string>
@@ -2701,8 +2701,8 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="privacy_apps_begin_use">Start</string>
   <string name="privacy_apps_button_know">Rozumiem</string>
   <string name="privacy_apps_next_stup">Dalej</string>
-  <string name="privacy_apps_shield_message_summary">"Nie pokazuj powiadomień dla chronionych aplikacji"</string>
-  <string name="privacy_apps_shield_message_title">"Nie pokazuj powiadomień"</string>
+  <string name="privacy_apps_shield_message_summary">"Nie pokazuj powiadomień z ukrytych aplikacji"</string>
+  <string name="privacy_apps_shield_message_title">Ukryj powiadomienia</string>
   <string name="privacy_apps_tutorial_dlg_title">Jak znaleźć ukryte aplikacje</string>
   <string name="system_permission_declare_use_network_no_permission">Połącz się z siecią</string>
   <string name="system_permission_declare_revoke_uninstallable">Możesz odinstalować tą aplikację lub zarządzać swoimi uprawnieniami i autoryzacją w Panelu sterowania > Zarządzaj aplikacjami > Uprawnienia > Inne uprawnienia.</string>
@@ -4731,4 +4731,19 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="miuix_alphabet_indexer_name">Pasek indeksu</string>
     <string name="miuix_indexer_selected">Wybrano %s</string>
     <string name="HIPS_Perm_GetInstall_Desc">Uzyskaj informacje o aplikacjach zainstalowanych na urządzeniu</string>
+    <string name="charge_high_temp_warning_dialog_ok">OK</string>
+    <string name="charge_high_temp_warning_dialog_text">Wygląda na to, że port ładowania jest przegrzany. Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi, zanim kontynuujesz ładowanie.</string>
+    <string name="charge_high_temp_warning_text">Odłącz ładowarkę i poczekaj, aż bateria się ochłodzi</string>
+    <string name="charge_high_temp_warning_title">Port ładowania jest za gorący</string>
+    <string name="privacy_apps_add">Dodaj</string>
+    <string name="privacy_apps_password_enable_summay">Chroń prywatne pliki Blokadą aplikacji</string>
+    <string name="privacy_apps_password_enable_title">Blokada aplikacji</string>
+    <string name="privacy_apps_tutorial_dlg_message_1">Rozłóż dwa palce na pulpicie, aby wyświetlić ukryte aplikacje</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Uwaga: Gdy ukryjesz aplikację, zostanie ukryty tylko jej skrót na pulpicie.</string>
+    <string name="privacy_search_keyword_1">Prywatność</string>
+    <string name="privacy_search_keyword_2">Ukryj aplikacje</string>
+    <string name="privacy_search_keyword_3">Ukryj ikony</string>
+    <string name="privacy_search_keyword_4">Ukryj skróty na pulpicie</string>
+    <string name="privacy_search_keyword_5">Prywatne aplikacje</string>
+    <string name="privacy_search_keyword_6">Ukryj</string>
 </resources>
