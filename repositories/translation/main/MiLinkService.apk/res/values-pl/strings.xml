@@ -260,4 +260,5 @@ Przeczytaj i zaakceptuj &lt;a href=%1$s>Umowy użytkownika&lt;/a> i &lt;a href=%
     <string name="file_read_des">W celu wyświetlania zdjęć i innych plików na zewnętrznych monitorach</string>
     <string name="notify">Przesyłanie ekranu działa w tle</string>
     <string name="p2p_location_des">W celu połączenia Twojego urządzenia z zewnętrznymi monitorami</string>
+    <string name="toast_invisible_mode">"Jesteś incognito. Nie można teraz korzystać z przesyłania ekranu."</string>
 </resources>
