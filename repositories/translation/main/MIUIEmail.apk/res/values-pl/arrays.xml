@@ -77,9 +77,4 @@
         <item>Uwaga</item>
         <item>Oświadczenie</item>
     </string-array>
-    <string-array name="sign_in_dialog_item">
-        <item>Outlook dla biznesu (bez kalendarza)</item>
-        <item>IMAP (bez kalendarza)</item>
-        <item>Exchange (z kalendarzem)</item>
-    </string-array>
 </resources>
