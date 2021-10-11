@@ -6660,10 +6660,10 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="dark_wallpaper_mode">Dostosuj tapetę do Ciemnego motywu</string>
   <string name="tether_use_wifi6_summary">Część urządzeń może nie wspierać standardu 802.11ax (Wi-Fi 6). Jeśli doświadczasz jakichś problemów, wyłącz tą funkcję.</string>
   <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
-  <string name="bluetooth_connect_settings">Ustawienia połączenia Bluetooth</string>
-  <string name="bluetooth_display_settings">Ustawienia wyświetlania Bluetooth</string>
+  <string name="bluetooth_connect_settings">Łączność</string>
+  <string name="bluetooth_display_settings">Wyświetlane elementy</string>
   <string name="bluetooth_mi_fast_connect">Paruj kompatybilne urządzenia</string>
-  <string name="bluetooth_mi_fast_connect_summary">Łącz się z urządzeniami w pobliżu dzięki uproszczonemu procesowi parowania</string>
+  <string name="bluetooth_mi_fast_connect_summary">Szybko łącz się ze słuchawkami, głośnikami i innymi kompatybilnymi urządzeniami</string>
   <string name="easymode_hint">Dotknij, aby wyłączyć tryb Lite</string>
   <string name="oldman_mode_settings">Tryb Lite</string>
   <string name="input_method_clipboard_settings">Ustawienia schowka</string>
@@ -8791,4 +8791,11 @@ Aplikacje, które najbardziej zużywają baterię:"</string>
     <string name="handy_mode_no_touch_assistant">"Tryb Jedna dłoń będzie działać tylko, gdy używasz przycisków do nawigacji po systemie. Możesz przełączać się pomiędzy gestami a przyciskami w sekcji \"Nawigacja systemowa\" Ustawień."</string>
     <string name="insert_sim_card_and_try_again">Włóż swoją kartę SIM i spróbuj ponownie.</string>
     <string name="unsupported_usim_card">Niewspierana karta SIM.</string>
+    <string name="blank_screen_no_device">Brak urządzeń</string>
+    <string name="bluetooth_other_settings">Dodatkowe ustawienia</string>
+    <string name="current_use_default_wallet">Wybrano automatycznie</string>
+    <string name="dclight_unavailable_prompt">Tryb Ograniczenie migotania jest wspierany tylko przez zewnętrzny ekran</string>
+    <string name="display_prompt_confirm">OK</string>
+    <string name="screen_refresh_unavailable_prompt">Zmiana częstotliwości odświeżania jest wspierana tylko przez zewnętrzny ekran</string>
+    <string name="se_route_default">Wybierz automatycznie</string>
 </resources>
