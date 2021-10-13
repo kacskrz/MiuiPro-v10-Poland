@@ -1053,4 +1053,5 @@
     <string name="next">Dalej</string>
     <string name="start_all">Zobacz wszystko</string>
     <string name="clean_hint_pad">Wyczyść śmieci, aby zwolnić miejsce</string>
+    <string name="app_name_recorder">Dyktafon</string>
 </resources>
