@@ -45,7 +45,7 @@
     <string name="HIPS_Action_Reject_Once">Odmów raz</string>
     <string name="HIPS_Action_Accept_Once">Zezwól raz</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Odmów raz (%d)</string>
-    <string name="HIPS_Perm_Read_SMS">Czytanie wiadomości SMS</string>
+    <string name="HIPS_Perm_Read_SMS">Czytanie wiadomości SMS i MMS</string>
     <string name="HIPS_Perm_Read_SMS_Desc">czytanie wiadomości SMS</string>
     <string name="HIPS_Perm_Read_MMS">Czytanie wiadomości MMS</string>
     <string name="HIPS_Perm_Read_MMS_Desc">czytanie wiadomości MMS</string>
