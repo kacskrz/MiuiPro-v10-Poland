@@ -262,7 +262,7 @@
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Zakończ</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Wyłącz</string>
-  <string name="open_personal_assistant_dialog_desc">Nie będziesz w stanie korzystać z Asystenta MIUI ani otrzymywać jego aktualizacji. Wyłączyć teraz?</string>
+  <string name="open_personal_assistant_dialog_desc">Po wyłączeniu Asystenta MIUI nie będzie można zobaczyć ani używać jego widżetów. Ich zaktualizowane wersje również nie będą dla Ciebie dostępne. Wyłączyć mimo to?</string>
   <string name="open_personal_assistant_dialog_desc_international">"Nie będziesz w stanie korzystać z kart Asystenta MIUI (Skróty, Akcje itd.) oraz otrzymywać jego aktualizacji po wyłączeniu tej funkcji."</string>
   <string name="open_personal_assistant_dialog_title">Wyłącz Asystenta MIUI</string>
   <string name="open_personal_assistant_title">Asystent MIUI</string>
