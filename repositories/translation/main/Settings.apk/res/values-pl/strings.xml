@@ -6658,7 +6658,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="wifi_link_turbo_recommendation">Polecane aplikacje</string>
   <string name="wifi_link_turbo_recommendation_summary">Otrzymuj rekomendacje oparte na statystykach zużycia danych</string>
   <string name="dark_wallpaper_mode">Dostosuj tapetę do Ciemnego motywu</string>
-  <string name="tether_use_wifi6_summary">Część urządzeń może nie wspierać standardu 802.11ax (Wi-Fi 6). Jeśli doświadczasz jakichś problemów, wyłącz tą funkcję.</string>
+  <string name="tether_use_wifi6_summary">Część urządzeń może nie wspierać standardu 802.11ax (Wi-Fi 6). Jeśli doświadczasz problemów związanych z tą funkcją, wyłącz ją.</string>
   <string name="tether_use_wifi6_title">Wsparcie standardu Wi-Fi 6</string>
   <string name="bluetooth_connect_settings">Łączność</string>
   <string name="bluetooth_display_settings">Wyświetlane elementy</string>
