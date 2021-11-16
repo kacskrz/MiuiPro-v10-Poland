@@ -6528,7 +6528,7 @@ Oto, co mogło pójść nie tak:
   <string name="enrol_fingerprint_data">Dodaj odcisk palca</string>
   <string name="max_fingerprint_reached_toast">Możesz dodać maks. 5 odcisków palców</string>
   <string name="sunlight_mode">Tryb \"Światło słoneczne\"</string>
-  <string name="sunlight_mode_summary">Dostosuj jasność do mocnego światła z zewnątrz, gdy automatyczna jasność jest wyłączona</string>
+  <string name="sunlight_mode_summary">Dostosuj jasność do mocnego światła z zewnątrz, aby polepszyć widoczność treści na ekranie</string>
   <string name="usb_headset_not_support_cancel">Rozumiem</string>
   <string name="usb_headset_not_support_message">"Nie można odtworzyć dźwięku przez adapter. Użyj słuchawek bezprzewodowych
 lub posiadających złącze mini-jack (3,5 mm)."</string>
@@ -8851,7 +8851,12 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="shoulder_key_shortcut_single_click">Wciśnięcie</string>
     <string name="shoulder_key_shortcut_turn_on_torch">Latarka</string>
     <string name="shoulder_key_shortcut_vibrate">Wibracja</string>
-    <string name="memorycard_calculating">Obliczanie</string>
+    <string name="memorycard_calculating">Obliczanie…</string>
     <string name="closed_beta">Stabilna (wewnętrzna)</string>
     <string name="miuix_indexer_collect">Kolekcje</string>
+    <string name="brightness_auto_summary">Dostosuj jasność do światła otoczenia, aby oszczędzać baterię</string>
+    <string name="high_brightness_hint_summary">Gdy światło otoczenia jest mocne, na górze ekranu pojawi się mała ikona słońca</string>
+    <string name="screen_brightness">Jasność ekranu</string>
+    <string name="smart_dual_sim_title">Inteligentny tryb dual SIM</string>
+    <string name="wifi_multi_network_acceleration_title">Przyspieszenie sieci</string>
 </resources>
