@@ -1016,4 +1016,5 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="prefsx_notify_sound_none">Cichy</string>
     <string name="premission_description_log">W celu zapisywania logów</string>
     <string name="premission_description_ringtone">W celu ustawienia dzwonków</string>
+    <string name="miuix_indexer_collect">Kolekcje</string>
 </resources>
