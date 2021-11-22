@@ -2556,10 +2556,10 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gamecenter_install_sucessfull">Pomyślnie zainstalowano</string>
   <string name="gb_shortcut_pref_title">Skrót na pulpicie</string>
   <string name="power_save_ps_clean">Czyszczenie pamięci podręcznej, gdy urządzenie jest zablokowane</string>
-  <string name="power_save_ps_close_setting">Wyłączenie energożernych funkcji oraz usług (synchronizacja, GPS, reakcje haptyczne, pokazywanie ikony odcisku palca itd.)</string>
-  <string name="power_save_ps_close_setting_5g">Wyłączenie energożernych funkcji oraz usług (synchronizacja, łączność 5G, GPS, reakcje haptyczne, pokazywanie ikony odcisku palca itd.)</string>
-  <string name="power_save_ps_close_setting_5g_q">Wyłączenie energożernych funkcji oraz usług (synchronizacja, łączność 5G, reakcje haptyczne, \"Podnieś, aby wybudzić\" oraz \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
-  <string name="power_save_ps_close_setting_q">Wyłączenie energożernych funkcji oraz usług (synchronizacja, reakcje haptyczne, \"Podnieś, aby wybudzić\" oraz \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
+  <string name="power_save_ps_close_setting">Wyłączenie energochłonnych funkcji oraz usług (synchronizacja, GPS, reakcje haptyczne, pokazywanie ikony odcisku palca itd.)</string>
+  <string name="power_save_ps_close_setting_5g">Wyłączenie energochłonnych funkcji oraz usług (synchronizacja, łączność 5G, GPS, reakcje haptyczne, pokazywanie ikony odcisku palca itd.)</string>
+  <string name="power_save_ps_close_setting_5g_q">Wyłączenie energochłonnych funkcji oraz usług (synchronizacja, łączność 5G, reakcje haptyczne, \"Podnieś, aby wybudzić\" oraz \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
+  <string name="power_save_ps_close_setting_q">Wyłączenie energochłonnych funkcji oraz usług (synchronizacja, reakcje haptyczne, \"Podnieś, aby wybudzić\" oraz \"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\")</string>
   <string name="power_save_ps_freeze">Zamrożenie aplikacji w tle</string>
   <string name="power_save_ps_limit">Ograniczenie aktywności aplikacji systemowych</string>
   <string name="choose_gs_show_way">Wybierz orientację strony głównej</string>
@@ -2595,7 +2595,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="user_guide">Przesuń w górę, aby odkryć więcej nowych gier</string>
   <string name="power_center_dialog_msg_top">Gdy Oszczędzanie baterii jest włączone, MIUI wykona następujące optymalizacje:</string>
   <string name="power_center_dialog_msg_bottom">Możesz wydłużyć pracę na baterii do %1$d godz. i %2$d min. Włączyć Oszczędzanie baterii?</string>
-  <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
+  <string name="power_dialog_super_save_msg">"Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji systemu i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?"</string>
   <string name="power_dialog_super_save_title">Ultraoszczędzanie baterii</string>
   <string name="power_center_power_save_title_text">Oszczędzanie baterii</string>
   <string name="power_center_super_save_title_text">Ultraoszczędzanie baterii</string>
@@ -2660,7 +2660,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="call_delete_all_hint">Usunąć wszystkie zablokowane połączenia?</string>
   <string name="superpower_dialog_button_disable_dialog">"Nie pokazuj ponownie"</string>
   <string name="superpower_dialog_button_ok">OK</string>
-  <string name="superpower_dialog_massage">"Ultraoszczędzanie baterii ogranicza większość energożernych funkcji i obniża wydajność urządzenia w celu zachowania działania podstawowych funkcji (np. połączeń, SMS-ów czy wybranych aplikacji) tak długo, jak to możliwe. Włączyć ten tryb?"</string>
+  <string name="superpower_dialog_massage">"Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji i obniża wydajność urządzenia w celu zachowania działania podstawowych funkcji (np. połączeń, SMS-ów czy wybranych aplikacji) tak długo, jak to możliwe. Włączyć ten tryb?"</string>
   <string name="superpower_dialog_title">Ultraoszczędzanie baterii</string>
   <string name="superpower_notification_summary">Naładuj urządzenie lub włącz Ultraoszczędzanie baterii</string>
   <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
@@ -2672,7 +2672,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="superpower_progress_switch_home">Włączanie Ciemnego motywu</string>
   <string name="superpower_progress_title">Pozostały czas</string>
   <string name="superpower_progress_turndown_brightness">Obniżanie jasności ekranu</string>
-  <string name="superpower_progress_turnoff_items">Ograniczanie energożernych funkcji</string>
+  <string name="superpower_progress_turnoff_items">Ograniczanie energochłonnych funkcji</string>
   <string name="superpower_progress_turnoff_process">Ograniczenie aktywności w tle</string>
   <string name="superpower_savemode_limit1">Ciemny motyw</string>
   <string name="superpower_savemode_limit2">Ogranicz aktywność w tle</string>
@@ -2684,7 +2684,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="superpower_settins_autoleave_title">Wyłącz automatycznie</string>
   <string name="superpower_settins_autoleave_summary">Wyłącz ten tryb automatycznie, gdy bateria jest naładowana w co najmniej 50%</string>
   <string name="superpower_settins_other">Dodatkowe ustawienia</string>
-  <string name="superpower_settins_switch_summary">Ogranicza większość energożernych funkcji w celu zachowania działania podstawowych funkcji (np. połączeń, SMS-ów czy wybranych aplikacji) tak długo, jak to możliwe</string>
+  <string name="superpower_settins_switch_summary">Ogranicza większość energochłonnych funkcji w celu zachowania działania podstawowych funkcji (np. połączeń, SMS-ów czy wybranych aplikacji) tak długo, jak to możliwe</string>
   <string name="system_permission_declare_agree">Zgoda</string>
   <string name="system_permission_declare_double_link"><Data>Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Umowy użytkownika&lt;/a> i &lt;a href=\"%2$s\">Polityki prywatności&lt;/a> Xiaomi.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">Witaj w aplikacji %1s! Pozwala ci ona na używanie następujących funkcji: %2s.</string>
@@ -2783,7 +2783,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="lock_all_title">Zablokuj wszystkie aplikacje</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Zablokuj urządzenie po %d sekundach nieaktywności</string>
   <string name="power_center_scan_item_title_5g">Łączność 5G</string>
-  <string name="power_dialog_super_save_msg_5g">Ultraoszczędzanie baterii ogranicza większość energożernych funkcji systemu (np. łączność 5G) i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?</string>
+  <string name="power_dialog_super_save_msg_5g">Ultraoszczędzanie baterii ogranicza większość energochłonnych funkcji systemu (np. łączność 5G) i obniża wydajność urządzenia w celu zapewnienia działania podstawowych funkcji (SMS, połączenia, łączenie się z siecią) tak długo, jak to możliwe. Włączyć Ultraoszczędzanie baterii?</string>
   <string name="power_optimize_disable_5g">Ogranicz łączność 5G</string>
   <string name="privacyapp_number_masked_text">Treść powiadomień jest ukryta</string>
   <string name="privacyapp_number_unmasked_text">Treść powiadomień może być ukryta</string>
@@ -2978,12 +2978,12 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="gb_voice_changer_dlg_button_agree">Zezwól</string>
   <string name="gb_voice_changer_permission_dlg_title">Wymagane uprawnienia</string>
   <string name="gb_voice_changer_permission_dlg_msg">Funkcja \"Zmiana głosu\" wymaga uprawnień do nagrywania dźwięku, aby poprawnie działać.</string>
-  <string name="power_save_ps_close_setting_3">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s)</string>
-  <string name="power_save_ps_close_setting_4">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s)</string>
-  <string name="power_save_ps_close_setting_5">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_close_setting_3">Wyłączenie energochłonnych funkcji oraz usług (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Wyłączenie energochłonnych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Wyłączenie energochłonnych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
   <string name="power_save_ps_close_setting_5gnet">łączność z siecią 5G</string>
-  <string name="power_save_ps_close_setting_6">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
-  <string name="power_save_ps_close_setting_7">Wyłączenie energożernych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_6">Wyłączenie energochłonnych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Wyłączenie energochłonnych funkcji oraz usług (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
   <string name="power_save_ps_close_setting_dclickwakeup">wybudzanie/wygaszanie ekranu dwuklikiem</string>
   <string name="power_save_ps_close_setting_fingeraod">\"Pokaż ikonę odcisku palca, gdy ekran jest wyłączony\"</string>
   <string name="power_save_ps_close_setting_gps">GPS</string>
@@ -4878,7 +4878,7 @@ Wycofać zgodę?"</string>
     <string name="settings_privacy_settings_title">Prywatność</string>
     <string name="share_uid_app">Aplikacje z dzielonymi uprawnieniami</string>
     <string name="share_uid_instruction">Ta aplikacja musi dzielić uprawnienia z tymi aplikacjami, aby dostarczać powiązane usługi systemowe. Gdy zmienisz stan uprawnień dla tej aplikacji, zostanie on zmieniony także dla tych aplikacji.</string>
-    <string name="summary_condition_charge_to_target">Gdy bateria jest naładowana na określonym poziomie</string>
+    <string name="summary_condition_charge_to_target">Gdy bateria jest naładowana w minimum</string>
     <string name="summary_condition_charge_to_target_percent">Gdy bateria jest naładowana w %d%%</string>
     <string name="summary_condition_close_absorbed_mode">Po wyłączeniu Trybu skupienia</string>
     <string name="summary_condition_in_charge">W trakcie ładowania</string>
@@ -4886,7 +4886,7 @@ Wycofać zgodę?"</string>
     <string name="summary_condition_missing_call">Nieodebrane połączenie</string>
     <string name="summary_condition_no_in_charge">Gdy urządzenie nie jest ładowane</string>
     <string name="summary_condition_open_absorbed_mode">Po włączeniu Trybu skupienia</string>
-    <string name="summary_condition_reduce_to_target">Gdy poziom baterii znajduje się na określonym poziomie</string>
+    <string name="summary_condition_reduce_to_target">Gdy poziom baterii wynosi maksimum</string>
     <string name="summary_condition_reduce_to_target_percent">Gdy poziom baterii wynosi %d%%</string>
     <string name="summary_condition_scan_rubbish">Czyszczenie</string>
     <string name="summary_condition_scan_virus">Skanowanie antywirusowe</string>
