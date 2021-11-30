@@ -1586,4 +1586,5 @@ Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
   <string name="saf_permission_dialog_later">Później</string>
   <string name="saf_permission_dialog_title">Zezwól aplikacji Kontakty i Telefon na dostęp do nagrań połączeń</string>
   <string name="item_offical">Oficjalna</string>
+  <string name="comma">Przecinek</string>
 </resources>
