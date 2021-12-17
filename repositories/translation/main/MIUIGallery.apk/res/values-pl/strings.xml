@@ -555,7 +555,7 @@ Zrób więcej zdjęć znajomym!"</string>
     <string name="image_not_found">Nie udało się znaleźć zdjęcia</string>
     <string name="image_quota_fulfiled">Zbyt wiele obrazów. Usuń część obrazów i sróbuj ponownie.</string>
     <string name="impunity_declaration_settings">Powiadomienie o połączeniu internetowym</string>
-    <string name="impunity_declaration_summary">Pokaż powiadomienie o połączeniu internetowym przy każdym uruchomieniu Galerii</string>
+    <string name="impunity_declaration_summary">Pokaż powiadomienie o połączeniu internetowym przy następnym uruchomieniu Galerii</string>
     <string name="initializing_cloud">Przechodzenie do Chmury...</string>
     <string name="input_a_name">Wpisz imię</string>
     <string name="input_baby_name">Wpisz imię</string>
@@ -3078,4 +3078,23 @@ Kiedy używasz tej funkcji po raz pierwszy, transkodowanie może trochę potrwa�
   <string name="watermark_enter">Ochrona znakiem wodnym</string>
   <string name="watermark_summary">Rozpoznawaj zdjęcia dokumentów przechowywane na tym urządzeniu i wyświetlaj komunikaty dot. dodania specjalnego znaku wodnego</string>
   <string name="watermark_title">Ochrona znakiem wodnym</string>
+  <string name="download_delete_error_desc">"Nie można przywrócić tego elementu, ponieważ usunięto go z tego urządzenia oraz Chmury. Usunąć pusty plik?"</string>
+  <string name="download_delete_error_positive">Usuń</string>
+  <string name="download_delete_error_title">Brak elementu</string>
+  <string name="group_header_title_media_group">Typy multimediów</string>
+  <string name="map_privacy_dialog_content"><Data>Ta usługa umożliwia wyświetlanie zdjęć i filmów zawierających informacje o lokalizacji na mapie. Aby dostarczać tę usługę, aplikacja korzysta z narzędzi Open SDK Baidu Map. Zanim przejdziesz dalej, przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności Baidu Map dla otwartoplatformowych produktów i usług&lt;/a>.</Data></string>
+  <string name="media_type_burst_photo">Zdjęcia seryjne</string>
+  <string name="media_type_clone_photo">Klonowanie</string>
+  <string name="media_type_doc_photo">Dokumenty</string>
+  <string name="media_type_fast_motion_video">Poklatkowe</string>
+  <string name="media_type_front_photo">Selfie</string>
+  <string name="media_type_live_vv">Vlogi</string>
+  <string name="media_type_motion_photo">Dynamiczne</string>
+  <string name="media_type_pano_photo">Panoramy</string>
+  <string name="media_type_portrait_photo">Portretowe</string>
+  <string name="media_type_slow_motion_video">Zwolnione tempo</string>
+  <string name="privacy_map_detail_content_new">Stanowisko dot. udostępniania danych Map Galerii firmom trzecim</string>
+  <string name="privacy_reject_map_detail_new"><Data>"Wycofanie przez Ciebie zgody na warunki &lt;a href=\"%1$s\">Stanowiska dot. udostępniania danych Map Galerii firmom trzecim&lt;/a> zostanie potraktowany jako odmowa akceptacji usług Map Galerii. Ciągle będzie można używać innych funkcji Galerii. Wycofać zgodę?"</Data></string>
+  <string name="privacy_rejected_map_new">Wycofanie zgody na warunki Stanowiska dot. udostępniania danych Map Galerii firmom trzecim</string>
+  <string name="privacy_rejected_pos_btn">Wycofaj zgodę</string>
 </resources>
