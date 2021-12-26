@@ -749,7 +749,7 @@ aby spersonalizować Galerię"</string>
     <string name="photo_editor_miui_beauty_no_face">Nie udało się wykryć twarzy</string>
     <string name="photo_editor_mosaic">Mozaika</string>
     <string name="photo_editor_navigator_cancel">Anuluj</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">Pobranie %s wymaga około %2$d MB danych mobilnych. Pobrać teraz?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Pobranie %s wymaga około %2$d MB danych mobilnych. Pobrać teraz?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Ostrzeżenie o limicie danych</string>
     <string name="photo_editor_navigator_export">Zapisz</string>
     <string name="photo_editor_navigator_module_download_failed">Nie udało się pobrać %s</string>
