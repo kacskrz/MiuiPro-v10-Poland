@@ -33,7 +33,7 @@
   <string name="ok">OK</string>
   <string name="pair_no">Nie</string>
   <string name="pair_yes">Tak</string>
-  <string name="pairing_peripheral">Paruję: %1$s<…/string>
+  <string name="pairing_peripheral">Paruję: %1$s…</string>
   <string name="pairing_peripheral_failed">Nie udało się sparować %1$s</string>
   <string name="pay_with">"Forma płatności: "</string>
   <string name="permdesc_nfcReceiveEvent">Zezwala aplikacji na otrzymywanie informacji o przeprowadzonej transakcji NFC</string>
