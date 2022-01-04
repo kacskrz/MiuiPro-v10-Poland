@@ -68,7 +68,7 @@
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">dostęp do NFC</string>
     <string name="HIPS_Perm_install_shortcut">Skróty ekranu głównego</string>
-    <string name="HIPS_Perm_install_shortcut_Desc">dodawanie skrótów do ekranu głównego</string>
+    <string name="HIPS_Perm_install_shortcut_Desc">Dodaje skróty na pulpit</string>
     <string name="HIPS_Perm_read_notification_sms">SMS serwisowy</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">odczytywanie SMS operatora</string>
     <string name="HIPS_Perm_get_tasks">Pobierz zadania</string>

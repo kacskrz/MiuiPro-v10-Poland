@@ -1434,4 +1434,12 @@
         <item>Zablokowano</item>
         <item>Tymczasowe unikanie połączenia o niskiej jakości</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Poziom 0</item>
+        <item>Poziom 1</item>
+        <item>Poziom 2</item>
+        <item>Poziom 3</item>
+        <item>Poziom 4</item>
+        <item>Poziom 5</item>
+    </string-array>
 </resources>
