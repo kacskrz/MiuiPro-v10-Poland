@@ -6583,8 +6583,8 @@ lub posiadających złącze mini-jack (3,5 mm)."</string>
   <string name="navigation_guide_gesture_line_dialog_title">Naucz się nowego gestu</string>
   <string name="navigation_guide_hide_gesture_line_summary">"Nie pokazuj paska na dole ekranu podczas używania gestów"</string>
   <string name="navigation_guide_hide_gesture_line_title">Ukryj pasek na dole ekranu</string>
-  <string name="power_monitor_summary">Narzędzia do kontroli energii.</string>
-  <string name="power_monitor_title">Monitorowanie energii</string>
+  <string name="power_monitor_summary">Narzędzia do kontroli zużycia energii</string>
+  <string name="power_monitor_title">Zużycie energii</string>
   <string name="acount_data">Konta</string>
   <string name="application_data">Aplikacje</string>
   <string name="backup_data">Kopie zapasowe</string>
@@ -8898,4 +8898,12 @@ Czy chcesz wycofać swoją zgodę na warunki %s?"</string>
     <string name="inputdebuglog_select_level">Poziom logów wejściowych</string>
     <string name="inputdebuglog_select_level_show">Poziom %d</string>
     <string name="inputdebuglog_select_level_summary">Wybierz poziom</string>
+    <string name="deferred_setup_hintViewTitle">Sprawdzanie…</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Przeciągnij róg, aby zminimalizować aplikację</string>
+    <string name="headset_ambient_sound">Dźwięki otoczenia</string>
+    <string name="multi_window_cvw_summary_global">Przeciągnij róg, aby włączyć pływające okno i dostosować jego rozmiar</string>
+    <string name="string_KB_per_log_buffer">%d KB/bufor dziennika</string>
+    <string name="string_MB_per_log_buffer">%d MB/bufor dziennika</string>
+    <string name="string_off">Wył.</string>
+    <string name="string_offed">Wył.</string>
 </resources>
