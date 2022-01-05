@@ -951,7 +951,7 @@ Aby się zalogować, dotknij tutaj."</string>
   <string name="v7_preference_off">WYŁ.</string>
   <string name="v7_preference_on">WŁ.</string>
   <string name="system_cta_agree_desc">Zezwól tej aplikacji na połączenie się z Internetem i nadaj uprawnienia wymienione powyżej.</string>
-  <string name="system_cta_all_purpose">Witaj w aplikacji Motywy! Dzięki tej aplikacji możesz zarządzać swoimi motywami, tapetami, dzwonkami i czcionkami</string>
+  <string name="system_cta_all_purpose">"Witaj w aplikacji Motywy! Dzięki tej aplikacji możesz zarządzać swoimi motywami, tapetami, dzwonkami i czcionkami. "</string>
   <string name="community_cta_dialog_cancel">Nie, dzięki</string>
   <string name="community_cta_dialog_des">Motywy osób trzecich wspierają teraz widżet Mi Community. Zezwól aplikacji Motywy na uzyskiwanie ID Twojego konta Xiaomi oraz statusów powiązanych z tym kontem, aby móc je zobaczyć tutaj.</string>
   <string name="community_cta_dialog_ok">Zezwól</string>

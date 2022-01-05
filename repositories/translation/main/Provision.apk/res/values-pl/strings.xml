@@ -76,8 +76,8 @@
   <string name="system_navigation_mode">Nawigacja</string>
   <string name="terms_of_use">Warunki użytkowania</string>
   <string name="terms_of_use_label">Twoja prywatność jest dla nas bardzo ważna. Zapoznaj się z naszymi Warunkami użytkowania i Polityką prywatności, aby dowiedzieć się, jakie informacje przechowujemy, jak je wykorzystujemy i jakie masz możliwości.\n\nMusisz się zgodzić na nasze Warunki użytkowania i Politykę prywatności, zanim będziesz mógł skorzystać z MIUI. %s oraz komponenty konta Xiaomi podłączą się do internetu i uzyskają dostęp do lokalizacji.</string>
-  <string name="terms_of_use_lable_gms">Usługi Google Play</string>
-  <string name="terms_of_use_lable_smart_cards">Proste karty</string>
+  <string name="terms_of_use_lable_gms">, Usługi Google Play</string>
+  <string name="terms_of_use_lable_smart_cards">, Karty Asystenta</string>
   <string name="terms_of_use_lable_apps">Usługi Xiaomi, usługi aktywacji karty MI SIM, chmura Xiaomi, funkcja Znajdź urządzenie, ekran główny, Gry, komponenty systemu MAB, MSA, MIUI Daemon, aplikacje internetowe, Asystent MIUI, statystyki, inteligentna karta Mi, Mi Link</string>
   <string name="title_fingerprint">Ustaw blokadę</string>
   <string name="user_agreement">Warunki użytkowania</string>
@@ -116,11 +116,12 @@ Musisz zgodzić się na warunki polityki prywatności Kika przed użyciem tej fu
   <string name="skip_gesture_guide_dialog_message">Upewnij się, że wiesz, jak używać gestów przed wybraniem tej opcji.</string>
   <string name="skip_gesture_guide_dialog_negative_btn">Anuluj</string>
   <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
-  <string name="terms_of_use_label_updater">Aktualizacje</string>
+  <string name="terms_of_use_label_mab">, MAB</string>
+  <string name="terms_of_use_label_updater">, Aktualizacje</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Polityka prywatności</string>
   <string name="terms_of_use_ble_htmlViewer">Przeglądarka HTML</string>
   <string name="terms_of_use_label_package">Instalator paczek</string>
-  <string name="terms_of_use_label_phrase">Częste zwroty</string>
+  <string name="terms_of_use_label_phrase">, Częste zwroty</string>
     <string name="agree_and_next">Zgadzam się</string>
     <string name="album_introduction">Dzięki tej aplikacji możesz zarządzać, edytować i upiększać zdjęcia oraz filmy.</string>
     <string name="application_package_introduction">Instalator pakietów jest wykorzystywany w celu instalacji aplikacji firm trzecich, włącznie z skanowaniem przeprowadzanym przed instalacją.</string>
