@@ -326,7 +326,7 @@
   <string name="fingerprints">Odciski cyfrowe:</string>
   <string name="floating_toolbar_close_overflow_description">Zamknij rozszerzony pasek</string>
   <string name="floating_toolbar_open_overflow_description">Więcej opcji</string>
-  <string name="force_close">OK</string>
+  <string name="force_close">Zamknij</string>
   <string name="forward_intent_to_owner">Używasz tej aplikacji poza profilem do pracy</string>
   <string name="forward_intent_to_work">Używasz tej aplikacji w swoim profilu do pracy</string>
   <string name="gadget_host_error_inflating">Nie można dodać widżetu.</string>
