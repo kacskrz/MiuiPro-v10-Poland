@@ -7142,7 +7142,7 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="miheadset_connectHeadsetForFw">Podłącz słuchawki, aby zobaczyć wersję oprogramowania</string>
   <string name="miheadset_connect_play_music">Rozpocznij odtwarzanie automatycznie po podłączeniu słuchawek</string>
   <string name="miheadset_disconnect">Rozłącz</string>
-  <string name="miheadset_disconnect_device">Rozłączyć te urządzenie?</string>
+  <string name="miheadset_disconnect_device">Rozłączyć to urządzenie?</string>
   <string name="miheadset_double_click_left">Dotknij dwukrotnie lewej słuchawki</string>
   <string name="miheadset_double_click_right">Dotknij dwukrotnie prawej słuchawki</string>
   <string name="miheadset_game_mode">Tryb gry</string>

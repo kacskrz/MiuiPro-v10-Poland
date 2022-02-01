@@ -1302,7 +1302,7 @@ Be Happy"</string>
   <string name="dialog_remove_multi_video_from_favorites">Usunąć wybrane wideo z ulubionych?</string>
   <string name="dialog_remove_song_from_favorites">Usunąć ten utwór z ulubionych?</string>
   <string name="dialog_remove_songgroup_from_favorites">Usunąć tę playlistę z ulubionych?</string>
-  <string name="dialog_remove_video_from_favorites">Usunąć te wideo z ulubionych?</string>
+  <string name="dialog_remove_video_from_favorites">Usunąć to wideo z ulubionych?</string>
   <string name="music_quality_standard">Standardowa</string>
   <string name="music_quality_ultra_high">Wysoka</string>
   <string name="select_uhd_quality">Włączono wysoką jakość VIP</string>

@@ -758,7 +758,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="account_import_calendar">Importuj kalendarz</string>
   <string name="account_manager_delete">Usuń konto</string>
   <string name="account_manager_delete_calendar_tips">Czy chcesz usunąć kalendarz powiązany z tym kontem?</string>
-  <string name="account_manager_delete_dialog">Usunąć te konto?</string>
+  <string name="account_manager_delete_dialog">Usunąć to konto?</string>
   <string name="account_manager_delete_events">Usuń wydarzenia</string>
   <string name="account_manager_install_email">Zainstaluj aplikację Poczta</string>
   <string name="account_manager_install_email_tips">Odinstalowano systemową aplikację Poczta. Zainstaluj ją, aby móc przywrócić swoje konta i dodać nowe.</string>
