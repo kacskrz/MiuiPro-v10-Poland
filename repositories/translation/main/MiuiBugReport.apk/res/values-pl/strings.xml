@@ -188,7 +188,7 @@
     <string name="toast_fill_brackets">W Twoim zgłoszeniu brakuje pewnych informacji</string>
     <string name="tab_title_chat">Pytania i Odpowiedzi</string>
     <string name="tab_title_report">Opinia</string>
-    <string name="tab_title_my_reports">Moje raporty</string>
+    <string name="tab_title_my_reports">Moje opinie</string>
     <string name="nothing">--</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Klucz JIRA: %s</string>
