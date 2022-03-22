@@ -676,4 +676,7 @@
         <item quantity="other">%d sek.</item>
         <item quantity="one">%d sek.</item>
     </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Wyszukaj aplikacje</item>
+    </plurals>
 </resources>
