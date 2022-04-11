@@ -607,8 +607,8 @@
   <string name="block_list_dialog_content">Operacja spowoduje rozłączenie “%s” od tego urządzenia i dodanie do listy blokowanych</string>
   <string name="block_list_dialog_title">Rozłączyć teraz?</string>
   <string name="block_list_no_device">Brak podłączonych urządzeń na liście blokowanych</string>
-  <string name="block_list_remove_dialog_content">To urządzenia “%s” będzie mogło podłączyć się do tego punktu dostępowego</string>
-  <string name="block_list_remove_dialog_title">Usuń “%s” z listy blokowanych</string>
+  <string name="block_list_remove_dialog_content">To urządzenie “%s” będzie mogło podłączyć się do tego punktu dostępowego</string>
+  <string name="block_list_remove_dialog_title">Uwaga</string>
   <string name="block_list_summary">Wyświetl urządzenia, które mają zablokowaną możliwość podłączenia się</string>
   <string name="block_list_title">Lista blokowanych</string>
   <string name="bluetooth">Bluetooth</string>
