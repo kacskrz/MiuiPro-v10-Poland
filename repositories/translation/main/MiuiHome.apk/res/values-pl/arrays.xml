@@ -51,4 +51,9 @@
     <item>Nieruchoma (lewa strona)</item>
     <item>Nieruchoma (prawa strona)</item>
   </string-array>
+    <string-array name="animation_rate_entries">
+        <item>Długa</item>
+        <item>Zbalansowana</item>
+        <item>Minimalna</item>
+    </string-array>
 </resources>
