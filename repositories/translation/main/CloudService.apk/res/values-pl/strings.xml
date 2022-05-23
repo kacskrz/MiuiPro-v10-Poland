@@ -97,7 +97,7 @@
   <string name="find_device_error_password_changed">Hasło zostało ostatnio zmienione.</string>
   <string name="find_device_error_server">Błąd serwera</string>
   <string name="find_device_error_unknown">Nieznany błąd</string>
-  <string name="find_device_gdpr_prompt">Włączając funkcję Znajdź urządzenie, wyrażasz zgodę na <a href="app://com.miui.cloudservice.gdpr.license"><u>Politykę prywatności</u></a>. Jeśli chcesz wycofać tę zgodę, wyłącz tę funkcję.</string>
+  <string name="find_device_gdpr_prompt">Włączając funkcję Znajdź urządzenie, wyrażasz zgodę na <u><a href="app://com.miui.cloudservice.gdpr.license">Politykę prywatności</a></u>. Jeśli chcesz wycofać tę zgodę, wyłącz tę funkcję.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">\"Polityka prywatności\"</string>
   <string name="find_device_notice_p1">Odwiedź</string>
   <string name="find_device_notice_p2">i.mi.com</string>
