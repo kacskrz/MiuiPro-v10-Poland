@@ -25,12 +25,9 @@
         <item quantity="many">%d elementów</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d zaznaczone</item>
-        <item quantity="zero">%1$d zaznaczone</item>
-        <item quantity="one">%1$d zaznaczone</item>
-        <item quantity="two">%1$d zaznaczone</item>
-        <item quantity="few">%1$d zaznaczone</item>
-        <item quantity="many">%1$d zaznaczone</item>
+        <item quantity="other">Wybrano %1$d elementów</item>
+        <item quantity="one">Wybrano %1$d element</item>
+        <item quantity="few">Wybrano %1$d elementów</item>
     </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d elementów)</item>
@@ -223,5 +220,15 @@
         <item quantity="other">Wyniki wyszukiwania (%1$d elementów)</item>
         <item quantity="one">Wyniki wyszukiwania (%1$d element)</item>
         <item quantity="few">Wyniki wyszukiwania (%1$d elementy)</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Usunąć %1$d plików?</item>
+        <item quantity="few">Usunąć %1$d pliki?</item>
+        <item quantity="one">Usunąć %1$d plik?</item>
+    </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Usunąć %1$d folderów?</item>
+        <item quantity="few">Usunąć %1$d foldery?</item>
+        <item quantity="one">Usunąć %1$d folder?</item>
     </plurals>
 </resources>
