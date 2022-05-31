@@ -9136,8 +9136,8 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="dialog_softbank_esim_wipe_title">Wyczyść dane karty SIM</string>
     <string name="dialog_softbank_esime_context">Aby móc aktywować kartę eSIM, urządzenie musi się połączyć z Internetem. Pominąć ten proces?</string>
     <string name="dialog_softbank_esime_title">Pomiń aktywację karty eSIM</string>
-    <string name="device_ime_keyboard_fold">Opcje klawiatury dla składanych urządzeń</string>
-    <string name="device_ime_keyboard_pad">Opcje klawiatury dla tabletów</string>
+    <string name="device_ime_keyboard_fold">Klawiatury dla składanych urządzeń</string>
+    <string name="device_ime_keyboard_pad">Klawiatury dla tabletów</string>
     <string name="double_g_v">Duplikuj klawisze G i V</string>
     <string name="double_g_v_sumary">Duplikuj centralne przyciski na ergonomicznej klawiaturze dla lepszej wygody</string>
     <string name="fold_screen_settings_title">Funkcje dla składanych urządzeń</string>
@@ -9206,4 +9206,5 @@ Wyślij ten kod pracownikowi wsparcia technicznego."</string>
     <string name="sending">Wysyłanie…</string>
     <string name="system_error_info">System jest zajęty. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="unknown_error_info">Nieznany błąd</string>
+    <string name="control_center_force_use_panel_guide_text">Pociągnij pasek statusu z lewej strony, aby wyświetlić powiadomienia bądź z prawej strony, aby otworzyć Centrum funkcji. Możesz się pomiędzy nimi przełączać, przeciągając w lewo bądź w prawo.</string>
 </resources>
