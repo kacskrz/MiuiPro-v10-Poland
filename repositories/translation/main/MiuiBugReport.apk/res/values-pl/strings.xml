@@ -317,7 +317,7 @@
     <string name="toast_post_deleted">Temat nie istnieje, został skasowany lub edytowany.</string>
     <string name="toast_log_not_exists">Wymagany log został usunięty lub nie istnieje</string>
     <string name="toast_pic_not_exists">Obraz pamięci podręcznej został usunięty</string>
-    <string name="toast_screenshot_too_large">Nie można wysłać zdjęć lub wideo większych niż 100MB.</string>
+    <string name="toast_screenshot_too_large">Nie można wysłać zdjęć lub wideo większych niż %d MB.</string>
     <string name="toast_log_too_large">Nie można wysłać logu, gdyż jest za duży.</string>
     <string name="title_bbs_feedback_main">Dowiedz się więcej o telefonach Xiaomi</string>
     <string name="title_customer_service">Obsługa użytkownika</string>
