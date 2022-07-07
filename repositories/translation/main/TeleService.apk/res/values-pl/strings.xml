@@ -1262,7 +1262,7 @@ Zostanie wybrana sieć preferowana."</string>
     <string name="msim_pref_title_data">Internet</string>
     <string name="msim_not_set_summary">Nieustawione</string>
     <string name="msim_select_default_time_left">(%d s)</string>
-    <string name="msim_switch_data_conn_toast">Karty SIM zostały zmienione. Typ sieci się zmienił. Przejdź do ustawień sieci komórkowych, aby zobaczyć dodatkowe informacje.</string>
+    <string name="msim_switch_data_conn_toast">Karty SIM zostały zmienione.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Slot SIM 2 obsługuje tylko tryb GSM. Preferowany tryb sieci dla slotu 2 został zmieniony na 2G GSM.</string>
     <string name="msim_disable_sim_card_title">Wyłącz kartę SIM</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Wykonywanie połączeń lub przesyłanie danych może nie być możliwe. Wyłączyć kartę SIM %s?</string>

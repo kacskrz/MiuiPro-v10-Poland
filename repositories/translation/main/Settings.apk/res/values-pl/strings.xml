@@ -2360,12 +2360,13 @@
   <string name="lockpassword_choose_for_second_user">Ustaw hasło do Drugiej przestrzeni</string>
   <string name="lockpassword_choose_lock_generic_header">Wybierz ekran blokady</string>
   <string name="lockpassword_choose_your_password_header">Ustaw hasło</string>
-  <string name="lockpassword_choose_your_password_second_space">Ustaw hasło \n do Drugiej przestrzeni</string>
+  <string name="lockpassword_choose_your_password_second_space">"Ustaw hasło
+dla Drugiej przestrzeni"</string>
   <string name="lockpassword_choose_your_pattern_header">Ustaw wzór</string>
   <string name="lockpassword_choose_your_pin_header">Ustaw swój kod PIN</string>
-  <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN do Drugiej przestrzeni.
-Musi on zawierać tyle samo cyfr,
-co PIN z Pierwszej przestrzeni."</string>
+  <string name="lockpassword_choose_your_pin_header_second_space">"Ustaw PIN
+dla Drugiej przestrzeni.
+Powinien on mieć tyle samo znaków co PIN w Głównej przestrzeni."</string>
   <string name="lockpassword_choose_your_pin_title">Wprowadź od %1$d do %2$d znaków</string>
   <string name="lockpassword_confirm_for_second_user">Potwierdź swoje hasło do Drugiej przestrzeni</string>
   <string name="lockpassword_confirm_passwords_dont_match">Hasła nie pasują</string>
@@ -2424,7 +2425,8 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="lockpattern_recording_inprogress">Podnieś palec, gdy skończysz</string>
   <string name="lockpattern_recording_intro_footer">Naciśnij Menu, aby uzyskać pomoc.</string>
   <string name="lockpattern_recording_intro_header">Narysuj wzór odblokowania:</string>
-  <string name="lockpattern_recording_intro_header_second_space">Narysuj wzór odblokowania dla Drugiej przestrzeni:</string>
+  <string name="lockpattern_recording_intro_header_second_space">"Narysuj wzór odblokowania drugiego profilu.
+Połącz co najmniej 4 kropki."</string>
   <string name="lockpattern_restart_button_text">Narysuj ponownie</string>
   <string name="lockpattern_retry_button_text">Wyczyść</string>
   <string name="lockpattern_settings_change_lock_pattern">Zmień wzór odblokowywania</string>
@@ -4202,7 +4204,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="slot_status_title">Informacje IMEI</string>
   <string name="smallwindow_smartcover_title">Małe okienko pokrywy przedniej</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Tryb Smartcover</string>
-  <string name="smartcover_sensitive_summary">Blokuj lub odblokowuj telefon automatycznie za pomocą smart cover</string>
+  <string name="smartcover_sensitive_summary">Blokuj lub odblokuj urządzenie z aktywnym pokrowcem</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">Aplikacja do SMS-ów</string>
   <string name="sms_change_default_dialog_text">Chcesz używać aplikacji %1$s zamiast %2$s do wysłania i otrzymywania SMS-ów?</string>
@@ -4677,7 +4679,7 @@ co PIN z Pierwszej przestrzeni."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Nie teraz</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Rozumiem</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Rozumiem (%ds)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">Zapamiętaj swoje hasło blokady ekranu. Jeśli go zapomnisz, możesz łatwo, bez konieczności czyszczenia danych, usunąć odpowiedni plik w TWRP, o ile recovery nie jest szyfrowane.</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"Zapamiętaj swoją blokadę ekranu. Będzie ona potrzebna, aby kontynuować instalację aktualizacji systemu."</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Zapamiętaj swoje hasło</string>
   <string name="turn_on_security_lock">Wybierz ekran blokady</string>
   <string name="turn_on_torch">Włącz latarkę</string>
@@ -6714,7 +6716,8 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="face_data_input_ok_title">Pomyślnie dodano</string>
   <string name="face_data_input_structure_title">Dane twarzy 3D</string>
   <string name="face_data_input_title">Dodaj dane twarzy</string>
-  <string name="face_data_introduction_msg">Dane twarzy zostaną wykorzystane do odblokowania telefonu lub zweryfikowania tożsamości. Dodaj hasło ekranu blokady przed dodaniem danych twojej twarzy.</string>
+  <string name="face_data_introduction_msg">"Dane twarzy zostaną wykorzystane do odblokowania telefonu lub zweryfikowania tożsamości.
+Dodaj blokadę ekranu przed dodaniem danych twojej twarzy."</string>
   <string name="face_data_introduction_next">Dalej</string>
   <string name="face_data_introduction_title">Rozpoznawanie twarzy</string>
   <string name="face_data_manage_delete">Usunąć zapisane dane twarzy?</string>
@@ -9112,7 +9115,7 @@ Przed używaniem usług Xiaomi przeczytaj i zaakceptuj warunki %s."</string>
     <string name="keep_screen_on_after_folding_title">Nie wyłączaj ekranu po złożeniu</string>
     <string name="handy_mode_hint">Tryb Jedna Dłoń jest dostępny wyłącznie na zewnętrznym ekranie</string>
     <string name="device_mall_card_title">Sprawdź możliwe korzyści</string>
-    <string name="face_data_suggesstion_first_cn_highlight">Odblokowanie twarzą jest mniej bezpieczne niż PIN, hasło czy wzór. Urządzenie może zostać odblokowane Twoim zdjęciem, a także przez podobne do Ciebie osoby bądź obiekty.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Odblokowanie twarzą jest mniej bezpieczne niż PIN, hasło, wzór czy odcisk palca. Urządzenie może zostać odblokowane Twoim zdjęciem, a także przez podobne do Ciebie osoby bądź obiekty.</string>
     <string name="new_fingerprint_to_new_face_dialog_msg">Aby móc korzystać z Odblokowywania twarzą, dodaj dane twarzy. Zrobić to teraz?</string>
     <string name="new_fingerprint_to_new_face_dialog_tittle">Dodaj dane twarzy</string>
     <string name="miheadset_LEAudio_summary">"Gdy LE Audio jest włączone, niektóre funkcje nie będą dostępne."</string>
@@ -9232,4 +9235,9 @@ Funkcja działa tylko w przypadku ustawienia gestów jako sposobu nawigacji po s
     <string name="top_to_bottom_slide">Przesuń w dół</string>
     <string name="wlan_switch_tips">Przełączanie między sieciami Wi-Fi</string>
     <string name="wlan_switch_tips_message">W trakcie przełączania się między dodatkową i główną siecią Wi-Fi urządzenie tymczasowo rozłączy się z dodatkową siecią. Przełączyć?</string>
+    <string name="finger_detail_info_text">Zmień nazwę odcisku palca</string>
+    <string name="pad_add_fingerprint_finish_message">Kontynuuj, aby uzyskać dostęp do dodatkowych ustawień.</string>
+    <string name="pad_add_fingerprint_message">Umieść palec na przycisku Zasilania</string>
+    <string name="miheadset_double_toast">Włóż obie słuchawki, aby móc użyć tej funkcji</string>
+    <string name="ethernet_tether_checkbox_text">Udostępnianie przez Ethernet</string>
 </resources>
