@@ -560,7 +560,7 @@
   <string name="wednesday_short">Śr</string>
   <string name="wednesday_shortest">Śr</string>
   <string name="message_no_voice_capability">"Nie można wykonywać połączeń na tym urządzeniu"</string>
-  <string name="notification_channel_missed_call_DND">Godziny ciszy</string>
+  <string name="notification_channel_missed_call_DND">Nie przeszkadzać</string>
   <string name="wifi_connected_low_quality">Niska jakość</string>
   <string name="anti_fraud_notification_msg">Odrzuć to połączenie, aby uniknąć oszustwa</string>
   <string name="anti_fraud_notification_title">Ostrzeżenie przed oszustwem</string>

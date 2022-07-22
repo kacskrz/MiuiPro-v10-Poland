@@ -594,7 +594,7 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
   <string name="setting_about_oaid">ID urządzenia: %1$s</string>
   <string name="notification_channel_name_no_sound">Przypomnienia bez dźwięku</string>
   <string name="notification_channel_name_no_vibration">Przypomnienia bez wibracji</string>
-  <string name="notification_channel_name_silent">Przypomnienia w trybie Godziny ciszy</string>
+  <string name="notification_channel_name_silent">Przypomnienia w trybie Nie przeszkadzać</string>
   <string name="productivity_add_event">Dodaj wydarzenie</string>
   <string name="productivity_cannot_move_event">"Nie można przenieść tego wydarzenia"</string>
   <string name="productivity_move_event_failed">"Nie można przenieść tego wydarzenia na dd MMMM yyyy r."</string>

@@ -7099,9 +7099,9 @@ Przeczytaj i zaakceptuj warunki dokumentu %s przed użyciem usługi."</string>
   <string name="silent_mode_toggle_title">Tryb cichy</string>
   <string name="volume_adjustment">Dostosuj głośność</string>
   <string name="zen_mode_always">Zawsze</string>
-  <string name="zen_mode_auto_rule">Zaplanuj reguły Godzin ciszy</string>
+  <string name="zen_mode_auto_rule">Zaplanuj reguły Nie przeszkadzać</string>
   <string name="zen_mode_lockscreen">Gdy zablokowany</string>
-  <string name="zen_mode_more_actions">Więcej opcji Godzin ciszy</string>
+  <string name="zen_mode_more_actions">Więcej opcji trybu Nie przeszkadzać</string>
   <string name="zen_mode_summary2">Wycisz połączenia i powiadomienia, wyłącz wibracje</string>
   <string name="gxzw_lowlight_open_summary">Zmniejsz jasność ikony czytnika linii papilarnych. Urządzenie może odblokowywać się wolniej ze względu na mniejszą ilość światła.</string>
   <string name="gxzw_lowlight_open_title">Odblokowanie odciskiem palca z niższą jasnością</string>
@@ -7359,7 +7359,7 @@ patrząc na zewnętrzny ekran"</string>
   <string name="color_game_led_remind_title">Efekty</string>
   <string name="color_game_led_special_scene_title">Efekty specjalne</string>
   <string name="color_game_led_start_time">Rozpoczęcie</string>
-  <string name="color_game_led_summary">"Nie działa w trybie Godziny ciszy"</string>
+  <string name="color_game_led_summary">"Nie działa w trybie Nie przeszkadzać"</string>
   <string name="color_game_led_time_title">Zaplanuj włączanie diody</string>
   <string name="color_game_led_title">Dioda LED</string>
   <string name="screen_enhance_engine_memc_note_2">%d. Funkcja działa wyłącznie wtedy, gdy włączony jest pasek z narzędziami wideo.</string>

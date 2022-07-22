@@ -783,7 +783,7 @@
   <string name="gamebooster_network_dialog_message">Zezwolić Panelowi sterowania na połączenie z siecią w celu użycia wszystkich funkcji do przyśpieszenia gier?</string>
   <string name="gamebooster_network_dialog_title">Niektóre funkcje nie są dostępne</string>
   <string name="gamebox_browser_not_find">Zainstaluj najpierw Przeglądarkę.</string>
-  <string name="gamebox_dnd">Godziny ciszy</string>
+  <string name="gamebox_dnd">Nie przeszkadzać</string>
   <string name="gamebox_func_antimsg_close">Pływające okna są teraz dozwolone</string>
   <string name="gamebox_func_antimsg_open">Pływające okna są teraz ograniczone</string>
   <string name="gamebox_func_immersion_close">Tryb Poza siecią jest teraz wyłączony</string>
@@ -3654,7 +3654,7 @@ Twoje urządzenie jest teraz szybsze o %d%%.</string>
   <string name="permission_instruction_camera">Te uprawnienie zezwala aplikacjom na skorzystanie z aparatu w celu wykonania zdjęć bądź nagrania filmu.</string>
   <string name="permission_instruction_change_wifi_state">Te uprawnienie zezwala aplikacjom na włączenie lub wyłączenie Wi-Fi bez Twojego potwierdzenia.</string>
   <string name="permission_instruction_device_admin">Te uprawnienie zezwala aplikacjom na kontrolowanie Twojego urządzenia, przez co rozumie się takie operacje, jak np. czyszczenie danych, odblokowywanie urządzenia czy zmiana haseł. Jest to uprawnienie wysokiego ryzyka - nadawaj je ze szczególną rozwagą.</string>
-  <string name="permission_instruction_dont_disturb">Te uprawnienie zezwala aplikacjom na włączenie lub wyłączenie trybu Godziny ciszy.</string>
+  <string name="permission_instruction_dont_disturb">Te uprawnienie zezwala aplikacjom na włączenie lub wyłączenie trybu Nie przeszkadzać.</string>
   <string name="permission_instruction_draw_overlay">Te uprawnienie zezwala aplikacjom na wyświetlanie pływających okienek nad jakimkolwiek innym interfejsem na urządzeniu, co może wpłynąć na normalne użytkowanie innych aplikacji. Szkodliwe aplikacje mogą korzystać z tego uprawnienia w celu odczytu lub gromadzenia prywatnych danych (np. haseł) przez przezroczyste pływające okna.</string>
   <string name="permission_instruction_external_storage">Te uprawnienie zezwala aplikacjom na dostęp do zdjęć, multimediów i plików na Twoim urządzeniu. Aby uniknąć wycieku Twoich osobistych danych, nadawaj to uprawnienie ze szczególną rozwagą.</string>
   <string name="permission_instruction_get_accounts">Te uprawnienie zezwala aplikacjom na dostęp do listy kont znajdujących się na urządeniu. Może ona zawierać wszystkie konta utworzone przez zainstalowane na urządzeniu aplikacje, jak również konta z serwisów społecznościowych oraz komunikatorów.</string>
@@ -4024,8 +4024,8 @@ i odkryj funkcję Zmiany głosu Xiaomi!"</string>
     <string name="special_perm_app_title">Powiąż aplikacje służbowe z osobistymi</string>
     <string name="special_perm_control_notice_msg">Zezwól aplikacjom na odczyt i kontrolowanie powiadomień</string>
     <string name="special_perm_control_notice_title">Odczyt i kontrola powiadomień</string>
-    <string name="special_perm_disturb_msg">Zezwól aplikacjom na włączanie trybu Godziny ciszy</string>
-    <string name="special_perm_disturb_title">Włącz tryb Godziny ciszy</string>
+    <string name="special_perm_disturb_msg">Zezwól aplikacjom na włączanie trybu Nie przeszkadzać</string>
+    <string name="special_perm_disturb_title">Włącz tryb Nie przeszkadzać</string>
     <string name="special_perm_file_msg">Zezwól aplikacjom na dostęp do wszystkich plików na urządzeniu</string>
     <string name="special_perm_file_title">Dostęp do wszystkich plików</string>
     <string name="special_perm_follow_msg">Zezwól aplikacjom na śledzenie użytkowania urządzenia</string>
@@ -4766,10 +4766,10 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="auto_task_default_do_action">Wykonaj</string>
     <string name="auto_task_default_if_exclude">Jeżeli</string>
     <string name="auto_task_default_task_summary_driver_car">Włącz hotspot, gdy połączono przez Bluetooth z systemem auta</string>
-    <string name="auto_task_default_task_summary_get_up">Wyłącz Godziny ciszy i włącz z powrotem Bluetooth, Wi-Fi oraz dane mobilne</string>
+    <string name="auto_task_default_task_summary_get_up">Wyłącz Nie przeszkadzać i włącz z powrotem Bluetooth, Wi-Fi oraz dane mobilne</string>
     <string name="auto_task_default_task_summary_listen_music">Odtwórz muzykę i wybierz typ słuchawek</string>
-    <string name="auto_task_default_task_summary_meet">Zaplanuj spotkanie i włącz tryb Godziny ciszy</string>
-    <string name="auto_task_default_task_summary_noon_break">Zaplanuj drzemkę i włącz tryb Godziny ciszy</string>
+    <string name="auto_task_default_task_summary_meet">Zaplanuj spotkanie i włącz tryb Nie przeszkadzać</string>
+    <string name="auto_task_default_task_summary_noon_break">Zaplanuj drzemkę i włącz tryb Nie przeszkadzać</string>
     <string name="auto_task_default_task_summary_save_power">Włącz Oszczędzanie baterii, gdy jej poziom wynosi mniej niż 30%</string>
     <string name="auto_task_default_task_summary_sleep">Zaplanuj czas na sen i dostosuj zachowanie urządzenia</string>
     <string name="auto_task_default_task_summary_watch_video">Otwórz aplikację, włącz Wi-Fi, dostosuj głośność</string>
@@ -4807,7 +4807,7 @@ Twoje urządzenie jest teraz o %s szybsze."</string>
     <string name="auto_task_rule_bluetooth">Gdy używasz Bluetooth z urządzeniem %1$s, możesz automatycznie otworzyć aplikację %2$s. Utworzyć teraz to zadanie?</string>
     <string name="auto_task_rule_map_location">Gdy używasz map, możesz automatycznie włączyć usługi lokalizacji. Utworzyć teraz to zadanie?</string>
     <string name="auto_task_rule_read_mode">Gdy używasz aplikacji do czytania e-booków, możesz automatycznie włączyć Tryb czytania. Utworzyć teraz to zadanie?</string>
-    <string name="auto_task_rule_zen_mode">Możesz automatycznie włączyć tryb Godziny ciszy w trakcie drzemek między 12:00 a 14:00. Utworzyć teraz to zadanie?</string>
+    <string name="auto_task_rule_zen_mode">Możesz automatycznie włączyć tryb Nie przeszkadzać w trakcie drzemek między 12:00 a 14:00. Utworzyć teraz to zadanie?</string>
     <string name="auto_task_select_address_company">Praca</string>
     <string name="auto_task_select_address_home">Dom</string>
     <string name="auto_task_select_address_leave">Opuszczenie</string>
@@ -4921,14 +4921,14 @@ Wycofać zgodę?"</string>
     <string name="task_summary_close_screen_display">Wyłącz Ekran zawsze włączony</string>
     <string name="task_summary_close_system_touch">Wyłącz reakcje haptyczne</string>
     <string name="task_summary_close_wlan">Wyłącz Wi-Fi</string>
-    <string name="task_summary_close_zen_mode">Wyłącz Godziny ciszy</string>
+    <string name="task_summary_close_zen_mode">Wyłącz Nie przeszkadzać</string>
     <string name="task_summary_open_airplane">Włącz Tryb samolotowy</string>
     <string name="task_summary_open_auto_brightness">Włącz autom. jasność</string>
     <string name="task_summary_open_bluetooth">Włącz Bluetooth</string>
     <string name="task_summary_open_dark_mode">Włącz Ciemny motyw</string>
     <string name="task_summary_open_dc_light">Włącz Ograniczenie migotania</string>
     <string name="task_summary_open_dial_tone">Włącz dźwięki klawiatury numerycznej</string>
-    <string name="task_summary_open_disturb_mode">Włącz Godziny ciszy</string>
+    <string name="task_summary_open_disturb_mode">Włącz Nie przeszkadzać</string>
     <string name="task_summary_open_drive_mode">Włącz Tryb auta</string>
     <string name="task_summary_open_eye_care_mode">Włącz Tryb czytania</string>
     <string name="task_summary_open_hotspot">Włącz hotspot</string>
@@ -4942,7 +4942,7 @@ Wycofać zgodę?"</string>
     <string name="task_summary_open_screen_display">Włącz Ekran zawsze włąćzony</string>
     <string name="task_summary_open_system_touch">Włącz reakcje haptyczne</string>
     <string name="task_summary_open_wlan">Włącz Wi-Fi</string>
-    <string name="task_summary_open_zen_mode">Włącz Godziny ciszy</string>
+    <string name="task_summary_open_zen_mode">Włącz Nie przeszkadzać</string>
     <string name="task_title_charge">Ładowanie</string>
     <string name="task_title_nfc">NFC</string>
     <string name="title_condition_absorbed">Tryb skupienia</string>
@@ -4962,7 +4962,7 @@ Wycofać zgodę?"</string>
     <string name="title_condition_lock_screen">Ekran blokady</string>
     <string name="title_condition_meeting">Spotkanie</string>
     <string name="title_condition_message">Wiadomość</string>
-    <string name="title_condition_mute">Cichy/Godziny ciszy</string>
+    <string name="title_condition_mute">Cichy/Nie przeszkadzać</string>
     <string name="title_condition_start_activity">Otwórz aplikację</string>
     <string name="title_condition_to_somewhere">Przybycie do lokalizacji</string>
     <string name="title_result_absorbed">Tryb skupienia</string>
@@ -4990,7 +4990,7 @@ Wycofać zgodę?"</string>
     <string name="title_result_touch">Reakcje haptyczne</string>
     <string name="title_result_twinkle">Ograniczenie migotania</string>
     <string name="title_result_typeface">Rozmiar tekstu i grubość czcionki</string>
-    <string name="title_result_zen_mode">Godziny ciszy</string>
+    <string name="title_result_zen_mode">Nie przeszkadzać</string>
     <string name="type_face_condition_summary">Dostosuj rozmiar tekstu i grubość czcionki</string>
     <string name="weight_heavy">Gruba</string>
     <string name="weight_light">Cienka</string>
@@ -5133,7 +5133,7 @@ i obniża częstotliwość odświeżania oraz limity temperatury"</string>
     <string name="gtb_before_acceleration">Przed</string>
     <string name="gtb_brightness_adjust">Jasność</string>
     <string name="gtb_deep_garbage_cleaning">Wykonywanie głębokiego czyszczenia…</string>
-    <string name="gtb_dnd">Godz. ciszy</string>
+    <string name="gtb_dnd">Nie przeszkadzać</string>
     <string name="gtb_garbage_clean">Zwolnij miejsce</string>
     <string name="gtb_garbage_cleaned_tip">Zwolnij %1$s, aby przyspieszyć pracę</string>
     <string name="gtb_intelligent_garbage_clean">Zwolnij miejsce w pamięci</string>

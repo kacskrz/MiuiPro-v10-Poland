@@ -337,7 +337,7 @@
   <string name="bedtime_repeat_type">Zaplanuj</string>
   <string name="bedtime_setting_complete">Śpij dobrze!</string>
   <string name="bedtime_setting_complete_desc">Przed snem postępuj zgodnie z nowym harmonogramem, aby lepiej funkcjonować</string>
-  <string name="bedtime_setting_no_disturbance">Włączyć Godziny ciszy w trakcie snu?</string>
+  <string name="bedtime_setting_no_disturbance">Włączyć Nie przeszkadzać w trakcie snu?</string>
   <string name="bedtime_setting_no_disturbance_desc">Dzwonki, powiadomienia i wibracja będą wyciszone, dopóki się nie obudzisz</string>
   <string name="bedtime_setting_repeat_type">Kiedy będziesz stosować swój harmonogram?</string>
   <string name="bedtime_setting_repeat_type_desc">"Wybierz dni, w które będziesz otrzymywać przypomnienia"</string>
@@ -352,7 +352,7 @@
   <string name="close">Zamknij</string>
   <string name="continue_operation">Kontynuuj</string>
   <string name="continue_step">Dalej</string>
-  <string name="deskclock_sleep_no_disturbance">Zegar - Zarządzaj czasem na sen - Godziny ciszy</string>
+  <string name="deskclock_sleep_no_disturbance">Zegar - Zarządzaj czasem na sen - Nie przeszkadzać</string>
   <string name="disagree">"Nie zgadzam się"</string>
   <string name="last_step">Wstecz</string>
   <string name="not_update">Nie teraz</string>
@@ -365,8 +365,8 @@
   <string name="sleep_duration_desc">Spałeś przez %1$s %2$s</string>
   <string name="sleep_duration_no_data">Brak danych</string>
   <string name="sleep_duration_recommendation">Większość ludzi codziennie potrzebuje od 7 do 9 godzin na sen</string>
-  <string name="sleep_no_disturbance">Godziny ciszy</string>
-  <string name="sleep_no_disturbance_desc">Urządzenie przełączy się na tryb Godziny ciszy i pozostanie w tym trybie, dopóki się nie obudzisz</string>
+  <string name="sleep_no_disturbance">Nie przeszkadzać</string>
+  <string name="sleep_no_disturbance_desc">Urządzenie przełączy się na tryb Nie przeszkadzać i pozostanie w tym trybie, dopóki się nie obudzisz</string>
   <string name="sleep_no_record_text">Zacznij śledzić swój sen, aby wyświetlić statystyki</string>
   <string name="sleep_notification_desc">Postępuj zgodnie ze swoim harmonogramem snu</string>
   <string name="sleep_notification_title">Czas pójść spać!</string>

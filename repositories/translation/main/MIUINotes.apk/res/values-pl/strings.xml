@@ -313,8 +313,8 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="permission_microphone_desc">Aby móc tworzyć notatki głosowe</string>
   <string name="permission_network_for_cloud_desc">Aby synchronizować notatki z Chmurą, musisz mieć połączenie z Internetem. Do tej synchronizacji mogą zostać użyte dane mobilne. Połączyć teraz?</string>
   <string name="permission_read_contact_desc">Powiązywanie notatek tworzonych w trakcie rozmów z kontaktami</string>
-  <string name="pref_remind_type_summary">Odtwórz dźwięk przypomnienia w trybie Godziny ciszy</string>
-  <string name="pref_remind_type_title">Ignoruj Godziny ciszy</string>
+  <string name="pref_remind_type_summary">Odtwórz dźwięk przypomnienia w trybie Nie przeszkadzać</string>
+  <string name="pref_remind_type_title">Ignoruj Nie przeszkadzać</string>
   <string name="remind_title">Przypomnienia</string>
   <string name="todo_menu_add_audio_description">Dodaj zadanie głosowe</string>
   <string name="todo_menu_add_description">Dodaj zadanie</string>
@@ -612,7 +612,7 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="sunday">Niedziela</string>
   <string name="sunday_short">Ndz</string>
   <string name="sunday_shortest">N</string>
-  <string name="pref_remind_type_summary_new_2">Odtwarzaj dźwięk nawet wtedy, gdy włączony jest tryb Cichy lub Godziny ciszy</string>
+  <string name="pref_remind_type_summary_new_2">Odtwarzaj dźwięk nawet wtedy, gdy włączony jest tryb Cichy lub Nie przeszkadzać</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
