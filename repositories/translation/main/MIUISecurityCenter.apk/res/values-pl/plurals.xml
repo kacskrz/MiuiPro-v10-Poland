@@ -226,12 +226,6 @@
     <item quantity="few">%d innych użytkowników oznaczyło jako</item>
     <item quantity="many">%d innych użytkowników oznaczyło jako</item>
   </plurals>
-  <plurals name="net_booster_expire_notification_tip">
-    <item quantity="other">Pozostało %d dni do zakończenia sesji przyspieszania prędkości sieci. Odnów sesję, aby zapobiec problem z prędkością sieci.</item>
-    <item quantity="one">Pozostał %d dzień do zakończenia sesji przyspieszania prędkości sieci. Odnów sesję, aby zapobiec problem z prędkością sieci.</item>
-    <item quantity="few">Pozostały %d dni do zakończenia sesji przyspieszania prędkości sieci. Odnów sesję, aby zapobiec problem z prędkością sieci.</item>
-    <item quantity="many">Pozostało %d dni do zakończenia sesji przyspieszania prędkości sieci. Odnów sesję, aby zapobiec problem z prędkością sieci.</item>
-  </plurals>
   <plurals name="network_restrict_count">
     <item quantity="other">Dostęp do sieci ograniczony dla &lt;font color=\"\'#ff0000\'\"&gt;%d&lt;/font&gt; aplikacji</item>
     <item quantity="one">Dostęp do sieci ograniczony dla &lt;font color=\"\'#ff0000\'\"&gt;%d&lt;/font&gt; aplikacji</item>
@@ -1284,5 +1278,13 @@ Zrób sobie przerwę!"</item>
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">Włącz, aby dodać %s min. czasu na ekranie</item>
         <item quantity="one">Włącz, aby dodać %s min. czasu na ekranie</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Twoje członkostwo Game Turbo wygaśnie za %d dni.</item>
+        <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Twoje członkostwo Game Turbo wygaśnie za %d dni. Odnów je teraz, aby cieszyć się grą.</item>
+        <item quantity="one">Twoje członkostwo Game Turbo wygaśnie za %d dzień. Odnów je teraz, aby cieszyć się grą.</item>
     </plurals>
 </resources>
