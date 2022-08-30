@@ -1653,7 +1653,7 @@
   <string name="safe_result_item_info_system_scan">Monitorowanie płatności jest włączone</string>
   <string name="safe_result_item_info_system_version">MIUI jest aktualne</string>
   <string name="safepay_alert_dialog_button_continue">Kontynuuj</string>
-  <string name="safepay_alert_dialog_button_fix">Napraw</string>
+  <string name="safepay_alert_dialog_button_fix">Więcej</string>
   <string name="save_energy_text">Ogranicz autostart oraz synchronizację dla aplikacji w tle, aby ograniczyć użycie baterii</string>
   <string name="save_energy_title">Optymalizacja baterii</string>
   <string name="sc_allow_network_dialog_message">Ograniczyłeś połączenie sieciowe i dostęp do swojej lokalizacji dla Panelu Sterowania. Nadaj Panelowi Sterowania wymagane uprawnienia, aby korzystać z tej funkcji.</string>
@@ -1743,9 +1743,9 @@
   <string name="sorted_dialog_title">Sortuj według</string>
   <string name="sp_background_risk_dialog_summary">, sprawdź i napraw problemy z płatnościami.</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Jesteś podłączony do publicznej sieci Wi-Fi, która może nie być bezpieczna. Upewnij się, że twoja płatność jest chroniona, przed jej rozpoczęciem.</string>
-  <string name="sp_background_risk_dialog_title">Powiadomienie</string>
+  <string name="sp_background_risk_dialog_title">MIUI wykryło zagrożenie</string>
   <string name="sp_background_risk_dialog_title_wifi_approve">Alert publicznego Wi-Fi</string>
-  <string name="sp_background_risk_type_messaging">Systemowa aplikacja do wysyłania wiadomości została zamieniona</string>
+  <string name="sp_background_risk_type_messaging">Aplikacja do SMS-ów nie jest fabryczna</string>
   <string name="sp_background_risk_type_root">W systemie włączono uprawnienia root</string>
   <string name="sp_background_risk_type_sign">Uruchomiono nieoficjalną aplikację</string>
   <string name="sp_background_risk_type_virus">Wirus pracuje w tle</string>
@@ -3099,7 +3099,7 @@ Wszystkie dane na urządzeniu mogą zostać wymazane, a hasło ekranu blokady - 
   <string name="google_base_app_title">Instalacja usług Google</string>
   <string name="google_base_app_toast">Framework usług Google jest obecnie instalowany w tle. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="button_text_trust">Ufaj tej sieci</string>
-  <string name="sp_background_risk_dialog_summary_new">Obecne środowisko płatności może powodować zagrożenia pod względem bezpieczeństwa. Poświęć chwilę, aby rozwiązać istniejące problemy.</string>
+  <string name="sp_background_risk_dialog_summary_new">Obecne środowisko płatności może powodować zagrożenia pod względem bezpieczeństwa. Poświęć chwilę, aby dowiedzieć się więcej.</string>
   <string name="wifi_danger_dialog_messgae">Obecna sieć Wi-Fi może powodować zagrożenia pod względem bezpieczeństwa. Używaj jej z rozwagą.</string>
   <string name="wifi_danger_dialog_tips">Możesz zarządzać bezpieczeństwem sieci Wi-Fi w Panelu sterowania > Bezpieczeństwo > Ustawienia > Wi-Fi.</string>
   <string name="wifi_danger_dialog_title">"Sieć Wi-Fi nie jest bezpieczna"</string>
@@ -5496,4 +5496,8 @@ Możesz wyłączyć opcję \"Automatycznie poprawiaj statystyki zużycia danych\
     <string name="dialog_msg_delete_icon_title_pad">Usunąć ten skrót z pulpitu?</string>
     <string name="dialog_msg_delete_icon_title_phone">Usunąć ten skrót z pulpitu?</string>
     <string name="pc_xiaoai_create_auto_task">Nowe zadanie od Mi SI</string>
+    <string name="eletric_no_grant_dialog_message_for_phone">Nadaj wymagane uprawnienia, aby móc rozpoznawać nieznane numery telefonów.</string>
+    <string name="eletric_no_grant_dialog_negative_button">Anuluj</string>
+    <string name="eletric_no_grant_dialog_positive_button">Ustawienia</string>
+    <string name="eletric_no_grant_dialog_title">Wymagane uprawnienia</string>
 </resources>
