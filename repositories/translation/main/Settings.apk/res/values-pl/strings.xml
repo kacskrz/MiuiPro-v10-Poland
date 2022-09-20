@@ -9679,4 +9679,13 @@ Aby używać przypinania aplikacji: \u0009
     <string name="launch_accessibility_environmental_speech_recognition">Rozpoznawanie dźwięków otoczenia</string>
     <string name="launch_accessibility_hear_sound_subtitle">Napisy Mi Ditto</string>
     <string name="launch_accessibility_voice_control">Sterowanie głosowe</string>
+    <string name="bt_low_energy_audio_summary">Ciesz się wysokiej jakości dźwiękiem przy niższym zużyciu energii i mniejszym opóźnieniu</string>
+    <string name="miheadset_ancMode">Tryb redukcji szumów</string>
+    <string name="miheadset_atuo_download_title">Pobierz automatycznie</string>
+    <string name="miheadset_auto_download_summary">Automatycznie pobierz najbardziej odpowiednie wersje</string>
+    <string name="miheadset_automatic">Autom.</string>
+    <string name="miheadset_manual_operation">Ręcznie</string>
+    <string name="miui_type_style_summary">Styl pisania stosowany przy włączonym Czytniku ekranowym</string>
+    <string name="miui_type_style_title">Styl pisania</string>
+    <string name="stylus_not_connect_message_new">Załącz swój rysik, aby sparować</string>
 </resources>
