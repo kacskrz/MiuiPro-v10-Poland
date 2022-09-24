@@ -1645,7 +1645,6 @@ Pozostało prób: %d."</string>
     <string name="china_mobile">China Mobile</string>
     <string name="china_telecom">China Telecom</string>
     <string name="china_unicom">China Unicom</string>
-    <string name="default_sim_setting">Domyślna karta SIM:</string>
     <string name="disconnect_data_confirm">Usługa danych zostanie tymczasowo rozłączona. Czy jesteś pewny?</string>
     <string name="fdn_service_unavailable">Usługa ustalonych numerów nie jest dostępna.</string>
     <string name="hintName">Nazwa</string>
