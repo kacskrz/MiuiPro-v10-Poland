@@ -553,7 +553,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_account_set_password_title">Ustaw hasło</string>
     <string name="passport_account_set_password_prompt">Ustaw hasło do swojego konta, aby móc się zalogować następnym razem.</string>
     <string name="passport_set">Ustaw</string>
-    <string name="passport_set_password_no_phone_msg">Dodaj swój numer telefonu, aby chronić swoje konto.</string>
     <string name="passport_user_reg_region">Państwo/Region</string>
     <string name="passport_user_id_notice">Twoje ID konta Xiaomi to %s.</string>
     <string name="passport_user_reg_region_warning">Nie będziesz w stanie zmienić swoje kraju/region po utworzeniu konta.</string>
