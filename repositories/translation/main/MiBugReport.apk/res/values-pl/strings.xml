@@ -546,7 +546,6 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_quick_login">Zaloguj się</string>
     <string name="passport_error_verify_activator_phone_title">Nie udało się zweryfikować numeru telefonu</string>
     <string name="passport_error_verify_activator_phone_message">Upewnij się, że usługi karty SIM są aktywne, a urządzenie jest podłączone do sieci.</string>
-    <string name="passport_error_no_password_user">Hasło nie zostało jeszcze ustawione. Zaloguj się za pomocą SMS.</string>
     <string name="passport_phone_ticket_login">Zaloguj za pomocą SMS</string>
     <string name="passport_quick_register">Zarejestruj</string>
     <string name="passport_account_set_password">Ustaw hasło</string>
