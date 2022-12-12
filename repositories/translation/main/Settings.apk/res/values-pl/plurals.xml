@@ -705,4 +705,9 @@
         <item quantity="other">%d sek.</item>
         <item quantity="one">%d sek.</item>
     </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Zmiany zostaną zastosowane za %d sekund</item>
+        <item quantity="few">Zmiany zostaną zastosowane za %d sekundy</item>
+        <item quantity="one">Zmiany zostaną zastosowane za %d sekundę</item>
+    </plurals>
 </resources>
