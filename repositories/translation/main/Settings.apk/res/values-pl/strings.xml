@@ -9720,4 +9720,7 @@ Aby używać przypinania aplikacji: \u0009
     <string name="enable_crbt_pref_title">Wyłącz wideo profilowe w połączeniach przychodzących</string>
     <string name="privacy_dashboard_title">Prywatność</string>
     <string name="wifi_privacy_settings">Prywatność</string>
+    <string name="accessibility_ring_vibration_title">Wibracja przy dzwonku</string>
+    <string name="freeform_guide_vedio_description">Dotknij aplikacji na Pasku bocznym, aby otworzyć ją w pływającym oknie</string>
+    <string name="zone_auto_title">Automatycznie ustaw strefę czasową</string>
 </resources>
