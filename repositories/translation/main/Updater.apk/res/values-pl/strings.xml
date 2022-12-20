@@ -11,13 +11,13 @@
   <string name="alpha_no_network">Połącz się z siecią, aby się zapisać</string>
   <string name="app_name">Aktualizacje</string>
   <string name="apply_title">Aktualizowanie (%s)</string>
-  <string name="auto_agree_clause">Polityka Prywatności została zaktualizowana</string>
+  <string name="auto_agree_clause">Polityka prywatności została zaktualizowana</string>
   <string name="auto_button_examine">Pokaż</string>
   <string name="auto_button_examine_immediately">Pokaż</string>
   <string name="auto_button_sure_cancel">Anuluj</string>
   <string name="auto_check_clause_button">Pokaż</string>
-  <string name="auto_dialog_msg">"Zaktualizowaliśmy Politykę Prywatności. Zapoznaj się z nią, zanim zaktualizujesz system. "</string>
-  <string name="auto_dialog_msg_check_again">"Musisz wyrazić zgodę na nową Politykę Prywatności, aby móc aktualizować system. "</string>
+  <string name="auto_dialog_msg">"Zaktualizowaliśmy Politykę prywatności. Zapoznaj się z nią, zanim zaktualizujesz system. "</string>
+  <string name="auto_dialog_msg_check_again">"Musisz wyrazić zgodę na nową Politykę prywatności, aby móc aktualizować system. "</string>
   <string name="auto_dialog_title_check_again">Anulować aktualizację?</string>
   <string name="auto_download">Pobierz automatycznie</string>
   <string name="auto_download_sum">Pobierz aktualizacje, gdy jestem podłączony do Wi-Fi</string>
@@ -114,7 +114,7 @@
   <string name="home_dialog_negative_button">Nie teraz</string>
   <string name="home_dialog_positive_button">Uruchom ponownie</string>
   <string name="home_dialog_title">MIUI 9. Szybki jak błyskawica.</string>
-  <string name="important_suggestion">Zmiana w Polityce Prywatności</string>
+  <string name="important_suggestion">Zmiana w Polityce prywatności</string>
   <string name="install">Instaluj</string>
   <string name="install_failed">Nie udało się zaktualizować MIUI</string>
   <string name="install_file_explorer">Zainstaluj najpierw Menadżera plików</string>

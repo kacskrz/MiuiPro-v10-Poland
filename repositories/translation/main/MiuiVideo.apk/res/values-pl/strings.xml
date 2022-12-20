@@ -315,7 +315,7 @@
   <string name="passport_user_agreement_p1">Zgadzam się na </string>
   <string name="passport_user_agreement_p2">Zgodę użytkownika</string>
   <string name="passport_user_agreement_p3"> oraz </string>
-  <string name="passport_user_agreement_p4">Politykę Prywatności</string>
+  <string name="passport_user_agreement_p4">Politykę prywatności</string>
   <string name="passport_vcode_notification_title">Twoja weryfikacja logowania jest niepełna</string>
   <string name="passport_vcode_prompt_long">Wprowadź kod weryfikacyjny</string>
   <string name="passport_vcode_sms_send_prompt">Wyślij kod do %s</string>

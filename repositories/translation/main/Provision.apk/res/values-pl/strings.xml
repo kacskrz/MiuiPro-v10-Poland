@@ -22,8 +22,8 @@
   <string name="enable_accessibility_dialog_message">Włączyłeś TalkBack dotykając ekran dwoma palcami przez więcej niż 10 sekund. TalkBack zapewnia obsługę głosową dla osób z wadami wzroku. Jeśli włączyłeś go przez przypadek, dotknij przycisk Anuluj, a następnie dotknij ekran dwa razy.</string>
   <string name="enable_accessibility_dialog_negative_btn">Anuluj</string>
   <string name="enable_accessibility_dialog_positive_btn">OK</string>
-  <string name="ime_privacy_policy">Polityka Prywatności dla wybranej klawiatury</string>
-  <string name="ime_privacy_policy_no_network">Nie można połączyć z siecią. Wyświetl Politykę Prywatności z %s.</string>
+  <string name="ime_privacy_policy">Polityka prywatności dla wybranej klawiatury</string>
+  <string name="ime_privacy_policy_no_network">Nie można połączyć z siecią. Wyświetl Politykę prywatności z %s.</string>
   <string name="input_method_category">Wybierz domyślną klawiaturę, której będziesz używać do pisania wiadomości, notatek i w każdym innymi miejscu. Później możesz też zainstalować inne klawiatury.</string>
   <string name="input_method_setting">Wybierz klawiaturę</string>
   <string name="install_preinstall_app">Wczytywanie aplikacji…</string>
@@ -33,7 +33,7 @@
   <string name="language_settings">Wybierz język</string>
   <string name="locale_picker_other_locale_title">Więcej regionów</string>
   <string name="locale_picker_title">Wybierz swój region</string>
-  <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę Prywatności na %s.</string>
+  <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę prywatności na %s.</string>
   <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>
   <string name="multisim_settings_category">Opcje kart SIM</string>
   <string name="multisim_settings_title">Wykryto 2 karty SIM</string>
@@ -59,9 +59,9 @@
   <string name="poco_agree_terms_other">(Włączając Politykę prywatności i zgodę użytkownika POCO Launcher)</string>
   <string name="pref_title_data_slot">Preferowana karta SIM (internet)</string>
   <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
-  <string name="privacy_policy">Polityka Prywatności</string>
+  <string name="privacy_policy">Polityka prywatności</string>
   <string name="provision_inputmethod_policy_description"><Data>Wyświetl &lt;a href=%1$s>Politykę prywatności&lt;/a > wybranej klawiatury.</Data></string>
-  <string name="provision_inputmethod_policy_description1">Polityka Prywatności</string>
+  <string name="provision_inputmethod_policy_description1">Polityka prywatności</string>
   <string name="setting_locale">Ustawianie regionu…</string>
   <string name="shut_down">Wyłącz</string>
   <string name="sim_card_detecting">Sprawdzanie karty SIM…</string>

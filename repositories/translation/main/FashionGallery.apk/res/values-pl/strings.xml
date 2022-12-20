@@ -69,8 +69,8 @@
     <string name="sst_subscribe_title">Subskrypcje</string>
     <string name="sst_wifi_only_desc">Wyłącz tę funkcję, aby zaoszczędzić dane komórkowe</string>
     <string name="sst_wifi_only_title">Zaktualizuj tapety, używając danych mobilnych</string>
-    <string name="summary">"Zgódź się na naszą &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politykę Prywatności&lt;/a>, aby wyświetlać treść on-line. Jeśli się nie zgadzasz, tapety lokalne będą nadal dostępne."</string>
-    <string name="summary_international">"Korzystając z tej funkcji, zgadzasz się na naszą &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Zgodę użytkownika&lt;/a> oraz &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politykę Prywatności&lt;/a>. Ta funkcja musi łączyć się z Internetem, aby działać normalnie."</string>
+    <string name="summary">"Zgódź się na naszą &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politykę prywatności&lt;/a>, aby wyświetlać treść on-line. Jeśli się nie zgadzasz, tapety lokalne będą nadal dostępne."</string>
+    <string name="summary_international">"Korzystając z tej funkcji, zgadzasz się na naszą &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Zgodę użytkownika&lt;/a> oraz &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Politykę prywatności&lt;/a>. Ta funkcja musi łączyć się z Internetem, aby działać normalnie."</string>
     <string name="theme_apply_failured">"Nie można zastosować, spróbuj ponownie później"</string>
     <string name="theme_apply_success">Zastosowano pomyślnie</string>
     <string name="theme_applying">Stosowanie…</string>

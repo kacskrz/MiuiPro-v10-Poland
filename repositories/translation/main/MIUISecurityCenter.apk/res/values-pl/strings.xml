@@ -101,7 +101,7 @@
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary"><Data>Funkcja dostarczana jest przez silniki antywirusowe firm trzecich. Aby dowiedzieć się więcej o tym, jak ona działa, przeczytaj informacje zawarte w &lt;a href=\"%1$s\">Licencji użytkownika&lt;/a>.</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Polityka prywatności</string>
-  <string name="antivirus_privacy_dialog_title">Polityka Prywatności</string>
+  <string name="antivirus_privacy_dialog_title">Polityka prywatności</string>
   <string name="antivirus_sec_network_unavailable">Aplikacja panelu sterowania nie może się zaktualizować ponieważ ograniczyłeś połączenie internetowe. Zezwolić Panelowi sterowania na łączenie się z internetem?</string>
   <string name="antivirus_toast_already_update">Aktualny</string>
   <string name="antivirus_toast_network_unavailable">Nie udało się połączyć z siecią</string>

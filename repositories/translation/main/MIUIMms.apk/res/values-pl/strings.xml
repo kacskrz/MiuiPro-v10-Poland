@@ -329,7 +329,7 @@
   <string name="mx_dspt">Wysyłaj za darmo wiadomości SMS i MMS do innych urządzeń MIUI przy połączeniu z Wi-Fi.</string>
   <string name="mx_dspt_listview">Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI</string>
   <string name="mx_dspt_provision">Wiadomości Mi pozwalają na wysyłanie wiadomości do innych użytkowników MIUI bez opłat przez internet. Reaktywacja Wiadomości Mi może wymagać wysłania SMS. Twój operator naliczy opłatę za tę wiadomość. Poza tym, usługa wymaga dostępu do danych mobilnych, aby działać poprawnie.</string>
-  <string name="mx_dspt_provision_ex2">Polityka Prywatności</string>
+  <string name="mx_dspt_provision_ex2">Polityka prywatności</string>
   <string name="mx_enable">Wiadomości Mi</string>
   <string name="mx_enable_ex">Mi Message i VoIP</string>
   <string name="mx_enable_popup_msg">Wiadomości Mi umożliwiają darmowe wysyłanie SMS do innych urządzeń MIUI.</string>

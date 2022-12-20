@@ -501,8 +501,8 @@ podany w wiadomości e-mail wysłanej na podany adres."</string>
     <string name="passport_user_agreement_p1">Zgadzam się z </string>
     <string name="passport_user_agreement_p2">Umową Użytkownika</string>
     <string name="passport_user_agreement_p3"> i </string>
-    <string name="passport_user_agreement_p4">Polityką Prywatności</string>
-    <string name="passport_privacy_policy">Polityka Prywatności</string>
+    <string name="passport_user_agreement_p4">Polityką prywatności</string>
+    <string name="passport_privacy_policy">Polityka prywatności</string>
     <string name="passport_user_agreement">Umowa Użytkownika</string>
     <string name="passport_license_host_unreachable">Nie można połączyć z siecią. Możesz zobaczy tę stronę tutaj %s.</string>
     <string name="passport_login_failed">Nie można zalogować</string>

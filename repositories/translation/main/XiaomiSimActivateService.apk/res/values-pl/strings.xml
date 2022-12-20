@@ -60,7 +60,7 @@
     <string name="activate_popup_desc_new_2_intl_sim_cards">Karty SIM zostały zmienione. Wysłane zostaną 2 międzynarodowe wiadomości SMS w celu aktywacji %s. Koszt według stawek operatora.</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Karta SIM została zmieniona. Wpisz aktualny numer telefonu, aby aktywować %s.</string>
     <string name="activate_popup_desc_voip_privacy_prefix">Usługa VoIP dostarczona przez Weihui. Zobacz Weihui</string>
-    <string name="activate_popup_desc_voip_privacy">Politykę Prywatności</string>
+    <string name="activate_popup_desc_voip_privacy">Politykę prywatności</string>
     <string name="activate_popup_title_register_account">Załóż konto Xiaomi</string>
     <string name="activate_popup_desc_register_account">Utworzenie twojego konta Xiaomi może wymagać wysłania SMS. Twój operator naliczy opłatę za tę wiadomość.</string>
     <string name="activate_popup_desc_register_account_intl">Utworzenie twojego konta Xiaomi może wymagać wysłania międzynarodowego SMS. Twój operator naliczy opłatę za tę wiadomość.</string>

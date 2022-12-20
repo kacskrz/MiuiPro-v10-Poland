@@ -431,7 +431,7 @@
   <string name="i_know_it">OK</string>
   <string name="impunity_declaration_content">Musisz przeczytać i zaakceptować %1$s i %2$s przed użyciem produktu.</string>
   <string name="impunity_declaration_content_agreement">Umowę Użytkownika</string>
-  <string name="impunity_declaration_content_policy">Politykę Prywatności</string>
+  <string name="impunity_declaration_content_policy">Politykę prywatności</string>
   <string name="impunity_declaration_ignore">Nie pokazuj ponownie</string>
   <string name="impunity_declaration_negative_text">Zakończ</string>
   <string name="impunity_declaration_positive_text">OK</string>

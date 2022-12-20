@@ -461,7 +461,7 @@
   <string name="ubifocus_capture_warning_message">Dla lepszego rezultatu, w kadrze powinny znaleźć się zarówno daleki jak i bliski obiekt (mniej niż 1m od obiektywu)</string>
   <string name="user_agree">Zgadzam się</string>
   <string name="user_agreement2">Warunki użytkowania</string>
-  <string name="user_agreement4">Politykę Prywatności</string>
+  <string name="user_agreement4">Politykę prywatności</string>
   <string name="user_notice_identify_summary_format">Przed użyciem Aparatu musisz zaakceptować warunki <a href="http://www.miui.com/res/doc/eula.html?lang=pl_PL">Umowy użytkownika</a> i <a href="http://www.miui.com/res/doc/privacy.html?lang=pl_PL">Polityki prywatności</a> Xiaomi. Aplikacja wymaga także dostępu do Internetu. Wyrażasz zgodę?</string>
   <string name="user_notice_title">Zgoda na łączenie się z siecia</string>
   <string name="video_camera_label">Kamera</string>

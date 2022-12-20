@@ -37,7 +37,7 @@
   <string name="cta_button_continue">Akceptuj</string>
   <string name="cta_button_quit">Wyjście</string>
   <string name="cta_check_reminder">Nie pokazuj ponownie</string>
-  <string name="cta_message_license">Używając tego produktu, zgadzasz się na warunki opisane w naszych Warunkach Użytkowania i Polityce Prywatności.</string>
+  <string name="cta_message_license">Używając tego produktu, zgadzasz się na warunki opisane w naszych Warunkach Użytkowania i Polityce prywatności.</string>
   <string name="cta_message_permission">Ta aplikacja wymaga %2$s aby pracować normalnie.</string>
   <string name="cta_permission_and"> i </string>
   <string name="cta_permission_delimiter">,</string>

@@ -12,7 +12,7 @@
     <string name="DesAVL">AVL</string>
     <string name="DesMi">Mi</string>
     <string name="DesAvast">Avast</string>
-    <string name="tencent_dialog_title">Polityka Prywatności Tecent</string>
+    <string name="tencent_dialog_title">Polityka prywatności Tecent</string>
     <string name="tencent_dialog_header">Funkcja kopiuje szyfrowane dane urządzenia na serwery Tencent (%s).</string>
     <string name="tencent_dialog_policy">Polityka prywatności</string>
     <string name="tencent_dialog_cloudscan">Wyślij i skanuj nazwy aplikacji, i ich szczegóły, korzystając z internetowych definicji wirusów.</string>
@@ -24,7 +24,7 @@
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-    <string name="avast_dialog_title">Polityka Prywatności Avast</string>
+    <string name="avast_dialog_title">Polityka prywatności Avast</string>
     <string name="avast_dialog_header">Funkcja kopiuje szyfrowane dane urządzenia na serwery Avast (%s).</string>
     <string name="avast_dialog_policy">Polityka prywatności</string>
     <string name="avast_dialog_cloudscan" />

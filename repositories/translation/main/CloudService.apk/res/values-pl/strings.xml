@@ -449,7 +449,7 @@
   <string name="mx_dspt_provision_privacy_2_sim">Funkcja może wymagać twojego numeru telefonu. Uruchomienie usługi może wymagać wysłania 2 SMS. Twój operator naliczy opłatę za te wiadomości.\n\nFunkcja szyfruje i przesyła ID urządzenia na serwery Xiaomi.</string>
   <string name="mx_dspt_provision_privacy_no_sim">Funkcja może wymagać twojego numeru telefonu. Uruchomienie usługi może wymagać wysłania SMS, po wykryciu karty SIM. Twój operator naliczy opłatę za tę wiadomość.\n\nFunkcja szyfruje i przesyła ID urządzenia na serwery Xiaomi.</string>
   <string name="mx_dspt_provision_with_voip">Dzwoń do innych użytkowników MIUI za darmo wykorzystując Internet. Możesz zawsze wyłączyć tę funkcję w Ustawieniach. Usługa VoIP jest obsługiwana przez Weihui. Sprawdź politykę prywatności Weihui</string>
-  <string name="mx_dspt_provision_with_voip2">Polityka Prywatności</string>
+  <string name="mx_dspt_provision_with_voip2">Polityka prywatności</string>
   <string name="mx_sub_dspt_provision">Wiadomości w chmurze</string>
   <string name="mx_sub_dspt_provision_with_voip">Dzwonienie przez internet</string>
   <string name="mx_voip_dspt">MIUI VoIP</string>
@@ -543,7 +543,7 @@ W celu lokalizacji urządzenia i włączenia trybu zagubionego
 Jeśli nie zgodzisz się na nadanie powyższych uprawnień, nie będziesz mógł korzystać z tej funkcji. Możesz odinstalować tą aplikację, wylogować się z niej bądź ograniczyć dla niej uprawnienia w Ustawieniach w każdym momencie.
 Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Umowy użytkownika &lt;/u&gt;&lt;/a&gt;oraz&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Polityki prywatności &lt;/u&gt;&lt;/a&gt;"Xiaomi.
 "</string>
-  <string name="privacy_policy">Polityka Prywatności</string>
+  <string name="privacy_policy">Polityka prywatności</string>
   <string name="provision_sync_items_loading">Przygotowanie do synchronizacji</string>
   <string name="reading_status">Ładowanie statusu…</string>
   <string name="reading_status_failure">Nie udało się załadować statusu.</string>
@@ -737,7 +737,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="warning_bar_title_short_cut">Dodać skrót do Chmury na pulpicie?</string>
   <string name="warning_bar_title_sync_off">Synchronizacja jest wyłączona</string>
   <string name="user_detail_agreement">Warunki Użytkowania</string>
-  <string name="user_detail_privacy_policy">Polityka Prywatności</string>
+  <string name="user_detail_privacy_policy">Polityka prywatności</string>
   <string name="micloud_request_sync_too_frequent">Zbyt dużo żądań. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="system_busy_or_network_error">Wystąpił błąd. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
   <string name="waiting_for_sync">Oczekiwanie…</string>

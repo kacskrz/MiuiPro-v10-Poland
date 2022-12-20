@@ -231,7 +231,7 @@ W wersji 6.0 Androida i nowszych należy włączyć usługi lokalizacji, aby wys
     <string name="user_notice_button_exit">Wyjdź</string>
     <string name="user_notice_button_ok">Ok</string>
     <string name="user_notice_content">Poprzez korzystanie z tego produktu, zgadzasz się na %1$s i %2$s.</string>
-    <string name="user_notice_privacy_policy">Politykę Prywatności</string>
+    <string name="user_notice_privacy_policy">Politykę prywatności</string>
     <string name="user_notice_term_of_service">Umowa Użytkownika</string>
     <string name="user_notice_title">Warunki Użytkowania</string>
     <string name="utf8_summary">Domyślne kodowanie</string>

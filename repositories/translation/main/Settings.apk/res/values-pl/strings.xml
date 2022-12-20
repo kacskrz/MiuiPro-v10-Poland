@@ -873,7 +873,7 @@
   <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock potrzebuje dostępu do Twojego konta Xiaomi, CPU ID, IMEI, IMSI, aby działać normalnie. Przeczytaj i zaakceptuj warunki &lt;a href=\"%1$s\">Polityki prywatności&lt;/a>. Czy zgadzasz się na nie?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Zakończ</string>
   <string name="bootloader_status_privacy_dialog_title">Wymagane uprawnienia</string>
-  <string name="bootloader_status_privacy_dialog_url_text">Polityką Prywatności</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Polityką prywatności</string>
   <string name="bootloader_status_privacy_dialog_yes">Zgoda</string>
   <string name="bootloader_status_summary">Sprawdź czy urządzenie jest zablokowane</string>
   <string name="bootloader_status_unlocked">Odblokowany</string>
@@ -1904,7 +1904,7 @@
   <string name="free_wifi_summary">Dotknij aby połączyć z %1$s.</string>
   <string name="free_wifi_user_agreement">Wykorzystując WiWide do podłączania do sieci, twój numer telefonu zostanie użyty do weryfikacji twojej tożsamości.</string>
   <string name="free_wifi_user_agreement_allow">Zezwól</string>
-  <string name="free_wifi_user_agreement_title">Ostrzeżenie Prywatności</string>
+  <string name="free_wifi_user_agreement_title">Ostrzeżenie prywatności</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Dotknij aby połączyć z %1$s.</string>
   <string name="frequently_fragment_delete">Usuń</string>
@@ -3847,7 +3847,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="search_pref_edge_handgrip">Sterowanie krawędziowe</string>
   <string name="search_pref_volume_wake_title">Obudź za pomocą przycisku głośności;przycisk głośności</string>
   <string name="search_preferred_network_type_title">Preferowany typ sieci;Preferowana sieć;Typ sieci</string>
-  <string name="search_privacy_policy">Polityka Prywatności</string>
+  <string name="search_privacy_policy">Polityka prywatności</string>
   <string name="search_privacy_settings">Kopia zapasowa i reset;Kopia zapasowa;reset; tworzenie kopii zapasowej</string>
   <string name="search_radio_controls_title">Więcej;Bezprzewodowy</string>
   <string name="search_results_title">Ustawienia</string>
