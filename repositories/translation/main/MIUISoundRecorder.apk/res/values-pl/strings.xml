@@ -50,7 +50,7 @@
     <string name="status_bar_back">Powrót do nagrania</string>
     <string name="status_bar_recording_pause">Nagrywanie wstrzymane</string>
     <string name="low_battery_error_title">Niski poziom baterii</string>
-    <string name="low_battery_error">Pozostało mniej niż 5% baterii. Zatrzymaj i zapisz nagranie, aby nie zostało stracone.</string>
+    <string name="low_battery_error">Pozostało mniej niż %s baterii. Zatrzymaj i zapisz nagranie, aby nie zostało stracone.</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
@@ -168,8 +168,8 @@
   <string name="shortcut_records">Nagrania</string>
   <string name="shortcut_start_record">Zacznij nagranie</string>
   <string name="shortcut_stop_record">Zatrzymaj nagranie</string>
-  <string name="text_btn_backward_3_seconds">3 sekundy wstecz</string>
-  <string name="text_btn_forward_3_seconds">3 sekundy naprzód</string>
+  <string name="text_btn_backward_3_seconds">%d sekundy wstecz</string>
+  <string name="text_btn_forward_3_seconds">%d sekundy naprzód</string>
   <string name="text_play_speed_0_5">Odtwarzanie 0,5x</string>
   <string name="text_play_speed_1_0">Normalne</string>
   <string name="text_play_speed_1_5">Odtwarzanie 1,5x</string>
@@ -378,4 +378,18 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">To wszystko na teraz</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Chwileczkę…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nie udało się załadować elementów</string>
+  <string name="high_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+  <string name="low_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+  <string name="middle_bit_rate">MP3, ~%1$d kbit/s, ~%2$d MB/godz.</string>
+  <string name="permission_notification_description">W celu wysyłania alertów dot. nagrywania, odtwarzania i pobierania treści</string>
+  <string name="permission_notification_dialog_description">"W celu wysyłania alertów dot. obecnego statusu aplikacji"</string>
+  <string name="permission_notification_title">Wymagane uprawnienia</string>
+  <string name="record_scenes_summaries_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
+  <string name="record_scenes_summaries_interview">Umieść telefon między %d osobami, aby nagrywać w najlepszej jakości</string>
+  <string name="record_scenes_summaries_music">Nagrywaj muzykę w lepszej jakości</string>
+  <string name="record_scenes_summaries_stereo_HD">Technologia wysokiego zakresu dynamicznego umożliwia nagrywanie lepszej jakości dźwięku</string>
+  <string name="record_scenes_summaries_stereo_interview">Umieść telefon między %d osobami, aby nagrywać w najlepszej jakości</string>
+  <string name="record_scenes_summaries_stereo_music">Rejestruj przez %d kanały, słuchaj dźwięku stereo w słuchawkach</string>
+  <string name="record_scenes_summaries_stereo_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
+  <string name="record_scenes_summaries_voice">Im bliżej źródła dźwięku znajduj się mikrofon, tym lepsza jest jakość nagrania</string>
 </resources>
