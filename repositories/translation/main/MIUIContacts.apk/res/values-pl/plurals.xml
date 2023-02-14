@@ -227,36 +227,6 @@
         <item quantity="other">Zaznacz tylko %1$d</item>
         <item quantity="one">Zaznacz tylko %1$d</item>
     </plurals>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Godzinę temu</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Godzinę temu</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Pół godziny temu</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Za godzinę</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Za pół godziny</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Wkrótce</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Za %d min</item>
-        <item quantity="one">Za minutę</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Teraz</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minut temu</item>
-        <item quantity="one">minutę temu</item>
-        <item quantity="few">%d minuty temu</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Pół godziny temu</item>
     </plurals>
