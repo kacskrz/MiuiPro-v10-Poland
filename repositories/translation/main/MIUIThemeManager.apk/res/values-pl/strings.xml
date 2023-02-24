@@ -823,8 +823,8 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="enabling_all_free_mode">Włączanie…</string>
   <string name="wallpaper_no_favorite">Nie ma tu jeszcze żadnych elementów.</string>
   <string name="wallpaper_no_record">Nie ma tu jeszcze żadnych elementów.</string>
-  <string name="author_attention">Obserwuj</string>
-  <string name="author_attention_success">Obserwujesz</string>
+  <string name="author_attention">Śledź</string>
+  <string name="author_attention_success">Śledzisz</string>
   <string name="author_dialog_message">Czy na pewno chcesz przestać obserwować to konto?</string>
   <string name="author_dynamic">Status</string>
   <string name="author_dynamic_no_resource">"Nie znaleziono rezultatów"</string>
@@ -845,8 +845,8 @@ Więcej nowych funkcji możesz znaleźć w Motywach > Moje konto > Funkcje w faz
   <string name="recommend_trigger_summary">Włącz, aby otrzymywać propozycje oparte na Twoich preferencjach</string>
   <string name="update_flag">Aktualizacja</string>
   <string name="theme_comment_dialog_cancel">Nie teraz</string>
-  <string name="de_author_follow">Obserwuj</string>
-  <string name="de_author_following">Obserwujesz</string>
+  <string name="de_author_follow">Śledź</string>
+  <string name="de_author_following">Śledzisz</string>
   <string name="de_component_author">Autor</string>
   <string name="de_icon_text_comment">Skomentuj</string>
   <string name="de_icon_text_favorite">Dodaj do ulubionych</string>
