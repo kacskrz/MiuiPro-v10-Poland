@@ -9,8 +9,8 @@
     <string name="location_west">Zachód</string>
 	<string name="cancel">Zakończ</string>
     <string name="calibrate_success">Skalibrowano</string>
-    <string name="calibrate_failed_no_location">Nie można skalibrować</string>
-    <string name="calibrate_failed_timeout">Nie można połączyć z serwerem</string>
+    <string name="calibrate_failed_no_location">Nie udało się skalibrować. Wystąpił błąd lokalizacji.</string>
+    <string name="calibrate_failed_timeout">Nie udało się skalibrować. Wystąpił błąd serwera.</string>
     <string name="calibrate_failed">Kalibracja wysokości nie powiodła się</string>
     <string name="pressure_title">Ciśnienie</string>
     <string name="altitude_title">Wysokość</string>
