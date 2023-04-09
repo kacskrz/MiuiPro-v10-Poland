@@ -418,7 +418,7 @@ Możesz teraz zalogować się na konto Xiaomi, korzystając z %s."</string>
     <string name="unlock_help_notice">"Pomoc:
 %1$d. Jeśli nie pamiętasz hasła, możesz je zresetować na id.mi.com.
 %2$d. Jeśli nie możesz odzyskać hasła lub ktoś zablokował to urządzenie, wyłącz funkcję Znajdź urządzenie na i.mi.com.
-%3$d. Kod odblokowania: %s"</string>
+%3$d. Kod odblokowania: %4$s"</string>
     <string name="login_find_device_bind">Urządzenie jest powiązane z istniejącym kontem Xiaomi (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, powiązany numer telefonu: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, powiązany adres e-mail: %s</string>
