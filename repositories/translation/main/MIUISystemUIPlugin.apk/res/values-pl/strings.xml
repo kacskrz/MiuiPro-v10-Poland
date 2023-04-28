@@ -449,4 +449,5 @@ Głośne słuchanie przez dłuższy czas może spowodować problemy ze słuchem.
     <string name="offline">Offline</string>
     <string name="accessibility_desc_add">Dodaj</string>
     <string name="accessibility_desc_remove">Usuń</string>
+    <string name="emergency_call">Poł. alarmowe</string>
 </resources>
