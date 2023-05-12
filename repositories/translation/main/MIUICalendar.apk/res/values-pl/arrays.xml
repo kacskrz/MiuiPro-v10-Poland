@@ -600,4 +600,12 @@
         <item>Co 4 godziny</item>
         <item>Co 12 godzin</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Wyłącz raz</item>
+        <item>Wyłączaj zawsze</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Włącz raz</item>
+        <item>Włączaj zawsze</item>
+    </string-array>
 </resources>
