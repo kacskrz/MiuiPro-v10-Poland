@@ -710,4 +710,9 @@
         <item quantity="few">Zmiany zostaną zastosowane za %d sekundy</item>
         <item quantity="one">Zmiany zostaną zastosowane za %d sekundę</item>
     </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="zero">Brak</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
 </resources>
