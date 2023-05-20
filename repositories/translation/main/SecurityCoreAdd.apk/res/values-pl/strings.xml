@@ -388,8 +388,6 @@
   <string name="stop_xspace_alert_title">Usuwanie kont sklonowanych aplikacji</string>
   <string name="msg_switch_file_second">Czy usunąć te pliki w Drugiej przestrzeni po ich przeniesieniu?</string>
   <string name="use_xiaoai_open">Wybudź za pomocą Mi SI</string>
-  <string name="agree">Zgadzam się</string>
-  <string name="disagree">"Nie zgadzam się"</string>
   <string name="net_work_notice">Kontrola rodzicielska musi łączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Te uprawnienia są wymagane, aby wysyłać informacje o poziomach naładowania baterii, liczbie kroków oraz lokalizacji do kontrolowanych urządzeń. Czy zgadzasz się na to?</string>
   <string name="qq_login">Zaloguj się do QQ</string>
   <string name="this_function_can_not_use_in_second_space">Ta funkcja może zostać użyta tylko w pierwszej przestrzeni</string>
@@ -706,7 +704,6 @@ Jeśli przytrzymasz przycisk przez %s sekund, wywołasz menu wyłączania telefo
     <string name="mi_pay_summary">Karta miejska/Mi Pay/Klucz elektroniczny</string>
     <string name="miuix_appcompat_edit">Edytuj</string>
     <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mtrl_chip_close_icon_content_description">Usuń: (%1$s)</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Liczba nowych powiadomień przekracza %1$d</string>
     <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
