@@ -891,7 +891,7 @@ Spróbuj inną skrzynkę odbiorczą."</string>
     <string name="saved">Zapisano, %s</string>
     <string name="saving">Zapisywanie...</string>
     <string name="sdcard_cannot_use">Nie można użyć karty SD</string>
-    <string name="search_bar_text">Wyszukaj kontakty</string>
+    <string name="search_bar_text">Wyszukaj wiadomości</string>
     <string name="search_hint">Wyszukaj wiadomości</string>
     <string name="search_result">"Wyniki wyszukiwania "</string>
     <string name="search_tabs_name_all">Wszystko</string>
