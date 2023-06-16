@@ -232,7 +232,7 @@
   <string name="micloud_dialog_sync_now_positive">Użyj danych mobilnych</string>
   <string name="micloud_dialog_sync_now_title">Połącz z Wi-Fi, aby zsynchronizować</string>
   <string name="micloud_dspt">Użyj Chmury Xiaomi do synchronizacji danych i lokalizacji urządzenia</string>
-  <string name="micloud_dspt_provision">Wykorzystaj Chmurę Xiaomi do synchronizacji danych, lokalizacji urządzenia i udostępniania rzeczy znajomym.</string>
+  <string name="micloud_dspt_provision">Możesz użyć Chmury Xiaomi do synchronizacji zdjęć, kontaktów, SMS-ów, historii połączeń, notatek i innych danych, a także lokalizacji urządzenia. Do poprawnego działania aplikacja wymaga łączności z Internetem. Synchronizacja elementów może wymagać danych mobilnych i włączenia Wi-Fi.</string>
   <string name="micloud_find_device_close_alert_content">Jeśli wyłączysz tę funkcję, nie będziesz w stanie zlokalizować swojego urządzenia, gdy je zgubisz.</string>
   <string name="micloud_find_device_close_alert_negtive">Wyłącz</string>
   <string name="micloud_find_device_close_alert_positive">Utrzymuj</string>
@@ -404,7 +404,8 @@
   <string name="micloud_space_duokan_detail">Pobierz i zarządzaj ebookami z aplikacją Duokan</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Co się stanie gdy zabraknie miejsca?&lt;/u&gt;</string>
-  <string name="micloud_space_soundrecorder_detail">Zarządzaj kopiami nagrań z dyktafonu</string>
+  <string name="micloud_space_soundrecorder_detail">"Otwórz aplikację Dyktafon i wybierz folder z elementami przechowywanymi w chmurze.
+Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach MIUI."</string>
   <string name="micloud_space_soundrecorder_title">Nagrania</string>
   <string name="micloud_storage">Pojemność</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Musisz odnowić swoją subskrypcję.</string>

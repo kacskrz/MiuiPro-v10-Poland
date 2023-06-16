@@ -352,7 +352,7 @@
   <string name="close">Zamknij</string>
   <string name="continue_operation">Kontynuuj</string>
   <string name="continue_step">Dalej</string>
-  <string name="deskclock_sleep_no_disturbance">Zegar - Zarządzaj czasem na sen - Nie przeszkadzać</string>
+  <string name="deskclock_sleep_no_disturbance">Zegar > Zarządzaj czasem na sen > Nie przeszkadzać</string>
   <string name="disagree">"Nie zgadzam się"</string>
   <string name="last_step">Wstecz</string>
   <string name="not_update">Nie teraz</string>
@@ -372,7 +372,7 @@
   <string name="sleep_notification_title">Czas pójść spać!</string>
   <string name="sleep_record">Śledź sen</string>
   <string name="sleep_record_desc">Włącz, aby zacząć rejestrowanie danych snu</string>
-  <string name="sleep_record_desc_detailed">Funkcjonalność śledzenia snu dostarczana jest przez aplikację Xiaomi Zdrowie. Po włączeniu tej funkcji aplikacja Xiaomi Zdrowie będzie automatycznie rejestrowała dane snu w oparciu o Twoje korzystanie z telefonu, statystyki aktywności, a także godziny zaśnięcia oraz ustawionej przez Ciebie pobudki w celu wyświetlania statystyk w formie wykresów. Aby śledzić sen jak najdokładniej, włącz autostart dla aplikacji Zdrowie. Wszystkie powiązane z tą funkcją dane będą gromadzone lokalnie na urządzeniu, co pozwoli Ci na łatwe zarządzanie nimi.</string>
+  <string name="sleep_record_desc_detailed">Funkcjonalność śledzenia snu dostarczana jest przez aplikację Xiaomi Zdrowie. Po włączeniu tej funkcji aplikacja Xiaomi Zdrowie będzie automatycznie rejestrowała dane snu w oparciu o Twoje korzystanie z telefonu, statystyki aktywności, a także ustawione godziny zaśnięcia i pobudki w celu wyświetlania statystyk w formie wykresów. Aby śledzić sen jak najdokładniej, włącz autostart dla aplikacji Zdrowie. Wszystkie powiązane z tą funkcją dane będą gromadzone lokalnie na urządzeniu, co pozwoli Ci na łatwe zarządzanie nimi.</string>
   <string name="sleep_record_no_data">Twoje statystyki będą pojawiać się tutaj</string>
   <string name="sleep_remind">Przypomnienie o czasie snu</string>
   <string name="sleep_time">Zaśnięcie</string>
@@ -619,4 +619,8 @@ d.MM."</string>
   <string name="notification_permission_desc">"Jeśli nie nadasz uprawnień do powiadomień, nie będziesz w stanie wyłączyć alarmów, gdy one zadzwonią. Nadać uprawnienie?"</string>
   <string name="open_notification_permission_remind">Zezwól na powiadomienia, aby móc wyłączać alarmy</string>
   <string name="miuix_appcompat_edit">Edytuj</string>
+  <string name="alarm_alert">Dzwoni alarm</string>
+  <string name="snooze_alarm_alert">Drzemka do %s</string>
+  <string name="timer_alert_pause">Minutnik wstrzymany</string>
+  <string name="timer_alert_running">Włączono minutnik</string>
 </resources>
