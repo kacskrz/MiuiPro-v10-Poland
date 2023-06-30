@@ -1684,7 +1684,7 @@ aby spersonalizować Galerię"</string>
   <string name="projection_screen_project_in_screening">Używasz teraz swojego urządzenia do przesyłania</string>
   <string name="album_cloud_list_page_title">Zarządzaj zsynchronizowanymi albumami</string>
   <string name="album_hidden_item_button_title">Odkryj</string>
-  <string name="album_hidden_page_title">Ukryj</string>
+  <string name="album_hidden_page_title">Ukryte albumy</string>
   <string name="empty_album_cloud_list_title">Brak albumów do synchronizacji</string>
   <string name="empty_album_hidden_list_title">Brak ukrytych albumów</string>
   <string name="filter_sky_hint">Niebo</string>
