@@ -983,7 +983,6 @@ Wydrukuj kopię bezprzewodowo na papierze A4."</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X_abbr">ZOOM 2X</string>
   <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">ZOOM 5X</string>
   <string name="pref_camera_zoom_mode_entry_tele_abbr">ZOOM</string>
-  <string name="pref_camera_zoom_mode_entry_ultra_abbr">B. SZEROKI</string>
   <string name="pref_camera_zoom_mode_entry_wide_abbr">SZEROKI</string>
   <string name="pref_camera_zoom_mode_title_abbr">MODUŁ</string>
   <string name="miservice_notification_content">Dotknij, aby dowiedzieć się więcej</string>
@@ -1202,7 +1201,7 @@ i dopasuj skanowane dokumenty"</string>
   <string name="timer_burst">Wyzwalacz zdjęć seryjnych</string>
   <string name="timer_burst_manu_param_interval">Przedział czasowy bez ekspozycji</string>
   <string name="timer_burst_param_interval">Przedział czasowy</string>
-  <string name="timer_burst_param_total_count">Ilość zdjęć</string>
+  <string name="timer_burst_param_total_count">Liczba zdjęć</string>
   <string name="timer_burst_setting_total_count">Obecnie: %1$s</string>
   <string name="color_effect_entry_blackice">Czarny lód</string>
   <string name="color_effect_entry_orange">Limonka</string>
