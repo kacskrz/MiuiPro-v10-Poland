@@ -1050,7 +1050,7 @@
   <string name="main_primary_message_leisure_overlimit">Przekroczono limit danych poza szczytem</string>
   <string name="main_primary_message_leisure_remain">Dane poza szczytem</string>
   <string name="main_primary_message_traffic_overlimit">Przekroczono limit danych</string>
-  <string name="main_primary_message_traffic_remain">Dane mobilne</string>
+  <string name="main_primary_message_traffic_remain">Pozostałe dane</string>
   <string name="main_primary_message_traffic_warning">Ostrzeżenie o użyciu danych</string>
   <string name="main_purchase_tips">Promocja</string>
   <string name="main_tc_over">Pomyślnie skalibrowano</string>
@@ -5735,4 +5735,10 @@ Włączenie jednego efektu wyłączy pozostałe."</string>
     <string name="popular_action_video_clean_title_global">Wyczyść pamięć podręczną filmów, aby zwolnić miejsce</string>
     <string name="storage_activity_title_personage">Osobiste</string>
     <string name="storage_activity_title_work">Praca</string>
+    <string name="global_satisfaction_notification_channel">Ankieta dot. zadowolenia użytkownika</string>
+    <string name="permission_instruction_get_identifier">Dostęp do ID urządzenia</string>
+    <string name="permission_instruction_read_history">Dostęp do historii przeglądania</string>
+    <string name="permission_instruction_receive_sms">Otrzymywanie SMS-ów i MMS-ów</string>
+    <string name="permission_instruction_record_screen">Dostęp do zawartości ekranu</string>
+    <string name="permission_instruction_transfer_data_to_other_devices">Przenoszenie danych na inne urządzenia</string>
 </resources>
