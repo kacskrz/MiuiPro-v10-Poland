@@ -1340,4 +1340,9 @@ Zrób sobie przerwę!"</item>
         <item quantity="one">"%d aplikacja może uruchamiać się w tle"</item>
         <item quantity="few">"%d aplikacje mogą uruchamiać się w tle"</item>
     </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Aktualizuj %d aplikacji</item>
+        <item quantity="few">Aktualizuj %d aplikacje</item>
+        <item quantity="one">Aktualizuj %d aplikację</item>
+    </plurals>
 </resources>
