@@ -967,7 +967,7 @@ Aby dodać kontakty do ulubionych:
     <string name="remove_blacklist">Odblokuj</string>
     <string name="remove_blacklist_dialog_message">Pokazać połączenia i wiadomości z wybranego numeru?</string>
     <string name="remove_blacklist_dialog_title">Odblokować ten numer telefonu?</string>
-    <string name="remove_duplicate">"MIUI pomoże wyszukać i scalić zduplikowane kontakty.
+    <string name="remove_duplicate">"System pomoże wyszukać i scalić zduplikowane kontakty.
 
 Aby rozpocząć, dotknij ikony Scalania na dole swojego ekranu."</string>
     <string name="report_inquiry_mms">Zgłoś SMS</string>
@@ -1622,4 +1622,8 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="scan_not_installed_china">Najpierw zainstaluj Skaner</string>
   <string name="scan_not_installed_global">Najpierw zainstaluj Skaner</string>
   <string name="preference_feedback_title">Opinia</string>
+  <string name="miuix_item_view_role_description">Karta</string>
+  <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
+  <string name="miuix_navigator_multiple_choice">Wybierz</string>
+  <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
 </resources>

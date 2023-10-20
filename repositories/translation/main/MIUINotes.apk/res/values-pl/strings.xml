@@ -73,7 +73,7 @@
     <string name="dialog_share_as_pic">Udostępnij notatkę jako obrazek</string>
     <string name="note_description_title">O Notatkach</string>
     <string name="note_description_content">Aplikacja Notatki to doskonałe narzędzie do zapisywania swoich pomysłów. Ma wbudowane przypomnienia i synchronizuje twoje elementy z Chmurą Xiaomi, tak abyś miał do nich dostęp z każdego miejsca. Po odinstalowaniu aplikacji, taka funkcjonalność nie będzie dostępna.</string>
-    <string name="db_downgrade_clear_date_reminder">Przełączenie się na inną wersję MIUI wymaga wyczyszczenia danych aplikacji dla Notatek. Zanim to zrobisz, upewnij się, że wykonałeś kopię zapasową swoich notatek do Chmurze Xiaomi.</string>
+    <string name="db_downgrade_clear_date_reminder">"Zmiana wersji systemu wymaga wyczyszczenia danych aplikacji Notatki. Przed wykonaniem tej czynności upewnij się, że masz wykonaną kopię notatek w chmurze Xiaomi."</string>
     <string name="db_downgrade_clear_button">Wyczyść dane aplikacji</string>
     <string name="cloud_service_state_open_reminder">Włącz synchronizację z Chmurą Xiaomi, aby synchronizować notatki.</string>
     <string name="toast_cancel_to_insert_image">Nie udało się dodać obrazka.</string>
@@ -955,4 +955,13 @@ Zezwól aplikacji Notatki na nagrywanie dźwięku."</string>
   <string name="foler_pinned">Przypięte foldery</string>
   <string name="new_alert_title_delete">Usuń notatki</string>
   <string name="new_sync_desc_state_disable">Włącz synchronizację notatek, zadań i innych rzeczy z chmurą</string>
+  <string name="insert_image_menu_take_photo_by_local_device">Zrób zdjęcie tym urządzeniem</string>
+  <string name="insert_image_menu_take_photo_by_remote_device">Zrób zdjęcie %1$s</string>
+  <string name="miui_penengine_toast_add_to_clip">Pomyślnie skopiowano</string>
+  <string name="miuix_item_view_role_description">Karta</string>
+  <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
+  <string name="miuix_navigator_multiple_choice">Wybierz</string>
+  <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
+  <string name="pad_dialog_take_photo_by_device">Robienie zdjęcia %1$s</string>
+  <string name="permission_xiaoai_desc_m"><Data>Aby dostarczać usługi transkrypcji głosu na tekst, SI Mi msui gromadzić dźwięk i numer IMEI tego urządzenia. Zanim przejdziesz dalej, przeczytaj i zaakceptuj postanowienia &lt;a href=\"%1$s\">Stanowiska Notatek dot. udostępniania danych stronom trzecim&lt;/a>. Możesz także dowiedzieć się więcej na ten temat, czytając &lt;a href=\"%2$s\">Politykę prywatności&lt;/a> SI Mi.</Data></string>
 </resources>

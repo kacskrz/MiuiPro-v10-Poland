@@ -19,10 +19,10 @@
     <string name="config_scenario_policies_title">Scenariusze</string>
     <string name="scenario_policies_summary">Zastosuj różne strategie oszczędzania energii dla poszczególnych scenariuszy.</string>
     <string name="sleep_config_enhance_title">Tryb uśpienia</string>
-    <string name="sleep_config_enhance_description">Gdy MIUI wykryje, że śpisz, zamknie aplikacje w tle, ograniczy łączność NFC, Bluetooth, GPS, użycie danych mobilnych i Wi-Fi, a także nie podświetli ekranu przy powiadomieniach.</string>
-    <string name="sleep_config_enhance_description_non_nfc">Gdy MIUI wykryje, że śpisz, zamknie aplikacje w tle, ograniczy łączność Bluetooth, GPS, użycie danych mobilnych i Wi-Fi, a także nie podświetli ekranu przy powiadomieniach.</string>
+    <string name="sleep_config_enhance_description">Gdy system wykryje, że śpisz, zamknie aplikacje w tle, ograniczy łączność NFC, Bluetooth, GPS, użycie danych mobilnych i Wi-Fi, a także nie podświetli ekranu przy powiadomieniach.</string>
+    <string name="sleep_config_enhance_description_non_nfc">Gdy system wykryje, że śpisz, zamknie aplikacje w tle, ograniczy łączność Bluetooth, GPS, użycie danych mobilnych i Wi-Fi, a także nie podświetli ekranu przy powiadomieniach.</string>
     <string name="nonui_mode_config_title">Tryb nieinteraktywny</string>
-    <string name="nonui_mode_config_description">Gdy MIUI wykryje, że nie korzystasz z urządzenia, nie będzie podświetlać ekranu przy nowych powiadomieniach, wyłączy diodę powiadomień, czytnik linii papilarnych oraz sterowanie dotykiem.</string>
+    <string name="nonui_mode_config_description">Gdy system wykryje, że nie korzystasz z urządzenia, nie będzie podświetlać ekranu przy nowych powiadomieniach, wyłączy diodę powiadomień, czytnik linii papilarnych oraz sterowanie dotykiem.</string>
     <string name="power_center">Optymalizacja baterii</string>
     <string name="power_usage">Użycie baterii</string>
     <string name="power_mode">Tryb zasilania</string>
@@ -55,7 +55,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="config_restrict_function_title">Ogranicz aplikacje w tle</string>
     <string name="config_restrict_running_title">Zamknij aplikację</string>
     <string name="config_restrict_running_warning">Aplikacje w tle zostaną zamknięte. Może to spowodować ich niepoprawne działanie.</string>
-    <string name="config_description">MIUI może identyfikować aplikacje ze specyficznymi procesami w tle (np. zarządzające wiadomościami, nawigacyjne lub odtwarzające multimedia), i zastosować Oszczędzanie baterii, które nie wpłynie na aplikacje w tle.</string>
+    <string name="config_description">Urządzenie może identyfikować aplikacje ze specyficznymi procesami w tle (np. zarządzające wiadomościami, nawigacyjne lub odtwarzające multimedia), i zastosować Oszczędzanie baterii, które nie wpłynie na aplikacje w tle.</string>
     <string name="config_suggest_description">Zastosuj sugerowane ustawienia dla różnych aplikacji</string>
     <string name="config_no_restrict_description">Oszczędzanie energii nie ogranicza aplikacji w tle</string>
     <string name="config_restrict_function_description">Zamknij aplikacje po 10 minutach aktywności w tle</string>
@@ -118,7 +118,7 @@ Aby mieć pewność, że możesz normalnie korzystać ze wszystkich funkcji urz�
     <string name="power_tools_fps">FPS</string>
     <string name="cloud_russion_addr">Aktualizacja danych serwera rosyjskiego</string>
     <string name="accessibility_service_description">Oszczędzanie baterii</string>
-    <string name="sleep_config_enhance_description_pad">"Gdy MIUI wykryje, że śpisz, zamknie aplikacje w tle, ograniczy korzystanie z Bluetooth i Wi-Fi, a także nie będzie wybudzać ekranu, gdy nadejdą nowe powiadomienia."</string>
+    <string name="sleep_config_enhance_description_pad">"Gdy system wykryje, że śpisz, zamknie aplikacje w tle, ograniczy korzystanie z Bluetooth i Wi-Fi, a także nie będzie wybudzać ekranu, gdy nadejdą nowe powiadomienia."</string>
     <string name="high_temp_benchmark_state">Przegrzewanie</string>
     <string name="high_temp_benchmark_state_message">"Wygląda na to, że Twoje urządzenie jest obecnie zbyt gorące. Uruchom tę aplikację, gdy się ono ochłodzi: "</string>
     <string name="title_history">Historia</string>

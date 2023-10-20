@@ -137,8 +137,8 @@
   <string name="delete_wild_sims_title">Usuń wybrane numery</string>
   <string name="delivery_report_activity">Raport o doręczeniu</string>
   <string name="delivery_toast_body">Wiadomość odebrana przez: %s</string>
-  <string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, MIUI musi przesłać na swoje serwery numer telefonu (%1$s), treść wiadomości oraz informacje o pobliskiej lokalizacji.</string>
-  <string name="dialog_message_sms_report">Wiadomości oznaczone jako spam oraz informacje o nadawcy zostaną wysłane do MIUI po ich zgłoszeniu. Zostaną wykorzystane tylko do poprawienia jakości filtrów spamowych MIUI.</string>
+  <string name="dialog_message_fake_cell_detect_error">Poprawić informacje o tej wiadomości? Aby to zrobić, Xiaomi musi przesłać na swoje serwery numer telefonu (%1$s), treść wiadomości oraz informacje o pobliskiej lokalizacji.</string>
+  <string name="dialog_message_sms_report">Wiadomości oznaczone jako spam oraz informacje o nadawcy zostaną wysłane do Xiaomi po ich zgłoszeniu. Zostaną wykorzystane tylko do poprawienia jakości filtrów spamowych Xiaomi.</string>
   <string name="dialog_title_fake_cell_detect_error">Wprowadzenie poprawek</string>
   <string name="disable_notifications_dialog_message">Zatrzymać zduplikowane powiadomienia o wiadomościach od domyślnej aplikacji SMS?</string>
   <string name="disabled">Wyłączone</string>
@@ -326,13 +326,13 @@
   <string name="mx_btn_enable_now">Włącz teraz</string>
   <string name="mx_count_dspt">Wysłanych SMS: %1$d / MMS: %2$d</string>
   <string name="mx_current_status">Ustawienia</string>
-  <string name="mx_dspt">Wysyłaj za darmo wiadomości SMS i MMS do innych urządzeń MIUI przy połączeniu z Wi-Fi.</string>
-  <string name="mx_dspt_listview">Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI</string>
-  <string name="mx_dspt_provision">Wiadomości Mi pozwalają na wysyłanie wiadomości do innych użytkowników MIUI bez opłat przez internet. Reaktywacja Wiadomości Mi może wymagać wysłania SMS. Twój operator naliczy opłatę za tę wiadomość. Poza tym, usługa wymaga dostępu do danych mobilnych, aby działać poprawnie.</string>
+  <string name="mx_dspt">Wysyłaj za darmo wiadomości SMS i MMS do innych urządzeń Xiaomi przy połączeniu z Wi-Fi.</string>
+  <string name="mx_dspt_listview">Wysyłaj za darmo wiadomości przez Internet do innych urządzeń Xiaomi</string>
+  <string name="mx_dspt_provision">Wiadomości Mi pozwalają na wysyłanie wiadomości do innych użytkowników Xiaomi bez opłat przez internet. Reaktywacja Wiadomości Mi może wymagać wysłania SMS. Twój operator naliczy opłatę za tę wiadomość. Poza tym, usługa wymaga dostępu do danych mobilnych, aby działać poprawnie.</string>
   <string name="mx_dspt_provision_ex2">Polityka prywatności</string>
   <string name="mx_enable">Wiadomości Mi</string>
   <string name="mx_enable_ex">Mi Message i VoIP</string>
-  <string name="mx_enable_popup_msg">Wiadomości Mi umożliwiają darmowe wysyłanie SMS do innych urządzeń MIUI.</string>
+  <string name="mx_enable_popup_msg">Wiadomości Mi umożliwiają darmowe wysyłanie SMS do innych urządzeń Xiaomi.</string>
   <string name="mx_filter_message_from_stranger">Blokuj wiadomości Mi od nieznanych numerów</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">Wciąż będzie można otrzymywać wiadomości SMS od nieznanych numerów. W każdej chwili możesz włączyć lub wyłączyć tę funkcję w SMS &gt; Ustawienia.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokuj wiadomości Mi od nieznanych numerów</string>
@@ -346,7 +346,7 @@
   <string name="mx_reactivate">Aktywuj ponownie Wiadomości Mi</string>
   <string name="mx_recommend_msg">Dotknij, by włączyć Wiadomości Mi</string>
   <string name="mx_stranger_recommend_msg">Dotknij, aby zablokować wiadomości Mi od nieznanych numerów</string>
-  <string name="mx_type_guide">Wiadomości Mi umożliwiają darmowe wysyłanie SMS do innych użytkowników MIUI</string>
+  <string name="mx_type_guide">Wiadomości Mi umożliwiają darmowe wysyłanie SMS do innych użytkowników Xiaomi</string>
   <string name="mx2_type_description">[%s]</string>
   <string name="need_download">Synchronizowanie…</string>
   <string name="networking_allow_continue">Zezwól</string>
@@ -417,7 +417,7 @@
   <string name="pref_sms_storage_title">Pamięć</string>
   <string name="pref_sms_theme_title">Wyświetlanie</string>
   <string name="pref_summary_allow_si_sl_push">Zezwól na wczytywanie treści z witryn internetowych w wiadomościach</string>
-  <string name="pref_summary_allow_upload_message_info">Wiadomości oznaczone jako spam oraz informacje o nadawcy zostaną wysłane do MIUI po ich zgłoszeniu.</string>
+  <string name="pref_summary_allow_upload_message_info">Wiadomości oznaczone jako spam oraz informacje o nadawcy zostaną wysłane do Xiaomi po ich zgłoszeniu.</string>
   <string name="pref_summary_auto_delete">Usuń stare wiadomości przy osiągnięciu limitu</string>
   <string name="pref_summary_delete_limit">%1$s wiadomości w konwersacji</string>
   <string name="pref_summary_delivery_reports">Pokaż raport doręczenia (\"✓\") dla każdej wysłanej wiadomości</string>
@@ -428,7 +428,7 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Automatycznie pobierz zdjęcia i wideo wiadomości w roamingu</string>
   <string name="pref_summary_notification_body_enabled">Pokazuj podgląd wiadomości na ekranie blokady i pasku powiadomień</string>
   <string name="pref_summary_off_system_mms_priority">Użyj innej aplikacji do wysyłania i odbierania MMS</string>
-  <string name="pref_summary_on_system_mms_priority">Ustaw aplikację systemową MIUI jako domyślną do wysyłania i odbierania MMS</string>
+  <string name="pref_summary_on_system_mms_priority">Ustaw aplikację systemową Xiaomi jako domyślną do wysyłania i odbierania MMS</string>
   <string name="pref_summary_send_delivery_reports">Wyślij raporty dostarczenia wiadomości nadawcy, kiedy otrzymasz wiadomość multimedialną</string>
   <string name="pref_summary_wake_up_screen">Podświetl ekran przy otrzymaniu wiadomości</string>
   <string name="pref_switch_sdk_setting">Zmień dostawcę inteligentnych wiadomości SMS</string>
@@ -440,7 +440,7 @@
   <string name="pref_title_delivery_reports">Raport doręczenia</string>
   <string name="pref_title_fwd_sender_info">Przekaż informacje o nadawcy</string>
   <string name="pref_title_manage_sim_messages">Wiadomości na karcie SIM</string>
-  <string name="pref_title_miui_card">Wyślij przez MIUI Card</string>
+  <string name="pref_title_miui_card">Wyślij przez Xiaomi Card</string>
   <string name="pref_title_mms_auto_retrieval">Automatycznie pobierz zawartość MMS</string>
   <string name="pref_title_mms_delete">Limit wiadomości MMS</string>
   <string name="pref_title_mms_read_reports">Raporty przeczytania MMS</string>
@@ -685,7 +685,7 @@
   <string name="warning_show">Wysyłanie wiadomości za %d s</string>
   <string name="wild_msg_processing">Przetwarzanie…</string>
   <string name="wild_msg_title">Wybierz nr do synchronizacji</string>
-  <string name="yellowpage_recommend_msg">Sprawdź funkcje wiadomości od MIUI</string>
+  <string name="yellowpage_recommend_msg">Sprawdź funkcje wiadomości od Xiaomi</string>
   <string name="yes">OK</string>
   <string name="yesterday">Wczoraj</string>
     <string name="attach_rcs_file">Plik</string>
@@ -693,11 +693,11 @@
     <string name="can_not_send_by_rcs">Nie można użyć China Mobile Messaging</string>
     <string name="converting_vcard_failed">Nie udało się skonwertować kontaktu</string>
     <string name="delivery_toast_body_more">Wiadomość odebrana przez %1$s i %2$d inne osoby</string>
-    <string name="dialog_message_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi.</string>
-    <string name="dialog_message_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI i użytkowników China Mobile bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Zgadzasz się?</string>
+    <string name="dialog_message_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi.</string>
+    <string name="dialog_message_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi i użytkowników China Mobile bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Zgadzasz się?</string>
     <string name="dialog_message_networking">Aplikacja SMS musi używać Książki telefonicznej w celu dostarczania usługi rozpoznawania ID nadawcy. Aplikacje: SMS i Książka telefoniczna muszą połączyć się z Internetem i uzyskać dostęp do Twojej lokalizacji, aby działać normalnie. Zgadzasz się?</string>
-    <string name="dialog_message_networking_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
-    <string name="dialog_message_networking_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI i użytkowników China Mobile bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
+    <string name="dialog_message_networking_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
+    <string name="dialog_message_networking_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi i użytkowników China Mobile bez ponoszenia opłat. Do aktywacji Wiadomości Mi wymagana jest wychodząca wiadomość SMS. Twój operator obciąży Cię za tę wiadomość. Musisz się zgodzić na naszą \"%1$s\" i \"%2$s\" przed użyciem Wiadomości Mi. Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
     <string name="dialog_message_networking_rcs">China Mobile Messaging umożliwia wysyłanie wiadomości do innych użytkowników China Mobile bez ponoszenia opłat. Przed użyciem China Mobile Messaging musisz wyrazić zgodę na \"%1$s\" i \"%2$s\". Wiadomości muszą łączyć się z Internetem i uzyskiwać dostęp do Twojej lokalizacji, aby zapewnić Smart Wiadomości, rozpoznawanie Sender ID i inne usługi. Zgadzasz się?</string>
     <string name="dialog_message_rcs">China Mobile Messaging umożliwia wysyłanie wiadomości do innych użytkowników China Mobile bez ponoszenia opłat. Przed użyciem China Mobile Messaging musisz wyrazić zgodę na \"%1$s\" i \"%2$s\". Zgadzasz się?</string>
     <string name="dialog_title_mx_rcs">Wiadomości Mi</string>
@@ -746,8 +746,8 @@
     <string name="rcs_summary_silence_message">Powiadomienia o wiadomościach ciszy, kiedy działa klient na komputeze</string>
     <string name="rcs_wait_for_retry_text">Oczekiwanie…</string>
     <string name="recommend_bar_cancel">Ignoruj</string>
-    <string name="recommend_bar_message_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI bez ponoszenia opłat.</string>
-    <string name="recommend_bar_message_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń MIUI i użytkowników China Mobile bez ponoszenia opłat.</string>
+    <string name="recommend_bar_message_mx">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi bez ponoszenia opłat.</string>
+    <string name="recommend_bar_message_mx_rcs">Wiadomości Mi umożliwiają wysyłanie wiadomości do innych urządzeń Xiaomi i użytkowników China Mobile bez ponoszenia opłat.</string>
     <string name="recommend_bar_message_rcs">Wiadomości China Mobile pozwalają wysyłać wiadomości do innych użytkowników bez ponoszenia opłat.</string>
     <string name="recommend_bar_message_smart_message">Kopiuj jednorazowe hasła, śledź paczki, używaj prostych menu i więcej</string>
     <string name="recommend_bar_ok">Włącz</string>
@@ -896,7 +896,7 @@ Jeśli nie nadasz wymaganych uprawnień bądź nie zezwolisz na gromadzenie bąd
   <string name="system_permission_perm_read_numbers">Odczyt numerów telefonów</string>
   <string name="system_permission_perm_send_mms">Wysyłanie MMS-ów</string>
   <string name="cloud_recommend_view_tip">Włącz synchronizację z chmurą, aby przywrócić ważne wiadomości w dowolnym momencie</string>
-  <string name="mx_main_purpose_short">Wiadomości w Chmurze pozwalają użytkownikom MIUI wysyłać i otrzymywać wiadomości od innych użytkowników MIUI bez żadnych opłat.</string>
+  <string name="mx_main_purpose_short">Wiadomości w Chmurze pozwalają użytkownikom Xiaomi wysyłać i otrzymywać wiadomości od innych użytkowników Xiaomi bez żadnych opłat.</string>
   <string name="feature_mx">Wiadomości w Chmurze</string>
   <string name="feature_mx_summary"><b>Wiadomości w Chmurze pozwalają Ci na wysyłanie wiadomości do innych użytkowników tej usługi przez Internet bez żadnych opłat.</b>. Do jej aktywacji może być wymagane wysłanie SMS-a, za którego operator może obciążyć Cię opłatą. Przed użyciem tej funkcji przeczytaj i zaakceptuj warunki <font color="#B3000000"><a href="http://url1">Umowy użytkownika</a></font> oraz <font color="#B3000000"><a href="http://url2">Polityki prywatności</a></font>.</string>
   <string name="feature_smart_sms">Inteligentne wiadomości</string>
@@ -1278,8 +1278,8 @@ Sprawdź kartę SIM."</string>
     <string name="error_invalid_phone">Nieprawidłowy numer telefonu</string>
     <string name="mx_activate_status_desc_query_activte_info_translation_for_pad">Sprawdzanie SIM…</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail_translation_for_pad">"Nie można aktywować Wiadomości w Chmurze"</string>
-    <string name="mx_dspt_listview_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI"</string>
-    <string name="mx_dspt_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń MIUI"</string>
+    <string name="mx_dspt_listview_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń Xiaomi"</string>
+    <string name="mx_dspt_translation_for_pad">"Wysyłaj za darmo wiadomości przez Internet do innych urządzeń Xiaomi"</string>
     <string name="no_conversation_selected">Wybierz konwersację, aby wyświetlić</string>
     <string name="perm_purpose_rcs_phone_state_translation_for_pad">Dostęp do IMEI w celu identyfikacji urządzenia</string>
     <string name="pref_title_ringtone_repeat_summary_translation_for_pad">Odtwórz dźwięk, gdy nadejdzie wiadomość przy wyłączonym ekranie</string>
@@ -1429,4 +1429,8 @@ Spróbuj ponownie."</string>
 Spróbuj ponownie."</string>
     <string name="cloud_space_not_enough">Brak miejsca w Chmurze. Ulepsz swój plan, aby zsychronizować ostatnie elementy.</string>
     <string name="fail_to_add_image">"Nie udało się uzyskać dostępu do skopiowanych elementów"</string>
+    <string name="miuix_item_view_role_description">Karta</string>
+    <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
+    <string name="miuix_navigator_multiple_choice">Wybierz</string>
+    <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
 </resources>

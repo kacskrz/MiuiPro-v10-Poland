@@ -405,7 +405,7 @@
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;Co się stanie gdy zabraknie miejsca?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">"Otwórz aplikację Dyktafon i wybierz folder z elementami przechowywanymi w chmurze.
-Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach MIUI."</string>
+Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach."</string>
   <string name="micloud_space_soundrecorder_title">Nagrania</string>
   <string name="micloud_storage">Pojemność</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Musisz odnowić swoją subskrypcję.</string>
@@ -445,15 +445,15 @@ Upewnij się, że dodałeś odpowiednie konto Xiaomi w ustawieniach MIUI."</stri
   <string name="microsoft_cloud_price">Około 80 RMB na rok</string>
   <string name="more_activity_in_upgrade_space">Dowiedz się więcej na &lt;a href=\"http://i.mi.com\"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Wiadomości w chmurze</string>
-  <string name="mx_dspt_provision">Wiadomości w chmurze pozwalają wysyłać SMS do innych użytkowników MIUI bez ponoszenia opłat.\n\nMożesz zawsze wyłączyć tę funkcję w Ustawieniach.</string>
+  <string name="mx_dspt_provision">Wiadomości w chmurze pozwalają wysyłać SMS do innych użytkowników Xiaomi bez ponoszenia opłat.\n\nMożesz zawsze wyłączyć tę funkcję w Ustawieniach.</string>
   <string name="mx_dspt_provision_privacy">Funkcja może wymagać twojego numeru telefonu. Uruchomienie usługi może wymagać wysłania SMS. Twój operator naliczy opłatę za tę wiadomość.\n\nFunkcja szyfruje i przesyła ID urządzenia na serwery Xiaomi.</string>
   <string name="mx_dspt_provision_privacy_2_sim">Funkcja może wymagać twojego numeru telefonu. Uruchomienie usługi może wymagać wysłania 2 SMS. Twój operator naliczy opłatę za te wiadomości.\n\nFunkcja szyfruje i przesyła ID urządzenia na serwery Xiaomi.</string>
   <string name="mx_dspt_provision_privacy_no_sim">Funkcja może wymagać twojego numeru telefonu. Uruchomienie usługi może wymagać wysłania SMS, po wykryciu karty SIM. Twój operator naliczy opłatę za tę wiadomość.\n\nFunkcja szyfruje i przesyła ID urządzenia na serwery Xiaomi.</string>
-  <string name="mx_dspt_provision_with_voip">Dzwoń do innych użytkowników MIUI za darmo wykorzystując Internet. Możesz zawsze wyłączyć tę funkcję w Ustawieniach. Usługa VoIP jest obsługiwana przez Weihui. Sprawdź politykę prywatności Weihui</string>
+  <string name="mx_dspt_provision_with_voip">Dzwoń do innych użytkowników Xiaomi za darmo wykorzystując Internet. Możesz zawsze wyłączyć tę funkcję w Ustawieniach. Usługa VoIP jest obsługiwana przez Weihui. Sprawdź politykę prywatności Weihui</string>
   <string name="mx_dspt_provision_with_voip2">Polityka prywatności</string>
   <string name="mx_sub_dspt_provision">Wiadomości w chmurze</string>
   <string name="mx_sub_dspt_provision_with_voip">Dzwonienie przez internet</string>
-  <string name="mx_voip_dspt">MIUI VoIP</string>
+  <string name="mx_voip_dspt">Xiaomi VoIP</string>
   <string name="network_unconnected">Nie udało się połączyć z siecią</string>
   <string name="next">Dalej</string>
   <string name="no_sim">Nie wykryto karty SIM</string>
@@ -592,7 +592,7 @@ Przed użyciem funkcji Znajdź urządzenie przeczytaj i zaakceptuj warunki"&lt;a
   <string name="sync_dspt_entrance_provision">"Synchronizuj swoje zdjęcia, notatki i inne elementy pomiędzy wszystkimi urządzeniami. Dostęp do zsynchronizowanych danych możesz uzyskać na %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Dowiedz się więcej</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Nie skorzystam</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">System MIUI może zapisywać kopie osobistych danych telefonu w chmurze. Korzystanie z Chmury Xiaomi jest całkowicie darmowe.</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">System może zapisywać kopie osobistych danych telefonu w chmurze. Korzystanie z Chmury Xiaomi jest całkowicie darmowe.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Użyj Chmury Xiaomi</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nie chcesz korzystać z Chmury Xiaomi?</string>
   <string name="sync_dspt_entrance_provision_network">Aplikacja wymaga połączenia z internetem do poprawnego działania. Synchronizacja danych może wymagać danych mobilnych lub połączenia Wi-Fi.</string>
@@ -985,7 +985,7 @@ Informacja może nie zostać wysłana, gdy zasięg sieci jest kiepski."</string>
   <string name="provision_back">Wstecz</string>
   <string name="provision_next">Dalej</string>
   <string name="provision_skip_underline">Pomiń</string>
-  <string name="sync_dspt_entrance_provision_confirm_content_v2">"System MIUI może zapisywać kopie osobistych danych urządzenia w chmurze. Korzystanie z Chmury Xiaomi jest całkowicie darmowe."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content_v2">"System może zapisywać kopie osobistych danych urządzenia w chmurze. Korzystanie z Chmury Xiaomi jest całkowicie darmowe."</string>
   <string name="sync_dspt_entrance_provision_v2">Synchronizuj w Chmurze swoje zdjęcia, kontakty, historię połączeń czy SMS. Miej dostęp do swoich danych na stronie %s.</string>
   <string name="retain_data_high_quality_photo_waring_message">Kopie Twoich zdjęć i filmów w wysokiej jakości zostaną usunięte z Galerii po wylogowaniu. Oryginalne pliki wciąż będą znajdować się w Chmurze. Możesz również pobrać oryginalne pliki przed wylogowaniem się.</string>
   <string name="retain_data_high_quality_photo_waring_title">"Obrazy w wysokiej jakości nie będą dostępne"</string>

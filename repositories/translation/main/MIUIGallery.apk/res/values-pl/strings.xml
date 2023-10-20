@@ -900,7 +900,7 @@ aby spersonalizować Galerię"</string>
     <string name="search_feedback_task_request_award_failed">Nie udało się odebrać nagrody. Spróbuj ponownie później.</string>
     <string name="search_feedback_task_requesting_award">Odbieranie nagrody…</string>
     <string name="search_feedback_user_notice">Przeczytałem i zaakceptowałem %s.</string>
-    <string name="search_feedback_user_policy">Politykę prywatności Algorytmu programu AI Galerii MIUI</string>
+    <string name="search_feedback_user_policy">Politykę prywatności Algorytmu programu AI Galerii</string>
     <string name="search_hint">Dotknij, aby wyszukać</string>
     <string name="search_image_result_title">Wyniki wyszukiwania</string>
     <string name="search_login_now">Zaloguj</string>
@@ -1151,7 +1151,7 @@ aby spersonalizować Galerię"</string>
     <string name="video_editor_unsupport_audio_file">Ten format audio nie jest wspierany</string>
     <string name="video_err">Nie można odtworzyć wideo</string>
     <string name="video_not_exist">Plik wideo nie istnieje</string>
-    <string name="view_by_gallery_tip">Galeria MIUI</string>
+    <string name="view_by_gallery_tip">Galeria</string>
     <string name="view_face_album">Pokaż album</string>
     <string name="view_queuing_status">Sprawdź status</string>
     <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
@@ -1422,7 +1422,7 @@ aby spersonalizować Galerię"</string>
   <string name="story_download_failed_for_notwork">Nie udało się pobrać. Połącz się z siecią i spróbuj ponownie.</string>
   <string name="story_option_menu_delete">Usuń wspomnienie</string>
   <string name="story_photo_downloading">Pobieranie…</string>
-  <string name="alert_selection_description">MIUI porównuje podobne zdjęcia, a najlepsze oznacza gwiazdką.</string>
+  <string name="alert_selection_description">System porównuje podobne zdjęcia, a najlepsze oznacza gwiazdką.</string>
   <string name="alert_selection_title">Wybierz najlepsze ujęcie</string>
   <string name="backup_file_over_size_desc">"Kopia zdjęć większych niż %1$s oraz filmów większych niż %2$s nie jest możliwa."</string>
   <string name="collage_ratio_text">Proporcje</string>
@@ -1462,7 +1462,7 @@ aby spersonalizować Galerię"</string>
   <string name="select_all">Zaznacz wszystko</string>
   <string name="generate_story_summary">Wykonaj wystarczająco dużo zdjęć, podłącz ładowarkę i wyłącz ekran, aby pojawiły się wspomnienia. Już wygenerowane wspomnienia nie znikną po wyłączeniu tej funkcji.</string>
   <string name="generate_story_title">Wspomnienia</string>
-  <string name="image_selection_summary">MIUI będzie analizować podobne do siebie zdjęcia i oznaczać najlepsze z nich</string>
+  <string name="image_selection_summary">System będzie analizować podobne do siebie zdjęcia i oznaczać najlepsze z nich</string>
   <string name="image_selection_title">Wybierz najlepsze ujęcie</string>
   <string name="operation_set_video_wallpaper">Ustaw jako tapetę wideo</string>
   <string name="recommend_category_title">"Najlepsze w Galerii"</string>
@@ -3702,4 +3702,21 @@ Masz czas do %1$s, aby przenieść elementy do Zdjęć Google lub je pobrać ze 
   <string name="manager_backup">Zarządzaj</string>
   <string name="open_backup">Włącz</string>
   <string name="select_backup">Wybierz kopię zapasową</string>
+  <string name="miuix_item_view_role_description">Karta</string>
+  <string name="miuix_navigator_content_switch_description">Pokaż pasek boczny</string>
+  <string name="miuix_navigator_multiple_choice">Wybierz</string>
+  <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
+  <string name="segment_change_background">Zmień tło</string>
+  <string name="segment_copy">Kopiuj</string>
+  <string name="segment_copy_fail">"Nie udało się skopiować"</string>
+  <string name="segment_copy_processing">Kopiowanie…</string>
+  <string name="segment_copy_success">Pomyślnie skopiowano</string>
+  <string name="segment_no_result">"Nie udało się wykryć obiektów na tym zdjęciu"</string>
+  <string name="segment_save">Zapisz</string>
+  <string name="segment_save_fail">"Nie udało się zapisać"</string>
+  <string name="segment_save_processing">Zapisywanie…</string>
+  <string name="segment_save_success">Zapisano w Galerii</string>
+  <string name="segment_send">Wyślij</string>
+  <string name="segment_send_processing">Przygotowywanie do wysłania…</string>
+  <string name="text_segment">Wycinek zdjęcia</string>
 </resources>
