@@ -137,7 +137,6 @@
   <string name="accessibility_quick_settings_bluetooth_off">Bluetooth off.</string>
   <string name="accessibility_quick_settings_bluetooth_on">Bluetooth on.</string>
   <string name="accessibility_quick_settings_close">Close panel.</string>
-  <string name="accessibility_quick_settings_collapse">Close quick settings.</string>
   <string name="accessibility_quick_settings_color_inversion_changed_off">Color inversion turned off.</string>
   <string name="accessibility_quick_settings_color_inversion_changed_on">Color inversion turned on.</string>
   <string name="accessibility_quick_settings_data_saver_changed_off">Data saver turned off.</string>
@@ -859,7 +858,6 @@
   <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Wpisałeś nieprawidłowy kod PIN %1$d razy. \n\nSpróbuj ponownie za %2$d s.</string>
   <string name="kg_wrong_password">Nieprawidłowe hasło</string>
   <string name="kg_wrong_pattern">Nieprawidłowy wzór</string>
-  <string name="kg_wrong_pin">Nieprawidłowy PIN</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Pokaż</string>
   <string name="launch_defaults_none">Nie ustawiono domyślnych</string>
@@ -3514,7 +3512,6 @@ kliknij dwukrotnie"</string>
     <string name="strong_toast_quick_charging">Szybkie ładowanie</string>
     <string name="sunrise_time_format">Wschód słońca: %s</string>
     <string name="sunset_time_format">Zachód słońca: %s</string>
-    <string name="switch_system_user">Wróć do Pierwszej przestrzeni</string>
     <string name="wind_direction_0">Wiatr płn.</string>
     <string name="wind_direction_1">Wiatr płn.-wsch.</string>
     <string name="wind_direction_1_f">Wiatr płn.-wsch.</string>
