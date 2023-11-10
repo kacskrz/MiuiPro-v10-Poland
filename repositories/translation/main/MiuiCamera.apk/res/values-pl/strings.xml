@@ -498,7 +498,7 @@ Wyczyść ją dla lepszego efektu."</string>
    <string name="lens_dirty_detected_title_front">Przednia soczewka aparatu jest brudna</string>
      <string name="back_bokeh_use_hint">"Umieść obiekt nie dalej niż 1,5 metra dla lepszego efektu"</string>
 	 <string name="pref_camera_sr_enable_title">Włącz SR</string>
-   <string name="pref_google_lens">Google lens</string>
+   <string name="pref_google_lens">Obiektyw Google</string>
    <string name="pref_video_quality_summary">Wideo w 4K w 120 kl./s nie jest wspierane</string>
    <string name="portrait_bokeh_text">Tryb portretowy</string>
 <string name="portrait_bokeh_first_tips">"Użyj Trybu portretowego do rozmycia
@@ -2529,4 +2529,5 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="accessibility_moiton_detection_off">Wykrywanie ruchu jest wyłączone</string>
     <string name="accessibility_moiton_detection_on">Wykrywanie ruchu jest włączone</string>
     <string name="cv_lens_standard">Standardowy</string>
+    <string name="cinematic_guide_item1_des_new">Obiekt znajdujący się w kadrze zostanie automatycznie wyostrzony; fokus będzie się zmieniać w zależności od sceny. Dwukrotnie dotknij obiektu, aby zablokować ostrzenie na nim. Możesz wybrać inny obiekt, na którym ma być zablokowane ostrzenie, dwukrotnie go dotykając.</string>
 </resources>
