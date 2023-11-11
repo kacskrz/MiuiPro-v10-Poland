@@ -1023,8 +1023,8 @@
   <string name="close_demo_mode">Anuluj</string>
   <string name="close_gesture">Zamknij za pomocą gestu</string>
   <string name="close_hotspot_hint">Wyłącz hotspot Wi-Fi przed rozpoczęciem przesyłania ekranu</string>
-  <string name="close_miui_optimization_title">Wyłącz optymalizacje MIUI</string>
-  <string name="close_optimization_message">Po wyłączeniu tej funkcji może dojść do zmiany układu tekstu, kont i innych części MIUI.</string>
+  <string name="close_miui_optimization_title">Wyłącz optymalizacje systemu</string>
+  <string name="close_optimization_message">Po wyłączeniu tej funkcji może dojść do zmiany układu tekstu, kont i innych części systemu.</string>
   <string name="close_optimization_option">Wyłącz</string>
   <string name="close_slave_wifi_hint">Rozłącz się z dodatkowymi sieciami Wi-Fi przed rozpoczęciem przesyłania ekranu</string>
   <string name="cloud_backup_section_title">Kopia w Chmurze Xiaomi</string>
@@ -2619,7 +2619,7 @@ Połącz co najmniej 4 kropki."</string>
   <string name="miui_allow_music">Multimedia</string>
   <string name="miui_allow_vibrate">Wibracje</string>
   <string name="miui_data_usage_menu_metered">Mobilny punkt dostępu</string>
-  <string name="miui_experience_optimization">Włącz optymalizacje MIUI</string>
+  <string name="miui_experience_optimization">Włącz optymalizacje systemu</string>
   <string name="miui_lab_ai_cloud_closed">Inteligentne uruchamianie aplikacji nie jest jeszcze dostępne.</string>
   <string name="miui_lab_ai_preload_desc">Preładowanie aplikacji za pomocą AI poprawia prędkość ich uruchamiania</string>
   <string name="miui_lab_ai_preload_title">Inteligentne uruchamianie aplikacji</string>
@@ -2643,7 +2643,7 @@ Połącz co najmniej 4 kropki."</string>
   <string name="miui_master_clear_summary">Usuwa wszystkie dane z telefonu</string>
   <string name="miui_touch_filtered_warning">Jeśli aplikacja blokuje okno dialogowe uprawnień, przeciągnij nakładający się element lub zamknij aplikację.</string>
   <string name="miui_updater">Aktualizacja systemu</string>
-  <string name="miui_userguide">Poradnik MIUI</string>
+  <string name="miui_userguide">Poradnik</string>
   <string name="mms_breathing_light_color_title">Kolor diody dla wiadomości</string>
   <string name="mms_breathing_light_freq_title">Częstość pulsowania LED</string>
   <string name="mms_privacy_password_role_instruction">Twoje konwersacje z prywatnymi kontaktami będą przechowywane tutaj.</string>
@@ -2879,8 +2879,8 @@ Połącz co najmniej 4 kropki."</string>
   <string name="no_running_services">Brak uruchomionych usług.</string>
   <string name="no_services">Brak aktywnych usług</string>
   <string name="no_trust_agents">Brak agentów zaufania</string>
-  <string name="no_update_found">Korzystasz z najnowszej wersji MIUI</string>
-  <string name="no_updates_found">Korzystasz z najnowszej wersji MIUI</string>
+  <string name="no_update_found">Korzystasz z najnowszej wersji systemu</string>
+  <string name="no_updates_found">Korzystasz z najnowszej wersji systemu</string>
   <string name="no_updates_warning">Twój system jest aktualny</string>
   <string name="no_updates_warning2">Powiadomimy Cię, kiedy aktualizacja będzie dostępna.</string>
   <string name="no_vr_listeners">Żadne zainstalowane aplikacje nie prosiły o uruchomienie w trybie usług pomocniczych rzeczywistości wirtualnej.</string>
@@ -3008,7 +3008,7 @@ Połącz co najmniej 4 kropki."</string>
   <string name="onscreen_keyboard_settings_summary">Ustawienia klawiatury ekranowej</string>
   <string name="open_demo_mode">Włącz</string>
   <string name="open_demo_mode_warning_message">Gdy włączony jest tryb demonstracyjny, zegar w pasku statusu zatrzyma się, ikony baterii i zasięgu sieci będą wskazywać maksymalny sygnał. Wyłącz tryb demonstracyjny lub zresetuj urządzenie, aby to zmienić.</string>
-  <string name="open_miui_optimization_title">Włącz optymalizacje MIUI</string>
+  <string name="open_miui_optimization_title">Włącz optymalizacje systemu</string>
   <string name="open_optimization_message">Włącz optymalizację, aby cieszyć się płynniejszym i szybszym interfejsem.</string>
   <string name="open_optimization_option">Włącz</string>
   <string name="open_wifi_connect_summary">Dotknij, aby wyświetlić szczegóły.</string>
@@ -3738,7 +3738,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="se_wallet_ese">Mi Pay oraz karta miejska NFC</string>
   <string name="se_wallet_hce">Użyj mobilnego portfela z HCE</string>
   <string name="se_wallet_uicc">Użyj portfela SIM%1$s</string>
-  <string name="search_about_settings">O telefonie;Oznaczenie modelu;Wersja Android;Wersja MIUI;Procesor;RAM;Pamięć wewnętrzna;Pamięć;Nośnik wewnętrzny;Wersja radia;Wersja jądra;Numer wersji</string>
+  <string name="search_about_settings">O telefonie;Oznaczenie modelu;Wersja Android;Wersja systemu;Procesor;RAM;Pamięć wewnętrzna;Pamięć;Nośnik wewnętrzny;Wersja radia;Wersja jądra;Numer wersji</string>
   <string name="search_accelerometer_title">Automatyczny obrót ekranu; Obrót ekranu;Orientacja;Portret;Krajobraz</string>
   <string name="search_access_control">Ustawienia prywatności;Ustawienia prywatności;Gość;Tryb gościa</string>
   <string name="search_accessibility_captioning_title">Napisy</string>
@@ -4913,7 +4913,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="user_exit_guest_dialog_remove">Usuń</string>
   <string name="user_exit_guest_title">Usuń gościa</string>
   <string name="user_experience_program">Program zadowolenia użytkownika</string>
-  <string name="user_experience_program_summary">Pomóż MIUI w ulepszaniu produktów przez anonimowe przesyłanie danych. Aby dowiedzieć się więcej, przeczytaj warunki tegoż Programu.</string>
+  <string name="user_experience_program_summary">Pomóż Xiaomi w ulepszaniu produktów przez anonimowe przesyłanie danych. Aby dowiedzieć się więcej, przeczytaj warunki tegoż Programu.</string>
   <string name="user_experience_program_title">Program zadowolenia użytkownika</string>
   <string name="user_guest">Gość</string>
   <string name="user_image_choose_photo">Wybierz zdjęcie z galerii</string>
@@ -5466,8 +5466,8 @@ Aby używać przypinania aplikacji: \u0009
   <string name="wifi_share_add">Udostępnij moje publiczne sieci Wi-Fi</string>
   <string name="wifi_share_add_summary">Podczas udostępniania Wi-Fi \n możesz też używać sieci innych użytkowników</string>
   <string name="wifi_share_connect">Połącz</string>
-  <string name="wifi_share_connected_summary">Jesteś podłączony do publicznej sieci Wi-Fi udostępnionej przez innego użytkownika MIUI</string>
-  <string name="wifi_share_connected_title">Połączenie z siecią Wi-Fi przez MIUI</string>
+  <string name="wifi_share_connected_summary">Jesteś podłączony do publicznej sieci Wi-Fi udostępnionej przez innego użytkownika Xiaomi</string>
+  <string name="wifi_share_connected_title">Połączenie z siecią Wi-Fi przez system</string>
   <string name="wifi_share_current_network">Aktualna sieć</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">Brak udostępnionych sieci Wi-Fi</string>
@@ -5795,7 +5795,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="status_bar_settings_customer_feedback">opinię</string>
   <string name="status_bar_settings_function_description">O tej funkcji</string>
   <string name="status_bar_settings_user_fold_description1">Folder powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
-  <string name="status_bar_settings_user_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
+  <string name="status_bar_settings_user_fold_description2">System zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
   <string name="status_bar_settings_user_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do folderu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
   <string name="status_bar_settings_user_fold_disable">Wył.</string>
   <string name="status_bar_settings_user_fold_enable">Wł.</string>
@@ -5927,7 +5927,7 @@ Funkcja wymaga uprawnień do Twojej lokalizacji, korzystania z danych komórkowy
   <string name="call_records_summary_3">%1$d | %2$d min %3$d s</string>
   <string name="dangerous_option_switch_title">Powiadom o wysoce ryzykownych funkcjach</string>
   <string name="launcher_icon">Ikony</string>
-  <string name="miui_optimization_disabled">Wyłącz optymalizację MIUI</string>
+  <string name="miui_optimization_disabled">Wyłącz optymalizację systemu</string>
   <string name="page_layout_34">Telefon</string>
   <string name="page_layout_35">Notatki</string>
   <string name="words_title">Tekst</string>
@@ -5983,7 +5983,7 @@ Wygenerowane logi możesz zobaczyć w Menedżerze Plików."</string>
   <string name="aod_mode_summary">Pokazuj godzinę, datę i wiadomości na wyłączonym ekranie. Ta funkcja zwiększa użycie baterii. Jest ona automatycznie wyłączana, gdy urządzenie nie jest używane przez długi czas lub włączone jest Oszczędzanie baterii.</string>
   <string name="aod_sample_date">Wtorek, 10 maja</string>
   <string name="dark_color_mode">Ciemny motyw</string>
-  <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji</string>
+  <string name="dark_color_summary">Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji</string>
   <string name="open_dark_mode_dialog_summary">Niektóre ustawienia wyświetlacza nie są kompatybilne z ciemnym motywem. Zostaną one jednak przywrócone po jego wyłączeniu. Włączyć ciemny motyw?</string>
   <string name="open_dark_mode_dialog_title">Kompatybilność ciemnego motywu</string>
   <string name="screen_cancel">Anuluj</string>
@@ -6034,7 +6034,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="auto_dual_clock_summary">Pokaż ten zegar, kiedy obecny czas jest inny od tego z drugiego zegara</string>
   <string name="auto_dual_clock_title">Podwójny zegar</string>
   <string name="dual_clock">Podwójny zegar</string>
-  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Ekran zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu MIUI; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
+  <string name="dual_clock_aod_hint">"\"Podwójny zegar\" działa w następujących przypadkach: 1. Dla trybu Ekran zawsze włączony - włącz ten tryb w Ustawieniach &gt; Wyświetlacz; 2. Dla ekranu blokady - upewnij się, że używasz domyślnego lub klasycznego motywu; 3. Dla pulpitu - upewnij się, że używasz standardowego widżetu zegara."</string>
   <string name="dual_clock_hint">Podwójny zegar wymaga używania systemowego widżetu zegara oraz domyślnego motywu</string>
   <string name="dual_clock_ok">Rozumiem</string>
   <string name="more_installed_services_title">Więcej usług</string>
@@ -6081,7 +6081,7 @@ Funkcja wyłączy się automatycznie po 10 minutach nieaktywności."</string>
   <string name="notifi_importance_unspecified">Zezwól na dźwięk</string>
   <string name="notifi_no_channels">Ta aplikacja nie wyświetla żadnych powiadomień</string>
   <string name="notification_fold_description1">Katalog powiadomień został wprowadzony w MIUI 9. Ta funkcja filtruje nieistotne powiadomienia i umieszcza je w oddzielnym folderze.</string>
-  <string name="notification_fold_description2">MIUI zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
+  <string name="notification_fold_description2">System zapamięta, które powiadomienia klikasz, a następnie zastosuje wiele kryteriów, aby określić, czy są one ważne.</string>
   <string name="notification_fold_description3">"Jeśli powiadomienia, które uważasz za ważne, nadal trafiają do katalogu powiadomień, upewnij się, że zgłosiłeś nam takie problemy. Będziemy wdzięczni za Twoją opinię."</string>
   <string name="notification_fold_summary">Wszystkie nieistotne powiadomienia trafią do oddzielnego katalogu</string>
   <string name="notification_fold_title">Katalog powiadomień</string>
@@ -6271,8 +6271,8 @@ Włącz tę funkcję i kliknij przycisk Ułatwień dostępu na dole ekranu, aby 
   <string name="open_privacy_thumbnail_blur_title">Podglądy są zamazane</string>
   <string name="privacy_thumbnail_blur_progress_message">Chwileczkę…</string>
   <string name="privacy_thumbnail_blur_title">Zamaż podglądy aplikacji</string>
-  <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
-  <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu MIUI oraz kompatybilnych aplikacji. Ten tryb ogranicza użycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
+  <string name="dark_color_summary_lcd">"Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji. Ten tryb może ci pomóc ograniczyć zmęczenie oczu podczas korzystania z telefonu w ciemności."</string>
+  <string name="dark_color_summary_oled">Ustaw ciemną paletę kolorów dla interfejsu systemu oraz kompatybilnych aplikacji. Ten tryb ogranicza użycie baterii i pomaga ograniczyć zmęczenie oczu.</string>
   <string name="enable_tcp_rtt_support">Wyświetlaj TCP RTT</string>
   <string name="enable_tcp_rtt_support_summary">Szacuj wydajność jakości połączenia sieciowego</string>
   <string name="aod_and_lock_screen_settings_title">Ekran blokady</string>
@@ -8330,7 +8330,7 @@ Z tego urządzenia korzystają inni użytkownicy.
     <string name="media_controls_hide_player">Ukryj odtwarzacz</string>
     <string name="media_controls_recommendations_description">Na podstawie Twojej aktywności</string>
     <string name="media_controls_recommendations_title">Pokazuj rekomendacje multimediów</string>
-    <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostaje otwarty w Szybkich ustawieniach</string>
+    <string name="media_controls_resume_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty w Szybkich ustawieniach</string>
     <string name="media_controls_resume_title">Przypnij odtwarzacz</string>
     <string name="media_controls_show_player">Pokaż odtwarzacz</string>
     <string name="media_controls_title">Multimedia</string>
@@ -9726,8 +9726,8 @@ Aby używać przypinania aplikacji: \u0009
     <string name="wifi_tether_high_temperature_toast">Funkcja jest chwilowo niedostępna ze względu na zbyt wysoką temperaturę</string>
     <string name="embedded_window_guide_text">Gdy treść jest wyświetlana poziomo, aplikacje będą wyświetlane równolegle do siebie. Gdy ta funkcja jest wyłączona, aplikacje będą wyśrodkowane.</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">OK</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację MIUI i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
-Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIUI w Ustawieniach > Opcje programisty > Optymalizacje MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację systemu i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
+Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="ap_p2p_dialog_message">"Obecnie udostępniane połączenie Wi-Fi jest już używane. Przed włączeniem hotspota upewnij się, że nie używasz Wi-Fi Direct, Mi Share, projekcji ekranu lub innych usług używających połączenia bezprzewodowego."</string>
     <string name="ap_p2p_dialog_yes">Rozłącz</string>
@@ -10106,7 +10106,7 @@ Jeśli nie przyznasz tych uprawnień, system zastosuje limit czasu wykonywania p
     <string name="long_background_tasks_switch_title">Zezwól na długotrwałe zadania w tle</string>
     <string name="long_background_tasks_title">Długotrwałe zadania w tle</string>
     <string name="manage_trust_agents_summary_on">{count,plural, =1{1 aktywny agent zaufania}few{# aktywne agenty zaufania}many{# aktywnych agentów zaufania}other{# aktywnego agenta zaufania}}</string>
-    <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostaje otwarty na ekranie blokady</string>
+    <string name="media_controls_lockscreen_description">Aby można było szybko wznowić odtwarzanie, odtwarzacz pozostanie otwarty na Ekranie blokady</string>
     <string name="media_controls_lockscreen_title">Pokazuj multimedia na ekranie blokady</string>
     <string name="media_output_status_device_in_low_power_mode">Wybudź urządzenie, aby odtworzyć tutaj</string>
     <string name="media_output_status_not_support_downloads">Tutaj nie można odtworzyć pobranych plików</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Komponenty bezpieczeństwa MIUI</string>
+    <string name="app_name">Komponenty bezpieczeństwa systemu</string>
     <string name="hello_world">Witajcie!</string>
     <string name="menu_settings">Ustawienia</string>
     <string name="title_activity_main">MainActivity</string>

@@ -1117,7 +1117,7 @@ i dopasuj skanowane dokumenty"</string>
   <string name="clone_put_phone_back_in_place">Przywróć urządzenie do pierwotnej pozycji</string>
   <string name="clone_start_capture">Rozpocznij klonowanie</string>
   <string name="clone_too_much_movement_stop">Przesunąłeś urządzenie za daleko. Zatrzymano nagrywanie.</string>
-  <string name="clone_video_mode">Film</string>
+  <string name="clone_video_mode">Wideo</string>
   <string name="color_effect_entry_blackgold">Złoto</string>
   <string name="color_effect_entry_first">Początek</string>
   <string name="color_effect_entry_sibopenk">Cyberpunk</string>
@@ -1536,8 +1536,8 @@ i dopasuj skanowane dokumenty"</string>
   <string name="professional_shortcut_short">Pro</string>
   <string name="doc_shortcut_long">Dokument</string>
   <string name="doc_shortcut_short">Dokum.</string>
-  <string name="video_shortcut_long">Film</string>
-  <string name="video_shortcut_short">Film</string>
+  <string name="video_shortcut_long">Wideo</string>
+  <string name="video_shortcut_short">Wideo</string>
   <string name="capture_shortcut_long">Selfie</string>
   <string name="capture_shortcut_short">Selfie</string>
   <string name="accessibility_reference_line_text">Otwórz panel z opcjami linii odniesienia</string>
@@ -2530,4 +2530,6 @@ Jeśli używasz hotspotu do łączenia się z siecią, ustaw jego pasmo AP na %s
     <string name="accessibility_moiton_detection_on">Wykrywanie ruchu jest włączone</string>
     <string name="cv_lens_standard">Standardowy</string>
     <string name="cinematic_guide_item1_des_new">Obiekt znajdujący się w kadrze zostanie automatycznie wyostrzony; fokus będzie się zmieniać w zależności od sceny. Dwukrotnie dotknij obiektu, aby zablokować ostrzenie na nim. Możesz wybrać inny obiekt, na którym ma być zablokowane ostrzenie, dwukrotnie go dotykając.</string>
+    <string name="kg_classic_item_weather_cloudy">Pochmurnie</string>
+    <string name="kg_tip_cant_get_third_party_wallpaper">"Nie można uzyskać dostępu do tapety strony trzeciej"</string>
 </resources>

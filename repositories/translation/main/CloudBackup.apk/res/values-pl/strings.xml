@@ -34,7 +34,7 @@
 * Aplikacji, wyglądu ekranu głównego i tapet 
 * Alarmów, zegara i ustawień 
 * Ustawień powiadomień 
-* Ustawień MIUI i systemu 
+* Ustawień HyperOS i systemu 
 Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</string>
     <string name="cloud_app_no_data">Brak kopii zapasowych</string>
     <string name="cloud_app_restore_error">Nie udało się przywrócić</string>
@@ -174,7 +174,7 @@ Uwaga: Dane zainstalowanych aplikacji nie będą zachowane w Chmurze Xiaomi.</st
    <string name="title_alert_restore_error">Nie udało się przywrócić</string>
    <string name="error_retry_later">Nie można ukończyć akcji. Poczekaj minutę bądź dwie i spróbuj ponownie.</string>
    <string name="home_hint_other_launcher">Inny launcher</string>
-   <string name="unsupported_home">Zaktualizuj MIUI do najnowszej wersji.</string>
+   <string name="unsupported_home">Zaktualizuj system do najnowszej wersji.</string>
    <string name="load_backup_failed">Nie udało się załadować kopii</string>
    <string name="loading_user_backup">Ładowanie kopii użytkownika…</string>
    <string name="main_space">Główna przestrzeń</string>

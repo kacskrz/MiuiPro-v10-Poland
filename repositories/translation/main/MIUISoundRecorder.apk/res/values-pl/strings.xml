@@ -10,7 +10,7 @@
     <string name="search_enable_earpiece_title">Tryb słuchawki</string>
     <string name="search_quliaty_title">Jakość nagrywania</string>
     <string name="keywords_search_record_list">Dyktafon;Transkryptuj;Transkrypcja;Nagraj;Udostępnij nagranie;Udostępnij nagrania;Nagranie;Nagrania</string>
-    <string name="keywords_search_record">Nowe nagranie;Dodaj nagranie;Nagranie;Nagrania;Transkrypcja;Transkryptuj;Dyktafon;Nagrywanie rozmowy;Nagrywanie dźwięku;Aplikacja nagrywająca;Jak nagrywać;Jak nagrać dźwięk;Gdzie jest dyktafon; Dyktafon MIUI</string>
+    <string name="keywords_search_record">Nowe nagranie;Dodaj nagranie;Nagranie;Nagrania;Transkrypcja;Transkryptuj;Dyktafon;Nagrywanie rozmowy;Nagrywanie dźwięku;Aplikacja nagrywająca;Jak nagrywać;Jak nagrać dźwięk;Gdzie jest dyktafon</string>
     <string name="keywords_search_call_record">Nagrywaj rozmowy; Nagraj rozmowę; Nagraj połączenie; Nagrywaj połączenia</string>
     <string name="app_name">Dyktafon</string>
     <string name="record">Nagraj</string>
@@ -34,7 +34,7 @@
     <string name="record_list_cloud_call">Nagrane rozmowy z chmury</string>
     <string name="call_record">Nagrane rozmowy</string>
     <string name="no_file">Pusto</string>
-    <string name="alert_message_delete_record_title">Usunąć nagranie?</string>
+    <string name="alert_message_delete_record_title">Usuń nagranie</string>
     <string name="alert_message_delete_record">Usunięcie nagrania z urządzenia usunie je również z Chmury Xiaomi. Usunąć teraz?</string>
     <string name="share">Udostępnij</string>
     <string name="rename">Zmień nazwę</string>
@@ -413,4 +413,7 @@ Dotknij opcji \"%1$s\", a następnie \"%2$s\"."</string>
   <string name="toast_enter_silent_mode">Nagrywanie. Włączono Tryb cichy.</string>
   <string name="toast_exit_silent_mode">Zakończono nagrywanie. Wyłączono Tryb cichy.</string>
   <string name="trash_delete">Usuń</string>
+  <string name="permission_bluetooth">Dostęp do stanu połączenia Bluetooth</string>
+  <string name="permission_bluetooth_dialog_description">Zezwól temu urządzeniu na łączenie się z urządzeniami w pobliżu, aby móc przełączać się między urządzeniami podczas odtwarzania nagrań.</string>
+  <string name="permission_bluetooth_title">Wymagane uprawnienia</string>
 </resources>

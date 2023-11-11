@@ -160,7 +160,7 @@
     <string name="sns_action_send">Wyślij</string>
     <string name="sns_hint_title">Temat (opcjonalnie)</string>
     <string name="sns_hint_content">Wpisz wiadomość</string>
-    <string name="sns_footer_text">Utworzone przy pomocy Notatek MIUI</string>
+    <string name="sns_footer_text">Utworzone przy pomocy Notatek Xiaomi</string>
     <string name="dlg_info_creating_message">Tworzenie wiadomości…</string>
     <string name="sns_message_disconnect">Nie można połączyć z siecią. Sprawdź połączenie z Internetem i spróbuj ponownie.</string>
     <string name="sns_content_default">Udostępnij zdjęcie</string>

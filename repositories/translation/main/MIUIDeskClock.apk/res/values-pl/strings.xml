@@ -257,7 +257,7 @@
   <string name="worldcolock_date_display_prefix">""</string>
   <string name="worldclock_resident_city_text">Drugi zegar: %s</string>
   <string name="worldclock_resident_city_text_detail">Włączony jest Podwójny zegar</string>
-  <string name="module_update_success">Pomyślnie pobrano zaktualizowane inteligentne alarmy MIUI. Możesz je ustawić w ustawieniach Zegara.</string>
+  <string name="module_update_success">Pomyślnie pobrano zaktualizowane inteligentne alarmy. Możesz je ustawić w ustawieniach Zegara.</string>
   <string name="module_update_success_control">Rozumiem</string>
   <string name="no_alarm_setting">Brak alarmów</string>
   <string name="no_worldclock">Brak zegarów</string>

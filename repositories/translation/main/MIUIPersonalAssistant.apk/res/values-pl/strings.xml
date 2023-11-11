@@ -2,7 +2,7 @@
 <resources>
   <string name="access_select">Selected %s</string>
   <string name="access_unselect">Deselected %s</string>
-  <string name="accessibility_title">Asystent MIUI</string>
+  <string name="accessibility_title">Asystent HyperOS</string>
   <string name="accordingto_position">Rozpoznawaj najczęstsze miejsca za pomocą GPS</string>
   <string name="account_address">Address</string>
   <string name="add_stock">Dodaj</string>
@@ -43,7 +43,7 @@
   <string name="alipay_sdk_payed_success">Paid successfully</string>
   <string name="alipay_sdk_tiemout">Session expired. Sign in again.</string>
   <string name="already">Completed:</string>
-  <string name="app_label">Asystent MIUI</string>
+  <string name="app_label">Asystent HyperOS</string>
   <string name="apps">App suggestions</string>
   <string name="apps_label">Aplikacje</string>
   <string name="arrive">Landing</string>
@@ -119,7 +119,7 @@
   <string name="card_expand_note_clear">Wyczyść</string>
   <string name="card_expand_note_clear_all">Wyczyść</string>
   <string name="card_expand_note_dialog_button">Rozumiem</string>
-  <string name="card_expand_note_dialog_message">Nowa notatka tworzona jest za każdym razem wtedy, gdy dotkniesz przycisku \"Gotowe\" w Asystencie MIUI.</string>
+  <string name="card_expand_note_dialog_message">Nowa notatka tworzona jest za każdym razem wtedy, gdy dotkniesz przycisku \"Gotowe\" w Asystencie HyperOS.</string>
   <string name="card_expand_note_dialog_title">Zapisz</string>
   <string name="card_expand_note_sure_clear_all">Wyczyść wszystko</string>
   <string name="card_expand_note_toast_clear_null">Notatka jest pusta. Napisz cokolwiek, aby móc ją zapisać w Notatkach bądź udostępnić.</string>
@@ -178,9 +178,9 @@
   <string name="cta_desc">Wszystkie ważne funkcje w jednym miejscu</string>
   <string name="cta_dialog_negative">Wyjdź</string>
   <string name="cta_dialog_positive">Zgadzam się</string>
-  <string name="cta_dialog_text_all">Aby użyć Asystenta MIUI, musisz przeczytać i zgodzić się na %1$s\"Zgodę użytkownika\" %2$s oraz %3$s \"Politykę prywatności\" %4$s. Usługa wymaga również połączenia z Internetem i dostępu do usług lokalizacyjnych. Moduł pobierania treści używany przez niektóre usługi wymaga również połączenia z Internetem. Zgodzić się?</string>
+  <string name="cta_dialog_text_all">Aby użyć Asystenta HyperOS, musisz przeczytać i zgodzić się na %1$s\"Zgodę użytkownika\" %2$s oraz %3$s \"Politykę prywatności\" %4$s. Usługa wymaga również połączenia z Internetem i dostępu do usług lokalizacyjnych. Moduł pobierania treści używany przez niektóre usługi wymaga również połączenia z Internetem. Zgodzić się?</string>
   <string name="cta_dialog_text_new_user">Przeczytaj i zgódź się na warunki %1$sUmowy użytkownika%2$s oraz %3$sPolityki prywatności%4$s Xiaomi.</string>
-  <string name="cta_dialog_text_old_user">Przed użyciem Asystenta MIUI musisz zgodzić się na warunki %1$s\"Polityki prywatności\"%2$s. Kliknij \"Start\", aby to zrobić.</string>
+  <string name="cta_dialog_text_old_user">Przed użyciem Asystenta HyperOS musisz zgodzić się na warunki %1$s\"Polityki prywatności\"%2$s. Kliknij \"Start\", aby to zrobić.</string>
   <string name="cta_dialog_title">Warunki Użytkowania</string>
   <string name="cta_dialog_miot_text_all">W celu poprawnego działania Mi Home może potrzebować informacji o Twojej sieci, lokalizacji, uprawnień do włączania Bluetooth, używania Twoich danych komórkowych, mikrofonu i kontaktów. Potwierdzić?</string> 
   <string name="cta_negative">Zamknij</string>
@@ -362,7 +362,7 @@
   <string name="express_order_state_wait_picking">Await picking</string>
   <string name="express_order_succeeded">Completed</string>
   <string name="express_origin_prev">From</string>
-  <string name="express_other_app">Allow MIUI to access the order info from other apps.</string>
+  <string name="express_other_app">Allow HyperOS to access the order info from other apps.</string>
   <string name="express_phone">Telephone</string>
   <string name="express_phone_tip">Delivering, stay tuned</string>
   <string name="express_preview_order">Preview</string>
@@ -612,7 +612,7 @@
   <string name="miuishare_account_login_ok">Sign in</string>
   <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
   <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
-  <string name="miuishare_app_name">MIUI Share</string>
+  <string name="miuishare_app_name">HyperOS Share</string>
   <string name="miuishare_no_network">Couldn\'t connect to the network.</string>
   <string name="miuishare_publish">Wyślij</string>
   <string name="miuishare_qzone_title">Qzone</string>
@@ -689,7 +689,7 @@
   <string name="payment_clear_records_success">Cleared payment history</string>
   <string name="payment_date_time_picker_dialog_title">Set date and time</string>
   <string name="payment_guide_hint">Collect payment info from Messaging and other apps.</string>
-  <string name="payment_guide_hint_link">\"Polityka prywatności Asystenta MIUI\"</string>
+  <string name="payment_guide_hint_link">\"Polityka prywatności Asystenta HyperOS\"</string>
   <string name="payment_method_alipay">Alipay</string>
   <string name="payment_method_bank">Debit card</string>
   <string name="payment_method_cash">Cash</string>
@@ -704,7 +704,7 @@
   <string name="payment_pref_enabled_title">Allow payments</string>
   <string name="payment_pref_notification_enabled_title">Notify about successful and unsuccessful records</string>
   <string name="payment_pref_privacy_category_title">Privacy</string>
-  <string name="payment_pref_privacy_security_summary">Use MIUI Privacy protection password to hide your account details</string>
+  <string name="payment_pref_privacy_security_summary">Use HyperOS Privacy protection password to hide your account details</string>
   <string name="payment_pref_privacy_security_title">Password</string>
   <string name="payment_pref_report_category_title">Report</string>
   <string name="payment_pref_report_failed_record_title">Report unprocessed bills</string>
@@ -770,8 +770,8 @@
   <string name="quick_app_setting_brief">Ostatnio używane szybkie aplikacje i sugestie (odśwież Asystenta, aby zobaczyć)</string>
   <string name="quick_app_setting_brief_detail">"Zobacz wszystkie ostatnio używane szybkie aplikacje"</string>
   <string name="quick_app_title">Moje szybkie aplikacje</string>
-  <string name="quickstart_accessibility_description">Asystent MIUI zapewnia skróty do wybranych aplikacji innych firm. Skróty te nie działają, jeśli wyłączysz tę funkcję.</string>
-  <string name="quickstart_accessibility_service">Asystent MIUI</string>
+  <string name="quickstart_accessibility_description">Asystent HyperOS zapewnia skróty do wybranych aplikacji innych firm. Skróty te nie działają, jeśli wyłączysz tę funkcję.</string>
+  <string name="quickstart_accessibility_service">Asystent HyperOS</string>
   <string name="recharge_flow">Buy mobile data</string>
   <string name="recharge_tel">Top up phone balance</string>
   <string name="recharge_title_monthused">Used this month</string>
@@ -819,7 +819,7 @@
   <string name="service_unavailiable">Połącz z siecią i spróbuj ponownie.</string>
   <string name="setting_address">Dodaj częste miejsca</string>
   <string name="setting_authorization_canceled_dialog_cancel">Cancel</string>
-  <string name="setting_authorization_canceled_dialog_message">MIUI will no longer record your payments and this card will be removed.</string>
+  <string name="setting_authorization_canceled_dialog_message">HyperOS will no longer record your payments and this card will be removed.</string>
   <string name="setting_authorization_canceled_dialog_ok">Remove card</string>
   <string name="setting_authorization_canceled_dialog_title">Remove card</string>
   <string name="setting_basketball_brief_detail">View info, learn results, and follow up to 4 basketball teams.</string>
@@ -975,7 +975,7 @@
   <string name="trip_quick">Driver</string>
   <string name="trip_taxi">Taxi</string>
   <string name="try_again">Spróbuj ponownie</string>
-  <string name="understandassistant">O Asystencie MIUI</string>
+  <string name="understandassistant">O Asystencie HyperOS</string>
   <string name="uninstall">Niezainstalowane</string>
   <string name="unusual_weather">Weather alerts</string>
   <string name="unusual_weather_open">Turn on weather alerts</string>
@@ -1139,8 +1139,8 @@
   <string name="express_source_from">"Od "</string>
   <string name="miot_abnormal_device">Urządzenia z błędami</string>
   <string name="miot_auth_btn">Synchronizuj</string>
-  <string name="miot_auth_content">Użyj Asystenta MIUI do kontrolowania swoich inteligentnych urządzeń</string>
-  <string name="miot_auth_dialog_content">Czy chcesz zsynchronizować dane ze swoich urządzeń smart home z Asystentem MIUI?</string>
+  <string name="miot_auth_content">Użyj Asystenta HyperOS do kontrolowania swoich inteligentnych urządzeń</string>
+  <string name="miot_auth_dialog_content">Czy chcesz zsynchronizować dane ze swoich urządzeń smart home z Asystentem HyperOS?</string>
   <string name="miot_auth_dialog_neg_btn">Nie, dzięki</string>
   <string name="miot_auth_dialog_pos_btn">Zsynchronizuj</string>
   <string name="miot_auth_dialog_title">Zsynchronizuj dane</string>
@@ -1152,7 +1152,7 @@
   <string name="access_deselect">Odznaczone %s</string>
   <string name="access_deselected">Odznaczone %s</string>
   <string name="access_selected">Wybrane %s</string>
-  <string name="app_version_name">"Wersja Asystenta MIUI: "</string>
+  <string name="app_version_name">"Wersja Asystenta HyperOS: "</string>
   <string name="debug_card_brief">Ustawienia i narzędzia do debugowania</string>
   <string name="debug_card_detail">Ustawienia i narzędzia do debugowania</string>
   <string name="debug_card_title">Debugowanie</string>
@@ -1309,7 +1309,7 @@
      <string name="app_course_title_default">Plan lekcji</string>
      <string name="app_display_linkage_default">Innowacje dla wszystkich</string>
      <string name="app_display_setting_edit_hint">Wprowadź tekst</string>
-     <string name="app_display_setting_edit_instruction">Nagłówki wyświetlane są na górze Asystenta MIUI. Mogą one zawierać maksymalnie 28 liter.</string>
+     <string name="app_display_setting_edit_instruction">Nagłówki wyświetlane są na górze Asystenta HyperOS. Mogą one zawierać maksymalnie 28 liter.</string>
      <string name="app_display_setting_edit_toast">Ten nagłówek jest za długi</string>
      <string name="app_display_setting_title">Zmień nagłówek</string>
      <string name="app_express_all">Wszystkie</string>
@@ -1345,7 +1345,7 @@
      <string name="app_pa_setting_head_bg_img">Tło</string>
      <string name="app_pa_setting_head_bg_img_default">Nie ustawiono</string>
      <string name="app_pa_setting_head_bg_img_set">Ustawiono</string>
-     <string name="app_pa_setting_head_bg_img_summary">"Ustaw tło dla nagłówka Asystenta MIUI"</string>
+     <string name="app_pa_setting_head_bg_img_summary">"Ustaw tło dla nagłówka Asystenta HyperOS"</string>
      <string name="app_pa_setting_head_info">Nagłówek</string>
      <string name="app_pa_setting_head_info_default">Pusty</string>
      <string name="app_pa_setting_head_info_set">Dodano</string>
@@ -1378,7 +1378,7 @@
      <string name="app_pa_setting_service_quick_func">Skróty</string>
      <string name="app_pa_setting_service_quick_func_summary">Otwórz specyficzne skróty w popularnych aplikacjach</string>
      <string name="app_pa_setting_service_recent">Ostatnie elementy</string>
-     <string name="app_pa_setting_service_recent_summary">Szybkie aplikacje i skróty, które pojawiają się po przeciągnięciu w dół w Asystencie MIUI</string>
+     <string name="app_pa_setting_service_recent_summary">Szybkie aplikacje i skróty, które pojawiają się po przeciągnięciu w dół w Asystencie HyperOS</string>
      <string name="app_pa_setting_service_screen_duration">Czas przed ekranem</string>
      <string name="app_pa_setting_service_sports">Sporty</string>
      <string name="app_pa_setting_service_sports_summary">Najnowsze informacje o ulubionych drużynach</string>
@@ -1429,7 +1429,7 @@
      <string name="app_stock_search_fail">"Brak rezultatów"</string>
      <string name="app_stock_search_loading">Chwileczkę…</string>
      <string name="base_hour_minute">%1$d godz. %2$d min</string>
-     <string name="cta_dialog_all_purpose">Witaj w Asystencie MIUI! To zbiór najważniejszych informacji dotyczących Twoich spraw - notatek, snu, czasu spędzonego przed ekranem oraz innych funkcji.</string>
+     <string name="cta_dialog_all_purpose">Witaj w Asystencie HyperOS! To zbiór najważniejszych informacji dotyczących Twoich spraw - notatek, snu, czasu spędzonego przed ekranem oraz innych funkcji.</string>
      <string name="cta_dialog_desc_calendar">W celu wyświetlenia wydarzeń z kalendarza</string>
      <string name="cta_dialog_desc_location">W celu obliczenia czasu podróży</string>
      <string name="cta_dialog_desc_phone_state">W celu identyfikacji urządzenia poprzez IMEI</string>
@@ -1447,7 +1447,7 @@
      <string name="shortcuts_download_dialog_text_install">Zainstaluj</string>
      <string name="shortcuts_download_dialog_text_install_tip">Aby móc skorzystać ze skrótu \"%2$s\", zainstaluj najpierw aplikację %1$s.</string>
      <string name="card_expand_note_toast_install">Aby skorzystać z tej funkcji, zainstaluj aplikację Notatki</string>
-     <string name="card_expand_note_dialog_message_new">Nowa notatka tworzona jest za każdym razem wtedy, gdy dotkniesz przycisku \"Gotowe\" w Asystencie MIUI.</string>
+     <string name="card_expand_note_dialog_message_new">Nowa notatka tworzona jest za każdym razem wtedy, gdy dotkniesz przycisku \"Gotowe\" w Asystencie HyperOS.</string>
      <string name="card_expand_note_dialog_title_new">Zapisz</string>
      <string name="card_expand_note_toast_install_new">Aby skorzystać z tej funkcji, zainstaluj aplikację Notatki</string>
      <string name="card_expand_note_toast_save_done_new">Zapisano w Notatkach</string>
@@ -1482,17 +1482,17 @@
     <string name="pa_accessibility_picker_search_cancel">Pasek wyszukiwania widżetu. Dotknij dwa razy, aby anulować.</string>
     <string name="pa_accessibility_picker_search_tips">Pasek wyszukiwania widżetu. Dotknij dwa razy, aby wyszukać.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Dodaj ten element na pulpit.</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Dodaj ten element do Asystenta MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Dodaj ten element do Asystenta HyperOS.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Edytuj</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element na pulpit.</string>
-    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element do Asystenta MIUI.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Wybrano widżet. Przeciągnij, aby dodać ten element do Asystenta HyperOS.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Sklep z widżetami. Wybierz, aby wyświetlić wszystkie widżety dla %s. Dotknij dwa razy, aby wyświetlić wszystkie widżety dla %s.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Dotknij dwa razy, aby edytować.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widżet</string>
-    <string name="pa_app_label">Asystent MIUI</string>
+    <string name="pa_app_label">Asystent HyperOS</string>
     <string name="pa_cancel">Anuluj</string>
     <string name="pa_clear">Wyczyść</string>
-    <string name="pa_cta_dialog_all_purpose">Witaj w Asystencie MIUI! To aplikacja, dzięki której uzyskasz łatwiejszy dostęp do wszelkich potrzebnych Ci rzeczy.</string>
+    <string name="pa_cta_dialog_all_purpose">Witaj w Asystencie HyperOS! To aplikacja, dzięki której uzyskasz łatwiejszy dostęp do wszelkich potrzebnych Ci rzeczy.</string>
     <string name="pa_cta_dialog_desc_location">Aby dostarczać sugestie dot. tras</string>
     <string name="pa_cta_dialog_desc_phone_state">Aby identyfikować urządzenie na podstawie numeru IMEI</string>
     <string name="pa_cta_dialog_desc_storage">Aby przechowywać elementy w pamięci podręcznej</string>
@@ -1548,17 +1548,17 @@
     <string name="pa_picker_classic_widget">Widżety Androida</string>
     <string name="pa_picker_detail_add_maml_net_unavailable">"Nie udało połączyć się z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
     <string name="pa_picker_detail_add_to_home">Dodaj na pulpit</string>
-    <string name="pa_picker_detail_add_to_minus">Dodaj do Asystenta MIUI</string>
+    <string name="pa_picker_detail_add_to_minus">Dodaj do Asystenta HyperOS</string>
     <string name="pa_picker_detail_add_widget_success">Pomyślnie dodano</string>
     <string name="pa_picker_detail_app_not_in_market">"Ta aplikacja nie dostarcza obecnie żadnych widżetów"</string>
     <string name="pa_picker_detail_app_not_off_shelf">"Widżety z tej aplikacji nie są już dostępne"</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Pulpit</string>
-    <string name="pa_picker_detail_bottom_bt_source_minus">Asystent MIUI</string>
+    <string name="pa_picker_detail_bottom_bt_source_minus">Asystent HyperOS</string>
     <string name="pa_picker_detail_bottom_bt_text">Dodaj na %s</string>
     <string name="pa_picker_detail_bottom_bt_text_un_install">Zainstaluj aplikację, aby używać jej widżetów</string>
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Zaktualizuj aplikację, aby używać jej widżetów</string>
-    <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Otwórz Asystenta MIUI, aby dodać tam widżety.</string>
-    <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Użyj Asystenta MIUI</string>
+    <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Otwórz Asystenta HyperOS, aby dodać tam widżety.</string>
+    <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Użyj Asystenta HyperOS</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Anuluj</string>
     <string name="pa_picker_detail_download_app_dialog_confirm">OK</string>
     <string name="pa_picker_detail_download_app_dialog_message_install_prefix">Zainstaluj</string>
@@ -1624,8 +1624,8 @@
     <string name="pa_setting_privacy_auth_summary">"Będziesz otrzymywać sugestie oparte na Twoich nawykach"</string>
     <string name="pa_setting_privacy_policy">Polityka prywatności</string>
     <string name="pa_setting_version">Wersja：%1$s</string>
-    <string name="pa_shortcut_accessibility_description">"Asystent MIUI dostarcza skróty dla wybranych aplikacji firm trzecich. Po wyłączeniu tej funkcji te skróty nie będą działać."</string>
-    <string name="pa_shortcut_accessibility_service">Asystent MIUI</string>
+    <string name="pa_shortcut_accessibility_description">"Asystent HyperOS dostarcza skróty dla wybranych aplikacji firm trzecich. Po wyłączeniu tej funkcji te skróty nie będą działać."</string>
+    <string name="pa_shortcut_accessibility_service">Asystent HyperOS</string>
     <string name="pa_shortcut_add_limit">Możesz dodać maks. %1$d skrótów</string>
     <string name="pa_shortcut_apps">Aplikacje</string>
     <string name="pa_shortcut_download_tip">Aby móc używać \"%2$s\", najpierw zainstaluj aplikację %1$s.</string>
@@ -1686,7 +1686,7 @@
     <string name="pa_stock_widget_name">Giełdy</string>
     <string name="pa_sure">OK</string>
     <string name="pa_toast_home_layout_locked">Układ pulpitu jest zablokowany</string>
-    <string name="pa_toast_message_not_support_size">"Widżety o tym rozmiarze nie są wspierane przez Asystenta MIUI"</string>
+    <string name="pa_toast_message_not_support_size">"Widżety o tym rozmiarze nie są wspierane przez Asystenta HyperOS"</string>
     <string name="pa_vertical_center">Układ pionowy. Wyrównanie do środka.</string>
     <string name="pa_vertical_left">Układ pionowy. Wyrównanie do lewej.</string>
     <string name="pa_vertical_right">Układ pionowy. Wyrównanie do prawej.</string>
@@ -1752,16 +1752,16 @@
     <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Lista aplikacji w sklepie z widżetami. %s element na liście aplikacji. Wybrano %s, numer %s na liście. Element zawiera %s widżetów, dotknij dwa razy, aby otworzyć opis widżetu.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Sklep z widżetami. Wybrano %s. Dotknij dwa razy, aby otworzyć opis widżetu. Element zawiera %s widżetów.</string>
     <string name="pa_shortcut_desc_add_button_install">Aby móc skorzystać z \"%2$s\", najpierw zainstaluj aplikację %1$s.</string>
-    <string name="pa_picker_permission_denied">"Asystent MIUI musi mieć dostęp do stanu instalacji,
+    <string name="pa_picker_permission_denied">"Asystent HyperOS musi mieć dostęp do stanu instalacji,
 aby wyświetlać widżety."</string>
     <string name="pa_picker_request">Ustawienia</string>
     <string name="pa_setting_privacy_category_perm">Uprawnienia</string>
     <string name="pa_setting_privacy_category_priv">Polityka prywatności</string>
     <string name="pa_setting_privacy_category_revoke">Wycofanie zgody i rezygnacja z usług</string>
     <string name="pa_setting_privacy_logout">Rezygnacja z usług</string>
-    <string name="pa_setting_privacy_logout_dialog_message">"Jeśli przejdziesz dalej, zrezygnujesz z usług Asystenta MIUI. Nie będzie można zobaczyć ani korzystać z jego widżetów. Dane osobowe, które zostały już zgromadzone i przechowywane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami. Zrezygnować z usług?"</string>
-    <string name="pa_setting_privacy_logout_dialog_title">Rezygnacja z usług Asystenta MIUI</string>
-    <string name="pa_setting_privacy_logout_summary">Rezygnacja z usług Asystenta MIUI</string>
+    <string name="pa_setting_privacy_logout_dialog_message">"Jeśli przejdziesz dalej, zrezygnujesz z usług Asystenta HyperOS. Nie będzie można zobaczyć ani korzystać z jego widżetów. Dane osobowe, które zostały już zgromadzone i przechowywane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami. Zrezygnować z usług?"</string>
+    <string name="pa_setting_privacy_logout_dialog_title">Rezygnacja z usług Asystenta HyperOS</string>
+    <string name="pa_setting_privacy_logout_summary">Rezygnacja z usług Asystenta HyperOS</string>
     <string name="pa_setting_privacy_perm_desc">Szczegóły dot. uprawnień</string>
     <string name="pa_setting_privacy_perm_granted">Przyznano</string>
     <string name="pa_setting_privacy_perm_install_app">Dostęp do listy zainstalowanych aplikacji</string>
@@ -1773,14 +1773,14 @@ aby wyświetlać widżety."</string>
     <string name="pa_setting_privacy_policy_update_agree">Zgadzam się</string>
     <string name="pa_setting_privacy_policy_update_exit">Wyjdź</string>
     <string name="pa_setting_privacy_policy_update_link">Polityka prywatności</string>
-    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Zaktualizowano Politykę prywatności Asystenta MIUI:
+    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Zaktualizowano Politykę prywatności Asystenta HyperOS:
 %sPrzeczytaj i zaakceptuj warunki nowej wersji %s, zanim przejdziesz dalej."</string>
     <string name="pa_setting_privacy_policy_update_title">Zaktualizowano Politykę prywatności</string>
     <string name="pa_setting_privacy_revoke_cta">Wycofanie zgody</string>
-    <string name="pa_setting_privacy_revoke_cta_message">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Asystenta MIUI.  you'll withdraw your consent to the Privacy Policy of App vault. Dane osobowe, które zostały już zgromadzone i przechowywane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Asystent MIUI dostarcza swoje usługi w oparciu o niezbędne dane osobowe, wycofanie zgody na warunki jego Polityki prywatności zostanie potraktowane jako brak akceptacji jego usług. Wycofać zgodę?"</string>
+    <string name="pa_setting_privacy_revoke_cta_message">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Asystenta HyperOS.  you'll withdraw your consent to the Privacy Policy of App vault. Dane osobowe, które zostały już zgromadzone i przechowywane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ Asystent HyperOS dostarcza swoje usługi w oparciu o niezbędne dane osobowe, wycofanie zgody na warunki jego Polityki prywatności zostanie potraktowane jako brak akceptacji jego usług. Wycofać zgodę?"</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Wycofaj</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Wycofaj (%ds)</string>
-    <string name="pa_setting_privacy_revoke_cta_summary">Wycofaj zgodę na warunki Polityki prywatności Asystenta MIUI</string>
+    <string name="pa_setting_privacy_revoke_cta_summary">Wycofaj zgodę na warunki Polityki prywatności Asystenta HyperOS</string>
     <string name="pa_setting_privacy_revoke_error_message">Wystąpił błąd serwera. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Nie udało się wycofać zgody"</string>
     <string name="pa_setting_privacy_revoke_no_net_message">Aby móc wycofać zgodę, Twoje urządzenie musi się połączyć z Internetem. Sprawdź swoje ustawienia sieci i spróbuj ponownie.</string>
@@ -1836,7 +1836,7 @@ dotknij dwa razy, aby rozpocząć"</string>
     <string name="app_pa_setting_preference_title">Preferencje</string>
     <string name="app_pa_setting_priv_policy_title">Polityka prywatności</string>
     <string name="app_pa_setting_retract">Wycofanie zgody</string>
-    <string name="app_pa_setting_retract_dialog_message">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Asystenta MIUI. Informacje, które zostały już zgromadzone i przechowane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja dostarcza usługi oparte na niezbędnych danych osobowych, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji tychże usług. Wycofać zgodę?"</string>
+    <string name="app_pa_setting_retract_dialog_message">"Jeśli przejdziesz dalej, wycofasz swoją zgodę na warunki Polityki prywatności Asystenta HyperOS. Informacje, które zostały już zgromadzone i przechowane, zostaną usunięte w czasie określonym odpowiednimi przepisami i regulacjami, chyba że ustalono inaczej. Ponieważ aplikacja dostarcza usługi oparte na niezbędnych danych osobowych, wycofanie przez Ciebie zgody zostanie potraktowane jako odmowa akceptacji tychże usług. Wycofać zgodę?"</string>
     <string name="app_pa_setting_retract_dialog_negative">Wycofaj</string>
     <string name="app_pa_setting_retract_error">"Nie udało się połączyć z siecią. Sprawdź swoje ustawienia sieci i spróbuj ponownie."</string>
     <string name="app_pa_setting_retract_error_message">A server error occurred. Odczekaj minutę lub dwie i spróbuj ponownie.</string>
@@ -1845,18 +1845,18 @@ dotknij dwa razy, aby rozpocząć"</string>
     <string name="app_pa_setting_retract_no_net_title">"Nie udało się połączyć z siecią"</string>
     <string name="app_pa_setting_retract_positive">OK</string>
     <string name="app_pa_setting_retract_sec_left">Wycofaj (%ds)</string>
-    <string name="app_pa_setting_retract_summary">Wycofaj zgodę na warunki Polityki prywatności Asystenta MIUI</string>
+    <string name="app_pa_setting_retract_summary">Wycofaj zgodę na warunki Polityki prywatności Asystenta HyperOS</string>
     <string name="app_pa_setting_retract_title">Wycofanie zgody i rezygnacja z usług</string>
     <string name="app_pa_setting_service_title">Usługi</string>
     <string name="app_pa_setting_tripartite">O udostępnianiu danych firmom trzecim</string>
     <string name="cta_policy_change_dialog_agree">Zgadzam się</string>
     <string name="cta_policy_change_dialog_exit">Wyjdź</string>
-    <string name="cta_policy_change_dialog_message" formatted="false">"Zaktualizowano warunki Polityki prywatności Asystenta MIUI:
+    <string name="cta_policy_change_dialog_message" formatted="false">"Zaktualizowano warunki Polityki prywatności Asystenta HyperOS:
 %s
 Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dalej."</string>
     <string name="cta_policy_change_dialog_title">Zaktualizowano Politykę prywatności</string>
     <string name="cta_privacy_policy">Polityka prywatności</string>
-    <string name="cta_refuse_policy_dialog_message">"Nie będzie można korzystać z Asystenta MIUI, dopóki nie wyrazisz zgody na warunki nowej wersji %s. Czy chcesz to teraz zrobić?"</string>
+    <string name="cta_refuse_policy_dialog_message">"Nie będzie można korzystać z Asystenta HyperOS, dopóki nie wyrazisz zgody na warunki nowej wersji %s. Czy chcesz to teraz zrobić?"</string>
     <string name="cta_refuse_policy_dialog_title">Uwaga</string>
     <string name="pa_recommend_add_btn">Start</string>
     <string name="app_accessibility_olympic_bronze_medal">Brązowy medal</string>
@@ -1883,7 +1883,7 @@ Przeczytaj i zaakceptuj warunki nowej wersji dokumentu %s, zanim przejdziesz dal
     <string name="pa_setting_privacy_perm_location">Dostęp do lokalizacji</string>
     <string name="pa_setting_privacy_perm_location_desc">" "</string>
     <string name="pa_ski_foreground_service_noitification_name">Dostęp do lokalizacji</string>
-    <string name="pa_ski_foreground_service_title">Asystent MIUI próbuje uzyskać dostęp do lokalizacji</string>
+    <string name="pa_ski_foreground_service_title">Asystent HyperOS próbuje uzyskać dostęp do lokalizacji</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Nie można dodać więcej widżetów tego typu"</string>
     <string name="pa_stock_change_cp_code_alert">Ta operacja może spowodować, iż dane nie będą się wyświetlać poprawnie</string>
     <string name="pa_stock_change_cp_code_error">"Nie udało się zmienić źródła danych"</string>
@@ -1946,9 +1946,9 @@ Dotknij dwukrotnie przycisku poniżej niego, aby zastąpić go innym widżetem."
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Dotknij dwukrotnie, aby wybrać.</string>
     <string name="pa_accessibility_picker_search_clear">Wyczyść tekst</string>
     <string name="pa_setting_perm_empty">Nic tu nie ma</string>
-    <string name="pa_open_personal_assistant_dialog_desc">"Jeśli wyłączysz Asystenta MIUI, nie będzie można używać widżetów lub uzyskiwać dostępu do nich za pomocą gestu przesunięcia w prawo na pulpicie. Wyłączyć?"</string>
-    <string name="pa_open_personal_assistant_dialog_title">Wyłączyć Asystenta MIUI?</string>
-    <string name="pa_setting_simplify_title_bar">Asystent MIUI</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Jeśli wyłączysz Asystenta HyperOS, nie będzie można używać widżetów lub uzyskiwać dostępu do nich za pomocą gestu przesunięcia w prawo na pulpicie. Wyłączyć?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">Wyłączyć Asystenta HyperOS?</string>
+    <string name="pa_setting_simplify_title_bar">Asystent HyperOS</string>
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Kolekcje widżetów</string>
     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s.
 Dotknij dwa razy, aby wyświetlić szczegóły.

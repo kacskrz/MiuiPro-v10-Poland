@@ -3068,8 +3068,8 @@ To, którymi urządzeniami możesz sterować w ten sposób, określa aplikacja n
     <string name="toast_for_first_use_three_gesture">Przesuń poziomo czterema palcami, aby przełączać się między aplikacjami</string>
     <string name="stream_assistant">Asystent</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">OK</string>
-    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację MIUI i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
-Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje MIUI w Ustawieniach > Opcje programisty > Optymalizacje MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Jeśli wyłączysz optymalizację systemu i włączysz Oszczędzanie baterii, automatycznie włączy się Ciemny motyw.
+Aby go wyłączyć, wyłącz Oszczędzanie baterii lub włącz optymalizacje systemu w Ustawieniach > Opcje programisty > Optymalizacje systemu."</string>
     <string name="dark_mode_power_save_alert_dialog_title">Ciemny motyw</string>
     <string name="miui_restart_button_description">Uruchom ponownie dla lepszego wyświetlania</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Użyj danych mobilnych drugiej karty SIM, aby zwiększyć prędkość połączenia</string>
