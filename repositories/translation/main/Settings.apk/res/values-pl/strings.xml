@@ -1115,7 +1115,7 @@
   <string name="convert_to_file_encryption">Konwertuj na plik szyfrowany</string>
   <string name="convert_to_file_encryption_done">Pliki są zaszyfrowane</string>
   <string name="convert_to_file_encryption_enabled">Konwertuj…</string>
-  <string name="cool_color">Chłodny</string>
+  <string name="cool_color">Chłodna</string>
   <string name="copyright_title">Prawa autorskie</string>
   <string name="country_name">%s (systemowe)</string>
   <string name="create">Utwórz</string>
@@ -2751,7 +2751,7 @@ Połącz co najmniej 4 kropki."</string>
   <string name="my_device">Moje urządzenie</string>
   <string name="my_device_disclaimer">Uwaga: Informacje o sprzęcie, w tym procesor, pojemność akumulatora, rozmiar i rozdzielczość ekranu oraz aparat, są dostarczane przez laboratoria Xiaomi, projektantów i dostawców.</string>
   <string name="n_cacrts">Certyfikaty CA %d</string>
-  <string name="nature_color">Domyślny</string>
+  <string name="nature_color">Domyślna</string>
   <string name="navigation_guide_app_summary">Przesuń w lewo lub prawo od krawędzi ekranu w górnym obszarze</string>
   <string name="navigation_guide_app_title">Aktywuj akcję aplikacji</string>
   <string name="navigation_guide_appswitch_summary">Przesuń w lewo lub prawo od krawędzi i chwilę przytrzymaj</string>
@@ -5142,7 +5142,7 @@ Aby używać przypinania aplikacji: \u0009
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Szesnastkowe</string>
   <string name="wapi_yes">Tak</string>
-  <string name="warm_color">Ciepły</string>
+  <string name="warm_color">Ciepła</string>
   <string name="web_action_enable_summary">Otwieraj linki nawet w niezainstalowanych aplikacjach</string>
   <string name="web_action_enable_title">Aplikacje błyskawiczne</string>
   <string name="web_action_section_title">Aplikacje błyskawiczne</string>
@@ -6702,7 +6702,7 @@ Skopiuj plik kopii zapasowej na urządzenie (do katalogu MIUI/backup/AllBackup).
   <string name="computer_backup_summary">Wykonaj kopię i przywróć elementy, używając komputera</string>
   <string name="computer_backup_title">Komputer</string>
   <string name="continue_reset_factory">Przywracanie do ustawień fabrycznych</string>
-  <string name="custom_color">Własny</string>
+  <string name="custom_color">Własna</string>
   <string name="dark_mode_contrast">Dostosuj kontrast automatycznie</string>
   <string name="dark_mode_contrast_hint">Dopasuj kolory i zmniejszaj kontrast automatycznie, kiedy jasność jest niska</string>
   <string name="default_keyboard">Domyślna</string>
