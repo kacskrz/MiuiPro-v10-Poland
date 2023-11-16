@@ -1084,4 +1084,8 @@ Możesz też dodawać przypomnienia, aby nie ominęło Cię niż ważnego."</str
     <string name="notification_open_setting_title">Włączyć powiadomienia?</string>
     <string name="repeat_alarm_close_title">To wydarzenie się powtarza. Wyłączyć przypomnienie alarmem?</string>
     <string name="repeat_alarm_open_title">To wydarzenie się powtarza. Ustawić przypomnienie alarmem?</string>
+    <string name="unit_data_short_time_day">dn.</string>
+    <string name="unit_data_short_time_h">godz.</string>
+    <string name="unit_data_short_time_week">tydz.</string>
+    <string name="unit_data_short_time_yr">r.</string>
 </resources>
