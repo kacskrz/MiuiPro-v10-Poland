@@ -3544,4 +3544,5 @@ kliknij dwukrotnie"</string>
     <string name="sunset_time_format_desc">Zachód słońca: %s</string>
     <string name="uvi_format_desc">Indeks ultrafioletowy: %1$s, %2$s</string>
     <string name="weather_no_data">Brak danych o pogodzie</string>
+    <string name="notification_status_bar">Powiadomienia i pasek statusu</string>
 </resources>
