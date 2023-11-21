@@ -891,4 +891,5 @@ Aplikacja wymaga połączenia z Internetem oraz następujących uprawnień:"</st
     <string name="weight">Waga (kg)</string>
     <string name="widget_calculator_name">Podstawowy</string>
     <string name="widget_currency_name">Waluty</string>
+    <string name="finance_interest">Oprocentowanie (%s)</string>
 </resources>

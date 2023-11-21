@@ -139,7 +139,7 @@
     <string name="call_recording_notification_message">Dotknij, aby posłuchać.</string>
     <string name="call_recording_notification_message_low_storage">Karta SD jest pełna.</string>
     <string name="call_recording_notification_message_sd_unmounted">Karta SD została usunięta.</string>
-    <string name="call_recording_deny_permission_msg">Nie ma pozwolenia na nagrywanie rozmów</string>
+    <string name="call_recording_deny_permission_msg">"Nie można nagrywać rozmów. Nadaj uprawnienia w Ustawieniach."</string>
     <string name="call_contacts_deny_permission_msg">Nie ma pozwolenia na wyświetlanie kontaktów</string>
     <string name="antispam_local_marked">Lokalnie oznaczony</string>
     <string name="antispam_provider">Zidentyfikowano przez %s</string>
@@ -463,4 +463,6 @@ aby umieścić piłkę w niebieskim polu"</string>
     <string name="satellite_state_connected">"Połączono z satelitą. Nie ruszaj urządzeniem."</string>
     <string name="satellite_state_connected_floating">"Nie ruszaj urządzeniem"</string>
     <string name="focus_notification_on_ringing">Połączenie</string>
+    <string name="satellite_diable_earpiece">"Nie można użyć głośnika do rozmów w połączeniach satelitarnych"</string>
+    <string name="satellite_state_connecting">Łączenie… (%d s)</string>
 </resources>
