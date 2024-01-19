@@ -87,7 +87,7 @@ Aplikacja Motywy będzie wykrywać, jakich aplikacji używasz, i na tej podstawi
   <string name="count_down_tip">Pozostało %ds</string>
   <string name="current_using_desktop_wallpaper_text">Ekran główny</string>
   <string name="current_using_lockscreen_wallpaper_text">Ekran blokady</string>
-  <string name="current_version_incompatible">Motyw nie jest kompatybilny</string>
+  <string name="current_version_incompatible">Niekompatybilny</string>
   <string name="deleting">Usuwanie...</string>
   <string name="description_author">Autor:</string>
   <string name="description_designer">Projektant:</string>
