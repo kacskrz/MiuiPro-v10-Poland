@@ -3645,13 +3645,21 @@ Połącz co najmniej 4 kropki."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Połączenie z Internetem</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Aktualizuj listę aplikacji mogących automatycznie korzystać z trybu czytania</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizuj automatycznie</string>
-  <string name="screen_pinning_description">"Przypięta aplikacja może otwierać inne aplikacje, a dane osobowe mogą być dostępne. 
+  <string name="screen_pinning_description">"Przypięta aplikacja może otwierać inne aplikacje i uzyskiwać dostęp do Twoich danych. 
 
 Aby używać przypinania aplikacji: \u0009
 1. Włącz przypinanie aplikacji. \u0009
-2. Otwórz Przegląd. \u0009
-3. Kliknij ikonę aplikacji u góry ekranu, a następnie kliknij Przypnij"</string>
-  <string name="screen_pinning_title">Przypinanie ekranu</string>
+2. Otwórz menu Ostatnich aplikacji. \u0009
+3. Dotknij ikony aplikacji u góry ekranu, a następnie przycisku Przypnij"</string>
+    <string name="screen_pinning_dialog_message">"Oto, co mogą robić przypięte aplikacje:
+
+• Uzyskiwać dostęp do Twoich danych
+(np. kontaktów czy e-maili)
+• Otwierać inne aplikacje
+
+Używaj tej funkcji z rozwagą, szczególnie jeśli udostępniasz to urządzenie innym osobom."</string>
+  <string name="screen_pinning_summary">Przypięte aplikacje pozostaną w menu Ostatnich aplikacji, dopóki ich nie odepniesz</string>
+  <string name="screen_pinning_title">Przypinanie aplikacji</string>
   <string name="screen_pinning_unlock_none">Zablokuj urządzenie przy odpinaniu</string>
   <string name="screen_pinning_unlock_password">Aby odpiąć, poproś o hasło</string>
   <string name="screen_pinning_unlock_pattern">Aby odpiąć, poproś o wzór odblokowania</string>
