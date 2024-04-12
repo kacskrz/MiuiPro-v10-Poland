@@ -358,6 +358,8 @@
         <item>Honduras</item>
         <item>Suriname</item>
         <item>Ekwador</item>
+        <item>Uzbekistan</item>
+        <item>Kirgistan</item>
      </string-array>
 	 <string-array name="timer_duration">
         <item>Łącznie %1$s</item>
