@@ -715,4 +715,8 @@
         <item quantity="zero">Brak</item>
         <item quantity="one">%1$s</item>
     </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Zmiany zostaną zastosowane za %d sek.</item>
+        <item quantity="one">Zmiany zostaną zastosowane za %d sek.</item>
+    </plurals>
 </resources>
