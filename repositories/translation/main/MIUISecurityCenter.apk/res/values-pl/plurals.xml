@@ -1657,4 +1657,8 @@ Zrób sobie przerwę!"</item>
         <item quantity="few">%d wirusy lub złośliwe aplikacje</item>
         <item quantity="one">%d wirus lub złośliwa aplikacja</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d razy</item>
+        <item quantity="one">%d raz</item>
+    </plurals>
 </resources>

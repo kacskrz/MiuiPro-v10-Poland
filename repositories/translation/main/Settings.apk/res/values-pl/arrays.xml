@@ -1527,4 +1527,9 @@
         <item>Zostaw tylko nagłówki</item>
         <item>Całkowicie usuń</item>
     </string-array>
+    <string-array name="bluetooth_leaudio_mode">
+        <item>Wyłączone</item>
+        <item>Unicast</item>
+        <item>Unicast i Broadcast</item>
+    </string-array>
 </resources>

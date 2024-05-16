@@ -409,4 +409,14 @@
         <item>To zalecana treść.</item>
         <item>To reklama.</item>
     </string-array>
+    <string-array name="qs_record_issue_types">
+        <item>Wydajność</item>
+        <item>Interfejs</item>
+        <item>Bateria</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>Niedostępne</item>
+        <item>Wyłączono</item>
+        <item>Włączono</item>
+    </string-array>
 </resources>
