@@ -3768,8 +3768,6 @@ Zablokowano – za dużo prób logowania."</string>
     <string name="default_error_message">Nieprawidłowe dane wejściowe</string>
     <string name="desktop_mode_maximize_menu_maximize_text">Maksymalizuj ekran</string>
     <string name="desktop_mode_maximize_menu_snap_text">Przyciągnij ekran</string>
-    <string name="drag_shadow_freeform_mini_open">Minipływające okno</string>
-    <string name="drag_shadow_freeform_mini_unsupported">Minipływające okna nie są obsługiwane</string>
     <string name="drag_shadow_pad_casting_open">Otwórz na tablecie</string>
     <string name="drag_shadow_pad_casting_unsupported">Nie można otwierać aplikacji %s na tabletach</string>
     <string name="drag_shadow_pc_casting_open">Otwórz na komputerze</string>
