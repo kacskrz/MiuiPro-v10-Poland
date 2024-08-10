@@ -507,8 +507,8 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="call_recording">Trwa nagrywanie rozmowy</string>
     <string name="satellite_knew">OK</string>
     <string name="satellite_location_deny_permission_msg">Zezwól na dostęp do lokalizacji, aby włączyć komunikację z satelitą Tiantong</string>
-    <string name="satellite_signal_boost_setting_dialog">Po instalacji i aktywacji wzmacniacz sygnału delikatnie zmieni kąt nachylenia urządzenia względem satelity, poprawiając siłę sygnału i stabilność połączenia w trudnych warunkach atmosferycznych.</string>
-    <string name="satellite_signal_boost_setting_dialog_title">Zainstaluj i zacznij używać wzmacniacza sygnału satelity</string>
+    <string name="satellite_signal_boost_setting_dialog">Jeśli już kupiłeś i zainstalowałeś wzmacniacz, dotknij opcji \"Użyj\". Przy prawidłowym korzystaniu wzmacniacz może poprawić siłę i stabilność sygnału, nawet przy kiepskiej pogodzie. Aby uniknąć potencjalnych zakłóceń, nie wybieraj tej opcji, jeśli jeszcze nie zainstalowałeś wzmacniacza.</string>
+    <string name="satellite_signal_boost_setting_dialog_title">Użyj wzmacniacza sygnału satelity</string>
     <string name="satellite_service_reject_cause_imei">"Numer IMEI urządzenia nie jest zarejestrowany"</string>
     <string name="satellite_service_reject_cause_not_enable_International_roaming">Włącz roaming międzynarodowy</string>
     <string name="satellite_service_reject_cause_not_order_tiantong">Włącz usługi satelity Tiantong</string>
@@ -523,4 +523,6 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="call_recording_disclaimer_title">Informacja</string>
     <string name="flip_rotate_use_handset_or_speaker_text">Obróć, aby użyć opcji głośnika</string>
     <string name="start_call_record">Start</string>
+    <string name="satellite_ok">Użyj</string>
+    <string name="satellite_cancel">Anuluj</string>
 </resources>
