@@ -6366,7 +6366,7 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="device_id_reset_msg">Po zresetowaniu z tym urządzeniem zostanie powiązany nowy identyfikator.</string>
     <string name="device_id_str">Obecny identyfikator śledzenia: %s</string>
     <string name="device_oaid">Zarządzaj wirtualnym ID</string>
-    <string name="device_oaid_desc">Zamiast Twojego unikatowego identyfikatora, MIUI dostarczy wirtualny identyfikator (OAID) do zainstalowanych aplikacji. Uniemożliwia on aplikacjom śledzenie Twoich działań i preferencji oraz chroni Twoją prywatność.</string>
+    <string name="device_oaid_desc">Zamiast Twojego unikatowego identyfikatora, system dostarczy wirtualny identyfikator (OAID) do zainstalowanych aplikacji. Uniemożliwia on aplikacjom śledzenie Twoich działań i preferencji oraz chroni Twoją prywatność.</string>
     <string name="device_oaid_title">Wirtualne ID</string>
     <string name="oaid_apps_summary">Zezwól lub ogranicz dostęp dla aplikacji</string>
     <string name="oaid_string">"Obecne wirtualne ID:
@@ -6388,4 +6388,16 @@ Przytrzymaj pasek, aby przesuwać okno."</string>
     <string name="superpower_notification_low_temp_summary">Tryb wytrzymałości na zimno może zaoszczędzić więcej baterii, gdy włączone jest Ultraoszczędzanie baterii, a temperatura otoczenia jest bardzo niska</string>
     <string name="superpower_notification_low_temp_title">Włączyć Ultraoszczędzanie baterii?</string>
     <string name="superpower_progress_low_temp_content">Włączanie Trybu wytrzymałości na zimno…</string>
+    <string name="app_powerkeeper_config_description">System rozpozna aplikacje służące do komunikacji, nawigacji i odtwarzania multimediów, a potem zastosuje odpowiednie środki dot. oszczędzania baterii, aby zabezpieczyć działanie krytycznych aktywności w tle</string>
+    <string name="app_powerkeeper_miui_auto">Oszczędzanie baterii (zalecane)</string>
+    <string name="app_powerkeeper_miui_auto_summary">Rozpoznaj aplikacje i aktywności, aby utrzymać działanie najważniejszych procesów. Oszczędzanie baterii będzie traktować ważne aplikacje selektywnie.</string>
+    <string name="app_powerkeeper_no_restrict">Bez ograniczeń</string>
+    <string name="app_powerkeeper_no_restrict_summary">"Oszczędzanie baterii nie ograniczy aktywności aplikacji"</string>
+    <string name="app_powerkeeper_restrict_bg">Ogranicz w tle</string>
+    <string name="app_powerkeeper_restrict_running">Zamknij aplikację po %d minutach aktywności w tle</string>
+    <string name="button_text_once_accept">Zezwól raz</string>
+    <string name="config_restrict_running_warning">Jeśli przejdziesz dalej, cała aktywność aplikacji w tle zostanie zatrzymana, co może mieć wpływ na jej funkcje. Kontynuować mimo to?</string>
+    <string name="gamebox_hangup_new">Wyłącz ekran</string>
+    <string name="gb_predownload_noti_small_size_message">"Pobrano %2$1.2f MB nowej zawartości. Będziesz mógł z niej korzystać po wydaniu nowej wersji."</string>
+    <string name="pc_misight_reminder_check">Wyświetl</string>
 </resources>
