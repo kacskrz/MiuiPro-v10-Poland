@@ -1706,7 +1706,7 @@ aby spersonalizować Galerię"</string>
   <string name="file_sending">Wysyłanie plików…</string>
   <string name="functions_are_being_developed">Ta funkcja będzie dostępna wkrótce. Bądź czujny!</string>
   <string name="pc_device_model_name">Komputer</string>
-  <string name="scanning_device_tips">Szukanie urządzeń w pobliżu… Upewnij się, że inne urządzenie ma włączoną widoczność dla innych urządzeń.</string>
+  <string name="scanning_device_tips"><Data>Wyszukiwanie urządzeń w pobliżu. Druga osoba musi włączyć funkcję Xiaomi Share w Centrum funkcji. &lt;a>Dowiedz się więcej&lt;/a></Data>.</string>
   <string name="send_files_to">Wyślij elementy do...</string>
   <string name="throwing_print">Drukuj</string>
   <string name="throwing_screen">Projekcja</string>
@@ -3955,4 +3955,5 @@ Spróbuj utworzyć obraz SI za pomocą innych zdjęć."</string>
     <string name="multiwindow_not_support_camera">"Nie można użyć aparatu w trybie wielu okien"</string>
     <string name="today_of_year_next_day">Następny dzień</string>
     <string name="today_of_year_pre_day">Poprzedni dzień</string>
+    <string name="google_banner_upgrade_space_low_des">Galeria nie wykona kopii zdjęć i filmów, gdy skończy się miejsce</string>
 </resources>
