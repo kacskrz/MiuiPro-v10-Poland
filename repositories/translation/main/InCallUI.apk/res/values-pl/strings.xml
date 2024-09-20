@@ -525,4 +525,6 @@ Utrzymuj urządzenie w tym położeniu"</string>
     <string name="start_call_record">Start</string>
     <string name="satellite_ok">Użyj</string>
     <string name="satellite_cancel">Anuluj</string>
+    <string name="focus_notification_in_calling">Trwa rozmowa</string>
+    <string name="on_call_recording">Nagrywanie</string>
 </resources>
