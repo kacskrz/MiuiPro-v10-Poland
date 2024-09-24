@@ -286,4 +286,22 @@
         <item quantity="other">"Nie włączono synchronizacji %s elementów"</item>
         <item quantity="one">"Nie włączono synchronizacji %s elementu"</item>
     </plurals>
+    <plurals name="e2ee_device_verification_num">
+        <item quantity="other">%s niezweryfikowanych urządzeń</item>
+        <item quantity="few">%s niezweryfikowane urządzenia</item>
+        <item quantity="one">%s niezweryfikowane urządzenie</item>
+    </plurals>
+    <plurals name="local_lockscreen_error_hint_retry">
+        <item quantity="other">Zbyt wiele prób. Spróbuj ponownie za %s sekund.</item>
+        <item quantity="few">Zbyt wiele prób. Spróbuj ponownie za %s sekundy.</item>
+        <item quantity="one">Zbyt wiele prób. Spróbuj ponownie za %s sekundę.</item>
+    </plurals>
+    <plurals name="other_lockscreen_error_hint_retry">
+        <item quantity="other">Zbyt wiele prób. Spróbuj ponownie za %s dni.</item>
+        <item quantity="one">Zbyt wiele prób. Spróbuj ponownie za %s dzień.</item>
+    </plurals>
+    <plurals name="verify_open_SMS_dialog_positive_btn_timer">
+        <item quantity="other">Wyślij nowy kod (%s s)</item>
+        <item quantity="one">Wyślij nowy kod (%s s)</item>
+    </plurals>
 </resources>

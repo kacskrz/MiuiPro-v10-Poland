@@ -683,4 +683,11 @@ z przedniego aparatu"</string>
   <string name="ability_dialog_button">OK</string>
   <string name="ability_dialog_text">Ze względu na rozmiar ekranu niektóre aplikacje mogą wyświetlać się niepoprawnie na zewnętrznym ekranie.</string>
   <string name="ability_dialog_title">Uwaga</string>
+    <string name="global_help">Nie można znaleźć urządzenia</string>
+    <string name="motorola_phone">Telefon Motorola</string>
+    <string name="nio_phone">Telefon NIO</string>
+    <string name="projection_disable_camera_toast">Ta aplikacja nie pozwala na korzystanie z aparatu innego połączonego urządzenia podczas projekcji. Przełącz się na swój telefon.</string>
+    <string name="super_wallpaper_list_label">Supertapety</string>
+    <string name="wallpaper_glazed_valley_title">Szkło</string>
+    <string name="wallpaper_softlight_title">Miękkie światło</string>
 </resources>

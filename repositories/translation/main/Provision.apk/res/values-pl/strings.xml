@@ -643,4 +643,9 @@ Funkcje mogą się zmienić. Niektóre z nich mogą nie być dostępne na wszyst
     <string name="kind_tip_subtitle">To urządzenie posiada rozkładany ekran. Aby uniknąć jego uszkodzenia i mieć pewność, że działa on normalnie, postępuj zgodnie z naszymi wskazówkami.</string>
     <string name="kind_tip_title">Uwaga</string>
     <string name="startup_page_text_hint">Rozłóż, aby aktywować urządzenie</string>
+    <string name="require_telephone_imei">Odczyt IMEI i IMSI</string>
+    <string name="require_telephone_imei_summary">W celu uzyskania numeru IMEI</string>
+    <string name="require_telephone_location">Dostęp do lokalizacji</string>
+    <string name="require_telephone_location_summary">Aby uzyskać przybliżoną lokalizację i dostarczać usługi optymalizacji sieci oparte na lokalizacji</string>
+    <string name="require_telephone_statement">Aby dostarczać podstawowe usługi, wymagane są następujące uprawnienia:</string>
 </resources>

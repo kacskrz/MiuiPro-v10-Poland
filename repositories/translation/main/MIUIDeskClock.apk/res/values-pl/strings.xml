@@ -632,4 +632,8 @@ d.MM."</string>
   <string name="upcoming_alarm_new">Nadchodzący alarm: %s</string>
   <string name="alarm_repeat_self_define">Dostosuj</string>
   <string name="read_device_internal_storage">Dostęp do pamięci</string>
+    <string name="all_alarm_close">Alarmy są wyłączone</string>
+    <string name="clock_tab_name">Zegar</string>
+    <string name="world_edit_local_default">"Czas lokalny | "</string>
+    <string name="worldcolock_time_date_new">d.MM.</string>
 </resources>

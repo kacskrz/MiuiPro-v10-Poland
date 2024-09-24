@@ -38,4 +38,26 @@ Na pewno to zrobić?"</string>
   <string name="back_button_label">Wstecz</string>
   <string name="hide_password_talkback">Ukryj hasło</string>
   <string name="show_password_talkback">Pokaż hasło</string>
+    <string name="android.credentials.TYPE_PASSWORD_CREDENTIAL">Hasło</string>
+    <string name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">Klucz</string>
+    <string name="continuity_credential_dialog_btn_positive">Zezwól</string>
+    <string name="continuity_credential_dialog_content">%1$s żąda użycia Twojego klucza \"%2$s\" do zalogowania się do %3$s.</string>
+    <string name="continuity_credential_dialog_title">Zezwól %s na użycie klucza</string>
+    <string name="continuity_credential_notification_content">%s żąda weryfikacji klucza</string>
+    <string name="continuity_credential_request_expire">Weryfikacja wygasła</string>
+    <string name="create_creadential_need_enrolled_fingerprints_desc">Aby użyć klucza, dodaj swój odcisk palca.</string>
+    <string name="create_creadential_need_enrolled_fingerprints_title">Dodaj odcisk palca</string>
+    <string name="create_creadential_need_open_sync_desc">Włącz Menedżer haseł, aby zarządzać i używać kluczy na wszystkich Twoich urządzeniach Xiaomi.</string>
+    <string name="create_creadential_need_open_sync_title">Włącz Menedżer haseł</string>
+    <string name="create_time">Utworzono</string>
+    <string name="credential_desc">Klucz</string>
+    <string name="credential_manage_desc">Klucze dostępu pozwalają na logowanie się szybciej i w bardziej bezpieczny sposób niż tradycyjne metody logowania. Ten klucz jest powiązany ze Twoim odciskiem palca z tego urządzenia i synchronizowany pomiędzy urządzeniami za pomocą usług Chmury Xiaomi.</string>
+    <string name="credential_notification_login_account_desc">Aby użyć klucza, zaloguj się na swoje konto Xiaomi.</string>
+    <string name="credential_notification_open_sync_desc">Aby użyć klucza, włącz Menedżer haseł.</string>
+    <string name="del_credential_btn_text">Usuń</string>
+    <string name="del_credential_dialog_title">Usuń klucz</string>
+    <string name="del_credential_err_notify">Nie udało się usunąć. Spróbuj ponownie.</string>
+    <string name="del_credential_progress_text">Usuwanie…</string>
+    <string name="open">Włącz</string>
+    <string name="setting">Dodaj</string>
 </resources>

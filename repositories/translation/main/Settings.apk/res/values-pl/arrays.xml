@@ -1541,4 +1541,15 @@
         <item>Wysyłaj nazwę urządzenia do sieci</item>
         <item>Nie wysyłaj nazwy urządzenia do sieci</item>
     </string-array>
+    <string-array name="zen_mode_icon_options_descriptions">
+        <item>Pora snu</item>
+        <item>Prowadzenie samochodu</item>
+        <item>Wciągająca rozgrywka</item>
+        <item>Zarządzane</item>
+        <item>Gwiazdka</item>
+        <item>Kalendarz</item>
+        <item>Godzina</item>
+        <item>Teatr</item>
+        <item>Kwiat</item>
+    </string-array>
 </resources>

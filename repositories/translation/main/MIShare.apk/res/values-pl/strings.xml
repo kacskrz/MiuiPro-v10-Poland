@@ -300,4 +300,8 @@ Przed użyciem tej aplikacji musisz nadać następujące uprawnienia, a także z
     <string name="international_privacy_dialog_agree">Zgadzam się</string>
     <string name="international_privacy_dialog_content">"Podczas korzystania z tej aplikacji Xiaomi musi gromadzić niezbędne informacje, aby łączyć się z urządzeniami i przesyłać pliki. Jeśli nie chcesz dostarczyć tych danych, Xiaomi może nie być w stanie dostarczyć Ci odpowiednich usług lub odpowiedzieć na Twoje pytania. Możesz wycofać swoją zgodę w dowolnej chwili w menu Prywatność > Wycofanie zgody."</string>
     <string name="international_privacy_dialog_disagree">"Nie zgadzam się"</string>
+    <string name="global_help">Pomoc</string>
+    <string name="guide_summary_1_lyra">Xiaomi Share można włączyć w Centrum funkcji</string>
+    <string name="switch_mode_close">Wyłączone</string>
+    <string name="transfer_to_different_account_summary">Upewnij się, że funkcja Xiaomi Share jest włączona w Centrum funkcji. Urządzenie będzie wykrywalne dla innych użytkowników przez %d min.</string>
 </resources>

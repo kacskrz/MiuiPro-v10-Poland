@@ -1184,4 +1184,5 @@ Przeczytaj i zaakceptuj warunki nowej wersji %3$s, zanim przejdziesz dalej."</st
     <string name="toast_upload_screenrecorder">Prześlij nagranie problemu w celu jego analizy</string>
     <string name="special_log_recorder">Nagraj ekran</string>
     <string name="special_log_recorder_hint">Automatycznie zapisz nagranie ekranu po wygenerowaniu logów</string>
+    <string name="miui_feedback_main_item_support">Wsparcie</string>
 </resources>

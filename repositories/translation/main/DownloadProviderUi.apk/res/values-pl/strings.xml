@@ -617,4 +617,9 @@ Wyślij ten kod do wsparcia technicznego."</string>
   <string name="miuix_navigator_multiple_choice">Wybierz</string>
   <string name="miuix_navigator_navigator_switch_description">Ukryj pasek boczny</string>
   <string name="download_waiting">Oczekuje</string>
+    <string name="download_status">Stan pobierania</string>
+    <string name="feature_page_message">Nie można korzystać z tej wersji aplikacji. Odinstaluj ją i pobierz nową wersję z GetApps.</string>
+    <string name="feature_page_uninstall">Odinstaluj</string>
+    <string name="miuix_navigator_category_group_collapse">Zwiń</string>
+    <string name="miuix_navigator_category_group_expand">Rozwiń</string>
 </resources>

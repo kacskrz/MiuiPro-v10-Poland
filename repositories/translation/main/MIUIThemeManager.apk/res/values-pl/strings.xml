@@ -1666,4 +1666,10 @@ Dotknij, aby go wyłączyć."</string>
     <string name="local_mode_close_tip">Aby ustawić tę tapetę, potrzebne jest połączenie z Internetem. Wymaga to wyłączenia trybu offline. Czy chcesz wyłączyć ten tryb?</string>
     <string name="out_wallpaper_list">Tapeta ekranu zewnętrznego</string>
     <string name="rotate">Obróć</string>
+    <string name="apply_wallpaper_warning_when_use_super_wallpaper">Aby nadal używać Supertapet, zaktualizuj je do najnowszej wersji.</string>
+    <string name="new_version_install_dia_button_confirm">Aktualizuj</string>
+    <string name="new_version_install_dia_message">Dostępna jest nowa wersja. Zaktualizować?</string>
+    <string name="new_version_install_dia_title">Dostępna aktualizacja</string>
+    <string name="update_now">Aktualizuj</string>
+    <string name="warning_update_super_wallpaper">Zaktualizuj Supertapety</string>
 </resources>

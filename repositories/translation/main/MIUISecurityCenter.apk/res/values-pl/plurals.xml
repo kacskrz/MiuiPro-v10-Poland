@@ -1676,4 +1676,8 @@ Zrób sobie przerwę!"</item>
 · Poprawione treści nie będą dostępne, gdy włączone jest Oszczędzanie baterii lub gdy urządzenie jest przegrzane.
 · Lepszy klatkaż działa najlepiej, gdy gra wyświetla co najmniej %d klatki na sekundę."</item>
     </plurals>
+    <plurals name="permission_usage_terminal_file">
+        <item quantity="other">%1$s | Uzyskano dostęp do plików na urządzeniu %2$d razy</item>
+        <item quantity="one">%1$s | Uzyskano dostęp do plików na urządzeniu %2$d raz</item>
+    </plurals>
 </resources>

@@ -2588,4 +2588,8 @@ Na tym urządzeniu wyłączono sieć 2G, co może mieć wpływ na Twoją łączn
     <string name="filp_auto_hangup_call_summary">Działa tylko z podłączonymi słuchawkami Bluetooth bądź przewodowymi</string>
     <string name="filp_auto_hangup_call_title">Złóż, aby zakończyć połączenie</string>
     <string name="start_call_record">Start</string>
+    <string name="phone_account_no_config_mobile_networks">Właściciel urządzenia ograniczył możliwość zmieniania ustawień sieci komórkowej.</string>
+    <string name="speed_limit_sim_notification">Limit prędkości danych</string>
+    <string name="speed_limit_sim_summary">Przekroczono limit danych Twojego planu. Prędkość danych się zmniejszy. Skontaktuj się z operatorem, aby uzyskać więcej szczegółów.</string>
+    <string name="speed_limit_sim_title">Prędkość danych ograniczona</string>
 </resources>

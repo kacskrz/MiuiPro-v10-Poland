@@ -999,4 +999,9 @@ Zwiększone bezpieczeństwo."</string>
   <string name="global_shelf">Wyszukiwanie aplikacji</string>
   <string name="home_gesture_global_shelf">Wyszukiwanie aplikacji</string>
   <string name="home_gesture_content_center_settings">Ustawienia Centrum treści</string>
+    <string name="fs_gesture_final_see_more">Zobacz więcej wersji demonstracyjnych w Ustawieniach > Ekran główny > Nawigacja systemowa</string>
+    <string name="fs_gesture_final_summary">Możesz przywrócić korzystanie z przycisków w Ustawieniach > Ekran główny > Nawigacja systemowa</string>
+    <string name="how_to_switch_recents">Otwórz Ostatnie aplikacje</string>
+    <string name="how_to_use_app_quick_summary">Przeciągnij w lewo lub w prawo od paska na dole ekranu lub od dołu ekranu</string>
+    <string name="third_party_wallpaper_not_support_effect">Tapety stron trzecich nie wspierają efektów</string>
 </resources>

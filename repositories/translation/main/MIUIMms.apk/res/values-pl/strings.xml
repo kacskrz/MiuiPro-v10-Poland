@@ -1477,4 +1477,17 @@ Aby kontrolować długość wiadomości, pobrane zostanie tylko pierwsze 50 znak
     <string name="wrong_mms_version_msg">"Zainstaluj wersję aplikacji SMS kompatybilną ze Twoim urządzeniem i systemem."</string>
     <string name="wrong_mms_version_title">Błąd wersji</string>
     <string name="send_fail">"Nie udało się wysłać"</string>
+    <string name="context_menu_access_link">Otwórz adres URL</string>
+    <string name="context_menu_call_phone">Zadzwoń</string>
+    <string name="context_menu_copy_link">Kopiuj adres URL</string>
+    <string name="file_name_too_long">Nie udało się wysłać. Nazwa pliku jest za długa.</string>
+    <string name="mms_satellite_privacy_policy">Polityka prywatności Wiadomości satelitarnych</string>
+    <string name="no_conversation_selected">Wybierz konwersację, aby wyświetlić</string>
+    <string name="perm_purpose_mms_account">Aby uzyskać informacje o koncie</string>
+    <string name="pref_summary_off_system_mms_priority">Użyj aplikacji firm trzecich do wysyłania i otrzymywania MMS-ów</string>
+    <string name="pref_summary_on_system_mms_priority">Ustaw aplikację SMS od Xiaomi jako domyślną aplikację do wysyłania i otrzymywania MMS-ów</string>
+    <string name="pref_title_system_mms_priority">Ustaw jako domyślną</string>
+    <string name="smart_msg_main_purpose">Inteligentne wiadomości dostarczają rozpoznawanie ID nadawcy i usługi inteligentnych menu.</string>
+    <string name="smart_msg_upgrade_main_purpose">Inteligentne wiadomości działają teraz z MMS-ami. Będziesz w stanie używać więcej usług dostarczanych przez nadawców, a także otrzymywać wiadomości w nowych formatach.</string>
+    <string name="yellowpage_recommend_msg">Sprawdź funkcje SMS-ów od Xiaomi</string>
 </resources>

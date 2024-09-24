@@ -1018,4 +1018,9 @@ aby Xiaomi HyperMind mógł się uczyć i tworzyć wzorce"</string>
     <string name="circulate_car_card_use_camera">Użyj kamery pojazdu</string>
     <string name="circulate_car_card_using_camera">Używanie kamery pojazdu</string>
     <string name="device_permission_dialog_message_car">Możesz zezwolić na dostęp do kamery na %s w Ustawieniach > System > Zarządzaj aplikacjami > Specjalne uprawnienia > Łączność między urządzeniami.</string>
+    <string name="camera_permission_dialog_message">Zezwól tej aplikacji na korzystanie z aparatu tego urządzenia. Możesz przyznać to uprawnienie w Ustawieniach.</string>
+    <string name="camera_permission_dialog_negative">Anuluj</string>
+    <string name="camera_permission_dialog_positive">Ustawienia</string>
+    <string name="camera_permission_dialog_title">Wymagane uprawnienia</string>
+    <string name="camera_permission_timeout_toast">Przekroczono czas żądania. Spróbuj ponownie.</string>
 </resources>
