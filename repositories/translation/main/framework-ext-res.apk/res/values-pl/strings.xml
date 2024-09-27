@@ -690,4 +690,8 @@ z przedniego aparatu"</string>
     <string name="super_wallpaper_list_label">Supertapety</string>
     <string name="wallpaper_glazed_valley_title">Szkło</string>
     <string name="wallpaper_softlight_title">Miękkie światło</string>
+    <string name="screen_on_proximity_sensor_summary_text">"Jak usunąć tę informację?
+%1$s. Usuń przeszkody z obszaru zaznaczonego na czerwono.
+%2$s. Jeśli to nie pomoże, naciśnij przycisk Głośność+, aby wyłączyć Tryb kieszonkowy."</string>
+    <string name="screen_on_proximity_sensor_title">Aktywny Tryb kieszonkowy</string>
 </resources>

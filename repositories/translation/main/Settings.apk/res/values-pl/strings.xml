@@ -11915,4 +11915,5 @@ Każdy, kto połączy Twoje urządzenie z komputerem lub zainstaluje na urządz
     <string name="private_space_delete_summary">"Twoja przestrzeń prywatna zostanie trwale usunięta z urządzenia. 
 
 Wszystkie znajdujące się w niej aplikacje i ich dane również zostaną trwale usunięte z "<b>pamięci wewnętrznej</b> telefonu.</string>
+    <string name="super_volume_tip">Maksymalna głośność %s</string>
 </resources>
